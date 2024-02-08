@@ -7,7 +7,7 @@ The Content Analysis.ipynb notebook contains the code to perform topic modelling
 
 The Impact Analysis.ipynb contains the code to conduct a scientometric analysis. 
 
-The Data structure is as folows:
+The Data structure is as follows:
 
 Data contains two folders: Content and Impact. 
 
