@@ -1,0 +1,1866 @@
+ 
+ 
+ 
+ 
+Physical Activity and Health -Related Quality of Life in Children and Adolescents : A Systematic 
+Review and Meta -Analysis  
+ 
+By 
+Arwen M. Marker  
+ 
+Submitted to the graduate degree program in Clinical Child Psychology and the Graduate 
+Faculty of the University of Kansas in partial fulfillment of the requirements for the degree of 
+Master of Arts.  
+ 
+ 
+ 
+________________________________        
+    Chairperson Ric G. Steele, Ph.D.,  ABPP             
+ 
+________________________________        
+Christopher C. Cushing, Ph.D.  
+________________________________        
+Matt hew W.  Mosconi, Ph.D.  
+ 
+ 
+ 
+ 
+Date Defended: September 6, 2017  
+ 
+ 
+ii 
+ 
+ 
+ 
+ 
+ 
+ 
+The Thesis Committee for Arwen M. Marker  
+certifies that this is the approved version of the following thesis:  
+ 
+ 
+ 
+Physical Activity and Health -Related Quality of Life in Children and Adolescents : A Systematic 
+Review and Meta -Analysis  
+ 
+ 
+ 
+ 
+ 
+      ________________________________  
+ Chairperson Ric G. Steele, Ph.D., A BPP 
+ 
+ 
+       
+Date Approved: September 1 8, 2017  
+ 
+ 
+ 
+ 
+iii 
+ 
+Abstract  
+ Physical activity is associa ted with broad physical and psychological benefits in children 
+and adolescents.  One construct which may universally characterize functioning across various 
+pediatric populations is health -related quality of life (HRQOL).  A number of studies have found 
+positive associations between physical activity and HRQOL; however, to date no systematic 
+review and meta -analysis of physical activity and HRQOL has successfully quantified effects in 
+children an d adolescents .  A systematic search of PubMed, PsycINFO, and ProQuest 
+Dissertation Abstracts  identified 1081 relevant, non -duplicate articles.   Out of these pos sible 
+articles, 33  studies, including both descriptive  and pre-post intervention designs, met inclusion 
+criteria and were included in effect size analyses.  In descriptive  studies, there was a small, 
+positive effect of physical activity on HRQOL based on child -reports ( Hedge’s g = .302, p < 
+.001) and a negligible effect based on parent -proxy reports (Hedge’s g =.115, p =.101).  In 
+intervention studies, there wa s a small, positive effect of  physical activity intervention  on 
+HRQOL based on child -reports ( Hedge’s g = .279, p = .014) and a  medium , positive effect based 
+on parent -proxy reports ( Hedge’s g = .522, p = .012).  However, effects are attenuated by 
+removal of a single intervention study.  Overall, t hese findings supported the primary hypothesis 
+that increased levels of physical activity would be related to better  HRQOL  in youth, although 
+the magnitude of these effects did not represent a minimal clinically i mportant difference 
+(MCID) in most studies .  Hypothesized moderators, including chronic disease status, weight 
+status, sex, and study rigor, did not  significantly moderate the relationship between physical 
+activity and HRQOL.  Exploratory analyses did not find intervention contact hours or age to 
+moderate the effect of exercise on HRQOL.  Future studies are needed to assess HRQOL in 
+youth before and after high -quality exercise interventions  to quantify the type, frequency, 
+iv 
+ 
+duration, and intensity of physica l activity needed to change HRQOL to a clinically meaningful 
+level.  Although effects were small and analyses were limited, this study represents the first 
+meta -analysis of physical activity and HRQOL across pediatric populations and may serve as a 
+guide f or future studies.  
+ 
+Keywords:  physical activity, health -related quality of life, child, adolescent  
+ 
+ 
+  
+v 
+ 
+Acknowledgements  
+Special thank you to Amy Noser for reviewing full text articles and providing reliability 
+coding.  Thank you to Cody Campbell for scree ning article abstracts based on 
+inclusion/exclusion criteria.  Finally, thank you to Dr. Ric Steele for your mentorship throughout 
+this project, and to the rest of the Pediatric Health Promotion and Maintenance Laboratory for 
+being invaluable resources whi le conducting this meta -analysis.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+vi 
+ 
+Table of Contents  
+Introduction  ................................ ................................ ................................ ................................ ..... 1 
+Physical Activity and HRQOL  ................................ ................................ ...........................  3 
+Moderators  ................................ ................................ ................................ ..........................  6 
+Summary  ................................ ................................ ................................ .............................  9 
+Methods ................................ ................................ ................................ ................................ .........  10 
+Literature Search  ................................ ................................ ................................ ...............  10 
+Inclusion/Exclusion Criteria  ................................ ................................ .............................  10 
+Coding of Studies  ................................ ................................ ................................ ..............  12 
+Study Rigor  ................................ ................................ ................................ .......................  12 
+Data Analysis  ................................ ................................ ................................ ....................  13 
+Results  ................................ ................................ ................................ ................................ ...........  14 
+Search Strateg y ................................ ................................ ................................ .................  14 
+Description of Included Studies  ................................ ................................ ........................  17 
+Effect Sizes  ................................ ................................ ................................ .......................  29 
+Hypothesize d Moderators  ................................ ................................ ................................ . 33 
+Exploratory Analyses  ................................ ................................ ................................ ........  35 
+Publication Bias  ................................ ................................ ................................ ................  37 
+Discuss ion ................................ ................................ ................................ ................................ ..... 40 
+Strengths and Limitations  ................................ ................................ ................................ . 49 
+Conclusion  ................................ ................................ ................................ ........................  51 
+References  ................................ ................................ ................................ ................................ ..... 53 
+Appendix . ................................ ................................ ................................ ................................ ...... 71 
+ 
+1 
+ 
+Physical activity and health -related quality of life in children and adolescents : A systematic  
+review and meta -analysis  
+ The U.S. Department of Heal th and Human Services (2008) and the World Health 
+Organization (2010) recommend that c hildren and adolescents achieve 60 minutes of moderate -
+to-vigorous physical activity  (MVPA)  each day to optimize health benefits.  Unfortunately, only 
+a quarter of all U. S. children and adolescents currently meet these guidelines (Dentro et al., 
+2014).  Physical activity is associated with  a number of  positive physical health outcomes , such 
+as maintaining a healthy weight  (Janssen et al., 2005) , developing strong bones  (Boreham & 
+McKay, 2011) , and reducing the risk of chronic disease s and some cancers (US Department of 
+Health and Human Services , 2008 ; Ekelund et al., 2012; Centers for Disease Control,  2015 ).  For 
+example, a  recent meta -analysis of objectively measured physi cal activity found higher levels of 
+child MVPA to be  associated with significant reductions in risk fact ors for cardiometabolic 
+disease , including waist circumference, systolic blood pressure, triglycerides, high-density 
+lipoprotein cholesterol, and insuli n levels  (Ekelund et al., 2012 ).  Mirroring the literature on 
+physical health, physical activity in children and adolescents is also linked to improved mental 
+health  functioning, including  reduced depressive and anxiety symptoms  (Larun et al., 2006; 
+Brown et al., 2013), improv ed cognitive function, and increased self -esteem (Biddle & Asare, 
+2011).   
+Beyond these specific  health associations, a number of studies indicate an association 
+between physical activity  and health -related quality of life (HRQOL).  HRQOL is a description  
+of holistic he alth that takes into account an  individual’s perceptions of physical, mental, and 
+social functioning (Centers for Disease Control, 2011; Office of Disease Prevention and Health 
+Promotion, 2015 ).  HRQOL is a patient -report ed outcome  that measures global health across 
+2 
+ 
+disorders and disciplines, mirroring  the Patient -Reported Outcomes Measurement Information 
+System ( PROMIS ) initiative developed by the National Institutes of Health to  improve patient -
+provider communication and  disease management ( National Institutes of Health , 2017 ).  
+HRQOL is a “unique indicator” of the impact of disease on individuals, which can be used to 
+improve treatment effectiveness, patient -provider communication, clinical decision -making, and 
+patient s atisfaction (Acquadro et al., 2003 , p. 524 ; Varni et al., 2005).  HRQOL provides 
+interdisciplinary researchers and clinicians with a conceptual understanding of the subjective 
+burdens associated with individual patient health  (Centers for Disease Control , 2011).   
+Importantly, HRQOL helps to quantify individual  perceptions about  functioning , in 
+addition to  objective functional ability  (Tsiros et al., 2009).  One may assume that a pediatric 
+cancer patient currently undergoing chemotherapy  would report  poorer  HRQOL than a child 
+struggling with excess weight that limits his or her mobility .  However, this assumption does not 
+take into account the individual’s subj ective experiences and how these experiences  impact 
+overall functioning.  According to Tsiros et al . (2009) : 
+A health condition may cause significant impairments in body functions, although the 
+individual may still be able to participate fully in community life and report positive 
+HRQOL. In contrast, others with minor physical impairments may report sig nificant 
+participation r estrictions and impaired HRQOL  (p. 388) . 
+In fact, severely obese children report levels of HRQOL similar to pediatric cancer patients  
+(Schwimmer et al., 2003) , illustrating the importance of assessing subjective  perceptions  of 
+quali ty of life  as a measure of global functioning .   
+Notably , HRQOL can be used  as a universal  construct to describe global functioning 
+across disorders and disciplines , allowing the comparison of functioning across diverse 
+3 
+ 
+populations .  A number of HRQOL meas ures exist that are salient and  easy to use in a variety of 
+settings  (Palermo et al., 2008 b).  For instance, a single -item measure of HRQOL (i.e. “In general, 
+how would you rate your health?”) can differentiate a two-fold increase in mortality risk  in 
+adults (DeSalvo et al ., 2006) , demonstrating  how a  simple  HRQOL measure can provide  
+invaluable information for research and clinical applications .  
+Physical Activity and HRQOL  
+As a measure of perceived health, HRQOL should be highly related to the physical and  
+psychosocial health outcomes that are positively impacted by physical activity  and described 
+above.  At least one team of researchers have proposed a model for how physical activity may 
+act through neurobiological, psychosocial, and/or behavioral pathways  to affect global well -
+being (Lubans et al., 2016).  Lubans and colleagues (2016) suggested that being physically active 
+releases neurotransmitters, improves mood, builds social connectedness, and increases sleep 
+quality (as well as a variety of other mech anistic pathways), which interact to result in positive 
+downstream effects on mental health and subjective well -being.   
+Several  studies have assessed the associations between HRQOL and physical activity in 
+children and adolescents, using both cross -sectio nal and longitudinal approaches.   For example, 
+one large cross -sectional study of primary and high school students found an association  between 
+greater self -reported physical activity in the past week and increased self-reported HRQOL 
+(Chen et al., 2014).  Similarly, Dalton et al. (2011) reported a positive association between 
+recalled physical activity in the past week and global HRQOL among a sample of children in 
+middle school.   Consistent with these examples, the literature  generally indicates that higher 
+levels of physical activity are positively associated with higher HRQOL  ratings  in children and 
+adolescents  (Granger et al., 2017; Herman et al., 2014; Kantor et al., 2015; Lacy et al., 2012 ; 
+4 
+ 
+Lubans et al., 2016; Poitras et al., 2016; Wong et al., 2017 ).  There may even be a dose -response 
+relationship between physical activity and HRQOL in children, with 12 year -olds reporting 1.5 -
+2.6 unit increases in physical functioning HRQOL for each increased hour spent being physically 
+active (Gopinath et al., 2012 ).   
+Positive relationships between physical activity and HRQOL in youth appear to be 
+replicated in longitudinal studies  as well .  For example, a longitudinal study of adolescents found 
+those who maintained the highest levels of total physical activity ove r 5 years had significantly 
+higher total, physical, and social HRQOL scores (Gopinath et al., 2012).  Higher baseline levels 
+of HRQOL also predict ed future engagement in physical activity, up to 1 year later, for 
+preadolescent children (Jensen et al., 2014 ).  These positive associations have been replicated 
+across  ethnic groups , with at least one study finding associations between greater physical 
+activity and higher HRQOL in Hispanic elementary school children (Kantor et al., 2015).   
+Although a quantitati ve meta -analy sis was not located , several  related reviews  have 
+examined associations between physical activity and mental health, subjective health, or 
+psychosocial well -being in healthy youth and  adolescents  (Granger et al., 2017; Gu, 2017; 
+Lubans et al.,  2016; Poitras et al., 2016; Wong et al., 2017).  Consistent with the literature 
+summarized  above, these reviews suggest that physical activity is generally related to higher self -
+reported health and psychological well -being ( Granger et al., 2017; Poitras et al., 2016; Wong et 
+al., 2017).  Notably, Granger et al. (2017) found  that physical activity was  positively related to  
+self-reported health status in nine out of eleven studies.  However, only three of the  studies 
+reviewed by Granger et al. (2017)  used v alidated measures of HRQOL, while the rest used visual 
+analog scales or single -item ratings of perceived health.  Wong et al. (2017) also found that more 
+time spent in MVPA was associated with higher HRQOL ratings in adolescents in 13 out of 15 
+5 
+ 
+studies.  However, the reviews described above were limited by a dearth of studies, a lack of 
+objectively measured physical activity, high study heterogeneity, and inconsistent use of 
+HRQOL and physical activi ty measures that restricted authors from determining aggre gate 
+effects (Granger et al., 2017; Lubans et al., 2016; Poitras et al., 2016; Wong et al., 2017).   An 
+additional review was severely limited because it did not  systematically review the literature 
+(Gu, 2017) .   
+The pri mary aim of this meta -analytic study  was to systematically review the literature 
+and summarize the magnitude and direction of associations between physical activity and 
+HRQOL in youth.  Meta-analyses contribute to the advancement of the scientific literature  by 
+combining all published evidenc e on a topic, including contradictory and difficult -to-interpret 
+evidence, into a single, comprehensive analysis  (Card, 2012 ; Chan & Arvey, 2012 ; Haidich, 
+2010 ).  Meta -analyses  provide researchers and clinicians with organized, evidence -backed 
+recommendati ons for direct clinical applications and benchmarks for evaluating future research  
+(Card, 2012) .  A meta -analysis was  especially needed to combine findings about physical 
+activity and HRQOL in youth because research i n this area has focused on diverse, spe cific 
+pediatric populations, such as pediatric cancer survivors and obese youth.  To  date, findings have 
+not been synthesiz ed across these specialty populations, making it difficult to compare the 
+differential  effect s of physical activity  in specific pedia tric populations and  to generalize the 
+effects of physical activity on HRQOL across  youth .  This meta -analysis is especially timely 
+because HRQOL is becoming more widely used as a universal outcome measure of individual 
+functioning across disorders  (Nation al Institutes of Health, 2017) .  Quantifying the magnitude of 
+associations between physical activity and HRQOL across diverse populations of children and 
+adolescents will inform universal interpretations of pediatric functioning in relation to exercise .  
+6 
+ 
+It was hypothesized that youth who we re more p hysically active would report significantly 
+higher HRQOL  across domains  (i.e. HRQOL total score or global rating).  
+Moderators  
+The secondary aim of this review wa s to identify moderators of the relationship betwe en 
+HRQOL and physical activity.  Moderator analyses  investigate disparate outcomes across studies 
+by identifying predictors of relationship complexity that cannot be explained by a simple 
+summary of  overall effects  (Card, 2012).  Previous reviews cited hig h between -study 
+heterogeneity as a limitation, which could indicate the presence of moderators that accounted for 
+study differences (Granger et al., 2017; Poitras et al., 2016; Wong et al., 2017).  Specifically, this 
+review  examined  four a priori  moderator s, which were hypothesized to affect  the association 
+between physical activity and HRQOL  including  chronic disease status, weight status, sex, and 
+study rigor.  
+Chronic Disease Status.   On first glance, it appears that a positive relationship exists 
+between  physical activity and HRQOL for children with chronic conditions .  Previous studies 
+with specific disease populations have found generally positive associations between physical 
+activity and HRQOL  in pediatric cancer patients (Paxton et al., 2010) and chi ldren suffering 
+from chronic pain (Lim et al., 2014; Palermo et al., 2008a) , mirroring associations seen in  
+healthy youth.  Exercise interventions have  been shown to be effective for improving  HRQOL in 
+children and adolescents with cerebral palsy (Verschur en et al., 2007), asthma (Flapper et al., 
+2008), obesity (Knopfli et al., 2008), and depression (Daley et al., 2006; Hughes et al., 2013).  
+However, a dearth  of studies simultaneously investigated associations between HRQOL, 
+physical activity, and health s tatus in both chronically disordered and healthy youth .  Children 
+with chronic health disorders  typically report  lower HRQOL than healthy controls  (Varni et al., 
+7 
+ 
+2007); however, the impact of chronic illness  on the relationship between physical activity an d 
+HRQOL in youth  remains unclear . This review aimed to be the first to examine  the differential 
+impact of physical  activity on HRQOL across variou s chronic illness populations.  Children with 
+physically impairing chronic disorders were predicted to  display  greater improvements in 
+HRQOL after relatively minor increases in physical activ ity, while healthy children would  
+require greater amounts of physical activity to achieve similar chang es in HRQOL.  This 
+prediction was  built on the assumption that children suffering from s erious, chronic impairments 
+would  be more positively impacted by minor returns to normalcy, such as engaging in small 
+increases in physical activity (Speyer et al., 2010); whereas healthy children would  need to 
+engage in higher levels of ph ysical activity (i.e. the recommended amount of 60 minutes of daily 
+MVPA ; U.S. Department of Health and Human Services, 2008; World Health Organization, 
+2010 ) to achieve similar benefits.   
+Weight Status .  Weight status  was proposed as a separate moderator  due to the large 
+proportion of the literature pertaining to HRQOL and physical activity in youth who are 
+overweight or obese.  Similar to other chronic disease populations, y outh with 
+overweight /obesity  consistently report l ower global levels of HRQOL tha n healthy -weight peers 
+(Dalton et al., 2015; Herman et al., 2014; Lacy et al., 2012; Morales et al., 2013; Swallen et al ., 
+2005; Tsiros et al., 2009) and significant improvements in HRQOL following physical activity 
+intervention s (Finne et al., 2013; Knopf li et al., 2008).  However, children with 
+overweight/obesity may experience additional stressors ( e.g. teasing) that can further reduce  
+HRQOL scores at all levels of activity (Jensen et al., 2014).  An evaluation of weight statu s as an 
+independent moderato r was  needed because  many physical activity interventions in youth with 
+overweight /obesity  use control groups of only youth who are overweight /obese , thus failing to 
+8 
+ 
+show  whether children of healthy weight would experience a similar rate and magnitude of 
+change in HRQOL.  One study which did compare  youth with overweight/obesity  and healthy 
+controls found that weight status explained up to a third  of the variance in HRQOL, thus 
+highlighting the importance of including this moderator  (de Beer et al., 2007).  It was  
+hypothesize d that children with overweight /obesity  would  experience significantly greater 
+changes in HRQOL from smaller alterations in physical activity than children of healthy weight.   
+Sex.  Based on conflicting research about  the impact of gend er on both  physical activity 
+and HRQOL  (Dalton et al., 2015; Ekelund et al., 2012 ; Herman et al., 2014; Lacy et al., 2012 ; 
+Swallen et al., 2005 ; Kantor et al., 2015 ), sex was proposed as a nother potential moderator .  
+Typical patterns of physical activity m ay vary across sex, with boys  engag ing in significantly 
+more MVPA than girls (Ekelund et al., 2012).  Differences in amount of physical activity may 
+relate to findings that both obese and healthy weight girls report ed poorer health  outcomes  and 
+lower HRQOL  than boys in some studies (Dalton et al., 2015; Lacy et al., 2012 ; Swallen et al., 
+2005 ).  However, girls reported  higher general, physical, emotional, and social HRQOL in at 
+least one study  (Kantor et al., 2015).  In addition , some evidence suggests that  boys may be more 
+sensitive to change s in physical activity  (Granger et al., 2017).  In one  study by Herman and 
+colleagues (2014),  school -aged boys who did not meet physical acti vity guidelines or who fell in  
+the lowest tertile of reported activity were 2 and 6 times  more like ly, respectively,  to report lower 
+HRQOL scores ; this effect was not found for girls .  Unfortunately, these studies did not clarify  
+how HRQOL may vary by sex, and how the relationship betwee n physical activity and HRQOL 
+is affected  by sex.  Therefore, sex was included as an exploratory  moderator , but no explicit 
+hypothes es were proposed for the m agnitude or direction of sex as a moderator between physical 
+activity and HRQOL . 
+9 
+ 
+Study Rigor.   The final moderator evaluated was study  rigor .  Child and adolescent self -
+reported physical activity shows only low -to-moderate correlations ( r = 0.3 -0.4) with objective 
+measures of physical activity (i.e. direct observation, accelerometry) and self -reporters often 
+overestimate the duration and intensity  of exercise (Ekelund et al. , 2011) , indicating that studies 
+comparing HRQOL with self -reported physical activity may report artificially inflated results.  
+Conversely, r andomized controlled designs  were expected to have lower between -study 
+variability in outcomes than less tightly controlled designs (i.e. cross -sectional, matched groups).  
+To account for the effect of these aspects of s tudy design, rigor was assessed using a version of 
+the 18 -item rigor assessment created by Lundahl and colleagues (2010) a nd adapted by Mitchell, 
+Amaro, and Steele  (2016 ).  This measure assigns points to studies based on design strengths, 
+with higher scores indicating better study quality (Lundahl et al., 2010).  A composite score of 
+study rigor was used to encompass expected  differences based on self-reported versus objective 
+physical activity measures and other aspects of study design.  Studies of higher quality , including 
+objectively measured physical activity  and more rigorous  designs,  were hypothesized to  show 
+smaller ass ociations between physical activity and HRQOL , due to the greater homogeneity of 
+findings expected in tightly controlled, rigorous studies  and smaller expected effects of objective 
+measures . 
+Summary  
+The present study aim ed to synthesize the current literat ure on physical activity and 
+HRQ OL in children and adolescents.  Effect sizes were  calculated to quantify the overall effect 
+of physical activity on HRQOL in youth.  It was hypothesize d that children who engage d in 
+greater amounts of physical activity woul d report significantly higher levels of HRQOL.  
+Further , it was  predict ed that this relationship would be attenuated by moderator variables, 
+10 
+ 
+including chronic disease status, weight status, sex, and study rigor .  Chronic dis ease populations  
+and youth with overweight/obesity we re predicted to exhibit greater HRQOL reactivity to 
+relatively small changes in physical activity  (i.e. larger effect sizes) , versus children free from 
+chronic illness and children of healthy weight.  In contrast, studies with more rig orous design 
+quality (e.g. objectively measured physical activity) were expected to exhibit smaller effect sizes 
+for HRQOL.  Based on  previous literature, the authors  expected changes in physical activity to 
+produce disparate effects on HRQOL for boys vers us girls, but did not include an a priori  
+hypothesis for the direction of this effect due to limited prior evidence.    
+Methods  
+Literature Search  
+ The databases PubMed, PsycINFO , and ProQ uest Dissertations were  searched to conduct 
+a comprehensive literatur e review  of both published and unpublished articles  about physical 
+activity and HRQOL in youth .  Search terms  include d the keywords physical activ * OR exercise  
+AND health related  qualify of life  AND child  OR adolesc ent OR youth  OR pediatric .  For 
+PsycINFO , the age filter  was used to select articles pertaining to childhood (birth -12 years) and 
+adolescence (13 -17 years), in place of  the keyword s child  OR adolescent  OR youth OR 
+pediatric .  Forward and backward -searching, based on th e reference sections of incl uded  articles  
+and relevant  reviews , was used to identify additional articles not yielded in the preliminary 
+database search.   The initial literature search was conducted on March 26, 2016 and the search 
+was finalized on July 26, 2017.  
+Inclusion/Exclusion C riteria  
+ To be included in the analysis, articles must have (a) been written in English, (b) 
+available in full text, (c) include d participants with a mean age <18 years at the time of study 
+11 
+ 
+participation, (d) measured  target outcomes of  both physical activ ity and health -related quality of 
+life or included a physical activity intervention with HRQOL outcomes , and (e) provide d enough 
+information to calculate effect sizes .  Articles that measured physical activity in continuous units 
+(e.g. minutes, steps, meta bolic e quivalent s [METs ]) or included an exercise intervention and 
+reported  a total/global measure of HRQOL were included.  Articles that measured physical 
+activity categorically ( e.g. Likert scale , met/did  not meet physical activity recommendations), 
+articles that measured physical fitness but not physical activity , and articles that reported only 
+specific domains of HRQOL ( e.g. psychosocial, physical, emotional) were excluded .  Duplicate 
+articles from the same study were also excluded .  Authors were conta cted in an effort to include 
+articles that appeared to measure target outcomes but did not initially provide enough 
+information to calculate effect sizes.   
+Two types of studies were included in this meta -analysis:  descriptive studies and 
+intervention stu dies.  Descriptive studies included  non-intervention studies (e.g. cross -sectional 
+surveys, observational studies, baseline characteristics only) that directly measured  associations 
+between physical activity and HRQOL (e.g. Pearson or Spearman correlation,  regression ).  
+Outcomes were aggregated for longitudinal studies that reported direct associations between 
+physical activity and HRQOL  at multiple time points.  Descriptive studies that did not measure 
+the direct association between physical activity and H RQOL (e.g. baseline means and standard 
+deviations only, complex models that included other covariates) were excluded.  Intervention 
+studie s had to include an exercise intervention (e.g. resistance training, aerobic fitness, physical 
+activity education) and  measure  HRQOL values pre- and post -intervention  against  a comparison 
+group .  Case studies and interventions that lacked a control group were excluded.   
+ 
+12 
+ 
+Coding of Studies  
+ Two trained reviewers  (e.g. research assistants and graduate students)  independent ly 
+reviewed article abstracts for inclusion/exclusion criteria.  Included articles were then reviewed 
+in their full -text format by two trained reviewers and discrepancies were resolved by consensus.  
+The first author coded all articles selected for inclusi on, and 20% of the final selected articles 
+were coded by a second reviewer to establish coding reliability .  Each  study was coded for 
+sample size, mean participant age, participant demographic characteristics ( e.g. sex, ethnicity, 
+weight status, health sta tus), study method ( e.g. cross -sectional, longitudinal, intervention), study 
+duration, assessment time points, measures used, physical activity measurement method (e.g. 
+self-report, pedometer, accelerometer), mean p hysical activity , and total HRQOL.   EndNo te 
+version X7  (Clarivate Analytics,  Philadelphia, PA)  was u sed to facilitate the organization  and 
+coding of relevant articles.    
+Study Rigor  
+An 18 -point measure of study rigor, initially  developed by Lundahl et al. (2010) and lat er 
+adapted by Gayes and Ste ele (2014)  and Mitchell, Amaro, and Steele  (2016 ), was used to assess 
+study quality.  Points were assigned  for each aspect of study quality that was explicitly reported, 
+such as describing three or more  demographic indicators of the sample, including multi ple sites, 
+reporting study drop -outs, using objective measurement tools, and using randomization  to 
+condition (for intervention studies) .  Points were summed and total s cores ranged from 0 -18, 
+where higher scores indicate d greater study rigor.  A copy of t his measure is included  in 
+Appendix A .  Twenty percent of articles were coded independently by two reviewers and the 
+intra-class correlation coefficient for reliability across co ders for this instrument was .95 (ICC; 
+95% confidence interval = .64 -.99).   
+13 
+ 
+Data Analysis  
+Effect sizes were calculated using Hedge’s g to quantify the magnitude and direction of 
+the associations between physical activity and HRQOL in youth (Durlak, 2009; Card, 2012).  
+Hedge’s g was selected to best describe effect  sizes while corr ecting for study sample sizes , 
+which varied from less than 20 participants per group to over 1000  participants  (Durlak, 2009; 
+Hedges & Olkin, 1985).  Effect sizes for descriptive studies were calculated from measure s that 
+directly associated physical activ ity and HRQOL, including bivariate Pearson correlations, t -
+tests, and F -tests.  Effect sizes for intervention studies were calculated using pre -post means, 
+standard deviations, and sample sizes for the intervention versus control group.  In select cases  
+where pre -post standard deviations were not provided in the article , standard deviations were 
+calculated from 95% confidence intervals.  
+Four s eparate random effect s models  were used to  compute effect sizes in  descriptive and 
+intervention studies, as well as child - and parent -proxy -report of HRQOL.  For instance, if a 
+single study included both child - and parent -report of HRQOL measures, two effect sizes were 
+calculated for this study to represent these quantifiably different outcome types.  If a single study 
+included multiple outcomes from a single reporter  (e.g. multiple child -reported HRQOL 
+measures), these data were averaged and aggregated for one overall effect size per study (Durlak, 
+2009).  The Q statistic was calculated for all models to test for signif icant within -group 
+variability (Card, 2012).  For models  with a significant Q statistic, analyses were conducted to 
+examine the impact of hypothesized moderator variables on the relationship between physical 
+activity and HRQOL, including chronic disease st atus, weight st atus, sex, and study rigor .  
+Chronic disease status was categorized dichotomously as 1 (youth with chronic disease) or 0 
+(typically developing youth).  Weight status and sex were tested as continuous moderators using 
+14 
+ 
+percent of the sample th at was overweight/obese and percent of the sample that was female.  
+Study rigor was also tested as a continuous moderator  using study rigor scores from the  modified  
+Lundahl assessment.  
+Finally, the fail -safe N statistic was calculated to determine the numb er of non -
+significant, excluded studies needed to reduce overall effect sizes to non-significance , as a 
+measure of potential publication bias .  The  fail-safe 𝑁 statistic was calculated using the formula 
+𝑁=𝑘(𝑀𝐸𝑆−𝐸𝑆𝑚𝑖𝑛)
+(𝐸𝑆𝑚𝑖𝑛−𝐸𝑆𝑒𝑥𝑐𝑙𝑢𝑑𝑒𝑑 ) ⁄  where 𝑘 was the number of studies, 𝑀𝐸𝑆 was the 
+mean effect size, 𝐸𝑆𝑚𝑖𝑛 was the minimally significant effect size of 0.1, and 𝐸𝑆𝑒𝑥𝑐𝑙𝑢𝑑𝑒𝑑  was zero 
+(Card, 2012).  Forest and funnel plots were created to graphically represent effect sizes and 
+visualize publication bias.  Analyses were completed using Compr ehensive Meta -Analysis 
+software  version 3 (Biostat, Englewood , NJ).  Effect sizes were interpreted using Cohen’s 
+guidelines:  0.20 (small), 0.50  (medium), and 0.70 (large; Cohen, 1988; Durlak, 2009).  Results 
+were evaluated at the p = .05 level, unless otherwise stated.  
+Results  
+Search Strategy  
+ The initial  key terms  literature search identified 1202 articles  from PubMed, PsycINFO, 
+and ProQ uest.  After duplicates and non -articles (e.g. book chapters) were removed, 1081 unique 
+articles remained .  Abstracts for each of these articles were screened for study 
+inclusion/ex clusion criteria.  Abstract  screeners  had 62.9% agreement and interrater reliability 
+was fair ( Cohen’s k = .232; Sim & Wright, 2005; Viera & Garrett, 2005 ).  Discrepant abstract 
+screens were reconciled to 100% agre ement by consensus, leaving, 473  articles identified as 
+potentially meeting inclusion criteria .  Of these,  471 were revi ewed in their full text format 
+because two were  not available in full text .  Percent agreemen t on reviewing full texts was 91.5%  
+15 
+ 
+and i nterrater reliability was  moderate (Cohen’s k = .519).  Again, discrepancies for  full text 
+reviews were reconciled to 100% agreement by consensus.  Forward  and backward searches 
+identified an  additional  five articles that met full criteria.  Thirty -three  total studies met inclusion 
+criteria, provide d enough information to calculate effect sizes, and were included in analyses.  
+These included  14 descriptive  studies and 19 intervention studies.  A PRISMA of all articles 
+assesse d during the review process and  detailed reasons for  study exclusion is provided in 
+Figure 1 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1.   PRISMA flow diagram of literature search screening process . Records identified through dat abase 
+searching (PubMed, PsycINFO,   
+ProQuest Dissertations)  
+(n = 1202 ) Screening  Included  Eligibility  Identification  
+Records after duplicates 
+removed  (n = 1081)  
+Abstracts screened  
+(n = 1081)  Records excluded:  
+Not relevant to topic of 
+physical activity and 
+HRQ OL (n = 390)  
+Participant mean age ≥ 18 
+(n = 140)  
+Protocol only (n = 52)  
+Not available in English (n 
+= 25)  
+No full text available (n = 
+2) 
+ Full-text articles 
+assessed for eligibility  
+(n = 471)  
+Full-text articles excluded:  
+Not relevant to topic of 
+physical activity and 
+HRQOL (n = 150)  
+Participant mean age ≥ 18 
+(n = 121)  
+Protocol only (n = 4 ) 
+Review (n = 48)  
+Qualitative/non -
+experimental (n = 18)  
+Values to calculate effect 
+sizes not reported (n = 101)  
+Retraction (n = 1)  Studies included in 
+qualitative synthesis  
+(n = 33)  
+Intervention studies 
+included in quantitative 
+synthesis (meta -
+analysis)  
+(n = 19)  Book chapters also 
+excluded at this point  
+(n = 19)  
+ 
+Descriptive  studies 
+included in quantitative 
+synthesis (meta -
+analysis)  
+(n = 14)  Additional records 
+identified through 
+other  sources 
+(backward and 
+forward  searches 
+of included 
+articles)  
+(n = 5)  
+17 
+ 
+Description of Included Studies  
+  Descriptive  studies are summarized  in Table 1  and intervention studi es are summarized  
+in Table 2 .  Descriptive  studies included youth ranging in age from 3 -18 years and all studies 
+included a near -equal split of  males and females.  About half of the studies focused on children 
+with a specific chronic disease, including ove rweight/obesity, cancer, epilepsy, cystic fibrosis, 
+and those who required a  kidney transplant.  Seven  of the studies used samples of typically 
+developing youth and one included both typically developing and overweight/obese youth.  The 
+majority of descrip tive studies were cross -sectional, either collecting data over less than a week 
+or administering su rveys at a single time point.  One study included baseline data from a larger 
+intervention, one  described longitudinal data from  the control group only of an  intervention, and 
+one study described an intervention with no control group.  Over half of the studies quantified 
+physical activity using subjective self -report measures, such as the Godin Leisure -Time Exercise 
+Questionnaire  (Godin & Shephard, 1997; Godin , 2011)  and 7-day Physical Activity Recall  
+(Sallis et al., 1993) .  Seven  studies used objective physical activity measures, including f ive 
+studies that used pedometers a nd three studies that used ActiG raph accelerometers  (ActiGraph, 
+LLC, Pensacola, FL) .  For HRQOL , the majority of studies used the Pediatric Qualit y of Life 
+Questionnaire (PedsQL; Varni et al., 2003) , although two studies used the KIDSCREEN -27 
+(Ravens -Sieberer et al., 2005; The KIDSCREEN Group Europe, 2006) , one used the KINDL -R-
+Kiddo  (Ravens -Sieberer & Bullinger,  1998) , and one used the Cystic Fibrosis Questionnaire 
+(CFQ -R; Quittner et al., 2005) .  The majority of HRQOL measures  were completed by children, 
+although four studies also included parent -proxy report and one study relied on parent -proxy 
+report alone.  Study rigor scores for both descriptive and intervention studies are listed in Table 
+3.  
+18 
+ 
+ 
+
+19 
+ 
+ 
+
+20 
+ 
+ 
+
+21 
+ 
+ 
+
+22 
+ 
+ 
+
+23 
+ 
+ 
+
+24 
+ 
+ 
+
+25 
+ 
+ 
+
+26 
+ 
+ 
+
+27 
+ 
+ Table 3. Study rigor coding by study based on modified  Lundahl assessment . 
+Study  Study Rigor 
+Score  Study  Study Rigor 
+Score  
+Descriptive Studies   Intervention  Studies   
+ Boyle, 2010  7  Azevedo, 2014  10 
+ Groenveld, 2012  8  Bocca, 2014  12 
+ Gu, 2015  6  Casey, 2014  9 
+ Ha, 2015  9  Demuth, 2012  14 
+ Hamiwka, 2009  7  Finkelstein, 2013  12 
+ Jalali -Farahani, 2016  11  Flapper, 2008  14 
+ Lim, 2014  6  Hofsteenge et al., 2013  11 
+ Michels, 2016  11  Mendonca, 2013  13 
+ Norris, 2010  6  Mendoza, 2017  7 
+ Paxton, 2010  8  Quaresma, 20 14 11 
+ Spengler & Woll, 2013  7  Takken, 2003  15 
+ Standage, 2012  6  Taracki, 2012  14 
+ Whitney, 2013  4  van Dijk -Lokkart, 2015  14 
+ Woods, 2015 (Thesis)  7  Vos, 2012  13 
+ Mean (SD) =  7.36 (1.95)   Wafa, 2011  14 
+   Wake, 2009  16 
+    Wang, 2006 (Thesis)  13 
+    Wilson, 2010 (Thesis)  8 
+    Yackobovitch -Gavan, 2009  12 
+    Mean (SD) =  12.21 (2.39)  
+ 
+Intervention studies included youth ranging in age from 3 to 18 years.  Most intervention 
+studies included both males and females, although one study included females only.   The 
+majority of intervention studies included chronic dis ease populations, including six  studies in 
+youth with overweight/obesity, three  with ju venile idiopathic arthritis, two  with cerebral palsy, 
+two with cancer, and one asthma .  Four studies used samples of typically developing youth and 
+28 
+ 
+ one included both typically developing and overweight/obese youth.  The majority of 
+intervention  studie s were randomized controlled trials, three  were randomized pilot trials, two 
+were non -randomized inter ventions, and one was a natural experiment  that studied existing 
+differences in physical activity resources across schools.   Six studies included traditional group -
+based exercise interventions (i.e. cardiorespiratory and /or resistance training) and five  were 
+multicomponent obesity interventions which included exercise, diet, and education  components .  
+The remaining interventions tested specific types of exercise, including  dance exergaming , 
+physical education/YMCA activities, stationary cycling, Pilates, aq uatic exercises , and 
+technology -based physical activity promotion .  Exercise interventions ranged from ten weeks to 
+two academic  years in length with visits occurring <1 -3 days per week and each visit lasting 25 -
+90 minutes.  The most common intervention le ngth was 12 weeks and intervention contact hours 
+range d from 1.5-54 total hours (Mean = 24.58  ± 15.31; six studies did not report detailed 
+information to determine total contact hours ).  Four  interventions were administered at the school 
+level, while all o ther interventions enrolled participants individually.  Fifteen  studies compared a 
+treatment group against a no treatment control group , usual care , or wait list ; four studies 
+compared treatment to  an active control group that included education only or a different kind of 
+exercise intervention.   
+The majority of studies did not dir ectly measure physical activity .  For HRQOL, thirteen  
+studies used the PedsQL  (Varni et al., 2003)  and one also administered the PedsQL Cancer 
+module.  T wo studies each used the Dutch Children Quality of Life Questionnaire (DUX -25; 
+Koopman et al., 1998) , the Pediatric Outc omes Data Collection Instrument ( PODCI ; Daltroy et 
+al., 1998) , the KIDSCREEN  (Ravens -Sieberer et al., 2005; The KIDSCREEN Group Europe, 
+2006) , and the Child Heal th Questionnaire (CHQ; Landgraf et al., 1996).  O ne study e ach used   
+29 
+ 
+ the DISABKIDS  (The DISABKIDS Group Europe, 2006) , the TNO -AZL Children's Quality of 
+Life questionnaire (TACQOL ; Verrips et al., 1998; Vogels et al., 1998) , and the Juvenile 
+Arthritis Qu ality of Life Questionnaire  (JAQQ ; Duffy et al., 1997) .  Six  studies assessed 
+HRQOL using two or more measures.  The majority of intervention studies collected both child 
+and parent -proxy report of HRQOL measures , while six studies included child self -report only 
+and three studies included parent -proxy report only .   
+Effect Sizes  
+ Overall , descriptive  studies  demonstrated  a small, positive  association between  physical 
+activity  and HRQOL based on  child -reports ( Hedge’s  g = .302, p < .001; Figure 2) and a 
+negligible  (non-significant ) association  based on parent -proxy reports ( Hedge’s g = .115, p = 
+.101; Figure 3).  Across studies, there was wide variation in child -reported effects.  One study 
+found a large effect of physical activity on HRQOL (Woods, 2015) , four found medium  effects 
+(Gu et al., 2015; Ha et al., 2015; Hamiwka et al., 2009 ; Paxton et al., 2010 ), three  studies found 
+small effects ( Jalali -Farahani et al., 2016; Spengler & Woll, 2013 ; Standage et al., 2012) , and an 
+additional f ive studies found negl igible effects (Boyle et al., 2010; Groenveld et al., 2012; Lim et 
+al., 2014; Norris et al., 2010; Whitney et al., 2013) .  Importantly, three of these studies did not 
+report exact statistic s, but merely stated that there was no significant association betw een 
+physical activity and HRQOL ( Groenveld et al., 2012; Norris et al., 2010; Whitney et al., 2013).   
+In an effort to include these null findings  in the analyses , correlations of zero were imputed for 
+the three studies  with missing values.1 
+  
+                                                           
+1 Studies with imputed zero correlations include standard error and variance estimates calculated from a 
+Pearson correlation of zero and the study sample size.  
+ 
+30 
+ 
+  
+Figure 2.  Forest plot of random effects model for descriptive studies: Child -reported HRQOL.  
+ 
+Effect sizes from p arent -proxy reports in descriptive  studies were variable.  Although one 
+study found a large association between  physical activity and HRQOL (Norris et a l., 2010), the 
+remaining studies found non-significant associations  (Lim et al., 2014; Jalali -Farahani et al., 
+2016 ; Michels et al., 2016).  Interestingly, Norris et al. (2010) found a large association  based on 
+parent -proxy reports but no association betw een child -reported physical activity and HRQOL.  
+Study name Statistics for each study Hedges's g and 95%  CI
+Hedges's Standard Lower Upper 
+g error Variance limit limit Z-Value p-Value
+Boyle et al., 2010 0.050 0.048 0.002 -0.043 0.143 1.051 0.293
+G roenveld et al., 2012 0.000 0.388 0.151 -0.761 0.761 0.000 1.000
+G u, 2015 0.493 0.113 0.013 0.273 0.714 4.380 0.000
+H a et al., 2015 0.535 0.194 0.038 0.154 0.916 2.752 0.006
+H amiwka et al., 2009 0.640 0.293 0.086 0.066 1.214 2.185 0.029
+Jalali-Farahani et al., 2016 0.262 0.094 0.009 0.078 0.445 2.794 0.005
+Lim et al., 2014 0.150 0.122 0.015 -0.090 0.390 1.226 0.220
+N orris et al., 2010 0.000 0.507 0.257 -0.994 0.994 0.000 1.000
+Paxton et al., 2010 0.601 0.217 0.047 0.175 1.027 2.766 0.006
+Spengler & Woll, 2013 0.306 0.047 0.002 0.213 0.399 6.461 0.000
+Standage et al., 2012 0.241 0.091 0.008 0.063 0.419 2.659 0.008
+Whitney et al., 2013 0.000 0.778 0.605 -1.524 1.524 0.000 1.000
+Woods, 2015 1.307 0.498 0.248 0.332 2.283 2.627 0.009
+0.302 0.063 0.004 0.178 0.426 4.783 0.000
+-4.00 -2.00 0.00 2.00 4.00
+Negative Positive
+Descriptive Studies - Child Report
+31 
+ 
+  
+Figure 3.  Forest plot of random effects model for descriptive studies: Parent -reported HRQOL.  
+ 
+ Intervention studies  yielded  a small, positive  effect of physical activity interventions on 
+HRQOL based on c hild-reports ( Hedge’s g = .279, p = .014; Figure 4 ) and a medium , positive 
+effect of physical activity interventions on HRQOL based on parent -proxy reports ( Hedge’s g = 
+.522, p = .012; Figure 5).2  Based on child -reported HRQOL, t hree studies found large , positive  
+effects for their exercise interventions improving  HRQOL (Mendonca  et al., 2013; Flapper et al., 
+2008 ; Taracki et al., 2012 ), four studies  found small effect s (Casey et al., 2014; Finkelstein et al., 
+2013; Vos et al., 2012; Wafa et al., 2011) , six studies found negligible effects (Demuth et al., 
+2012; Hofsteenge et al., 2013; Quaresma et al., 2014; van Dijk -Lokkart et al. , 2015; Wang, 2006; 
+Wilson, 2010), and three  studies found small, negative effects (Azevedo et al., 2014 ; Mendoza et 
+al., 2017; Takken et al., 2003 ). 
+                                                           
+2 Mendonca et al. (2013) reported findings over three standard deviations larger than  the average 
+effect in both child and parent -proxy reported intervention models.  If this study is removed from 
+analyses, the overall effect size for intervention studies based on child reported HRQOL is 
+reduced to marginal significance ( Hedge’s g = .169, p = .052) and the overall effect for 
+intervention studies based on parent -proxy reported HRQOL is reduced to a small, significant 
+effect ( Hedge’s g = .261, p = .016).  
+ 
+Study name Statistics for each study Hedges's g and 95%  CI
+Hedges's Standard Lower Upper 
+g error Variance limit limit Z-Value p-Value
+Jalali-Farahani et al., 2016 0.100 0.093 0.009 -0.082 0.282 1.075 0.283
+Lim et al., 2014 0.060 0.122 0.015 -0.179 0.299 0.490 0.624
+Michels et al., 2016 0.154 0.139 0.019 -0.118 0.426 1.108 0.268
+N orris et al., 2010 1.141 0.592 0.350 -0.020 2.301 1.927 0.054
+0.115 0.070 0.005 -0.023 0.253 1.640 0.101
+-4.00 -2.00 0.00 2.00 4.00
+Negative Positive
+Intervention Studies - Child Report
+32 
+ 
+  
+Figure 4.  Forest plot of random effects model for intervention studies: Child -reported HRQOL.  
+ 
+Again, effect sizes based on parent -proxy reports of HRQOL following an exercise 
+intervention were variable.  Two studies  found large eff ects of physical activity interventions for 
+children on parent -proxy reported HRQOL (Mendonca et al., 2013 ; Taracki et al., 2012 ), one 
+study found a medium  effect (Flapper et al., 2008), four  studies found small effects (Bocca et al., 
+2014 ; Vos et al., 201 2; Wafa et  al., 2011; Wake et al., 2009), and three  studies found negligible 
+effects (van Dijk -Lokkart et al., 2015 ; Wang, 2006; Yackobovitch -Gavan, 2009 ). 
+ 
+Study name Statistics for each study Hedges's g and 95%  CI
+Hedges's Standard Lower Upper 
+g error Variance limit limit Z-Value p-Value
+A zevedo et al., 2014 -0.306 0.138 0.019 -0.576 -0.036 -2.224 0.026
+Casey et al., 2014 0.244 0.084 0.007 0.079 0.410 2.899 0.004
+D emuth et al., 2012 0.178 0.251 0.063 -0.314 0.671 0.710 0.478
+Finkelstein, 2013 0.532 0.120 0.014 0.296 0.767 4.419 0.000
+Flapper et al., 2008 0.926 0.366 0.134 0.209 1.644 2.530 0.011
+H of steenge et al., 2013 0.106 0.208 0.043 -0.301 0.514 0.511 0.609
+Mendonca et al., 2013 2.750 0.391 0.153 1.983 3.517 7.027 0.000
+Mendoza, 2017 -0.137 0.257 0.066 -0.642 0.367 -0.534 0.594
+Q uaresma, 2014 0.008 0.085 0.007 -0.158 0.174 0.097 0.922
+Takken et al., 2003 -0.332 0.270 0.073 -0.862 0.197 -1.230 0.219
+Taracki, 2012 0.895 0.231 0.054 0.441 1.349 3.867 0.000
+van Dijk-Lokkart et al., 2015 0.101 0.242 0.058 -0.372 0.575 0.420 0.674
+V os et al., 2012 0.221 0.224 0.050 -0.217 0.660 0.991 0.322
+Waf a et al., 2011 0.442 0.194 0.038 0.061 0.823 2.275 0.023
+Wang, 2006 (Thesis) -0.046 0.259 0.067 -0.554 0.462 -0.178 0.859
+Wilson, 2010 -0.189 0.326 0.106 -0.827 0.449 -0.581 0.561
+0.279 0.113 0.013 0.057 0.500 2.468 0.014
+-4.00 -2.00 0.00 2.00 4.00
+Favors Control Favors Intervention
+Intervention Studies - Child Report
+33 
+ 
+  
+Figure 5. Forest plot of random effects model for intervention studies: Parent -reported HRQOL.  
+ 
+Hypothesized Moderator s 
+ The Q-statistic was calculated  for all four models (i.e. descriptive versus intervention; 
+child report versus parent -proxy report) to test for significant sample heterogeneity, indicating 
+the presence of between and within -study  variability that could be explained by  potential 
+moderating variables.  Significant Q -statistics w ere found for the overall effect of physical 
+activity on HRQOL in three of the four  models:  descriptive  studies using  child -report [ Q(12) = 
+35.568 , p < .001], intervention stud ies using  child -report [Q(11) = 91.747 , p < .001] , and 
+intervention studies using parent -report [Q(6) = 72.254 , p < .001] .  A non-significant Q -statistic  
+was found for the parent -report ed descriptive  model [ Q(3) = 3.310 , p = .346], so this model was 
+not included in moderator analyses.  
+For the model s with significant Q -statistics , chronic disease status, weight status, sex, and 
+study rigor were examined  as potential moderators.  Weight status was entered in a separate 
+model  because it was reported for only about half of the studies , and thus would exclude half of 
+Study name Statistics for each study Hedges's g and 95%  CI
+Hedges's Standard Lower Upper 
+g error Variance limit limit Z-Value p-Value
+Bocca et al., 2014 0.343 0.237 0.056 -0.121 0.807 1.450 0.147
+Flapper et al., 2008 0.565 0.354 0.126 -0.130 1.260 1.594 0.111
+Mendonca et al., 2013 3.783 0.470 0.221 2.862 4.703 8.054 0.000
+Taracki, 2012 0.920 0.232 0.054 0.465 1.375 3.964 0.000
+van Dijk-Lokkart et al., 2015 -0.101 0.242 0.058 -0.575 0.372 -0.420 0.674
+V os et al., 2012 0.216 0.223 0.050 -0.222 0.654 0.965 0.335
+Waf a et al., 2011 0.471 0.195 0.038 0.089 0.852 2.417 0.016
+Wake et al., 2009 0.222 0.125 0.016 -0.023 0.467 1.776 0.076
+Wang, 2006 (Thesis) -0.161 0.251 0.063 -0.654 0.331 -0.642 0.521
+Y ackobovitch-G avan, 2009 -0.090 0.252 0.064 -0.585 0.404 -0.358 0.720
+0.522 0.207 0.043 0.117 0.928 2.523 0.012
+-4.00 -2.00 0.00 2.00 4.00
+Favors Control Favors Intervention
+Intervention Studies - Parent Report
+34 
+ 
+ the studies  from meta -regression analyses if it was included in the overall moderation model .  
+Chronic disease status and weight status were  unable to be tested as moderator s in pare nt-
+reported intervention studies because all of these studies were conducted in chronic disease 
+sample s and only studies conducted in entirely overweight/obese samples reported on youth 
+weight status .   
+None of the tested moderators explained a significant  portion of between or within -study 
+heterogeneity (all ps>.12; Table 4 ).  For descriptive studies based on child -reported HRQOL, 
+visual inspection of non -significant trends suggested that studies with higher study rigor scores, 
+studies in chronic disease s amples, and studies with more females frequently had larger effect 
+sizes.  For intervention studies with child -reported HRQOL, non -significant trends were 
+observed  for larger effect sizes in studies that included chronic disease samples, a larger number 
+of overweight/obese youth, and more females.  A similar trend was seen for sex in the same 
+intervention studies that utilized parent -proxy reported HRQOL.  However, these observations of 
+non-significant moderators should be interpreted with caution, as these  trends were likely 
+skewed by the low number of studies in each comparison.  No detectable trend was observed 
+between study rigor and effe ct size the parent -proxy model.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+35 
+ 
+ Table 4 . Random effects m eta-regression models for hypothesized moderators.  
+ 
+Exploratory Analyses  
+ While t he initial aim of this study was to characterize the association between physical 
+activity and  HRQOL in descriptive studies, exercise  intervention s were adde d to increase the 
+number of included studies and reach of this meta -analysis.  Although not hypothesized a priori , 
+previous reviews have cited heterogeneity in exercise intervention duration, intensity, and 
+frequency as possible con founders of intervention effectiveness (Granger et al., 2017; Lubans et 
+al., 2016; Poitras et al., 2016; Wong et al., 2017).  Therefore, post hoc  analyses were conducted  
+Moderator  Coefficient  Standard 
+Error  95% Confidence 
+Interval  Z-
+value  p-
+value  
+Descriptive Studies - Child Report Model 1      
+ Chronic Disease Status  0.088  0.161  -0.228 – 0.405  0.55 0.584  
+ Sex 0.018  0.020  -0.021 – 0.057  0.89 0.372  
+ Study Rigor  0.036  0.048  -0.059 – 0.131  0.74 0.457  
+Descriptive Studies - Child Report Model 2      
+ Weight Status  -0.0002  0.004  -0.007 – 0.007  -0.05 0.958  
+       
+Intervention Studies - Child Report Model 1      
+ Chronic Disease Status  0.105  0.317  -0.517 – 0.727  0.33 0.741  
+ Sex 0.003  0.010  -0.015 – 0.023  0.38 0.701  
+ Study Rigor  0.084  0.062  -0.038 – 0.205  1.35 0.176  
+Intervention Studies - Child Report Model 2      
+ Weight Status  0.011  0.008  -0.005 – 0.027  1.32 0.189  
+       
+Intervention Studies - Parent Report Model     
+ 
+ Sex 0.051  0.033  -0.014 – 0.115  1.54 0.124  
+ Study Rigor  0.016  0.220  -0.415 – 0.447  0.07 0.941  
+36 
+ 
+ to examine  intervention contact hours as a proxy for exercise duration and frequency.  Thirteen 
+out of 19 studies reported detailed information to calculate total intervention contact hours , 
+which was tested in two models based on child - or parent -proxy reported HRQOL.  In both 
+models, contact hours did not significantly moderate the effect  of physical activity intervention 
+on HRQOL ( ps > .22; Table 5 ).    
+Due to the broad range of child ages in included studies (3 -18 years), age was also 
+examined as an exploratory post hoc  moderator.  All studies reported adequate information to 
+include age  as a moderator, so it was tested in all models with significant Q statistics.  In all 
+models, age was not a significant predictor of the association between physical activity and 
+HRQOL ( ps > .43; Table 5 ).    
+ 
+Table 5 . Random effects m eta-regression model s for exploratory moderators.  
+ 
+ Moderator  Coefficient  Standard 
+Error  95% Confidence 
+Interval  Z-
+value  p-
+value  
+Descriptive  Studies - Child Report Model     
+Age -0.027  0.035  -0.096 – 0.041  -0.78 0.436  
+      
+Intervention Studies - Child Report Model     
+Intervention Contact Hours  0.024  0.022  -0.083  – 0.066  1.12 0.264  
+Age 0.108  0.178 -0.242  – 0.458 0.60 0.546  
+      
+Intervention Studies - Parent Report Model     
+Intervention Contact Hours  0.020  0.017 -0.012 – 0.053 1.22 0.224  
+Age 0.032  0.099  -0.163 – 0.226  0.32 0.749  
+37 
+ 
+ Publication Bias  
+ Funnel plots for visual inspection of publication bias displayed notable gaps, particularly 
+for descriptive  studies  (see Figures 6 -7).  Without imputed zero correlations for the three studies 
+that found  no significant assoc iation between physical activity and HRQOL  but did not report 
+exact values, there would be no studies in the lower left quadrant of the funnel plots, where 
+highly non -significant studies would be expected.  However, these plots should be interpreted 
+with c aution as gaps in models with less than ten studies may be due to a lack of studies, rather 
+than true publication bias (Sterne et al., 2011 ). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6. Funnel plots of asymmetry as tests of publication bias (standard  error by Hedge’s g) in 
+descriptive studies.  
+ 
+ 
+ 
+-2.0 
+ -1.5 
+ -1.0 
+ -0.5 
+ 0.0 
+ 0.5 
+ 1.0 
+ 1.5 
+ 2.0 
+0.0 
+0.1 
+0.2 
+0.3 
+0.4 
+0.5 
+0.6 
+Standard Error  
+Descriptive Studies – Parent Report  Descriptive Studies – Parent Report  
+Hedge’s g  
+-2.0 
+ -1.5 
+ -1.0 
+ -0.5 
+ 0.0 
+ 0.5 
+ 1.0 
+ 1.5 
+ 2.0 
+0.0 
+0.2 
+0.4 
+0.6 
+0.8 
+Standard  Error  
+Hedge's g 
+Descriptive Studies – Child Report  
+39 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 7. Funnel plots of asymmetry as tests of publication bias (standard error by Hedge’s g) in 
+intervention studies.  
+ 
+ 
+-4 
+ -3 
+ -2 
+ -1 
+ 0 
+ 1 
+ 2 
+ 3 
+ 4 
+0.0 
+0.1 
+0.2 
+0.3 
+0.4 
+0.5 
+Intervention Studies – Parent Report  
+Standard Error  
+Hedge’s g  
+-3 
+ -2 
+ -1 
+ 0 
+ 1 
+ 2 
+ 3 
+0.0 
+0.1 
+0.2 
+0.3 
+0.4 
+Standard Error  
+Hedge 's g 
+Intervention Studies – Child Report  
+40 
+ 
+ A fail -safe N statistic of 26.26 was obtained for descriptiv e studies using child report, 
+0.60 for descriptive studies using parent report, 28.64 for intervention studies using child report, 
+and 42.20 for intervention studies using parent report.  These statistics indicate that between 26 
+and 42 additional non -significant studies would be needed to reduce the overall effect sizes to a 
+negligible effect of 0.1 for three out of four models.  However, for descriptive studies that 
+utilized parent -reported HRQOL, less than one additional non -significant study would be ne eded 
+to reduce this effect size to 0.1, consistent with the already negligible effect size found for this 
+model.   Removing the impact of the outlying study (Mendonca et al., 20 13) from analyses, 
+failsafe N values drop to 10.35  for intervention studies usin g child report and 14.49 for 
+intervention studies using parent report.  
+Discussion  
+The primary aim of this study was to quantify the magnitude of the association between 
+physical activity and HRQOL in children and adolescents.  Physical activity is linked t o both 
+physical and mental health outcomes in youth  (Ekelund et al., 2012 ; Larun et al., 2006; Brown et 
+al., 2013)  and recent initiatives recommend  the use of HRQOL as a cross -disciplinary measure of 
+subjective health outcomes ( NIH, 2017; CDC, 2011).  This  systematic review and meta -analysis 
+aimed to be the first comprehensive examination of the relationship between physical activity 
+and HRQOL across pediatric populations.  
+Aggregate data demonstrated a small, positive effect of physical activity on HRQOL.  
+More specifically, a small to negligible association  between physical activity and HRQOL was 
+found across 14  descriptive studies , while a small to medium effect of  exercise intervention s on 
+pre-post changes in HRQOL was found across 19 intervention studies .  However, among the 
+intervention studies, a large portion of this effect was driven by a single study (Mendonca et al., 
+41 
+ 
+ 2013).  When removed, the aggregate effect size across intervention studies was reduced to a 
+small to marginal effect.  Generally , findings supported the primary  hypothesis that increased 
+levels of physical activity would be related to better  HRQOL  in a limited way .  This finding 
+matches previous systematic reviews of physical activity, health and, well -being outcomes in 
+both adults (Biz e et al., 2007) and youth (Granger et al., 2017; Poitras et al., 2016; Wong et al., 
+2017).  In adults, Bize and colleagues (2007) identified significant positive associations between 
+level of physical activity and HRQOL in five out of seven cross -sectional  studies, and positive 
+effects of physical activity  on HRQOL in four RCTs .  In adolescents, Granger et al. (2017) found 
+positive associations between physical activity and self -reported health status in nine studies and 
+Wong et al. (2017) found that more t ime spent in MVPA was related to higher HRQOL in 
+thirteen out of fifteen studies.  However, previous reviews in children and adolescents included 
+highly heterogeneous studies and were unable to calculate overall effect size s; thus, this review 
+extends the literature by  quantify ing the overall size of this effect  in youth.  Th e small  to 
+marginal  positive effect found in this meta -analysis indicates that increasing physical activity 
+may result in positive, but limited increase s in self-perceived health in children and adolescents . 
+To better understand these results, the small overall effect was interpreted in light of t he 
+minimal clinically significant difference (MCID) , which  is the smallest change in a target  
+domain that is need ed for a patient to perceive a  change as clinically beneficial  (Copay et al., 
+2007).  A  change above the MCID threshold would indicate a level of improvement in the target 
+outcome that, in the absence of adverse side effects or unsustainable costs, would recommend a 
+change in care, suc h as participation in a physical activity intervention to improve HRQOL.    
+Recommended levels for the MCID  based on changes in HRQOL were developed by 
+Varni et al. (2003) for the Pediatric Quality of Life Inventory ( PedsQL ), the most commonly 
+42 
+ 
+ used measure of HRQOL in this review .  The PedsQL MCID was calculated using the standard 
+error of measurement (SEM) , where one SEM represents  the MCID for clinical responsiveness 
+to change in HRQOL  (Copay et al., 2007; Varni et al., 2003).  The recommended MCID for the  
+PedsQL equates to a  pre-post change in HRQOL total score of 4.4 based on child report or 4.5 
+based on parent -proxy report (Varni et al., 2003).  Of intervention studies included in this 
+review, only three treatment groups saw improvements in HRQOL as meas ured by the PedsQL 
+that would meet these MCID criteria based on child -report (Wafa et al., 2011), parent -proxy 
+report (Yackobovitch -Gavan et al., 2009), or both (Mendonca et al., 2013).  In addition, at least 
+one of these studies showed greater improvement  in the control group than the treatment group, 
+although a clinically significant improvement was seen for the intervention group 
+(Yackobovitch -Gavan et al., 2009).   Importantly, findings by Mendonca et al. (2013) represent 
+an outlier that found larger eff ects of physical activity on HRQOL than other interventions.  
+Therefore, in most cases, the small effect sizes seen following exercise interventions did not 
+indicate a clinically meaningful improvement in HRQOL.  These findings suggest that existing 
+physic al activity interventions may have positive, but limited effects on HRQOL.   
+An additional way to interpret these results is using the number needed to treat (NNT), or 
+the average number of participants needed to complete an intervention in order to have o ne 
+successful outcome  (Kraemer & Kupfer, 2006 ).  NNT can also be operationalized as  the number 
+of patients that would need to be treated (versus an untreated or alternative treatment comparison 
+group) to see a difference in outcome ( Citrome , 2008 ).  The NN T calculated from effect sizes for 
+intervention studies based on child report (Hedge’s g = .279) indicates that 14  patients would 
+need to be treated with an exercise intervention to achieve a clinically significant improvement in 
+one pati ent above and beyo nd that of a no -treatment or alternative intervention  control group.  
+43 
+ 
+ For intervention studies based on parent report (Hedge’s g = .522), 6 patients would need to be 
+treated to achieve o ne participant with a significantly better outcome  in HRQOL beyond tha t of 
+the control group.  This metric can help researchers and practitioners further understand the 
+generally small effect  found in this meta -analytic review.  Overall, 6 to 14 patients may need to 
+be treated with existing exercise interventions for one pat ient to achieve a m eaningful 
+improvement in HRQOL .  If one outlying study is removed (Mendonca et al., 2013), these NNT 
+numbers would increase  to 13 to 22 patients who would need to receive an exercise intervention 
+for one patient to show a clinically rele vant improvement in HRQOL.  As discussed more fully 
+below, t his indicates that existing physical activity interventions are not sufficiently effective to 
+improve HRQOL for the majority of youth.  
+The secondary aim of this review was to explore the impact of  moderators on the 
+relationship between physical activity and HRQOL.  None of the a priori  moderators, including 
+chronic disease status, weight status, sex, and study rigor, were found to significantly moderate 
+the relationship betwee n physical activity an d HRQOL.  Additional post hoc examination s of age 
+and total intervention contact hours  (as a proxy measure of e xercise duration and frequency)  also 
+did not significantly moderate the effect of physical activity on HRQOL in intervention studies.  
+Base d on pr evious estimations, it was  not surprising that these analyses failed to identify 
+significant moderators, given the limited number of studies identified by this review that could 
+be included in mode rator analyses  and differential study types (i.e. child ver sus parent -reported 
+HRQOL , descriptive versus intervention  study  designs ) which required analyses to be conducted 
+in four separate models.  For example, Groenveld et al. (2012, p.1841) estimated that “ the 
+sample size needed to detect a small effect size [ for sex on HRQOL ] would be N  ~780,” while 
+the median sample  size for included studies was approximately 87.  Limited variability in a 
+44 
+ 
+ priori  moderators across included studies, particularly for chronic disease status and weight 
+status, further limited these  analyses.  The majority of included studies were conducted in youth 
+with a chronic disease , indicating the need for high  quality studies in healthy youth that report all 
+data necessary to calculate effect sizes.  Weight status was also not adequately repo rted in studies 
+whose primary aims did not include assessing youth with overweight/obesity  or it was reported 
+in a variety of formats that could not be directly compared (e.g. body weight, body mass index 
+[BMI], BMI percentile, percent overweight/obese) .  Weight  status  may be an important 
+demographic indicator to report systematically  in future pediatric studies.   Previous reviews were 
+unable to calculate even overall effect sizes in children and adolescents due to high heterogeneity 
+between studies (Grange r et al., 2017; Poitras et al., 2016; Wong et al., 2017), indicating that 
+additional moderators not assessed in this analysis could explain variability  between studies.  
+ Although a priori  moderators were not significant, effect sizes did qualitatively vary  
+across study type and HRQOL reporter.  In general, larger effect sizes (Hedges g = .279 -.522) 
+were observed for intervention studies, indicating that HRQOL is a construct that can be 
+positively altered by physical activity education and structured exercis e involvement.  Effect 
+sizes were typically smaller in descriptive studies (Hedges g = .11 5-.302) where physical activity 
+and HRQOL levels were measured concu rrently without intervention.  Aggregate e ffect sizes 
+were more consistent across studies that use d child -report of HRQOL (Hedges g = .279 -.302) , 
+while effect sizes based on  parent -proxy reports of youth HRQOL were more variable (Hedges g 
+= .115 -.522).  The variability in effects based on parent -proxy reports of youth HRQOL could be 
+due to the more lim ited number of studies that included parent -proxy reports in this review.  
+Unfortunately, these qualitative variations were unable to be tested as quantitative moderators 
+because the se differences existed across meta -analytic models , which would be inappro priate to 
+45 
+ 
+ directly compare (i.e. parent versus child -report; intervention versus cross -sectional study 
+design).  
+One possible explanation for the limited effect  sizes observed in this study requires a 
+closer look at exercise interventions for youth.  Two pr evious reviews of exercise interventions 
+in childhood found that physical activity interventions displayed small to negligible 
+improvements in objectively measured physical activity immediately following or six months 
+after an intervention (Metcalf et al.,  2012; Sims et al., 2015).  Average increases in activity level 
+following an active intervention were only 4.47 minutes per day of total activity or 1.47 minutes 
+per day of MVPA (Sims et al., 2 015).  With such small changes i n physical activity, it is not 
+surprising that downstream effects on psychosocial outcomes like HRQOL would also be small.  
+Some evidence suggests  a dose-response relationship  between physical activity and HRQOL, 
+with 1.5 -2.6 unit increases in physical functioning HRQOL reported for eac h increased hour of 
+physical activity (Gopinath et al., 2012).  However, this implies that adolescents would have to 
+increase physical activity levels by over two hours per day to achieve a change in HRQOL 
+commensurate with estimates for a cli nically meani ngful change (HRQOL t otal score difference 
+of 4.4 -4.5; Varni et al., 2003) .  In contrast , physical activity guidelines recommend youth above 
+six years to engage in only one hour of MVPA to achieve health -related benefits (U.S. 
+Department of Health and Huma n Services, 2008; World Health Organization, 2010).  This 
+disconnect between physical activity guidelines and amount of change in activity followi ng an 
+exercise intervention will be  an important area for future research.    
+Importantly, twelve out of 19 int ervention studies failed to objectively measure physical 
+activity to determine whether interventions resulted in significant changes in physical activity.  
+Ten of the studies did not measure physical activity at all.  Without direct measures of pre -post 
+46 
+ 
+ physical activity, small observed effects on HRQOL could be due to intervention failure (i.e. 
+physical activity level did not actually increase), compensatory decreases in naturally occurring 
+physical activity (e.g. Melanson et al., 2013), or low -level chang es in physical activity that were 
+not large enough to achieve significant subjective health -related benefits.  As described in Sims 
+et al., (2015), at least one study has successfully increased child physical activity by almost 60 
+minutes (Araujo -Soares et  al., 2009), indicating that it may be possible for exercise interventions 
+to increase activity to a level that could facilitate clinically meaningful downstream effects on 
+psychosocial outcomes.  However, as demonstrated by the lack of physical activity m easurement 
+in this meta -analysis, there is a  need for exercise interventions that objectively assess changes in 
+physical activity and concurrent changes in HRQOL.  Subjective measures are not an accep table 
+alternative as it is well -documented that subjecti ve measures of physical activity often 
+overestimate duration and intensity (Ekelund et al., 2011).  Promisingly, research suggests that 
+objective physical activity devices are  used in pediatric research, acceptable for youth wear, and 
+increasingly affordab le (Bjornson, 2005; Cain et al., 2013; Van Coevering et al., 2005).  The 
+increased use of objectively measured physical activity bodes well for a growing  number of 
+studies that will have the capacity to relate objective changes in physical activity level t o 
+HRQOL outcomes.  
+Further complicating a more in -depth analysis of why physical activity interventions did 
+not affect HRQOL in a clinically meaningful way, e xercise interventions included in this review 
+were highly heterogeneous .  Included studies ranged from conventional cardiorespiratory and 
+resistance training (e.g. Taracki et al., 2012; Van Dijk -Lokkart et al., 2015) to educational 
+multidisciplinary treatments  (e.g. Vos et al., 2012; Wake et al., 2009)  to specific, alternative 
+exercise types, such as P ilates and aquatic training  (e.g. Mendonca et al., 2013; Takken et al., 
+47 
+ 
+ 2003) .  Differences in these types of exercise may help to explain differential effects of physical 
+activity on HRQOL between studies.  For instance, interventions in this analysis wit h individual 
+sessions including both cardiorespiratory and strength -training exercises (Taracki et al., 2012) or 
+48 sessions of Pilates exercises (Mendonca et al., 2013) displayed the largest effect sizes.  While 
+implementation of dance mats across schools  and aquatic exercise once a week displayed small 
+negative effects (Azevedo et al., 2014; Takken et al. , 2003).  Consistent with the model proposed 
+by Lubans et al. (2016), t his may indicate that factors such as type of exercise, number of 
+training session s, and how the intervention was  administered had a large impact on the 
+effectiveness of these interventions.  
+To further assess why some exercise interventions resulted in larger effects on HRQOL 
+than others, intervention contact hours were included as a pr oxy for intervention duration and 
+frequency in this meta -analysis  post-hoc.  Although intervention contact hours did not 
+significantly moderate the relation ship between physical activity  and HRQOL, analyses were 
+limited by six out of 19 studies that failed  to report detailed information on intervention 
+frequency and duration.  This may indicate disciplinary differences in the development, 
+implementation, and reporting of exercise interventions for youth.  Studies that objectively 
+assessed changes in physica l activity, had detailed descriptions of intervention methods, and 
+provided scientific rationales for the intensity of training may have been less likely to include 
+psychosocial measures like HRQOL and thus were not included in this review; whereas, 
+psycho logically -minded researchers who included patient -reported outcomes like HRQOL may 
+have been less likely to include rigorous exercise designs, true exercise interventions, or 
+objective measures of physical activity.  A more in -depth examination of aspects of exercise 
+interventions that could influence  their effectiveness for changing HRQOL was beyond the scope 
+48 
+ 
+ of this study , but should be a  focus of future meta -analytic reviews.  Future researchers may  
+benefit from using the Lubans et al. (2016) mechanistic  model to develop structured exercise 
+interventions in youth that are of adequate frequency, intensity, time, type, and context to 
+facilitate meaningful changes in subjective psychological well -being and quality of life .  Future 
+researchers may also benefi t from developing cross -discipline collaborations to overcome 
+potential disciplinary gaps in intervention design and implementation.    
+Finally, aspects of study rigor and systematic limitations in the existing literature should 
+be considered when interpret ing these results.   Some aspects of study rigor were g enerally good 
+across studies.  For example, a lmost all studies reported at least three demographic variables and 
+most studies reported on intervention drop -outs or study completion rates.  Ove r half of the 
+studies included multi -informant reports of HRQOL (i.e. child self -report and parent -proxy 
+report), although these had to be analyzed in separate analyse s.  A fair number of studies  
+included a minimum sample size  of at least 40 participants (or 20 part icipants per group) and 
+most of the intervention studies used randomized controlled designs.   
+However, studies were less likely to collect data from multiple sites, report use of a 
+standardized treatment manual, or use blinded assessors.  No included stud y measured treatment 
+fidelity.  Lower study rigor scores were observed across descriptive studies, generally, because 
+some aspects of the study rigor coding were not present and automatically scored zero for studies 
+that did not include an intervention .  In addition, some studies may have included additional 
+aspects of study rigor but failed to adequately report each aspect in the published work, resulting 
+in artificially lower scores.  For future studies, larger sample sizes and more consistent inclusion 
+of both child and parent -proxy reported outcomes should continue to be a focus.  The main areas 
+for improvement in study rigor are a need for the use of standardized intervention manuals and 
+49 
+ 
+ intervention fidelity checks, as well as better inclusion of blind ing to reduce the potential for 
+biased outcomes by assessors who know the participant’s treatment allocation.  
+Finally, although the initial search returned a high number of studies that included both 
+physical activity and HRQOL, HRQOL was rarely compared d irectly to physical activity 
+outcomes and was even more rarely a primary outcome.  For studies that did directly compare 
+physical activity and HRQOL outcomes, many studies failed to report total HRQOL scores (e.g. 
+reported subscale scores only) or reported  test statistics that were unable to be converted into an 
+effect size (e.g. median, interquartile range).  Future research should aim to include validated 
+HRQOL measures as a primary outcome, report on both sub -domain and total HRQOL scores, 
+and report tes t statistics that are readily usable to calculate effect sizes.  
+Strengths and Limitations  
+Beyond the specific limitations of the literature noted above, t his study had a number of 
+limitations. As with any meta -analysis, there was a risk that the literature  search did not capture 
+all of the relevant literature .  However, the authors  tested and reviewed  search terms with 
+colleagues  prior to conducting the final database search , conducted  forward - and backward -
+searches to identify additional r elevant articles,  and contacted  authors for missing information to  
+help ensure that the search returned  the most complete literature possible.  This study was also at 
+risk for finding skewed (larger) effect sizes because it did not  include  unpublished works.  To 
+counteract  this risk, the ProQ uest Dissertations database was used to find relevan t, unpublished 
+dissertations  and theses  and the fail-safe N was calculated.  Based on the number of studies in 
+this meta -analytic review, it is unlikely that an additional  10-42 unpubl ished,  non-significant 
+studies exist that could  reduce the small, positive effect found in this analysis  to a negligible 
+effect for three out of four models.   
+50 
+ 
+ Effect sizes may also have been impacted by the search criteria, which excluded 
+interventions wi thout control groups and limited the types of HRQOL and physical activity 
+measures  that could be included (e.g. validated HRQOL measures with total scores, no single -
+item measures , physical activity in minutes or METs ).  However, these decisions were made in 
+an effort to include higher quality studies that were directly comparable.  Importantly, overall 
+effect sizes in intervention studies changed from small to marginal, and medium to small when a 
+single study was removed from analyses (Mendonca et al., 201 3).  Several factors, including the 
+nature of the sample (children with juvenile rheu matoid arthritis), the nature of the intervention 
+(Pilates), and the number of exercise sessions may have individually or in combination resulted 
+in larger than expected r esults in this study.  
+Not all of the a priori  moderators could  be tested in each model due to a limited number 
+of studies that provide d information on the proposed moderators  (i.e. weight status)  and the 
+limited sample variability across some studies (i.e . all studies in a model conducted i n chronic 
+disease populations).  Finally, the conclusions of this meta -analysis are only as accurate as the 
+previously published literature.  Existing gaps in the literature , including a limited number of 
+studies that di rectly measured  physical activity and HRQOL, published studies that included 
+these variables but did not report usable test statistics , and limited research on physical activity 
+and HRQOL in young children , were unable to  be rectified by this meta -analysis .   
+In spite of these  limitations, this meta -analysis had  a number of strengths.  One strength 
+was the broad sample of children and adolescents included in this review.  Previous 
+investigations of physical activity and HRQOL have focused on  disorder -specif ic pediatric sub -
+populations  or healthy youth only.  T his analysis provided the first  integration of previous 
+research  that cuts across  pediatric populations  for a broader understanding of the relationship 
+51 
+ 
+ between physical activity and HRQOL in youth .  Another strength of this systematic review was 
+the breadth of the literature  search , which included  1801 non -duplicate  articles from multiple 
+databases , unpublished dissertations  and theses , and forward - and backward -searches to identify 
+the most relevant lit erature possible.  In addition, t his review incorporated  a systematic coding 
+scheme to assess study rigor  and statistical techniques , including a Q statistic and fail -safe N 
+statistic , to evaluate the quality of the literature from which conclusions were drawn.  The 
+authors  accounted for variations in study sample sizes and their potential impact on effect sizes 
+by calculating Hedges g, rather than Cohen’s d, to reduce bias due to small sample sizes and 
+overweighting due to large sample sizes.   Findings were also related to MCI D and NNT 
+standards, to provide clinically relevant interpretation of the effects from intervention studies.   
+Conclusion  
+This synthesis of  the differential effects of physical activity on HRQOL across pediatric 
+populations  revealed  a small  to negligible positive association between physical activity and 
+HRQOL in descriptive studies, and a small to medium  positive  effect of physical activity on 
+HRQOL  in intervention studies .  For intervention studies, overall effect sizes were largely 
+impacted by a single intervention, and effects were attenuated if this study was removed.  
+Overall , physical activity did not appear to have a clinically meaningful effect on HRQOL, 
+implying that existing structured exercise interventions may not be of adeq uate intensity, 
+frequency, duration, or type to significantly improve HRQOL in youth.  Although this  analysis 
+was limited by wide variation in effects across individual studies and limited ability to detect 
+moderators of this variability, this meta -analysi s was the first to quantify aggregate effects  of 
+pediatric HRQOL  in relation to exercise.  As the use of patient -reported outcomes and HRQOL 
+measures continues to increase  across disciplines  in response to  national health organization 
+52 
+ 
+ initiatives , addition al research is needed to consistently replicate findings for the relationship 
+between physical activity and HRQOL in youth.  Additional research is needed to determine the 
+level of physical activity that would be required to improve HRQOL in a clinically m eaningful 
+way across both healthy and chronically ill pediatric populations.  Researchers should be mindful 
+that the dose of physical activity needed to significantly improve psychosocial outcomes like 
+HRQOL may not correspond exactly with current physical  activity guidelines for youth.  Most 
+importantly, additional research is needed that objectively measures  the impact of exercise type, 
+duration, frequency, and intensity on HRQOL  in children and adolescents.   
+53 
+ 
+ References  
+*Studies preceded by an asterisk we re included in the meta -analysis  
+Acquadro C., Berzon R., Dubois D., Leidy N . K., Marquis P., Revicki D., & Rothman, M. 
+(2003). Incorporating the patient’s perspective into drug development and 
+communication: An ad hoc task force report of the patient -repor ted outcomes (PRO) 
+harmonization group meeting at the Food and Drug Administration, February 16, 2001. 
+Value Health 6(5) , 522 –531. doi: 10.1046/j.1524 -4733.2003.65309.x  
+Araujo -Soares, V., McIntyre, T., MacLennan, G., Sniehotta, F. F. (2009). Development and  
+exploratory cluster -randomised opportunistic trial of a theory -based intervention to 
+enhance physical activity among adolescents. Psychology & Health, 20 , 805 -822. 
+*Azevedo, L.B., Watson, D.B., Haighton, C., & Adams, J. (2014). The effect of dance mat 
+exergaming systems on physical activity and health -related outcomes in secondary 
+schools: results from a natural experiment. BMC Public Health, 14 , 951. 
+doi:10.1186/1471 -2458 -14-951. 
+Biddle, S. J. H. &  Asare, M. (2011). Physical activity and mental health in children and 
+adolescents: a review of reviews. British Journal of Sports Medicine, 45(11 ), 886 -895. 
+doi:10.1136/bjsports -2011 -090185.  
+Bize, R., Johnson, J. A., & Plotnikoff, R. C. (2007). Physical activity level and health -related 
+quality of life in the g eneral adult population: A systematic review. Preventive Medicine, 
+45, 401 -415. doi: 10.1016/j.ypmed.2007.07.017.  
+*Bocca, G., Kuitert, M.W.B., Sauer, P.J.J., Stolk, R.P., Flapper, B.C., & Corpeleijn, E. (2014). A 
+multidisciplinary intervention programme has  positive effects on quality of life in 
+overweight and obese preschool children. Acta Paediatrica, 103 , 962 -967. 
+doi:10.1111/apa.12701.  
+54 
+ 
+ Boreham, C. A. G. &  McKay, H. A. (2011). Physical activity in childhood and bone health. 
+British Journal of Sports Medic ine, 45(11) , 877 -879. doi: 10.1136/bjsports -2011 -090188.  
+*Boyle, S.E., Jones, G.L., & Walters, S.J. (2010). Physical activity, quality of life, weight status, 
+and diet in adolescents. Qual ity of  Life Res earch , 19, 943 -954. doi:10.1007/s11136 -010-
+9659 -8.  
+Brown, D.  W., Balluz, L.  S., Heath, G.  W., Moriarty, D.  G., Ford, E.  S., Giles, W.  H., &  
+Mokdad, A.H. (2003). Associations between recommended levels of physical activity and 
+health -related quality of life:  Findings from the 2001 Behavioral Risk Factor 
+Surv eillance System (BRFSS) survey. Preventive Medicine, 37(5) , 520 -528. 
+doi:10.1016/S0091 -7435(03)00179 -8. 
+Brown, H. E., Pearson, N., Bait hwaite, R. E., Brown, W. J., &  Biddle, S. J. H. (2013). Physical 
+activity interventions and depression in children and ad olescents: A systematic review 
+and meta -analysis . Sports Med icine , 43, 195 -206. doi: 10.1007/s40279 -012-0015 -8. 
+Bjornson, K.F. (2005). Physical Activity Monitoring in Children and Youths . Pediatric Physical 
+Therapy, 17 (1), 37-45. 
+Cain,  K.L., Sallis,  J.F., Conway , T.L., Van Dyck , D., &  Calhoon , L. (2013). Using 
+accelerometers in y outh physical activity studies: a  review of methods . Journal of 
+Physical Activity and Health, 10 , 437 -450. 
+Card, N. A. (2012). Applied meta -analysis for social science research . New  York, NY: Guilford 
+Press.  
+*Casey, M., Harvey, J., Telford, A., Eime, R., Mooney, A., & Payne, W. (2014). Effectiveness 
+of a school -community linked program on physical activity levels and health -related 
+quality of life for adolescent girls . BMC Public Hea lth, 14 , 649.  
+55 
+ 
+ Centers for Disease Control. (2011, March 17). Health -related quality of life (HRQOL).  
+Retrieved from  http://www.cdc.gov/hrqol/concept.htm . 
+Centers for Disease Control. (2015, June 4). Physical activity and health: The benefits of 
+physical ac tivity . Retrieved from http://www.cdc.gov/physicalactivity/basics/pa -
+health/index.htm.  
+Chan, M. E. & Arvey, R. D. (2012). Meta -analysis and the development of knowledge. 
+Perspectives on Psychological Science, 7(1) , 79-92. doi: 10.1177/1745691611429355.  
+Chan g, C.  W., Mu, P.  F., Jou, S.  T., Wong, T.  T., &  Chen, .C. (2013). Systematic review and 
+meta‐analysis of nonpharmacological interventions for fatigue in children and 
+adolescents with cancer. Worldviews on Evidence -Based Nursing, 10(4) , 208 -217. 
+doi:10.1111 /wvn.12007.  
+Chen, G., Ratcliffe, J., Olds , T., Magary, A., Jones, M., &  Leslie, E. (2014). BMI, health 
+behaviors, and quality of life in children and adolescents: A school -based study. 
+Pediatrics, 133(4) , e868 -e874.  doi:10.1542/peds.2013 -0622.  
+Citrome, L. (2008). Compelling or irrelevant? Using number  needed to treat can help decide . 
+Acta Psychiatrica Scandinavica, 117 , 412–419. doi: 10.1111/j.1600 -0447.2008.01194.x . 
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences  (2nd ed.). Hilllsda le, NJ: 
+Erlbaum.  
+Comprehensive Meta -Analysis (Version 3) [Computer software]. (2017 ). Englewood, NJ: 
+Biostat.  
+Copay, A.G. , Subach , B.R., Glassman , S.D., Polly , D.W. Jr., & Schuler , T.C. (2007). 
+Understanding the minimum clinically important difference: a review of concepts and 
+methods. The Spine J ournal , 7(5), 541 -546. doi: 10.1016/j.spinee.2007.01.008 . 
+56 
+ 
+ Dalton, A.  G., Smith, C., Dalton, W.  T., &  Slawson, D.  L. (2015). Exam ining general versus 
+condition -specific health - related quality of life across weight categories in an adolescent 
+sample . Journal of Pediatric Health Care, 5 , 453 -462. doi:10.1016/j.pedhc.2015.04.001.  
+Dalton, W.  T., Schetzina, K.  E., Pfortmiller, D.  T., Slawson, D.  L., &  Frye, W.  S. (2011). Health 
+behaviors and health -related quality of lif e among middle school children in Southern 
+Appalachia:  data from the Winning with Wellness Project. Journal of Pediatric 
+Psychology, 36(6) , 677 –686. doi:10.1093/jpepsy/jsq108.  
+Daltroy , L., Liang , M., Fossel , A., & Goldberg , M. (1998). The POSNA pediatric 
+musculoskeletal functional health questionnaire: report on reliability, validity, and 
+sensitivity to change. Journal of Pediatric Orthopaedics , 18(5), 561 –571. 
+Daley , A. J., Copeland, R., Wright, N. P., Roalfe, A., & Wales, J. K. H. (2006). Exercise therap y 
+as a treatment for psychopathologic conditions in obese and morbidly obese adolescents: 
+A randomized, controlled trial. Pediatrics, 118(5) , 2126 -34. doi :10.1542/peds.2006 -1285 . 
+De Beer, M., Hofsteenge, G. H., Koot, H. M., Hirasing, R. A., Delemarre -van d e Waal, H. A., & 
+Gemke, R. J. (2007). Health -related -quality -of-life in obese adolescents is decreased and 
+inversely related to BMI. Acta Paediatrica, 96(5) , 710 -714. doi: 10.1111/j.1651 -
+2227.2007.00243.x.  
+*Demuth, S. K., Kuntson, L. M., & Fowler, E. G . (2012). The PEDALS stationary cycling 
+intervention and health -related quality of life in children with cerebral palsy:  a 
+randomized controlled trial.  Developmental Medicine & Child Neurology , 54(7), 654-
+661. doi:10.1111/j.1469 -8749.2012.04321.x  
+Dentro, K. N.,  Beals, K., Crouter, S. E., Eisenmann, J. C., McK enzie, T. L., Pate, R. R., … &  
+Katzmarzyk, P. T. (2014). Results from the United States’ 2014 report card on physical 
+57 
+ 
+ activity for children and youth. Journal of Physical Activity and Health , 11(Supp 1) , 
+S105-S112. doi:10.1123/jpah.2014 -0184.  
+DeSalvo, K.  B., Blose r, N., Reynolds, K., He, J., &  Muntner, P. (2006). Mortality prediction 
+with a single general self -rated health question: A meta -analysis. Journal of General 
+Internal Medicine , 21(3) , 267 –275.   
+Duff y, C., Arsenault , L., Duffy , K., Paquin , J., & Strawczynski , H. (1997). The Juvenile Arthritis 
+Quality of Life Questionnaire -development of a new responsive index for juvenile 
+rheumatoid arthritis and juvenile spondyloarthr itides. Journal of Rheumatology, 24(4), 
+738–746. 
+Durlak, J. A. (2009). How to select, calculate, and interpret effect sizes. Journal of Pediatric 
+Psychology, 34(9) , 917 -928. doi:10.1093/jpepsy/jsp004.  
+Ekelund, U., Luan, J., Sherar, L.  B., Esliger, D.  W., Griew, P., Cooper, A.,  & the Inter national 
+Children’s Accelerometry Database Collaborators. (2012). Moderate to vigorous physical 
+activity and sedentary time and cardiometabolic risk factors in children and adolescents. 
+Journal of the American Medical Association , 307(7) , 704 -712. 
+doi:10.1001/jama.2012.156.  
+Ekelund, U., Tomkinson,  G. R., &  Armstrong, N. (2011). What proportion of youth are 
+physically active? Measurement issues, levels and recent time trends. British Journal of 
+Sports Medicine, 45(11) , 859 -865. doi:10.1136/bjsports -2011 -0901 90. 
+EndNote  (Version X7) [Computer software]. (2017 ). Philadelphia, PA : Clarivate Analytics.  
+*Finkelstein , E. A., Tan, Y. T., Malhotra, R., Lee, C. F., Goh, S. S. 4, & Saw,  S. M. (2013). A 
+Cluster Randomized Controlled Tria l of an Incentive -Based Outdoor Physical Activity 
+Program. The Journal of Pediatrics , 163 , 167 -72. 
+58 
+ 
+ Finne, E., Reinehr, T., Schaefer, A., Winkel, K., & Kolip, P. (2013). Changes in self -reported 
+and parent -reported health -related quality of life in overweight children and adolescents 
+participating in an outpatient training: findings from a 12 -month follow -up study. Health 
+and Quality of Life Outcomes , 11(1) . doi:10.1186/1477 -7525 -11-1. 
+*Flapper, B. C. T., Duiverman, E. J., Gerritsen, J., Postema, K., & Van der Schans, C. P. (2008). 
+Happines s to be gained in paediatric asthma care. European Respiratory Journal, 32, 55-
+62. doi:10.1183/09031936.00140407  
+Gayes, L. A. & Steele, R. G. (2014). A m eta-analysis of motivational interviewing interventions 
+for p ediatric  health behavior c hange . Journal o f Consulting and Clinical Psychology, 
+82(3), 521 –535. doi:10.1037/a0035917 . 
+Godin , G. & Shephard , R. J. (1997). Godin leisure -time exercise quest ionnaire. Medicine & 
+Science in Sports & Exercise , 26(Suppl 6 ), S36–S38. 
+Godin G. (2011). The Godin -Shephard Le isure -Time Physical Activity Questionnaire. Health & 
+Fitness Journal of Canada , 4, 18–22. 
+Gopinath, B., Hardy, L, Baur, L.  A., Bulutsky, G., &  Mitchell, P. (2012). Physical activity and 
+sedentary behaviors and health -related quality of life in adolescents.  Pediatrics, 130 (1), 
+e167 -e174.  doi:10.1542/peds.2011 -3637.  
+Granger, E., Di Nardo, F., Harrison, A., Patterons, L., Holmes, R., & Verma, A. (2017). A 
+systematic review of the relationship of physical activity and health status in adolescents. 
+European Jour nal of Public Health, 27 (Suppl. 2), 100 -106. doi: 10.1093/eurpub/ckw187.  
+*Groeneveld, I. F., Sosa, E. S., Pérez, M., Fiuza -Luces, C., Gonzalez -Saiz, L., Gallardo, C., ... & 
+Lucia, A. (2012). Health -related quality of life of Spanish children with cystic 
+fibrosis.  Quality of Life Research,  21(10), 1837 -1845. d oi:10.1007/s11136 -011-0100 -8 
+59 
+ 
+ *Gu, X. & Solmon , M. A. (2015).  Motiv ational processes in children's physical activity and  
+health -related quality of life.  Physical Education and Sport Pedagogy, 21 (4), 407 -424. 
+doi:10.1080/17408989.2015.1017456 . 
+*Ha, A.S. & Ng, J.Y. (2015). Autonomous motivation predicts 7‐day physical activity in Hong 
+Kong students. Applied Psychology: Health and Well -Being, 7 (2), 214 -229. 
+doi:10.1111/aphw.12045.  
+Haidich, A. B. (2010). Meta -analysis in medical research. Hippokrati a, 14(Suppl 1) , 29-37. 
+*Hamiwka, L.A., Cantell, M., Crawford, S., & Clark, C.G. (2009). Physical activity and health 
+related quality of life in children following kidney transplantation. Pediatr ic 
+Transplantation, 13 , 861 -897. doi:10.1111/j.1399.2009.01195 .x. 
+Hedges, L. V., & Olkin, I. (1985). Statistical methods for meta -analysis . New York: Academic 
+Press.  
+Herman, K.  M., Sabiston, C.  M., Tremblay, A., &  Paradis, G. (2014). Self -rated health in 
+children at risk for obesity: associations of physical activity , sedentary behavior, and 
+BMI.  Journal of Physical Activity and Health, 11 (3), 543 -552. doi:10.1123/jpah.2012 -
+0124.  
+*Hofsteenge, G. H., Weijs , P.J., Delemarre -van de Waal , H.A., de Wit , M., & Chinapaw , M.J. 
+(2013). Effect of the Go4it multidisciplinary gro up treatment for obese adolescents on 
+health related quality of life:  a randomised controlled trial.  BMC Public Health, 13 , 939. 
+doi:10.1186/1471 -2458 -13-939. 
+Hughes, C. W., Barnes, S., Barnes, C., DeFina, L. F., Nakonezny, P., & Emslie, G. J. (2013). 
+Depr essed adolescents treated with exercise (DATE): A pilot randomized controlled trial 
+60 
+ 
+ to test feasibility and establish preliminary effect sizes. Mental Health and Physical 
+Activity, 6 , 119 -131. 
+*Jalali -Farahani, S., Amiri, P., & Chin, Y.S. (2016). Are physi cal activity, sedentary behaviors 
+and sleep duration associated with body mass index -for-age and health -related quality of 
+life among high school boys and girls? Health and Quality of Life Outcomes, 14 , 30. 
+doi:10.1186/s12955 -016-0434 -6. 
+Janssen, I., Katzm arzyk, P. T., Boyce, W. F., Vereecken, C., M ulvihill, C., Roberts, C., … &  The 
+Health Behavior in School -Aged Children Obesity Working Group. (2005). Comparison 
+of overweight and obesity prevalence in school -aged youth from 34 countries and their 
+relations hips with physical activity and dietary patterns. Obesity Reviews, 6(2) , 123 -132. 
+Jensen, C.  D., Cushing, C.  C., &  Elledge, A.  R. (2014). Associations between teasing, quality of 
+life, and physical activity among preadolescent children. Journal of Pediatri c 
+Psychology, 39(1) , 65–73. doi:10.1093/jpepsy/jst086.  
+Kantor, R.  M, Grimes, G.  R., &  Limbers, C.  A. (2015). Physical activity, sedentary behaviors, 
+and health -related quality of life in rural Hispanic youth. Translational Issues in 
+Psychological Science, 1(3), 239–249. 
+Knop fli, B.  H., Radtke, T., Lehmann, M., Schatzl e, B., Eisenblatter, J., Gachnang, A., …  & 
+Brooks -Wildhaber, J. Effects of a multidisciplinary inpatient intervention on body 
+composition, aerobic fitness, and quality of life in severely obese  girls and boys. Journal 
+of Adolescent Health, 42(2) , 119 -127. doi:10.1016/j.jadohealth.2007.08.015.  
+Koopman , H. M., Theunissen , N. C. M., Vogels , T. G. C., Kamphuis, R. P., & Verrips, G. H.  
+(1998) . The DUX -25: a short form questionnaire for measuring heal th related quality of 
+life of children with  chronic illness. Quality of Life Research , 7, 619. 
+61 
+ 
+ Kraemer , H. C. & Kupfer , D. J. (2006). Size of treatment effects and their importance to clinical 
+research and practice. Biological Psychiatry, 59 (11), 990 -996. 
+doi:10.1016/j.biopsych.2005.09.014 . 
+Lacy, K.  E., Allender, S.  E., Kremer, P.  J., de Silvia -Sanigorski, A.  M., Millar, L.  M., Moodie, 
+M. L., … & Swinburn, B.  A. (2012). Screen time and physical activity behaviours are 
+associated with health -related quality of life in Australian adolescents. Quality of Life 
+Research , 21, 1085 -1099.  doi:10.1007/s11136 -011-0014 -5. 
+Landgraf , J. M., Abetz , L., & Ware , J. E. (1996). The CHQ user’s manual . Boston: The Health 
+Institute, New England Medical Center . 
+Larun, L., Nordhei m, L. V. , Ekeland, E., Hagen, K. B., &  Heian, F. (2006). Exercise in 
+prevention and treatment of anxiety and depression among children and young people. 
+Cochrane Database of Systematic Reviews, 3 . doi: 10.1002/14651858.CD004691.pub2.  
+*Lim, C.  S., Mayer -Brow n, S. J., Clifford, L.  M., &  Janicke, D.  M. (2014). Pain is associated 
+with physical activity and health -related quality of life in overweight and obese children. 
+Children’s Health Care, 43 , 186 -202. 
+Lubans, D., Richards, J., Hillman, C., Faulkner, G., Bea uchamp, M., Nilsson, M., … & Biddle, 
+S. (2016). Physical activity for cognitive and mental health in youth: A systematic review 
+of mechanisms. Pediatrics, 138 (3), e20161642. doi: 1.1542/peds.2016.1642.  
+Lundahl, B.W., Kunz, C., Brownell, C., Tollefson, D., & Burke, B. L. (2010). A meta -analysis of 
+motivational interviewing: Twenty -five years of empirical studies. Research on Social 
+Work Practice, 20(2) , 137 -160. doi:10.1177/1049731509347850.  
+62 
+ 
+ Melanson,  E. L., Keadle,  S. K., Donnelly,  J. E., Braun, B., & King,  N. A. (2013). Resistance to 
+exercise -induced weight loss: compensatory behavioral adaptations . Medicine & Science 
+in Sports & Exercise, 45 (8), 1600 –1609. doi:10.1249/MSS.0b013e31828ba942 . 
+*Mendonca, T. M., Terreri , M.T., Silva , C.H., Neto , M.B., Pinto , R.M., Natour , J., & Len, C.A. 
+(2013). Effects of Pilates exercises on health -related quality of life in individuals with  
+juvenile idiopathic arthritis.  Archives of Physical Medicine and Rehabilitation , 94(11), 
+2093 -2102.  doi:10.1016/j.apmr.2013.05.026 . 
+*Mendo za, J. A., Baker, K. S., Moreno, M. A., Whitlock, K., Abbey -Lambertz, M., Waite, A., 
+…& Chow, E. J. (2017). A Fitbit and Facebook mHealth intervention for promoting  
+physical activity among adolescent and young adult childhood  cancer survivors: A pilot 
+study. Journal of Pediatric Blood & Cancer , e26660. doi:10.1002/pbc.26660 . 
+Metcalf, B. S., Hosking, J., Jeffery, A. N., Henley, W. E., & Wilkin, T. J. (2015). Exploring the 
+adolescent fall in physical activity: A 10 -yr cohort study (EarlyBird 41). Medicine & 
+Science in Sports & Exercise , 47(10) , 2084 -2092. doi: 10.1249/MSS.0000000000000644.  
+*Michels, N., Susi, K., Marques -Vidal, P. M., Nydegger, A., & Puder, J. J. (2016). Psychosocial 
+Quality -of-Life, Lifestyle and Adiposity: A Longitudinal Study in Pre -schooler s 
+(Ballabeina Study).  International Journal of Behavioral Medicine , 23, 383 -392. 
+doi:10.1007/s12529 -016-9537 -z. 
+Mitchell, T. M., Amaro, C. M., & Steele, R. G. ( 2016 ). Pediatric weight management  
+ interventions in primary care settings: A meta -analysis. Health Psychology , 35(7), 704 -
+713. doi:10.1037/hea0000381 . 
+63 
+ 
+ Moher D., Liberati A., Tetzlaff J., Altman D. G., & The PRISMA Group. (2009). Preferred 
+Reporting Items for Systematic Reviews and Meta -Analyses: The PRISMA Statement. 
+PLoS Med icine , 6(6) , e1000097. doi:10.1371/journal.pmed1000097.  
+Morales, P. F., Sánchez -López, M., Moya -Martínez, P., García -Prieto, J.  C., Martínez -Andrés, 
+M., Garcia, N. L., &  Martinez -Vizcaino, V.  (2013). Health -related quality of life, obesity, 
+and fitness in schoolchildren: The Cue nca study.  Qual ity of  Life Res earch , 22(7) , 1515 -
+1523.  doi:10.1007/s11136 -012-0282 -8. 
+National Institutes of Health. PROMIS overview . Retrieved from 
+http://www.nihpromis.org/about/overview.  
+*Norris, J.  M., Moules, N.  J., Pelletier, G., &  Culos -Reed, S.  N. (2010). Families of young 
+pediatric cancer survivors: A cross -sectional survey examining physical activity behavior 
+and health -related quality of life. Journal of Pediatric Oncology Nursing, 27(4) , 196 -208. 
+doi:10.1177/1043454209358411.  
+Office of Disease P revention and Health Promotion. (2015, Oct 21). Health -related quality of life 
+& well -being. Retrieved from: http://www.healthypeople.gov/2020/topics -
+objectives/topic/health -related -quality -of-life-well-being.  
+Palermo, T. M., Fonareva, I., &  Janosy, N. R. (2008 a). Sleep quality and efficiency in 
+adolescents with chronic pain: relationship with activity limitations and health -related 
+quality of life. Behavioral Sleep Medicine , 6(4), 234-250. 
+doi:10.1080/15402000802371353 . 
+Palermo, T. M., Long, A. C., Lewando wski, A. S., Drotar, D., Quittner, A. L., &  Walker, L. S. 
+(2008b). Evidence -based assessment of health -related quality of life and functional 
+64 
+ 
+ impairment in pediatric psychology. Journal of  Pediatr ic Psychol ogy, 33(9) , 983 -996. 
+doi:10.1093/jpepsy/jsn038.  
+*Paxton, R.  J., Jones, L.  W., Rosoff, P.  M., Bonner, M., &  Ater, J.  L. (2010). Associations 
+between leisure -time physical activity and health -related quality of life among adolescent 
+and adult survivors of childhood cancers. Psycho -Oncology, 19(9) , 997 -1003 . 
+doi:10.1002/pon.1654.  
+Poitras, V. J., Gray, C. E., Borghese, M. M., Carson, V., Chaput, J. P., Janssen, E., … & 
+Tremblay, M. S. (2016). Systematic review of the relationships between objectively 
+measured physical activity and health indicators in school -aged children and youth. 
+Applied Physiology, Nutrition, and Metabolism , 41, S197 -S239. doi:10.1139/apnm -2015 -
+0663.  
+*Quaresma,  A. M. , Palmeira , A. L. , Martins , S. S. , Minderico , C. S., &  Sardinha , L. B. (2014). 
+Effect of a school -based intervention on physi cal activity  and quality of life through 
+serial mediation of social  support and exercise motivation: the PESSOA program . Health 
+Education Research, 29 (6), 906–917 
+Quittner, A.  L., Buu, A., Messer, M.  A., Modi A.  C., & Watrous, M. (2005). Development and 
+Validation of the Cystic Fibrosis Questionnaire (CFQ) in the United States: A health -
+related quality of life measure for cystic fibrosis. Chest, 128 , 2347 -2354.  
+Ravens -Sieberer, U. & Bullinger, M. (1998 ). Assessing health related quality of life in 
+chronical ly ill children with the German KINDL: first psychometric and content -
+analytical results. Quality of Life Research, 4 (7), 399 –407. 
+Ravens -Sieberer, U., Gosch, A., Rajmil, L., Erhart, M., Bruil, J., Duer, W., …& the European 
+KIDSCREEN Group. (2005). KIDSCRE EN-52 quality -of-life measure for children and 
+65 
+ 
+ adolescents. Expert Review of Pharmacoeconomics & Outcomes Research, 5 (3), 353 -
+364.  
+  Ruperto , N., Ravelli , A., Pistorio , A., Malattia , C., Cavuto , S., Gado -West , L., & Martini , A., 
+for the Paediatric Rheumato logy International Trials Organisation (PRINTO) . (2001). 
+Cross -cultural adaptation and psychometric evaluation of the Childhood Health 
+Assessment Questionnaire (CHAQ) and the Child Health Ques tionnaire (CHQ) in 32 
+countries: Review of the general methodolo gy. Clinical and Experimental Rheumatology , 
+19(Suppl. 23) , S1-S9. 
+Sallis, J.  F., Buono, M.  J., Roby, J.  J., Micale, F.  G., & Nelson, J.  A. (1993). Seven -day recall 
+and other physical activity self -reports in children and adolescents.  Medicine & Science 
+in Sports & Exercise , 25, 99-108. 
+Schwimm er, J. B., Burwinkle, T. M., &  Varni, J. W. (2003). Health -related quality of life in 
+severely obese children and adolescents. Journal of the American Medical Association , 
+289(14),  1813 -1819.  
+Sim, J. & Wright, C. C. (2 005). The kappa statistic in r eliability  studies: Use, i nterpretation, and  
+sample size r equirements . Physical Therapy, 85 (3), 257 -268. d oi: 10.1093/ptj/85.3.257 . 
+Sims, J., Scarborough, P., & Foster, C. (2015). The effectiveness of interventions on sustaine d 
+childhood physical activity: A systematic review and meta -analysis of controlled studies. 
+PloS ONE, 10 (7), e0132935. doi: 10.1371/journal.pone.0132935.  
+Smith, S.R. (2007). Making Sense of Multiple Informants in Child  and Adolescent 
+Psychopathology: a  Guid e for Clinicians . Journal of Psychoeducational Assessment, 
+25(2), 139-149. doi: 10.1177/0734282906296233 . 
+66 
+ 
+ *Spengler, S. & Woll, A. (2013). The more physically active, the healthier? The relationship 
+between physical activity and health -related quality of li fe in adolescents: the MoMo 
+study. Journal of Physical Activity and Health , 10(5), 708 -715. 
+*Standage, M., Gillison, F. B., Ntoumanis, N., & Treasure, D. C. (2012). Predicting students' 
+physical activity and health -related well -being: a prospective cross -domain investigation 
+of motivation across school physical education and exercise settings. Journal of Sport 
+and Exercise Psychology , 34(1), 37 -60). 
+Sterne, J. A. C. , Sutton , A. J., Ioannidis , J. P. A., Terrin , N., Jones , D. R., Lau , J… & Higgins, J. 
+P. T.  (2011). Recommendations for examining and interpreting funnel plot asymmetry in 
+meta -analyses of randomised controlled trials . British Medical Journal, 343 , d4002 . 
+doi:10.1136/bmj.d4002 . 
+Swallen, K.  C., Reither, E.  N., Hass, S.  A., &  Meier, A.  M. (2005). Ov erweight, obesity, and 
+health -related quality of life among adolescents: the National Longitudinal Study of 
+Adolescent Health. Pediatrics, 115(2) , 340 -347. 
+*Takken, T., Van Der Net , J., Kuis , W., & Helders , P.J. (2003). Aquatic fitness training for 
+childre n with  juvenile idiopathic arthritis.  Rheumatology (Oxford), 42 (11),  1408 -1414.  
+*Taracki, E., Yeldan, I., Baydogan, S. N., Olgar, S., & Kasapcopur, O. (2012). Efficacy of a 
+land-based home exercise programme for patients with juvenile idiopathic arthritis:  A 
+randomized controlled, single -blind study. Journal of Rehabilitation Medicine , 44, 962–
+967. doi:10.2340/16501977 -1051 . 
+The DISABKIDS Group Europe. (2006). Quality of life questionnaires for children with chronic 
+conditions. In: The DISABKIDS Questionnai res. Lengerich, Germany:  Pabst Science 
+Publishers.  
+67 
+ 
+ The KIDSCREEN Group Europe. (2006). The KIDSCREEN Questionnaires - Quality of life 
+questionnaires for children and adolescents . Handbook. Lengerich , Germany : Pabst 
+Science Publishers.  
+Tsiros, M.  D., Olds, T., Buckley, J.  D., Grimshaw, P., Brennan, L., Walkkley, J.,  … & Coates, 
+A. M. (2009). Health -related quality of life in obese children and adolescents. 
+International Journal of Obesity, 33 , 387 –400. doi: 10.1038/ijo.2009.42.  
+U.S. Department of Health and Human Services. 2008 Physical Activity Guidelines for 
+Americans . Washington, DC: US Government Printing Office; 2008 . 
+Van Coevering, P., Harnack, L., Schnitz, K., Fulton, J., Galuska, D., & Gao, S. (2005). 
+Feasibility of Using Accelerometers to Measure Phy sical Activity in Young Adolescents. 
+Medicine & Science in Sports & Exercise, 37 (5), 867-871 
+*van Dijk -Lokkart, E. M., Braam , K.I., van Dulmen -den Broeder , E., Kaspers , G.J., Takken , T., 
+Grootenhuis , M.A.,…Huisman , J. (2015). Effects of a combined physical  and 
+psychosocial intervention program for childhood cancer patients on quality of life and 
+psychosocial functioning: results of the QLIM randomized clinica l trial.  Psycho -
+Oncology,  25(7), 815 -22. doi: 10.1002/pon.4016.  
+Varni , J.W., Burwinkle , T.M., Seid , M., & Skarr , D. (2003).  The PedsQL 4.0 as a pediatric 
+population health measure: feasibility, reliability, and validity. Ambul atory  Pediatr ics, 
+3(6), 329-341.  
+Varni, J. W., Burwinkle, T. M., & Lane, M. M. (2005). Health -related quality of life 
+measurement in pediatric clinical practice: An appraisal and precept for future research 
+and application. Health and Quality of Life Outcomes, 3(34) . doi: 10.1186/1477 -7525 -3-
+34. 
+68 
+ 
+ Varni, J. W., Limbers, C. A., & Burwinkle, T. M. (2007). Impaired health -related quality o f life 
+in children and adolescents with chronic conditions: a comparative analysis of 10 disease 
+clusters and 33 disease categories/severities utilizing the PedsQL 4.0 Generic Core 
+Scales. Health and Quality of Life Outcomes, 5(43) . doi: 10.1186/1477 -7525 -5-43. 
+Verrips , G. H. W., Vogels , A. G. C., Verloove -Vanhorick , S. P., Fekkes, M., Koopman, H. M., 
+Kamphuis, R. P., …& Wit, J. M.  (1998). Health -related quality of life measure for 
+children: the TACQOL. The Journal of Applied Research , 1, 357–360. 
+Verschuren , O., Ketelaar, M., Gorter, J. W., Helders, P. J., Uiterwaal, C. S., & Takken, T. 
+(2007). Exercise training program in children and adolescents with cerebral palsy: a 
+randomized controlled trial. Archives of Pediatrics and Adolescent Medicine , 161(11) , 
+1075-1081.  
+Viera, A. J. & Garrett, J. M. (2005). Understanding interobserver agreement: The kappa s tatistic . 
+Family Medicine, 37 (5), 360-336. 
+Vogels , T., Verrips , G. H. W., Verloove -Vanhorick , S. P., Fekkes, M., Kamphuis, R. P., 
+Koopman, H. M., …& Wit, J. M.  (1998). Measuring health -related quality of life in 
+children: the development of the TA CQOL -parent form. Qual ity of  Life Res earch , 7, 
+457–465. 
+*Vos, R. C., Huisman , S.D., Houdijk , E.C., Pijl , H,, & Wit, J.M. (2012). The effect of family -
+based multidiscipl inary cognitive behavioral treatment on health -related quality of life in 
+childhood obesity. Qual ity of  Life Res earch , 21(9), 1587 -1594.  doi:10.1007/s11136 -011-
+0079 -1. 
+*Wafa, S. W., Talib, R. A., Hamzaid, N. H., McColl, J. H., Rajikan, R., Ng, L. O., Ramli , A. H., 
+& Reilly, J. J. (2011). Randomized controlled trial of a good practice approach to 
+69 
+ 
+ treatment of childhood obesity in Malaysia: Malaysian Childhood Obesity Treatment 
+Trial (MASCOT). International  Journal of  Pediatr ic Obes ity, 6(2-2), e62 -9. 
+doi:10. 3109/17477166.2011.566340.  
+*Wake, M., Baur, L. A., Gerner, B., Gibbons, K., Gold, L., Gunn, J.,Levickis, P., McCallum, Z., 
+Naughton, G., Sanci, L., & Ukoumunne, O. C. (2009). Outcomes and costs of primary 
+care surveillance and intervention for overweight o r obese children: the LEAP 2 
+randomised controlled trial. British Medical Journal , 339 , b3308. 
+doi:10.1136/bmj.b3308.  
+*Wang, W. (2006). The effectiveness of cycling intervent ion on cerebral palsy patients: a  survey 
+validation method. Ann Arbor, University of Southern California. 1442105: 70 -70 p.  
+*Whitney, R., Bhan, H., Persadie, N., Streiner, D., Bray, S., Timmons, B., & Ronen, G. M. 
+(2013). Feasibility of pedometer use to assess physical activity and its relationship with 
+quality of life in children with epilepsy: a pilot study. Pediatric Neurology , 49(5), 370 -3. 
+doi:10.1016/j.pediatrneurol.2013.06.002.  
+*Wilson, K.E. (2010). Exercise effects on physical activity level, self -perceptions, and quality of 
+life of sedentary children, the interaction of BMI, and  the association between moderate 
+to vigorous physical activity and psychological variables. (Master's Thesis). Retrieved 
+from PSYCInfo. (756753054).  
+Wong, M., Lycett, K., Olds, T., Gold, L., & Wake, M. (2017). Use of time and adolescent health -
+related qua lity of life/well -being: A scoping review. Acta Paediatrica, 106 , 1239 -1254. 
+doi:10.1111/apa/13929.  
+*Woods, J.D. (2015). NOURISH -C: Implementing a family based weight loss intervention in a 
+church community. (Doctoral Dissertation). Retrieved from PSYCInf o. (1733692250).  
+70 
+ 
+ World Health Organization. Global recommendations on physical activity for health . Geneva, 
+Switzerland: World Health Organization; 2010.  
+*Yackobov itch-Gavan, M., Nagelberg, N., Phillip, M., Ashkenazi -Hoffnung , L., Hershkovitz , E., 
+& Shalit in, S. (2009). The influence of diet and/or exercise and parental compliance on 
+health -related qua lity of life in obese children.  Nutrition Research , 29(6), 397-404. 
+doi:10.1016/j.nutres.2009.05.007.  
+ 
+ 
+ 
+ 
+71 
+ 
+ Appendix A.  Coding criteria for assessment of study rigor.
+ 
+
+72 
+ 
+  
+

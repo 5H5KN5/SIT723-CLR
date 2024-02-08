@@ -1,0 +1,1481 @@
+RESEARCH Open Access
+Planning and optimising a digital
+intervention to protect older adults ’
+cognitive health
+Rosie Essery1*, Sebastien Pollet1, Kirsten A. Smith1, Fiona Mowbray1, Joanna Slodkowska-Barabasz1,
+James Denison-Day1, Victoria Hayter1, Katherine Bradbury1, Elisabeth Grey2, Max J. Western2, Alexander Milton3,
+Cheryl Hunter4, Anne E. Ferrey5, Andre Matthias Müller6,7, Beth Stuart8, Nanette Mutrie9, Simon Griffin10,
+Tony Kendrick8, Helen Brooker11, Bernard Gudgin12, Rosemary Phillips12, Tom Stokes12, John Niven12,
+Paul Little8and Lucy Yardley1,3*
+Abstract
+Background: By 2050, worldwide dementia prevalence is expected to triple. Affordable, scalable interventions are
+required to support protective behaviours such as physical activity, cognitive training and healthy eating. This paper
+outlines the theory-, evidence- and person-based development of ‘Active Brains ’: a multi-domain digital behaviour
+change intervention to reduce cognitive decline amongst older adults.
+Methods: During the initial planning phase, scoping reviews, consultation with PPI contributors and expert co-
+investigators and behavioural analysis collated and recorded evidence that was triangulated to inform provisional
+‘guiding principles ’and an intervention logic model. The following optimisation phase involved qualitative think
+aloud and semi-structured interviews with 52 older adults with higher and lower cognitive performance scores.
+Data were analysed thematically and informed changes and additions to guiding principles, the behavioural
+analysis and the logic model which, in turn, informed changes to intervention content.
+Results: Scoping reviews and qualitative interviews suggested that the same intervention content may be suitable
+for individuals with higher and lower cognitive performance. Qualitative findings revealed that maintaining
+independence and enjoyment motivated engagement in intervention-targeted behaviours, whereas managing ill
+health was a potential barrier. Social support for engaging in such activities could provide motivation, but was not
+desirable for all. These findings informed development of intervention content and functionality that appeared
+highly acceptable amongst a sample of target users.
+Conclusions: A digitally delivered intervention with minimal support appears acceptable and potentially engaging
+to older adults with higher and lower levels of cognitive performance. As well as informing our own intervention
+development, insights obtained through this process may be useful for others working with, and developing
+interventions for, older adults and/or those with cognitive impairment.
+Keywords: Cognitive-health, Behaviour-change, Physical activity, Dementia, Prevention, Digital-intervention
+© The Author(s). 2021 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ .
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.* Correspondence: r.a.essery@soton.ac.uk ;lucy.yardley@bristol.ac.uk
+1Centre for Clinical and Community Applications of Health Psychology,
+University of Southampton, Southampton, UK
+Full list of author information is available at the end of the article
+Essery et al. Pilot and Feasibility Studies           (2021) 7:158 
+https://doi.org/10.1186/s40814-021-00884-2
+Key messages regarding feasibility
+/C15There is very limited evidence about whether digital
+delivery of multi-domain behaviour change interven-
+tions is feasible, engaging and acceptable in the con-
+text of protecting cognitive health. It is also unclear
+whether the same intervention content, structure
+and functionality is suitable for both those with and
+without existing cognitive impairment.
+/C15This study demonstrated that a digital multi-domain
+behaviour change intervention can be acceptable
+and engaging amongst UK community-dwelling
+older adults. Iterative development of intervention
+content with users facilitated identification and reso-
+lution of potential barriers to acceptability and en-
+gagement. Importantly, there were no substantive
+differences between those with higher and lower
+cognitive performance scores regarding their inter-
+vention preferences, nor their ability and willingness
+to engage with it.
+/C15These findings confirmed that the ‘Active Brains ’
+digital intervention content and activity
+recommendations should be suitable for older adults
+with and without existing cognitive impairment. Our
+subsequent feasibility and fully-powered trials will
+therefore test the same intervention amongst both
+of these groups.
+Background
+Fifty-million people worldwide currently have dementia
+[1]. Cognitive impairment is even more common; mild
+cognitive impairment (MCI) and age-associated cogni-
+tive decline (AACD) are estimated to affect nearly 20%
+of adults aged 60 and over [ 2,3]. Around 10% of MCI
+and AACD cases convert to dementia each year [ 4]. The
+annual global cost of dementia is nearly US$1 trillion
+with dementia prevalence expected to rise to 152 million
+by 2050 [ 5]. Dementia and cognitive decline place un-
+sustainable demand on health and social care systems
+worldwide, and pose substantial threat to individuals ’in-
+dependence and quality of life [ 6]. Prevention and man-
+agement of dementia are public health priorities [ 7].
+Increasing evidence suggests that health-related behav-
+iours (e.g., physical activity and a Mediterranean-style
+diet) and cognitive training are protective of cognitive
+health [ 7–12]. Interventions targeting a single behaviour
+in individuals with and without existing cognitive im-
+pairment show some positive effects on cognitive out-
+comes [ 13–18]. However, findings are mixed and often
+inconclusive, prompting investigation of multi-domain
+intervention strategies [ 1,7]. Complex behaviour change
+interventions are those that have several interacting
+components to try to achieve their aim [ 19]. Further to
+this, multi-domain interventions are those which targetmultiple risk factors and mechanisms for a particular
+condition [ 20], for example physical activity, cognitive
+training and healthy eating. Multi-domain interventions
+to prevent or reduce cognitive decline have shown
+mixed results [ 18,21–23]. Despite positive effects of a
+face-to-face (group and individual) delivered programme
+addressing diet, physical activity, cognitive training and
+managing vascular risk [ 21], such interventions tend to
+be resource-intensive, prompting calls for scalable, cost-
+effective approaches [ 7,18]. Understanding which inter-
+vention components are useful and how to improve
+cost-effectiveness is a key challenge [ 7]. Rapid develop-
+ment of advanced technologies and artificial intelligence
+will likely play a key role in future delivery of cognitive
+training in a way that is immersive and highly engaging
+for users, allowing adaptive personalisation and gamifi-
+cation [ 24–26]. In the meantime, comparatively ‘low-
+tech’digital solutions may offer a cost-effective means of
+delivering cognitive training alongside other behaviour
+change intervention components.
+Digital health-behaviour interventions have excellent
+potential to deliver content efficiently, effectively and ac-
+cessibly at low cost [ 27]. There is early evidence that
+web-based multi-domain lifestyle programs may have
+potential for protecting cognitive health outcomes and
+dementia prevention [ 28] but much of this research is in
+very early stages. Furthermore, few of these studies test
+interventions that offer a combination of cognitive train-
+ing and facilitation of health-related behaviour change.
+One pre-post design study showed promising effects of a
+digital intervention addressing behaviours including
+physical activity, diet, smoking, alcohol intake and sleep,
+but did not measure cognitive outcomes [ 29]. Further-
+more, there is limited evidence about whether digital-
+delivery of interventions is feasible, engaging and accept-
+able in this context. Potential barriers to feasibility and
+acceptability relate to users ’cognitive capacity and
+digital literacy. It is important to explore whether indi-
+viduals with cognitive decline have different preferences
+and requirements for intervention functionality. Further-
+more, whilst older adults ’digital literacy is rapidly grow-
+ing, there is still wide variation in ability and/or
+willingness to engage with digital health material [ 30,
+31]. It is therefore important to explore whether digital
+content and functionality can be made accessible and
+engaging for these users, and how best to achieve this.
+The aims of this paper are twofold: (1) to explore
+whether a digital approach appears to be a feasible, en-
+gaging and acceptable means of delivering a low-cost,
+multi-domain intervention to reduce cognitive decline
+amongst older adults; (2) to provide a clear account of
+how such an intervention was created through docu-
+menting its systematic development process. Clear
+reporting of the development of new interventionsEssery et al. Pilot and Feasibility Studies           (2021) 7:158 Page 2 of 16
+avoids ‘research waste ’and duplication of ineffective, un-
+feasible or unacceptable interventions [ 32]. This paper
+outlines the development of ‘Active Brains ’: a digital
+intervention for 60 –85 year-olds with and without exist-
+ing cognitive impairment, aiming to reduce cognitive de-
+cline by addressing physical activity, cognitive training
+and healthy eating behaviours. We explain how the work
+conducted during this intervention development process
+allowed Active Brains to be shaped by target users ’ex-
+pectations and preferences, whilst highlighting transfer-
+able insights and methods that could be applied across
+numerous behaviour change contexts.
+Methods
+Structure of the development process
+Active Brains was developed according to a theory-, evi-
+dence- and person-based approach to intervention de-
+velopment [ 19,33,34]. The development process was
+implemented, and is outlined below, in two phases:
+phase 1: planning and phase 2: optimisation. The ‘Plan-
+ning’phase presents the theory-, evidence- and person-based ‘Guiding Principles ’[34] and logic model that
+underpin intervention content and functionality. The
+‘Optimisation ’phase presents our qualitative findings
+about older adults ’perceptions of cognitive health and as-
+sociated protective health behaviours, as well as their feed-
+back on all aspects of intervention content throughout
+development. Although described separately, in practice,
+these phases occurred as an iterative cycle (Fig. 1). Devel-
+opment focused on the physical activity and cognitive
+training intervention elements as the team had previously
+developed a healthy eating module that could be adapted
+for use in this context [ 35]. Additional Table 1summa-
+rises how each element of the Active Brains development
+process addresses recommended actions for intervention
+development [ 32].
+Monthly development meetings were held with a
+multi-disciplinary team of coinvestigators including Pa-
+tient and Public Involvement (PPI) representatives. PPI
+members played a significant role in ensuring that study
+and intervention materials were accessible, engaging and
+persuasive prior to being shared with participants. The
+Fig. 1 Planning and optimisation processes involved in the development of Active BrainsEssery et al. Pilot and Feasibility Studies           (2021) 7:158 Page 3 of 16
+wider management team met quarterly and included
+GPs, specialist clinicians, health psychologists, dementia
+charity partners and academics with expertise in physical
+activity, cognitive health and nutrition. Draft interven-
+tion materials were frequently shared for comment and
+iteration.
+The following sections outline the methods employed
+in: phase 1, planning the intervention ’s theoretical
+framework; and phase 2, the empirical qualitative work
+conducted to optimise Active Brains. Respective find-
+ings/outcomes from each of these processes are reported
+in the results section.
+Phase 1: planning Active Brains
+The planning phase aimed to build the appropriate the-
+ory-, evidence- and person-based framework to underpin
+the Active Brains intervention. This involved reviewing
+relevant literature, seeking input from PPI contributors
+and co-investigators with relevant expertise, developing
+guiding principles, conducting a behavioural analysis and
+constructing a logic model.
+Phase 1, part 1: reviewing relevant literature
+We conducted rapid scoping reviews of (1) physical ac-
+tivity and/or sedentary behaviour interventions, and (2)
+cognitive training interventions, for older adults with
+and without cognitive impairment. We aimed to gather
+evidence about: promising intervention features; relevant
+contextual factors; and important influences on targeted
+behaviours. Searches were conducted in Web of Science,
+March –June 2017 (Additional Table 2). Additional lit-
+erature was identified through reference-list searching
+and consultation within our team. Quantitative and
+qualitative papers were included. Initial searches
+returned over 9000 matches about cognitive training in-
+terventions including a significant number of existing
+systematic reviews in this field. Therefore, we focused
+only on systematic reviews ( n= 14) given that these had
+collated, and quality assessed, a wealth of evidence about
+existing cognitive training interventions. Data were ex-
+tracted about research design, sample size and character-
+istics, and findings.
+Phase 1, part 2: development of guiding principles
+Guiding principles aim to maximise the acceptability of
+an intervention amongst target users and, therefore, to
+enhance engagement and effectiveness. Each guiding
+principle comprises (1) a design objective outlining a
+user/context-specific behavioural need, issue or chal-
+lenge; and (2) intervention features that address the de-
+sign objective [ 34]. To draft provisional guiding
+principles, we drew on our understanding of target users
+obtained from the scoping reviews and from our re-
+search team, including PPI members. These guidingprinciples were iteratively developed as new data
+emerged, e.g. from the behavioural analysis and qualita-
+tive interviews.
+Phase 1, part 3: developing Active Brains programme
+theory
+A programme theory explicitly describes how an inter-
+vention is expected to achieve its intended outcomes,
+and the anticipated mechanisms through which this oc-
+curs [ 36]. The behavioural analysis and logic model con-
+tributed to this process.
+Phase 1, part 3a: behavioural analysis The behavioural
+analysis aimed to identify behaviours to be targeted by
+Active Brains and their potential barriers and facilitators.
+We recorded relevant evidence from scoping reviews,
+PPI input, team expertise and later qualitative interviews
+into a table, and mapped the identified behaviours and
+potential barriers and facilitators onto constructs from
+the behaviour change wheel (BCW) [ 37] and theoretical
+domains framework (TDF) [ 38] in order to describe tar-
+get domains for our intervention in theoretical terms.
+Given that so many different behaviour change theories
+have overlapping constructs, it can be difficult to identify
+any one individual theory to apply [ 39,40]. Accordingly,
+we drew on these theoretical frameworks derived from
+multiple theories that encapsulate a wide range of theor-
+etical constructs. This allowed clear description of the
+intervention processes and components, including be-
+havioural domains to be targeted, intervention functions
+to address barriers and facilitators and behaviour change
+techniques BCTs [ 41]; to deliver these functions. In
+addition, this process facilitated identification of other
+potentially useful domains to target, and additional
+intervention functions and BCTs to employ that may
+maximise the intervention ’s possible effects on its target
+behaviours [ 37].
+Phase 1, part 3b: the Active Brains intervention logic
+model In line with Medical Research Council (MRC)
+guidance [ 42], we constructed a logic model to diagram-
+matically represent the expected mechanisms of action
+of Active Brains. This drew on the scoping reviews, team
+expertise, guiding principles and behavioural analysis.
+Phase 2: optimising Active Brains
+The optimisation phase aimed to seek feedback on draft
+intervention material, and to explore the acceptability
+and feasibility of the digital content and functionality
+amongst older adults with higher and lower levels of
+cognitive performance. Due to the vast quantity of rele-
+vant literature available to inform initial content devel-
+opment, as well as substantial expertise and experience
+to draw on from our project team and PPI, primaryEssery et al. Pilot and Feasibility Studies           (2021) 7:158 Page 4 of 16
+qualitative research was delayed in favour of planning
+and drafting initial content [ 43]. This was deemed ap-
+propriate given the depth of understanding we felt we
+could obtain from the existing literature and both PPI
+and expert co-investigator knowledge to inform our
+guiding principles. This allowed us to seek feedback on
+initial drafts of our intervention content sooner, and
+meant we could, and did, still explore target users ’expe-
+riences to inform changes required. Our iterative devel-
+opment process meant that our target users ’views still
+closely informed content development from an early
+stage. This included returning to elements of the plan-
+ning phase, such as guiding principles and behavioural
+analysis, to revise these as and when our primary quali-
+tative work indicated that we may need to change or add
+to our previous assumptions.
+Phase 2, part 1: think-aloud interviews
+Participants Forty-one adults (22 female, mean age =
+70.5 years, range 61 –80) were recruited from GP prac-
+tices across the South of England and from Join Demen-
+tia Research (JDR; an online database for matching UK
+community-dwelling individuals to relevant studies) to
+take part in think-aloud interviews. We employed pur-
+posive sampling whereby we attempted to obtain max-
+imum variation in terms of gender, age, education level,
+socio-economic status and cognitive performance score.
+Participants were excluded if they were already reason-
+ably physically active (score > 30 on Godin Leisure Time
+Exercise Questionnaire [ 44]), had diagnosed dementia, a
+severe uncontrolled mental health condition, or terminal
+illness. As part of the screening process, participants
+completed a brief cognitive assessment (online Baddeley
+verbal reasoning task [ 45]), which determined whether
+they were identified as a participant with ‘lower cognitive
+performance ’or‘higher cognitive performance ’. Lower
+cognitive performance was defined as a score falling
+more than one standard deviation below the ‘normative
+score ’on the Baddeley verbal reasoning task (i.e. in line
+with definitions of AACD [ 46]) as determined by the
+PROTECT cohort database; scores from a large ( n>
+15,000) pre-existing cohort of older adults [ 47]. Al-
+though this single test was not indicative of cognitive
+impairment, this categorisation enabled us to sample
+views from those with higher ( n= 20) and lower levels
+(n= 21) of cognitive performance.
+Procedure Each participant took part in one think-
+aloud interview in which they worked through the
+prototype Active Brains intervention with an interviewer.
+The participant was encouraged to vocalise all immedi-
+ate thoughts and feelings towards the content. This
+allowed insight into target users ’immediate reactions toelements of the intervention. As it was unfortunately not
+possible for participants to access the brain training
+games, we provided screenshots to show the types of
+task this involved. The Active Brains intervention pro-
+vides access to brain training games via the PROTECT
+study; these existing games have been extensively used
+in ongoing cohort studies, and study investigators report
+them being well liked and engaged with [ 11,47]. Follow-
+ing the think-aloud interview, there were semi-
+structured interview questions about participants ’gen-
+eral views of the intervention: what they liked/disliked,
+found helpful/difficult, would like to change, etc. All in-
+terviews were audio-recorded and transcribed verbatim.
+Analysis Data were analysed to understand user views on
+the intervention content and inform potential changes. We
+collated all positive and negative comments pertaining to spe-
+cific intervention elements into a ‘table of changes ’(Additional
+Table 3). After discussing the frequency and significance of
+positive and negative comments , we coded the importance of
+possible changes by deciding whether any amendment was
+likely to enhance the persuasiveness, acceptability and likeli-
+hood of changing behaviour [ 48]. For example, we considered
+whether multiple people provided the same feedback; if the
+potential change aligned with our guiding principles and/or
+expert opinion; and whether theory and/or evidence suggested
+the change would make the desired behaviour more likely.
+We prioritised changes by their relevance to behaviour change
+or ability to prevent disengagement. If changes were low-
+priority, they were implemented only if relatively quick and
+easy. Interviews continued alongside this analysis to allow it-
+erative modification of content prior to the next batch of in-
+terviews. Once it seemed that n o further important changes
+were required, we considered that data saturation had been
+reached [ 48].
+Phase 2, part 2: retrospective qualitative feasibility study
+Participants This second element of the qualitative work
+commenced once the majority of prioritised modifications to
+the prototype had been made. E ligibility, sampling and re-
+cruitment procedures were the same as in the think-aloud
+interviews. Eighteen older adults (12 female, mean age = 69.1
+years, range 62 –76) took part, seven of whom had partici-
+pated in the think-aloud interviews. The eighteen partici-
+pants were classified evenly across the lower and higher
+cognitive performance groups ( n= 9 in each group).
+Procedure Participants were invited to use Active Brains
+for three weeks (timings were ‘sped-up ’to allow access to
+all sections) and were given a diary to keep notes about
+their experiences. Participants took part in one semi-
+structured interview each during this time. The interviewEssery et al. Pilot and Feasibility Studies           (2021) 7:158 Page 5 of 16
+asked participants about their experiences of engaging
+with the intervention and any relevant activities they tried.
+They were prompted to discuss certain features or ele-
+ments that they particularly liked and/or found helpful or
+disliked and/or found difficult. Towards the end, there
+were questions about participants ’perceptions and under-
+standings of cognitive health, and their views on social
+support for engaging in new activities. All interviews were
+audio-recorded and transcribed verbatim.
+Analysis All data were tabulated and analysed as de-
+scribed in the think-aloud study (phase 2, part 2a). In
+addition, inductive thematic analysis [ 49] was conducted
+on the data from the second part of the interview exam-
+ining perceptions and understandings of cognitive health
+and social support (phase 2, part 2b).
+Results
+Phase 1: planning Active Brains
+Phase 1, part 1: reviewing relevant literature
+Given the wealth of existing reviews on the topics of
+interest, the findings were not formally synthesised for
+write-up. However, key findings pertinent to our re-
+search aims are summarised in Table 1, which also illus-
+trates how they informed intervention guiding
+principles. Key findings included there being no substan-
+tial evidence that the intervention ’s physical activity rec-
+ommendations should differ for older adults with MCI/
+AACD compared to a general older-adult population.
+The cognitive training systematic review evidence sug-
+gested training multiple cognitive-domains to be the
+optimum choice for both cognitively-healthy older adults
+and those with cognitive impairment e.g. [ 50,51]. Re-
+garding physical activity interventions, those with and
+without cognitive impairme nt shared similar attitudes
+towards physical activity, and recognised similar bar-
+riers (e.g. remembering, social isolation), facilitators
+(e.g. accessibility of activity options, simple activities)
+and preferred activities (e.g. walking) [ 52,53]. There
+w a so n l yas m a l la m o u n to fe v i d e n c ea b o u ti n t e r v e n -
+tion features that may be acceptable and engaging for
+both groups. Acceptable intervention features amongst
+those with cognitive impairment often overlapped
+with those frequently used in interventions for older
+adults in general e.g. planning features [ 54];. Other-
+wise, there was little evidence about whether engage-
+ment with intervention features was likely to differ
+between groups, so we aimed to explore this within
+our primary qualitative work.
+Phase 1, part 2: development of guiding principles
+The finalised Active Brains guiding principles (Table 1)
+were minimising cognitive load and dependence on
+technology; positive framing and promoting immediate-term quality of life benefits; and catering for heteroge-
+neous preferences and capabilities. These guiding princi-
+ples underpinned and informed the development of all
+intervention materials both in terms of the content, and
+also the presentation style, format and functionality.
+Phase 1, part 3: developing Active Brains programme
+theory
+Phase 1, part 3a: behavioural analysis The full behav-
+ioural analysis is presented in Additional Table 4.A c t i v e
+Brains targeted nine behaviours: initial engagement with the
+online intervention; increasing physical activity; reducing sed-
+entary behaviour; uptake of strength and balance activities;
+uptake of brain training; healthy changes to eating behav-
+iours; reviewing behaviours and revising goals; integration of
+recommended activities into da ily routines; and maintaining
+engagement with the online intervention. These behaviours
+were further broken down into 19 sub-behaviours required
+to enact each behaviour. Mapping these behaviours, their de-
+terminants and intervention features onto the BCW and
+TDF illustrates that Active Brains employs 36 BCTs to de-
+liver seven intervention functio ns (modelling, education, per-
+suasion, training, enablement, environmental restructuring,
+incentivisation) to target thirteen behavioural domains (in-
+tentions, optimism, emotion, knowledge, skills, beliefs about
+consequences, beliefs about capabilities, goals, social influ-
+ences, environmental context an d resources, reinforcement,
+memory, attention and decision processes and behavioural
+regulation). This analysis prov ided an in-depth understand-
+ing of the behaviours for Active Brains to target and the
+mechanisms through which it is anticipated that these could
+be changed. These understan dings informed the develop-
+ment of the intervention ’s logic model.
+Phase 1 part 3b: the Active Brains intervention logic
+model A summary version of the Active Brains logic
+model is shown in Fig. 2. Additional Figure 1shows the
+full version with intervention processes mapped on to
+BCW, TDF and BCTs. The culmination of the planning
+phase in preliminary guiding principles and a logic
+model provided the underpinning framework for Active
+Brains. The Active Brains digital intervention comprises
+three online modules that become available sequentially:
+‘Active Lives ’(physical activity) is available immediately;
+‘Brain Training ’(cognitive training) is available after 4
+weeks; and ‘Eat for Health ’(healthy eating) is available
+after 8 weeks. ‘Active Lives ’is further divided into three sub-
+modules: ‘Getting Active ’,‘Strength and Balance ’and‘Breaks
+from Sitting ’with recommendations about which to start
+with tailored to users ’baseline activity and capability. Within
+each module, users can access information addressing com-
+mon concerns, instruction about recommended activities,
+goal setting and review for chosen activities and tailoredEssery et al. Pilot and Feasibility Studies           (2021) 7:158 Page 6 of 16
+motivational feedback on progress. Reminder emails are sent
+to motivate users to continue with their activities and to en-
+courage them to revisit online content. Additional support
+from a central facilitator (for one arm of Active Brains trial)
+comprises up to three 10-min phone calls at 2-week inter-
+vals, plus additional email support if required. This can be
+used to discuss behavioural changes participants are attempt-
+ing, and to support them with use of the online intervention
+content. The facilitator employs the CARE (Congratulate,
+Ask, Reassure, Encourage) approach to provide support in a
+broadly standardised format [ 69]. After 7 months, the Active
+Brains ‘booster section ’allows users access to additional re-
+sources for embedding recommended activities into daily life.It also introduces the brain training ‘boosters ’to maintain
+the benefits of the initial intensive training period.
+Phase 2: optimising Active Brains
+The findings of the qualitative work are described below.
+These fed back into ongoing iteration of the guiding
+principles, and behavioural analysis and also informed
+required intervention changes.
+Phase 2, part 1: think-aloud interviews
+Feedback on the Active Brains prototype was encouraging
+with largely positive feedback from participants ’indicating
+that they found the content easy to understand, persuasiveTable 1 The Active Brains guiding principles
+Key findings from literature Key design objective Intervention feature(s)
+Older adults with cognitive impairment tend to
+experience difficulties in the domains of memory,
+language, thinking and judgement. Difficulties not so
+extensive that the individual requires assistance with
+activities of independent daily living [ 55,56]
+Older adults with cognitive impairments that may affect
+Internet use are still actively engaging with technology
+[57]
+Good evidence of effectiveness and/or acceptability of
+various features/characteristics of interventions:
+- Simple goal setting and action planning with clear
+explanation of benefits/ importance [ 58]
+- Reinforcement/encouragement for achievements [ 59]
+- Self-monitoring of physical activity behaviours, e.g. using
+a pedometer [ 58,60]
+- Social support in the form of activity suggestions to be
+done with others/ local group recommendations [ 59,
+60]; social element of cognitive training may also be
+beneficial [ 61]
+- Promotion of autonomy [ 59]
+Strength and balance exercises can be built into daily
+routines and activities [ 62]Minimising cognitive load
+and dependence on
+technologyClear and simple layout, language and navigation
+procedures
+Support provided for cognitive self-regulation (e.g. plan-
+ning, reminders, prompts for periodic short-term and
+long-term self-monitoring)
+Utilising non-cognitive/non-digital means of sustaining
+behaviour (habit formation, environmental restructuring)
+Options to print/ save key reference documents/
+instructions wherever possible.
+Link to existing non-digital sources of advice/ support
+where appropriate, including peer/ family support if
+possible
+Individuals more motivated to participate in, and have
+better recognition memory for, physical activity
+programmes paired with positively framed messages than
+in those with negatively framed ones [ 63]
+Loss of independence perceived as key threat of
+cognitive decline [ 64]
+Older adults with cognitive impairments very interested
+in programs offering computer exercises to improve
+cognition as well as web-based interventions for a range
+of health concerns and lifestyle factors, including physical
+activity, diet and nutrition, social engagement [ 57]
+Enjoyment of activities is important [ 52,53,65]
+Different/new activities such as strength, flexibility and
+balance exercise may be beneficial for long-term engage-
+ment [ 66]
+Need for evidence-based, credible communication of link
+between increasing physical activity and cognitive health
+[64]Positive framing and
+promoting immediate-term
+quality of life benefitsFraming activities in terms of benefits for: maintaining
+independence, enjoyment, strength, balance, pain
+(especially musculoskeletal), mood, general quality of life.
+Referring to benefits for Brain Health rather than
+reduction in dementia risk
+Tailoring for different levels of mobility, having optional
+exercises important/ preferred [ 58,59,67,68]
+Need for activities to be simple and safe highly prioritised
+[52]Catering for highly
+heterogeneous population
+(capabilities and preferences)Tailoring of content to offer options for levels/ types of
+activities, with steer towards those with best evidence
+and most likely to be beneficial for user (based on
+baseline-assessed need and capability, e.g. activity levels,
+perceptions of current strength and balance skills)
+Provision of carefully graded activities with very gradual
+increases from low activity baseline and help with
+concerns and barriers for those lacking confidence or
+capabilityEssery et al. Pilot and Feasibility Studies           (2021) 7:158 Page 7 of 16
+and interesting. Users were particularly positive about
+what they considered to be more novel activities including
+strength and balance training, and brain training games.
+I thought it was actually really helpful, and I thought
+it offered a really wide range of ways for people, start-
+ing from different levels of activity, to think about
+doing more. I also thought the parts that are the little
+sections that said things like 'I'm concerned about
+overdoing it', you know the sections about people's
+concerns? I thought that the content of all of those
+parts addressed the issues really clearly. (J0105, fe-
+male, 65, higher cognitive performance)
+I thought it was very good actually. I thought it was
+excellent in fact. If only for the fact that it did, it re-
+lated to me one hundred percent. It was completely
+informative and helpful, you know, giving …giving
+me the impetus to move on. (P0122, male, 73, lower
+cognitive performance)
+Less positive feedback included sections where users
+found navigation confusing, a lack of specificity sur-
+rounding physical activity goals, and a desire to address
+health-related concerns earlier. We analysed feedback
+for differences between those with lower and higher cog-
+nitive performance scores to determine whether differ-
+ent intervention features or characteristics may be more
+engaging or desirable for those with lower cognitiveperformance. There was no evidence of any substantive
+differences. Table 2summarises key feedback that re-
+quired addressing and the resulting changes
+implemented.
+Phase 2, part 2: retrospective qualitative feasibility study
+Phase 2, part 2a: table of changes analysis Collating
+feedback from this later round of interviews into a second
+table of changes confirmed that the amendments based on
+the initial think-aloud interviews were well received, with
+the original issues no longer being raised. Participants ’ac-
+counts of their experiences also revealed examples of ways
+in which they had engaged in the activities recommended
+by the intervention and confirmed they were happy with
+the digital delivery format.
+It did make me think about it in general, and
+reminded me that I'm not doing so much aerobic
+activity, and I'm not really measuring my activity. So
+I decided I would - there are about four flights of
+stairs when I go to work, and I always used to walk
+up them, and now I've got a bit lazy about it, so I
+decided I was going to go back to that, and also use
+an app to measure how much I walk, because I've
+got a dog and I walk a lot every day. (P0129, female,
+67, lower cognitive performance)
+I found the explanations on the type of foods
+Fig. 2 Active Brains summary logic modelEssery et al. Pilot and Feasibility Studies           (2021) 7:158 Page 8 of 16
+Table 2 Summary of feedback and amendments resulting from think aloud interviews
+Active Brains
+sectionSummary of issue identified Example Change implemented
+Introductory
+contentWorry about continuing before being
+reassured that it would be safe to try new
+activities with various health conditions/
+other concerns“I would have it earlier, yeah, because the
+question in itself is too sort of set, you
+know, it, it ’s about increasing activity
+gradually rather than overdoing it. And I
+think something about that needs to go
+before. (P0136)Although each subsection contained a
+section addressing concerns, it was
+deemed important to bring shared
+concerns forward to the introductory
+material so people felt happy to proceed
+with the intervention content
+Some pages (and this applied throughout)
+perceived to be a bit cluttered/ busy with
+too much text which some found off-
+putting“I immediately look at this page and find it
+untidy and as a, not a struggle, but as a
+barrier there to reading it clearly and
+understanding it. I ’m struggling to find
+what to click to go to next. ”(P0245)Focusing on identified problematic pages,
+we edited text to a minimum. Wherever
+possible text was bullet-pointed and only
+key messages retained. If important to
+keep all text on a page, this was split over
+multiple pages where appropriate.
+Getting
+ActiveUncertainty about goal setting: some
+seemed unsure about exactly what they
+had set themselves goals to do even when
+goal setting process complete“…it’s good to have goals, but I think the
+goals need to be specific. If you're asking
+people to achieve a goal that's very vague,
+I don't think they're enthusiastic and I
+think they give up and they probably give
+up the whole thing. ”(P0111)After revisiting the activity suggestions
+made in this section, it was considered
+that this uncertainty was likely to be
+arising from the fact that the activity
+suggestions and plans that people could
+select were a little too broad —these were
+amended to more specific options for
+people to choose from
+Many mistaking coloured, bolded text (to
+emphasise key messages in text) for
+hyperlinks and expected links to additional
+content“…anything else that's in blue, you think
+you can click on it ”(P0102)We removed the colouring of these parts
+of text, but retained the bolding for
+emphasis. The minimisation of text to key
+messages only also addressed this issue.
+Strength and
+BalanceConcern that information provided about
+the principles of how strength and balance
+exercises worked (including information
+about specific movements such as shifting
+weight to one side) was potentially risky if
+attempted by those who were less mobile.“…if you have somebody with poor
+balance, it ’s just trying to ensure, how do
+you ensure that someone who shouldn ’t
+really be standing on one leg doesn ’t
+stand on one leg, despite what you ’ve said
+about being safe. ”(P0106)The text in this section was reframed to
+describe the underlying principles of the
+exercises without reference to specific
+examples that may be dangerous if
+attempted by someone with poorer
+mobility/balance. Instead it now talks
+about how the suggested activities allow
+practice of movements to expand
+individuals ‘comfort zone ’in terms of
+movements they can make.
+Disagreement with advice that if users are
+unsure about whether suggested activities
+are suitable for them, then to consult with
+their GP –users not comfortable with the
+idea of taking up GP time with these types
+of queries.“It’s…I always find this information about
+checking with your doctor before you start
+interesting, because I very …well, I say
+that. I very seldom make plans to go and
+visit the doctor. And I certainly wouldn ’t
+regarding this, I think. ”(P0105)Revised to reassure users that the activities
+recommended were nothing outside of
+routine movements made in day-to-day
+life and that they were likely the best
+judge of whether they could safely/com-
+fortably do these Also encouraged to dis-
+cuss with those who knew them well, and
+only seek advice from GP for serious
+concerns.
+Breaks from
+SittingSome activity plans about how to
+implement recommendations deemed
+unrealistic or ‘silly’—e.g. purposely leaving
+objects upstairs that you know you will
+need downstairs to increase steps around
+the house“Leave your bedtime book on the kitchen
+table. I don't get that one. How does that
+work? You're just gonna pick it up when
+you're downstairs and carry it to the
+bedroom and then bring it back down …”
+(P0101)Such examples were removed or replaced.
+New suggestions focused on ways people
+could: add some movement in to times
+they might be completely sedentary (e.g.
+leg raises whilst watching TV); add more
+movement into standing or mostly
+sedentary times (e.g. marching on the spot
+whilst brushing teeth)
+Some activities to identify common times/
+places for sitting, were not considered
+either: a) a suitable target for change (i.e.
+at doctors surgery), or b) an activity that
+they would actually do sitting down (e.g.
+brushing teeth)“Yeah, I think if you stood up when you
+were waiting to see a doctor or nurse …I
+think you'd …people don't stand up, do
+they? ”
+(J0112)These suggestions were removed
+Brain
+TrainingThe wording of some True/False quiz
+questions was considered confusing, e.g.
+one stated that the purpose of brain
+training games was to keep improving
+your score. If/when people answered ‘True ’,
+they were surprised when their answer“Yeah, well that ’s, that automatically to me
+should be true but it ’s, you explaining it,
+but it ’s not clear. The point of brain
+training is for you to get better, any
+training is to get better, but it said it ’s
+false. ”(P0104)To ensure participants remained engaged
+with these quiz questions and did not take
+away the wrong message, wording/
+feedback was revisited and amended
+where necessary. In this example, the
+feedback was clarified to state that whilst aEssery et al. Pilot and Feasibility Studies           (2021) 7:158 Page 9 of 16
+you should eat to help your brain. I found all
+those very interesting. I don't think my diet is
+that bad, but it's nice to know that I have been
+eating the right things and things that I can add
+too, to what I'm doing. I like the recipes. I'm
+looking at the recipes, I did print those out.
+(P0229, female, 68, higher cognitive perform-
+ance)
+But I mean somebody who hadn ’tg o ta n y[ I T ]
+skills and were just having to read and have just
+got a next or a back button, it is very easy to
+use. You don ’t really need to do much, as long
+as they know where the click on and off, and
+move on. It ’sl i k et u r n i n gap a g eo ft h eb o o k ,
+isn’ti t ?I t ’sa ss i m p l ea st h a t ,i s n ’ti t ?Y e s .
+(P0104, female, 75, lower cognitive performance)
+In general, there were a smaller number of negative
+comments about the intervention content, but a fewremaining points were identified and addressed (Table 3).
+There were no substantial differences in the views
+expressed by individuals with higher and lower levels of
+cognitive performance.
+Phase 2, part 2b: inductive thematic analysis The in-
+ductive thematic analysis generated three overarching
+themes, comprising several subthemes. These were
+(1)‘knowledge and understanding of brain health ’,i n -
+cluding subthemes ‘the meaning of brain health ’,‘per-
+ceived availability of information about brain health ’
+and ‘knowledge of determinants of brain health ’;( 2 )
+‘motivators and barriers ’, including the subthemes
+‘motivations for achieving/maintaining good brain
+health ’,‘motivators for engaging in helpful behaviours ’
+and ‘barriers to engaging in helpful behaviours ’;a n d
+finally (3) ‘t h er o l eo fs o c i a ls u p p o r t ’including sub-
+themes ‘desirability of social support ’and ‘motiv-
+ational mechanisms of social support ’.K e yf i n d i n g sTable 2 Summary of feedback and amendments resulting from think aloud interviews (Continued)
+Active Brains
+sectionSummary of issue identified Example Change implemented
+wasn ’t considered correct good aim to try and improve scores, the
+important factor is continuing to practice
+these games whether or not your score
+improves
+Given different structure of the Brain
+Training section compared to other
+sections, a page preceding the Brain
+Training menu explained how to use
+menu page, but this created confusion“It's a bit confusing, this one. I don't know
+quite why. This bit I think might be more
+beneficial on the next page? ”(J0112)This page was removed and the
+navigation around the Brain Training menu
+pages was revised to ensure that it was
+clear how users could access each element
+of the Brain Training module —most
+importantly the link to the Brain Training
+games.
+Table 3 Summary of feedback and amendments resulting from retrospective interviews
+Summary of issue identified Example Change implemented
+Some voiced opinion that they felt physical
+activity content wasn ’t relevant to them as they
+perceived themselves to already be physically
+active (despite not meeting exclusion criteria for
+existing high levels of physical activity)“For me, it was the actual activities, the actual
+physical bits, weren't terribly challenging. ”
+(P0146)Additional messages added in to introductory
+and early physical activity content to emphasise
+that even those who are already active can use
+content to help them increase activity, and to
+stress importance of continuing with/ increasing
+activities they already do and enjoy. Additional
+signposting to aspects of content where users
+have more free choice about the level of
+challenge of their activities —e.g. writing their
+own goals, resources for finding activity classes/
+groups in their local area, and setting their own
+strength and conditioning exercise plan,
+A few suggestions that it would be useful to
+have more explicit suggestions about ways to
+stay motivated with making behavioural
+changes —particularly about how to use social
+support to do so“The one thing I think you could do a bit on is
+finding the incentive to do all these things, so
+that we've got to do them to keep going, but
+you tend to put them off because you're doing
+other things at the time. ”(P0265)Extra pages added to give examples of
+motivational strategies, including ways to involve
+others (e.g. weekly step-count competition with
+friends/family) and activities to boost motivation
+(e.g. ‘Reasons to be Active ’card).
+Some perceived healthy eating content to be
+largely in line with what they were already
+doing. Furthermore, expert advice from within
+the team recommended placing greater
+emphasis on the ‘foods for brain health ’as
+novel/interesting element.“I read it through with interest and I thought:
+Oh, well, I do that; I eat that. I agree with all of
+that and that's what I do; but there was
+nothing in there that I felt that I didn't already
+do.”(P0250)Restructure of the healthy eating content so that
+the initial information and goal setting centres
+around specific foods beneficial for cognitive
+health, with additional more general healthy
+eating advice presented after this.Essery et al. Pilot and Feasibility Studies           (2021) 7:158 Page 10 of 16
+from each theme are briefly summarised with illustra-
+tive quotes from the data. These findings helped to
+further refine the intervention guiding principles and
+behavioural analysis.
+Knowledge and understanding of brain health This
+theme suggests that, for older adults, ‘good brain health ’
+is largely about maintaining independence and
+remaining able to do the activities one wishes to do.
+More than half of participants also discussed retention
+of specific cognitive skills such as good memory and
+decision-making.
+If you've got good brain health, then you can carry
+on with your daily life: cooking, managing your
+finances, managing your social life —you know, day-
+to-day things, really. (P0229, female, 68, higher cog-
+nitive performance)
+A large proportion of individuals felt that, whilst infor-
+mation about cognitive health and how to protect it is
+available, it often requires one to actively look for it. Many
+also mentioned the availability of information about body
+health, but not necessarily about brain health.
+So you do need to know about it. But you have to
+make the effort to either read a newspaper or look
+at the news, or get your brain active yourself.
+(P0265, female, 69, lower cognitive performance)
+Despite this, nearly three-quarters of participants
+named typically promoted strategies for maintaining
+cognitive health, such as brain training activities and
+puzzles. Half of participants also acknowledged the role
+of health-related behaviours, such as physical activity, in
+maintaining cognitive health.
+Motivators and barriers Two different types of motiv-
+ation were identified within participants ’accounts.
+The first were motivations to maintain good brain
+health in order to avoid cognitive decline and its an-
+ticipated negative consequences, such as loss of inde-
+pendence, poor quality of life and interference with
+relationships. This was often accompanied by ac-
+counts of friends or family with dementia and their
+strong wish to avoid this.
+It’s a tremendous thing, for me anyway, because I've
+seen other people go through it. I don't want to, [ …]
+It is frustrating for other people as well as for your-
+self. I think it's important not just for you, but it's
+also important for the rest of the family, and to be
+able to pass the memories on as well. (P0225, fe-
+male, 65, lower cognitive performance)The second type of motivation related to factors that
+encouraged individuals to engage in behaviours import-
+ant for maintaining cognitive health. The overwhelming
+sentiment was that enjoyment is the main motivator.
+Even when individuals acknowledged that behaviours
+were beneficial for brain health, this seemed an ‘added
+bonus ’rather than the primary motivator.
+…yeah, you know, I do a lot of things like maths
+games. And crosswords and stuff like that every day,
+so I don ’t know if that actually helps but I just find
+them interesting. (P0138, male, 70, higher cognitive
+performance)
+Barriers to engaging in activities to support cognitive
+health were not discussed extensively, but the most
+common difficulty mentioned was managing other
+health conditions.
+I'm quite hampered with physical activity because
+I've got arthritis and am registered disabled so, to be
+honest, physical activity is so difficult for me. That's
+where these exercises come in, really and it's mostly
+what I can do. (P0261, male, 62, higher cognitive
+performance)
+The role of social support Participants who discussed
+involving others in healthy lifestyle activities mentioned
+several mechanisms through which this provided motiv-
+ation for beginning and maintaining activities. This in-
+cluded creation of action plans with others, being
+accountable to others and sharing encouragement and
+new ideas.
+I think, if you're going swimming or something once
+a week, it's nice if someone says, 'Are you ready to
+go?' 'Shall we go today?' rather than you think: Oh, do
+I really want to go today? If there's two of you or
+three of you wanting to go, you encourage each other.
+(P0229, female, 68, higher cognitive performance)
+However, it was widely acknowledged that individuals ’
+preferences and circumstances determine whether in-
+volvement of others is possible, or even desirable. More
+than half of participants expressed that they would be
+happy (or sometimes prefer) to do such activities alone.
+I’m quite happy with my own company. I mean, I
+enjoy doing things with other people, and I go to
+yoga and I get on with everybody there, and I've got
+quite a few friends that go, but I would go whether
+they went or not. (P0129, female, 67, lower cognitive
+performance).Essery et al. Pilot and Feasibility Studies           (2021) 7:158 Page 11 of 16
+Discussion
+This paper presents a theory-, evidence- and person-
+based approach to intervention development that could
+be applied across numerous behaviour change contexts.
+We have provided a systematic account of how and why
+the intervention took its current form, and how it is ex-
+pected to work. In doing so, we have provided important
+provisional insights into the likely acceptability of a
+digital multi-domain intervention to reduce cognitive
+decline amongst older adults with a range of cognitive
+performance abilities. This forms the basis for further
+work which will next explore the feasibility [ 70] of this
+intervention amongst a much larger sample. Further-
+more, this work illustrates the application of a systematic
+process for intervention development that can be applied
+widely.
+Key outcomes from each component of this study col-
+lectively provide preliminary evidence that a digital
+multi-domain behaviour change intervention can be ac-
+ceptable and engaging amongst UK community-dwelling
+older adults. The study ’s embedded qualitative work
+with intervention target users also allowed iterative opti-
+misation of our draft content to ensure barriers to ac-
+ceptability and engagement were identified and
+addressed. Furthermore, our findings about older adults ’
+perceptions of cognitive health facilitated understandings
+of characteristics and features of intervention content
+that would be important for acceptability and engage-
+ment. These findings generally align with the existing lit-
+erature: for example, maintaining independence [ 64] and
+enjoyment of activities [ 65] seem key motivators
+amongst this group. We also found that an awareness of,
+and desire to avoid, the consequences of dementia
+seemed to motivate cognition-protective behaviours
+[71], whilst other health conditions arose as a possible
+barrier. Additionally, our findings extend understandings
+about the value of social support. Whilst they concur
+that, for many, social support is an important motivator
+of behaviours such as physical activity [ 60], they reveal
+that for others it is not considered necessary or desir-
+able. This has important implications for offering social
+support within interventions, i.e. it should be available
+but not a compulsory element. Furthermore, as social
+support didn ’t appear to be a primary motivation for en-
+gagement with the intervention, this lends additional
+support to the potential feasibility and acceptability of a
+digital-delivery format.
+Our findings also reinforce and extend existing litera-
+ture about the suitability of intervention content for in-
+dividuals with varying levels of cognitive performance.
+Importantly, we found no evidence of qualitative differ-
+ences between those with higher and lower cognitive
+performance scores regarding their preferences or re-
+quirements for the Active Brains intervention, or theirability and willingness to engage with the digital inter-
+vention. This finding reinforced our judgement (in-
+formed by the initial literature review) that Active
+Brains ’content and delivery-format may also be access-
+ible and engaging for people with lower cognitive per-
+formance scores and did not need to be tailored
+according to cognitive status. This supports previous
+findings [ 50,51], suggesting that the same activity rec-
+ommendations might be suitable for those with and
+without cognitive impairment, given that they appear to
+share similar motivations, barriers, and attitudes. The
+findings regarding the acceptability of the digital delivery
+format also align with recent evidence that individuals
+with MCI and even dementia still frequently use tech-
+nologies such as smartphones and tablets [ 57,72]. These
+key findings extend limited evidence about preferred
+intervention features [ 54], by demonstrating that those
+suitable for a general older adult population seem likely
+to be engaging and acceptable for those with lower cog-
+nitive performance scores too. These preliminary find-
+ings will be explored further in the feasibility trial of the
+Active Brains intervention [ 70].
+Overall, our findings largely concur with the literature,
+PPI input and co-investigator expertise that informed
+our preliminary intervention guiding principles and be-
+havioural analysis, and so largely confirmed the priorities
+for intervention functions and features. The qualitative
+data also provide valuable, detailed feedback that has in-
+formed the optimisation of Active Brains to maximise
+the likelihood of intervention engagement and effective-
+ness. Whilst we will continue to explore these percep-
+tions and experiences in relation to the Active Brains
+intervention, these tentative insights may be of interest
+more widely to those developing behaviour change inter-
+ventions for older adults.
+This paper addresses numerous calls to more clearly
+articulate the intervention development process, and the
+resulting intervention ’s expected mechanisms of action
+[42]. It is important to test these mechanisms to provide
+new evidence about behavioural determinants and the
+most effective intervention functions to target them [ 42],
+particularly in multi-domain interventions. This infor-
+mation enables advancement of theoretical understand-
+ings of behaviour change in diverse contexts [ 73]. The
+extensive qualitative research is a further strength of this
+rigorous intervention development process. The qualita-
+tive interviews provided in-depth understanding of tar-
+get users ’preferences and life-context to maximise
+acceptability. These participants represent a wide-
+ranging community-based group, purposively sampled
+from JDR as well as primary care. As participants ’under-
+standings of cognitive health were sought during the
+period that they had access to Active Brains, their views
+could have been influenced by their experience of theEssery et al. Pilot and Feasibility Studies           (2021) 7:158 Page 12 of 16
+intervention. However, these questions explored percep-
+tions of cognitive health in a broad sense rather than
+how they related to specific intervention content. Indeed,
+participants ’responses more often involved accounts of
+their own beliefs and experiences than reference to Ac-
+tive Brains.
+With the development of Active Brains now complete,
+the next step is a feasibility trial ( n= 360, in progress) to
+test the intervention and trial procedures. A fully pow-
+ered trial ( n= 20,000) then aims to determine whether
+the Active Brains intervention can successfully reduce
+the incidence of dementia amongst older adults over a
+5-year period. This systematic development process has
+closely informed the planning of our later process evalu-
+ation that will occur alongside the fully powered effect-
+iveness trial. Specifically, it has helped to identify the
+intervention ’s anticipated mechanisms of action (out-
+lined in the logic model) and, in turn, has informed the
+inclusion of specific process measures that will allow us
+to test these mechanisms. This includes measures of
+self-efficacy, social support, intrinsic motivation for tar-
+get behaviours and perceptions of intervention usability.
+Conclusions
+This study has begun to address the need for a
+rigorously-developed, low-cost, multi-domain behaviour
+change intervention for maintaining older adults ’cogni-
+tive health. It presents the theory-, evidence- and
+person-based framework that arose from the planning of
+the intervention, as well as the primary qualitative evi-
+dence that helped to optimise acceptability of interven-
+tion content and functionality. As well as facilitating
+optimisation of intervention content, the qualitative data
+contribute a greater understanding of older adults ’per-
+ceptions of brain health, and the barriers and facilitators
+to engaging in preventative behaviours. In doing so, this
+study has provided preliminary evidence that a digitally
+delivered intervention with minimal support appears ac-
+ceptable and potentially engaging to older adults with
+higher and lower levels of cognitive performance.
+Abbreviations
+WHO: World Health Organisation; MCI: Mild cognitive impairment;
+AACD: Age-associated cognitive decline; PPI (representative): Public and
+Patient Involvement (representative); BCW: Behaviour change wheel;
+TDF: Theoretical domains framework; BCTs: Behaviour change techniques;
+MRC: Medical Research Council; JDR: Join Dementia Research; CARE
+(approach): Congratulate, Ask, Reassure, Encourage (approach)
+Supplementary Information
+The online version contains supplementary material available at https://doi.
+org/10.1186/s40814-021-00884-2 .
+Additional file 1:. Additional Table 1 (.pdf) - Intervention actions
+employed in each phase of the Active Brains development processAdditional file 2:. Additional Table 2 (.pdf) - Search strategies employed
+in reviewing conducted during development phase
+Additional file 3:. Additional Table 3 (.pdf) - Excerpts from Table of
+Changes
+Additional file 4:. Additional Table 4 (.pdf) - Behavioural analysis of
+Active Brains using the Behaviour Change Wheel (BCW) and Theoretical
+Domains Framework (TDF)
+Additional file 5:. Additional Figure 1 (.jpg) - Full Active Brains
+intervention logic model
+Acknowledgements
+We thank the University of Exeter and Kings College London for their
+collaboration in accessing their PROTECT platform Cognitive Tests and Brain
+Training games.
+Authors ’contributions
+RE and LY led the intervention development and optimisation, PL and LY led
+the research programme and RE drafted this paper. AMi, AMu, and BS
+conducted and summarised the scoping review work. RE, SP, KS, FM, JS-B,
+JD-D, KB, VH, EG, MW, CH, AF, NM, SG, TK, BG, RP, TS, JN, HB, PL, and LY all
+contributed to the design and iterative development of intervention content
+and study procedures. RE, FM, KS, MW, J-SB, SP, EG, AF, and AMi collected
+and/or analysed qualitative data. All co-authors assisted with and contributed
+to the evaluation and reporting of the intervention development in this
+paper. The authors read and approved the final manuscript.
+Funding
+This work was supported by the National Institute for Health Research (NIHR)
+under its Programme Grants for Applied Research (Reference Number RP-PG-
+0615-20014). The views expressed are those of the author(s) and not neces-
+sarily those of the NIHR or the Department of Health and Social Care.
+The Active Brains intervention was developed using LifeGuide software,
+which was partly funded by the NIHR Southampton Biomedical Research
+Centre (BRC).
+The PROTECT study represents independent research part funded by the
+National Institute for Health Research (NIHR) Biomedical Research Centre at
+South London and Maudsley NHS Foundation Trust and King ’s College
+London. This research was also supported by the NIHR Collaboration for
+Leadership in Applied Health Research and Care South West Peninsula. The
+views expressed are those of the author(s) and not necessarily those of the
+NHS, the NIHR, or the Department of Health and Social Care.
+Availability of data and materials
+The datasets used and/or analysed during the current study are available
+from the corresponding author on reasonable request. Further examples and
+extracts from data/analysis are available in additional files.
+Declarations
+Ethics approval and consent to participate
+Full ethical approval was obtained from the University of Southampton
+(sponsor) and National Research Ethics Service (IRAS number: 228584; REC
+Ref: 17/SC/0463) prior to any recruitment or data collection occurring. Fully
+informed (online) written consent was obtained from all participants.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1Centre for Clinical and Community Applications of Health Psychology,
+University of Southampton, Southampton, UK.2Department for Health,
+University of Bath, Bath, UK.3School of Psychological Science, University of
+Bristol, Bristol, UK.4University Hospitals Plymouth NHS Trust, Plymouth, UK.
+5Nuffield Department of Primary Care Health Sciences, University of Oxford,
+Oxford, UK.6Saw Swee Hock School of Public Health, National University of
+Singapore, Singapore 117549, Singapore.7Centre for Sport & ExerciseEssery et al. Pilot and Feasibility Studies           (2021) 7:158 Page 13 of 16
+Sciences, University of Malaya, Kuala Lumpur, Malaysia.8Primary Care,
+Population Sciences and Medical Education, University of Southampton,
+Southampton, UK.9Physical Activity for Health Research Centre, University of
+Edinburgh, Edinburgh, UK.10Department of Public Health and Primary Care,
+University of Cambridge, Cambridge, UK.11University of Exeter Medical
+School, Exeter, UK.12Public and Patient Involvement (PPI) representative,
+Southampton, UK.
+Received: 31 March 2020 Accepted: 9 July 2021
+References
+1. Livingston G, Huntley J, Sommerlad A, Ames D, Ballard C, Banerjee S, et al.
+Dementia prevention, intervention, and care: 2020 report of the Lancet
+Commission. The Lancet. 2020;396(10248):413 –46.https://doi.org/10.1016/
+S0140-6736(20)30367-6 .
+2. Ritchie K, Artero S, Touchon J. Classification criteria for mild cognitive
+impairment: a population-based validation study. Neurology. 2001;56(1):37 –
+42.https://doi.org/10.1212/WNL.56.1.37 .
+3. Petersen RC. Mild Cognitive Impairment. Continuum (Minneap Minn). 2016;
+22(2 Dementia):404 –18.
+4. Mitchell AJ, Shiri-Feshki M. Rate of progression of mild cognitive impairment
+to dementia –meta-analysis of 41 robust inception cohort studies. Acta
+Psychiatrica Scandinavica. 2009;119(4):252 –65.https://doi.org/10.1111/j.1600-
+0447.2008.01326.x .
+5. Alzheimer ’s Diesease International. World Alzheimer Report 2018. The state
+of the art of dementia research: New frontiers. https://www.alz.co.uk/resea
+rch/WorldAlzheimerReport2018.pdf; 2018.
+6. Mansbach WE, Mace RA. Predicting functional dependence in mild
+cognitive impairment: differential contributions of memory and executive
+functions. The Gerontologist. 2018;59(5):925 –35.
+7. Livingston G, Sommerlad A, Orgeta V, Costafreda SG, Huntley J, Ames D,
+et al. Dementia prevention, intervention, and care. The Lancet. 2017;
+390(10113):2673 –734. https://doi.org/10.1016/S0140-6736(17)31363-6 .
+8. Lafortune L, Martin S, Kelly S, Kuhn I, Remes O, Cowan A, et al. Behavioural
+risk factors in mid-life associated with successful ageing, disability, dementia
+and frailty in later life: a rapid systematic review. PloS one. 2016;11(2):
+e0144405. https://doi.org/10.1371/journal.pone.0144405 .
+9. Santos-Lozano A, Pareja-Galeano H, Sanchis-Gomar F, Quindos-Rubial M,
+Fiuza-Luces C, Cristi-Montero C, et al. Physical activity and Alzheimer
+disease: a protective association. Mayo Clinic proceedings. 2016;91(8):999 –
+1020. https://doi.org/10.1016/j.mayocp.2016.04.024 .
+10. Tangney CC, Li H, Wang Y, Barnes L, Schneider JA, Bennett DA, et al.
+Relation of DASH-and Mediterranean-like dietary patterns to cognitive
+decline in older persons. Neurology. 2014;83(16):1410 –6.https://doi.org/1
+0.1212/WNL.0000000000000884 .
+11. Corbett A, Owen A, Hampshire A, Grahn J, Stenton R, Dajani S, et al. The
+effect of an online cognitive training package in healthy older adults: an
+online randomized controlled trial. Journal of the American Medical
+Directors Association. 2015;16(11):990 –7.https://doi.org/10.1016/j.jamda.201
+5.06.014 .
+12. Chen X, Maguire B, Brodaty H, O ’Leary F. Dietary patterns and cognitive
+health in older adults: a systematic review. Journal of Alzheimer's Disease.
+2019;67(2):583 –619. https://doi.org/10.3233/JAD-180468 .
+13. Vaughan S, Wallis M, Polit D, Steele M, Shum D, Morris N. The effects of
+multimodal exercise on cognitive and physical functioning and brain-
+derived neurotrophic factor in older women: a randomised controlled trial.
+Age Ageing. 2014;43(5):623 –9.https://doi.org/10.1093/ageing/afu010 .
+14. Panza GA, Taylor BA, MacDonald HV, Johnson BT, Zaleski AL, Livingston J,
+et al. Can exercise improve cognitive symptoms of Alzheimer's disease?
+Journal of the American Geriatrics Society. 2018;66(3):487 –95.https://doi.
+org/10.1111/jgs.15241 .
+15. Valls-Pedret C, Sala-Vila A, Serra-Mir M, Corella D, de la Torre R, Martínez-
+González MÁ, et al. Mediterranean diet and age-related cognitive decline: a
+randomized clinical trial. JAMA internal medicine. 2015;175(7):1094 –103.
+https://doi.org/10.1001/jamainternmed.2015.1668 .
+16. Reijnders J, van Heugten C, van Boxtel M. Cognitive interventions in healthy
+older adults and people with mild cognitive impairment: a systematic
+review. Ageing Research Reviews. 2013;12(1):263 –75.https://doi.org/10.101
+6/j.arr.2012.07.003 .17. Savulich G, Piercy T, Fox C, Suckling J, Rowe JB, O ’Brien JT, et al. Cognitive
+training using a novel memory game on an iPad in patients with amnestic
+mild cognitive impairment (aMCI). International Journal of
+Neuropsychopharmacology. 2017;20(8):624 –33.https://doi.org/10.1093/ijnp/
+pyx040 .
+18. Whitty E, Mansour H, Aguirre E, Palomo M, Charlesworth G, Ramjee S, et al.
+Efficacy of lifestyle and psychosocial interventions in reducing cognitive
+decline in older people: Systematic review. Ageing Res Rev. 2020;62:101113.
+https://doi.org/10.1016/j.arr.2020.101113 .
+19. Craig P, Dieppe P, Macintyre S, Michie S, Nazareth I, Petticrew M.
+Developing and evaluating complex interventions: the new Medical
+Research Council guidance. BMJ. 2008;337.
+20. Rosenberg A, Mangialasche F, Ngandu T, Solomon A, Kivipelto M.
+Multidomain interventions to prevent cognitive impairment, Alzheimer ’s
+disease, and dementia: from FINGER to World-Wide FINGERS. The Journal of
+Prevention of Alzheimer's Disease. 2020;7(1):29 –36.https://doi.org/10.14283/
+jpad.2019.41 .
+21. Ngandu T, Lehtisalo J, Solomon A, Levälahti E, Ahtiluoto S, Antikainen R,
+et al. A 2 year multidomain intervention of diet, exercise, cognitive training,
+and vascular risk monitoring versus control to prevent cognitive decline in
+at-risk elderly people (FINGER): a randomised controlled trial. The Lancet.
+2015;385(9984):2255 –63.https://doi.org/10.1016/S0140-6736(15)60461-5 .
+22. Andrieu S, Guyonnet S, Coley N, Cantet C, Bonnefoy M, Bordes S, et al.
+Effect of long-term omega 3 polyunsaturated fatty acid supplementation
+with or without multidomain intervention on cognitive function in elderly
+adults with memory complaints (MAPT): a randomised, placebo-controlled
+trial. The Lancet Neurology. 2017;16(5):377 –89.https://doi.org/10.1016/S14
+74-4422(17)30040-6 .
+23. Moll van Charante EP, Richard E, Eurelings LS, van Dalen JW, Ligthart SA, van Bussel
+EF, et al. Effectiveness of a 6-year multidom ain vascular care intervention to prevent
+dementia (preDIVA): a cluster-randomi sed controlled trial. Lancet. 2016;388(10046):
+797–805.https://doi.org/10.1016/S0140-6736(16)30950-3 .
+24. Tsiakas K, Abujelala M, Makedon F. Task engagement as personalization
+feedback for socially-assistive robots and cognitive training. Technologies.
+2018;6(2):49. https://doi.org/10.3390/technologies6020049 .
+25. Colzato LS, Hommel B. The future of cognitive training. Cognitive training:
+Springer. 2016:201 –11.https://doi.org/10.1007/978-3-319-42662-4_19 .
+26. Vogan AA, Alnajjar F, Gochoo M, Khalid S. Robots, AI, and cognitive training
+in an era of mass age-related cognitive decline: a systematic review. IEEE
+Access. 2020;8:18284 –304. https://doi.org/10.1109/ACCESS.2020.2966819 .
+27. Murray E, Hekler EB, Andersson G, Collins LM, Doherty A, Hollis C, et al.
+Evaluating digital health interventions: key questions and approaches.
+American journal of preventive medicine. 2016;51(5):843 –51.https://doi.
+org/10.1016/j.amepre.2016.06.008 .
+28. Wesselman LMP, Hooghiemstra AM, Schoonmade LJ, de Wit MCJ, van der
+Flier WM, Sikkes SAM. Web-based multidomain lifestyle programs for brain
+health: comprehensive overview and meta-analysis. JMIR Ment Health. 2019;
+6(4):e12104. https://doi.org/10.2196/12104 .
+29. Aalbers T, Qin L, Baars MA, de Lange A, Kessels RP, Olde Rikkert MG.
+Changing Behavioral Lifestyle Risk Factors Related to Cognitive Decline in
+Later Life Using a Self-Motivated eHealth Intervention in Dutch Adults. J
+Med Internet Res. 2016;18(6):e171. https://doi.org/10.2196/jmir.5269 .
+30. Tennant B, Stellefson M, Dodd V, Chaney B, Chaney D, Paige S, et al.
+eHealth literacy and Web 2.0 Health Information Seeking Behaviors Among
+Baby Boomers and Older Adults. J Med Internet Res. 2015;17(3):e70.
+31. Fang ML, Canham SL, Battersby L, Sixsmith J, Wada M, Sixsmith A. Exploring
+privilege in the digital divide: implications for theory, policy, and practice.
+The Gerontologist. 2018;59(1):e1 –e15.
+32. O ’Cathain A, Croot L, Sworn K, Duncan E, Rousseau N, Turner K, et al.
+Taxonomy of approaches to developing interventions to improve health: a
+systematic methods overview. Pilot and feasibility studies. 2019;5(1):41.
+https://doi.org/10.1186/s40814-019-0425-6 .
+33. Kok G, Shaalma H. Using Theory in Psychological Interventions. In: Michie S,
+Abraham C, editors. Health Psychology in Practice. Oxford: Blackwell; 2004.
+p. 203 –9.https://doi.org/10.1002/9780470694008.ch11 .
+34. Yardley L, Morrison L, Bradbury K, Muller I. The person-based approach to
+intervention development: application to digital health-related behavior
+change interventions. Journal of medical Internet research. 2015;17(1):e30.
+https://doi.org/10.2196/jmir.4055 .
+35. Evans RE, Craig P, Hoddinott P, Littlecott H, Moore L, Murphy S, et al. When
+and how do ‘effective ’interventions need to be adapted and/or re-Essery et al. Pilot and Feasibility Studies           (2021) 7:158 Page 14 of 16
+evaluated in new contexts? The need for guidance. Journal of Epidemiology
+and Community Health. 2019;73(6):481 –2.https://doi.org/10.1136/jech-201
+8-210840 .
+36. Funnell SC, Rogers PJ. Purposeful program theory: effective use of theories
+of change and logic models. New Jersey: Wiley; 2011.
+37. Michie S, Van Stralen MM, West R. The behaviour change wheel: a new
+method for characterising and designing behaviour change interventions.
+Implementation science. 2011;6(1):42. https://doi.org/10.1186/1748-5908-
+6-42.
+38. Cane J, O ’Connor D, Michie S. Validation of the theoretical domains framework
+for use in behaviour change and implementation research. Implementation
+science. 2012;7(1):37. https://doi.org/10.1186/1748-5908-7-37 .
+39. Davis R, Campbell R, Hildon Z, Hobbs L, Michie S. Theories of behaviour and
+behaviour change across the social and behavioural sciences: a scoping
+review. Health Psychology Review. 2015;9(3):323 –44.https://doi.org/10.1
+080/17437199.2014.941722 .
+40. Michie S, Johnston M, Abraham C, Lawton R, Parker D, Walker A, et al.
+Making psychological theory useful for implementing evidence based
+practice: a consensus approach. Qual Saf Health Care. 2005;14(1):26 –33.
+https://doi.org/10.1136/qshc.2004.011155 .
+41. Michie S, Richardson M, Johnston M, Abraham C, Francis J, Hardeman W,
+et al. The behavior change technique taxonomy (v1) of 93 hierarchically
+clustered techniques: building an international consensus for the reporting
+of behavior change interventions. Annals of behavioral medicine. 2013;46(1):
+81–95.https://doi.org/10.1007/s12160-013-9486-6 .
+42. Moore GF, Audrey S, Barker M, Bond L, Bonell C, Hardeman W, et al. Process
+evaluation of complex interventions: Medical Research Council guidance.
+BMJ : British Medical Journal. 2015;350(mar19 6):h1258. https://doi.org/1
+0.1136/bmj.h1258 .
+43. Band R, Bradbury K, Morton K, May C, Michie S, Mair FS, et al. Intervention
+planning for a digital intervention for self-management of hypertension: a
+theory-, evidence- and person-based approach. Implementation Science.
+2017;12(1):25. https://doi.org/10.1186/s13012-017-0553-4 .
+44. Godin G, Shephard R. Godin leisure-time exercise questionnaire. Med Sci
+Sports Exerc. 1997;29(6):36 –8.
+45. Baddeley AD. A 3 min reasoning test based on grammatical transformation.
+Psychonomic Science. 1968;10(10):341 –2.https://doi.org/10.3758/BF03331
+551.
+46. Stephan B, Matthews FE, McKeith IG, Bond J, Brayne C. Early cognitive
+change in the general population: how do different definitions work?
+Journal of the American Geriatrics Society. 2007;55(10):1534 –40.https://doi.
+org/10.1111/j.1532-5415.2007.01386.x .
+47. PROTECT Study Research Team. PROTECT Study 2015 Available from:
+https://www.protectstudy.org.uk/ .
+48. Bradbury K, Morton K, Band R, van Woezik A, Grist R, McManus RJ, et al.
+Using the Person-Based Approach to optimise a digital intervention for the
+management of hypertension. PLOS ONE. 2018;13(5):e0196868. https://doi.
+org/10.1371/journal.pone.0196868 .
+49. Braun V, Clarke V. Using thematic analysis in psychology. Qualitative
+research in psychology. 2006;3(2):77 –101. https://doi.org/10.1191/14
+78088706qp063oa .
+50. Coyle H, Traynor V, Solowij N. Computerized and virtual reality cognitive
+training for Individuals at high risk of cognitive decline: systematic review of
+the literature. The American Journal of Geriatric Psychiatry. 2015;23(4):335 –
+59.https://doi.org/10.1016/j.jagp.2014.04.009 .
+51. Shah TM, Weinborn M, Verdile G, Sohrabi HR, Martins RN. Enhancing
+cognitive functioning in healthly older adults: a systematic review of the
+clinical significance of commercially Available computerized cognitive
+training in preventing cognitive decline. Neuropsychology Review. 2017;
+27(1):62 –80.https://doi.org/10.1007/s11065-016-9338-9 .
+52. Chong TW, Doyle CJ, Cyarto EV, Cox KL, Ellis KA, Ames D, et al. Physical
+activity program preferences and perspectives of older adults with and
+without cognitive impairment. Asia-Pacific Psychiatry. 2014;6(2):179 –90.
+https://doi.org/10.1111/appy.12015 .
+53. Cox KL, Flicker L, Almeida OP, Xiao J, Greenop KR, Hendriks J, et al. The
+FABS trial: a randomised control trial of the effects of a 6-month physical
+activity intervention on adherence and long-term physical activity and self-
+efficacy in older adults with memory complaints. Preventive medicine. 2013;
+57(6):824 –30.https://doi.org/10.1016/j.ypmed.2013.09.010 .
+54. Wolff JK, Warner LM, Ziegelmann JP, Wurm S, Kliegel M. Translating good
+intentions into physical activity: Older adults with low prospective memoryability profit from planning. Journal of behavioral medicine. 2016;39(3):472 –
+82.https://doi.org/10.1007/s10865-015-9707-5 .
+55. Gauthier S, Reisberg B, Zaudig M, Petersen RC, Ritchie K, Broich K, et al. Mild
+cognitive impairment. The Lancet. 2006;367(9518):1262 –70.https://doi.org/1
+0.1016/S0140-6736(06)68542-5 .
+56. Langa KM, Levine DA. The diagnosis and management of mild cognitive
+impairment: a clinical review. JAMA. 2014;312(23):2551 –61.https://doi.org/1
+0.1001/jama.2014.13806 .
+57. LaMonica HM, English A, Hickie IB, Ip J, Ireland C, West S, et al. Examining
+Internet and eHealth practices and preferences: survey study of Australian
+older adults with subjective memory complaints, mild cognitive
+impairment, or dementia. Journal of medical Internet research. 2017;19(10):
+e358. https://doi.org/10.2196/jmir.7981 .
+5 8 . A a l b e r sT ,B a a r sM ,R i k k e r tM O .C h a r a c t e r istics of effective Internet-mediated
+interventions to change lifestyle in people aged 50 and older: a systematic review.
+Ageing research reviews. 2011;10(4):487 –97.https://doi.org/10.1016/j.arr.2011.05.001 .
+59. Peels DA, van Stralen MM, Bolman C, Golsteijn RHJ, de Vries H, Mudde AN,
+et al. The differentiated effectiveness of a printed versus a Web-based
+tailored physical activity intervention among adults aged over 50. Health
+Education Research. 2014;29(5):870 –82.https://doi.org/10.1093/her/cyu039 .
+60. Lara J, O ’Brien N, Godfrey A, Heaven B, Evans EH, Lloyd S, et al. Pilot
+randomised controlled trial of a web-based intervention to promote healthy
+eating, physical activity and meaningful social connections compared with
+usual care control in people of retirement age recruited from workplaces.
+PLOS ONE. 2016;11(7):e0159703. https://doi.org/10.1371/journal.pone.01
+59703 .
+61. Lampit A, Hallock H, Valenzuela M. Computerized cognitive training in
+cognitively healthy older adults: a systematic review and meta-analysis of
+effect modifiers. PLOS Medicine. 2014;11(11):e1001756. https://doi.org/10.13
+71/journal.pmed.1001756 .
+62. Clemson L, Fiatarone Singh MA, Bundy A, Cumming RG, Manollaras K,
+O’Loughlin P, et al. Integration of balance and strength training into daily
+life activity to reduce rate of falls in older people (the LiFE study):
+randomised parallel trial. BMJ : British Medical Journal. 2012;345(aug07 1):
+e4547. https://doi.org/10.1136/bmj.e4547 .
+63. Notthoff N, Klomp P, Doerwald F, Scheibe S. Positive messages enhance
+older adults ’motivation and recognition memory for physical activity
+programmes. European journal of ageing. 2016;13(3):251 –7.https://doi.org/1
+0.1007/s10433-016-0368-1 .
+64. Price AE, Corwin SJ, Friedman DB, Laditka SB, Colabianchi N, Montgomery
+KM. Older adults ’perceptions of physical activity and cognitive health:
+implications for health communication. Health Education & Behavior. 2011;
+38(1):15 –24.https://doi.org/10.1177/1090198110369764 .
+65. Devereux-Fitzgerald A, Powell R, Dewhurst A, French DP. The acceptability
+of physical activity interventions to older adults: a systematic review and
+meta-synthesis. Social Science & Medicine. 2016;158:14 –23.https://doi.org/1
+0.1016/j.socscimed.2016.04.006 .
+66. Irvine AB, Gelatt VA, Seeley JR, Macfarlane P, Gau JM. Web-based
+intervention to promote physical activity by sedentary older adults:
+randomized controlled trial. Journal of Medical Internet Research. 2013;15(2):
+e19. https://doi.org/10.2196/jmir.2158 .
+67. Peels DA, van Stralen MM, Bolman C, Golsteijn RH, de Vries H, Mudde AN,
+et al. Development of web-based computer-tailored advice to promote
+physical activity among people older than 50 years. J Med Internet Res.
+2012;14(2):e39. https://doi.org/10.2196/jmir.1742 .
+68. Müller AM, Khoo S. Non-face-to-face physical activity interventions in older
+adults: a systematic review. International Journal of Behavioral Nutrition and
+Physical Activity. 2014;11(1):35. https://doi.org/10.1186/1479-5868-11-35 .
+69. Bradbury K, Morton K, Band R, May C, McManus R, Little P, et al.
+Understanding how primary care p ractitioners perceive an online
+intervention for the management of hypertension. BMC medical
+informatics and decision making. 2017;17(1):5. https://doi.org/10.1186/
+s12911-016-0397-x .
+70. Smith KA, Bradbury K, Essery R, Pollet S, Mowbray F, Slodkowska-Barabasz J,
+et al. The active brains digital intervention to reduce cognitive decline in
+older adults: protocol for a feasibility randomized controlled trial. JMIR Res
+Protoc. 2020;9(11):e18929. https://doi.org/10.2196/18929 .
+71. Rosenberg A, Coley N, Soulier A, Kulmala J, Soininen H, Andrieu S, et al.
+Experiences of dementia and attitude towards prevention: a qualitative
+study among older adults participating in a prevention trial. BMC Geriatrics.
+2020;20(1):99. https://doi.org/10.1186/s12877-020-1493-4 .Essery et al. Pilot and Feasibility Studies           (2021) 7:158 Page 15 of 16
+72. Guzman-Parra J, Barnestein-Fonseca P, Guerrero-Pertiñez G, Anderberg P,
+Jimenez-Fernandez L, Valero-Moreno E, et al. Attitudes and use of
+information and communication technologies in older adults with mild
+cognitive impairment or early stages of dementia and their caregivers:
+cross-sectional study. J Med Internet Res. 2020;22(6):e17253. https://doi.
+org/10.2196/17253 .
+73. MICHIE S, ABRAHAM C. Advancing the science of behaviour change: a plea
+for scientific reporting. Addiction. 2008;103(9):1409 –10.https://doi.org/1
+0.1111/j.1360-0443.2008.02291.x .
+Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.Essery et al. Pilot and Feasibility Studies           (2021) 7:158 Page 16 of 16

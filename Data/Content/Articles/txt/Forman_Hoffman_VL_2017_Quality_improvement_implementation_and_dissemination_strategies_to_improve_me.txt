@@ -1,0 +1,1992 @@
+SYSTEMATIC REVIEW Open Access
+Quality improvement, implementation, and
+dissemination strategies to improve mental
+health care for children and adolescents:
+a systematic review
+Valerie L. Forman-Hoffman1*, Jennifer Cook Middleton2, Joni L. McKeeman3, Leyla F. Stambaugh1,R o b e r tB .C h r i s t i a n4,
+Bradley N. Gaynes5, Heather Lynne Kane1,L e i l aC .K a h w a t i1, Kathleen N. Lohr1and Meera Viswanathan1
+Abstract
+Background: Some outcomes for children with mental healt h problems remain suboptimal because of poor
+access to care and the failure of systems and providers to adopt established quality improvement strategies
+and interventions with proven effectiveness. This review had three goals: (1) assess the effectiveness of quality
+improvement, implementation, and dissemination stra tegies intended to improve the mental health care of
+children and adolescents; (2) examine harms associat ed with these strategies; and (3) determine whether
+effectiveness or harms differ for subgroups based on system, organizational, practitioner, or patient characteristics.
+Methods: Sources included MEDLINE®, the Cochrane Library, PsycINFO, and CINAHL, from database inception through
+February 17, 2017. Additional sources included gray literature, additional studies from reference lists, and technical
+experts. Two reviewers selected relevant randomized controlled trials (RCTs) and observational studies, extracted data,
+and assessed risk of bias. Dual analysis, synthesis, and grading of the strength of evidence for each outcome followed
+for studies meeting inclusion criteria. We also used qualitative comparative analysis to examine relationships between
+combinations of strategy components and improvements in outcomes.
+Results: We identified 18 strategies described in 19 studies. Eleven strategies significantly improved at least one
+measure of intermediate outcomes, final health outcomes, or resource use. Moderate strength of evidence (from
+one RCT) supported using provider financial incentives such as pay for performance to improve the competence
+with which practitioners can imple ment evidence-based practices (E BPs). We found inconsistent evidence
+involving strategies with educational meetings, materi als, and outreach; programs appeared to be successful in
+combination with reminders or providing practitioners with newly collected clinical information. We also found
+low strength of evidence for no benefit for initiatives that included only educational materials or meetings (or both),
+or only educational materials and outreach components. Evidence was insufficient to draw conclusions on harms and
+moderators of interventions.
+Conclusions: Several strategies can improve both intermediate and final health outcomes and resource use. This
+complex and heterogeneous body of evidence does not permit us to have a high degree of confidence about
+t h ee f f i c a c yo fa n yo n es t r a t e g yb e c a u s ew eg e n e r a l l y found only a single study testing each strategy.
+Trial registration: PROSPERO, CRD42015024759.
+Keywords: Adolescents, Children, Dissemination, Evidence-based medicine, Implementation, Mental health,
+Quality improvement, Systematic review
+* Correspondence: vhoffman@rti.org
+1RTI International, 3040 W Cornwallis Rd, Research Triangle Park, P.O. Box
+12194, Research Triangle Park, NC 27709, USA
+Full list of author information is available at the end of the article
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.Forman-Hoffman et al. Implementation Science  (2017) 12:93 
+DOI 10.1186/s13012-017-0626-4
+Background
+Approximately one in five children and adolescents
+living in the USA has one or more mental, emotional, or
+behavioral health disorders according to the Diagnostic
+and Statistical Manual of Mental Disorders, Fourth
+Edition (DSM-IV) criteria in any given year [1]. These
+disorders contribute to problems with family, peers, and
+academic functioning. They may exacerbate coexisting
+conditions and reduce quality of life. They also increase
+the risk of involvement with the criminal justice system
+and other risk-taking behaviors and suicide [2].
+Several key publications in the mid- to late-1990s sug-
+gested that usual care in children ’s mental health had, at
+best, no [3] and sometimes harmful effects [4]. Since
+then, mental health interventions that improve outcomes
+for children and adolescents with mood disorders, anxiety
+disorders, disruptive behavior disorders, psychotic disor-
+ders, eating disorders, and substance use disorders have
+been tested and shown to yield varying degrees of
+benefit [5, 6].
+Despite advances in the evidence base [5, 7], some out-
+comes for children with mental health problems remain
+suboptimal. Reasons include issues with access to care
+and the failure of systems and providers to adopt estab-
+lished quality improvement (QI) strategies and interven-
+tions with proven effectiveness (e.g., evidence-based
+practices (EBPs)). Studies using nationally representative
+data on US adolescents show that only approximately
+one in five children with mental health problems re-
+ceives services and only one third of treatment episodes
+are considered minimally adequate (at least four visits
+with psychotropic medication or at least eight visits
+without psychotropic medication) [8 –10]. The current
+health care system continues to provide fragmented care
+to children and adolescents in numerous uncoordinated
+systems, rendering inefficiently the delivery of needed
+services [11]. Moreover, clinicians —particularly primary
+care practitioners —may lack the time, knowledge, or
+training to identify and treat or refer patients with men-
+tal health problems [12].
+Given the gap between observed and achievable pro-
+cesses and outcomes, one way to improve the mental
+health care of children and adolescents is to adopt QI
+practices; another is to develop strategies to implement
+or disseminate interventions with known effectiveness.
+Such strategies target changes in the organization and
+delivery of mental health services [13, 14]. They seek to
+improve the quality of care and patient outcomes by
+closing the gap between research evidence and practice
+[15–17].
+Some investigators consider implementation and dis-
+semination strategies as a particular subset of initiatives
+to improve the quality of care. However, the field of
+implementation and dissemination is so new that theconceptual framework and terminology in relationship
+to QI efforts have not been fully standardized yet [18].
+We do not take a position on the taxonomy of these
+terms. More information about the definitions used in
+this review can be found in the full report on this topic
+[19].The ultimate goal of these strategies is to improve
+patient health and service utilization outcomes for chil-
+dren and adolescents with mental health problems
+through system interventions, not clinical ones. Inter-
+mediate outcomes in this context include changes to
+health care systems, organizations, and practitioners that
+provide mental health care. Targeting multiple, interre-
+lated, nested levels —such as the macro environment
+(e.g., states), organization or system (e.g., specialty men-
+tal health clinics), program (e.g., selected interventions),
+practitioner (e.g., psychologists), and patient (e.g.,
+children or adolescents and their families) —typically in-
+creases the effectiveness and sustainability of a particular
+strategy [20, 21]. These outcomes represent implementa-
+tion, dissemination, or QI outcomes and are distinct from
+but can influence patient-level outcomes [20], For in-
+stance, changes in intermediate outcomes such as practi-
+tioners ’attitudes [22] or organizational climate [23] may
+influence the successful adoption of and fidelity to EBPs.
+These practices in turn influence patient health outcomes,
+such as behavior or quality of life.
+We developed the topic, key questions (KQs), outcome
+list, and analytic framework for this systematic review
+through a comprehensive, evidence-based, and public
+process. We refined review criteria used by two recent re-
+views [24, 25] and built on extant literature [20 –23, 26 –28]
+on this topic to focus the review on a narrower set of inclu-
+sion and exclusion criteria. We aimed to decrease the hete-
+rogeneity of findings, add more recent studies, and seek
+studies that may have examined differential efficacy by pa-
+tient, provider, or system-level characteristics. A panel of
+key informants gave input on the proposed scope and
+methodology. Public comment was solicited in response to
+online posting on AHRQ ’s Effective Health Care Website.
+We revised the KQs, outcomes, and analytic framework in
+response to all gathered information.
+We drafted a protocol for the systematic review and re-
+cruited a panel of technical experts to provide high-level
+content and methodological consultation throughout the
+review. The final protocol was posted on the Effective
+Health Care website at http://effectivehealthcare.ahrq.gov/
+search-for-guides-reviews-and- reports/?pageaction=display
+product&productid=2030 on December 30, 2014, and
+registered on PROSPERO (Registration number: CRD
+42015024759). Following release of a draft of the sys-
+tematic review and peer review, we amended our proto-
+col to include additional review and analysis methods
+suitable for complex interventions (described below in
+the“Methods ”section).Forman-Hoffman et al. Implementation Science  (2017) 12:93 Page 2 of 21
+Our key questions included the following:
+KQ 1: What is the effectiveness of quality improvement
+(QI), implementation, and dissemination strategies
+employed in outpatient settings by health care
+practitioners, organizations, or systems that care for
+children and adolescents with mental health problems
+to improve:
+a. Intermediate patient, provider, or system outcomes
+b. Patient health and service utilization outcomes?
+KQ 2: What are the harms of these mental health
+strategies?
+KQ 3: Do characteristics of the child or adolescent or
+contextual factors (e.g., characteristics of patients,
+practitioners, organizations, or systems; intervention
+characteristics; setting; or process) modify the
+effectiveness or harms of strategies to improve mental
+health care and, if so, how?
+Figure 1 depicts our analytic framework. Note that all
+KQ focus on the effectiveness, harms, and moderators
+of outcomes (effectiveness or harms) of strategies toimplement, disseminate, or improve quality of mental
+healthcare for children and adolescents. The benefits
+and harms of strategies accrue at multiple levels: sys-
+tems or organizations, practitioners, and patients.
+Clinical interventions that focused solely on improving
+health outcomes were not eligible.
+KQ 3 was intended to evaluate the effect of moderators
+on any outcomes reported in KQ 1 (either intermediate or
+ultimate patient health or service utilization benefits to
+systems or organizations, practitioners, or patients) or KQ
+2 (harms to systems or organizations, practitioners, or pa-
+tients). Because the effect of the moderator may vary
+based on the nature of the outcome, our planned analyses
+did not combine categories of outcomes.
+Methods
+We followed procedures specified in the Methods
+Guide for Effectiveness and Comparative Effectiveness
+Reviews from AHRQ (available at https://www.effective-
+healthcare.ahrq.gov/search-for-guides-reviews-and-reports/
+?pageaction=displayproduct&productid=318). The review
+uses the PRISMA (Preferred Reporting Items for Sys-
+tematic Reviews and Meta-Analyses) checklist to facili-
+tate the preparation and reporting of the systematic
+review [29].
+Fig. 1 Analytic framework for strategies to improve mental health care in children and adolescentsForman-Hoffman et al. Implementation Science  (2017) 12:93 Page 3 of 21
+Searches
+We searched MEDLINE® for eligible interventions using
+a combination of Medical Subject Headings (MeSH),
+abstract keywords, and words or phrases found in the
+title of the paper, limiting the search to human-only
+studies, from database inception through February 17,
+2017. We also searched the Cochrane Library, PsycINFO,
+and CINAHL (Cumulative Index to Nursing and Allied
+Health Literature) using analogous search terms. The full
+report [19] provides a full electronic search strategy for
+each database searched, but it includes a synthesis of
+findings only from studies meeting review criteria that
+we had identified via searches conducted through
+January 14, 2016.
+In addition, we searched the gray literature for eligible
+studies. Sources of gray literature include ClinicalTrials.
+gov, the World Health Organization ’s International
+Clinical Trials Registry Platform, the National Institutes
+of Health Research Portfolio Online Reporting Tools,
+the Database of Promoting Health Effectiveness Reviews,
+and CMS.gov. To avoid retrieval bias, we manually
+searched the reference lists of landmark studies and
+background articles on this topic to look for any relevant
+citations that our electronic searches might have missed.
+Study inclusion and exclusion criteria
+We specified our inclusion and exclusion criteria based
+on the patient populations, interventions, comparators,
+outcomes, timing of outcomes assessment, and setting
+(PICOTS) we identified as relevant during our scope
+development through the topic refinement process
+(Table 1). We included QI, implementation, and dis-
+semination strategies that targeted systems, organiza-
+tions, or practitioners that deliver mental health care to
+children and adolescents who were already experien-
+cing mental health symptoms. As a result, we did not
+include universal interventions aimed at prevention.
+We also did not include strategies such as the imple-
+mentation of educational interventions for reading dis-
+orders. We required that implementation strategies
+focus on EBP interventions. For defining EBPs, we
+relied on the minimum requirements set forth in the
+National Registry of Evidence-based Programs and Prac-
+tices (NREPP) from the Substance Abuse and Mental
+Health Services Administration (www.nrepp.samhsa.gov).
+These criteria specify that the intervention needs to
+have produced one or more positive behavioral out-
+comes in at least one study using an experimental or
+quasi-experimental design with results published in a
+peer-reviewed journal or similar publication. In addition,
+implementation materials, training and support resources,
+and quality assurance procedures for these interventions
+need to be ready for use.We use the term “strategy ”to mean the approach
+used to target health care systems, practitioners, or
+both to improve the quality of care for children and ad-
+olescents with mental health problems. We use the
+term “intervention ”to denote a specific EBP used as
+part of a strategy.
+Because strategies tende dt ob ec o m p l e xi nn a t u r e
+and the number and types of components that varied
+between the treatment arm and comparison group arm
+differed by study, we also recorded components of each
+strategy. We relied on the Cochrane Review Group ’s
+Effective Practice and Organization of Care (EPOC)
+Group taxonomy, which categorizes strategies by
+w h e t h e rt h e yi n c l u d eo n eo rm o r ep r o f e s s i o n a l ,f i n a n -
+cial, organizational, and r egulatory components [30].
+Because many comparison group strategies also had
+several components, we noted and compared the com-
+ponents in each study arm. This allowed us to describe
+fully the numerous components that were being com-
+bined and tested in each strategy; it also enabled us to
+determine whether the study arms differed by a single or
+multiple components.
+We required each included study to report at least one
+intermediate outcome in a minimum of one of three
+major categories: (1) practitioner intermediate outcomes
+(satisfaction, adherence, fidelity, competence), (2) system
+intermediate outcomes (feasibility, uptake, timeliness,
+penetration, sustainability, costs), and (3) patient inter-
+mediate outcomes (access to care, satisfaction, engage-
+ment, therapeutic alliance). Harms of interest included
+those at the patient, provider, and/or system that are po-
+tentially associated with the strategies themselves.
+As noted earlier, the choice of outcomes in the review
+was based on existing evidence and theory [31], feedback
+from key informants, and input from the public. This
+approach helped ensure th at each included study dem-
+onstrated impact based on its stated goals of improving
+quality or implementing or disseminating evidence-
+based interventions. We also required each study to re-
+port at least one patient health or service utilization
+outcome (change in mental health status, comorbid
+conditions, mortality, socialization skills and behavior,
+functional status, quality of life; service utilization) if
+the strategy was not implementing or disseminating an
+EBP (i.e., an intervention with proven effectiveness).
+For all KQs, we excluded study designs without
+comparison groups to ensure that our pool of included
+studies provided strong evidence on the causal link
+between the strategy and outcomes. We excluded studies
+in which the strategy (system, organizational, practi-
+tioner targets) and the intervention being tested both
+differed between groups, because the effectiveness of the
+QI, implementation, or dissemination strategy could not
+be isolated from the baseline intervention effects.Forman-Hoffman et al. Implementation Science  (2017) 12:93 Page 4 of 21
+Table 1 Inclusion/exclusion criteria for strategies to improve mental health services for children and adolescents
+Category Inclusion Exclusion
+Population Health care systems, organizations, and
+practitioners that care for children and
+adolescents or mixed (child and adult)
+populations with mental health problemsHealth care systems, organizations, and
+practitioners that care only for adults
+18 years of age or older
+Health care systems, organizations, and
+practitioners that care for children and
+adolescents with only developmental
+disorders
+Interventions (Strategies) Quality improvement strategies (e.g., strategies
+targeting systems and practitioners of mental
+health care to children and adolescents with the
+goal of improved quality of care)Interventions targeting only patients,
+only drug interventions (although
+strategies to implement or disseminate
+drug interventions would qualify), and
+interventions not otherwise described
+in inclusion criteriaImplementation strategies (e.g., strategies to integrate
+evidence-based practice (EBP) interventions that meet
+National Registry of Evidence-based Programs and
+Practices (NREPP) inclusion criteria with the goal of
+changing practice patterns)
+Dissemination strategies (e.g., strategies to enhance
+the adoption and implementation of evidence-based
+interventions that meet NREPP inclusion criteria)
+Comparator Any control strategy, including usual care or
+different variants of the same interventionNone
+Outcomes Intermediate outcomes (at least one intermediate
+outcome is required for KQs 1, 3)All outcomes not otherwise specified
+Patient
+Access to care
+Satisfaction
+Treatment engagement
+Therapeutic alliance with practitioner
+Practitioner
+Satisfaction with or acceptability of approach
+Protocol adherence/program model fidelity
+Competence or skills
+System or organization
+Feasibility
+Uptake
+Timeliness
+Penetration
+Sustainability
+Resources (including costs)
+Patient health and service utilization
+outcomes (at least one of these outcomes is
+required for KQs 1 and 3 unless the strategy
+uses an intervention that is an EBP)
+Required:
+Change in mental health status, including
+symptom change, response, remission,
+relapse, and recurrence
+Coexisting physical health conditions,
+substance use problems, developmental
+disorders, other mental health problems
+Not Required:
+Mortality
+Socialization skills and behavior
+Functional status
+Quality of life
+Service utilization (e.g., visits, hospitalizations)Forman-Hoffman et al. Implementation Science  (2017) 12:93 Page 5 of 21
+Our exclusion of non-English-language studies is based
+on limitations of time and resources. However, we
+examined English language abstracts of non-English-
+language studies to assess the potential size of the litera-
+ture that we might otherwise miss through this approach.
+Potential effect modifiers and reasons for heterogeneity
+To begin to understand salient contextual factors and
+guide our analyses of effect modifiers, we applied the
+Consolidated Framework for Implementation Research
+(CFIR) [32] to research on effective implementation of
+mental health strategies for children and adolescents
+[33]. We searched for evidence on the modifying effects
+of each of the five domains of CFIR, interventioncharacteristics; outer setting (e.g., patient needs and re-
+sources, external policies); inner setting (e.g., culture,
+leadership, and engagement of health care organiza-
+tions); knowledge, attitudes, and behaviors of involved
+individuals; and process characteristics (e.g., fidelity, use
+of champions, supervision or oversight). To this, we
+added a sixth category, patient characteristics.
+Study quality assessment
+To assess the risk of bias (internal validity) of studies,
+two independent reviewers used predefined, design-
+specific criteria based on guidance in the Methods Guide
+[34]. We resolved conflicts by consensus or by consult-
+ing a third member of the team. For randomizedTable 1 Inclusion/exclusion criteria for strategies to improve mental health services for children and adolescents (Continued)
+Harms of strategy
+Patient
+Lower treatment engagement or more dropouts
+Negative impact on therapeutic relationship
+Side effects of EBP incorporated into strategy
+(e.g., adverse events, suicidality)
+Practitioner
+Burnout or exhaustion
+Turnover
+Resistance to the intervention
+System or organization
+Cost
+Failure to sustain the EBP
+Resistance to change
+Timing of outcome measurement All None
+Settings Outpatient settings serving children and
+adolescents with mental health problems
+(primary care, specialty care, emergency
+rooms, community mental health centers,
+integrated care settings, federally qualified
+health centers, schools, homes)Inpatient or residential treatment settings,
+drug treatment programs, jails or prisons
+Geographic setting Countries with a very high Human
+Development Index (HDI) [ 76]Countries with high, medium, low, or
+very low HDI
+Publication language English All other languages
+Study design KQs 1, 3 (benefits) Case series
+Case reports
+Nonsystematic reviews
+Cross-sectional studies
+Before and after studies without
+time-series data
+Other designs without a control or
+comparison groupRCTs
+CCTs
+Systematic review and meta-analyses
+Cohort studies
+Interrupted time series
+Case-control studies
+KQs 2, 3 (harms):
+RCTs
+CCTs
+Systematic review and meta-analyses
+Cohort studies
+Interrupted time series
+Case-control studies
+Publication type Any publication reporting primary data Publications not reporting primary data
+CCT controlled clinical trial, EBPevidence-based practice, Ddissemination HDI Human Development Index, Iimplementation, KQkey question,
+NREPP National Registry of Evidence-based Programs and Practices, QIquality improvement, RCT randomized controlled trialForman-Hoffman et al. Implementation Science  (2017) 12:93 Page 6 of 21
+controlled trials (RCTs), we relied on the risk of bias tool
+developed by the Cochrane Collaboration [35]. We
+assessed the risk of bias of observational studies using
+questions from an item bank developed by RTI Inter-
+national [36] and A Cochrane Risk Of Bias Assessment
+Tool for Non-Randomized Studies of Interventions
+(ACROBAT-NRSI) [37]. Minimum eligibility criteria for
+systematic reviews included an explicit description of
+search strategy used and determination that the search
+strategy was adequate, application of predefined eligibility
+criteria, risk of bias assessment for all included studies,
+and synthesis of the results presented.
+In general terms, a study with no identifiable flaws has a
+low risk of bias. A study with medium risk of bias is sus-
+ceptible to some bias but probably not sufficient to invali-
+date its results. A study with high risk of bias has
+significant methodological flaws (stemming from, for ex-
+ample, serious errors in design or conduct) that may in-
+validate its results. We considered the risk of bias for each
+relevant outcome of a study. When studies did not report
+sufficient detail to assess the validity of the design or study
+conduct, we judged the risk of bias to be unclear.
+Data extraction strategy
+Trained reviewers abstracted important information
+from included studies into evidence tables, which were
+uploaded to AHRQ ’s Systematic Review Data Repository.
+A second senior member of the team reviewed all data
+abstractions for completeness and accuracy. Reviewers
+resolved conflicts by discussion and consensus or by
+consulting a third member of the review team.
+Data synthesis and presentation
+To determine whether quantitative analyses were appro-
+priate, we assessed the clinical and methodological hete-
+rogeneity of the studies under consideration following
+established guidance [38]. For all outcomes, we present
+relative risks or mean differences, with confidence inter-
+vals (CIs), whenever calculable.
+We employed several other methods to provide addi-
+tional information about the nature of the strategies
+tested and what components of the strategies had the
+most impact on outcomes. First, we performed addi-
+tional search approaches of related publications (known
+as“cluster searching ”) to identify sibling (multiple publi-
+cations on the same study) or kinship studies (publica-
+tions from a common antecedent study or common
+theoretical foundation) [39]. We hoped to uncover
+contextual information to explain failure or success of
+strategies. We also contacted study authors to obtain
+information about critical components for strategies of
+included studies as part of a parallel project to under-
+stand better the uses and limitations of trial registries fordata on outcomes. This effort provided additional infor-
+mation on the important components of the strategies
+tested in included studies. Finally, we used qualitative
+comparative analysis (QCA) to examine condition sets
+between combinations of strategy components to iden-
+tify those that were most associated with improvements
+in outcomes [40, 41]. QCA is a data analytic technique
+that bridges quantitative and qualitative analyses by
+examining intervention components to permit analysts
+to infer which combinations relate to desirable and un-
+desirable outcomes.
+We graded the strength of a body of evidence based
+on the updated guidance in the Methods Guide [42, 43].
+The AHRQ Evidence-based Practice Center (EPC) ap-
+proach incorporates five key domains: study limitations,
+consistency, directness, precision of the evidence, and
+reporting bias. It also considers other optional domains
+that may be relevant for some scenarios, such as a dose-
+response association, plausible confounding that would
+decrease the observed effect, and strength of association
+(magnitude of effect). These domains are particularly
+relevant for observational studies.
+Two reviewers assessed each domain for each key out-
+come and resolved any differences by consensus discus-
+sion.Senior members of the review team graded the
+strength of evidence.
+Grades reflect the confidence that the reviewers have
+that various estimates of effect are close to true effects
+with respect to the KQs in a systematic review. A high
+grade indicates that we are very confident that the esti-
+mate of effect lies close to the true effect for this out-
+come. A moderate grade indicates moderate confidence
+that estimate of effect lies close to the true effect for this
+outcome and the body of evidence has some deficiencies.
+A low grade indicates limited confidence that the esti-
+mate of effect lies close to the true effect for this out-
+come. The body of evidence has major or numerous
+deficiencies. A grade of “insufficient ”applies when we
+have no evidence, we are unable to estimate an effect, or
+we have no confidence in the estimate of effect for this
+outcome [42].
+Risk of bias assessments for individual studies feed
+into the rating for the first strength of evidence domain,
+study limitations. Specifically, we rated bodies of evi-
+dence comprising trials with a high risk of bias as having
+high study limitations. Medium or unclear risk of bias
+studies resulted in medium study limitations. Low risk
+of bias studies resulted in low study limitations. In
+keeping with GRADE and strength of evidence guid-
+ance, we rated observational studies as having high
+study limitations [43, 44].
+As described above, study design and study limita-
+tions together set the baseline strength of evidence
+grade. Other domains (inconsistency, imprecision,Forman-Hoffman et al. Implementation Science  (2017) 12:93 Page 7 of 21
+indirectness, reporting bias) then could either reduce
+or increase the grade. A body of evidence with high
+study limitations, with no other reasons to increase confi-
+dence (dose-response, large magnitude of effect, plausible
+confounding) or decrease it (inconsistency, imprecision,
+indirectness, reporting bias), would generally have a low
+strength of evidence grade. A body of evidence with low
+study limitations, with no reasons to decrease confidence
+(inconsistency, imprecision, indirectness, reporting bias),
+would generally have a high strength of evidence grade.
+For each source of uncertainty, we consistently used
+the following rubric to evaluate its effect on the overall
+strength of evidence across outcomes. Specifically, for
+indirectness, we rated intermediate outcomes as direct,
+rather than indirect, evidence. Typically, strength of evi-
+dence grading systems will downgrade all evidence from
+intermediate outcomes as a matter of course. For this re-
+view, such an approach would have penalized strategies
+from studies whose intent was to examine implementa-
+tion outcomes.
+For this systematic review, these outcomes can be
+interpreted as direct measures of process change. Re-
+garding inconsistency, we rated it as unknown for bodies
+of evidence with single studies; the rating of unknown
+consistency did not lower the overall grade. We relied
+on established guidance to judge imprecision [45]. Re-
+garding imprecision, we specified the reasons for our
+judgment (small sample size or event rate, particularly
+when considering the optimum information size for the
+specific outcome, CIs crossing the line of no difference,
+or very wide CIs) [44]. We downgraded the overall
+strength of evidence by two levels when we found mul-
+tiple reasons for imprecision. We upgraded the evidence
+by one level for factors such as large magnitude of
+effect.
+Results
+We summarize results by KQ below for searches
+through February 17, 2017. The full report [19] provides
+detailed descriptions of included studies, key points, de-
+tailed synthesis, summary tables, and expanded strength
+of evidence tables for studies via original searches con-
+ducted through January 14, 2016.
+Review statistics
+Figure 2 presents our literature search results. We found
+19 eligible articles representing 19 studies [13, 14, 46 –62]
+(one article reported on two different studies [55] and
+another two articles [51, 60] reported outcomes for the
+same trial). These studies represent 18 strategies. We
+did not find any relevant non-English studies with
+English abstracts.
+This evidence base for KQ 1 consisted of 19 studies
+[13, 14, 46 –62]. Of these, one addressed KQ 2 (harms)and four addressed KQ 3 (moderators of effectiveness).
+No study addressed the moderators of harms. The
+evidence base included RCTs (some of which were
+cluster RCTs) [13, 14, 46 –48, 50, 51, 53, 55 –62], (non-
+randomized) controlled clinical trials (CCTs) [52, 54],
+interrupted time series [49], and cohort designs [55].
+Full evidence tables for articles identified via searches
+through January 14, 2016, are available at http://
+srdr.ahrq.gov/projects/530.
+Study quality assessment
+Table 2 describes interventions and summarizes the evi-
+dence for included studies. Most strategies were com-
+plex and included multiple (two to seven) different
+components (as defined by the EPOC taxonomy). We
+graded the strength of more than half of the combined
+49 outcomes assessed across all included studies as in-
+sufficient or low for no benefit.
+The strongest evidence in the review (for KQ 1) comes
+from a study of pay for performance. Therapists in the
+pay for performance group were more than twice as
+likely to demonstrate implementation competence (as
+were therapists in the implementation as usual group
+(moderate strength of evidence of benefit) [53]. In this
+instance, implementation competence was defined as
+therapists demonstrating competent delivery of all com-
+ponents of at least one Adolescent Community
+Reinforcement Approach (A-CRA, an EBP program)
+treatment procedure during the same treatment session
+for 1 month. Other outcomes for which we found evi-
+dence of benefit (low strength of evidence of benefit)
+included:
+1. Improved practitioner adherence to EBPs or
+guidelines: by training practitioners to monitor
+metabolic markers [ 49], providing computer
+decision support plus an electronic health record
+(EHR) that included diagnosis and treatment
+guidelines [ 46], or offering an Internet portal for
+practitioner access to practice guidelines [ 56]
+2. Improved practitioner morale, engagement, and
+stress: by implementing a program to enhance
+organizational climate and culture [ 51]
+3. Improved patient access to care, parent satisfaction,
+treatment engagement, and therapeutic alliance:
+by training nurses to educate parents about
+EBPs [ 55]
+4. Improved patient functional status: by giving
+practitioners weekly feedback on patient symptoms
+and functioning [ 13]
+5. Improved service utilization: by training
+practitioners about monitoring medications [ 49] and
+appropriately identifying and referring patients with
+mental health problems [ 48].Forman-Hoffman et al. Implementation Science  (2017) 12:93 Page 8 of 21
+Six strategies (one study each) consistently provided
+insufficient evidence or evidence of no benefit across all
+reported outcomes. These included:
+1. A strategy to test augmented active learning versus
+computerized routine learning versus routine
+practitioner workshop to implement an EBP [ 50]
+2. A collaborative consultation treatment service to
+promote the use of titration trials and periodic
+monitoring during medication management versus
+control [ 47]3. An Intensive Quality Assurance system versus
+workshop to implement an EBP intervention [ 54]
+4. Use of additional computerized assisted training or
+computerized training plus supervisory support to
+implement an EBP versus using a workshop and
+resources only [ 59]
+5. A Contextualized Feedback Systems trial to test the
+provision of session-by-session clinician feedback versus
+clinician feedback provided after 6 months of visits
+6. A strategy to test the implementation of a school-
+based EBP by school counselors versus psychologists
+Fig. 2 Results of literature searches for quality improvement, implementation, and dissemination strategies to improve mental health care for
+children and adolescentsForman-Hoffman et al. Implementation Science  (2017) 12:93 Page 9 of 21
+Table 2 Strategies to improve mental health of children and adolescents: summary table
+Strategy, study designs,
+NTarget condition and ages
+of youthComparisons Component of the
+strategyMajor findings Strength of evidence from
+resultsReasons for strength of
+evidence
+Training therapists to
+implement an EBP
+Beidas et al. [ 50]
+Cluster RCT, 115 therapistsAnxiety
+Ages 8 –17 yearsAugmented active learning
+vs. routine professional
+training workshopEducational meetings
+or materialsNo differences between arms
+for practitioner satisfaction with
+approach, protocol adherence,
+or practitioner skillLow for no benefit for practitioner
+satisfaction, adherence, and skillLow risk of bias, small sample
+size, imprecise results
+Computerized routine training
+vs. routine professional
+training workshopEducational meetings
+or materialsNo differences between arms for
+practitioner protocol adherence
+or program model fidelity, or skill;
+computerized training group
+practitioners less satisfied than
+routine training group practitionersLow for no benefit for practitioner
+satisfaction, adherence, and skillLow risk of bias, small sample
+size, imprecise results
+Feedback of patient symptoms
+to practitioners
+Bickman et al. [ 13]
+Cluster RCT, Nof clinicians
+unclear,
+340 youth, 144 clinicians,
+383 caregiversGeneral mental health problem
+(children who receive home-
+based mental health treatment)
+Mean age = 15 yearsWeekly and cumulative 90-day
+feedback vs. cumulative 90-day
+feedback only on patient
+symptoms and functioning
+to practitionersAudit and feedback Two thirds of practitioners did not
+view Web moduleInsufficient for practitioner
+adherenceHigh study limitations,
+unknown precision for
+adherence
+Membership in the weekly
+feedback group increased the rate
+of decline in functional severity
+scale by 0.01 (range: 1 to 5, higher
+scores indicate greater severity)Low for benefit for functional
+severityHigh study limitations,
+precise results for symptoms
+Feedback of patient treatment
+progress (symptoms and
+functioning) and process
+(e.g., therapeutic alliance) to
+practitioners
+Bickman et al. [ 61]
+Randomized block RCT, N
+of clinicians unclear,
+257 youth, 2 clinics (one urban,
+one rural) at a single agency
+21 clinicians, 255 caregiversGeneral mental health problem
+(children who receive mental
+health treatment from a
+community mental health
+clinic)
+New patients aged 11 –18Session-by-session feedback
+vs. cumulative 6-month
+feedback to cliniciansAudit and feedback No significant differences in
+percentage of sessions held or
+percentage of clinicians, youth,
+or caregivers who completed the
+questionnaire required at each visitInsufficient for patient engagement,
+for practitioner adherence/program
+model fidelity, and system uptakeHigh study limitations,
+unknown precision for each
+intermediate outcome.
+No patient-reported, caregiver-
+reported, or clinician-reported
+differences in symptoms or
+functioning of youth associated
+with intervention group in either
+clinic except feedback effects only
+seen in clinician ratings from one
+clinic (beta feedback*slope = −0.01,
+p= 0.045)Low for no benefit for symptom
+severityHigh study limitations,
+precise results for symptoms
+Computer decision support for
+guidelines
+Carroll et al. [ 46]
+Cluster RCT, 84 patientsGeneral mental health problem
+(children who receive home-
+based mental health treatment)
+Mean age = 15 yearsComputer decision support
+plus electronic health record
+(EHR) that included diagnosis
+and treatment guidelines vs.
+computer decision support
+plus EHR onlyEducational meetings
+or materials
+Patient-reported data
+Reminders
+Quality monitoringPractitioner adherence improved
+through uptake of guidelines for
+diagnostic assessment (aOR, 8.0;
+95% CI, 1.6 to 40.6); more reporting
+of 3 of 4 symptom domains at
+diagnosisLow for benefit for practitioner
+adherence and program model
+fidelityMedium study limitations,
+imprecise results with small
+number of events, large
+magnitude of effect
+No statistically significant
+differences on practitioner
+adherence through reassessment
+of symptoms at 3 months,
+adjustment of medications,
+and mental health referralInsufficient for practitioner
+adherence (reassessment of
+symptoms) at 3 months,
+adjustment of medications,
+and referralMedium study limitations,
+imprecise results (CIs cross
+the line of no difference)
+Visit to a mental health specialist
+calculated OR 2.195; 95% CI, 0.909
+to 5.303; p= 0.081; reported
+pvalue in study = 0.054Insufficient for service utilization Medium study limitations,
+imprecise results (CIs cross
+the line of no difference)Forman-Hoffman et al. Implementation Science  (2017) 12:93 Page 10 of 21
+Table 2 Strategies to improve mental health of children and adolescents: summary table (Continued)
+Internet portal to provide access
+to practice guidelines
+Epstein et al. [ 56]
+Cluster RCT, 746 patientsAttention deficit hyperactivity
+disorder (ADHD)
+Ages 6 to 12 yearsInternet portal providing
+practitioner access to practice
+guidelines vs. wait-list controlEducational meetings
+or materials
+Patient-reported data
+Audit and feedback
+Reminders
+Quality monitoringStrategy appeared to improve
+4 of 5 examined outcomes that
+measured practitioner protocol
+adherence and program model
+fidelity outcomes (mean change
+in proportion of patients who
+received targeted, evidence-based
+ADHD care outcomes between
+groups ranged from 16.6 to −50),
+but estimates were very imprecise,
+with large CIsLow for benefit for practitioner
+protocol adherence and program
+model fidelityMedium study limitations,
+imprecise (wide CIs)
+Collaborative consultation
+treatment service to implement
+quality measures
+Epstein et al. [ 47]
+Cluster RCT, 38 practitioners, 144
+patientsADHD
+Mean age = 7 yearsCollaborative consultation
+treatment service to promote the
+use of titration trials and periodic
+monitoring during medication
+management vs. controlAudit and feedback
+Multidisciplinary teamPractitioner adherence/ fidelity as
+measured by use of titration trials
+β=−0.283; SE, 0.09; p< 0.01 and
+by use of medication monitoring
+trials:
+p= NS, details NRInsufficient for practitioner
+adherence and fidelityHigh study limitations,
+imprecise results (small sample
+size)
+Lower odds with overlapping
+confidence intervals of practitioner
+citing obstacles to implementation
+of EBP in 6 of 8 measures (2
+reached statistical significance)Insufficient for practitioner
+competence/ skillsHigh study limitations,
+imprecise results (small sample
+size)
+Fscore for decrease in combined
+parent and teacher ratings of
+ADHD symptoms for group x time
+interaction: F2, 144 = 0.44, p= 0.65Insufficient for patient change in
+mental health symptomsHigh study limitations,
+imprecise results (small sample
+size)
+Paying practitioners to
+implement an EBP
+Garner et al. [ 53]
+Cluster RCT, 105 therapists,
+986 patientsSubstance use disorders
+Mean age = 16 yearsPaying practitioners for
+performance in successfully
+delivering an EBP intervention
+vs. implementation as usualProvider incentives Therapists in the P4P group were
+over twice as likely to demonstrate
+implementation competence
+compared with IAU therapists
+(Event Rate Ratio, 2.24; 95% CI,
+1.12 to 4.48)Moderate for benefit for
+practitioner competenceMedium study limitations,
+precise results
+Patients in the P4P condition were
+more than 5 times as likely to meet
+target implementation standards
+(i.e., to receive specific numbers of
+treatment procedures and sessions)
+than IAU patients (OR, 5.19; 95% CI,
+1.53 to 17.62)Low for benefit for practitioner
+adherence and program fidelityMedium study limitations,
+imprecise results (wide CIs)
+No statistically significant
+differences between groups
+OR, 0.68; 95% CI, 0.35 to 1.33Low for no benefit for patient
+change in mental health
+symptomsMedium study limitations,
+precise results
+Program to improve
+organizational climate and
+culture
+Glisson et al. [ 14]a
+Two-stage RCT,
+596 youth, 257 therapistsExternalizing behaviors
+(youth referred to juvenile
+court with behavioral or
+psychiatric symptoms that
+require intervention)
+Ages 9 –17 yearsProgram to improve
+organizational climate and
+culture vs. usual careEducational meetings
+or materials
+Educational outreach
+visits
+Provider satisfaction
+initiative
+Audit and feedbackDetails NR but does not
+demonstrate improvements in
+any measure of adherence by
+strategy group for any ARC vs.
+no ARC comparisonLow for no benefit for
+practitioner adherenceMedium study limitations,
+precise results
+Difference in out-of-home
+placements and child behavior
+problem scores at 18 months
+between ARC-only and usual-care
+groups did not meet statistical
+significance ( p= 0.05).Low for no benefit for patient
+change in mental health
+symptoms at 18 monthsMedium study limitations,
+precise results (small sample
+size), CIs likely overlap
+Program to improve
+organizational climate and
+cultureGeneral mental health
+problems
+Ages 8 –24 yearsProgram to improve
+organizational climate and
+culture vs. usual careEducational meetings
+or materialsTrends toward improvement in
+all domains; nonoverlapping CI for
+some domains showing significantLow for benefit for practitioner
+satisfactionMedium study limitations,
+imprecise results (small
+study sample)Forman-Hoffman et al. Implementation Science  (2017) 12:93 Page 11 of 21
+Table 2 Strategies to improve mental health of children and adolescents: summary table (Continued)
+Glisson et al. [ 51,60]
+Cluster RCT
+352 caregivers of youth
+ages 5 –18 in 18 programsEducational outreach
+visits
+Provider satisfaction
+initiative
+Audit and feedbackimprovements ( p< 0.05) for ARC
+group vs. usual care
+Lower problem behavior scores for
+youth in the ARC group compared
+with those in the control group
+during first 6 months of follow-up
+(following 18-month organizational
+implementation), effect size = 0.29Low for benefit for patient
+change in mental health
+symptomsMedium study limitations,
+imprecise results (small study
+sample)
+Nurse training to implement
+an EBP
+Gully et al. [ 55]
+Interrupted time series in
+Study 1,
+172 parents or caregivers;
+RCT in Study 2,
+51 parents or caregiversGeneral mental health
+symptoms (children suspected
+of abuse during forensic
+medical examinations)
+Ages 2 –17 yearsProtocol to train nurses to
+educate parents about EBPs
+vs. typical servicesEducational meetings
+or materials
+Educational outreach visits
+Patient-reported dataStrategy improved parent ratings
+of access to care (mean difference
+between groups ranged from 0.08
+to 2.1 points in Study 1 and 0.6 to
+1.9 in Study 2) (scale = 1 –5)Low for benefit for patient
+access to careHigh risk of bias, consistent,
+direct, precise results
+Improved parent ratings of
+satisfaction of care by a mean
+of 0.4 in Study 1 and 0.9 in Study
+2 (scale = 1 –5)Low for benefit for patient
+satisfactionHigh risk of bias, consistent,
+direct, precise results
+Improved parent ratings of
+treatment engagement by a
+mean of 0.9 in Study 1 and 2.5 in
+Study 2
+(scale = 1 –5)Low for benefit for treatment
+engagementHigh risk of bias, consistent,
+direct, precise results
+Improved parent ratings of
+therapeutic alliance by a mean of
+0.4 in Study 1 and 0.9 in Study 2
+(scale = 1 –5)Low for benefit for therapeutic
+allianceHigh risk of bias, consistent,
+direct, precise results
+Intensive quality assurance to
+implement an EBP
+Henggeler et al. [ 54]
+Controlled clinical trial, 30
+practitioners, N of caregiver and
+patient reports and monthly
+data points NRSubstance use disorders
+(adolescents with marijuana
+abuse)
+Ages 12 –17 yearsIntensive Quality Assurance (IQA)
+system vs. workshop only to
+implement an EBP interventionQuality monitoring Study does not provide sufficient
+detail to judge magnitude of effect
+on practitioner adherence to
+cognitive behavioral therapy and
+monitoring techniquesInsufficient for practitioner
+adherence and fidelityHigh study limitations,
+imprecise results
+Training through workshop and
+resources to implement an EBP
+Henggeler et al. [ 59]
+Cluster RCT; 161 therapistsSubstance use disorders
+Ages 12 –17 yearsWorkshop and resources (WSR) vs.
+WSR and computer-assisted train-
+ing (WSR + CAT) to implement an
+EBP interventionEducational meetings or
+materialsNo statistically significant difference
+between groups for use,
+knowledge, and adherenceInsufficient for additional benefit of
+WSR + CAT vs. WSR comparison
+group for practitioner use,
+knowledge, and adherenceMedium study limitations,
+imprecise, small sample sizes,
+cannot determine whether CIs
+cross line of no difference
+WSR vs. WSR + CAT
+and supervisory support
+(WSR + CAT + SS) to implement
+an EBP interventionEducational meetings or
+materials
+Educational outreach visitsNo statistically significant difference
+between groups for use,
+knowledge, and adherenceInsufficient for additional benefit of
+WSR + CAT + SS vs. WSR
+comparison group on practitioner
+use, knowledge, and adherence
+competence/skillsMedium study limitations,
+imprecise, small sample sizes,
+cannot determine if CIs
+cross line of no difference
+Professional training to identify
+and refer cases
+Lester et al. [ 48]
+Cluster RCT;
+110 practices, 179 patientsPsychosis (adolescents and
+adults with first-episode
+psychosis)
+Ages 14 –30 yearsProfessional training to identify
+and refer cases vs. usual careEducational meetings or
+materials
+Educational outreach visitsRelative risk (RR) of referral to early
+intervention after first contact:
+1.20, 95% CI, 0.74 to 1.95, p= 0.48Insufficient for patient access to
+careHigh study limitations,
+imprecise results
+No statistically significant
+differences between groups in
+changes in patient mental
+health statusInsufficient for patient change
+in mental health symptomsHigh study limitations,
+imprecise resultsForman-Hoffman et al. Implementation Science  (2017) 12:93 Page 12 of 21
+Table 2 Strategies to improve mental health of children and adolescents: summary table (Continued)
+Patients in the professional training
+group averaged 223.8 fewer days
+for time from the first decision to
+seek care to the point of referral to
+an early intervention service than
+patients in the control groupLow for benefit for service
+utilizationHigh study limitations,
+imprecise results
+No adverse events were reported,
+no significant between-group
+differences for false-positive
+referral rates from primary careInsufficient for patient harms High study limitations,
+unknown precision
+Professional training plus
+feedback
+Lochman et al. [ 57]
+Cluster RCT, 511 patientsExternalizing behaviors
+(children at risk for aggressive
+behaviors)
+Ages: third-grade studentsProfessional training plus
+feedback (CP-TF) to implement
+an EBP intervention vs. controlEducational meetings or
+materials
+Audit and feedbackStudents in CP-TF group had
+fewer behavioral problems as
+rated by teachers (beta = −0.41,
+SE = 0.16, p= 0.01) than controls
+but no significant difference in
+teacher ratings or parent ratingsLow for no benefit for changes
+in mental health statusMedium study limitations,
+precise results
+Students in CP-TF group had fewer
+minor assaults (e.g., hitting or
+threatening to hit a parent, school
+staff, or student) as reported by the
+child (beta = −0.25, SE = 0.12,
+p= 0.03) and social/academic
+competence as reported by the
+teacher (beta = 0.35, SE = 0.13,
+p= 0.01) compared with controlsLow for benefit for change in
+socialization skills and behaviorsMedium study limitations,
+precise results
+Professional training only to
+implement an EBP intervention
+(CF-BT) vs. controlEducational meetings
+or materialsNo significant difference in
+behavioral problems as rated
+by teachers or parents or
+student-reported assaults between
+CP-BT and control groupsLow for no benefit for changes
+in mental health statusMedium study limitations,
+precise results
+No significant differences in
+social/ academic competence
+as reported by the teacher, nor
+were any significant differences
+found between groups on social
+skills as rated by parents.Low for no benefit for change
+in socialization skills and
+behaviorsMedium study limitations,
+precise results
+Medication monitoring
+therapy
+Ronsley et al., 2012 [ 49]
+Interrupted time series
+Health care practitioners for
+2376 patientsPsychosis
+Ages <19 years (mean
+age = 11)Patient medication monitoring
+training program for practitioners
+vs. usual careEducational meetings
+or materials
+Educational outreach visits
+Reminders38.3% of patients had a metabolic
+monitoring and documentation
+tool (MMT) in the charts after
+program implementation; drop
+in the prevalence of second-
+generation antipsychotic
+prescribing from 15.4% in the
+pre-metabolic monitoring training
+program (MMTP) period to 6.4% in
+the post-MMTP period ( p< 0.001)Low for benefit for practitioner
+adherenceHigh study limitations,
+precise outcomes
+Increased metabolic monitoring
+over time (level of change varied
+by type of monitoring)Low for benefit for patient service
+utilizationHigh study limitations, precise
+outcomes
+Staffing models to implement
+an EBP to screen, conduct a
+brief intervention, and refer
+adolescents with substance use
+to treatment from primary care
+settings
+Sterling et al. [ 58]Varied conditions among
+children attending a pediatric
+primary care office
+Ages 12 –18Pediatrician only vs. embedded
+behavioral health care practitioner
+(BHCP) implementation of an EBPMultidisciplinary teams No significant differences in
+substance use assessment between
+study arms (aOR, 0.93; 95% CI, 0.72
+to 1.21); patients in the embedded
+BHCP group more likely than those
+in the pediatrician-only group to
+receive brief intervention
+(aOR = 1.74, 95% CI, 1.31 to 2.31);Low for no benefit for practitioner
+adherence (2 of 3 adherence
+outcomes were statistically
+significant)Medium study limitations,
+unable to assess precisionForman-Hoffman et al. Implementation Science  (2017) 12:93 Page 13 of 21
+Table 2 Strategies to improve mental health of children and adolescents: summary table (Continued)
+Cluster RCT, 47 pediatricians
+with 1871 eligible patientspatients in the BHCP group less
+likely to receive a referral to a spe-
+cialist than patients in the primary-
+carebonly group (aOR = 0.58, 95%
+CI, 0.43 to 0.78)
+Co-location of a behavioral
+health
+EBP parenting program in
+primary
+care to help children with
+externalizing behavioral
+problems
+Wildman et al. [ 52]
+Controlled clinical trial,
+4 pediatric practices, 20,917
+children with primary care visitExternalizing behavior problems
+Ages 2 –12 yearsColocation of a behavioral health
+EBP parenting program in primary
+care vs. enhanced referral to a
+behavioral health EBP parenting
+program in a location external to
+the practice.Changing the scope of
+benefitsOR for attending first EBP visit,
+3.10; 95% CI, 1.63 to 5.89Low for benefit for patient
+access to careHigh study limitations, precise
+results
+No improvement in mean number
+of sessions attended (calculated
+mean difference: −1.01; 95% CI,
+−2.60 to 0.58)Insufficient for patient service
+utilizationHigh study limitations,
+precise results
+Implementation of a school-
+based
+cognitive-behavioral group EBP
+Warner et al. [ 62]
+Stratified RCT
+138 youth, 7 master ’s level
+school
+counselors, 5 doctoral-level
+psychologistsSocial anxiety disorder.
+Adolescents in grades 9 –11
+from three suburban public
+high schools identified via
+school-wide screening, parent
+telephone screening, and
+clinical diagnostic evaluation
+with no other mental disorders
+of equal or greater severity.Implementation by a school
+counselor vs. by a psychologistChanging provider No significant differences in
+implementation adherence or
+competence.Insufficient for practitioner
+adherence or competenceHigh study limitations,
+unknown precision for each
+intermediate outcome
+No significant differences
+between groups for any of the
+severity or functioning scales at
+post-treatment or follow-up with
+the exception of 3 posttreatment
+outcomes (treatment response,
+treatment remission and social anx
+iety severity as rated by parents)
+where youth in the school coun
+selors group did not do as well as
+those in the psychologist group
+when noninferiority was testedInsufficient for patient change
+in mental health statusHigh study limitations,
+unknown precision for each
+intermediate outcome
+aFour study groups were examined: ARC + MST, ARC only, MST only, and usual care. Comparisons were ARC only vs. usual care or any ARC (combined ARC + MST and A RC only) vs. no ARC (combined MST and usual care), as noted
+bFewer referrals seen as improvement because this outcome indicates that the practitioner was able to give brief intervention without referral to beh avioral health specialists
+ADHD attention deficit hyperactivity disorder, aOR adjusted odds ratio, ARC Availability, Responsiveness, and Continuity, CBT cognitive behavioral therapy, CIconfidence interval, CP-TF Coping Power training plus feedback, EBP
+evidence-based practice, EHR electronic health record, IAUimplementation as usual, IQAIntensive Quality Assurance, MMT metabolic monitoring program, MMTP metabolic monitoring training program, MST multisystemic therapy,
+Nnumber, NRnot reported, NSnot significant, ORodds ratio, pprobability, P4Ppay for performance, RCT randomized controlled trial, RRrelative risk, SEstandard error, WSR workshop plus resources, WSR + CAT workshop plus resources
+plus computer-assisted training, WSR + CAT + SS workshop plus resources plus computer-assisted training plus supervisory supportForman-Hoffman et al. Implementation Science  (2017) 12:93 Page 14 of 21
+The absence of evidence on several factors of interest
+further limited our conclusions. We found no evidence
+of studies examining several intermediate outcomes, par-
+ticularly system-level intermediate outcomes. In addition,
+we identified no studies that measured final patient health
+outcomes such as co-occurring conditions. We also found
+no evidence of strategies testing several components of
+the EPOC taxonomy, including any regulatory compo-
+nents, and little evidence on strategies with financial
+components.
+Of the 19 studies in our review, we rated risk of bias
+as follows: low, one study; medium, five studies; high, six
+studies; and unclear, seven studies. Various issues with
+study design, attrition, and incomplete information re-
+ported by study authors explain the risk of bias issues
+for high and unclear ratings.
+The uncertain or high risk of bias of most of these
+studies affected the overall strength of evidence grades,
+as did the fact that generally we had only single studies
+for each strategy examined.
+Only one study evaluated any harms (KQ 2), in this
+case associated with professional training to identify and
+refer cases to early-intervention services for untreated
+first-episode cases of psychosis [48]. The study reported
+no adverse events and no differences between strategy
+and control groups in false-positive referral rates. We
+graded the evidence on harms as insufficient, based on
+high study limitations and imprecise results.
+Overall, we found evidence on four strategies that exam-
+ined moderators of the effectiveness of strategies to im-
+prove mental health care for children and adolescents
+(KQ 3). Three examined whether training intensity influ-
+enced the degree of effectiveness; of these, two strategies
+were graded as having insufficient strength of evidence.
+The third strategy had low strength of evidence for benefit
+for patient intermediate outcomes (access to care) and
+patient health outcomes (change in mental health status).
+A fourth study examined the moderating effects of
+fidelity to the EBP (A-CRA) in therapists meeting indi-
+vidual patient targets specified in the A-CRA program.
+We graded this evidence about fidelity as low strength
+for no benefit on patient health outcomes and patient
+remission status.
+We did not find studies that examined most of our
+previously specified list of moderators —namely, as pa-
+tient characteristics, intervention characteristics other
+than training intensity, outer context, inner context, char-
+acteristics of involved individuals, process characteristics
+other than fidelity to the training, or other moderators
+such as length of follow-up.
+Additional qualitative synthesis
+To understand better what combinations of components
+(“condition sets ”) might serve as solutions or “recipesfor success ”,w et u r n e dt oQ C A .W ee x a m i n e ds e v e r a l
+different models that had different combinations of
+intervention components; we tested two different out-
+comes. We chose the model that best fit our data with
+the highest level of consistency (proportion of
+solutions resulting in success or outcome) and cover-
+age (proportion of observations explained by the
+solutions). Our model included the presence or ab-
+sence of several professional components (educational
+materials or meetings, educational outreach, patient-
+mediated interventions, audit and feedback), any fi-
+nancial component, organizational structural-oriented
+components (quality moni toring or change in scope
+and nature of benefits and services), and orga-
+nizational provider-oriented component (use of
+clinical multidisciplinary t eams, provider satisfaction
+with conditions of work and the material or psychic
+rewards, or revision of professional roles). We defined
+success as having a statistical ly significant improve-
+ment in either a majority of practitioner-, system-, and
+patient-level intermediate outcomes or at least one pa-
+tient health or service utilization outcome with at least
+low strength of evidence for benefit (Fig. 3).
+Our analysis included 19 studies; 9 of 18 studies
+showed at least low strength of evidence of benefit and
+significant improvements in the majority of practitioner,
+system, or patient intermediate outcomes tested (one
+study did not test any intermediate outcomes). An add-
+itional 3 of the 10 remaining studies showed at least low
+strength of evidence of benefit for at least one patient
+health or service utilization outcome. Seven studies did
+not meet either of these benefit criteria.
+In additional analyses, no conditions were individually
+necessary or sufficient, and no necessary combinations oc-
+curred. Analysis of sufficient combinations for achieving
+significant improvements showed four solutions, each
+with 100% consistency. Notably, the model had 67%
+coverage, accounting for 6 of the 9 studies that demon-
+strated at least low strength of evidence of benefit for the
+majority of intermediate outcomes tested. These complex
+solutions were:
+1. Having educational materials or meetings,
+educational outreach, and patient-mediated
+intervention components
+2. Having educational materials or meetings,
+educational outreach, and reminder components
+3. Having educational materials or meetings,
+patient-mediated intervention components,
+reminders, and organizational structural
+components (quality monitoring or change in scope
+and nature of benefits and services)
+4. Having a financial component and noteducational
+materials or meetings, notaudit and feedback,Forman-Hoffman et al. Implementation Science  (2017) 12:93 Page 15 of 21
+notorganizational structural components, and
+notorganizational provider components
+(multidisciplinary teams, provider satisfaction, or
+revision of professional roles
+Because only one strategy, pay for performance, con-
+tained a financial component and no other components,
+we reran the without including this study in the analyses
+as a sensitivity analysis. The first three solutions above
+remained, which covered five of the eight studies that
+demonstrated at least low strength of evidence of benefit
+for the majority of intermediate outcomes tested.
+Discussion
+Overall, 12 of the 19 studies demonstrated effectiveness
+as measured by moderate or mainly low strength of evi-
+dence for benefit for at least one outcome of interest.
+Our confidence in these results is limited by the paucity
+of studies on any strategy. We graded benefits of pay for
+performance as moderate strength of evidence [53]. We
+graded the strength of evidence of benefit as low for at
+least one outcome among strategies that contained:
+/C15Reminders (i.e., a component that included patient-
+or encounter-specific information, provided verbally,
+on paper, or on a computer screen, that was
+designed or intended to prompt a health
+professional to recall information) [ 46,49,56]
+/C15A patient-mediated component (i.e., one that
+collected new clinical information directly from
+patients that was then given to the provider to
+review) [ 46,55,56]/C15Enhanced referrals and patient choice of
+treatment [ 52]
+We found low strength of evidence of no benefit for
+intermediate outcomes for strategies that involved the
+following combinations of professional components:
+/C15Educational materials and/or educational meeting
+components only (i.e., no other components)
+[50,59]
+/C15Educational materials and outreach components
+only (i.e., no other components) [ 48,57]
+We were unable to judge the potential for harms asso-
+ciated with these strategies that might mitigate benefits.
+We had only a single study on early intervention for
+first-episode psychosis, and it reported no adverse events
+and no differences in false-positive referral rates. In
+addition, the available evidence from four studies on two
+moderators does not permit us to make general conclu-
+sions about the conditions under which these strategies
+might work optimally.
+The studies varied with respect to the numbers and
+types of active components, i.e., we observed consider-
+able differences in components in treatment group
+strategies and comparison group strategies. In some
+studies, the treatment group contained several compo-
+nents and the comparison group contained none of
+those components. In other studies, both the treatment
+and comparison groups tested strategies with multiple
+components, with different numbers of variations in
+components across arms. Because both arms often
+Fig. 3 Qualitative comparative analysis findingsForman-Hoffman et al. Implementation Science  (2017) 12:93 Page 16 of 21
+received active interventions, the Hawthorne effect may
+explain lack of effectiveness. We did not find any con-
+sistent patterns of effectiveness involving the number of
+active components. That is, we did not find that studies
+that employed strategies with a single active component
+had any better or any worse effect on outcomes than
+those that employed multiple active components.
+Additional heterogeneity arose from several other
+sources and precluded any quantitative synthesis of our
+findings. Except for two studies reported in one publica-
+tion [55], two trials (three publications) reporting vari-
+ants of a similar strategy [14, 51, 60], and two trials
+reporting different types of feedback strategies [13, 61],
+no other studies tested similar strategies. The outcomes
+of the studies varied widely. Similarly, settings differed
+greatly (community-based hospitals and clinics, general
+practice and primary care, home-based mental health
+systems, schools, substance abuse treatment). Finally,
+the targets of each strategy, such as practitioners, prac-
+tices, or systems, also differed considerably.
+Challenges in this systematic review arose with de-
+fining the intervention of interest, constructing the
+search strategy, and applying prespecified inclusion/
+exclusion criteria. The lack of consistency in the ter-
+minology used in the published literature meant that
+the use of self-selected descriptors such as “QI,”“im-
+plementation, ”or“dissemination ”by study authors
+did not conform either to our a priori definitions of
+these types of studies or to the other similarly labeled
+studies in the field. This lack of consistency led to
+our reliance on the EPOC taxonomy as our primary
+analytic framework.
+Strategies differed considerably in the number of com-
+ponents; the reporting on these components was not al-
+ways clear enough either to describe the strategy
+adequately or to let us understand fully the relative im-
+portance of component parts. New taxonomies are con-
+tinually emerging, such as the revised EPOC taxonomy
+[63] and the refined compilation of implementation
+strategies from the Expert Recommendations for Imple-
+menting Change (ERIC) project [64]. Both might help
+advance the field by clarifying the conceptual models
+that underlie this research.
+Trying to specify the population and comparison cri-
+teria to ensure greater homogeneity of included inter-
+ventions posed additional challenges. For example, our
+focus on children and adolescents with existing mental
+health issues (rather than only the risk of mental
+health issues) meant we could not examine issues of
+prevention. In addition, although we included a broad
+range of eligible comparators in our protocol (usual
+care, or any other QI, implementation, or dissemin-
+ation strategy), we did encounter otherwise eligible
+studies in which the intervention combined both apatient-level intervention and a system-level strategy
+to implement or disseminate that intervention. Be-
+cause the use of a “usual-care ”arm did not permit the
+original investigators to d raw conclusions about the
+effect of their implementation or dissemination strat-
+egy apart from the underlying intervention, we ex-
+cluded these studies for having a wrong comparator
+[65–72]. In addition, studies often offered limited de-
+scriptions of usual-care arms relative to descriptions
+of experimental arms. Even with incomplete reporting,
+however, we found wide differences in the number, in-
+tensity, and services offered in usual-care arms. These
+differences sharply restrict ed our ability to make state-
+ments about the overall effectiveness of these strategies as
+a class.
+Reporting issues in the literature also hindered our
+ability to derive firm conclusions on the effectiveness of
+included strategies. Authors reported complex analyses
+but often did not report other aspects of their methods
+well enough to permit an independent evaluation of the
+effect size [57], precision of the effect [46 –48, 51], or
+risk of bias [46, 57].
+We did not find evidence on the majority of the out-
+comes that we had specified a priori. Of particular note,
+seven strategies (two from a single publication) relied
+on EBPs and did not report patient health outcomes
+[50, 54 –56, 58, 59].
+When researchers maintain fidelity to the original
+intervention, assuming that the same level of effective-
+ness will occur in a new trial is reasonable; adopting this
+assumption can, therefore, produce efficient use of re-
+search funds. Unfortunately, not all studies measured fi-
+delity adequately. New strategies relying on EBPs must,
+at a minimum, report on fidelity so that practitioners
+and policymakers can judge whether the strategy is, in
+fact, a new intervention rather than implementation or
+dissemination of an existing intervention. Information
+on pragmatic issues related to implementation (fidelity,
+adaptation, and minimum elements necessary to achieve
+change) may not necessarily require new studies on
+strategies with existing information; support of analyses
+done with data from existing studies may fill some of
+the gap.
+The sparse evidence base of a set of diverse strategies
+and outcomes focusing on intermediate and health out-
+comes and resource use highlights the fact that clinicians
+and health plan administrators still do not have adequate
+knowledge of best methods to introduce EBPs success-
+fully into clinical settings for children and adolescent
+populations. Third-party payers are paying increasing at-
+tention to quality metrics, as health care systems move
+to accountable care models. We found no studies on
+regulatory components and just one study testing the ef-
+fectiveness of a financial component, specifically for payForman-Hoffman et al. Implementation Science  (2017) 12:93 Page 17 of 21
+for performance [56]. Future research efforts should
+evaluate variations of such programs according to pa-
+tient, provider, organization, systems, and setting charac-
+teristics. A better understanding of these variables may
+help promote the implementation and dissemination of
+EBPs.
+The majority of included studies appropriately used
+cluster designs. Cluster RCTs, like pragmatic trials,
+typically need more resources than conventional RCTs.
+Moreover, they can be harder to analyze than conven-
+tional studies. An additional consideration (for all these
+trials) related to inadequate reporting, a problem often
+noted in the literature [73, 74]. The studies we found
+were marked by poor reporting or failure to report key
+details of the strategy or differences across study arms.
+A recently developed tool, the StaRI (standards for
+reporting implementation studies of complex interven-
+tions), offers standards for reporting implementation
+studies [75]. If adopted widely, StaRI may well consider-
+ably improve the utility of these studies and the pace of
+translation of evidence into practice.
+Although the failure to use EBPs can lead to gaps be-
+tween potential and achieved outcomes, closing such
+holes in the knowledge base requires more than just using
+an array of EBPs. What continues to be unknown is how
+to bridge the gap in the context of the finite resource of
+time allocated for a patient encounter and what implica-
+tions changes will have on current work flow processes.
+As expectations increase for documenting or checking off
+quality metrics for each action within a patient encounter,
+the risks of errors of both omission and commission rise.
+For new information to be actionable, more persuasive
+evidence is needed on the relative merits of each action or
+strategy.
+More research is needed on strategies for the QI, im-
+plementation, and dissemination of EBPs relating to
+both psychological and behavioral treatments and medi-
+cation interventions for treating youth suffering from
+mental illness. Other important research targets include
+developing and testing dissemination strategies for intro-
+ducing mental health care into geographic areas lacking
+in mental health care, such as very rural areas with fewer
+mental health providers than more urban locations have.
+In these areas especially, focusing more attention on
+primary care providers may be essential.
+Conclusions
+The evidence does not give us a high degree of confi-
+dence about the efficacy of any one strategy to improve
+the implementation, dissemination, or quality of mental
+health care for children and adolescents, generally be-
+cause we had only a single study testing a given strategy.
+Although we had insufficient or low strength of evidence
+of no benefit for more than half of the outcomes that weevaluated, our findings suggest that several approaches
+can improve both intermediate and final health out-
+comes and resource use. Of the 19 included studies, 12
+significantly improved at least one such outcome or
+measure. Moderate strength of evidence (from one
+RCT) supported using provider financial incentives such
+as pay for performance to improve the competence with
+which practitioners can implement EBPs. We found in-
+consistent evidence involving strategies with educational
+meetings or materials; programs appeared to be success-
+ful in combination with outreach, reminders, providing
+practitioners with newly collected clinical information,
+or organizational structural components including qual-
+ity monitoring and changing the scope or nature of ben-
+efits. We also found low strength of evidence for no
+benefit for initiatives that included only educational ma-
+terials or meetings (or both) or only organizational pro-
+vider components.
+Abbreviations
+ACROBAT-NRSI: A Cochrane Risk Of Bias Assessment Tool for Non-
+Randomized Studies of Interventions; ADHD: Attention deficit hyperactivity
+disorder; AHRQ: Agency for Healthcare Research and Quality; aOR: Adjusted
+odds ratio; ARC: Availability, Responsiveness and Continuity; CBT: Cognitive
+behavioral therapy; CCT: Controlled clinical trials (nonrandomized);
+CFIR: Consolidated Framework for Implementation Research; CI: Confidence
+interval; CINAHL: Cumulative Index to Nursing and Allied Health Literature;
+CP-TF: Coping Power training plus feedback; D: Dissemination;
+EBP: Evidence-based practice; EHR: Electronic Health Record; EPC: Evidence-
+based Practice Center; EPOC: Effective Practice and Organization of Care;
+HDI: Human Development Index; I: Implementation; IAU: Implementation as
+usual; IQA: Intensive Quality Assurance; KQ: Key question; MeSH®: Medical
+Subject Headings; MMT: Metabolic monitoring program; MMTP: Metabolic
+monitoring training program; MST: Multisystemic therapy; N: Number;
+NR: Not reported; NREPP: National Registry of Evidence-based Programs and
+Practices; NS: Not significant; OR: Odds ratio; P: Probability; P4P: Pay for
+performance; PICOTS: Patient population, intervention, comparator, outcome,
+timing of outcome assessment, and setting; PRISMA: Preferred Reporting
+Items for Systematic Reviews and Meta-Analyses; QCA: Qualitative
+comparative analysis; QI: Quality improvement; RCT: Randomized controlled
+trials; RR: Relative risk; SAMHSA: Substance Abuse and Mental Health Services
+Administration; SE: Standard error; StaRI: Standards for reporting implementation
+studies of complex interventions; WSR + CAT + SS: Workshop plus resources plus
+computer-assisted training plus supervisory support; WSR + CAT: Workshop plus
+resources plus computer-assisted training; WSR: Workshop plus resources
+Acknowledgements
+The authors gratefully acknowledge the following individuals for their
+contributions: Christine Chang, Carol Woodell, Christiane Voison, Loraine
+Monroe, and the key informants and members of the technical expert panel
+(for full list of names, please refer to our main report on the AHRQ website,
+https://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-and-
+reports/?pageaction=displayproduct&productid=2371).
+Funding
+This project was funded under Contract Number
+HHSA290201200008I_HHSA29032007T from the Agency for Healthcare
+Research and Quality (AHRQ), US Department of Health and Human
+Services. The authors of this manuscript are responsible for its content.
+Statements in the manuscript should not be construed as endorsement
+by the Agency for Healthcare Research and Quality or the U.S.
+Department of Health and Human Services. AHRQ retains a license to
+display, reproduce, and distribute the data and the report from which
+this manuscript was derived under the terms of the agency ’s contract
+with the author.Forman-Hoffman et al. Implementation Science  (2017) 12:93 Page 18 of 21
+Availability of data and materials
+N/A
+Authors ’contributions
+The authors have each met the four criteria for authorship: VFH, JCM, RC, JM,
+LS, BG, KNL, and MV made substantial contributions to conception and
+design; VFH, JCM, RC, JM, LS, BG, and MV made substantial contributions to
+acquisition of data; and VFH, JCM, RC, JM, LS, BG, HLK, LCK, KNL, and MV
+made substantial contributions to analysis and interpretation of data; VFH,
+HLK, and MV have been involved in drafting the manuscript, and JCM, RC,
+JM, LS, BG, LCK, and KNL have been involved in revising it critically for
+important intellectual content; VFH, JCM, RC, JM, LS, BG, HLK, LCK, KNL, and
+MV had given final approval of the version to be published. Each author
+should have participated sufficiently in the work to take public responsibility
+for appropriate portions of the content. And VFH, JCM, RC, JM, LS, BG, HLK,
+LCK, KNL, and MV agreed to be accountable for all aspects of the work in
+ensuring that questions related to the accuracy or integrity of any part of
+the work are appropriately investigated and resolved.
+Ethics approval and consent to participate
+N/A
+Consent for publication
+N/A
+Competing interests
+The authors declare that they have no competing interests.
+Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Author details
+1RTI International, 3040 W Cornwallis Rd, Research Triangle Park, P.O. Box
+12194, Research Triangle Park, NC 27709, USA.2Cecil G. Sheps Center for
+Health Services Research, The University of North Carolina at Chapel Hill, CB#
+7590 725 Martin Luther King Jr. Blvd, Chapel Hill, NC 27599-7590, USA.
+3Department of Psychiatry, UNC School of Medicine, 235 Med Sch Wing C,
+7160, Chapel Hill, NC 27599, USA.4The Carolina Institute for Developmental
+Disabilities, University of North Carolina Chapel Hill, Campus Box # 7255,
+Chapel Hill, NC 27599-7255, USA.5Department of Psychiatry, UNC School of
+Medicine, 304 MacNider Hall, CB #7160 333 S. Columbia Street, Chapel Hill,
+NC 27599, USA.
+Received: 21 June 2016 Accepted: 13 July 2017
+References
+1. O'Connell ME, Boat T, Warner KE, editors. Preventing mental, emotional, and
+behavioral disorders among young people: progress and possibilities.
+Washington, DC: National Academies Press; 2009.
+2. Perou R, Bitsko RH, Blumberg SJ, Pastor P, Ghandour RM, Gfroerer JC, et al.
+Mental health surveillance among children —United States, 2005 –2011.
+MMWR Surveill Summ. 2013;62(Suppl 2):1 –35.
+3. Weisz JR, Weiss B, Han SS, Granger DA, Morton T. Effects of psychotherapy
+with children and adolescents revisited: a meta-analysis of treatment
+outcome studies. Psychol Bull. 1995;117(3):450 –68.
+4. Dishion TJ, McCord J, Poulin F. When interventions harm. Peer groups and
+problem behavior. Am Psychol. 1999;54(9):755 –64.
+5. Silverman WK, Hinshaw SP. The second special issue on evidence-based
+psychosocial treatments for children and adolescents: a 10-year update.
+Journal of Clinical Child and Adolescent Psychology. 2008;37(1):1 –7. doi:10.
+1080/15374410701817725.
+6. Chorpita BF, Daleiden EL, Ebesutani C, Young J, Becker KD, Nakamura BJ,
+et al. Evidence-based treatments for children and adolescents: an updated
+review of indicators of efficacy and effectiveness. Clinical Psychology-
+Science and Practice. 2011;18(2):154 –72.
+7. Hoagwood K, Burns BJ, Kiser L, Ringeisen H, Schoenwald SK. Evidence-based
+practice in child and adolescent mental health services. Psychiatr Serv. 2001;
+52(9):1179 –89.8. Jensen PS, Goldman E, Offord D, Costello EJ, Friedman R, Huff B, et al.
+Overlooked and underserved: “action signs ”for identifying children with
+unmet mental health needs. Pediatrics. 2011;128(5):970 –9. doi:10.1542/peds.
+2009-0367.
+9. Kataoka SH, Zhang L, Wells KB. Unmet need for mental health care among
+U.S. children: variation by ethnicity and insurance status. Am J Psychiatr.
+2002;159(9):1548 –55.
+10. Saloner B, Carson N, Cook BL. Episodes of mental health treatment among a
+nationally representative sample of children and adolescents. Med Care Res
+Rev. 2014;71(3):261 –79. doi:10.1177/1077558713518347.
+11. Satcher D. U.S. Public Health Service, Report of the Surgeon General ’s
+Conference on Children ’s Mental Health: a national action agenda.
+Washington, DC: Department of Health and Human Services; 2008.
+12. Williams J, Klinepeter K, Palmes G, Pulley A, Foy JM. Diagnosis and
+treatment of behavioral health disorders in pediatric practice. Pediatrics.
+2004;114(3):601 –6. doi:10.1542/peds.2004-0090.
+13. Bickman L, Kelley SD, Breda C, de Andrade AR, Riemer M. Effects of
+routine feedback to clinicians on mental health outcomes of youths:
+results of a randomized trial. Psychiatr Serv. 2011;62(12):1423 –9.
+doi:10.1176/appi.ps.002052011.
+14. Glisson C, Schoenwald SK, Hemmelgarn A, Green P, Dukes D, Armstrong KS,
+et al. Randomized trial of Mst and Arc in a two-level evidence-based
+treatment implementation strategy. J Consult Clin Psychol. 2010;78(4):537 –50.
+doi:10.1037/a0019160.
+15. Balas EA, Boron SA. Managing clinical knowledege for healthcare
+improvements. Stuggart: Schattauer Verlagsgesellschaft; 2000.
+16. Shojania KG, McDonald KM, Wachter RM, Owens DG. Closing the quality
+gap: a critical analysis of quality improvement strategies, Vol. 1: Series
+Overview and Methodology. Technical Review 9 (Contract No. 290 –02-0017
+to the Stanford University-UCSF Evidence-based Practices Center) AHRQ
+Publication No. 04 –0051-1. Rockville, MD: Agency for Healthcare Research
+and Quality; Aug 2004.
+17. Institute of Medicine. Crossing the Quality Chasm. Crossing the quality
+chasm: a new health system for the 21st century. Washington, DC: National
+Academy Press; 2001.
+18. McKibbon KA, Lokker C, Wilczynski NL, Ciliska D, Dobbins M, Davis DA, et al.
+A cross-sectional study of the number and frequency of terms used to refer
+to knowledge translation in a body of health literature in 2006: a Tower of
+Babel? Implement Sci. 2010;5(1):16. doi:10.1186/1748-5908-5-16.
+19. Forman-Hoffman V, Cook Middleton J, McKeeman J, Stambaugh L, Christian
+R, Gaynes B, et al. Strategies to improve mental health care for children and
+adolescents. Comparative Effectiveness Review No. 181. (Prepared by the RTI
+International –University of North Carolina Evidence-based Practice Center
+under Contract No. 290 –2012- 00008-I.) AHRQ Publication No. 16(17)-EHC035-
+EF. Rockville, MD: Agency for Healthcare Research and Quality; December
+2016. https://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-
+and-reports/?pageaction=displayproduct&productid=2371.
+20. Proctor EK, Landsverk J, Aarons G, Chambers D, Glisson C, Mittman B.
+Implementation research in mental health services: an emerging science
+with conceptual, methodological, and training challenges. Admin Pol Ment
+Health. 2009;36(1):24 –34. doi:10.1007/s10488-008-0197-4.
+2 1 . A a r o n sG A ,G l i s s o nC ,G r e e nP D ,H oagwood K, Kelleher KJ, Landsverk
+JA, et al. The organizational socia l context of mental health services
+and clinician attitudes toward evidence-based practice: a United
+States national study. Implement Sci. 2012;7:56. doi:10.1186/1748-
+5908-7-56.
+22. Aarons GA. Mental health provider attitudes toward adoption of evidence-
+based practice: the Evidence-Based Practice Attitude Scale (EBPAS). Ment
+Health Serv Res. 2004;6(2):61 –74.
+23. Glisson C, Landsverk J, Schoenwald S, Kelleher K, Hoagwood KE, Mayberg S,
+et al. Assessing the organizational social context (Osc) of mental health
+services: implications for research and practice. Admin Pol Ment Health.
+2008;35(1 –2):98 –113. doi:10.1007/s10488-007-0148-5.
+24. Barwick MA, Schachter HM, Bennett LM, McGowan J, Ly M, Wilson A, et al.
+Knowledge translation efforts in child and youth mental health: a
+systematic review. J Evid Based Soc Work. 2012;9(4):369 –95. doi:10.1080/
+15433714.2012.663667.
+25. Novins DK, Green AE, Legha RK, Aarons GA. Dissemination and
+implementation of evidence-based practices for child and adolescent
+mental health: a systematic review. J Am Acad Child Adolesc Psychiatry.
+2013;52(10):1009 –1025 e1018. doi:10.1016/j.jaac.2013.07.012.Forman-Hoffman et al. Implementation Science  (2017) 12:93 Page 19 of 21
+26. Fixen DL, Naoom SF, Blase KA, Friedman RM, Wallace F. Implementation
+research: a synthesis of the literature. Tampa, FL: University of South
+Florida; 2005.
+27. Dorsey S, Pullmann MD, Deblinger E, Berliner L, Kerns SE, Thompson K, et al.
+Improving practice in community-based settings: a randomized trial of
+supervision —study protocol. Implement Sci. 2013;8:89. doi:10.1186/1748-
+5908-8-89.
+28. Schoenwald SK, Sheidow AJ, Letourneau EJ. Toward effective quality
+assurance in evidence-based practice: links between expert consultation,
+therapist fidelity, and child outcomes. Journal of Clinical Child and Adolescent
+Psychology. 2004;33(1):94 –104. doi:10.1207/s15374424jccp3301_10.
+29. Moher D, Liberati A, Tetzlaff J, Altman DG, P. Group. Preferred Reporting
+Items for Systematic Reviews and Meta-Analyses: the PRISMA statement.
+BMJ. 2009;339(4):b2535. doi:10.1136/bmj.b2535.
+30. Effective Practice and Organisation of Care (EPOC). EPOC Taxonomy. Oslo:
+Norwegian Knowledge Centre for the Health Services; 2002. https://epoc.
+cochrane.org/epoc-taxonomy.
+31. Proctor E, Silmere H, Raghavan R, Hovmand P, Aarons G, Bunger A, et al.
+Outcomes for implementation research: conceptual distinctions,
+measurement challenges, and research agenda. Admin Pol Ment Health.
+2011;38(2):65 –76. doi:10.1007/s10488-010-0319-7.
+32. Damschroder LJ, Aron DC, Keith RE, Kirsh SR, Alexander JA, Lowery JC.
+Fostering implementation of health services research findings into practice:
+a consolidated framework for advancing implementation science.
+Implement Sci. 2009;4:50. doi:10.1186/1748-5908-4-50.
+33. Hoagwood K. Personal communication. In Book Personal Communication
+(Editor ed.^eds.). City; 2014.
+34. Viswanathan M, Ansari MT, Berkman ND, Chang S, Hartling L, McPheeters
+LM, et al. Assessing the risk of bias of individual studies in systematic
+reviews of health care interventions. Agency for Healthcare Research and
+Quality Methods Guide for Comparative Effectiveness Reviews AHRQ
+Publication No. 12-EHC047-EF. Rockville, MD: Agency for Healthcare
+Research and Quality; March 2012. https://effectivehealthcare.ahrq.gov/index.
+cfm/search-for-guides-reviews-and-reports/?pageaction=displayproduct&
+productid=998.
+35. Higgins JP, Altman DG, Gotzsche PC, Juni P, Moher D, Oxman AD, et al. The
+Cochrane Collaboration ’s tool for assessing risk of bias in randomised trials.
+BMJ. 2011;343:d5928. doi:10.1136/bmj.d5928.
+36. Viswanathan M, Berkman ND. Development of the RTI item bank on risk of
+bias and precision of observational studies. J Clin Epidemiol. 2012;65(2):163 –
+78. doi:10.1016/j.jclinepi.2011.05.008.
+37. Sterne JAC, Higgins JPT, Reeves BC and on behalf of the development
+group for ACROBAT-NRSI, “A Cochrane Risk of Bias Assessment Tool: For
+Non-Randomized Studies of Interventions (Acrobat-Nrsi), Version 1.0.0. ”
+http://www.riskofbias.info
+38. West SL, Gartlehner G, Mansfield AJ, Poole C, Tant E, Lenfestey N et al.
+Comparative effectiveness review methods: clinical heterogeneity. Methods
+Research Paper AHRQ Publication No. 10-EHC070-EF. Rockville, MD: Agency
+for Healthcare Research and Quality; Sep 2010. https://www.ncbi.nlm.nih.
+gov/books/NBK53310/. PMID: 21433337.
+39. Booth A, Harris J, Croot E, Springett J, Campbell F, Wilkins E. Towards a
+methodology for cluster searching to provide conceptual and contextual
+“richness ”for systematic reviews of complex interventions: case study (cluster).
+BMC Med Res Methodol. 2013;13:118. doi:10.1186/1471-2288-13-118.
+40. Schneider CQ, Wagemann C. Set-theoretic methods for the social sciences:
+a guide to qualitative comparative analysis. Cambridge: Cambridge
+University Press; 2012.
+41. Ragin CC. Using qualitative comparative analysis to study causal complexity.
+Health Serv Res. 1999;34(5):1225 –39.
+42. Berkman ND, Lohr KN, Ansari M, McDonagh M, Balk E, Whitlock E, et al.
+Grading the strength of a body of evidence when assessing health care
+interventions for the effective health care program of the Agency for
+Healthcare Research and Quality: An Update. Methods Guide for
+Comparative Effectiveness Reviews (Prepared by the RTI International-
+University of North Carolina Evidence-based Practice Center under Contract
+No. 290 –2007-10056-I) AHRQ Publication No. 13(14)-EHC130-EF. Rockville,
+MD: Agency for Healthcare Research and Quality; November 2013.
+https://effectivehealthcare.ahrq.gov/index.cfm/search-for-guides-reviews-
+and-reports/?pageaction=displayproduct&productid=1752.
+43. Berkman ND, Lohr KN, Ansari MT, Balk EM, Kane R, McDonagh M, et al.,
+“Grading the strength of a body of evidence when assessing health careinterventions: an EPC update, ”Journal of Clinical Epidemiology, Vol., 2014,
+pp. doi:10.1016/j.jclinepi.2014.11.023.
+44. Guyatt GH, Oxman AD, Kunz R, Brozek J, Alonso-Coello P, Rind D, et al.
+GRADE guidelines 6. Rating the quality of evidence —imprecision. J Clin
+Epidemiol. 2011;64(12):1283 –93. doi:10.1016/j.jclinepi.2011.01.012.
+45. Bhandari M, Sprague S, Hanson B, Busse JW, Dawe DE, Moro JK, et al.
+Health-related quality of life following operative treatment of unstable ankle
+fractures: a prospective observational study. J Orthop Trauma. 2004;18(6):
+338 –45.
+46. Carroll AE, Bauer NS, Dugan TM, Anand V, Saha C, Downs SM. Use of a
+computerized decision aid for ADHD diagnosis: a randomized controlled
+trial. Pediatrics. 2013;132(3):e623 –9. doi:10.1542/peds.2013-0933.
+47. Epstein JN, Rabiner D, Johnson DE, Fitzgerald DP, Chrisman A, Erkanli A,
+et al. Improving attention-deficit/hyperactivity disorder treatment outcomes
+through use of a collaborative consultation treatment service by
+community-based pediatricians: a cluster randomized trial. Arch Pediatr
+Adolesc Med. 2007;161(9):835 –40. doi:10.1001/archpedi.161.9.835.
+48. Lester H, Birchwood M, Freemantle N, Michail M, Tait L. REDIRECT: cluster
+randomised controlled trial of GP training in first-episode psychosis. Br J
+Gen Pract. 2009;59(563):e183 –90. doi:10.3399/bjgp09X420851.
+49. Ronsley R, Rayter M, Smith D, Davidson J, Panagiotopoulos C. Metabolic
+monitoring training program implementation in the community setting was
+associated with improved monitoring in second-generation antipsychotic-
+treated children. Can J Psychiatry. 2012;57(5):292 –9.
+50. Beidas RS, Edmunds JM, Marcus SC, Kendall PC. Training and consultation to
+promote implementation of an empirical ly supported treatment: a randomized
+trial. Psychiatr Serv. 2012;63(7):660 –5. doi:10.1176/appi.ps.201100401.
+51. Glisson C, Hemmelgarn A, Green P, Dukes D, Atkinson S, Williams NJ.
+Randomized trial of the availability, responsiveness, and continuity (Arc)
+organizational intervention with community-based mental health programs
+and clinicians serving youth. J Am Acad Child Adolesc Psychiatry. 2012;
+51(8):780 –7. doi:10.1016/j.jaac.2012.05.010.
+52. Wildman BG, Langkamp DL. Impact of location and availability of behavioral
+health services for children. J Clin Psychol Med Settings. 2012;19(4):393 –400.
+doi:10.1007/s10880-012-9324-1.
+53. Garner BR, Godley SH, Dennis ML, Hunter BD, Bair CM, Godley MD. Using
+pay for performance to improve treatment implementation for adolescent
+substance disorders: results from a cluster randomized trial. Arch Pediatr
+Adolesc Med. 2012;166(10):938 –44. doi:10.1001/archpediatrics.2012.802.
+54. Henggeler SW, Sheidow AJ, Cunningham PB, Donohue BC, Ford JD.
+Promoting the implementation of an evidence-based intervention for
+adolescent marijuana abuse in community settings: testing the use of
+intensive quality assurance. Journal of Clinical Child and Adolescent
+Psychology. 2008;37(3):682 –9. doi:10.1080/15374410802148087.
+55. Gully KJ, Price BL, Johnson MK. Increasing abused children ’s access to
+evidence-based treatment: diffusion via parents as consumers. Child
+Maltreat. 2008;13(3):280 –8. doi:10.1177/1077559508316042.
+56. Epstein JN, Langberg JM, Lichtenstein PK, Kolb R, Altaye M, Simon JO. Use
+of an Internet portal to improve community-based pediatric ADHD care: a
+cluster randomized trial. Pediatrics. 2011;128(5):e1201 –8.
+doi:10.1542/peds.2011-0872.
+57. Lochman JE, Boxmeyer C, Powell N, Qu L, Wells K, Windle M. Dissemination
+of the coping power program: importance of intensity of counselor
+training. J Consult Clin Psychol. 2009;77(3):397 –409. doi:10.1037/a0014514.
+58. Sterling S, Kline-Simon AH, Satre DD, Jones A, Mertens J, Wong A, et al.:
+Implementation of screening, brief intervention, and referral to treatment
+for adolescents in pediatric primary care: a cluster randomized trial. In Book
+Implementation of Screening, Brief Intervention, and Referral to Treatment
+for Adolescents in Pediatric Primary Care a Cluster Randomized Trial (Editor
+ed.^eds.), vol. 169. pp. e153145. City; 2015:e153145.
+59. Henggeler SW, Chapman JE, Rowland MD, Sheidow AJ, Cunningham PB.
+Evaluating training methods for transporting contingency management to
+therapists. J Subst Abus Treat. 2013;45(5):466 –74. doi:10.1016/j.jsat.2013.06.008.
+60. Glisson C, Hemmelgarn A, Green P, Williams NJ. Randomized trial of the
+availability, responsiveness and continuity (ARC) organizational intervention
+for improving youth outcomes in community mental health programs.
+J Am Acad Child Adolesc Psychiatry. 2013;52(5):493 –500. doi:10.1016/j.jaac.
+2013.02.005.
+61. Bickman L, Douglas SR, De Andrade AR, Tomlinson M, Gleacher A, Olin S,
+et al. Implementing a measurement feedback system: a tale of two sites.
+Admin Pol Ment Health. 2016;43(3):410 –25. doi:10.1007/s10488-015-0647-8.Forman-Hoffman et al. Implementation Science  (2017) 12:93 Page 20 of 21
+62. Warner CM, Colognori D, Brice C, Herzig K, Mufson L, Lynch C, et al. Can
+school counselors deliver cognitive-behavioral treatment for social anxiety
+effectively? A randomized controlled trial. J Child Psychol Psychiatry. 2016;
+57(11):1229 –38. doi:10.1111/jcpp.12550.
+63. Effective Practice and Organisation of Care (EPOC). EPOC Taxonomy. Oslo:
+Norwegian Knowledge Centre for the Health Services; 2015. http://epoc.
+cochrane.org/sites/epoc.cochrane.org/files/public/uploads/epoc_taxonomy_
+13.12.16.pdf.
+64. Powell BJ, Waltz TJ, Chinman MJ, Damschroder LJ, Smith JL, Matthieu MM,
+et al. A refined compilation of implementation strategies: results from the
+Expert Recommendations for Implementing Change (Eric) project.
+Implement Sci. 2015;10(1):21. doi:10.1186/s13012-015-0209-1.
+65. Asarnow JR, Jaycox LH, Duan N, LaBorde AP, Rea MM, Murray P, et al.
+Effectiveness of a quality improvement intervention for adolescent
+depression in primary care clinics: a randomized controlled trial. JAMA.
+2005;293(3):311 –9. doi:10.1001/jama.293.3.311.
+66. Asarnow JR, Jaycox LH, Tang L, Duan N, LaBorde AP, Zeledon LR, et al.
+Long-term benefits of short-term quality improvement interventions for
+depressed youths in primary care. Am J Psychiatr. 2009;166(9):1002 –10.
+doi:10.1176/appi.ajp.2009.08121909.
+67. Ngo VK, Asarnow JR, Lange J, Jaycox LH, Rea MM, Landon C, et al.
+Outcomes for youths from racial-ethnic minority groups in a quality
+improvement intervention for depression treatment. Psychiatr Serv. 2009;
+60(10):1357 –64. doi:10.1176/appi.ps.60.10.1357.
+68. Wells KB, Tang L, Carlson GA, Asarnow JR. Treatment of youth depression in
+primary care under usual practice conditions: observational findings from
+youth partners in care. Journal of Child and Adolescent
+Psychopharmacology. 2012;22(1):80 –90. doi:10.1089/cap.2011.0074.
+69. Henggeler SW, McCart MR, Cunningham PB, Chapman JE. Enhancing the
+effectiveness of juvenile drug courts by integrating evidence-based
+practices. J Consult Clin Psychol. 2012;80(2):264 –75. doi:10.1037/a0027147.
+70. Liddle HA, Dakof GA, Henderson C, Rowe C. Implementation outcomes of
+multidimensional family therapy-detention to community: a reintegration
+program for drug-using juvenile detainees. International Journal of Offender
+Therapy and Comparative Criminology. 2011;55(4):587 –604. doi:10.1177/
+0306624x10366960.
+71. Weisz JR, Southam-Gerow MA, Gordis EB, Connor-Smith JK, Chu BC, Langer
+DA, et al. Cognitive-behavioral therapy versus usual clinical care for youth
+depression: an initial test of transportability to community clinics and
+clinicians. J Consult Clin Psychol. 2009;77(3):383 –96. doi:10.1037/a0013877.
+72. Bryant J, Passey ME, Hall AE, Sanson-Fisher RW. A systematic review of the
+quality of reporting in published smoking cessation trials for pregnant
+women: an explanation for the evidence-practice gap? Implement Sci. 2014;
+9:94. doi:10.1186/s13012-014-0094-z.
+73. Rycroft-Malone J, Burton CR. Is It Time for Standards for Reporting on Research
+About Implementation? Worldviews Evid-Based Nurs. 2011;8:189 –90.
+74. Newhouse R, Bobay K, Dykes PC, Stevens KR, Titler M. Methodology issues
+in implementation science. Med Care Res Rev. 2013;51(Suppl 2):S32 –40.
+75. Pinnock H, Epiphaniou E, Sheikh A, Griffiths C, Eldridge S, Craig P, et al.
+Developing standards for reporting implementation studies of complex
+interventions (Stari): a systematic review and e-Delphi. Implement Sci. 2015;
+10(1):42. doi:10.1186/s13012-015-0235-z.
+76. United Nations Development Program, “Human development report. ”
+http://hdr.undp.org/en/content/human-development-report-2014
+•  We accept pre-submission inquiries  
+  Our selector tool helps you to ﬁnd the most relevant journal
+  We provide round the clock customer support 
+  Convenient online submission
+  Thorough peer review
+  Inclusion in PubMed and all major indexing services 
+  Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submitSubmit your next manuscript to BioMed Central 
+and we will help you at every step:Forman-Hoffman et al. Implementation Science  (2017) 12:93 Page 21 of 21

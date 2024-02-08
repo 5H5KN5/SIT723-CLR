@@ -1,0 +1,431 @@
+STUDY PROTOCOL Open Access
+Strengthening evaluation and implementation
+by specifying components of behaviour changeinterventions: a study protocol
+Susan Michie1*, Charles Abraham2, Martin P Eccles3, Jill J Francis4, Wendy Hardeman5, Marie Johnston1
+Abstract
+Background: The importance of behaviour change in improving health is illustrated by the increasing investment
+by funding bodies in the development and evaluation of complex interventions to change population, patient, and
+practitioner behaviours. The development of effective interventions is hampered by the absence of a nomenclatureto specify and report their content. This limits the possibility of replicating effective interventions, synthesisingevidence, and understanding the causal mechanisms underlying behaviour change. In contrast, biomedicalinterventions are precisely specified ( e.g., the pharmacological ‘ingredients’ of prescribed drugs, their dose and
+frequency of administration). For most complex interventions, the precise ‘ingredients ’are unknown; descriptions ( e.
+g., ‘behavioural counseling ’) can mean different things to different researchers or implementers. The lack of a
+method for specifying complex interventions undermines the precision of evidence syntheses of effectiveness,posing a problem for secondary, as well as primary, research.We aim to develop a reliable method of specifying intervention components ( ’techniques ’) aimed at changing
+behaviour.
+Methods/Design: The research will be conducted in three phases. The first phase will develop the nomenclature.
+We will refine a preliminary list of techniques and definitions. Using a formal consensus method, experts will then
+define the key attributes of each technique and how it relates to, and differs from, others. They will evaluate thetechniques and their definitions until they achieve an agreed-upon list of clearly defined, nonredundanttechniques. The second phase will test the nomenclature. Trained experts (primary researchers and systematicreviewers), equipped with a coding manual and guidance, will use the nomenclature to code publisheddescriptions of complex interventions. Reliability between experts, over time, and across types of users will beassessed. We will assess whether using the nomenclature to write intervention descriptions enhances the clarity
+and replicability of interventions. The third phase will develop a web-based users ’resource of clearly specified and
+nonredundant techniques, which will aid the scientific understanding of, and development of, effective complex
+interventions. Dissemination throughout the project will be through stakeholder meetings, targetedmultidisciplinary workshops, conference presentation, journal publication, and publication in an interactive web-based platform (a Wiki).
+Discussion: The development of a reliable method of specifying intervention components aimed at changing
+behaviour will strengthen the scientific basis for developing, evaluating, and reporting complex interventions. It will
+improve the precision of evidence syntheses of effectiveness, thus enhancing secondary, as well as primary,research.
+* Correspondence: s.michie@ucl.ac.uk
+1Department of Clinical, Educational and Health Psychology, University
+College London, London, UK
+Full list of author information is available at the end of the articleMichie et al .Implementation Science 2011, 6:10
+http://www.implementationscience.com/content/6/1/10
+Implementation
+Science
+© 2011 Michie et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in
+any medium, provided the original work is properly cited.
+Background
+Behaviour change interventions ( e.g., to increase physical
+activity, adherence behaviours, screening attendance) are
+typically complex, involving many interacting compo-nents. We need methods of specifying and reporting
+complex interventions in order to strengthen the knowl-
+edge base required for such interventions to be moreeffective, replicable, and implementable. The complexityof interventions to change behaviour is determined, inpart, by the number of components involved. Compo-nents include the techniques to facilitate behaviourchange that constitute the active ingredients of the inter-vention and procedures for delivery of those techniques.
+Procedures for delivery inc lude who delivers the inter-
+vention, to whom, how often, for how long, in what for-
+mat, and in what context [1]. The UK Medical ResearchCouncil ’s guidance [2] for developing and evaluating
+complex interventions acknowledges the need forimproved methods of specifying and reporting interven-tion content. The CONSORT statement for randomisedtrials of nonpharmacologic interventions calls for precise
+details of the intervention, including a description of the
+different intervention components [3]. It is important tospecify and report both the active techniques and proce-dures for delivery. This prot ocol focuses on the former,
+that is, methods for specifying what is delivered, rathert h a no nh o wi ti sd e l i v e r e d .I ta d d r e s s e st e c h n i q u e st h a ttarget the behaviour of individuals but that may be deliv-ered in a variety of ways ( e.g., prompts or reminders
+delivered by a ‘buddy ’, telephone call from a healthcare
+professional, postal leaflet, or environmentally, such ashand-washing signs). By technique, we mean a replicablecomponent of an intervention designed to alter or redir-ect causal processes that regulate behaviour; that is, atechnique is proposed to be an ‘active ingredient ’(e.g.,
+feedback, self-monitoring, and reinforcement). Techni-ques also have specified criteria for their operationalisa-
+tion, that is, minimum delivery specifications that would
+allow identification of that technique ( e.g.,f e e d b a c km u s t
+involve providing the target audience with informationabout their behaviour). The identification of behaviourchange techniques (BCTs) is critical to understandinghow organisational change and national policy changes(including policies around access and price) have theireffects on individuals ’health-related behaviours.
+Despite the considerable investment in randomised
+controlled trials (RCTs) of co mplex interventions and in
+systematically reviewing their effects, interventions tend
+to be poorly described and reported. There is no consen-sus on terminology, and descriptions of interventionslack the specificity required for replication [2,4-6]. Whensecondary data analyses are conducted to ascertain whichtypes of interventions are effective, many are too poorly
+specified to be included [7]; there is no consensus onhow to classify content, and, therefore, each analysis
+develops its own classification system [1,8]. This resultsin much wasted effort since there is no common methodfor synthesising the findings of primary studies in a con-ceptually coherent way. Further, unless we can specifythe active BCTs delivered within the standard care or
+control group, replication and accurate implementation
+is difficult or even impossible, and effect sizes for new
+interventions will continue to be uninterpretable [9].These problems are evident across a wide variety of large,expensive trials of public health [10-12] and implementa-tion interventions [13]. Th is impedes the accumulation
+of knowledge and implementation of effective behaviourchange interventions [14]. In a 2008 address, the Presi-
+dent of the Association for Psychological Science stated,‘For psychological research to flourish and develop into
+an increasingly cumulative basic science, there are somefundamental requirements. It ’s essential to develop and
+use common shared tools and a common language, sothat replication, and building on solid work, becomesaccepted practice and is valued (http://www.psychologi-calscience.org/observer/getArticle.cfm?id=2430). ’
+Scientific advance requires an agreed-upon and reliable
+method of specifying and labeling BCTs [15]. Behaviouralscience has provided us with myriad potential BCTs[5,15,16], but there is no agreement on how they arelabeled and identified. The same technique may bedescribed by different labels ( e.g.,‘self-monitoring’ may
+be labeled ‘daily diaries ’), and the same labels may be
+applied to different BCTs ( e.g., ‘behavioural counseling’
+may involve ‘educating patients ’or ‘feedback, self-moni-
+toring, and reinforcement ’[17]). Imprecise labeling may
+lead to misleading conclusions in evidence synthesis. Asa result of under-specificat ion, behavioural medicine
+researchers and practitioners have been found to reportlow confidence in their ability to replicate highly effectiveinterventions for diabetes prevention [5]. This problemneeds to be solved to strengthen behavioural science and
+improve behaviour change intervention effectiveness.
+Despite recommendations for describing intervention
+components [2,3], no rigo rous and widely accepted
+methodology for doing this has been suggested. We pro-
+pose to develop a systematic, referenced nomenclature
+(a
+system of technical terms used in a science, such as
+the periodic table of elements in chemistry or the biolo-gical classification) of BCTs with fully operationalised
+definitions to enable replication. This will form the basis
+of a future hierarchical classification (or ‘taxonomy ’).
+Describing behaviour change intervention content by asystematically produced, reliable nomenclature willstrengthen the following:
+1. Knowledge base: Published reports of interventionstudies will be able to provide more detail on theMichie et al .Implementation Science 2011, 6:10
+http://www.implementationscience.com/content/6/1/10Page 2 of 8
+BCTs, making effective interventions easier to replicate
+in primary research. They will also be able to specify‘standard care ’, thus ensuring that evaluated interven-
+tions are actually different from standard care compara-tor conditions. Systematic reviewers will be able to usea reliable method for extracting information about
+intervention content, thus identifying and synthesising
+discrete, replicable, potentially active ingredients asso-ciated with effectiveness. A s hared language has allowed
+us and other reviewers to use an early version of atechnique nomenclature to synthesise heterogeneousinterventions and use meta-regression to determinewhich component BCTs are effective [8,9,15,18,19]. Forexample, a systematic review of 122 evaluations of
+interventions to increase physical activity and healthy
+eating [7] found that the technique ‘self-monitoring ’
+explained the greatest amount of among-study hetero-geneity (13%). Interventions that combined self-monitoring with at least one other theoretically derivedtechnique were significantly more effective than theother interventions (pooled effect sizes of 0.42 vs. 0.26,respectively). Another example of a study using this
+method reanalysed a Cochrane review of audit and
+feedback interventions and allowed the investigation ofthe separate effects of goal setting, monitoring, andaction plans [20].2. Evaluation and implementation: In RCTs evaluat-ing behaviour change interventions, effect sizes willbe interpretable in the context of clear specificationof both intervention and control groups. Intervention
+developers will be able to use a comprehensive list of
+BCTs (rather than relying on the limited set they areaware of) to produce guidelines about how to opera-tionalise the BCTs in protocols for implementation.
+Development of a preliminary list of BCTs
+As a first stage, we have reliably identified a set of 26BCTs from 195 published descriptions of behaviour
+change interventions to increase physical activity and
+healthy eating [15], demonstrating the feasibility of amethod for developing standardised labels and defini-tions of BCTs included in complex interventions andspecifying behaviour change interventions in terms of adefined list of BCTs. We subsequently extended this listto a wider range of behaviours, drawing on systematicreviews [21] and an analysis of relevant textbooks, reli-
+ably identifying 54 BCTs [5]. Further work is needed to
+extend the list to a wider range of types of behaviourand to improve the definitions of approximately 50 addi-tional BCTs that were poor ly specified (some similar
+BCTs were referred to by a variety of labels, and somelabels were unclear or overl apping). More recently, we,
+and others, have extended the list to techniquesdesigned to change other behaviours ( e.g., smoking) andpopulations ( e.g., obese patients) [18,19]. At this stage,
+we are limiting the project to behaviour change inter-ventions targeting individual behaviours because of thetime and resources required, while recognising the needto extend this to other types of complex interventionsthat target different levels of healthcare systems [22].
+Anticipating uptake
+Few systematic reviews of behaviour change interventionsuse nomenclature systems [21,23,24]. Our preliminaryBCT list, developed and evaluated using systematic meth-ods to assess interrater reliability, has been widely usedinternationally, within a shor t period of its publication
+(2008), to report interventions [17], synthesise evidence
+[9,18,19], and design interventions [25]. Subsequently, we
+were invited to write journal editorials that have influ-enced editorial policy, requiring specification of complexintervention components to be based on reliable methods(e.g.,i n Addiction and Implementation Science), and a
+group of 12 international journal editors have built on thisto widen the call for developing reporting methods, form-ing the Workgroup for Intervention Development and
+Evaluation Research (WIDER, h ttp://interventiondesign.
+co.uk/?page_id=9). This evidence of uptake supports the
+need for, and usability of, a nomenclature system.
+Given the impact of our initial work, it is important to
+extend, consolidate, and en hance the generalisability of
+this method by building a wider, international consensusand disseminating and evaluating the nomenclature.
+Aims
+Our goals for this project are as follows:
+1. To develop a reliable and generalisable nomenclatureof BCTs as a method for specifying, evaluating, andimplementing complex behaviour change interventions2. To lay a foundation for
+a. a comprehensive methodology that can be
+applied to many different types of complex inter-
+ventions, including organisational and commu-nity interventionsb. a fully developed, hierarchically organised tax-onomy of BCTs
+3. To achieve multidisciplinary and internationalacceptance and use to allow for its continuousdevelopment
+Objectives
+Our objectives for this project are as follows:
+1. Development: Generate an extensive list of clearlylabeled, defined, nonredundant BCTs as the basis ofthe nomenclature (phase 1).Michie et al .Implementation Science 2011, 6:10
+http://www.implementationscience.com/content/6/1/10Page 3 of 8
+2. Evaluation: Test the reliability and usability of the
+preliminary nomenclature across different behavioursand populations (phase 2).3. Prototype nomenclature: Produce a nomenclaturewith definitions and guidance on its use, evidence ofconsensus, evidence of reliability, and usability of
+each BCT, illustrated with examples from effective
+interventions (phase 3).4. Implementation and dissemination: Make thenomenclature and its method of development widelyaccessible through a systematic dissemination plan(cross-phase).
+Methods
+Phase 1: addressing objective 1: consensus development
+Phase 1a: recruiting experts and leaders (two months)
+We have had an extremely positive response to our invi-
+tations to participate: 20 US, European, and UK multi-disciplinary experts and six research centers, comprisingabout 30 experts, are motivated to work with us indeveloping the nomenclature. We have identified a
+further 20 leaders in the field of interventions; since we
+need a total of 74, we will also ‘snowball’ via our colla-
+borators and research and professional networks.Experts include members of the US National Institutesof Health ’s Behaviour Change [26] and Health Mainte-
+nance Consortia (http://hmcrc.s rph.tamhsc.edu/default.
+html; accessed 25.6.09).
+Phase 1b: developing the nomenclature: clarifying and
+refining the list using a Delphi survey of expert users (eight
+months)
+Objective
+Our objective for this phase was to refine and clarify the
+preliminary list of 54 BCTs [5] and develop thenomenclature.
+Participants
+Participants will comprise expert users, includingresearchers who design and evaluate complex behaviourchange interventions, and practitioners who apply theBCTs. Whilst for this method a (homogeneous) panelsize of 12 optimises efficiency and reliability [27], wewill allow a slightly larger group to ensure representa-tion of a range of disciplinary perspectives. We will also
+allow for an increase in the number of people surveyed
+at subsequent stages of the survey as appropriate.
+Method
+The Delphi method [28], a consensus developmentmethod that uses two-way, iterative informationexchange, will be used. The study material will beprepared by the project researcher, who will agree withthe investigators on initial working definitions for the 54BCTs reliably extracted from textbooks. We will askpanelists to read the list, identify redundancy in the beha-viour change techniques, clarify any remaining techniquesthat are unclear as far as possible by redefinition or add-
+ing or subtracting components, and identify any omitted
+BCTs. We will then present panelists with the refined listof techniques, with each technique having its key defini-tional attributes highlighted. In a formal questionnairesurvey, we will ask them to rate (on a 1 to 9 scale) thefollowing: (a) for each highlighted attribute within eachtechnique, whether it is necessary; (b) whether there areany attributes that are missing, and if so, what they are;
+(c) for each overall technique as a whole, whether it is
+clear, precise, and distinct; (d) if their answers to (c) areratings of 6 or lower, they will be asked whether theirscores on (a) and (b) explain their low score on (c). Thiswill allow us to amend technique definitions. Any techni-que that is rated by the panel as being appropriatelydefined, having no missing attributes, and being clear,precise, and distinct (as judged by ratings of 7 or more)
+will be judged to be defined. The remaining techniques
+will be elaborated on and/or refined in response to thefirst round of scoring and will then be sent to the panelagain, with the same questions asked. BCTs that are stillnot viewed as being defined adequately after this secondround will be examined to ascertain whether a furtherround is likely to generate a consensual definition. Tech-niques with scores from 4 to 9 may be subject to a
+further round. BCTs that attract a wide range of ratings
+(particularly in the 1 to 6 range), with no obvious agree-ment, will be regarded as indefinable. We estimate thatthis task will take each expert two hours for the firstround and one hour for subsequent rounds.
+Analyses
+The ratings will allow the key definitional characteristics
+of each technique to be identified. Group scores of the
+ratings for clarity, precision, and distinctiveness andindices of spread will be calculated. The investigatorswill complete further work on poorly understood orpoorly defined BCTs to split them into componentparts, relabel them, or reject them as indefinable.
+Product
+The result of this analysis will be a refined list of dis-tinct, clearly and precisely defined BCTs ( e.g., ‘graded
+task ’might be defined as ‘1. set easy tasks to perform; 2.
+set increasingly difficult ta sks; 3. until target behaviour
+is performed ’). On the basis of redundancy and overlap
+in preliminary searches, we anticipate that fewer than 90BCTs will be defined through this process.Michie et al .Implementation Science 2011, 6:10
+http://www.implementationscience.com/content/6/1/10Page 4 of 8
+Phase 2: addressing objective 2: evaluating the
+nomenclature
+Phase 2a: nomenclature training resource materials (sixmonths)
+Using the results of phase 1, we will prepare the materi-
+als needed for phase 2, a preliminary nomenclaturemanual that includes the list of labels and definitions,and develop the instructions for phases 2b and 2c andtraining videos for phase 2c.
+Phase 2b: decoding/interpreting behaviour change
+intervention protocols (four months)
+This phase will generate empirical data to examine
+whether the list of BCTs leads to reliable identificationof BCTs that can be generalised to a range of beha-viours and populations.
+Research questions
+1. Do researchers agree about BCTs used in publisheddescriptions of behaviour change interventions?2. Are these judgments reliable over time?3. Are the proposed labels and definitions acceptableto research users?
+Participants
+Participants will be 48 expert coders (half systematicreviewers, half primary r esearchers), each coding 20
+protocols.
+Materials
+We will use 40 published behaviour change interventionprotocols (to allow a range of interventions sampled acrosshealth, illness, and healthcare). We will sample protocols
+from journals that meet the criteria of being interdisciplin-
+ary, high profile, including in terventions targeting three
+groups (people who are healthy, ill, and health profes-sionals), and targeting a broad range of behaviours. Wepropose to include protocols published between 2006 and2008: BMC Public Health (51 protocols published between
+2006 and 2008), BMC Health Services Research (33 proto-
+cols published between 2006 and 2008), Implementation
+Science (33 protocols published between 2006 and 2008),
+plus protocols from studies published in the Annals of
+Behavioral Medicine and the British Medical Journal .
+Procedure
+Coders will be trained to u se the nomenclature and be
+contacted to discuss any questions raised by it. For each of40 interventions, each coder will indicate where a techni-
+que was used, which technique was used, and rate their
+confidence that it was used correctly. Coders will be askedto return all materials; one month later, they will beasked to repeat the coding task for the same interventionprotocols (this will involve each expert for up to two days).There will be 12 randomly allocated pairs of coders, sothat each protocol will be separately coded by 24 research-ers, giving 12 sets of interrater reliability statistics for eachof 40 protocols. The 480 reliability data points (12 pairs ×40 protocols) generated are sufficient to assess reliability
+with a 0.2 confidence interval [29].
+Analyses
+For each protocol, we will es tablish whether the two
+experts agree on which BCTs have been used and whether
+each expert identifies the same BCTs at a second timepoint. Agreement will be measured by a series of kappastatistics to assess interrater reliability of technique identi-
+fication at time 1 and at time 2 and within-rater test-retest
+reliability (http://www.psychassessment.com.au/ [accessed5.5.08]). The sample size needed was calculated using thegoodness-of-fit approach for sample size estimation [29].For a null hypothesis of a kappa of 0.6 ( i.e., substantial
+agreement using the Landis and Koch classification [30])versus an alternative hypothesis of kappa not equal to 0.6,a probability of rating success of 0.1, alpha = 0.05, power =
+0.80, the required sample size was calculated to be 51. We
+will examine reliability ranges across type of coder (pri-mary researcher, systematic reviewer) and type of protocol(target population, behaviour, length, etc.), using intraclasscorrelations (ICCs). No data are available to allow the cal-culation of an ICC for coders. However, we anticipate thatthe impact of clustering, if present, will be small. We willcalculate an ICC on the data that we gather in order to
+inform the interpretation of the data.
+Acceptability/usability of the methodology
+The experts will rate their experience of using the
+nomenclature to interpret behaviour change interven-tions (time taken, level of difficulty, and specific pro-blems encountered) and will use rating scales to ratetheir attitude towards, confidence in, and intention to
+use the nomenclature. They will be asked to identify
+BCT definitions that remain unclear. This informationwill be used to clarify and refine the presentation anddefinitions of the nomenclature. Any ambiguitiesreported by the experts will inform the rewording of thetechnique descriptions to enhance clarity.
+Phase 2c: encoding/writing behaviour change intervention
+protocols (six months)
+Research questions
+1. Does using the nomenclature lead to clearer, more
+replicable protocols?2. Do experts independently rate the intervention tobe the same when different people write the protocol?3. Is the nomenclature acceptable to users?Michie et al .Implementation Science 2011, 6:10
+http://www.implementationscience.com/content/6/1/10Page 5 of 8
+Materials
+We will use three videos showing sections of behaviour
+change interventions, with two people (practitioner andparticipant) role-playing a range of BCTs.
+Participants
+Twenty-six expert intervention designers that were notinvolved in phase 2b will participate: 20 will write, and 6will rate intervention protocols (estimated time per
+expert: one day).
+Procedures
+The 20 writers will be randomly allocated to use the
+nomenclature (n = 10) or not (n = 10) and will each bepresented with videos of three interventions incorporat-ing a range of BCTs. They will be asked to write adescription of each intervention ’s content in such a way
+that the intervention could be understood and replicatedby others, resulting in 60 descriptions (20 for each inter-vention). The six raters will each receive a random sam-p l eo f2 0o ft h e6 0d e s c r i p t i o n sa n db ea s k e dt os o r tthem into groups that describe the same interventionusing Q sort (this method enables one to detect sharedways of thinking and is especially suited where items arecomplex and partially overlapping) [31]. Raters will also
+judge each intervention description on rating scales
+measuring (a) ease of understanding, (b) adequacy ofinformation required to undertake a replication, and (c)ease of identification of discrete BCTs. Acceptability willbe evaluated as in phase 2b.
+Analysis
+Analyses of variance will be used for each of the three
+rating scale outcomes to identify whether (as predicted)
+availability of the nomenclature leads to better-writtenintervention descriptions. The Q-sort data will be ana-lysed to ascertain whether there is greater agreementabout the similarity of different descriptions of the sameintervention in the nomenclature group than in thenonnomenclature group. One hundred and twenty datapoints (20 writers × three videos × two raters) are ade-
+quate for analysis: For analysis of variance, the required
+number of data points for nomenclature versus nonomenclature and two replications (each protocol isjudged by two raters) is 90 for a between-rater correla-tion = 0.4 (or N = 116 for correlation = 0.8) and power=0 . 8 ,w i t ha l p h a=0 . 0 5a n dm e d i u me f f e c ts i z e=0 . 2 5 .For Q-sort methods, five raters would give reliability =0.83, assuming correlation between raters of 0.5 [32].
+Phase 3: addressing objective 3: prototype nomenclature
+(two months)
+The outputs of phase 2 will be used to select the BCTs
+with demonstrable reliability (our preliminary workshowed > 90% BCTs were reliable) for both identifyingand reporting behaviour change interventions. We willproduce a manual including the nomenclature with defi-nitions and guidance on its u se, evidence of consensus,
+evidence of reliability, and usability of each BCT, illu-
+strated with examples from effective interventions.
+Members of the team have developed this type of man-
+ual, with different content , for researchers to use (see
+http://www.rebeqi.org). This previous manual was disse-minated using some of the strategies described belowunder ‘Dissemination and Implementation ’and has sub-
+sequently been downloaded f rom the host website over
+25,000 times since 1 January 2006.
+Cross-phase stream: addressing objective 4: dissemination
+and implementation of the prototype nomenclature(eight months over the whole three years of the study)
+Our goal is to maximise awareness, understanding, and
+use of the nomenclature in the development, evidencesynthesis, and reporting of complex interventions. Thiswill be achieved by disseminating evidence about thebenefits of the nomenclature and how to use it, promot-
+ing change in current practice, and developing the
+nomenclature further.
+Stakeholders
+Within the first year, we will convene a meeting/tele-conference with representatives from all stakeholders tooptimise our implementation and dissemination strategyand build alliances with key initiatives to raise the pro-
+file of the nomenclature ( e.g., US Society of Behavioral
+Medicine ’s Evidence Based Medicine initiative).
+International advisory group
+We will establish an international advisory group to pro-
+vide input and advice at key points over the three yearsof the study. Members will be leading experts inresearching behaviour change methods.
+Publications
+Throughout the study, we will increase awareness aboutthe nomenclature and its benefits to researchers, practi-tioners, policy makers, academic and professionalbodies, funders, and journal editors through conferencepresentations, editorials, and peer-reviewed publicationsin academic and professional journals and MRC Net-
+work . We will also provide updates to stakeholders after
+each phase.
+Resources
+We will increase understanding and use of the nomen-clature among scientists, intervention designers, andpractitioners by providing (a) a web-based handbookand resources for skills training ( e.g., video recordings ofMichie et al .Implementation Science 2011, 6:10
+http://www.implementationscience.com/content/6/1/10Page 6 of 8
+simulated interventions) and (b) training and engage-
+ment workshops providing supervised experience andrecruiting through charities ( e.g., Cancer Research UK,
+British Heart Foundation), academic bodies ( e.g.,U K
+Society for Behavioural Medicine), professional bodies(e.g., Royal College of General Practitioners), and the
+National Institute for Health and Clinical Excellence ’s
+Centre for Public Health Excellence.
+Networking
+We will promote action by funders and journal editorsthrough our personal, profe ssional and scientific net-
+works ( e.g., WIDER).
+Wiki
+We will promote further development of the nomencla-ture by upgrading and disseminating relevant evidenceand asking the wider complex-interventions scientificcommunity to provide feedback on their experiences ofusing it on an interactive w eb-based platform (Wiki)
+that allows ongoing iterative development by user feed-back and interaction.
+We have already begun working with journal editors
+to change editorial policy ( e.g., Implementation Science
+and Addiction ) so that detailed specification of interven-
+tion content is required for publication [33-36].
+We have started the development of a Wiki of BCTs
+to provide a web-based interactive resource to facilitatefuture collaboration and consensus development inrefining the tools beyond the life of the proposed
+research. A pilot doctoral p roject has engaged 21 parti-
+cipants, providing very useful and relevant data (see
+interventiondesign.eu).
+Ethics and research governance
+The conduct of the study will conform to relevant ethi-cal and legal guidelines covering consent, confidentiality,and the storage of data. Ethics approval was obtained
+from University College London (Number: CEHP/
+2010A/005).
+Data preservation for sharing
+All data will be preserved and its availability for use byother research teams will be publicised via the websiteresource and as part of our dissemination work. Thedata will be suitable for further analysis both in primary
+research and in meta-analyses. The data will be prepared
+to allow independent usage. We will institute an auto-
+matic registration system to track usage of the database.
+Acknowledgements
+The project is funded by the UK Medical Research Council (Grant number
+G0901474).Author details
+1Department of Clinical, Educational and Health Psychology, University
+College London, London, UK.2Peninsula College of Medicine and Dentistry,
+Exeter, UK.3Institute of Health & Society, Newcastle University, Newcastle,
+UK.4Health Services Research Unit, University of Aberdeen, Aberdeen, UK.
+5Department of Public Health and Primary Care, University of Cambridge,
+Cambridge, UK.
+Authors ’contributions
+All authors contributed to the ideas in this protocol. SM led the writing, and
+all authors contributed to drafts and approved the final version.
+Competing interests
+MPE is Co-Editor in Chief of Implementation Science . All decisions on this
+manuscript were made by another editor.
+Received: 29 November 2010 Accepted: 7 February 2011
+Published: 7 February 2011
+References
+1. Davidson KW, Goldstein M, Kaplan RM, Kaufmann PG, Knatterud GL,
+Orleans CT, Spring B, Trudeau KJ, Whitlock EP: Evidence-based behavioral
+medicine: what is it and how do we achieve it? Ann Behav Med 2003,
+26(3) :161-171.
+2. Craig P, Dieppe PA, Macintyre S, Michie S, Nazareth I, Petticrew M:
+Developing and evaluating complex interventions: the new Medical
+Research Council guidance. BMJ 2008, 337:979-983.
+3. Boutron I, Moher D, Altman DG, Schulz KF, Ravaud P: Extending the
+CONSORT Statement to Randomized Trials of NonpharmacologicTreatment: Explanation and Elaboration. Ann Intern Med 2008,
+148:295-309.
+4. Foy R, Eccles M, Jamtvedt G, Grimshaw J, Baker R: What do we know
+about how to do audit and feedback? Pitfalls in applying evidence froma systematic review. BMC Health Services Research 2005, 5:50.
+5. Michie S, Johnston M, Francis J, Hardeman W, Eccles M: From theory to
+intervention: mapping theoretically derived behavioural determinants tobehaviour change techniques. Applied Psychology 2008, 57:660-680.
+6. Kok G, Schaalma H, Ruiter R, Van Empelen P, Brug J: Intervention mapping:
+protocol for applying health psychology theory to preventionprogrammes. Journal of Health Psychology 2004, 9:85-98.
+7. Michie S, Abraham C, Whittington C, McAteer J, Gupta S: Effective
+techniques in health eating and physical activity interventions: A meta-regression. Health Psychol 2009, 28(6) :690-701.
+8. Albaraccin D, Gillette JC, Moon-Ho H, Earl AN, Glasman LR, Durantini MR: A
+test of major assumptions about behaviour change: a comprehensivelook at the effects of passive and active HIV-prevention interventionssince the beginning of the epidemic. Psychiatr Bull 2005, 131:856-897.
+9. de Bruin M, Viechtbauer W, Hospers HJ, Schaalma HP, Kok G: Variability in
+standard care quality of HAART-adherence studies: implications for theinterpretations and comparison of intervention effects. Health Psychol
+2009, 28(6) :668-674.
+10. Jolly K, Bradley F, Sharp SM, Smith H, Thompson S, Kinmonth AL, Mant D:
+Randomised controlled trials of follow up care in general practice ofpatients with myocardial infarction and angina: final results of the
+Southampton Heart Integrated Care Project (SHIP). BMJ 1999,
+318(7185) :706-711.
+11. Pyke SD, Wood DA, Kinmonth AL, Thompson SG: Change in coronary risk
+and coronary risk factor levels in couples following lifestyle intervention.
+British Family Heart Study. Arch Fam Med 1997, 6(4):354-360.
+12. Imperial Cancer Research Fund OXCHECK Study Group: Effectiveness of
+health checks conducted by nurses in primary care: final results of the
+OXCHECK study. BMJ 1995, 310:1099-1104.
+13. Jamtvedt G, Young JM, Kristoffersen DT, Thomson O ’Brien MA, Oxman AD:
+Audit and feedback: effects on professional practice and health care
+outcomes. The Cochrane Database of Systematic Reviews 2004, Issue 3, Art.
+No.: CD000259. DOI 10.1002/14651858;.
+14. Michie S, Abraham C: Interventions to change health behaviours:
+evidence-based or evidence-inspired? Psychol Health 2004, 19(1) :29-49.
+15.
+Abraham C, Michie S: A taxonomy of behavior change techniques used
+in interventions. Health Psychol 2008, 27(3) :379-387.Michie et al .Implementation Science 2011, 6:10
+http://www.implementationscience.com/content/6/1/10Page 7 of 8
+16. Kanfer FH, Goldstein AP: Helping people change: a textbook of methods. 3
+edition. Oxford: Pergamon; 1986.
+17. Araujo-Soares V, McIntyre T, MacLennan G, Sniehotta FF: Development and
+exploratory cluster-randomised opportunistic trial of a theory-based
+intervention to enhance physical activity among adolescents. Psychology
+& Health 2009, 24(7) :805-822.
+18. Michie S, Jochelson K, Gridle C, Markham W: Low income groups and
+behaviour change interventions: a review of intervention content,effectiveness and theoretical frameworks. J Epidemiol Community Health
+2009, 63:610-622.
+19. Dombrowski SU, Sniehotta FF, Avenell A, MacLennon G, Ara ύjo-Soares V:
+Identifying active ingredients in complex behavioural interventions forobese adults with obesity-related co-morbidities or additional riskfactors for co-morbidities: a systematic review. Health Psychol .
+20. Michie S: Behaviour change: theory, evidence and application. Annual
+Conference of the BPS Division of Health Psychology 2007; Nottingham 2007.
+21. Hardeman W, Griffin S, Johnsoton M, Kinmonth A, Wareham NJ:
+Interventions to prevent weight gain: a systematic review ofpsychological models and behaviour change methods. International
+Journal of Obesity and Related Metabolic Disorders 2000, 2:131-143.
+22. Abraham C, Kelly M, Robert W, Michie S: Public Health Guidance on
+Behaviour Change. Psychology, Health & Medicine 2009, 14:1-8.
+23. Elasy TA, Ellis SE, Brown A, Pichert JW: A taxonomy for diabetes
+educational interventions. Patient Education and Counselling 2001,
+43:121-127.
+24. Moher M, Hey K, Lancaster T: Workplace interventions for smoking
+cessation. Cochrane Database of Systematic Reviews 2007.
+25. McKenzie J, French SD, O ’Connor D, Grimshaw J, Mortimer D, Michie S,
+Francis J, Spike N, Schattner P, Kent PM, et al:IMPLEmenting a clinical
+practice guideline for acute low back pain evidence-based
+manageMENT in general practice (IMPLEMENT: cluster RCT study
+protocol. Implementation Science 2008, 3:11.
+26. Ory MG, Jordan PJ, Bazarre T: The Behavior Change Consortium: setting
+the stage for a new century of health behavior-change research. Health
+Education Research 2002, 17:500-11.
+27. Murphy MK, Black NA, Lamping DL, McKee CM, Sanderson CFB, Askham J,
+Marteau T: Consensus development methods, and their use in clinical
+guideline development. Health Technol Assess 1998, 2(3).
+28. Pill J: The Delphi method: substance, context, a critique and an
+annotated bibliography. Socio Econ Plan Sci 1971, 5:57-71.
+29. Donner A, Eliasziw M: A goodness-of-fit approach to inference
+procedures for the kappa statistic: confidence interval construction,significance-testing and sample size estimation. Stat Med 1992,
+11:1511-1519.
+30. Landis JR, Koch GG: The measurement of observer agreement for
+categorical data. Biometrics 1977, 33:159-174.
+31. Brown SR: Q-technique and method: principles and procedures. InNew
+tools for social scientists: advances and applications in research methods.Edited by: Berry WD, Lewis-Beck MS. Beverley Hills: Sage; 1986.
+32. Block J: The Q-sort method in Personality Assessment and Psychiatric Research
+Illinois USA: Charles Thomas Publisher; 1961.
+33. Gardner B, Whittington C, McAteer J, P EM, Michie S: Using theory to
+synthesise evidence from behaviour change interventions: the exampleof audit and feedback. Social Science & Medicine 2010, 70(10) :1618-1625.
+34. Michie S, Abraham C: Advancing the science of behaviour change: a plea
+for scientitic reporting. Addiction 2008, 103:1409-1410.
+35. Michie S, Fixsen D, Grimshaw J, P EM: Specifying and reporting complex
+behaviour change interventions: the need for a scientific method.Implementation Science 2009, 4(40) .
+36. West R: Providing full manuals and intervention descriptions: addiction
+policy. Addiction 2008, 103(9) :1411-1411.
+doi:10.1186/1748-5908-6-10
+Cite this article as: Michie et al.:Strengthening evaluation and
+implementation by specifying components of behaviour changeinterventions: a study protocol. Implementation Science 2011 6:10.Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at 
+www.biomedcentral.com/submitMichie et al .Implementation Science 2011, 6:10
+http://www.implementationscience.com/content/6/1/10Page 8 of 8

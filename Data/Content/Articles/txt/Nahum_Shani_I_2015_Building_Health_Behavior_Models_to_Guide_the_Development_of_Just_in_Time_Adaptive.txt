@@ -1,0 +1,742 @@
+Building health behavior models to guide the development of 
+just-in-time adaptive interventions: A pragmatic framework
+Inbal Nahum-Shani ,
+Institute for Social Research, University of Michigan
+Eric B. Hekler , and
+School of Nutrition and Health Promotion, Arizona State University
+Donna Spruijt-Metz
+Center for Economic and Social Research, University of Southern California
+Inbal Nahum-Shani: Inbal@umich.edu; Eric B. Hekler: ehekler@asu.edu; Donna Spruijt-Metz: dmetz@usc.edu
+Abstract
+Advances in wireless devices and mobile technology offer many opportunities for delivering just-
+in-time adaptive interventions (JITAIs)--suites of interventions that adapt over time to an 
+individual’s changing status and circumstances with the goal to address the individual’s need for 
+support, whenever this need arises. A major challenge confronting behavioral scientists aiming to 
+develop a JITAI concerns the selection and integration of existing empirical, theoretical and 
+practical evidence into a scientific model that can inform the construction of a JITAI and help 
+identify scientific gaps. The purpose of this paper is to establish a pragmatic framework that can 
+be used to organize existing evidence into a useful model for JITAI construction. This framework 
+involves clarifying the conceptual purpose of a JITAI, namely the provision of just-in-time 
+support via adaptation, as well as describing the components of a JITAI and articulating a list of 
+concrete questions to guide the establishment of a useful model for JITAI construction. The 
+proposed framework includes an organizing scheme for translating the relatively static scientific 
+models underlying many health behavior interventions into a more dynamic model that better 
+incorporates the element of time. This framework will help to guide the next generation of 
+empirical work to support the creation of effective JITAIs.
+Introduction
+Advances in mobile technology offer many opportunities for delivering interventions that 
+accommodate an individual’s immediate needs ( Riley et al., 2011 ). The term just-in-time 
+adaptive interventions  (JITAIs) ( Spruijt-Metz & Nilsen, 2014 ) is used to describe a suite of 
+interventions that adapt over time to an individual’s time-varying status, with the goal to 
+address the individual’s changing needs for support. The widespread, everyday use of 
+technologies such as mobile phones, smartphones, laptops and tablets, along with the variety 
+of sensors included in these tools (e.g., accelerometer, GPS, light sensor, microphone) make 
+these interventions increasingly more feasible. Further, mobile health (mHealth) 
+HHS Public Access
+Author manuscript
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Published in final edited form as:
+Health Psychol . 2015 December ; 34(0): 1209–1219. doi:10.1037/hea0000306.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+interventions that provide timely support exist for a wide range of behavioral health issues, 
+such as physical activity (King et al. 2013), alcohol use ( Gustafson et al., 2014 ), smoking 
+cessation ( Riley, Obermayer, & Jean-Mary, 2008 ), obesity ( Patrick et al., 2009 ), and mental 
+illnesses ( Ben-Zeev et al., 2014 ). These interventions are either used as standalone programs 
+or in conjunction with traditional treatments ( Price et al., 2014 ; Ben Zeev et al., 2014 ).
+Despite their appealing nature, a major gap exists between the technological capacity to 
+deliver JITAIs and existing health behavior models. Establishing a scientific model is an 
+important step in developing interventions ( Collins, Murphy, & Bierman, 2004 ). The models 
+currently used to guide the design behavioral interventions largely emphasize static 
+relationships, focusing on risk and protective factors that change relatively slowly, such as 
+psychiatric diagnoses, or not at all, such as past high-risk behaviors ( Spruijt-Metz et al., 
+2015 ). JITAIs, however, seek to address risk and protective factors that change (often 
+rapidly) over time, such as mood, location and social interactions ( Csikszentmihalyi & 
+Rathunde, 1993 ). A major challenge concerns the integration of existing knowledge on 
+health behavior or mechanisms of behavior change into a scientific model that can inform 
+the construction of a JITAI.
+The aim of this paper is to establish a pragmatic framework that can be used to organize 
+existing and new evidence into a useful model for JITAI construction. This framework can 
+help JITAI developers think through key factors and effects in a way that can inform the 
+design of JITAIs and guide further empirical work. We first clarify the conceptual purpose 
+of a JITAI and review its elements. We then offer questions to guide the establishment of a 
+useful scientific model. We conclude with a discussion of limitations and directions for 
+future research.
+What is a JITAI?
+To clarify the conceptual purpose of JITAIs, we elaborate on the two key concepts that 
+distinguish these interventions from standard intervention designs: just-in-time  and adaptive .
+Just-In-Time (JIT)
+The concept JIT has long traditions in various fields. For example, in industrial management 
+and operation research, JIT is a philosophy that seeks to “produce the right item, at the right 
+time, in the right quantities” ( Canel, Rosen & Anderson, 2000 , pp.52). It is based on a 
+management plan that emphasizes continuous improvement and eliminates “waste”— 
+defined as anything that does not add value to the product. In education, the term JIT is 
+rooted in instructional approaches that focus on real-life  tasks as the driving force for 
+learning. Because these tasks and the real-life context in which they are performed involve 
+high cognitive load, these approaches emphasize the need to take the limited human-
+processing capacity into account. Hence, strategies for scaffolding include JIT support, 
+meaning providing the type of support needed, precisely when needed, and only when 
+needed (Merrienboer, Kirschner, & Kester, 2003). Overall, these and other traditions (e.g., 
+Drews et al., 2007 ; Karolak & Karolak, 1995 ), conceptualize JIT as the effective provision 
+of timely support, operationalized by offering the type of support needed, precisely when Nahum-Shani et al. Page 2
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+needed, in a way that minimizes waste (i.e., anything that does not benefit the person) and 
+accommodates the real-life setting in which support is needed.
+We build on the traditions above, as well as others (e.g., Morris, Intille & Beaudin, 2005 ) to 
+define the JIT approach in the context of health behavior interventions as the precise 
+provision of support whenever the person is (a) vulnerable and/or open to positive changes, 
+and (b) receptive. To make this concrete, throughout the paper we discuss the case of ‘Joe,’ 
+an employed individual who engages in hazardous drinking (HD)1 mainly after work hours 
+and weekends.
+State of vulnerability/opportunity— Stress-vulnerability and coping theories (e.g., 
+Lazarus, 1993 ; Zubin & Spring, 1977 ) conceptualize a vulnerable state as the person’s 
+transient tendency to experience adverse health outcomes or to engage in maladaptive 
+behaviors. A vulnerable state is a function of the interplay between relatively stable factors 
+(e.g., socioeconomic status) and more dynamic factors ranging from relatively rare major 
+life events (e.g., unemployment), to more transient experiences (e.g., conflict with 
+coworkers).
+For example, consider a scenario where Joe, an adult child of an alcoholic parent, 
+experiences a conflict with a coworker. The interplay between Joe’s (stable) pre-dispositions 
+for HD and the (dynamic) stressful experiences at work mark a state of vulnerability to HD. 
+That is, these condictions increase the chances that Joe will engage in HD at the end of the 
+work day. To break the link between the vulnerable state and HD, JIT support might be 
+provided to help Joe regulate the negative emotions induced by the conflict (e.g., in the form 
+of a recomandation to engage in emotion–regulation excecises).
+With regard to opportunities for positive change, various learning and motivational theories 
+highlight the importance of concepts such as shaping (i.e., training by reinforcing 
+successively improving approximations of a desired behavior: Bouton, 2007 ; Ferster & 
+Skinner, 1957 ) and teachable moments (i.e., a time when a person is more likely to 
+internalize information and take action; e.g., Fisher, Piazza, & Roane, 2011 ). The underlying 
+assumption is that in order to facilitate improvement in some behavioral or cognitive 
+domain, it is important to identify transient oportunities for learning and provide the type of 
+support needed, only when needed in order to gradually move the person’s actions/
+cognitions in the desired direction.
+For example, when Joe is in a bar with his friends, JIT support might be provided in the 
+form of questions (delivered via an app notification) that help Joe become more aware of his 
+drinking, learn how it is influenced by his friends, and reflect on potential consequences (see 
+Walters et al., 2009 ).
+State of receptivity— To further minimize waste and accommodate the real-life setting in 
+which support is often needed, it is critical to ensure that the person is in a state where s/he 
+is receptive to support. Integrating research in the area of supportive communication and 
+1Hazardous (or “at-risk”) drinking is defined as drinking above the National Institute on Alcohol Abuse and Alcoholism low risk 
+guidelines: ≤14 drinks per week and ≤4 drinks per occasion for men, and ≤7 drinks per week and ≤3 drinks per occasion for women.Nahum-Shani et al. Page 3
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+ubiquitous computing (e.g., Ho & Intille, 2005 ; McIntosh, Seaton, & Jeffrey, 2007 ; Sarker et 
+al., 2014 ), we define receptivity as the conditions in which the person can receive, process, 
+and use the support provided. A variety of facets can impact receptivity.
+The dual process theory of supportive communication outcomes ( Burleson, 2009 ) suggests 
+that receptivity is a function of two elements. The first– the nature of support – emphasizes 
+how demanding the support is on the individual. This is influenced by aspects related to the 
+type and the design of support, including the content (e.g., complicated messages would be 
+more demanding), the media deployed (e.g., text, video, audio; see Mohr et al., 2014 ) and 
+the use of paraverbal and/or nonverbal cues that are less cognitively demanding (e.g., 
+images or colors that trigger specific associations or heuristics; see Castelo et al., 2012 ; 
+Evans, 2008 ; Friesen, Hamel & McLeod, 2013 ). The second – the recipient’s ability or 
+motivation to receive, process and use the support  – can be influenced by stable (e.g., 
+personality, working memory capacity) and dynamic factors (e.g., emotions, presence of 
+distracters; Burleson, 2009 ).
+Research in human-computer interaction articulates ways to enhance motivation/ability by 
+improving the usability of interventions. For example, Consolvo, McDonald, and Landay 
+(2009)  generated eight guidelines (e.g., abstract and reflective, unobtrusive) to guide the 
+design of support for real-world use. Other research has focused on the balance between 
+perceived usefulness/value and perceived burden of support (e.g., Polonsky, Fisher, Hessler, 
+& Edelman, 2014 ), along with heuristics to simplify supportive content ( Fogg, 2009 ).
+An important facet to consider with regard to receptivity is the ethics of intervening in a 
+real-life setting. Ethical considerations such as privacy, confidentiality, safety and the 
+general welfare of the recipient might lead to the decision not to provide certain types of 
+support (although they are needed), or to modify the type of support provided (including the 
+media deployed to deliver support: Kjeldskov, Skov, Als, & Høegh, 2004 ). For example, if 
+Joe is experiencing distress2 while driving a car, it might not be safe to deliver an emotion-
+regulation recommendation in the form of a text message because Joe might get distracted; 
+and if Joe is experiencing distress while in a meeting, providing an emotion-regulation 
+recommendation in the form of a phone call or a ping might be disruptive ( De Costa et al., 
+2010 ).
+Other evidence can help explain (e.g., Naughton, Jamison, & Sutton, 2013 ), and devise 
+strategies for addressing (e.g., systems that manage mobile phone interruptions: Zulkernain, 
+Madiraju, & Ahamed, 2010 ) unreceptivity, building the foundation for future research 
+aiming to identify and accommodate conditions in which a person might not be receptive to 
+specific types of support.
+Adaptation
+The discussion above suggests that JIT support can be operationalized by offering the right 
+type of support only when the person is (a) vulnerable or open to positive changes, and (b) 
+receptive to support. This requires a strategy for adapting support provision.
+2Distress is defined as a discomforting mental state experienced in response to stress exposure ( Kessler, 1979 ).Nahum-Shani et al. Page 4
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+For clarity, we use the term individualization  to describe the use of information about the 
+individual to make decisions concerning when, where and how to intervene. We distinguish 
+between individualization that is static , where relatively stable information (e.g., gender, 
+baseline severity of symptoms) is used to make intervention-related decisions (e.g., to offer 
+intervention package A or B); and dynamic , where time-varying information (e.g., changes 
+in psychological distress, response to an intervention) is used to make intervention decisions 
+during the course of the intervention (e.g., changing the type, dosage, or timing of support). 
+The term adaptive  is used to describe this dynamic form of individualization ( Collins et al., 
+2004 ).
+Building on the above terminology, we conceptualize the JITAI as an intervention design 
+that uses a dynamic form of individualization to operationalize the provision of JIT support. 
+JITAIs operationalize the individualization of support provision based on ongoing 
+assessments of the individual’s state and ecological context. The goal is to offer the right 
+type of support precisely when, and only when, the person is in a state of vulnerability/
+opportunity and receptivity. For example, in the case of Joe, adaptation might be in the form 
+of using ongoing information about Joe’s emotions, behaviors and context to trigger a 
+recommendation only when Joe is experiencing distress (state of vulnerability) and is not 
+driving a car (state of receptivity).
+The detection of such states, and hence the feasibility of JITAIs, becomes increasingly 
+possible with the growing availability of technology such as wearable and ubiquitous 
+computing sensors (e.g., wearable activity monitors, home automation systems such as a 
+smart thermometer), mobile-phone-based sensing (e.g., GPS, light sensors, microphones), 
+digital footprints (e.g., social media interactions, email, digital calendars), and low-effort 
+self-reporting (e.g., ecological momentary assessment [EMA]) ( Hekler, Klasnja, Traver, & 
+Hendriks, 2013 ).
+Elements of a JITAI
+With the conceptual purpose of a JITAI established, we turn to its key elements (see 
+Nahum-Shani et al., 2014 ). The distal outcome  is the ultimate goal of the JITAI. The 
+proximal outcomes  are the short-term goals the intervention is intended to achieve and are 
+often mediators of the distal outcome. Decision points  are times when an intervention option 
+is selected based on currently available information (e.g., at 2pm, every hour). Intervention 
+options  are the array of possible type/dose/timing/delivery-mode of support that might be 
+employed at any given decision point. Tailoring variables  are baseline and time-varying 
+information that informs which intervention option to offer at each decision point (e.g., 
+distress, driving). Finally, decision rules  operationalize the individualization by specifying 
+which intervention option to offer at each decision point. Figure 1 provides concrete 
+examples of these elements.
+The Technology-Science Gap
+Current scientific models guiding the development of health behavior interventions fail to 
+capture the dynamic processes underlying states of vulnerability/opportunity and receptivity 
+(Riley 2014 ). Even dynamic models that acknowledge the role of episodic factors in health Nahum-Shani et al. Page 5
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+behavior (see e.g., Witkiewitz & Marlatt, 2004 ) do not specify the temporal nature of each 
+factor in a way that informs when, where, or how to intervene. Although many health 
+behavior models acknowledge individual differences in response to treatment, in most cases 
+these models can only inform static individualization (i.e., using information such as age or 
+baseline symptom severity to make intervention decisions). A major step in building the 
+scientific foundation for developing effective JITAIs is to articulate a pragmatic framework 
+guided by specific questions that must be answered to create a JITAI. Below, we offer a set 
+of pragmatic questions to help JITAI developers lay out key factors and effects in a way that 
+can inform the dynamic individualization required for JIT support. These questions can be 
+used to develop and refine scientific models and inform prioritization of future studies.
+New Pragmatic Framework
+To build high quality JITAIs, existing evidence should be organized into a scientific model 
+that can help investigators identify and devise a plan to address states of vulnerability/
+opportunity and receptivity. The following questions can be used to facilitate the 
+development of such a model. For illustration, we will use a hypothetical example in which 
+an investigator wishes to build an intervention for full-time employees (ages 30–65) who 
+exhibit HD. These questions can be broken down into three areas of emphasis: (1) defining 
+the problem; (2) defining JIT in this context; and (3) formulating the adaptation strategy. 
+Figure 2 provides a conceptual summary of the proposed framework.
+Defining the Problem
+(1) Whom are you trying to help?— The goal is to identify a target population and 
+articulate key attributes of the target population that should be considered (e.g., employed 
+individuals might be unable to use time-intensive interventions at work). This step can be 
+aided by using formative work, such as clinical experience with the target population and 
+user-centered design methods (e.g., interviews, sketching to elicit opinions; Buxton, 2010 ).
+(2) What is the distal outcome of the JITAI?— This involves articulating a clinically 
+meaningful goal. In our hypothetical example, a distal outcome might be to transition 
+employees who engage in HD to non-hazardous drinking patterns in the course of a year.
+(3) What is the temporal progression of key factors towards the distal 
+outcome?— This involves articulating a dynamic model that incorporates the element of 
+time. Because this is a unique and essential step in the process of establishing a useful model 
+for constructing a JITAI, we describe this step in great detail, providing an organizing 
+scheme.
+The goal of this organizing scheme is to help JITAI developers think through key factors 
+and effects and specify their temporal progression towards the distal outcome. The term 
+temporal progression  refers to the way in which the process leading to the distal outcome 
+unfolds over time and what role each factor and effect plays. Note that progression is not 
+necessarily linear or straightforward3. The task of describing the temporal progression can 
+be simplified by using timescales to organize the key factors and their effects.Nahum-Shani et al. Page 6
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Building on theories in organizational research ( Zaheer, Albert & Zaheer, 1999 ), we define a 
+timescale as the size of the temporal interval used to build or test a theory about a process, 
+pattern, phenomenon, or event. Timescales partition the temporal continuum into units, and 
+can be conceptualized as levels in a hierarchy, with lower levels representing shorter 
+timescales, and higher levels representing longer  timescales. For example, hours can be 
+conceptualized as lower level units nested within a day, and as a higher level unit within 
+which minutes are nested. The same phenomenon can be associated with several types of 
+timescales. The meaning of the phenomenon and the relationships between factors might 
+vary depending on the timescale ( Zaheer et al., 1999 ).
+Here, we offer an approach for using timescales to organize existing and new evidence in a 
+way that can describe progression towards the distal outcome and enable investigators to 
+identify open scientific questions. This approach involves (a) identifying different time 
+scales; (b) specifying dynamics within each time scale; and (c) specifying how factors and 
+effects at different timescales are related. Below, we illustrate this approach by using a 
+relatively simplified4 hypothetical model of stress, coping and employee drinking5 (see 
+Figure 3).
+Identifying different timescales: The goal is to identify different timescales, within which 
+the process leading to the distal outcome might unfold. For example, the hypothetical model 
+in Figure 3 builds on existing evidence on stress, coping, and employee drinking to identify 
+five key timescales within which the process leading to hazardous drinking patterns is 
+expected to unfold (i.e., an hour, day, week, month and a year; where a year is the unit of the 
+distal outcome).
+Specifying dynamics within each timescale: This involves specifying what aspects of the 
+process are likely to occur within each timescale, using key factors and effects at a lower 
+level (i.e., shorter) timescale. The focus should be on describing how key factors and effects 
+are ordered and related over time.
+Returning to our hypothetical model6, the process in Figure 3 begins with hours as the 
+higher level units, seeking to describe aspects of the process that unfold between minutes or 
+several minutes (Sub-model #1). Here, we build on research suggesting that work-related 
+hassles (e.g., losing things, arguments; Kanner, Coyne, Schaefer, & Lazarus, 1981 ) can 
+occur at any given minute and generate rather immediate psychological distress ( Sinha et al., 
+2003 ). This immediate stress reaction can be attenuated to the extent that the person’s state 
+coping capacity is high (i.e., the extent to which, at a given time point, the person is able to 
+employ adaptive strategies to manage psychological stress; Lazarus, 1993 ). State coping 
+3For example, chronic disorders like depression and substance use follow a waxing and waning course, involving periods of remission 
+followed by symptom recurrence and exacerbation or relapse (and vice versa). Similarly, learning a new skill is not a linear process. 
+“The learning brain naturally assimilates concepts in a spiraling, progressive manner” ( Hamid, 2001 : 315), and the pace of learning is 
+parabolic in nature, with relatively slow early progress followed by more rapid learning ( Case & Gunstone, 2002 ).4For clarity we specified a relatively simple dynamic model; however more complex models can be specified.5Additional details and justification for this hypothetical model can be obtained from the first author.6As very limited empirical evidence exists concerning the ordering of stressors, psychological distress, and drinking behaviors 
+(Armeli, Todd, & Mohr, 2005 ), the factors and effects specified within each time scale rely heavily on existing theories and logic. 
+Still, this exercise, by design, is meant to facilitate better understanding of existing gaps in the literatureNahum-Shani et al. Page 7
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+capacity is a function of the trait coping capacity of the person ( Roesch et al., 2010 )--defined 
+as a variety of relatively stable “trait-like” attributes (e.g., hardiness, dispositional optimism) 
+that contribute to the management of stress ( Hobfoll, 1989 ; Kessler et al., 1985 ; Roesch et 
+al., 2010 ). Of course, state coping capacity is a function other important contextual 
+variables, which for simplicity are not captured in this model.
+We then move up the timescale, seeking to describe aspects of the process leading to 
+employee drinking that unfold over a day, using hours as the unit for variables and effects 
+(sub-model #2); followed by describing aspects of the process that unfold in the course of a 
+week, using days as the unit for variables and effects (sub-model #3); then describing 
+aspects of the process that unfold over a month, using weeks as the unit for variables and 
+effects (sub-model #4); and finally, describing aspects of the process that unfold over a year, 
+using months as the unit for variables and effects (sub-model #5).
+Specifying how factors and effects at different timescales are related: To facilitate this, 
+we recommend using of a “fluid analogy” ( Navarro-Barrientos, Rivera & Collins, 2010 ) to 
+illustrate the accumulation of factors and effects over time from lower level (e.g., minutes) 
+to higher level units (e.g., hours). Specifically, “tanks of fluid” can be used to describe 
+factors that accumulate over time, with smaller tanks representing lower-level (faster) 
+timescales and larger tanks representing higher level (slower) timescales. “Pipes” can be 
+used to describe how factors and effects that occur at a lower level accumulate over time to 
+form a higher level factor. For example, in Figure 3 we use these features to illustrate how 
+repeated exposure to hassles at a minute level can accumulate over time to form a new 
+factor, hourly hassles, which can accumulate over time to daily hassles and then to weekly 
+and monthly stressors (where a stressor is defined as an “aspect of the environment that is 
+demanding on an ongoing and relatively unchanging basis” Hahn & Smith, 1999 ; p.90). 
+Notice that the meaning of this phenomenon changes as we move up the timescales, since an 
+important aspect that distinguishes (chronic) stressors and hassles is the frequency with 
+which they occur over longer periods of time ( Pratt & Barling, 1988 ).
+Additionally, attention should be given to specifying how factors and effects that occur at a 
+higher level (e.g., a year) can affect factors/effects that occur later, at a lower level (e.g., a 
+minute), either directly, or by facilitating change in relatively stable factors like personality 
+traits, habits, values and chronic disorders. Returning to our illustrative model (Figure 3), in 
+sub-model #5, distress accumulated over several months is expected to attenuate the trait 
+coping capacity of the person. This is based on research suggesting that sustained or 
+repetitive exposure to stressors (i.e., chronic stress) may “trigger maladaptive changes in 
+some individuals, producing a vulnerable phenotype” that facilitates increased risk of illness 
+(Blugeot et al., 2011 , p. 12889). This illustrates how dynamics that accumulate over a long 
+period of time (e.g., months) can facilitate momentary vulnerability (e.g., poor state coping 
+capacity) by affecting more stable aspects of vulnerability (e.g., the more generalized coping 
+capacity of the person).
+(4) What are contender proximal outcomes?— The goal is to select factors that can 
+capture intermediate progress towards the distal outcome. This is an important step because, 
+as we discuss below, the proximal outcomes guide the definition of JIT in the context of the Nahum-Shani et al. Page 8
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+identified problem, as well as the formulation of the adaptation strategy. For study purposes, 
+the proximal outcomes provide intermediate metrics of response or success in achieving 
+progression from the current state (e.g., hazardous drinking) to the desired distal outcome 
+(e.g., non-hazardous drinking patterns).
+To select the proximal outcomes, investigators can build on the previously established 
+dynamic model, beginning with the shortest timescale as a starting point for this iterative 
+process. We suggest starting with the shortest timescale because targeting it might (a) 
+facilitate early prevention of “snowballing effects,” whereby a single occurrence (e.g., lapse) 
+or experience (e.g., negative mood) escalates into an adverse health outcome (e.g., total 
+relapse; Sapienza & Masten, 2011 ), and/or (b) lead to improved scaffolding strategies that 
+target short-term progress and goal attainment ( Drews et al., 2007 ).
+Returning to our example, one might begin selecting proximal outcomes by attending to 
+minute level outcomes (e.g., minute-level distress), then possible outcomes at the hour level 
+(e.g., hour-level coping capacity), then possible outcomes at the daily level (e.g., daily 
+drinking) and so on. The goal is to select proximal outcomes that are expected to have the 
+most meaningful impact on the distal outcome, and that can be influenced in a meaningful 
+manner by providing support. A JITAI can target multiple proximal outcomes 
+simultaneously.
+Defining Just in Time in the Context of the Identified Problem
+(5) What factors mark a state of vulnerability/opportunity?— The goal is to 
+identify the conditions in which a person would be more vulnerable to experiencing adverse 
+outcomes or more open to positive changes. Adverse outcomes and positive changes are 
+defined by the candidate proximal outcomes. Identifying factors that mark (i.e., capture) a 
+state of vulnerability/opportunity for a target proximal outcome can aid in the selection of 
+decision points (as well as in the selection of tailoring variables, as we discuss below).
+Returning to our example, consider minute-level distress as a candidate proximal outcome. 
+The model in Figure 3 suggests that exposure to hassles at any given minute might lead to 
+immediate reactivity in the form of distress. Hence, minute-level exposure to hassles marks 
+a state of vulnerability to minute-level distress. For this proximal outcome, a state of 
+vulnerability might occur at any minute and thus there might be a decision point every 
+minute. Practically, this requires frequent assessments of hassles to reduce missed 
+opportunities for support.
+(6) What possible intervention options can affect the proximal outcomes?—
+The focus is on identifying intervention options that (a) can affect the candidate proximal 
+outcomes; and (b) can be delivered JIT (i.e., precisely when the person is in a state of 
+opportunity/vulnerability).
+An important part of this process is to explore whether and which intervention options are 
+feasible and effective given the timescale of each candidate proximal outcome. In our 
+example, the lowest level proximal outcome is distress at the minute level but given the 
+immediacy and automaticity of physiological reactivity to stress ( Smeets et al., 2012 ; Sinha Nahum-Shani et al. Page 9
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+et al., 2003 ), it might not be feasible to intervene JIT. However, other forms of support (e.g., 
+training sessions designed to help the person learn coping skills), might be suitable for 
+improving this proximal outcome although such support is not offered precisely, and only 
+upon exposure to hassles (see Lindquist & Cooper, 1999 ).
+Turning to hour-level coping capacity as a candidate proximal outcome, empirical evidence 
+suggests that brief recommendations that integrate elements of cognitive behavioral therapy 
+(CBT) and/or acceptance and commitment therapy (ACT) can be delivered in a timely 
+manner to help individuals regulate hourly or daily negative emotions (e.g., Witkiewitz et 
+al., 2014 ; Norberg et al., 2013 ). The provision of such interventions has the potential to 
+break the link between hour-level distress (which marks a state of vulnerability) and reduced 
+coping capacity (the candidate proximal outcome). In the absence of empirically based 
+intervention options, JITAI developers can either direct efforts towards building and 
+evaluating new intervention options or attend to other candidate proximal outcomes (e.g., 
+daily drinking).
+Finally, given that in a JIT setting, support should be provided only when the person is (a) in 
+a state of vulnerability/opportunity; and (b) receptive, it is important to include a “provide 
+nothing” intervention option to minimize waste, intrusiveness, and burden ( Nahum-Shani et 
+al., 2014 ). In the current example, assume that two intervention options are considered: (1) 
+recommendation to engage in emotion-regulation techniques building on principals of CBT 
+and/or ACT ( Yovel, Mor, & Shakarov, 2014 ); and (2) provide nothing.
+(7) What factors mark a state of unreceptivity to the selected intervention 
+options?— The goal is to identify the conditions in which a person is unlikely to (or should 
+not, ethically) receive, process, or use the intervention options. As discussed above, this 
+depends on the nature of the intervention options and the factors that influence the person’s 
+ability/motivation to receive, process and use them. Some of these factors can be obvious, 
+such as the example provided above where driving a car marks a state of unreceptivity for a 
+recommendation in the form of a text-message. Other factors might be less obvious and 
+require further investigation. For example, the number of recommendations the person 
+received previously might lead to burden, and high negative affect might hinder the use of 
+emotion-regulation techniques. Additional research is needed to better define states of 
+unreceptivity to JIT interventions.
+Formulating the Adaptation Strategy
+(8) What are the tailoring variables?— The goal is to identify what information about 
+the person can be useful in deciding what intervention option to offer. The tailoring 
+variables should include factors that mark a state of vulnerability/opportunity and 
+receptivity.
+To illustrate this, consider that hourly distress marks a state of vulnerability for reduced 
+hourly coping capacity (proximal outcome). This implies that information about hourly 
+distress might be useful in identifying the conditions in which offering an emotion-
+regulation recommendation would lead to a better proximal outcome compared to offering 
+nothing. Hence, information about hourly distress can be used to decide whether an Nahum-Shani et al. Page 10
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+emotion-regulation recommendation should be offered or not. Further, given that in our 
+example driving a car marks a state of unreceptivity to this intervention option, information 
+about driving can also be used to decide whether a recommendation should be offered or 
+not. Hence, in this setting, hourly distress and driving a car might be selected as tailoring 
+variables. Throughout, practical implications related to the feasibility of properly measuring 
+the tailoring variables at the selected timescale should be taken into account ( Kumar at el., 
+2013 ).
+(9) For each possible level of the tailoring variable, which intervention option 
+is likely to have the desired effect on the proximal outcome?— The goal is to 
+think through the implications of delivering each intervention option at various levels of the 
+tailoring variables. In our example, it is expected that individuals who experienced high 
+distress in the past hour are likely to benefit from a recommendation compared to receiving 
+nothing. However, there is insufficient empirical evidence to identify the cut-point  of 
+distress that differentiates when the recommendation might be beneficial versus unnecessary 
+(i.e., providing a recommendation will lead to similar or worse proximal outcome compared 
+to providing nothing). Further research is required to identify cut-points in various 
+situations.
+(10) What plausible decision rules can be generated to operationalize effective 
+adaptation?— This final step involves the creation of appropriate decision rules that link 
+all the information above in a systematic manner. The decision rule in Figure 1 builds on 
+some of the ideas established above regarding our illustrative example.
+Discussion
+This manuscript provides a pragmatic framework for organizing existing evidence into a 
+scientific model that can guide JITAI construction. This framework builds on the idea that 
+existing evidence should be organized in a way that helps JITAI developers identify and 
+devise a plan to address states of vulnerability/opportunity and receptivity to support.
+Limitations and Further Research
+As with most organizing perspectives, our pragmatic framework is subject to limitations. 
+First, a key element in the proposed framework is using timescales to describe the 
+progression of key factors towards the distal outcome. However, extant empirical evidence 
+often does not provide insight into how key factors are ordered and related over time. This 
+gap makes identifying timescales and describing the dynamics within each timescale rather 
+challenging. Research attention should be given to implementing study designs and analytic 
+methods that directly inform how and why distal outcomes unfold over time.
+Studies that involve the collection of intensive longitudinal data can be highly useful in this 
+setting ( Bolger & Laurenceau, 2013 ). For example, study designs involving immediate 
+reporting of experiences in the everyday life of individuals (e.g., EMAs) offer many 
+opportunities for investigating dynamics within different timescales ( Stone et al. 2007 ). 
+Recent advances in mobile and wearable sensors provide many opportunities for frequent 
+monitoring with reduced burden on the participant ( Kumar et al., 2013 ).Nahum-Shani et al. Page 11
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+A challenge relating to such study designs is the volume of information they produce. As 
+noted by Kaplan and Stone (2013) , “Most psychologists were trained to use statistical 
+inference techniques designed for the study of agronomy in the 1930s. Although these 
+methods have become much more sophisticated, inferential statistics can be meaningless for 
+data sets composed of hundreds of millions of data points” (p. 492). Contemporary 
+approaches involving data mining, machine learning, control systems engineering 
+techniques, and other modern analytic methods are needed to allow JITAI developers to 
+capitalize on intensive longitudinal data to identify factors that mark a state of vulnerability/
+opportunity and receptivity (for reviews of such data analytic approaches see Smith & 
+Walls, 2015; Ye, Dobson & McKeever, 2012 ).
+A second limitation concerns the precision of existing evidence. Even when a relationship 
+between a candidate tailoring variable and a proximal outcome is well known (e.g., distress 
+is highly predictive of poor coping capacity), existing evidence often asserts merely an 
+association, lacking details about the cut-points (or levels) of the tailoring variable that 
+differentiate between conditions in which one intervention option would lead to better 
+proximal outcome compared to another. Intensive longitudinal research designs that allow 
+direct comparison of various intervention options under different levels of candidate 
+tailoring variables are needed. For example, to identify the levels of hourly distress at which 
+a recommendation will be more beneficial than the alternative, an ideal study design would 
+allow investigators to assess the causal effect of providing a recommendation compared to 
+the alternative on the proximal outcome under different levels of hourly distress. In this 
+context, Murphy and colleagues ( Liao et al., 2015 ) offer the micro-randomized trial design – 
+a form of a sequential factorial design that involves random assignment of intervention 
+options at each (of numerous) decision point(s).
+A third limitation concerns the limited behavioral research devoted to identifying markers of 
+receptivity. Insights can likely be gleaned from the field of human-computer interaction, 
+which focuses on ensuring systems are useful, usable, and enjoyable; but much more work is 
+needed. Future studies should be designed to allow the simultaneous investigation of various 
+factors that can potentially mark a state of receptivity (e.g., location, emotions, and presence 
+of other people) to a given type of support. Investigators should consider collecting 
+information following support provision such as whether support was received, attended to, 
+used, or appreciated. Throughout, ethical considerations should be reviewed and addressed, 
+in light of the intervention options under consideration and the population targeted.
+Finally, a key assumption of the current framework is that existing evidence can be used to 
+specify good (effective) decision rules a-priori. However, existing evidence is often 
+insufficient to inform the formulation of good decision rules as it does not fully capture 
+between-person and within-person variability in the conditions that mark a state of 
+vulnerability/opportunity and receptivity. Such conditions might vary from one person to 
+another and are likely to change over time within a person (e.g., as the person progresses 
+through an intervention program). Given the limited models related to how states of 
+vulnerability/opportunity and receptivity might vary between and within a person, new data 
+analytic methods are needed to improve, in real-time, the decision rules specified a priori by 
+JITAI developers. Specifically, methods are needed to analyze the ongoing information Nahum-Shani et al. Page 12
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+obtained from the person as s/he experiences the JITAI, and “train” the decision rules to 
+accommodate changes in what constitutes a state of vulnerability/opportunity and receptivity 
+for that particular person (see Dallery, Kurti & Erb, 2015 ; Kumar et al., 2013  for further 
+discussion).
+Conclusion
+The pragmatic framework proposed in this manuscript builds the foundation for defining 
+scientific models that inform the construction of JITAIs. While it offers ways to integrate 
+and build on existing evidence to inform JITAI development, it also clearly highlights the 
+scientific questions and methodological gaps that must be addressed in order to move the 
+science of JITAIs forward.
+Acknowledgments
+This project was supported by the following awards: NIH U54 EB020404 01, NIH/NIDA R01 DA039901 01, NIH/
+NIDA P50 DA039838, NIH/NIAAA R01 AA023187 01 (Nahum-Shani); NIH/SEPA R25RR032159 (Spruijt-
+Metz); NSF IIS-1449751 (Hekler).
+References
+Armeli S, Todd M, Mohr C. A daily process approach to individual differences in stress-related 
+alcohol use. Journal of Personality. 2005; 73(6):1657–1686. [PubMed: 16274449] 
+Ben-Zeev D, Brenner CJ, Begale M, Duffecy J, Mohr DC, Mueser KT. Feasibility, acceptability, and 
+preliminary efficacy of a smartphone intervention for schizophrenia. Schizophrenia Bulletin. 2014; 
+40(6):1244–1253. [PubMed: 24609454] 
+Ben-Zeev D, Schueller SM, Begale M, Duffecy J, Kane JM, Mohr DC. Strategies for mHealth 
+research: Lessons from 3 mobile intervention studies. Administration and Policy in Mental Health 
+and Mental Health Services Research. 2014:1–11. [PubMed: 24005247] 
+Blugeot A, Rivat C, Bouvier E, Molet J, Mouchard A, Zeau B, Becker C. Vulnerability to depression: 
+from brain neuroplasticity to identification of biomarkers. The Journal of Neuroscience. 2011; 
+31(36):12889–12899. [PubMed: 21900567] 
+Bolger, N.; Laurenceau, JP. Intensive longitudinal methods: An introduction to diary and experience 
+sampling research. New York, NY: Guilford Press; 2013. 
+Bouton, M. Learning and behavior: A contemporary synthesis. Sunderland, MA: Sinauer Associates; 
+2007. 
+Burleson BR. Understanding the outcomes of supportive communication: A dual- process approach. 
+Journal of Social and Personal Relationships. 2009; 26(1):21–38.
+Buxton, B. Sketching user experiences: Getting the design right and the right design. San Francisco, 
+CA: Morgan Kaufmann; 2010. 
+Canel C, Rosen D, Anderson EA. Just-in-time is not just for manufacturing: A service perspective. 
+Industrial Management & Data Systems. 2000; 100(2):51–60.
+Case J, Gunstone R. Metacognitive development as a shift in approach to learning: an in-depth study. 
+Studies in Higher Education. 2002; 27(4):459–470.
+Castelo N, Reiner PB, Felsen G. Balancing autonomy and decisional enhancement: An evidence-based 
+approach. The American Journal of Bioethics. 2012; 12(2):30–31. [PubMed: 22304517] 
+Collins LM, Murphy SA, Bierman KL. A conceptual framework for adaptive preventive interventions. 
+Prevention Science. 2004; 5(3):185–196. [PubMed: 15470938] 
+Consolvo, S.; McDonald, DW.; Landay, JA. Theory-driven design strategies for technologies that 
+support behavior change in everyday life. Proceedings of the SIGCHI Conference on Human 
+Factors in Computing Systems; ACM; 2009 Apr. p. 405-414.Nahum-Shani et al. Page 13
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Csikszentmihalyi, M.; Rathunde, K. The measurement of flow in everyday life: Toward a theory of 
+emergent motivation. In: Jacobs, JE., editor. Developmental perspectives on motivation. Vol. 40. 
+Lincoln, NE: University of Nebraska; 1993. p. 57-97.
+Dantzig S, Geleijnse G, Halteren AT. Toward a persuasive mobile application to reduce sedentary 
+behavior. Personal and Ubiquitous Computing. 2013; 17(6):1237–1246.
+Dallery J, Kurti A, Erb P. A New Frontier: Integrating Behavioral and Digital Technology to Promote 
+Health Behavior. The Behavior Analyst. 2015; 38:19–49.
+De Costa A, Shet A, Kumarasamy N, Ashorn P, Eriksson B, Bogg L, Diwan VK. Design of a 
+randomized trial to evaluate the influence of mobile phone reminders on adherence to first line 
+antiretroviral treatment in South India-the HIVIND study protocol. BMC Medical Research 
+Methodology. 2010; 10(1):25. [PubMed: 20346136] 
+Drews FA, Picciano P, Agutter J, Syroid N, Westenskow DR, Strayer DL. Development and 
+evaluation of a just-in-time support system. Human Factors: The Journal of the Human Factors 
+and Ergonomics Society. 2007; 49(3):543–551.
+Evans JSB. Dual-processing accounts of reasoning, judgment, and social cognition. Annual Review of 
+Psychology. 2008; 59:255–278.
+Fenton M, Leggio L, Kenna GA, Swift RM. HIV testing in hazardous drinking: a survey analysis. 
+Substance Use & Misuse. 2010; 45(1–2):204–212. [PubMed: 20025448] 
+Ferster, CB.; Skinner, BF. Schedules of reinforcement. East Norwalk, CT: Appleton-Century-Crofts; 
+1957. 
+Fisher, WW.; Piazza, CC.; Roane, HS. Handbook of applied behavior analysis. New York, NY: 
+Guilford Press; 2011. 
+Fogg, B., editor. A behavior model for persuasive design. Proceedings of the 4th international 
+Conference on Persuasive Technology; New York, NY: ACM; 2009. 
+Friesen MR, Hamel C, McLeod RD. A mHealth application for chronic wound care: Findings of a user 
+trial. International Journal of Environmental Research and Public Health. 2013; 10(11):6199–
+6214. [PubMed: 24256739] 
+Gustafson DH, McTavish FM, Chih MY, Atwood AK, Johnson RA, Boyle MG, Shah D. A 
+smartphone application to support recovery from alcoholism: A randomized clinical trial. JAMA 
+psychiatry. 2014; 71(5):566–572. [PubMed: 24671165] 
+Hahn SE, Smith CS. Daily hassles and chronic stressors: Conceptual and measurement issues. Stress 
+and Health. 1999; 15(2):89–101.
+Hamid AA. e-Learning: Is it the “e” or the learning that matters? The Internet and Higher Education. 
+2001; 4(3):311–316.
+Hekler E, Klasnja P, Traver V, Hendriks M. Realizing effective behavioral management of health: The 
+metamorphosis of behavioral science methods. Pulse, IEEE. 2013; 4(5):29–34.
+Ho, J.; Intille, SS. Using context-aware computing to reduce the perceived burden of interruptions 
+from mobile devices. Paper presented at the Proceedings of the SIGCHI Conference on Human 
+Factors in Computing Systems; Portland, Oregon, USA. 2005. 
+Hobfoll SE. Conservation of resources: A new attempt at conceptualizing stress. American 
+Psychologist. 1989; 44(3):513. [PubMed: 2648906] 
+Jimison, H.; Gorman, P.; Woods, S.; Nygren, P.; Walker, M.; Norris, S.; Hersh, W. Barriers and 
+drivers of health information technology use for the elderly, chronically ill, and underserved. 
+Rockville, MD: Agency for Healthcare Research and Quality; 2008. 
+Kanner AD, Coyne JC, Schaefer C, Lazarus RS. Comparison of two modes of stress measurement: 
+Daily hassles and uplifts versus major life events. Journal of Behavioral Medicine. 1981; 4(1):1–
+39. [PubMed: 7288876] 
+Kaplan RM, Stone AA. Bringing the laboratory and clinic to the community: mobile technologies for 
+health promotion and disease prevention. Annual Review of Psychology. 2013; 64:471–498.
+Karolak, DW.; Karolak, N. Software engineering risk management: A just-in-time approach. Los 
+Alamitos, CA: IEEE Computer Society Press; 1995. 
+Kessler RC. Stress, social status, and psychological distress. Journal of Health and Social behavior. 
+1979:259–272. [PubMed: 479536] Nahum-Shani et al. Page 14
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Kessler RC, Price RH, Wortman CB. Social factors in psychopathology: Stress, social support, and 
+coping processes. Annual Review of Psychology. 1985; 36(1):531–572.
+Kjeldskov, J.; Skov, MB.; Als, BS.; Høegh, RT. Mobile Human-Computer Interaction-Mobile HCI 
+2004. Berlin: Springer Heidelberg; 2004. Is it worth the hassle? Exploring the added value of 
+evaluating the usability of context-aware mobile systems in the field; p. 61-73.
+Kumar S, Nilsen WJ, Abernethy A, Atienza A, Patrick K, Pavel M, Spruijt-Metz D. Mobile health 
+technology evaluation: The mhealth evidence workshop. American Journal of Preventive 
+Medicine. 2013; 45(2):228–236. [PubMed: 23867031] 
+Lazarus RS. Coping theory and research: past, present, and future. Psychosomatic Medicine. 1993; 
+55(3):234–247. [PubMed: 8346332] 
+Liao, P.; Klasnja, P.; Tewari, A.; Murphy, SA. University of Michigan Technical Report 537. Ann 
+Arbor, MI: University of Michigan; 2015. Micro--Randomized trials in mHealth. 
+Lindquist TL, Cooper CL. Using lifestyle and coping to reduce job stress and improve health in ‘at 
+risk’ office workers. Stress and Health. 1999; 15(3):143–152.
+McGowan J, Hogg W, Campbell C, Rowan M. Just-in-time information improved decision-making in 
+primary care: A randomized controlled trial. PloS one. 2008; 3(11):e3785. [PubMed: 19023446] 
+McIntosh BS, Seaton RAF, Jeffrey P. Tools to think with? Towards understanding the use of 
+computer-based support tools in policy relevant research. Environmental Modelling & Software. 
+2007; 22(5):640–648.
+Mohr CD, Armeli S, Tennen H, Carney MA, Affleck G, Hromi A. Daily interpersonal experiences, 
+context, and alcohol consumption: crying in your beer and toasting good times. Journal of 
+Personality and Social Psychology. 2001; 80(3):489. [PubMed: 11300581] 
+Mohr DC, Schueller SM, Montague E, Burns MN, Rashidi P. The behavioral intervention technology 
+model: an integrated conceptual and technological framework for eHealth and mHealth 
+interventions. Journal of Medical Internet Research. 2014; 16(6):e146. [PubMed: 24905070] 
+Morris, M.; Intille, SS.; Beaudin, JS. Embedded Assessment: overcoming barriers to early detection 
+with pervasive computing. In: Gellersen, HW.; Want, R.; Schmidt, A., editors. Proceedings of 
+PERVASIVE 2005. Berlin Heidelberg: Springer-Verlag; 2005. p. 333-346.
+Murimi MW, Chrisman MS, Hughes K, Taylor C, Kim Y, McAllister TL. Effects of school-based 
+point-of-testing counselling on health status variables among rural adolescents. Health Education 
+Journal. 2014 0017896914552000. 
+Nahum-Shani, I.; Smith, S.; Tewari, A.; Witkiewitz, K.; Collins, LM.; Spring, B.; Murphy, S. Just-in- 
+time adaptive interventions (JITAIs): An organizing framework for ongoing health behavior 
+support. University Park, PA: The Methodology Center, Penn State; 2014. Methodology Center 
+technical report No. 14-126
+Naughton F, Jamison J, Sutton S. Attitudes towards SMS text message smoking cessation support: A 
+qualitative study of pregnant smokers. Health Education Research. 2013:cyt057.
+Navarro-Barrientos, JE.; Rivera, DE.; Collins, LM. Advances in Social Computing. Berlin Heidelberg: 
+Springer; 2010. A dynamical systems model for understanding behavioral interventions for weight 
+loss; p. 170-179.
+Norberg MM, Rooke SE, Albertella L, Copeland J, Kavanagh DJ, Lau AY. The first mHealth app for 
+managing cannabis use: Gauging its potential helpfulness. Journal of Addictive Behaviors Therapy 
+& Rehabilitation. 2013 Advance online publication. 10.4172/2324-9005.1000117
+Patrick K, Raab F, Adams MA, Dillon L, Zabinski M, Rock CL, Norman GJ. A text message–based 
+intervention for weight loss: Randomized controlled trial. Journal of Medical Internet Research. 
+2009; 11(1):e1. [PubMed: 19141433] 
+Plarre, K.; Raij, A.; Hossain, SM.; Ali, AA.; Nakajima, M.; Al’absi, M.; Wittmers, LE. Continuous 
+inference of psychological stress from sensory measurements collected in the natural environment. 
+Proceedings From the 10th International Conference on Information Processing in Sensor 
+Networks (IPSN); Chicago, IL: IEEE; 2011. p. 97-108.
+Polonsky WH, Fisher L, Hessler D, Edelman SV. What is so tough about self-monitoring of blood 
+glucose? Perceived obstacles among patients with Type 2 diabetes. Diabetic Medicine. 2014; 
+31(1):40–46. [PubMed: 23819529] Nahum-Shani et al. Page 15
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Pratt, LI.; Barling, J. Differentiating between daily events, acute and chronic stressors: A framework 
+and its implications. In: Hurel, JJ.; Murphy, LR.; Sauter, SL.; Cooper, CL., editors. Occupational 
+stress: Issues and development in research. London: Taylor and Francis; 1988. p. 41-51.
+Price M, Yuen EK, Goetter EM, Herbert JD, Forman EM, Acierno R, Ruggiero KJ. mHealth: A 
+mechanism to deliver more accessible, more effective mental health care. Clinical Psychology & 
+Psychotherapy. 2014; 21(5):427–436. [PubMed: 23918764] 
+Riley, WT. Theoretical Models to Inform Technology-Based Health Behavior Interventions. In: 
+Marsch, LA.; Lord, SE.; Dallery, J., editors. Behavioral Health Care and Technology: Using 
+Science-Based Innovations to Transform Practice. New York, NY: Oxford; 2014. p. 13-26.
+Riley WT, Obermayer J, Jean-Mary J. Internet and mobile phone text messaging intervention for 
+college smokers. Journal of American College Health. 2008; 57(2):245–248. [PubMed: 18809542] 
+Riley WT, Rivera DE, Atienza AA, Nilsen W, Allison SM, Mermelstein R. Health behavior models in 
+the age of mobile interventions: Are our theories up to the task? Translational Behavioral 
+Medicine. 2011; 1(1):53–71. [PubMed: 21796270] 
+Roesch SC, Aldridge AA, Stocking SN, Villodas F, Leung Q, Bartley CE, Black LJ. Multilevel factor 
+analysis and structural equation modeling of daily diary coping data: Modeling trait and state 
+variation. Multivariate Behavioral Research. 2010; 45(5):767–789. [PubMed: 21399732] 
+Sapienza JK, Masten AS. Understanding and promoting resilience in children and youth. Current 
+Opinion in Psychiatry. 2011; 24(4):267–273. [PubMed: 21546838] 
+Sarker, H.; Sharmin, M.; Ali, AA.; Rahman, MM.; Bari, R.; Hossain, SM.; Kumar, S. Assessing the 
+availability of users to engage in just-in-time intervention in the natural environment. Proceedings 
+of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing; New 
+York, NY: ACM; 2014 Sep. p. 909-920.
+Sinha R, Talih M, Malison R, Cooney N, Anderson GM, Kreek MJ. Hypothalamic-pituitary-adrenal 
+axis and sympatho-adreno-medullary responses during stress-induced and drug cue-induced 
+cocaine craving states. Psychopharmacology. 2003; 170(1):62–72. [PubMed: 12845411] 
+Smeets T, Cornelisse S, Quaedflieg CW, Meyer T, Jelicic M, Merckelbach H. Introducing the 
+Maastricht acute stress test (MAST): A quick and non-invasive approach to elicit robust 
+autonomic and glucocorticoid stress responses. Psychoneuroendocrinology. 2012; 37(12):1998–
+2008. [PubMed: 22608857] 
+Smith, DM.; Walls, TA. mHealth Analytics. In: Marsch, LA.; Lord, SE.; Dallery, J., editors. 
+Behavioral Health Care and Technology: Using Science-Based Innovations to Transform Practice. 
+New York, NY: Oxford; 2014. p. 153-167.
+Spruijt-Metz D, Hekler E, Saranummi N, Intille S, Korhonen I, Nilsen W, Pavel M. Building new 
+computational models to support health behavior change and maintenance: new opportunities in 
+behavioral research. Translational Behavioral Medicine. 2015; 5(2):1–12. [PubMed: 25729448] 
+Spruijt-Metz D, Nilsen W. Dynamic models of behavior for just-in-time adaptive interventions. 
+Pervasive Computing, IEEE. 2014; 13(3):13–17.
+Stone, AA.; Shiffman, S.; Atienza, A.; Nebling, L., editors. The science of real-time data capture: Self-
+reports in health research. New York, NY: Oxford; 2007. 
+Van Merriënboer JJ, Kirschner PA, Kester L. Taking the load off a learner’s mind: Instructional design 
+for complex learning. Educational Psychologist. 2003; 38(1):5–13.
+Walters ST, Vader AM, Harris TR, Jouriles EN. Reactivity to alcohol assessment measures: an 
+experimental test. Addiction. 2009; 104(8):1305–1310. [PubMed: 19624323] 
+Witkiewitz K, Marlatt GA. Relapse prevention for alcohol and drug problems: That was zen, this is 
+tao. American Psychologist. 2004; 59(4):224–235. [PubMed: 15149263] 
+Witkiewitz K, Desai SA, Bowen S, Leigh BC, Kirouac M, Larimer ME. Development and evaluation 
+of a mobile intervention for heavy drinking and smoking among college students. Psychology of 
+Addictive Behaviors. 2014; 28(3):639–650. [PubMed: 25000269] 
+Ye J, Dobson S, McKeever S. Situation identification techniques in pervasive computing: A review. 
+Pervasive and Mobile Computing. 2012; 8(1):36–66.
+Yovel I, Mor N, Shakarov H. Examination of the core cognitive components of cognitive behavioral 
+therapy and acceptance and commitment therapy: An analogue investigation. Behavior Therapy. 
+2014; 45:482–494. [PubMed: 24912461] Nahum-Shani et al. Page 16
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Zaheer S, Albert S, Zaheer A. Time scales and organizational theory. Academy of Management 
+Review. 1999; 24(4):725–741.
+Zubin J, Spring B. Vulnerability: A new view of schizophrenia. Journal of Abnormal Psychology. 
+1977; 86(2):103. [PubMed: 858828] 
+Zulkernain, S.; Madiraju, P.; Ahamed, SI. Mobile Wireless Middleware, Operating Systems, and 
+Applications. Vol. 48. Springer; Berlin Heidelberg: 2010. A Context Aware Interruption 
+Management System for Mobile Devices; p. 221-234.Nahum-Shani et al. Page 17
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 1. 
+JITAI ExampleNahum-Shani et al. Page 18
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 2. 
+Summary of Pragmatic Framework for Developing JITAIsNahum-Shani et al. Page 19
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 3. 
+Illustrative Dynamic Model of Employee Stress Reactivity, Coping and DrinkingNahum-Shani et al. Page 20
+Health Psychol . Author manuscript; available in PMC 2016 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript

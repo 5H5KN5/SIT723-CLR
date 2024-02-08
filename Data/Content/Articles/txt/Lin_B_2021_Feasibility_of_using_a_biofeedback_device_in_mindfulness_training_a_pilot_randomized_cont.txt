@@ -1,0 +1,1164 @@
+RESEARCH Open Access
+Feasibility of using a biofeedback device in
+mindfulness training - a pilot randomized
+controlled trial
+Brenna Lin, Christopher Prickett and Steven Woltering*
+Abstract
+Background: Stress can negatively impact an individual ’s health and well-being and high levels of stress are noted to
+exist among college students today. While traditional treatment methods are plagued with stigma and transfer
+problems, newly developed wearable biofeedback devices may offer unexplored possibilities. Although these products
+are becoming commonplace and inexpensive, scientific evidence of the effectiveness of these products is scarce and
+their feasibility within research contexts are relatively unexplored. Conversely, companies are not required, and possibly
+reluctant, to release information on the efficacy of these products against their claims. Thus, in the present pilot, we
+assess the feasibility of using a real-time respiratory-based biofeedback device in preparation for a larger study. Our
+main aims were to assess device-adherence and collaboration with the company that develops and sells the device.
+Method: Data were collected from 39 college students who self-identified as experiencing chronic stress at a
+Southwestern university in the USA. Students were randomized into either a mindfulness-only control group without a
+biofeedback device ( n= 21), or an experimental group with biofeedback device ( n=1 8 ) .B o t hg r o u p sr e c e i v e d
+mindfulness meditation training. Pre-test and post-test procedures were conducted 2 weeks apart. Further, both
+participant compliance and company compliance were assessed and collaboration with the company was evaluated.
+Results: Participant device-adherence as well as the company ’s collaboration necessary for a full-scale study was
+determined to be low. This may also have affected our results which showed a strong main effect for time for all
+outcome variables, suggesting all groups showed improvement in their levels of stress after the intervention period. No
+group by time effects were identified, however, indicating no added benefit of the biofeedback device.
+Conclusions: Our findings suggest feasibility of future studies requires full collaboration and detailed and agreed upon
+data sharing procedures with the biofeedback company. The particular device under investigation added no value to
+the intervention outcomes and it was not feasible to continue a larger-scale study. Further, as the technology sector is
+innovating faster than it can validate products, we urge for open science collaborations between public and private
+sectors to properly develop evidence-based regulations that can withstand technological innovation while maintaining
+product quality, safety, and effectiveness.
+Trial registration: NCT02837016 . Registered 19 July 2016.
+Keywords: Meditation, Biofeedback, Stress, College students, Randomized controlled trial, Training
+© The Author(s). 2021 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ .
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.* Correspondence: swolte@tamu.edu
+Department of Educational Psychology, Texas A&M University, 718B
+Harrington Tower, TAMU, College Station, TX 77843-4225, USA
+Linet al. Pilot and Feasibility Studies            (2021) 7:84 
+https://doi.org/10.1186/s40814-021-00807-1
+Background
+Stress and barriers to treatment
+Mental health problems related to stress and anxiety are
+an increasingly prevalent issue facing college students
+today [ 1–7]. This is an alarming trend considering the
+host of negative associations related to stress and anxiety
+such as decreased academic performance1 [ 8–10],
+school satisfaction [ 11], depression [ 5,6,12], health
+problems [ 13,14], substance use [ 5,15–18], poor sleep
+[19], unhealthy eating behavior [ 18,20], and reduced
+self-efficacy [ 21,22]. With this in mind, stress is an im-
+portant target for prevention and treatment on college
+campuses. Despite the general effectiveness of cognitive
+behavioral therapy (CBT) [ 23–28], there are problems
+reducing its ultimate usefulness as a treatment for some
+people related to a lack of help-seeking behavior due to
+stigma, time-constraints, privacy concerns, and costs
+[29–31]. Furthermore, a problem that traditional treat-
+ment faces is the difficulty individuals experience apply-
+ing the techniques learned in therapy to real life
+emotionally charged problems. This has also been
+dubbed the transfer problem [ 32]. Notably, stress and
+anxiety may be particularly susceptible to the transfer
+problem as patients often receive interventions in calm,
+controlled settings removed from distressing events or
+triggers that may lead to stressful thoughts or feelings.
+Once faced with these stressors, however, they may find
+it difficult to apply what was learned in therapy in these
+moments when they lack situational control. Further-
+more, the emotions of fear that grip people in stressful
+states is characterized by reduced cognitive control and
+a rigid fixation on perceived concerns [ 33–35] making it
+even more challenging to break loose from habitual and
+unhelpful thought patterns.
+With the above in mind, it is important to consider
+and develop treatment options that can effectively re-
+duce stress and anxiety while also circumventing the
+many barriers that reduce the usefulness of traditional
+treatment related to help-seeking and transfer. The pri-
+mary aim of the present pilot was to assess the feasibility
+of testing a low-cost wearable biofeedback device based
+on mindfulness medication techniques in college stu-
+dents with high levels of self-reported stress.
+Meditation, mindfulness, and biofeedback devices as
+possible solutions
+Meditation interventions may address some of the short-
+comings of traditional treatment. For instance, an array
+of resources exists for meditation, including online vid-
+eos, apps, and tutorials, addressing the cost and privacy
+barriers that exist with traditional treatments. Addition-
+ally, meditation is often associated with a lifestyle and
+may not carry the stigma of being in therapy which may
+make it easier for individuals to seek treatment.Furthermore, self-reported improvements in stress levels
+have been indicated in as little as 30 min [ 36,37] redu-
+cing the time and commitment needed in order for indi-
+viduals to feel and see improvement. Notably, evidence
+for the effectiveness of meditation is increasing. Medita-
+tion based practices and trainings have been shown to
+improve individual ’s abilities to regulate attention [ 38],
+improve executive functioning [ 38,39], improve emotion
+regulation [ 40], and strengthen neural systems needed
+for emotion regulation [ 41]. In relation to stress, a num-
+ber of studies have found that regular mindfulness prac-
+tices can reduce stress [ 42–44].
+Mindfulness, a form of meditation, is characterized as
+a way of paying attention in a purposeful way [ 42].
+Intentionally directing one ’s attention can be regarded as
+a self-regulatory practice and is often achieved through
+meditation [ 45]. While mindfulness meditation can refer
+to many practices, the core of these practices is the
+moment-to-moment awareness of one ’s body and mind,
+without judgment or criticism. This is often done by fo-
+cusing attention on one ’s own breath, promoting cogni-
+tive control [ 46]. Focusing one ’s attention on the present
+moment can reduce negative rumination and worry
+about the future, common in highly stressed individuals.
+The attentional focus on breathing slowly and in a reg-
+ulated fashion may help reduce stress as breathing has
+significant influence on self-regulatory processes such as
+cardiac modulation [ 47]. Individuals under high stress
+consistently exhibit erratic breathing patterns, while in-
+dividuals under low stress are shown to exhibit slow,
+regulated breathing patterns [ 48,49]. The relationship
+between the breath and cardiac modulation is bi-
+directional, in that changes in breath rate can also influ-
+ence stress levels [ 50,51]. Moreover, alterations in
+respiratory patterns are proven to affect an individual ’s
+physiological and emotional arousal as well as percep-
+tions of negative distress [ 50,52,53], while short-term
+modification of breathing patterns has been found to re-
+duce the subjective experience of stress [ 54]. Solutions
+to the transfer problem, however, are more difficult to
+find or to practically realize. One would have to have
+therapeutic settings closely resemble or simulate the
+real-life situations that patients experience their prob-
+lems in. This appears hard and costly to do but would, if
+realized, likely increase the efficacy of treatment. Indeed,
+the benefits of treatment are often the largest when such
+an approach is possible.
+Various newly developed wearable biofeedback de-
+vices, however, may offer unexplored possibilities. Bio-
+feedback involves observing one ’s own physiological
+responses and modulating behavioral patterns in real
+time [ 55], possibly providing a solution to combat the
+transfer problem encountered by many health providers.
+Wearable biofeedback devices can deliver prompts basedLinet al. Pilot and Feasibility Studies            (2021) 7:84 Page 2 of 13
+on continuously monitored physiological signals.
+Prompts, such as minor vibrations, text messages, or
+other cues, can provide real-time feedback cueing
+wearers to adjust unhealthy habits. These devices can re-
+mind wearers of their mental and physiological state and
+signal them to perform behavioral cues in real-life con-
+texts at the exact moments they are actually experiencing
+certain emotions. Specifically, a signal to remind individ-
+uals to modulate their respiratory patterns may increase
+the transfer of learning. Wearable devices also have the
+advantage that they are becoming increasingly more af-
+fordable and available. Self- tracking of health factors
+such as weight, exercise, blood pressure, sleep, and blood
+sugar are now commonplace and can be provided at
+relatively low-cost [ 56].
+Public-private disconnect
+Furthermore, biofeedback interventions include modula-
+tion and direction of awareness towards one ’s own
+physiology, akin to the process of mindfulness. Through
+feedback signals from the device, individuals are able to
+gain increased awareness of physiological processes and
+ideally gain control and modulate these processes. The
+use of biofeedback-aided interventions for stress and
+anxiety has proven successful with various populations
+including school aged children [ 43], college students
+[57], professionals [ 58], athletes [ 59], and individuals suf-
+fering from mental illnesses, (e.g., depression and post-
+traumatic stress disorder) [ 60–62]. A majority of evi-
+dence, however, utilizes non-portable biofeedback de-
+vices, which limits the ecological validity. Furthermore,
+non-portable biofeedback devices are costly and access
+to these devices is often restricted, requiring permission
+through medical offices or wellness centers. Hence, con-
+sidering the limited literature on this topic, there is a
+clear need for more robust discussions on the feasibility
+of using these biofeedback devices within the context of
+randomized control trials (RCT).
+In our current day and age, private companies are not
+required to provide detailed information regarding feasi-
+bility and effectiveness of released products, unless they
+are seeking FDA approval. While these devices are rela-
+tively inexpensive for individual users, the overall wear-
+able market is growing and predicted to increase over
+the next few years, with global estimates ranging be-
+tween $25 and $44 billion dollars, by 2020 [ 63–65]. The
+exponential growth of technology [ 66] has produced an
+ecosystem of relatively inexpensive technological prod-
+ucts that may or may not provide real clinical value.
+Currently, there is a lack of incentivization for private
+companies to partner with researchers. Further, these
+health-related technological devices do not require clin-
+ical trials, to assess the efficacy, prior to making claims.
+Despite the large market for this industry, to the best ofour knowledge, literature supporting the use of wearable
+biofeedback devices is often theoretical [ 67] or mechan-
+ical [ 68,69] in nature, while applied research of products
+is scarce (despite a few studies, see [ 70,71]). Moreover,
+we could not identify literature pairing wearable biofeed-
+back devices with meditation as a treatment option.
+Coupling the lack of literature with the vast number of
+devices that exist on the market indicates a need to test
+the feasibility of these devices as well as evaluate the
+quality of participant adherence and collaboration with
+private companies.
+The current study
+The literature suggests a strong potential for meditation
+and biofeedback treatments in reducing stress [ 72,73].
+Further, because of mindfulness meditation ’s focus on res-
+piration and physiology, the integration of respiratory-
+based biofeedback and mindfulness meditation appears
+evident. Our study had two key objectives. Our primary
+objective related to feasibility and had two key compo-
+nents. First, we needed to assess adherence with the de-
+vice. We will test this using the amount of missing data
+due to adherence. Second, we needed to assess the bio-
+feedback company ’s communication and transparency.
+This was important because if we showed the device was
+effective, we would need to determine the mechanism of
+action in a larger RCT. This objective could be tested by
+our research team gaining access to the algorithms and
+raw data. Our expectation was that both the participants
+and the biofeedback company with comply with our study
+design and data requirements in such as it would be feas-
+ible to run a larger scale study.
+A secondary objective was to estimate the effectiveness
+of a wearable biofeedback device in addition to the ef-
+fects of a mindfulness meditation intervention. This was
+important because if the device did not demonstrate any
+potential effectiveness, we may have to seek a different
+type of biofeedback device or question our theoretical
+assumptions. If there was evidence that the device con-
+ferred added benefit and that data feasibility was accept-
+able, we would design a larger and more elaborate study
+with a waitlist control group that would confirm these
+findings and also test more specifically for the mecha-
+nisms of improvement. We note that, due to the current
+experimental design of the pilot, we cannot make claims
+regarding the effectiveness of the mindfulness treatment
+nor the mechanism of action. We can only make claims
+as to the estimated added effectiveness of the specific
+biofeedback device tested.
+Methods
+Participants
+University students who self-identified as experiencing
+chronic stress were recruited through flyers and aLinet al. Pilot and Feasibility Studies            (2021) 7:84 Page 3 of 13
+campus wide email on a large Southwestern United
+States campus between February and July of 2017. Inclu-
+sion criteria were as follows: (1) at least at least 18 years
+of age and be a student at time of testing, (2) self-
+identify as highly stressed. Exclusion criteria included (1)
+major psychiatric or developmental disorders besides de-
+pression or anxiety, (2) limited proficiency in English
+language.
+Sample size
+Figure 1shows a detailed chart in accordance with the
+Consolidated Standards of Reporting Trials (CONSORT)
+reporting standards of the flow of participants through
+our study. Eligible participants were randomized, before
+they visited the lab using a simple randomization
+scheme through the website www.randomization.com ,
+into two arms: a meditation treatment with biofeedback
+group (the biofeedback experimental group; final n= 21)
+and a meditation without biofeedback group (no-bio-
+feedback control group; final n= 18). As no previous
+studies have been conducted on this topic, no effect size
+could be identified for power analysis. Additionally, as
+this was a pilot study, we decided to keep the groups to
+approximately 20 each.
+Lab procedure
+Eligibility screening was conducted via a brief phone call.
+Following the eligibility screening, participants visited
+the psychology lab, located on the campus of the univer-
+sity, for their first visit where they signed informedconsent before data collection began. First, participants
+completed a set of questionnaires relating to demo-
+graphic data and mental-health functioning (see details
+in the “Measures ”section). Next, participants completed
+cognitive and behavioral tasks, which are not examined
+in the current study and are to be reported elsewhere.
+Following these tasks, a relaxation training session was
+conducted which utilized mindfulness-based relaxation
+techniques [ 42,46]. Randomization was conducted by
+the project manager during the mindfulness training ses-
+sion to determine group placement of participant into
+one of two groups: (1) control group without a biofeed-
+back device; (2) experimental group with biofeedback
+device. The first lab visit lasted approximately 65 min.
+Participants were also notified that a nightly survey
+would be sent at approximately 8 pm each night of the
+intervention. After 2 weeks, participants returned to the
+lab for their second visit, in which outcome data was
+collected via questionnaires.
+If the participant was randomized into the experimental
+group, the research assistant would then conduct hands-
+on instruction with the participant on the use of the bio-
+feedback device. This included information on how to
+properly pair the device to their phone, how to charge the
+device at night, and a high-level overview of the app ’s
+functionality. After the participant ’s device was properly
+paired and basic functionality of the device was under-
+stood and verified, the research assistant then provided
+the participant with the gift card and provided them infor-
+mation about daily surveys to be delivered each night. If
+Fig. 1 Flow diagram of participantsLinet al. Pilot and Feasibility Studies            (2021) 7:84 Page 4 of 13
+the participant was placed in the control group, the re-
+search assistant would provide the participant with a gift
+card and ask them to fill out a daily survey that will be
+texted to them each night for the duration of the treat-
+ment. Participants returned to the laboratory after a 2-
+week interval. Participants received a monetary compensa-
+tion of $40 ($20 pre-training and $20 post-training follow-
+up) for their time in the form of an Amazon gift-card. The
+same lab procedures were followed for the second lab
+visit. The local ethics review board approved the study.
+(Protocol reference: #IRB2015-0786D). This study was
+preregistered at ClinicalTrials.gov : NCT02837016. Regis-
+tered 19 July 2016, https://clinicaltrials.gov/ct2/show/
+NCT02837016
+Mindfulness meditation training
+Both arms received mindfulness meditation training.
+The mindfulness relaxation training script was designed
+by a clinical psychology graduate student and executed
+by trained undergraduate research assistants. In this
+training, the research assistant began by providing a brief
+overview of the theory behind mindfulness meditation
+and reviewed why it can work in controlling stress. First,
+the research assistants discussed how to breathe slowly
+and deeply for relaxation [ 47,50] and monitored the
+participants breathing habits to ensure proper breathing
+techniques were established before moving on. Then,
+the research assistants discussed current theory and re-
+search on mindfulness meditation. After that, the re-
+search assistant left the room, while a 20-min
+mindfulness meditation audio was played on the com-
+puter. The audio emphasized awareness of the body and
+regulation of the breath [ 42,46,50]. Lastly the research
+assistant returned to the room and asked the participant
+if s/he has any follow-up questions. Additionally, the re-
+search assistant discussed how the participant might be
+able to integrate these techniques in their daily lives.
+Wearable respiratory-based biofeedback device
+A biofeedback device was used that collects continuous
+respiration data and claims to provide real-time feedback
+through a messenger app when breathing patterns indi-
+cate tension. The device, which can sit comfortably on
+someone ’s hip, will buzz and vibrate and send a message
+to the wearer ’s phone when it detects erratic, defined by
+fast and highly variable, breathing patterns. The message
+may, for example, gently remind participants to mind
+their breath and do a deep breathing exercise to help al-
+leviate stress. This device was chosen based on afford-
+ability, unobtrusiveness, and its focus on respiration.
+Prior to data collection, the authors discussed the de-
+sign and goal of the study with a senior member of the
+company. We received verbal confirmation we would be
+able to receive back end data, such as notifications perday, activity on the app, types of alerts received. This
+data could be anonymized based on device ID to allow
+for data matching. Further, we were notified that we
+would be able to also receive information about the spe-
+cific algorithm used. After data was collected, initial
+findings were presented and shared with the senior
+member of the company.
+Measures
+A scale was developed in order to gather information on
+possible covariates. The scale was administered after
+physiological hookup. Frequency of exercise was
+assessed using item ‘I exercise often, ’measured on a 5-
+point Likert scale ranging from strongly disagree to
+strongly agree. Whether participants were in treatment
+or taking medication were assessed using items, ‘Are you
+currently receiving any treatment for your stress? ’and
+‘Are you prescribed any medications? ”both measured
+through dichotomous, yes or no, responses. Alcohol
+usage was measured using item ‘How many days a week
+do you typically drink alcohol? ’, with a scale between 1
+and 7. Last, using the Macarthur Scale of subjective So-
+cial Status [ 74], individuals were asked to place them-
+selves on a ladder based on their perceived social
+standing relative to their community on a scale between
+1 and 10. Additionally, at the end of the lab visit, both
+groups were asked to answer questions on their motiv-
+ation and expectation to change using items ‘How much
+do you expect a positive change?, ’and ‘How motivated
+are you to try new things to change? ”on a scale from
+1—very little to 10 —very much.
+State-Trait Anxiety Inventory (STAI)
+The STAI is a self-report questionnaire that measures trait
+and state anxiety in adults [ 75,76]. The term anxiety is
+used to describe both an unpleasant state (state-anxiety)
+as well as an individual ’s relatively stable personality trait
+that describes an individual ’s proneness towards anxiety
+(trait-anxiety) [ 76]. Please note that no clinical or diagnos-
+tic procedures were conducted which means findings may
+not generalize to individuals with anxiety disorders. Our
+findings can only speak to the symptomology associated
+with trait and state anxiety. For these reasons, we will
+adopt the more generic term ‘stress ’to describe the symp-
+toms in this manuscript. The STAI is considered a widely
+used, reliable, and valid measure of stress and its sympto-
+mology [ 75–77].
+Difficulties in Emotion Regulation Scale (DERS)
+The DERS is a self-report questionnaire that measures
+multiple aspects of and difficulties with emotion regula-
+tion [ 78]. The DERS provides a total score as an indica-
+tor of emotion regulation difficulty, as well as subscales
+specific to emotion regulation strategies, non-acceptanceLinet al. Pilot and Feasibility Studies            (2021) 7:84 Page 5 of 13
+of negative emotional responses, emotional clarity, im-
+pulse control, goal-directed behavior, and emotional
+awareness. This measure is a widely used and generally
+considered a reliable, and well-validated measure captur-
+ing difficulties in emotion regulation [ 78,79].
+Perceived Stress Scale (PSS)
+The PSS is a self-report measure of how stressful one
+perceives his or her own life [ 80]. This scale was used as
+evidence indicates the importance and role of cognitive
+appraisal in perceptions of stress [ 81]. The PSS provides
+a single total score to reflect this stress level. This meas-
+ure is a well-published, and generally considered a reli-
+able and valid measure of perceived stress [ 80–82].
+During conversion from paper to digital format, an error
+occurred causing item seven ( ‘In the last month, how
+often have you been able to control irritations in your
+life?’) to be left off from the questionnaire. Thus, this
+item is not reported or reflected within PSS pre-training
+or post-training scores.
+Compliance
+A nightly survey, for the entire 2-week intervention, was
+sent to both groups at 8 pm via text message through a
+service called Survey Signal [ 83]. This measure was used
+as an approximation for device-adherence. We asked
+participants to answer this survey as soon as they re-
+ceived it. The survey asked questions about whether a
+participant had meditated that day. A participant ’s re-
+sponse, of either yes or no, was used as a measure of
+compliance (see Table 3). All continuously enrolled par-
+ticipants were sent both minimum and maximum num-
+ber of fourteen surveys, one for each day they were
+enrolled in the study. Additional adherence was to be es-
+timated based on the biofeedback company ’s user data;
+however, the one-time data sent by the company re-
+sulted in a low match rate with our device identifiers
+and the company then became unresponsive despite
+multiple attempts to follow up.
+Analysis
+SPSS version 24.0 [ 84] was used for the analyses. Re-
+peated measures analysis of variance (RM-ANOVA) was
+used to compare the different treatment arms across
+time for each of the main outcome measures. For the
+main analyses, the STAI will be used to index changes in
+anxiety, the PSS will index changes in stress levels,
+whereas the DERS will be used to measure changes in
+the ability of emotion regulation. To assess group differ-
+ences in age, sex, ethnicity, and grade type, chi-square
+and independent sample ttest were used. Analyses of
+variances (ANOVAs) were used to test group differences
+in income, state-anxiety, and trait-anxiety. 95% confi-
+dence intervals (CI) are provided for the change-scoresacross session for each group (control and experimental)
+and group for each session time point (pre- and post-
+treatment).
+No missing data existed on major variables (less than
+5% for all measures) and no outliers were identified
+(scores above 2 standard deviations from the mean). Each
+individual was tested and included only once within our
+sample and analysis. Additionally, we have no reason to
+suspect that measurements for one subject may have
+influenced or is related to the measurements of other sub-
+jects and participants were explicitly instructed not to dis-
+cuss the research study with anyone else.
+Results
+The campus can be characterized as diverse, featuring
+students from urban and rural areas and different ethnic
+and socioeconomic backgrounds. Table 1shows demo-
+graphic data for the final sample broken down by group.
+The baseline values for age, gender, ethnicity, grade
+level, income, and state-anxiety and trait-anxiety levels
+did not differ among the groups.
+Additionally, the State-Trait Anxiety Inventory (STAI)
+[73] used to confirm high stress and anxiety levels in our
+sample through comparison with college-age normative
+scores. State-Anxiety refers to an unpleasant state, while
+trait-anxiety describes an individual ’s proneness towards
+symptoms of anxiety [ 73]. Male and female participants
+scored in the 81st and 79th percentiles for state-anxiety,
+respectively, while both groups scored above the 90th
+percentile for trait-anxiety symptoms. Scores at or above
+the 75th percentiles, for both State and Trait-Anxiety,
+indicate clinically significant levels of anxiety that may
+affect their ability to function [ 73]. Again, chi-square
+and ANOVA results indicated no group differences
+among our sample (Table 1).
+Preliminary analysis examined group differences on
+sociodemographic measures between group. See Table 2
+for means and standard deviations for pre-training time
+and post-training time for both groups. No group differ-
+ences on major descriptive variables were found. Eight
+additional items were examined: frequency of exercise,
+in treatment, taking medication, alcohol usage, social
+ladder perception, motivation to change, expectation to
+change, and compliance. Chi-square goodness of fit and
+ttests were used to assess group differences for each of
+the above variables. No significant group differences
+were found on all above variables (see Table 3) indicat-
+ing no statistically significant group differences between
+the control versus experimental group on possible covar-
+iates including compliance.
+Our first objective regarding feasibility was to test
+compliance. While compliance was not statistically dif-
+ferent between groups, the low average rate of compli-
+ance in both the control ( M= 9.3, SD = 4.6) andLinet al. Pilot and Feasibility Studies            (2021) 7:84 Page 6 of 13
+experimental ( M= 8.1, SD = 5.6) groups indicate our
+daily device-adherence measure to be insufficient with-
+out supplementary data on actual utilization. As for our
+secondary objective, the company failed to provide ad-
+equate supplementary data needed. We did not receive
+access to the raw data or gain insight into the algo-
+rithms used to compute “stress level ”from the breathing
+signal.
+Figure 2shows the data pre-training and post-training
+for our four outcome measures: the state anxiety, trait
+anxiety, perceived stress, and difficulty in emotion
+regulation.
+To measure the effects of the wearable biofeedback de-
+vice on state anxiety, trait anxiety, perceived stress, and
+emotion regulation, four separate 2 (group: experimen-
+tal, control) × 2 (time: pre, post) RM-ANOVA with the
+outcomes measures as the dependent variable were con-
+ducted (Table 4). These analyses showed strong main ef-
+fects of time for state anxiety ( F(1,37) = 9.370, p= .004,
+ηp2= .202, trait anxiety ( F(1,37) = 23.602, p= .000 , ηp2
+= .389, perceived stress ( F(1,37) = 25.65, p= .000 , ηp2=.409, and emotion regulation ( F(1,37) = 5.343, p= .026 ,
+ηp2= .126. No main effects of group were identified for
+state anxiety ( F(1,37) = 3.089, p= .087, trait anxiety ( F(1,
+37) = .320, p= .575, perceived stress ( F(1,37) = .65, p
+=.424, or emotion regulation ( F(1,37) = .016, p= .901.
+No group × time interaction effect was statistically sig-
+nificant (all p’s > .237). Table 4shows the relevant statis-
+tics and effects sizes from the RM-ANOVA.
+Discussion
+Data feasibility
+Though participant compliance was not different between
+groups, the low average rate of compliance pointed to-
+wards a need for the biofeedback company ’sa c t u a l
+utilization data to supplement our daily survey. However,
+due to lack of shared data regarding user behavior in rela-
+tion to these devices and low transparency, we determine
+that the feasibility of such a study without full collabor-
+ation with private companies is low. The feasibility of fu-
+ture studies requires full collaboration with companies
+that includes detailed, agreed-upon procedures for dataTable 1 Descriptive statistics by group
+Control ( n= 18) Experimental ( n= 21) Total ( n= 39)
+Age (years) 24.9 (7.5) 23.4 (3.6) 24.1 (5.7)
+Sex
+Male 11 (61.1%) 10 (47.6%) 21 (53.8%)
+Female 7 (38.9%) 11 (52.4%) 18 (46.2%)
+Ethnicity
+White 7 (38.9%) 7 (33.3%) 14 (35.9%)
+Black – 2 (9.5%) 2 (5.1%)
+Asian 7 (38.9%) 7 (33.3%) 14 (35.9%)
+Hispanic 3 (16.7%) 4 (19%) 7 (17.9%)
+Other 1 (5.6%) 1 (4.8%) 2 (5.1%)
+Grade
+Undergraduate 8 (44.4%) 11 (57.1%) 19 (48.7%)
+Graduate 10 (55.6%) 9 (42.9%) 20 (51.3%)
+Income level
+< $34,999 9 (50.0%) 10 (47.6%) 19 (48.7%)
+$35,000 –$74,999 4 (22.2%) 6 (28.6%) 10 (25.6%)
+$75,000 + 5 (27.8%) 5 (23.8%) 10 (25.6%)
+State-Trait Anxiety Inventory
+State-anxiety
+Male 42.1 (5.3) 48.9 (12.2) 45.3 (9.7)
+Female 45.9 (9.7) 48.8 (13.0) 47.7 (11.6)
+Trait-anxiety
+Male 51.3 (4.6) 50.5 (7.8) 50.9 (6.2)
+Female 51.2 (4.6) 54.0 (10.6) 53.5 (8.8)
+Notes. Data are means (SD) or amount (%). Reported State-Trait Anxiety Inventory numbers are only at Pre-testing in order to assess group differences prior t o
+intervention. No group differences were found on any variableLinet al. Pilot and Feasibility Studies            (2021) 7:84 Page 7 of 13
+sharing. It is essential to ensure data from the back-end,
+such as verification that participants were in fact wearing
+the device, number of notifications provided by the com-
+pany, as well as the user ’s activity once a notification was
+received is provided in order to understand how this be-
+havior interacts with other measures taken at the lab.
+Without this data, adherence can only be estimated and
+assumed. While we hoped that a randomized designwould control for consumer behavior surrounding these
+devices, feasibility of the study was ultimately jeopardized.
+For future studies, we recommend formal written partner-
+ships, as well as a detailed data passback policy to ensure
+transparency and successful data matching by participant.
+Additionally, future studies could design to accommodate
+for the low rate of participant adherence. For example,
+text messages could be sent as reminders on anTable 2 Means, standard deviations, and 95% paired means confidence intervals for dependent variables by group (control,
+experimental) and time (pre- and post-training)
+Control
+(n= 18)Experimental
+(n= 21)95% CI for MD
+State anxiety
+Pre-training 43.6 (7.3) 48.9 (12.3) −5.3 95% CI ( −12, 1.4)
+Post-training 38.6 (8.2) 43.4 (12.0) −4.8 95% CI ( −11.6, 2)
+95% CI PMD 5 95%CI ( −.1, 10) 5.5 95%CI (.8, 10.2)
+Trait anxiety
+Pre-training 51.8 (4.8) 52.3 (9.3) −.5 95% CI ( −5.4, 4.4)
+Post-training 47.3 (5.8) 49.6 (10.1) −3.3 95% CI ( −7.8, 3.2)
+95% CI PMD 4.5 95% CI (2.3, 6.7) 2.7 95% CI (.67, 4.8)
+Perceived Stress Scale
+Pre-training 24.9 (4.8) 26.1 (3.5) −1.2 95% CI ( −3.9, 1.5)
+Post-training 20.7 (5.7) 21.7 (5.8) −1 95% CI ( −4.7, 2.7)
+95% CI PMD 4.2 95% CI (1.7, 6.8) 4.4 95% CI (2.1, 6.8)
+Difficulties in emotion regulation
+Pre-training 96.7 (22.0) 98.5 (21.6) −1.8 95% CI ( −.16, 12.4)
+Post-training 91.4 (18.3) 91.1 (18.1) .3 95% CI ( −11.5, 12.1)
+95% CI PMD 5.3 95% CI ( −2.8, 13.5) 7.4 95%CI ( −.19, 15)
+Notes. Data are means (SD). No statistically significant differences between control and experimental group (all p’s > .05). 95% CI PMD 95% CI Mean Difference
+Table 3 Comparison of additional training related items between groups
+Control
+(n= 18)Experimental ( n= 21) 95% CI for MD
+Frequency of exercise 2.9 (1.3) 3.3 (1.6) −.4 95% CI ( −1.3, .5)
+In-treatment
+Yes 2 (11.1%) 2 (9.5%) –
+No 16 (88.8%) 19 (90.5%) –
+Taking medication
+Yes 4 (22.2%) 2 (9.5%) –
+No 14 (77.7%) 19 (90.5%) –
+Alcohol usage 2 (1.4) 2.3 (1.6) −.3 95% CI ( −1.3, .6)
+Social ladder perception 6.1 (1.6) 6.2 (2.1) −.1 95% CI ( −1.3, 1.1)
+Motivation to change 7.6 (1.7) 7.9 (2.2) −.3 95% CI ( −2, .5)
+Expectation to change 7.2 (1.7) 6.9 (2.0) −.3 95% CI ( −1.3, 1)
+Compliance 9.3 (4.6) 8.1 (5.6) 1.2 95% CI ( −2.2, 4.5)
+Notes: Data are means (SD) or amount (%). All p’s > .05. 95% CI PMD 95% CI Mean Difference. Only pre-test numbers were assessed for covariate analysis.
+Frequency of exercise was measured on a 5-point Likert scale ranging from strongly agree to strongly disagree. Alcohol usage was measured by number of days
+per week. Social ladder perception, motivation to change, and expectation to change were measured in scores between 1 and 10. Compliance is the number of
+days participants answered the daily surveysLinet al. Pilot and Feasibility Studies            (2021) 7:84 Page 8 of 13
+intermittent basis. Furthermore, biofeedback devices that
+do not require frequent charging and that are waterproof
+may work best for younger samples so as to decrease ac-
+tions needed for better adherence.
+Potential device effectiveness
+Our secondary objective, examining whether this par-
+ticular wearable respiratory-based biofeedback device
+would reduce stress more effectively than mindfulness
+meditation alone, ultimately showed no difference. Re-
+sults of our small-scale trial showed that participants in
+the experimental biofeedback group were not different
+from the control group in their change of levels of stress
+before and after the treatment period. Our study did find
+that both the experimental and control group reported
+reduced levels of stress across the treatment period.
+As we did not utilize a proper control group to test for
+the effect of meditation training alone (e.g., a waitlist or
+active control group), it is possible that the beneficial ef-
+fect could be due to the administration of the meditation
+training which was provided for both arms. Thesefindings suggest that the wearable respiratory-
+biofeedback device did not have an added benefit in re-
+ducing stress above and beyond mindfulness meditation
+training and that the use of this specific device does not
+prove feasible for a larger scale study.
+The current findings can be explained in several ways.
+First, it is possible that the device-algorithm was not
+working optimally. From a measurement perspective, ac-
+curately capturing respiratory information in real-life sit-
+uations, in which participants are constantly moving and
+speaking, is challenging [ 85,86]. Being able to link those
+signals back to specific emotions, among a possible myr-
+iad of other movements and states, may simply have
+been too complex. Although some basis for the wearable
+device was provided by the company [ 87,88], these pa-
+pers did not constitute an actual validation of the algo-
+rithms of the device. Unfortunately, we were unable to
+obtain the algorithms and, as such, the scientific contri-
+bution of our study is more utilitarian than mechanistic.
+Second, it is possible that the device was accurately cap-
+turing the respiratory signal but that the breath is simply
+Fig. 2 Scores for dependent variables state-anxiety, tr ait-anxiety, perceived stress, and difficultie s in emotion regulation shown per group (experime ntal and
+control) and at both time points (pre- and post-training)Linet al. Pilot and Feasibility Studies            (2021) 7:84 Page 9 of 13
+not a good way to measure stress physiology in real-life
+situations. Currently, respiratory measurements are
+noted to be widely subjective depending on method-
+ology, and previous studies have exposed reliability and
+validity issues relating to respiratory rate measurements
+[89]. Furthermore, to properly measure the breath, infor-
+mation on the rate, the volume, and the pattern must be
+reviewed in tandem. And while RSA and HRV are well
+validated in the literature, the introduction of new ways
+of measuring, such as apps or electrical equipment
+within cell phones, combined with possible artifacts gen-
+erated through these new data captures, requires much
+more evidence to support the use of these devices for a
+clinical population. Third, these findings could indicate
+that the mindfulness meditation intervention paired with
+the breath regulation instruction alone may provide ef-
+fective treatment, without the need for the use of a
+wearable biofeedback device.
+Our results are difficult to situate in the current bio-
+feedback literature. To the best of our knowledge,
+Gutierrez-Osuna ’s group at Texas A&M University is
+only other group that conducted research utilizing a
+wearable biofeedback device capturing breathing rate as
+a means to influence stress. They showed that breath-
+based biofeedback training was more effective in indu-
+cing relaxation in participants than electrodermal- and
+cardiovascular-based biofeedback [ 90]. Though our stud-
+ies are similar in some respects, they differ in that their
+study used the device as a training tool to remediate
+stress through a video-game interface, whereas in ourstudy the device was used for the recognition of stress
+physiological markers.
+Limitations
+Further limitations of the study should be considered in
+the development of a full-scaled study. One limitation is
+the lack of a waitlist control group (or active control
+group for the meditation alone) precluding statements
+regarding the effectiveness of the meditation. No waitlist
+control was utilized as we were primarily interested in
+the additive effects of the biofeedback device as opposed
+to the effects of meditation intervention per se. This
+study was planned as a phase 1 exploratory study testing
+the feasibility of a particular wearable biofeedback device
+that we intended to use in future, more detailed, studies
+to assess the general overall of the treatment compared
+to a waitlist or to determine the mechanism of action if
+results were positive.
+Despite this limitation, we do point out that other
+studies which have utilized active control by meditation
+designs have found meditation interventions to generate
+positive effect sizes ranging from 0.30 to 0.67 [ 91,92].
+Also, previous studies conducted with students have
+found outcome variables relating to stress to either re-
+main stable or increase in intensity between pre-test and
+post-test [ 85,89]. As students in our study showed sta-
+tistically significant decreases in stress measures, we be-
+lieve, albeit speculatively, this could suggest that the
+meditation treatment was effective for high stress college
+students.
+Furthermore, a few statistical limitations must be men-
+tioned. We decided to run this study as a pilot to a future
+larger study as no previous studies have been conducted
+on our specific variables of interest and no effect size
+could be estimated. Because of this, the recruitment of
+highly stressed individuals combined with the smaller
+sample size may have affected the variability of our out-
+come variables reducing statistical power to detect mean-
+ingful findings. Additionally, it is also possible that
+regression to the mean, as well as test-retest effects could
+account for changes in both the test and control groups.
+We also note that the present sample consisted of a
+non-clinical sample of college students who self-
+reported experiencing high levels of stress. It is possible
+findings could be different if a clinical sample was tar-
+geted in which people had confirmed diagnoses. Future
+clinical trials with diagnosed patients suffering from
+stress could help confirm the present findings.
+Finally, we cannot exclude the possibility that the de-
+vice was working properly but that the participants were
+simply not adhering to, or misunderstood, the instruc-
+tions. We do believe this is unlikely as participants re-
+ceived more information on the use of the device than if
+they bought the device from the store. Furthermore, ourTable 4 RM-ANOVA results for dependent variables
+df Fvalue pvalue ηp2
+State-anxiety
+Time** (1,37) 9.37 0.004** 0.202
+Group (1,37) 3.09 0.087 0.077
+Time × group (1,37) 0.02 0.877 0.001
+Trait-anxiety
+Time*** (1,37) 23.60 0.000*** 0.389
+Group (1,37) 0.32 0.575 0.009
+Time × group (1,37) 1.45 0.237 0.038
+Perceived Stress Scale
+Time** (1,37) 25.65 0.000** 0.409
+Group (1,37) 0.65 0.424 0.017
+Time × group (1,37) 0.02 0.904 0.000
+Difficulties in emotion regulation
+Time** (1,37) 5.34 0.026** 0.126
+Group (1,37) 0.02 0.901 0.000
+Time × group (1,37) 0.14 0.712 0.004
+Notes. Data are means (SD). * p≤.05. ** p≤.01. *** p≤.001. Main effect for
+time was found for all dependent variables. No effect for group was found for
+dependent variablesLinet al. Pilot and Feasibility Studies            (2021) 7:84 Page 10 of 13
+team also made sure to demonstrate how to properly
+wear and use the device. Given the aforementioned limi-
+tations, it is important that future studies rigorously
+evaluate the validity of wearable biofeedback devices
+against currently existing, well-validated treatment
+options.
+Implications
+To the best of our knowledge, this study is the first of its
+kind in studying a wearable respiratory-based biofeedback
+device in conjunction with mindfulness meditation
+through an RCT design. Strengths of this study include
+the application of these treatment options within an eco-
+logically valid setting and the rigorous design using an ac-
+tive control group. Our findings suggest the biofeedback
+device provided no additive benefit to mindfulness train-
+ing for stressed individuals which could be concerning as
+individuals with high stress levels seeking clinical solutions
+may be more susceptible to marketing messages. Further-
+more, the authors caution against the use of commercially
+produced wearable biofeedback devices without Food and
+Drug Administration (FDA) approval for use in clinical
+settings and for patient monitoring. However, ultimately,
+as various limitations must be considered, future testing is
+recommended. Finally, we decided not to continue with
+the present company due to challenges related to trans-
+parency and information sharing.
+Conclusions
+The goal of this study was to test the feasibility of using
+the biofeedback device, a respiration-based wearable bio-
+feedback device claiming to reduce stress in a sample of
+college students. As such, our study is among the first to
+independently test commercially available biometric
+wearables. Our findings showed no added effectiveness
+of the specific respiratory-based biofeedback device we
+tested in reducing stress. Thus, we believe that
+these companies should comply with the same FDA
+standards required for medical companies. As it stands
+now, the lack of regulation can lead to public confusion
+and false hope in health-related industries. Furthermore,
+the validation of a commercial product proved difficult
+due to limited access to participants' behavior and ad-
+herence data regarding the device from the device
+maker. We assess that the feasibility of such a study
+proves difficult without closer collaborations between in-
+dependent scientists and corporation in the research and
+development of such devices. With this, we would like
+to advocate for the collaboration of the FDA, academics,
+and private companies in the development of evidence-
+based regulations that will allow for a successful certifi-
+cation process that can bolster technological innovation
+while maintaining product quality, safety, and effective-
+ness. Ultimately, academia ’s role as research andlearning institutions can be strengthened through the
+government ’s data collection and regulatory process cap-
+abilities, while industry can help close the gap between
+research and application through the development of
+products. Moreover, the open science research paradigm
+[93] can promote data sharing, preregistration, and fund-
+ing source databases, and foster trust and collaboration
+across industries and disciplines.
+Abbreviations
+ANOVA: Analysis of variance; CBT: Cognitive behavioral therapy;
+DERS: Difficulties in Emotion Regulation Scale; FDA: Food and Drug
+Administration; HRV: Heart rate variability; PSS: Perceived Stress Scale;
+RCT: Randomized control trial; RM –ANOVA: Repeated measures analysis of
+variance; RSA: Respiratory sinus arrhythmia; STAI: State-Trait Anxiety Inventory
+Supplementary Information
+The online version contains supplementary material available at https://doi.
+org/10.1186/s40814-021-00807-1 .
+Additional file 1. CONSORT extension for Pilot and Feasibility Trials
+Checklist-Stress RCT Pilot.doc CONSORT Extension Checklist
+Acknowledgements
+We would like to thank Neyra Hernandez and Johanna Song for design
+feedback as well as data collection on this project.
+Authors ’contributions
+SW is senior author of this manuscript. BL and SW conceived of the study
+and made significant contributions to the overall study design and specific
+research questions. All authors had input on specifics of the design of the
+intervention, the content of the intervention materials, and the training of
+the implementers. BL drafted the manuscript. SW and CP provided critical
+revisions and contributed isolated sections. All authors read and approved of
+the final manuscript.
+Funding
+This project was internally funded by professional development funds
+(Woltering) and student research awards by the College of Education and
+Human Development (Lin).
+Availability of data and materials
+The datasets generated and/or analyzed during the current study are
+available in the Open Science Framework repository, https://osf.io/hec7a/
+Declarations
+Ethics approval and consent to participate
+Our protocol has been approved by the Institutional Review Boards at Texas
+A&M University (Protocol reference: #IRB2015-0786D).
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 14 March 2019 Accepted: 1 March 2021
+References
+1. American College Health Association. American College Health Association-
+National College Health Assessment II: Reference group executive summary
+fall 2017. 2018
+2. Andrews B, Wilding JM. The relation of depression and anxiety to life-stress
+and achievement in students. British Journal of Psychology. 2004 Nov 1;
+95(4):509 –21.Linet al. Pilot and Feasibility Studies            (2021) 7:84 Page 11 of 13
+3. Bayram N, Bilgel N. The prevalence and socio-demographic correlations of
+depression, anxiety and stress among a group of university students. Social
+psychiatry and psychiatric epidemiology. 2008 Aug 1;43(8):667 –72.
+4. Beiter R, Nash R, McCrady M, Rhoades D, Linscomb M, Clarahan M, Sammut S.
+The prevalence and correlates of depression, anxiety, and stress in a sample of
+college students. Journal of affective disorders. 2015 Mar 1;173:90 –6.
+5. Boynton Health Service. Health and health-related behaviors, University of
+Minnesota-Twin Cities students.[Internet]. Regents of the University of
+Minnesota [cited 2018Oct1]. Available from: https://boynton.umn.edu/sites/
+boynton.umn.edu/files/2017-09/2010CSHSReport_MinnesotaPostseconda
+ryStudenVeterans.pdf
+6. Mahmoud JS, Staten RT, Hall LA, Lennie TA. The relationship among young
+adult college students ’depression, anxiety, stress, demographics, life
+satisfaction, and coping styles. Issues in Mental Health Nursing. 2012;33(3):
+149 –56.
+7. Gallagher RP. National survey of college counseling centers 2014. The
+International Association of Counseling Services, Inc; 2015.
+8. Seipp B. Anxiety and academic performance: A meta-analysis of findings.
+Anxiety Research. 1991;4(1):27 –41.
+9. Shields N. Stress, active coping, and academic performance among
+persisting and nonpersisting college students. J Applied Biobehav Res. 2001;
+6(2):65 –81.
+10. Thomas CL, Cassady JC, Heller ML. The influence of emotional intelligence,
+cognitive test anxiety, and coping strategies on undergraduate academic
+performance. Learning and Individual Differences. 2017;55:40 –8.
+11. Lee J, Jang S. An exploration of stress and satisfaction in college students.
+Services Marketing Quarterly. 2015;36(3):245 –60.
+12. Stader SR, Hokanson JE. Psychosocial antecedents of depressive symptoms:
+An evaluation using daily experiences methodology. Journal of Abnormal
+Psychology. 1998;107(1):17.
+13. Härter MC, Conway KP, Merikangas KR. Associations between anxiety
+disorders and physical illness. European archives of psychiatry and clinical
+neuroscience. 2003;253(6):313 –20.
+14. Rawson HE, Bloomer K, Kendall A. Stress, anxiety, depression, and physical
+illness in college students. The Journal of Genetic Psychology. 1994;155(3):
+321 –30.
+15. Blanco C, Okuda M, Wright C, Hasin DS, Grant BF, Liu SM, Olfson M. Mental
+health of college students and their non –college-attending peers: results
+from the national epidemiologic study on alcohol and related conditions.
+Archives of general psychiatry. 2008;65(12):1429 –37.
+16. Cranford JA, Eisenberg D, Serras AM. Substance use behaviors, mental
+health problems, and use of mental health services in a probability sample
+of college students. Addictive behaviors. 2009;34(2):134 –45.
+17. Flynn HA. Comparison of cross-sectional and daily reports in studying the
+relationship between depression and use of alcohol in response to stress in college
+students. Alcoholism: Clinical and E xperimental Research. 2000;24(1):48 –52.
+18. Tavolacci MP, Ladner J, Grigioni S, Richard L, Villet H, Dechelotte P.
+Prevalence and association of perceived stress, substance use and
+behavioral addictions: a cross-sectional study among university students in
+France, 2009 –2011. BMC public health. 2013;13(1):724.
+19. Valerio TD, Kim MJ, Sexton-Radek K. Association of stress, general health,
+and alcohol use with poor sleep quality among US college students. Am J
+Health Education. 2016;47(1):17 –23.
+20. Wichianson JR, Bughi SA, Unger JB, Spruijt-Metz D, Nguyen-Rodriguez ST.
+Perceived stress, coping and night-eating in college students. Stress and
+Health: Journal of the International Society for the Investigation of Stress.
+2009;25(3):235 –40.
+21. Patrick BC, Skinner EA, Connell JP. What motivates children ’s behavior and
+emotion? Joint effects of perceived control and autonomy in the academic
+domain. Journal of Personality and social Psychology. 1993;65(4):781.
+22. Salehi A, Harris N, Coyne E, Sebar B. Perceived control and self-efficacy,
+subjective well-being and lifestyle behaviours in young Iranian women. J
+Health Psychology. 2016;21(7):1415 –25.
+23. Bandelow B, Lichte T, Rudolf S, Wiltink J, Beutel EM. The diagnosis of and
+treatment recommendations for anxiety disorders. Deutsches Ärzteblatt
+International. 2014;111(27-28):473.
+24. Bandelow B, Michaelis S, Wedekind D. Treatment of anxiety disorders.
+Dialogues in clinical neuroscience. 2017;19(2):93.
+25. Cuijpers P, Cristea IA, Karyotaki E, Reijnders M, Huibers MJ. How effective are
+cognitive behavior therapies for major depression and anxiety disorders? A
+meta-analytic update of the evidence. World Psychiatry. 2016;15(3):245 –58.26. Cuijpers P, Sijbrandij M, Koole S, Huibers M, Berking M, Andersson G.
+Psychological treatment of generalized anxiety disorder: a meta-analysis.
+Clinical psychology review. 2014;34(2):130 –40.
+27. Cuijpers P, Sijbrandij M, Koole SL, Andersson G, Beekman AT, Reynolds CF III.
+Adding psychotherapy to antidepressant medication in depression and
+anxiety disorders: a meta-analysis. World Psychiatry. 2014;13(1):56 –67.
+28. Norton PJ, Price EC. A meta-analytic review of adult cognitive-behavioral
+treatment outcome across the anxiety disorders. The Journal of nervous
+and mental disease. 2007;195(6):521 –31.
+29. Eisenberg D, Golberstein E, Gollust SE. Help-seeking and access to mental
+health care in a university student population. Medical care. 2007;1:594 –601.
+30. Eisenberg D, Downs MF, Golberstein E, Zivin K. Stigma and help seeking for
+mental health among college students. Medical Care Research and Review.
+2009;66(5):522 –41.
+31. Hunt J, Eisenberg D. Mental health problems and help-seeking behavior
+among college students. Journal of Adolescent Health. 2010 Jan 31;46(1):3 –10.
+32. Mawjee K, Woltering S, Tannock R. Working memory training in post-
+secondary students with ADHD: a randomized controlled study. PloS one.
+2015;10(9):e0137173.
+33. Woltering S, Lishak V, Hodgson N, Granic I, Zelazo PD. Executive function in
+children with externalizing and comorbid internalizing behavior problems.
+Journal of Child Psychology and Psychiatry. 2016;57(1):30 –8.
+34. Mathews A, MacLeod C. Cognitive vulnerability to emotional disorders.
+Annu. Rev. Clin. Psychol. 2005;1:167 –95.
+35. Woltering S, Shi Q. On the neuroscience of self-regulation in children with
+disruptive behavior problems: implications for education. Rev Educational
+Res. 2016;86(4):1085 –110.
+36. Dziegielewski SF, Turnage B, Roest-Marti S. Addressing stress with social
+work students: A controlled evaluation. Journal of Social Work Education.
+2004;40(1):105 –19.
+37. Broderick PC. Mindfulness and coping with dysphoric mood: contrasts with
+rumination and distraction. Cognitive Therapy and Research. 2005;29(5):501 –10.
+38. Ortner CN, Kilner SJ, Zelazo PD. Mindfulness meditation and reduced
+emotional interference on a cognitive task. Motivation Emotion. 2007;31(4):
+271 –83.
+39. Jha AP, Krompinger J, Baime MJ. Mindfulness training modifies subsystems of
+attention. Cognitive, Affective, & Behavioral Neuroscience. 2007;7(2):109 –19.
+40. Erisman SM, Roemer L. A preliminary investigation of the effects of
+experimentally induced mindfulness on emotional responding to film clips.
+Emotion. 2010;10(1):72.
+41. Urry HL, Van Reekum CM, Johnstone T, Kalin NH, Thurow ME, Schaefer HS,
+Jackson CA, Frye CJ, Greischar LL, Alexander AL, Davidson RJ. Amygdala and
+ventromedial prefrontal cortex are inversely coupled during regulation of
+negative affect and predict the diurnal pattern of cortisol secretion among
+older adults. J Neuroscience. 2006;26(16):4415 –25.
+42. Baer RA. Mindfulness training as a clinical intervention: A conceptual and
+empirical review. Clinical Psychol. 2003;10(2):125 –43.
+43. Semple RJ, Droutman V, Reid BA. Mindfulness goes to school: Things
+learned (so far) from research and real-world experiences. Psychology in the
+Schools. 2017;54(1):29 –52.
+44. Van Dam, Nicholas T., Marieke K. Van Vugt, David R. Vago, Laura Schmalzl,
+Clifford D. Saron, Andrew Olendzki, Ted Meissner et al. "Mind the hype: A
+critical evaluation and prescriptive agenda for research on mindfulness and
+meditation." Perspectives on psychological science 13, no. 1 (2018): 36-61.
+45. Bishop SR, Lau M, Shapiro S, Carlson L, Anderson ND, Carmody J, Segal ZV,
+Abbey S, Speca M, Velting D, Devins G. Mindfulness: A proposed operational
+definition. Clinical psychology: Science and practice. 2004 Sep;11(3):230 –41.
+46. Desrosiers A, Vine V, Klemanski DH, Nolen-Hoeksema S. Mindfulness and
+emotion regulation in depression and anxiety: common and distinct
+mechanisms of action. Depression and anxiety. 2013;30(7):654 –61.
+47. Hirsch JA, Bishop B. Respiratory sinus arrhythmia in humans: how breathing
+pattern modulates heart rate. Am J Physiology-Heart and Circulatory
+Physiology. 1981;241(4):H620 –9.
+48. Porges SW, Doussard-Roosevelt JA, Maiti AK. Vagal tone and the
+physiological regulation of emotion. Monographs of the society for research
+in child development. 1994;59(2-3):167 –86.
+49. Thayer JF, Lane RD. A model of neurovisceral integration in emotion
+regulation and dysregulation. Journal of affective disorders. 2000 Dec 2;
+61(3):201 –16.
+50. Homma I, Masaoka Y. Breathing rhythms and emotions. Experimental
+physiology. 2008 Sep 1;93(9):1011 –21.Linet al. Pilot and Feasibility Studies            (2021) 7:84 Page 12 of 13
+51. Boiten FA, Frijda NH, Wientjes CJ. Emotions and respiratory patterns: review
+and critical analysis. Int J Psychophysiology. 1994;17(2):103 –28.
+52. McCaul KD, Solomon S, Holmes DS. Effects of paced respiration and
+expectations on physiological and psychological responses to threat. J
+Personality Soc Psychol. 1979;37(4):564.
+53. Masaoka Y, Homma I. Anxiety and respiratory patterns: their relationship
+during mental stress and physical load. International Journal of
+Psychophysiology. 1997;27(2):153 –9.
+54. Grossman P. Respiration, stress, and cardiovascular function.
+Psychophysiology. 1983;20(3):284 –300.
+55. McKee M. Biofeedback: An overview in the context of heart-brain medicine.
+Cleveland Clinic J Med. 2008;75:S31.
+56. Swan M. The quantified self: Fundamental disruption in big data science
+and biological discovery. Big Data. 2013;1(2):85 –99.
+57. Heaman D. The quieting response (QR): a modality for reduction of
+psychophysiologic stress in nursing students. J Nursing Education. 1995;
+34(1):5 –9.
+58. Horgan K, Howard S, Gardiner-Hyland F. Pre-service Teachers and Stress
+During Microteaching: An Experimental Investigation of the Effectiveness of
+Relaxation Training with Biofeedback on Psychological and Physiological
+Indices of Stress. Applied psychophysiology and biofeedback. 2018;43(3):
+217 –25.
+59. Dupee M, Werthner P. Managing the stress response: the use of
+biofeedback and neurofeedback with Olympic athletes. Biofeedback. 2011;
+39(3):92 –4.
+60. Karavidas MK, Lehrer PM, Vaschillo E, Vaschillo B, Marin H, Buyske S,
+Malinovsky I, Radvanski D, Hassett A. Preliminary results of an open label
+study of heart rate variability biofeedback for the treatment of major
+depression. Applied psychophysiology and biofeedback. 2007;32(1):19 –30.
+61. Zucker TL, Samuelson KW, Muench F, Greenberg MA, Gevirtz RN. The effects
+of respiratory sinus arrhythmia biofeedback on heart rate variability and
+posttraumatic stress disorder symptoms: a pilot study. Applied
+psychophysiology and biofeedback. 2009;34(2):135.
+62. Reiner R. Integrating a portable biofeedback device into clinical practice for
+patients with anxiety disorders: Results of a pilot study. Applied
+Psychophysiology and Biofeedback. 2008;33(1):55 –61.
+63. Wilson S. Wearables Market to Be Worth $25 Billion by 2019 [Internet]. CCS
+Insight. [cited 2018Oct1]. Available from: https://www.ccsinsight.com/press/
+company-news/2332-wearables-market-to-be-worth-25-billion-by-2019-revea
+ls-ccs-insight
+64. Tractica. Wearable device revenue worldwide 2016-2022 | Statistic [Internet].
+Statista. [cited 2018Oct1]. Available from: https://www.statista.com/statistics/
+610447/wearable-device-revenue-worldwide/
+65. Zheng J, Shen Y, Zhang Z, Wu T, Zhang G, Lu H. Emerging wearable
+medical devices towards personalized healthcare. InProceedings of the 8th
+International Conference on Body Area Networks 2013 Sep 30 (pp. 427-431).
+ICST (Institute for Computer Sciences, Social-Informatics and
+Telecommunications Engineering).
+66. Moore GE. Cramming more components onto integrated circuits, Reprinted
+from Electronics, volume 38, number 8, April 19, 1965, pp. 114 ff. IEEE Solid-
+State Circuits Society Newsletter. 2006 Sep;11(3):33-5.
+67. Munro BJ, Campbell TE, Wallace GG, Steele JR. The intelligent knee sleeve: A
+wearable biofeedback device. Sensors and Actuators B: Chemical. 2008;
+131(2):541 –7.
+68. Jo E, Lewis K, Directo D, Kim MJ, Dolezal BA. Validation of biofeedback
+wearables for photoplethysmographic heart rate tracking. Journal of sports
+science & medicine. 2016;15(3):540.
+69. Costa J, Adams AT, Jung MF, Guimbretière F, Choudhury T.
+EmotionCheck: leveraging bodily signals and false feedback to regulate
+our emotions. In: Proceedings of the 2016 ACM International Joint
+Conference on Pervasive and Ubiquitous Computing: ACM; 2016. p.
+758 –69.
+70. MacLean D, Roseway A, Czerwinski M. MoodWings: a wearable biofeedback
+device for real-time stress intervention. InProceedings of the 6th
+international conference on PErvasive Technologies Related to Assistive
+Environments 2013 May 29 (p. 66). ACM.
+71. van der Zwan JE, de Vente W, Huizink AC, Bögels SM, de Bruin EI. Physical
+activity, mindfulness meditation, or heart rate variability biofeedback for
+stress reduction: a randomized controlled trial. Applied psychophysiology
+and biofeedback. 2015;40(4):257 –68.72. Ratanasiripong P, Park JF, Ratanasiripong N, Kathalae D. Stress and anxiety
+management in nursing students: biofeedback and mindfulness meditation.
+Journal of Nursing Education. 2015;54(9):520 –4.
+73. Spielberger CD, Gorsuch RL. State-trait anxiety inventory for adults: Manual
+and sample: Manual, instrument and scoring guide: Consulting
+Psychologists Press; 1983.
+74. Operario D, Adler NE, Williams DR. Subjective social status: Reliability and
+predictive utility for global health. Psychology Health. 2004;19(2):237 –46.
+75. Barnes LL, Harp D, Jung WS. Reliability generalization of scores on the
+Spielberger state-trait anxiety inventory. Educational Psychological
+Measurement. 2002;62(4):603 –18.
+76. Spielberger CD, Gorsuch RL, Lushene R, Vagg PR, Jacobs GA. Consulting
+Psychologists Press; Palo Alto, CA: 1983. Manual for the state-trait anxiety
+inventory. 1983.
+77. Jones KI, Amawi F, Bhalla A, Peacock O, Williams JP, Lund JN. Assessing
+surgeon stress when operating using heart rate variability and the State
+Trait Anxiety Inventory: will surgery be the death of us? Colorectal Disease.
+2015;17(4):335 –41.
+78. Gratz KL, Roemer L. Multidimensional assessment of emotion regulation and
+dysregulation: Development, factor structure, and initial validation of the
+difficulties in emotion regulation scale. Journal of psychopathology and
+behavioral assessment. 2004;26(1):41 –54.
+79. Ritschel LA, Tone EB, Schoemann AM, Lim NE. Psychometric properties of
+the Difficulties in Emotion Regulation Scale across demographic groups.
+Psychological Assessment. 2015;27(3):944.
+80. Cohen S, Kamarck T, Mermelstein R. A global measure of perceived stress. J
+Health Soc Behav. 1983;1:385 –96.
+81. Lee EH. Review of the psychometric evidence of the perceived stress scale.
+Asian nursing research. 2012;6(4):121 –7.
+82. Roberti JW, Harrington LN, Storch EA. Further psychometric support for the
+10-item version of the perceived stress scale. Journal of College Counseling.
+2006;9(2):135 –47.
+83. SurveySignal, LLC. Chicago, IL. 2015.
+84. Corp IB. IBM SPSS statistics for windows, version 24.0. Armonk, NY: IBM
+Corp. 2016.
+85. Porges SW, Byrne EA. Research methods for measurement of heart rate and
+respiration. Biological psychology. 1992;34(2-3):93 –130.
+86. Kressbach M. Breath work: mediating health through breathing apps and
+wearable technologies. New Review of Film and Television Studies. 2018;
+16(2):184 –206.
+87. Leape C, Fong A, Ratwani RM. Heuristic usability evaluation of wearable
+mental state monitoring sensors for healthcare environments.
+InProceedings of the human factors and ergonomics society annual
+meeting 2016 Sep (Vol. 60, No. 1, pp. 583-587). Sage CA: Los Angeles, CA:
+SAGE Publications.
+88. Lovett PB, Buchwald JM, Stürmann K, Bijur P. The vexatious vital: neither
+clinical measurements by nurses nor an electronic monitor provides
+accurate measurements of respiratory rate in triage. Annals of emergency
+medicine. 2005;45(1):68 –76.
+89. Folke M, Cernerud L, Ekström M, Hök B. Critical review of non-invasive
+respiratory monitoring in medical care. Medical and Biological Engineering
+and Computing. 2003;41(4):377 –83.
+90. Parnandi A, Gutierrez-Osuna R. Physiological modalities for relaxation skill
+transfer in biofeedback games. IEEE journal of biomedical and health
+informatics. 2017;21(2):361 –71.
+91. Grossman P, Niemann L, Schmidt S, Walach H. Mindfulness-based stress
+reduction and health benefits: A meta-analysis. Journal of psychosomatic
+research. 2004;57(1):35 –43.
+92. Rosenzweig S, Reibel DK, Greeson JM, Brainard GC, Hojat M. Mindfulness-
+based stress reduction lowers psychological distress in medical students.
+Teaching and learning in medicine. 2003;15(2):88 –92.
+93. Friesike S, Widenmayer B, Gassmann O, Schildhauer T. Opening science:
+towards an agenda of open science in academia and industry. The Journal
+of Technology Transfer. 2015;40(4):581 –601.
+Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.Linet al. Pilot and Feasibility Studies            (2021) 7:84 Page 13 of 13

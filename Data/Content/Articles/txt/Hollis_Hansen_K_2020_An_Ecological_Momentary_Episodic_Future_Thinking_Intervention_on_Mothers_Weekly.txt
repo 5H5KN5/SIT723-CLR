@@ -1,0 +1,714 @@
+An ecological momentary episodic future thinking intervention 
+on mother’s weekly food purchases
+Kelseanna Hollis-Hansen1,2, Jennifer Seidman1, Sara O’Donnell1, Amber Wedderburn1, 
+Sanja Stanar1, Spencer Brande1, Leonard H. Epstein1
+1Department of Pediatrics, University at Buffalo Jacobs School of Medicine and Biomedical 
+Sciences
+2Department of Community Health and Health Behavior, University at Buffalo School of Public 
+Health and Health Professions
+Abstract
+Background: Imagining one’s own future (episodic future thinking, EFT) has helped mothers 
+with overweight purchase healthier groceries during an online shopping task in the laboratory. The 
+present study explored whether delivering an EFT intervention to participant’s devices via an 
+ecological momentary intervention (EMI) tool would help mother’s purchase healthier food at 
+brick-and-mortar stores.
+Methods: Participants (N=43, mother’s 31–52 years of age, BMI≥24.9 kg/m2) were randomized 
+to EFT or standardized episodic thinking (SET). EFT cues include a positive and vivid description 
+of future events while SET cues focus on the recent experience of playing games in the laboratory. 
+Cues were uploaded to participant profiles on an EMI site. Participants were trained on how to 
+read and listen to cues as well as how to detail purchases. Participants received text reminders to 
+listen to cues before shopping and returned with receipts the following day. Receipt data was 
+analyzed to derive dependent variables, calories and nutrients purchased per person. Correlations 
+were used to analyze associations between study variables of interest and ANOV As were 
+conducted to compare dietary variables by group.
+Results: Participants in the EFT group purchased fewer calories than participants in the SET 
+control group ( F(1,41)=6.25, p=0.02;ηp2 =.13) as well as fewer grams of fat 
+(F(1,41)=10.03, p<0.01;ηp2= .20), saturated fat ( F(1,41)=6.15, p =0.02;ηp2=.13), and sodium 
+(F(1,41)=7.93, p<0.01;ηp2 = .16).
+Conclusion: Delivering EFT cues to participant devices may be a promising way to improve the 
+calorie and nutrient content of food purchases. Future research should include a longer follow-up 
+and analyze calorie changes over time.
+MeSH Keywods:
+Delay Discounting; Mobile Applications; Mothers; Overweight; Food
+Corresponding Author:  Kelseanna Hollis-Hansen. Department of Pediatrics, Jacobs School of Medicine and Biomedical Sciences, 
+University at Buffalo, Farber Hall, Room G56, 3435 Main Street, Building #26, Buffalo, New York 14214-3000; phone (716) 
+829-6819; fax: (716) 829-3993; kasmith6@buffalo.edu. 
+HHS Public Access
+Author manuscript
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Published in final edited form as:
+Health Psychol . 2020 February ; 39(2): 159–167. doi:10.1037/hea0000817.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+The access and availability of obesogenic foods in the home is an important determinant in 
+energy balance, and hence obesity. The increased availability of high-calorie foods in the 
+home has been associated with the overconsumption of these foods ( Campbell et al., 2007 ), 
+inadequate fruit and vegetable intake ( Rosenkranz & Dzewaltowski, 2008 ), and overweight 
+and obesity ( Birch & Ventura, 2009 ). The majority of calories consumed by a family come 
+from foods purchased by parents, specifically mothers ( Scaglioni, Arrizza, Vecchi, & 
+Tedeschi, 2011 ). Although traditional gender roles are changing, the most recent research 
+still shows that mothers are the primary household food shoppers ( PLMA, 2013 ) and 
+primary food preparers ( Hannon, Bowen, Moinpour, & McLerran, 2003 ) for the majority of 
+families. As a result, mothers have a significant effect on the eating behaviors and health 
+outcomes of their children. Due to the overwhelming influence of mothers on family food 
+consumption through food shopping and preparation, an intervention to help overweight and 
+obese mothers purchase healthier food (e.g. fewer calories, better macronutrient profiles) 
+may promote better dietary behaviors for the entire family and has the potential to reduce 
+family overweight and obesity.
+Episodic future thinking (EFT) is the ability to mentally project oneself into the future to 
+pre-experience an event that could potentially occur ( Atance & O’Neill, 2001 ; Schacter, 
+Benoit, & Szpunar, 2017 ; Szpunar, 2010 ). The degree to which a person engages in EFT 
+affects the way they make decisions in the present ( Schacter, Benoit, & Szpunar, 2017 ), such 
+that when people are cued to think about their personal future, they make more adaptive 
+decisions in the moment. Other benefits of EFT include improvements in affect (e.g. reduced 
+anxiety), prospective memory (e.g. remembering to complete a planned action), and spatial 
+navigation (e.g. remembering the route to a goal) ( Schacter, Benoit, & Szpunar, 2017 ). 
+Prompting people to vividly imagine their future has been used as a behavioral intervention 
+to improve self-regulation in some tempting situations ( Daniel, Stanton, & Epstein, 2013b ).
+Discounting of the future (e.g. “delay discounting”, DD), a preference for a smaller 
+immediate reward (e.g. junk food consumption) over a larger distant reward (e.g. future 
+health) ( Rung & Madden, 2018 ), has been associated with numerous maladaptive behaviors 
+and outcomes, including obesity ( Epstein, Salvy, Carr, Dearing, & Bickel, 2010 ). Recent 
+research has also shown that DD is related to participant’s food purchasing, such that greater 
+discounting of the future is significantly associated with purchasing higher calorie foods and 
+lower healthy eating index scores ( Appelhans, Tangney, French, Crane, & Wang, 2019 ).
+EFT is an intervention that has successfully decreased discounting of the future and may 
+help people to resist temptation ( Daniel et al., 2013b ). EFT has decreased consumption in 
+hypothetical alcohol and cigarette ( Snider, LaConte, & Bickel, 2016 ; Stein, Tegge, Turner, & 
+Bickel, 2018 ) purchasing tasks, as well as a self-administered cigarette smoking task ( Stein 
+et al., 2016 ). The impacts of EFT on eating behaviors have also been studied, and EFT 
+training has reduced energy intake in ad libitum eating tasks for adults in a laboratory setting 
+(Daniel, Stanton, & Epstein, 2013a ), adults in a cafeteria setting ( O’Neill, Daniel, & Epstein, 
+2016 ), and children in a laboratory setting ( Daniel, Said, Stanton, & Epstein, 2015 ).
+The NIH Stages Model is a translational research framework that describes how basic 
+science can be used to inform the design, refinement, and implementation of interventions to Hollis-Hansen et al. Page 2
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+help improve clinical health outcomes (Onken, Carroll, et. al, 2015). The model establishes 
+an iterative process that seeks to identify 1) the causes and mechanisms by which an 
+intervention is working throughout the entire development of the intervention, 2) why, how, 
+and for whom results may sometimes be sub-optimal, and 3) what adaptations can be made 
+to bolster the effects and/or implement the intervention into new settings (Onken et. al, 
+2015). Using EFT as an intervention is predicated on basic science findings that explain the 
+adaptive mechanisms and functions of EFT ( Schacter, Benoit, & Szpunar, 2017 ), in 
+particular EFT’s potential to influence DD ( Critchfield & Kollins, 2001 ) and subsequent 
+health behaviors. The present study is part of a larger translational research program that 
+seeks to examine and refine EFT interventions to change behavior and reduce chronic 
+disease burden.
+In the first applications of using EFT to modify mother’s food shopping behaviors (NIH 
+“Stage 1”) we tested EFT in the laboratory and found that participants who use EFT before 
+and during grocery shopping purchase fewer calories and healthier nutrient profiles than 
+participants in control conditions in an online grocery store ( Hollis-Hansen, Seidman, 
+O’Donnell, & Epstein, 2019a ). To systematically replicate those findings we set out to 
+examine whether EFT could improve food purchasing behavior in the natural environment. 
+As a secondary exploratory hypothesis, we sought to identify whether EFT could influence 
+DD in an uncued context, as it is one of the hypothesized underlying mechanisms by which 
+EFT is thought to improve health decision-making (e.g. in this case, grocery purchases). If 
+people in an EFT group show increases on the DD task when not cued to think about their 
+future during the task, it could be an indication that listening to the cues over a period of 
+time may help EFT to become a “default” way of thinking that changes decision-making 
+even when unprompted.
+The present study utilizes an ecological momentary intervention (EMI) platform, an 
+intervention delivered to participants in real time in their usual setting. EMIs implemented 
+through mobile technology have been effective in several behavioral interventions, including 
+smoking cessation, diabetes self-management, and weight loss ( Heron & Smyth, 2010 ). The 
+“Mobile Audio Manager and Response Tracker” (MAMRT) EMI tool used in the present 
+study has been shown to be feasible for the delivery of EFT outside of the laboratory and has 
+the potential to reduce parent weight and energy intake ( Sze, Daniel, Kilanowski, Collins, & 
+Epstein, 2015 ). In the present study, we used MAMRT to deliver an early-phase EFT 
+intervention to mothers before they went grocery shopping or made food purchases for their 
+household.
+METHODS
+The present study was a between subject’s design with participants randomized to an 
+episodic future thinking (EFT) group or a standardized episodic thinking (SET) control. 
+Ethical standards were followed and the study was approved by the University at Buffalo 
+Social and Behavioral Sciences Institutional Review Board on 9/17/2018 (Study ID: 
+00002757).Hollis-Hansen et al. Page 3
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Participants were recruited through e-mails from our Division of Behavioral Medicine 
+participant database, fliers on open message boards throughout the Buffalo community, and 
+targeted Facebook ads. Recruitment materials directed interested community members to an 
+online eligibility screener where they answered demographic questions, a brief health history 
+questionnaire, and one-item on recent participation in grocery or EFT studies. Individuals 
+were excluded if: they did not have a child between the age of 2 and 15 in the household for 
+whom they buy groceries; they self-reported untreated psychopathologies, as their illness 
+may impair their ability to positively and vividly imagine their own personal future ( Roepke 
+& Seligman, 2016 ); if their calculated body mass index (BMI) was ≤ 24.9, which indicated 
+they were normal weight; if they reported eating disorders, as the illness may influence the 
+food one is buying; and lastly if they participated in an EFT study within the past six 
+months, in order to eliminate the possibility of carryover effects. The one-item on previous 
+participation asked “Have you recently participated in another research study involving 
+grocery shopping or generating cues?”, with the “Yes” response requiring an answer to an 
+open-field that said “If yes, please describe the study and when you participated”. To be 
+eligible for the present study participants must have indicated “no” or that they participated 
+≥ 6-months prior to the present study.
+Included participants (N = 43) were mother’s aged 31 – 52 years of age with a BMI ≥ 25.0 
+(Range to 60.9, Mean = 36.0 ± 7.4). Detailed participant and study characteristics can be 
+found in Table 1. One participant randomized to the SET control group completed the 
+baseline appointment and used the MAMRT application once, but failed to return with 
+receipts after repeated attempts to reschedule and collect follow-up data. The participant’s 
+data was not included in the analyses as we did not collect baseline receipt data from which 
+to impute follow-up receipt data and researchers report it is unnecessary to impute data when 
+there is <5% missing ( Jakobsen, Gluud, Wettersley, Winkel, 2017 ).
+The study was designed to take place over a three-day period. Participant baseline 
+appointments were scheduled via phone or text message for the day before the participant 
+planned to grocery shop. Participants were randomized to the EFT intervention group or the 
+SET control group at the baseline appointment. The participant shopped on Day 2 and 
+returned on Day 3 with receipts. There were two cases where participants had a family 
+circumstance which led to rescheduling their follow-up appointments for 15 days and 22 
+days after baseline. In those instances, participants were instructed to wait to use their cues 
+and collect receipts until the day before their new follow-up appointment date, so that the 
+same number of days would be collected even though there was a difference in time between 
+appointment.
+At the beginning of the baseline session participants completed a paper demographic 
+questionnaire ( Gage-Bouchard & Devine, 2014 ) which included questions on their age, race/
+ethnicity, education, income, house size, perceived social status, and their use of government 
+benefit programs.
+After the demographic questionnaire participants completed a computer based adjusting 
+amount delay discounting task. The adjusting amount task asks people if they would rather 
+have X (smaller) amount of money now or Y (larger) amount of money at different time Hollis-Hansen et al. Page 4
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+points in the future ( Sze et al., 2015 ). The amount of money available in the present stays the 
+same, while the amount of money in the future increases or decreases by 50% of the 
+preceding value. For this study participants were asked how much of a commodity (e.g., 
+money) they would prefer immediately over a larger reward after 5 time delays (1 day, 1 
+week, 1 month, 6 months, and 1 year) ( Koffarnus & Bickel, 2014 ). These choices provide us 
+with an indifference point for each time delay – the point when the decision-maker is 
+indifferent to the delay or has equal preference for both choices ( Odum, 2011 ). One’s 
+indifference points are used to plot a curve, and the area-under-the-curve (AUC) is used to 
+quantify how much they discount the future, with a lower AUC indicating a greater tendency 
+to discount the future ( Odum, 2011 ).
+After the DD task, participants completed an online survey, with the following measures 
+included. We collected the shopping habits survey because people are known to shop in 
+different locations at different frequencies ( Minaker et al., 2016 ). This survey asks 
+participants how frequently they buy or procure food from supermarkets, supercenters, food 
+co-ops, convenience stores, specialty stores, farmers’ markets, food banks, and home 
+delivery. Response options range from “Never/rarely” (infrequent, “0”) to “Once or more per 
+week” (frequent, “5”). We measured food insecurity using the USDA Economic Research 
+Service 6-item short form of the food security survey module ( Blumberg, Bialostosky, 
+Hamilton, & Briefel, 1999 ) as food insecurity may influence the quantity and quality of food 
+purchased ( Dachner, Ricciuto, Kirkpatrick, & Tarasuk, 2010 ). The CFC scale is a 12 item 
+scale that measures whether people identify themselves as immediate or future focused in 
+their day-to-day decision-making and actions (e.g. “I only act to satisfy immediate concerns, 
+figuring the future will take care of itself.”) ( Strathman, Gleicher, Boninger, & Edwards, 
+1994 ). Respondents indicate whether an item is characteristic to them on a scale from 1 
+(“extremely uncharacteristic) to 5 (“extremely characteristic”). We included 5-items on fruit 
+and vegetable (F&V) intake and 2-items on fast food and regular restaurant intake from the 
+Behavioral Risk Factor Surveillance Survey ( Moore et al., 2015 ). The F&V items were 
+included to determine participant’s baseline healthy food consumption. We included the fast 
+food and restaurant items as a precaution and planned to control for them if we found group 
+differences, as we anticipated that people who report eating outside of the home more 
+frequently would be buying and eating fewer groceries.
+After completing questionnaires, participants generated text cues on Qualtrics (a survey 
+platform) with a research assistant following similar procedures as our previous studies 
+(Hollis-Hansen, Seidman, et al., 2019a ). Participants in all groups played five mobile 
+application games (e.g. Flow Free, Trivia Crack, Bubble Witch, Geometry Dash, Solitaire) 
+and rated each game on a scale from one to five where one was “do not like at all” and five 
+was “like very much”.
+Participants then played their three top-rated mobile application games immediately before 
+generating cues.
+Participants in the EFT group are asked to vividly imagine and describe a positive future 
+event or experience that could really happen or that they already have planned for 1-month, 
+6-months, and 1-year in the future. The cues include the event or experience, who is with Hollis-Hansen et al. Page 5
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+them, where they are, what they are doing, and how they are feeling (“In about 1 month I am 
+sitting at my kitchen table singing happy birthday to my daughter. She is blowing out the 
+candles and we are clapping and laughing. We are talking about what she wished for and our 
+dreams for the year ahead. We are feeling happy to spend this time together as a family.”). 
+The research assistant guides them through the process of writing the cue and transcribes 
+their description into Qualtrics.
+Participants in the SET control group generate cues similarly, but they are asked to vividly 
+imagine the experience of playing the mobile application games during their laboratory 
+appointment. SET participants provide a detailed description of their experience in a similar 
+style as the EFT cue, including who, what, where, and how they are feeling (“About 10 
+minutes ago I was playing Geometry Dash on a tablet in a beige room at UB. In the game, I 
+was a square, jumping over other geometrical obstacles, racing to the finish line. I was 
+feeling happy as I cleared a difficult level.”).
+In both groups participants are asked how vividly they can imagine the place where they are, 
+the time of the day, and what is going on around them when they picture their event or 
+experience as well as how much they like the event or experience. Though it did not happen 
+in the present study, participants who rate the event or experience below a “3” on a scale 
+from 1 (not at all vivid/do not like at all) to 5 (very vivid/like very much) would have been 
+asked to pick a different event or experience.
+After creating cues, the research assistant directed the participant to read their cues out loud 
+and recorded the cues using Audacity, a computer voice recording program. The text and 
+audio cues were uploaded to our EMI platform, MAMRT, and attached to the participants 
+personal MAMRT account. Participants were trained on how to use MAMRT and 
+demonstrated an ability to independently access their account and practice their cues before 
+leaving their baseline appointment. Participants were given a training guide on how and 
+when to use MAMRT. Participants were asked to practice (e.g. read and listen to) their cues 
+on the evening they created them and during the day before they went grocery shopping for a 
+total of two cue recalls. Participants were sent a reminder to listen to their cues by a 
+scheduled text or e-mail. After participants read and listened to their cues, they were 
+presented with a series of manipulation check questions, such as how vivid their thoughts 
+were about their cues (Likert scale, 1 [not at all vivid] – 5 [very vivid]), how much they were 
+paying attention to their cues (Likert scale, 1 [not at all] – 5 [very much]), where they were 
+completing their thought training (open-ended text entry), how they were feeling in the 
+moment (open-ended text entry), and what decision(s) they were thinking about in the 
+moment (open-ended text entry). The attention and vividness questions were used to confirm 
+whether or not the cues were distinctly imagined, and if the participant was paying attention 
+while completing their thought training (e.g. cue recalls). Additionally, MAMRT records 
+each time the participant completes a cue recall, and we created the variable “number of cue 
+recalls” to analyze whether there were group differences in how frequently participants 
+accessed their cues.
+In addition to the MAMRT training guide, participants received a thorough explanation of 
+how to properly document their food purchases and were sent home with food receipt forms Hollis-Hansen et al. Page 6
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+and a food receipt training guide adapted from the ShOPPER study ( Appelhans et al., 2019 ; 
+French, Tangney, Crane, Wang, & Appelhans, 2019). The food receipt forms ask participants 
+to give a very detailed and thorough explanation of the food items they purchased (e.g. 
+whole fat, low-fat, brand name), the size of the item, and the price. Participants were 
+unrestricted as to where they could make food purchases. Though the main focus of the 
+intervention was on changing grocery purchases, we also collected and analyzed receipts on 
+all food purchases (e.g. fast food, restaurant, takeout, etc.) to provide a complete picture of 
+calories purchased during the intervention period.
+At the follow-up appointment participants returned with all of their food shopping receipt(s) 
+and the completed food receipt forms. While research assistants reviewed the receipts in the 
+control room, participants completed a follow-up DD task that was identical to the task at 
+the baseline appointment. In most studies on DD, participant’s EFT or control cues are 
+presented while the participant is tasked with selecting their preferred amount of money (e.g. 
+participants are shown their cue and instructed to read and think about their cue while 
+making a choice about money now or later) (O’Donnell, Hollis-Hansen, & Epstein, 2019). 
+We did not display the participant’s cues during the follow-up DD task for this study as we 
+wanted to explore whether EFT could improve DD in an uncued context (e.g. become a 
+“default” way of thinking).
+After participants completed the DD task and research assistants finished reviewing receipts, 
+research assistants did a thorough receipt interview with the participant, matching each 
+receipt item to the details on the food receipt form. Research assistants inquired about any 
+additional information that would help to properly match the food item when inputting the 
+item into NutrionistPro for nutrient analysis. For example, if the participant purchased 
+yogurt and failed to specify what type of yogurt on the food receipt form, the participant was 
+asked what type of yogurt (e.g. Greek, whole fat, low-fat, etc.) and if anything was added to 
+the item that wasn’t already indicated by the receipt or food receipt form (e.g. fruit, nuts, 
+chocolate, etc.).
+Participant grocery receipts were analyzed using NutritionistPro, following the same 
+procedures as described in Hollis-Hansen et. al, 2019 to determine the dependent variables 
+of calories and nutrients purchased per person in the household ( Hollis-Hansen, Seidman, et 
+al., 2019a ). Receipts were input and reviewed by two separate research assistants, and then 
+checked again by the first author.
+Participants were paid $20.00 at the end of the first appointment, $25.00 at the end of their 
+second appointment, and had a 1-in-10 chance to win a $100 gift card to a local grocery 
+store. After every 10 participants, 10 ID numbers were input into a random number 
+generator and the participant that was selected returned to the laboratory to pick up the gift 
+card and sign a receipt. Those who did not win received an e-mail to inform them the 
+drawing had taken place.
+We previously conducted two studies to test whether EFT could improve online grocery 
+shopping in the laboratory (Hollis-Hansen et al., 2019). Our first laboratory study used a 
+semantic control group and our second laboratory study used the SET control group we Hollis-Hansen et al. Page 7
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+planned to use for the present study. Therefore, to power the present study, we used the 
+effect size from our second laboratory study (cohen’s f = .51 or ηp2 = 0.106), which to our 
+knowledge provides the closest comparable estimate available. Using the second laboratory 
+study’s effect size, we determined that the present study would require a minimum of 34 
+subjects or 17 subjects per group at an alpha of .05 and power of .80 to detect a between-
+subjects effect on calories. To be more conservative, we wanted to have a minimum of 20 
+people per group and increased the sample size to 44 subjects, with the assumption that up to 
+4 people (10%) would dropout based on rates from a similar field experiment ( O’Neil, et. al, 
+2016 ). We only had one person fail to return for their follow-up appointment which resulted 
+in 43 subjects in the total sample.
+Between-group analysis of variance (ANOV A) and chi-square tests were used to identify 
+differences in participant characteristics or important study characteristics (e.g. 
+demographics, number of times participants used MAMRT, attention to cues, how vividly 
+one imagined their cues, amount spent on groceries, etc.) that may influence the dependent 
+variable. Fisher’s exact test was used for any categorical variable with less than 5 in a given 
+cell (e.g. percent overweight).
+There were a few variables we measured that we thought may influence the independent or 
+dependent variable, such as: baseline delay discounting as it’s related to the central theory 
+guiding the present research; income, as the amount of money one has may dictate how 
+much they buy and the quality of the food they buy; the frequency at which participants shop 
+at the grocery store as with the short study timeline we were concerned we may not catch a 
+representative snapshot of calories for those who shop more frequently; how often people 
+listened to their cues, and how much they paid attention to their cues. Therefore, in addition 
+to looking at between-group differences on these variables, we also looked at Pearson 
+correlations between study variables of interest.
+To address the primary research hypotheses, we used between-group analysis of variance 
+(ANOV A) with randomized group assignment as the independent variable and calories and 
+nutrients purchased as dependent variables in separate models. To address the secondary 
+research hypothesis, we used a repeated-measures ANOV A with group as the independent 
+variable and baseline and follow-up AUC as the dependent variables. As baseline DD (AUC) 
+was correlated with calories purchased and is theoretically relevant to the dependent variable 
+(Appelhans et al., 2019 ), we also included it as a covariate in a separate model (ANCOV A) 
+to confirm whether it would alter findings.
+RESULTS
+Between-groups ANOV As and chi-square tests resulted in no statistical differences between 
+groups for demographic or control variables, except the percent of participant’s who were 
+overweight versus obese, as there was only one overweight subject in the control group 
+(Table 1). Participant’s baseline DD (e.g. AUC) was inversely correlated with calories (r(43) 
+= − .33, p < .05), such that a higher baseline AUC was associated with fewer calories 
+purchased and higher CFC scores (r(43) = .32, p < .05), consistent with our proposed 
+theoretical framework. Participant’s supermarket shopping frequency was also correlated Hollis-Hansen et al. Page 8
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+with calories (r(43) = −.45, p < .01), such that people who shopped at supermarkets more 
+frequently purchased fewer calories. We found that age was inversely associated with fast 
+food (r(43) = −.31, p < .05) and home delivery purchases (r(43) = −.30, p < .05). Higher 
+income was associated with more frequent supermarket shopping (r(43) = .39, p < .05) and 
+less frequent use of food pantries (r(43) = −.39, p < .01). Receipt of government benefits 
+(e.g. TANF, SNAP, WIC, etc.) was associated with less frequent supermarket shopping 
+(r(43) = −.32, p < .05) , and more frequent supercenter (r(43) = .36, p < .05), corner store 
+(r(43) = .31, p < .05), and pantry (r(43) = .35, p < .05) shopping. Food insecurity was 
+associated with a lower baseline AUC (r(43) = −.38, p < .05) and more frequent supercenter 
+(r(43) = .34, p < .05), corner store (r(43) = .33, p < .05), pantry (r(43) = .47, p < .01), and 
+home delivery (r(43) = .56, p < .01) shopping. Higher education was associated with fewer 
+corner store (r(43) = −.49, p < .01) and fast food (r(43) = −.31, p < .05) trips. All correlations 
+are reported in an online-only supplement (Table 2).
+Participants in the EFT group purchased significantly fewer calories (M = 7,650 ± SD = 
+5,095) than the SET control group (Mean = 12,470 ± SD = 7,471), ( F(1,41) = 6.25, p=0.02; 
+ηp2 =.13) (See Figure 1A). Additionally, EFT participants purchased fewer grams of fat 
+(F(1,41) = 10.03, p<0.01; ηp2= .20), saturated fat ( F(1,41) = 6.15, p = 0.02; ηp2=.13), and 
+fewer milligrams of sodium ( F(1,41) = 7.93, p<0.01; ηp2 = .16) than the SET control group 
+(See Figure 1B, 1C, and 1D). No significant differences were found on grams of 
+carbohydrates ( F(1,41) = 1.46, p = 0.23; ηp2=.03) or sugar purchased ( F(1,41) = 0.59, p = 
+0.45; ηp2=.01). After controlling for baseline AUC, effects remained significant for calories 
+(F(1,40) = 4.29, p=0.05), grams of fat ( F(1,40) = 7.47, p<0.01), grams of saturated fat 
+(F(1,40) = 4.04, p = 0.05), and milligrams of sodium ( F(1,40) = 5.99, p = 0.02) purchased.
+There was no significant change in uncued DD from baseline to follow-up ( F(1,41) = 2.78, 
+p=0.10; ηp2 =.06) though results were trending in the right direction.
+Participants used and accessed their cues using any device that connected to the internet, and 
+the majority of cue recalls (e.g. times listening to the cues) were conducted using the 
+participant’s smartphone (91.11%), followed by computers (7.78%), and tablets (1.11%). 
+Most recalls were completed within the participant’s home (60.22%) or in their car 
+(33.33%), often in the grocery store parking lot. A few cue recalls were completed at the 
+participant’s work (5.38%) or at a relative’s home (1.07%). The number of cue recalls across 
+participants range from zero to eight, with an average of two recalls (Mean = 2.07 ± SD = 
+1.06). 70% of participants listened as instructed by the protocol (two times) and 12% 
+listened more than two times. 16% listened one time and one participant did not use the 
+application after their baseline appointment (2.3%).
+DISCUSSION
+Delivering an EFT intervention to the participants preferred device (e.g. smartphone, 
+computer or tablet) via a mobile web application helped mothers make healthier food 
+purchases during this pilot study. Previously we showed that EFT helped mothers with 
+overweight and obesity to purchase healthier groceries in a hypothetical grocery shopping 
+task in the laboratory. In this study, we systematically replicated and extended that finding as Hollis-Hansen et al. Page 9
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+EFT helped mother’s purchase fewer calories and healthier nutrient profiles while shopping 
+at their preferred brick-and-mortar stores.
+In the present study 82% of participants adhered to the research protocol by listening to their 
+cues a minimum of two times, and 98% listened to their cues at least once before shopping. 
+All but one participant completed the study and all of those who completed the follow-up 
+appointment returned with their receipts and food receipt forms. Participants in the EFT 
+group reported that thinking about future events was a positive experience for them, and 
+thinking about those events seemed to help parents to improve their food purchasing choices 
+given that their purchases were on average lower calorie, lower fat, and lower sodium than 
+the control group.
+The NIH Stages model proposes that when developing an intervention there should be 
+multiple refinements while moving towards effectiveness (“Stage IV”) and implementation 
+and dissemination (“Stage V”) trials (Onken, Carroll, et. al, 2015). Our findings from this 
+Stage I/II study suggest, 1) that EFT may have helped people make more adaptive decisions 
+when they were in a tempting situation or location, such as shopping at a store and 2) that 
+using a mobile EMI application may have helped prompt people to think about their future 
+when they were in a natural environment outside of a research laboratory, but there is still a 
+great deal to explore.
+One possible avenue for exploration is whether EFT interventions (e.g. generation and recall 
+of EFT cues) can make future-orientation a “default” way of thinking in tempting situations, 
+which is why we chose not to present the cues while the participant was completing the 
+follow-up DD task in the present study. Withholding cues may have been one reason we did 
+not see a statistically significant change in DD from baseline to follow-up, given that 
+participants were prompted to think about their cues before they went shopping (where we 
+found an effect), but not before they engaged in the DD task. Alternatively, these findings 
+could also suggest that it may take longer than 48 hours and two cue recalls for EFT to 
+become a “default” way of thinking in uncued contexts. It’s possible that EFT interventions 
+are less effective when participants are unprompted to think about their cues ( Rung & 
+Madden, 2019 ), but it is also possible that people need more frequent exposure to their cues 
+and more opportunities to use their cues in tempting situations in order to change their 
+default way of thinking and decision-making. Future research with longer follow-up should 
+seek to establish whether it is possible to make EFT a “default” way of thinking when faced 
+with temporal decisions as well as to identify the appropriate dose and duration of EFT 
+interventions.
+The present study has many strengths, including an experimental design, a validated control 
+group ( Hollis-Hansen, O’Donnell, Seidman, Brande, & Epstein, 2019b ), and a sample 
+powered to detect an effect on calories purchased. Additionally, the study is a systematic 
+replication of two prior studies which resulted in the same findings on calories, fat, and 
+saturated fat ( Hollis-Hansen, Seidman, et al., 2019a ). Further, in this study participants used 
+the intervention and went shopping in their preferred environment (outside of the 
+laboratory).Hollis-Hansen et al. Page 10
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+There are limitations of the present study. First, this study only included mothers with 
+overweight or obesity because of the academic and consumer literature that indicates 
+mothers are the primary food shoppers and food preparers for the household. Therefore, our 
+results do not tell us how well EFT works for normal weight women with children, adult 
+men and women without children, or for fathers who are primary food shoppers for their 
+households. It would be interesting to conduct a study with normal and overweight mothers 
+and fathers to identify whether intervening on food purchases early can help to prevent 
+weight gain for the entire family. Although prior research has shown that maternal weight 
+gain has a stronger association with child’s weight change than father’s ( Whitaker, Jarvis, 
+Beeken, Boniface, & Wardle, 2010 ), there could be additive benefits from including fathers 
+in future studies ( Davison et al., 2019 ).
+Second, people shop at different frequencies throughout the week, which has been 
+associated with diet quality ( Minaker et al., 2016 ). To account for that, we included the 
+shopping habits survey and tested for group differences on all of the participants reported 
+shopping habits, but future studies would benefit from a longer follow-up period to account 
+for monthly shopping variations. Third, vitamins and minerals have not been consistently 
+reported on food labels and are not consistently reported in nutrition databases, such as 
+NutrionistPro. Therefore, we were unable to calculate information on health-promoting 
+nutrients. Future studies could attempt to use other nutrition databases that provide these 
+outcomes and calculate health-indices, such as the healthy eating index (HEI) ( Krebs-Smith, 
+et. al, 2018 ).
+Lastly, although we used a validated control group ( Hollis-Hansen et. al, 2019b ), it may not 
+adequately control for between group differences in emotional intensity and personal 
+significance, given that celebrating a birthday may be more meaningful to participants than 
+playing mobile application games. We have been unable to find any research that had 
+participant’s subjectively or objectively rate the emotional intensity or personal significance 
+of EFT and control cues and therefore we are unsure whether these factors would influence 
+DD or health behaviors. The main benefit of SET (the control used in this study) is that it 
+standardizes the recent experience for all control participants thereby reducing the variability 
+in the control group’s recent cues ( Hollis-Hansen et. al, 2019b ).
+It is difficult to resist the temptation to eat highly reinforcing fat, sugar and salt laden foods 
+once they are in our immediate environment. In fact, we are biologically driven to want to 
+eat those foods ( Finlayson, 2017 ) and our larger social environments (e.g. media and 
+advertisements, food stores) are designed to trigger that drive and wanting ( Epstein, Leddy, 
+Temple, & Faith, 2007 ). Research suggests that the food one buys is correlated with diet 
+quality ( Appelhans et al., 2012 ), as outside of hunger relief programs, virtually no food is 
+consumed that was not at one point purchased. Making better food choices at the point of 
+purchase may be both a temptation management strategy (e.g. keeping it out of the cart) and 
+a temptation prevention strategy (e.g. keeping it out of the home) (Appelhans, French, et. al, 
+2017). EFT may help people resist the temptation to buy unhealthy foods because mentally 
+simulating one’s own future is associated with improvements in affect, decision-making, 
+planning, and spatial navigation (e.g. developing a pathway to achieving a goal) ( Schacter et. 
+al, 2017 ). Specifically, EFT may help by 1) improving emotional regulation when someone Hollis-Hansen et al. Page 11
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+is in a “hot state” after seeing a food cue in the store, 2) by making the future goal (e.g. 
+better health or weight loss) seem more salient than the immediate gratification of buying a 
+bag of chips, and 3) by encouraging one to think ahead about what food stores one may want 
+to frequent or what foods one may want to buy or avoid. If we can use EFT to help parents 
+to reduce the temptation to buy unhealthy foods and instead purchase healthier foods for 
+their families, we may be able to improve the nutrient profiles of foods purchased, which in 
+turn should help people change their home food environment and eating behaviors.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgements:
+This research was funded in part by a grant from the Eunice Kennedy Shriver National Institute of Child Health and 
+Human Development R01 HD080292–02 awarded to Dr. Epstein. The funding agency was not involved in analysis 
+or interpretation of the data.
+REFERENCES
+Appelhans BM, Tangney CC, French SA, Crane MM, & Wang YM. (2019). Delay Discounting and 
+Household Food Purchasing Decisions: The SHoPPER Study. Health Psychology, 38(4), 334–342. 
+doi:10.1037/hea0000727 [PubMed: 30896220] 
+Appelhans BM, Waring ME, Schneider KL, Pagoto SL, DeBiasse MA, Whited MC, & Lynch EB. 
+(2012). Delay discounting and intake of ready-to-eat and away-from-home foods in overweight and 
+obese women. Appetite, 59(2), 576–584. doi:10.1016/j.appet.2012.07.009 [PubMed: 22819735] 
+Appelhans BM, French SA, Pagoto SL, & Sherwood NE. (2016). Managing temptation in obesity 
+treatment: A neurobehavioral model of intervention strategies. Appetite, 96, 268–279. doi:10.1016/
+j.appet.2015.09.035 [PubMed: 26431681] 
+Atance CM, & O’Neill DK. (2001). Episodic future thinking. Trends in Cognitive Sciences, 5(12), 
+533–539. [PubMed: 11728911] 
+Birch LL, & Ventura AK. (2009). Preventing childhood obesity: what works? International Journal of 
+Obesity, 33, S74–S81 [PubMed: 19363514] 
+Blumberg SJ, Bialostosky K, Hamilton WL, & Briefel RR. (1999). The effectiveness of a short form of 
+the household food security scale. American Journal of Public Health, 89(8), 1231–1234. doi:Doi 
+10.2105/Ajph.89.8.1231 [PubMed: 10432912] 
+Campbell KJ, Crawford DA, Salmon J, Carver A, Garnett SP, & Baur LA. (2007). Associations 
+between the home food environment and obesity-promoting eating behaviors in adolescence. 
+Obesity, 15(3), 719–730. doi:DOI 10.1038/oby.2007.553 [PubMed: 17372323] 
+Critchfield TS, & Kollins SH. (2001). Temporal discounting: basic research and the analysis of 
+socially important behavior. Journal of applied behavior analysis, 34(1), 101–122. doi:10.1901/
+jaba.2001.34-101 [PubMed: 11317983] 
+Dachner N, Ricciuto L, Kirkpatrick SI, & Tarasuk V . (2010). Food purchasing and food insecurity 
+among low-income families in Toronto. Canadian Journal of Dietetic Practice amd Research, 71(3), 
+e50–56. doi:10.3148/71.3.2010.127
+Daniel TO, Said M, Stanton CM, & Epstein LH. (2015). Episodic future thinking reduces delay 
+discounting and energy intake in children. Eating Behaviors, 18, 20–24. doi:10.1016/
+j.eatbeh.2015.03.006 [PubMed: 25863227] 
+Daniel TO, Stanton CM, & Epstein LH. (2013a). The future is now: Comparing the effect of episodic 
+future thinking on impulsivity in lean and obese individuals. Appetite, 71, 120–125. doi:10.1016/
+j.appet.2013.07.010 [PubMed: 23917063] Hollis-Hansen et al. Page 12
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Daniel TO, Stanton CM, & Epstein LH. (2013b). The Future Is Now: Reducing Impulsivity and 
+Energy Intake Using Episodic Future Thinking. Psychological Science, 24(11), 2339–2342. 
+doi:10.1177/0956797613488780 [PubMed: 24022653] 
+Davison KK, Gavarkovs A, McBride B, Kotelchuck M, Levy R, & Taveras EM. (2019). Engaging 
+Fathers in Early Obesity Prevention During the First 1,000 Days: Policy, Systems, and 
+Environmental Change Strategies. Obesity, 27(4), 525–533. doi:10.1002/oby.22395 [PubMed: 
+30900405] 
+Epstein LH, Leddy JJ, Temple JL, & Faith MS. (2007). Food reinforcement and eating: A multilevel 
+analysis. Psychological Bulletin, 133(5), 884–906. doi:10.1037/0033-2909.133.5.884 [PubMed: 
+17723034] 
+Epstein LH, Paluch RA, Carr KA, Temple JL, Bickel WK, & MacKillop J. (2018). Reinforcing value 
+and hypothetical behavioral economic demand for food and their relation to BMI. Eating 
+Behaviors, 29, 120–127. doi:10.1016/j.eatbeh.2018.03.008 [PubMed: 29656049] 
+Epstein LH, Salvy SJ, Carr KA, Dearing KK, & Bickel WK. (2010). Food reinforcement, delay 
+discounting and obesity. Physiology & Behavior, 100(5), 438–445. doi:10.1016/
+j.physbeh.2010.04.029 [PubMed: 20435052] 
+Feda DM, Roemmich JN, Roberts A, & Epstein LH. (2015). Food reinforcement and delay 
+discounting in zBMI-discordant siblings. Appetite, 85, 185–189. doi:10.1016/j.appet.2014.11.023 
+[PubMed: 25464024] 
+Finlayson G. (2017). Food addiction and obesity: unnecessary medicalization of hedonic overeating. 
+Nature Reviews Endocrinology, 13(8), 493–498. doi:10.1038/nrendo.2017.61
+Gage-Bouchard EA, & Devine KA. (2014). Examining parents’ assessments of objective and 
+subjective social status in families of children with cancer. PLOS One, 9(3), e89842. doi:10.1371/
+journal.pone.0089842 [PubMed: 24599006] 
+Hannon PA, Bowen DJ, Moinpour CM, & McLerran DF. (2003). Correlations in perceived food use 
+between the family food preparer and their spouses and children. Appetite, 40(1), 77–83. 
+[PubMed: 12631508] 
+Heron KE, & Smyth JM. (2010). Ecological momentary interventions: Incorporating mobile 
+technology into psychosocial and health behaviour treatments. British Journal of Health 
+Psychology, 15, 1–39. doi:10.1348/135910709×466063 [PubMed: 19646331] 
+Hollis-Hansen K, Seidman J, O’Donnell S, & Epstein LH. (2019a). Episodic future thinking and 
+grocery shopping online. Appetite, 133, 1–9. doi:10.1016/j.appet.2018.10.019 [PubMed: 
+30342066] 
+Hollis-Hansen K, O’Donnell SE, Seidman JS, Brande SJ, & Epstein LH. (2019b). Improvements in 
+episodic future thinking methodology: Establishing a standardized episodic thinking control. 
+PLOS One, 14(3). doi:ARTNe021439710.1371/journal.pone.0214397
+Jakobsen JC, Gluud C, Wetterslev J, & Winkel P. (2017). When and how should multiple imputation 
+be used for handling missing data in randomised clinical trials - a practical guide with flowcharts. 
+BMC medical research methodology, 17(1), 162. doi:10.1186/s12874-017-0442-1 [PubMed: 
+29207961] 
+Koffarnus MN, & Bickel WK. (2014). A 5-Trial Adjusting Delay Discounting Task: Accurate 
+Discount Rates in Less Than One Minute. Experimental and Clinical Psychopharmacology, 22(3), 
+222–228. doi:10.1037/a0035973 [PubMed: 24708144] 
+Krebs-Smith SM, Pannucci TE, Subar AF, Kirkpatrick SI, Lerman JL, Tooze JA, Wilson MM, Reddy 
+J. (2018). Update of the Healthy Eating Index: HEI-2015. Journal of the Academy of Nutrition and 
+Dietetics, 118(9), 1591–1602. doi: 10.1016/j.jand.2018.05.021 [PubMed: 30146071] 
+Minaker LM, Olstad DL, Thompson ME, Raine KD, Fisher P, & Frank LD. (2016). Associations 
+between frequency of food shopping at different store types and diet and weight outcomes: 
+findings from the NEWPATH study. Public Health Nutrition, 19(12), 2268–2277. doi:10.1017/
+S1368980016000355 [PubMed: 26956712] 
+Moore LV , Dodd KW, Thompson FE, Grimm KA, Kim SA, & Scanlon KS. (2015). Using Behavioral 
+Risk Factor Surveillance System Data to Estimate the Percentage of the Population Meeting US 
+Department of Agriculture Food Patterns Fruit and Vegetable Intake Recommendations. American 
+Journal of Epidemiology, 181(12), 979–988. doi:10.1093/aje/kwu461 [PubMed: 25935424] Hollis-Hansen et al. Page 13
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+O’Donnell S, Hollis-Hansen K, & Epstein LH. (2018). Mix and Match: An Investigation into Whether 
+Episodic Future Thinking Cues Need to Match Discounting Delays in Order to Be Effective. 
+Behavioral sciences (Basel, Switzerland), 9(1), 1. doi:10.3390/bs9010001
+Onken LS, Carroll KM, Shoham V , Cuthbert BN, & Riddle M. (2014). Reenvisioning Clinical Science: 
+Unifying the Discipline to Improve the Public Health. Clinical psychological science : a journal of 
+the Association for Psychological Science, 2(1), 22–34. doi:10.1177/2167702613497932 
+[PubMed: 25821658] 
+O’Neill J, Daniel TO, & Epstein LH. (2016). Episodic future thinking reduces eating in a food court. 
+Eating Behaviors, 20, 9–13. doi:10.1016/j.eatbeh.2015.10.002 [PubMed: 26562686] 
+Odum AL. (2011). Delay Discounting: I’m a K, You’re a K. Journal of the Experimental Analysis of 
+Behavior, 96(3), 427–439. doi:10.1901/jeab.2011.96-423 [PubMed: 22084499] 
+Peters J, & Buchel C. (2010). Episodic future thinking reduces reward delay discounting through an 
+enhancement of prefrontal-mediotemporal interactions. Neuron, 66(1), 138–148. [PubMed: 
+20399735] 
+PLMA. (2013). Today’s primary shopper. PLMA Consumer Research Study. Retrieved from https://
+plma.com/2013plma_gfk_study.pdf
+Roepke AM, & Seligman MEP. (2016). Depression and prospection. British Journal of Clinical 
+Psychology, 55(1), 23–48. doi:10.1111/bjc.12087 [PubMed: 26096347] 
+Rosenkranz RR, & Dzewaltowski DA. (2008). Model of the home food environment pertaining to 
+childhood obesity. Nutrition Reviews, 66(3), 123–140. doi:10.1111/j.1753-4887.2008.00017.x 
+[PubMed: 18289177] 
+Rung JM, & Madden GJ. (2018). Experimental Reductions of Delay Discounting and Impulsive 
+Choice: A Systematic Review and Meta-Analysis. Journal of Experimental Psychology-General, 
+147(9), 1349–1381. doi:10.1037/xge0000462 [PubMed: 30148386] 
+Rung JM, & Madden GJ. (2019). Demand characteristics in episodic future thinking II: The role of 
+cues and cue content in changing delay discounting. Experimental Clinical Psychopharmacology. 
+doi: 10.1037/pha0000260 [Epub ahead of print]
+Scaglioni S, Arrizza C, Vecchi F, & Tedeschi S. (2011). Determinants of children’s eating behavior. 
+American Journal of Clinical Nutrition, 94(6), 2006s–2011s. doi:10.3945/ajcn.110.001685. 
+[PubMed: 22089441] 
+Schacter DL, Benoit RG, & Szpunar KK. (2017). Episodic future thinking: mechanisms and functions. 
+Current Opinion in Behavioral Sciences, 17, 41–50. doi: 10.1016/j.cobeha.2017.06.002 [PubMed: 
+29130061] 
+Snider SE, LaConte SM, & Bickel WK. (2016). Episodic Future Thinking: Expansion of the Temporal 
+Window in Individuals with Alcohol Dependence. Alcoholism-Clinical and Experimental 
+Research, 40(7), 1558–1566. doi:10.1111/acer.13112
+Stein JS, Sze YY , Athamneh L, Koffarnus MN, Epstein LH, & Bickel WK. (2017). Think fast: rapid 
+assessment of the effects of episodic future thinking on delay discounting in overweight/obese 
+participants. Journal of Behavioral Medicine. doi:10.1007/s10865-017-9857-8
+Stein JS, Tegge AN, Turner JK, & Bickel WK. (2018). Episodic future thinking reduces delay 
+discounting and cigarette demand: an investigation of the good-subject effect. Journal of 
+Behavioral Medicine, 41(2), 269–276. doi:10.1007/s10865-017-9908-1 [PubMed: 29270887] 
+Stein JS, Wilson AG, Koffarnus MN, Daniel TO, Epstein LH, & Bickel WK. (2016). Unstuck in time: 
+episodic future thinking reduces delay discounting and cigarette smoking. Psychopharmacology, 
+233(21–22), 3771–3778. doi:10.1007/s00213-016-4410-y [PubMed: 27553824] 
+Strathman A, Gleicher F, Boninger DS, & Edwards CS. (1994). The Consideration of Future 
+Consequences - Weighing Immediate and Distant Outcomes of Behavior. Journal of Personality 
+and Social Psychology, 66(4), 742–752. doi:Doi 10.1037//0022-3514.66.4.742
+Sze YY , Daniel TO, Kilanowski CK, Collins RL, & Epstein LH. (2015). Web-Based and Mobile 
+Delivery of an Episodic Future Thinking Intervention for Overweight and Obese Families: A 
+Feasibility Study. JMIR Mhealth Uhealth, 3(4), e97. doi:10.2196/mhealth.4603 [PubMed: 
+26678959] Hollis-Hansen et al. Page 14
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Sze YY , Stein JS, Bickel WK, Paluch RA, & Epstein LH. (2017). Bleak Present, Bright Future: Online 
+Episodic Future Thinking, Scarcity, Delay Discounting, and Food Demand. Clinical Psychological 
+Science, 5(4), 683–697. doi:10.1177/2167702617696511 [PubMed: 28966885] 
+Szpunar KK. (2010). Episodic Future Thought: An Emerging Concept. Perspectives on Psychological 
+Science, 5(2), 142–162. doi:10.1177/1745691610362350 [PubMed: 26162121] 
+Whitaker KL, Jarvis MJ, Beeken RJ, Boniface D, & Wardle J. (2010). Comparing maternal and 
+paternal intergenerational transmission of obesity risk in a large population-based sample. 
+American Journal of Clinical Nutrition, 91(6), 1560–1567. doi:10.3945/ajcn.2009.28838 
+[PubMed: 20375189] Hollis-Hansen et al. Page 15
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 1. 
+Calories (mean ± SE) ( Figure 1A ), grams of macronutrients (mean ± SE) ( Figure 1B ), 
+grams of saturated fat (mean ± SE) ( Figure 1C ) and milligrams of sodium (mean ± SE) 
+(Figure 1D ) purchased per person in the family. Participants randomized to the EFT group 
+purchased fewer calories, grams of fat, grams of protein, grams of saturated fat, and 
+milligrams of sodium than those who were randomized to the SET control group. *p ≤ .05 
+**p ≤ .01 ***p ≤ .001.Hollis-Hansen et al. Page 16
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptHollis-Hansen et al. Page 17
+Table 1.
+Participant and Study Characteristics.
+EFT SET p-value
+n = 23 n = 20
+Baseline Characteristics
+Age (Mean ± SD, years) 38.83 ± 6.34 37.5 ± 4.09 .43
+Income (Mean ± SD,  $) 74195 ± 46028 70187 ± 39821 .76
+Subjective Social Status  (Mean ± SD) 5.28 ± 1.68 6.08 ± 1.52 .11
+Government Benefits (n, %) .89
+Yes 11 (47.83%) 10 (50.00%)
+No 12 (52.17%) 10 (50.00%)
+Food Insecurity  (Mean ± SD) 1.52 ± 2.23 1.25 ± 2.10 .69
+Education (Mean ± SD, years) 16.74 ± 1.96 15.85 ± 2.23 .17
+Body Mass Index (Mean ± SD) 34.42 ± 8.17 37.87 ± 5.96 .13
+Overweight (n, %) 8 1 .02
+Obese (n, %) 15 19
+Family Size (Mean ± SD, people) 4.44 ± 1.78 4.05 ± 1.0 .40
+Race (n, %) .64
+White 17 (73.91%) 16 (80.00%)
+Non-white 6 (26.09%) 4 (20.00%)
+Prior Participation (n, %)2 .28
+Yes 0 (0.00%) 1 (5.00%)
+No 23 (100.00%) 19 (95.00%)
+Baseline AUC (Mean ± SD)3 0.66 ± 0.27 0.54 ± 0.26 .13
+CFC Score (Mean ± SD) 3.91 ± 0.61 3.61 ± 0.65 .13
+Shopping Frequency (Mean ± SD)
+Supermarket 4.09 ± 0.73 4.15 ± 0.88 .80
+Supercenter 1.96 ± 1.46 2.50 ± 1.57 .25
+Cornerstore 1.61 ± 1.83 1.40 ± 1.86 .71
+Specialty Store 0.83 ± 1.19 0.70 ± 1.08 .72
+Farmer’s Market 0.78 ± 0.95 1.15 ± 1.18 .27
+Pantry 0.09 ± 0.29 0.20 ± 0.52 .38
+Home delivery 0.30 ± 0.93 0.10 ± 0.45 .37
+Co-op 0.17 ± 0.65 0.35 ± 0.75 .41
+Eating Habits (Mean ± SD, svgs/week)
+Fruit 4.22 ± 2.17 4.15 ± 2.32 .92
+Green Vegetables 2.91 ± 1.35 2.55 ± 1.47 .40
+Fried Potatoes 1.70 ± 1.87 1.80 ± 1.70 .85
+Other Potatoes 1.26 ± 1.29 2.15 ± 1.60 .05
+Other Vegetables 4.35 ± 2.04 4.95 ± 2.04 .34
+Fast Food 3.30 ± 3.25 2.60 ± 2.46 .43
+Health Psychol . Author manuscript; available in PMC 2021 February 01.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptHollis-Hansen et al. Page 18
+EFT SET p-value
+n = 23 n = 20
+Restaurant Food 1.00 ± 0.91 1.10 ± 1.07 .74
+Study Characteristics
+Mobile Game Liking (Mean ± SD) 3.52 ± 0.62 3.38 ± .47 .41
+Cue measures (Mean ± SD)
+Number of trainings 2.04 ± 0.83 2.10 ± 1.48 .88
+Attention to cue 4.71 ± 0.53 4.53 ± 0.66 .33
+Vividness 4.50 ± 1.09 4.40 ± 0.74 .73
+Total spent (Mean ± SD,  $) 122.88 ± 63.83 141.07 ± 73.59 .39
+Follow-up AUC (Mean ± SD) 0.70 ± 0.28 0.53 ± 0.28 .10
+1A BMI of 25.0 to < 30 is considered overweight, a BMI > 30 is considered obese
+2Prior participation means that during the eligibility screener the participant indicated previous participation in a study “involving the creation of 
+cues” in our laboratory or online ≥ 6-months prior to the present study,
+3AUC stands for “area under the curve”, which is used as a measure of delay discounting, a higher AUC (e.g. closer to 1) suggests less discounting 
+of the future outcome while a lower AUC (e.g. closer to 0) suggests greater discounting of the future outcome
+Health Psychol . Author manuscript; available in PMC 2021 February 01.

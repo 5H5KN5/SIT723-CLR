@@ -1,0 +1,1337 @@
+Joyce  et al. Pilot and Feasibility Studies            (2023) 9:35  
+https://doi.org/10.1186/s40814-023-01260-y
+STUDY PROTOCOL
+© The Author(s) 2023. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/. The Creative Commons Public Domain Dedication waiver (http:// creat iveco  
+mmons. org/ publi cdoma in/ zero/1. 0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.Open AccessPilot and F easibility Studies
+The Building Emotional Awareness 
+and Mental health (BEAM) program developed 
+with a community partner for mothers 
+of infants: protocol for a feasibility randomized 
+controlled trial
+Kayla M. Joyce1*  , Charlie Rioux2, Anna L. MacKinnon3, Laurence Y. Katz1, Kristin Reynolds1, Lauren E. Kelly1, 
+Terry Klassen1, Tracie O. Afifi1, Aislin R. Mushquash4, Fiona M. Clement3, Mariette Chartier1, Elisabeth Bailin Xie3, 
+Kailey E. Penner1, Sandra Hunter1, Lindsay Berard1, Lianne Tomfohr‑Madsen5† and Leslie E. Roos6† 
+Abstract 
+Background Drastic increases in the rates of maternal depression and anxiety have been reported since the COVID ‑
+19 pandemic began. Most programs aim to improve maternal mental health or parenting skills separately, despite 
+it being more effective to target both concurrently. The Building Emotional Awareness and Mental health (BEAM) 
+program was developed to address this gap. BEAM is a mobile health program aiming to mitigate the impacts of pan‑
+demic stress on family well‑being. Since many family agencies lack infrastructure and personnel to adequately treat 
+maternal mental health concerns, a partnership will occur with Family Dynamics (a local family agency) to address this 
+unmet need. The study’s objective is to examine the feasibility of the BEAM program when delivered with a commu‑
+nity partner to inform a larger randomized controlled trial (RCT).
+Methods A pilot RCT will be conducted with mothers who have depression and/or anxiety with a child 6–18 months 
+old living in Manitoba, Canada. Mothers will be randomized to the 10 weeks of the BEAM program or a standard of 
+care (i.e., MoodMission). Back ‑end App data (collected via Google Analytics and Firebase) will be used to examine 
+feasibility, engagement, and accessibility of the BEAM program; cost ‑effectiveness will also be examined. Implemen‑
+tation elements (e.g., maternal depression [Patient Health Questionnaire ‑9] and anxiety [Generalized Anxiety Disor ‑
+der‑7]) will be piloted to estimate the effect size and variance for future sample size calculations.
+Discussion In partnership with a local family agency, BEAM holds the potential to promote maternal‑ child health via 
+a cost ‑effective and an easily accessible program designed to scale. Results will provide insight into the feasibility of 
+the BEAM program and will inform future RCTs.
+Trial registration {2a} This trial was retrospectively registered with ClinicalTrial.gov (NCT05 398107) on May 31st, 
+2022.
+†Lianne Tomfohr ‑Madsen  and Leslie E Roos shared senior authorship.
+*Correspondence:
+Kayla M. Joyce
+joycek1@myumanitoba.ca
+Full list of author information is available at the end of the article
+Page 2 of 14 Joyce et al. Pilot and Feasibility Studies            (2023) 9:35 
+Keywords  Parenting, Maternal, Mental health, Feasibility, Pilot, Randomized controlled trial, mHealth
+Administrative information
+Note: The numbers in curly brackets in this protocol refer 
+to SPIRIT checklist item numbers. The order of the items 
+has been modified to group similar items
+Trial Registration – Data Set {2b}Primary registry and trial 
+identifying numberClinicalTrials.gov, NCT05398107
+Study type Intervention
+Allocation: Randomized
+Intervention Model: Parallel Assign‑
+ment
+Masking: Unblinded
+Primary purpose: Treatment
+Pilot and Feasibility
+Date of first enrolment February 2022
+Target Sample Size 80
+Recruitment status Active, not recruiting
+Primary Outcomes 1. Recruitment Rate
+2. Retention Rate
+3. Perceived Usefulness
+4. Processing Time
+5. Post ‑Intervention Questionnaire 
+Completion Time
+6. Follow‑Up Questionnaire Time
+7. Questionnaire Completion
+8. Treatment Adherence
+9. Safety
+Secondary Outcomes 1. Treatment Response
+2. Treatment Effect
+3. Baseline Severity Moderation
+Demographic Variables 1. Sociodemographics
+2. Adverse Childhood Experiences
+3. Program Feasibility and Accept ‑
+ability
+Protocol Version {3}
+February 2023, Version 2
+Name and contact information for the trial sponsor {5b}
+Leslie E. Roos, Department of Psychology, University of 
+Manitoba, 190 Dysart Road, Winnipeg, MB, R3B 0S8. 
+Email: leslie.roos@umanitoba.ca.
+Role of Sponsor {5c}
+The funding source had no role in the design of this study 
+and will not have any role during its execution, analysis, 
+interpretation of data, or decision to submit results for 
+publication.
+Committee roles and responsibilities {5d}
+Principle Investigators and Co-Investigators: Study plan -
+ning; Organization of Parent Advisory Board (PAB); 
+Design and conduct of trial; Preparation of protocol and 
+revisions; Application to ethics review board; Recruit -
+ment; BEAM Administration; Reporting of adverse 
+events; Responsible for master file; Budget administra -
+tion; Data verification; Conduct and interpret analyses; 
+Publication of study reportsPrimary registry and trial 
+identifying numberClinicalTrials.gov, NCT05398107
+Date of registration in primary 
+registry31 May, 2022
+Primary Sponsor University of Manitoba
+Contact for public queries LER [Leslie.Roos@umanitoba.ca]
+Contact for scientific queries LER University of Manitoba, Win‑
+nipeg, Manitoba, Canada
+Public title A Community Partnership with 
+Family Dynamics to Examine the 
+Building Emotional Awareness and 
+Mental health (BEAM) Program for 
+Mothers of Young Children
+Scientific titles The Building Emotional Awareness 
+and Mental health (BEAM) Program 
+Developed with a Community 
+Partner for Mothers of Infants: Pro ‑
+tocol for a Feasibility Randomized 
+Controlled Trial
+Countries of recruitment Canada
+Health condition(s) or 
+problem(s) studiedDepression, Anxiety
+Interventions Intervention: Building Emotional 
+Awareness and Mental health 
+(BEAM) program
+Comparator: MoodMission
+Key inclusion and exclusion 
+criteriaAge of eligibility for study: ≥ 18 years 
+old
+Inclusion Criteria: Identifies as a 
+mother; Has a child 6–18 months 
+old; Resides in Manitoba, 
+Canada; has access to a cellular 
+network; > 9 on the Patient Health 
+Questionnaire ‑9 and/or Generalized 
+Anxiety Disorder ‑7; Meets criteria for 
+a major depressive disorder and/or 
+anxiety disorder on the Mini Inter ‑
+national Neuropsychiatric Interview 
+(MINI); Completed the pre ‑inter ‑
+vention survey before randomiza‑
+tion; Available to attend weekly 
+telehealth sessions; Comfortable 
+with English (spoken and written)
+Exclusion Criteria: Suicide attempt 
+in the past year; Self‑harm in the 
+past 6 months; Clinically significant 
+psychotic symptoms, posttraumatic 
+stress disorder, or severe alcohol use 
+disorder on the MINI which would 
+interfere with the mother’s ability to 
+attend and/or benefit from services.
+Page 3 of 14
+ Joyce et al. Pilot and Feasibility Studies            (2023) 9:35 
+ 
+Community Partner, Family Dynamics: Design of study; 
+Recruitment; BEAM Administration; Interpretation of 
+findings
+Parent Advisory Board (PAB): Design of trial; BEAM 
+Administration; Interpretation of findings
+Introduction
+Background and rationale {6a–b}
+Maternal depression and anxiety have dramatically 
+increased during the COVID-19 pandemic [1]. A meta-
+analysis documented that 26.9 and 41.9% of mothers 
+experience clinically significant depression and anxiety 
+symptoms, respectively [2]. Key risk factors associated 
+with increased maternal mental health concerns include 
+stressors associated with isolation, domestic conflict, 
+and a lack of parenting support [1, 3]. The absence of 
+standard mental health screening and a backlog of exist -
+ing mental health services suggests most mothers do not 
+have access to evidence-based mental health treatments 
+[4, 5]. In Canada, only 1 in 10 mothers receive adequate 
+postpartum mental health care, resulting in persistence 
+of problems, enormous individual and societal economic 
+impact, as well as child mental health concerns and 
+developmental impairments [6–9]. The national WeCan -
+ForKids report highlighted a need to address maternal 
+mental health even prior to the COVID-19 pandemic 
+[10]. With significant elevations in maternal depression 
+and anxiety compared to pre-pandemic rates [1], there 
+is now a critical need to mitigate the impact of maternal 
+mental health concerns among at-risk families to reduce 
+negative sequelae.
+Existing therapies are insufficient to address fam -
+ily mental health needs. Programs designed to improve 
+parent mental health and parenting skills separately 
+have small effects with minimal improvements in the 
+past 20  years [11]. Although programs addressing both 
+mother and child mental health have 50% larger effects 
+than treating either alone, these programs are typically 
+costly, require extensively trained clinicians, and have 
+lengthy waitlists, in turn impeding program scalability 
+and ability to meet maternal mental health needs [12]. 
+Early models of mobile health (mHealth) programs show 
+promise for treating depression and anxiety but are rarely 
+targeted toward mothers and have high dropout rates 
+[13, 14]. Further, mHealth is typically delivered by a third 
+party, without consulting trusted community agencies 
+who hold key knowledge of local needs, can appraise risk, 
+and offer additional support if required.
+The Building Emotional Awareness and Mental health 
+(BEAM) program is a mHealth program designed to mitigate the impacts of stress on family mental health 
+and the program’s feasibility is ready to be tested in 
+partnership with an established community agency. The 
+BEAM program was co-designed with a patient advisory 
+board (PAB, i.e., mothers with lived experience managing 
+depression and/or who have completed a previous trial 
+[15]) based on identified priorities of connecting thera -
+pists and mothers in a secure online setting. The BEAM 
+platform enables the merger of telehealth best practices 
+with peer connection. Key elements of the BEAM pro -
+gram include the following: (a) expert-led psychoeduca -
+tional videos adapted from the Unified Protocol (UP), an 
+evidence-based cognitive-behavioral therapy for depres -
+sion, anxiety, and associated disorders [16–18], as well 
+as emotion-focused parenting strategies [15]; (b) struc -
+tured telehealth (videoconferencing) group sessions to 
+consolidate therapeutic content and build social support 
+[19, 20]; (c) a monitored online forum to enhance peer 
+connection; (d) symptom monitoring to track progress 
+[21]; and (e) suggested assignments such as reflections 
+and practice exercises. BEAM is therapist-led to increase 
+adherence, consistent with evidence that guided mHealth 
+therapy is more effective than unguided [22]. The BEAM 
+program holds strong potential as a scalable model that 
+can be readily adapted to meet maternal needs, specifi -
+cally among underserved populations.
+Family agencies typically lack the infrastructure 
+and personnel capacities to adequately treat maternal 
+mental health concerns [23], with this gap in services 
+being stark in Manitoba, Canada, where mothers wait 
+12–18  months for therapy on provincial public health 
+waitlists. At our partner agency, Family Dynamics, par -
+enting coaches find untreated maternal depression and 
+anxiety to be primary in-home risk factors that impede 
+the efficacy of parenting interventions. Providing 
+BEAM training and consultation will enable coaches 
+to provide expert-led mental health treatment to sup -
+plement and expand upon existing services. Our part -
+nership approach with Family Dynamics will allow for 
+the assessment of the BEAM program’s feasibility when 
+delivered with a community partner.
+Our pilot, non-superiority trial of the BEAM program 
+among mothers of toddlers (N  = 65) found clinically 
+significant change in 66.7% of mothers with persis -
+tent depression (anxiety symptoms were not assessed) 
+[24]. Qualitative feedback suggests high acceptability 
+(e.g., “[BEAM] was so helpful in establishing how to 
+accomplish my goal. I also enjoyed getting to know the 
+group via zoom and feel much more comfortable chat -
+ting in the forum”; “[BEAM] made me feel less alone in 
+the issues I am facing personally, mental health wise, 
+and in parenting”). This trial was not conducted with 
+Page 4 of 14 Joyce et al. Pilot and Feasibility Studies            (2023) 9:35 
+mothers of infants and did not include a partnership 
+with an established community agency, however. To 
+inform scalability efforts, further research is needed to 
+determine the feasibility of the BEAM program when 
+delivered in collaboration with a community agency. 
+Following the Obesity-Related Behavioral Intervention 
+Trials (ORBIT) model for developing behavioral treat -
+ments for chronic disease [25, 26], our team will com -
+plete a feasibility randomized controlled trial (RCT) of 
+the BEAM program. Implementation elements (e.g., 
+maternal depression and anxiety) will be examined to 
+estimate effect size and variance for future sample size 
+calculations and will be compared to a Standard of Care 
+(SOC), i.e., MoodMission. MoodMission was chosen as 
+the SOC as this program has been rigorously studied 
+using RCTs, which is rare for a mHealth app and shows 
+a decrease in moderate depressive and anxiety symp -
+toms post-intervention [27– 30].
+Objectives {7}
+Aim 1
+To examine the feasibility of the BEAM program when 
+delivered by a community agency. Feasibility indicators 
+include recruitment rate, retention rate, and perceived 
+usefulness of BEAM, for example.
+Aim 2
+To assess preliminary implementation elements of the 
+BEAM program to estimate effect size and variance for 
+future sample size calculations (treatment effect) and 
+compare the BEAM program to SOC [28] in primary 
+clinical outcomes including maternal depression and 
+anxiety (treatment response).
+Trial design {8}
+A two-armed, parallel-design RCT will occur where par -
+ticipants receive the 10-week app-based BEAM program 
+(mental health and parenting treatment) or MoodMis -
+sion (mental health treatment only). Mothers will be ran -
+domized to the BEAM or MoodMission program with 
+a 1:1 allocation as per a computer-generated randomi -
+zation schedule stratified by participant availability for 
+weekly group telehealth sessions. Self-reported repeated 
+measures data will be collected online via Research Elec -
+tronic Data Capture (REDCap) [31] from mothers in 
+both programs. Back-end BEAM App data will be col -
+lected via Google Analytics and Firebase. Assessments 
+will occur at three timepoints: pre-intervention (T1), 
+post-intervention (T2), and 6-month follow-up (T3). 
+Amendments to the study protocol will be submitted 
+to the Research Ethics Board (REB) at the University of 
+Manitoba who will review and approve amendments prior to implementation. Participants will re-consent to 
+amendments, if required. Any amendments will also be 
+submitted as updates on ClinicalTrials.gov.
+This trial is registered with ClinicalTrials.gov 
+(NCT05398107) and will follow Standard Protocol Items: 
+Recommendations for Intervention Trials (SPIRIT) 
+guidelines [32, 33]. All procedures will be performed 
+in accordance with the University of Manitoba’s REB 
+(HE2021-0217) and the Helsinki Declaration. Partici -
+pants will provide electronic informed consent prior to 
+study enrollment.
+Methods: participants, interventions, 
+and outcomes
+Study setting {9}
+Participants will reside in Manitoba, Canada. Manitoba is 
+in the center of Canada and has a population of 1.3 mil -
+lion. Recent results from a predominantly Manitoban 
+sample of mothers with children 0–18  months old sug -
+gested significantly elevated rates of depression and/or 
+anxiety since the onset of the COVID-19 pandemic [1].
+Participant identification and consent
+Participants will be recruited using online social media 
+advertisements (Facebook, Instagram, Twitter, Pinterest, 
+Reddit), posters in Manitoba, Canada, and poster-sharing 
+via Family Dynamics listserv. Informed consent will be 
+collected electronically from all mothers on three occa -
+sions, before (a) the eligibility screener, (b) the MINI [34], 
+and (c) beginning study participation. The consent pro -
+cesses will be documented using REDCap [31]. If funding 
+is obtained for long-term follow-up, further consent will 
+be obtained.
+Eligibility criteria {10}
+Participants must (a) identify as a mother (i.e., bio -
+logical, adoptive, foster, step-mother, or another type 
+of woman-identifying primary caregiver), (b) have a 
+child between 6 and 18 months old at recruitment, (c) 
+be 18 years old or above, (d) reside in Manitoba, Can -
+ada, with access to a cellular network, (e) score > 9 on 
+the Patient Health Questionnaire-9 Item (PHQ-9) [35] 
+and/or the General Anxiety Disorder-7 Item (GAD-
+7) [36], (f) complete a psychodiagnostic mental health 
+assessment (Mini International Neuropsychiatric Inter -
+view; MINI) [34] and pre-intervention survey before 
+randomization, (g) meet criteria for a major depressive 
+episode and/or anxiety disorder (i.e., panic disorder, 
+agoraphobia, social anxiety disorder, or generalized 
+anxiety disorder) as assessed by the MINI, (h) be avail -
+able to attend weekly telehealth groups, and (i) be com -
+fortable understanding, reading, and speaking English. 
+Page 5 of 14
+ Joyce et al. Pilot and Feasibility Studies            (2023) 9:35 
+ 
+Exclusion criteria include: (a) a suicide attempt in the 
+past year, (b) self-harm in the past 6 months, and/or (c) 
+clinically significant psychotic symptoms, posttraumatic 
+stress disorder, or alcohol/substance use disorder (iden -
+tified on the MINI  34) which, based on clinical judge -
+ment, would make it unlikely for the individual to attend 
+weekly group telehealth sessions and/or make treatment 
+gains. The BEAM and MoodMission programs are not 
+suitable to treat these acute mental health needs and as 
+such mothers deemed ineligible for these reasons will 
+be provided with local mental health resources more 
+appropriate for their needs.
+Participant timeline {13}
+See Table  1 for the SPIRIT schedule of enrolment, inter -
+ventions, and assessments  and additional file  1 for the 
+SPIRIT Checklist.
+Enrollment (weeks 1–8)
+Eligibility screener Mothers will complete an online 
+questionnaire to determine eligibility. This questionnaire 
+will include an author-compiled sociodemographic and 
+suicidality/self-harm questionnaire as well as the PHQ-9 
+[35] and GAD-7 [36]. These questionnaires will determine 
+whether they meet preliminary inclusion criteria.
+Psychodiagnostic mental health assessment If deemed 
+eligible on the eligibility screener, mothers will be invited 
+to complete a psychodiagnostics mental health assess -
+ment (i.e., MINI) [34] with trained research personnel via 
+Zoom. The following modules of the MINI will be admin -
+istered: major depressive episode, suicidality, panic disor -
+der, agoraphobia, social anxiety disorder, posttraumatic 
+stress disorder, alcohol use disorder, substance use dis -order, psychotic disorders and mood disorders with psy -
+chotic features, and generalized anxiety disorder. Mothers 
+meeting criteria for a major depressive episode and/or an 
+anxiety disorder (i.e., panic disorder, agoraphobia, social 
+anxiety disorder, and/or generalized anxiety disorder) will 
+be deemed eligible once they complete the pre-interven -
+tion survey and consent to randomization. Those who do 
+not meet inclusion criteria will be provided with a list of 
+local mental health resources.
+Pre-intervention questionnaires All mothers deemed 
+eligible to participate will be invited to complete a series 
+of questionnaires via RedCap to assess baseline data of 
+interest before allocation. See Table  2 for specific ques -
+tionnaires.
+Interventions (weeks 9–19) {11a}
+The BEAM and MoodMission App-based programs 
+will be offered via mobile device (both are functional on 
+Android and iOS platforms). Participants will be pro -
+vided with a mobile device, if required.
+The Building Emotional Awareness and  Mental Health 
+Program (Intervention Group) The BEAM program 
+was designed to promote intergenerational well-being 
+through the treatment of maternal mental illness and pre -
+venting child mental health concerns, by integrating par -
+enting and self-compassion skills with UP modules [16, 
+18]. The interrelated skills are designed to increase sup -
+portive parenting behaviors and promote maternal-child 
+bonding to disrupt each of the theorized mechanisms of 
+environmental risk transmission (e.g., positive emotional 
+modelling, improved relationships, support for children’s 
+distress, reduced conflict [15, 37]).
+Table 1 SPIRIT schedule of enrolment, interventions, and assessments
+Study period
+Enrolment Allocation Intervention Post-intervention Follow-up
+TIMEPOINT Weeks 1–8 Week 9 Weeks 9–19 Weeks 19–21 Weeks 32–34
+Informed consent          X
+Eligibility screener          X
+Psychodiagnostic Mental 
+health Assessment         X
+Allocation          X
+INTERVENTIONS
+BEAM Program          X
+Mood Mission Program          X
+ASSESSMENTS
+Outcome survey          X                 X            X
+Weekly survey          X
+Page 6 of 14 Joyce et al. Pilot and Feasibility Studies            (2023) 9:35 
+The BEAM program is a 10-week guided mental 
+health and parenting program where participants move 
+through modules with a cohort of other mothers expe -
+riencing depression and/or anxiety. Each week includes 
+10–30  min of psychoeducational video content, weekly 
+mood tracking, a 1-hour weekly group telehealth ses -
+sion with content review and facilitated discussions in 
+breakout rooms, access to an online forum to cultivate peer support, and assignments to practice key skills. The 
+BEAM program content has been developed in collabo -
+ration with our PAB and the Family Dynamics team.
+Clinical team
+BEAM clinical coaches will consist of mental health ther -
+apists (completing a Master’s or Doctoral degree in Clini -
+cal Psychology who are supervised by a registered clinical Table 2 Schedule for assessment administration
+Note. aAuthor-Compiled Questionnaire; bSquires et al. (2015)cBabor et al. (2001)dBEAM = Building Emotional Awareness and Mental  healtheAdamson & Sellman 
+(2003)fFunk & Rogge (2007) gStanley et al. (2021)hKroenke et al. (2007)ISpitzer et al. (2006) jIBQ-VS-R (Putnam et al., 2014) kZhou et al. (2019) lSheehan et al. (1998) 
+mIrvine et al. 1999 nBarroso et al. (2016) oKroenke et al. (2003) pKroenke et al. (2001) qPROMIS (Hanish et al., 2017; Pilkonis et al., 2011) rPhysical Functioning, Physical 
+Symptoms, Emotional Functioning, Social Functioning, and Cognitive Functioning Subscales sVarni et al. (1999) tBarnes & Adamson-Macedo (2007) uWatson et al. 
+(1988) vBiolcati & Passini (2019); vWeekly questionnaires are only administered to those in the BEAM programStudy period
+TIMEPOINT Enrolment Allocation Intervention Post-intervention Follow-up
+Weeks 1–8 Week 9 Weeks 9–19vWeeks 19–21 Weeks 32–34
+Adverse Childhood ExperiencesaX
+Ages and Stages Questionnaire: Social-Emotional, Second 
+Edition (6, 12, 18, 24, 30, 36 months)bX X X
+Alcohol Use Disorder Identification TestcX X X
+Anxiety Persistence ScaleaX
+BEAMd App-Based QuestionnaireaX
+BEAMd Forum QuestionnaireaX
+BEAMd Perceived Social Support QuestionnaireaX
+BEAMd Zoom Telehealth Group QuestionnaireaX
+Cannabis, Tobacco, and Illicit Drug UseaX X X
+Cannabis Use Disorder Identification Test – RevisedeX X X
+Couples Satisfaction Index – 4 ItemfX X X
+Depression Persistence ScaleaX
+Depressive Symptom Index – Suicidality SubscalegX X
+Emergency Health & Social Service UtilizationaX X X
+Generalized Anxiety Disorder – 2 ItemhX
+Generalized Anxiety Disorder – 7 ItemiX X X
+Infant Behavior Questionnaire – Very Short – RevisedjX X X
+mHealth App Usability QuestionnairekX
+Mini International Neuropsychiatric InterviewlX
+Mood Mission App-Based Questionnaire X
+Parenting Scale (modified 10 item scale)mX X
+Parenting Stress IndexnX X X
+Parenting Stress Index (modified 4 item scale)aX
+Patient Health Questionnaire – 2 ItemoX
+Patient Health Questionnaire – 9 ItempX X X
+Patient-Reported Outcomes Measurement Information 
+System  (Anger and Sleep Disturbance Subscales)qX X X
+Pediatric Quality of Life Inventory (1–12 or 13–24 months)r,sX X X
+Perceived Maternal Parenting Self-Efficacy QuestionnairetX X X
+Positive and Negative Affect Scale (modified 2-item scale)uX
+Recent Stressful ExperiencesaX X X
+SociodemographicsaX
+Substance Use Motives Measure (Coping Motive Subscales)vX X X
+Page 7 of 14
+ Joyce et al. Pilot and Feasibility Studies            (2023) 9:35 
+ 
+psychologist), parent coaches from Family Dynamics, 
+and a peer coach. Parent coaches are mental health staff  
+(trained paraprofessionals) from Family Dynamics. Peer 
+coaches are mothers who recently completed a program 
+targeting their own mental health needs and who have 
+agreed to help promote maternal mental wellness [15]. 
+Clinical coaches will lead/co-lead weekly group telehealth 
+sessions, manage participant contact via email/phone, 
+and participate in weekly supervision meetings with clin -
+ical psychologists. Parent and peer coaches will partici -
+pate in weekly group telehealth sessions and engage with 
+participants on the online community forum.
+Psychoeducation
+The BEAM program will include psychoeducational 
+materials consisting of separate weekly videos on mental 
+health and parenting skills. These videos will be approxi -
+mately 5 to 15 min long each (totaling 10 to 30 min per 
+week). Mental health videos will provide easily digestible 
+information on emotion regulation strategies adapted 
+from the UP , an evidence-based transdiagnostic treat -
+ment for depressive and anxiety disorders [16, 18], and 
+will focus on self-compassion skills. Parenting skill videos 
+will teach emotion-focused and behavior management 
+strategies to help mothers understand and co-regulate 
+their child’s challenging behaviors. Videos will also teach 
+mothers how to prevent negative mother–child interac -
+tions and promote positive relationships.
+Mood tracking
+Brief weekly questionnaires on depression (Patient 
+Health Questionnaire-2 Item; PHQ-2) [38], anxiety 
+(Generalized Anxiety Disorder-2 Item; GAD-2) [39], par -
+enting stress (modified version of the Parenting Stress 
+Index; PSI-4) [40], and positive mood (modified version 
+of the Positive and Negative Affect Scale; PANAS-2) [41] 
+will be sent to participants. Scores for each questionnaire 
+will be provided, allowing mothers to track their weekly 
+scores. Mood tracking is shown to promote emotional 
+understanding [42].
+Weekly group telehealth sessions
+Weekly group telehealth sessions will provide mothers 
+with the opportunity to discuss program material with 
+coaches and peers, ask questions, and gain a sense of 
+community. There will be three telehealth groups with 
+different schedules to accommodate as many mothers as 
+possible.
+Online community forum
+An online community forum will provide mothers with 
+the opportunity to reflect on learned skills from the 
+BEAM weekly modules and access social support by connecting with other mothers in the program. This will 
+be a confidential, closed forum overseen by peer and par -
+ent coaches. The forum will consist of open-ended dis -
+cussions between participants, peer advice, and sharing 
+of anecdotes/non-identifying photos of their wellness 
+journey. Mothers will be able to ask parent and peer 
+coaches mental health- and parenting-related questions.
+MoodMission (Standard of Care Group) The SOC arm 
+will receive MoodMission, an App-based program effec -
+tive in the treatment of moderate depression and anxiety 
+in adults and increasing their well-being [27–30]. Mood -
+Mission uses an adaptive learning algorithm based on 
+self-reported level of distress during prior engagement. 
+Based on this algorithm, participants are provided with 
+five targeted cognitive-behavioral therapy strategies to 
+build self-efficacy. Compared to BEAM, this self-paced 
+generalized service is not tailored to the complex needs 
+faced by parents and lacks coaching, social support, and 
+parenting skills development. MoodMission was chosen 
+as the SOC because it has been rigorously studied using 
+RCTs [ 27–30]. Those in the MoodMission group will work 
+through program content on the App at their own pace.
+Post‑intervention questionnaires (weeks 19–21)
+Mothers will be given 2 weeks to complete the post-inter -
+vention questionnaires via RedCap after the BEAM and 
+MoodMission programs are complete (see Tables  1 and 
+2). Participants will be invited to complete these ques -
+tionnaires regardless of program completion.
+Follow‑up questionnaires (weeks 32–34)
+Approximately 6 months following program completion, 
+mothers will be sent a series of follow-up questionnaires 
+via RedCap (see Tables 1 and 2).
+Compensation
+Mothers will be compensated a total of $160/Cana -
+dian Dollars ($50 for enrollment [$25 for a psy -
+chodiagnostic mental health assessment and $25 for 
+pre-intervention surveys], $50 for the post-interven -
+tion questionnaires, $25 for the follow-up question -
+naires, $25 for participants who complete > 75% of 
+the weekly surveys, and $10 for those who complete 
+the post-intervention questionnaire within 1 week of 
+distribution)1 Participants deemed ineligible after the 
+psychodiagnostics mental health interview will be 
+compensated with $25/Canadian Dollars.
+1  Participants in the BEAM program will be compensated $25 for complet -
+ing > 75% of the weekly symptom tracking surveys, while those in MoodMis -
+sion will receive an additional $25 as they are not required to complete weekly 
+surveys.
+Page 8 of 14 Joyce et al. Pilot and Feasibility Studies            (2023) 9:35 
+Criteria for discontinuing or modifying allocated 
+interventions {11b}
+Clinical coaches will receive an alert from REDCap [31] if 
+suicidality items are endorsed during the pre-intervention, 
+post-intervention, or follow-up surveys [i.e., endorsing 
+“Thoughts that you would be better off dead or of hurting 
+yourself in some way” on the PHQ-9 [35] or a 2 + on any 
+items on the Depression Severity Index—Suicidality Sub -
+scale (DSI-SS) [43]] and/or during the psychodiagnostics 
+mental health assessment. These alerts will prompt clini -
+cal coaches to take necessary steps to assess participant 
+safety and provide appropriate intervention. The clinical 
+team will consult on any instances of suicidality to deter -
+mine whether it is in the participant’s best interest to 
+continue in the study. Of those in the BEAM program, 
+participants may have discontinued access to the online 
+community forum and/or denied access to weekly group 
+telehealth sessions if they repeatedly violate terms of use. 
+Further, if a participant cannot maintain the confidential -
+ity of others during weekly group telehealth sessions, they 
+may be denied access. In the above case, participants will 
+still have access to all psychoeducational materials on the 
+BEAM app and will be invited to complete all question -
+naires. Clinical coaches would also provide referrals to 
+other clinicians and clinics, if appropriate.
+Strategies to improve adherence and intervention 
+protocols {11c}
+Once a mother is randomized, all efforts will be made to 
+follow the participant for the study duration. A recent 
+iteration of BEAM for mothers of children 18–36 months 
+old had an 83.7% retention rate (16.3% lost to follow-up) 
+[44]. First, mothers will be asked to confirm their avail -
+ability for weekly group telehealth sessions on the eligi -
+bility screener and will participate in a Zoom orientation 
+with a parent coach. Second, participants in the BEAM 
+program will receive three weekly push notifications via 
+the BEAM App as well as a weekly reminder via email. 
+Engagement notifications contribute to increased men -
+tal health benefits of mHealth interventions [45]. Third, 
+those in the BEAM program will also be contacted by 
+their clinical coach if they have not attended a weekly tel -
+ehealth group session. Fourth, compensation will be pro -
+vided across study participation (see below) to encourage 
+completion; participants will be encouraged to complete 
+questionnaires regardless of program completion.
+Outcomes {12}
+Pre-specified success criteria are identified in Table  3. All 
+feasibility indicators will be dichotomized into success or 
+revise. “Success” indicates the protocol can move forward 
+with a larger RCT with no/little revisions required, while 
+“revise” suggests changes are needed prior to proceeding.Aim 1
+Back-end App data, collected via Google Analytics and 
+Firebase, will be used to assess recommended mHealth 
+engagement variables [46, 47]: (a) number of logins and 
+sessions to the BEAM app, (b) number of forum posts, (c) 
+time spent on the BEAM app and on the forum, (d) num -
+ber of videos watched/time spent watching videos, and 
+(e) number of weeks between first and last engagement 
+with the app. Weekly telehealth group session attendance 
+(yes/no) will be compiled by the clinical team. Analyt -
+ics and group attendance data will also be used to assess 
+retention (number of weeks completed) and completion 
+(participating in > 50% of program weeks by either log -
+ging onto the BEAM app or attending the weekly group 
+telehealth session). Finally, the mHealth App Usability 
+Questionnaire (MAUQ) [48] will assess participants’ 
+views on the BEAM program.
+Aim 2
+Data on maternal depression (PHQ-9) and anxiety (GAD-
+7) will be used to estimate effect size for a future large-scale 
+RCT and to assess preliminary mean change in variables of 
+interest across assessment timepoints. The PHQ-9 includes 
+[35] nine items which will ask mothers the severity of their 
+depressive symptoms during the past 2 weeks. The PHQ-9 
+has high internal consistency (α  = 0.88) [49]. Anxiety symp -
+tom severity will be assessed using the GAD-7, a seven-item 
+measure which will ask mothers their degree of anxiety 
+symptoms over the past 2 weeks. The GAD-7 has excellent 
+internal consistency (α  = 0.92) [36]. Items on both scales are 
+scored on a 4-point Likert scale ranging from 0 (“Not at all”) 
+to 3 (“Nearly every day”) where higher summative scores 
+suggest more problematic symptoms.
+Additional questionnaires will assess maternal mental 
+health (i.e., Patient Reported Outcomes Measurement 
+Information System [PROMIS] Anger [PROMIS-A] [50] 
+and Sleep Disturbance [PROMIS-SD] [51] subscales, 
+Alcohol Use Disorder Identification Test [AUDIT] [52] 
+Cannabis use Disorder Identification Test – Revised 
+[CUDIT-R] [53], Substance Use Motives Measure—Cop -
+ing Subscales [SUMM] [54], and Depression Severity 
+Index—Suicidality Subscale [DSI-SS] [43]), parenting 
+(i.e., Parenting Stress Index – Short Form [PSI-SF] [40], 
+Perceived Maternal Parenting Self-Efficacy [PMP S-E] 
+[55], and the Parenting Scale—Overreactivity Subscale 
+[56], Couples Satisfaction Inventory 4-Item [CSI-4] [57]), 
+and child outcomes (i.e., Ages and Stages Questionnaire: 
+Social-Emotional Challenges – 2 [ASQ:SE-2] [58], Pedi -
+atric Quality of Life Inventory [PedsQL] [59], and Infant 
+Behavior Questionnaire – Revised – Very Short Form—
+Effortful Control Subscale [IBQ-R-VS] [60]).
+Data on sociodemographic characteristics will be col -
+lected in the pre- and/or post-intervention questionnaires 
+Page 9 of 14
+ Joyce et al. Pilot and Feasibility Studies            (2023) 9:35 
+ 
+including (a) maternal demographics (e.g., age, marital 
+status, highest level of education, ethnicity, employment, 
+depression persistence, anxiety persistence), (b) child demo -
+graphics (e.g., child sex, age of child), and (c) household 
+demographics (e.g., number of adults and children in the 
+household, annual household income, community type).
+Other variables known to impact adult mental health 
+and child development will be collected including the 
+Adverse Childhood Experiences (ACEs) Questionnaire, 
+the author-compiled Recent Stressful Experiences Ques -
+tionnaire (RSE; developed based on recommendations 
+from the JPB research network on toxic stress at Har -
+vard’s Center on the Developing Child) [61], and the 
+author-compiled Emergency Health and Social Service 
+Utilization Questionnaire.
+Tracking of concomitant care during the trial {11d}
+Participants will be permitted to receive concomitant 
+care during study involvement. Concomitant care (e.g., 
+medication, psychotherapy) will be measured during the 
+post-intervention and follow-up surveys (i.e., “During the 
+past 3  months, did you access any other mental health 
+and/or parenting resources?” , “What resources did you 
+access for mental health and/or parenting?” , and “How 
+effective do you think these resources were?”).Sample size {14}
+As this is a pilot and feasibility study, a sample size 
+calculation is not appropriate. However, our target 
+sample size of 30 participants per group is consist -
+ent with prior recommendations and will provide 
+data to sufficiently establish BEAM feasibility [62, 
+63]. Accounting for a conservative 30% attrition rate 
+[24], we will recruit an additional 10 participants per 
+group (N  = 80). With an estimated BEAM sample size 
+of 40 mothers, we aim to achieve questionnaire com -
+pletion and retention rates of 80% to within a 95% 
+confidence interval of ± 12.4% as well as a treatment 
+adherence rate of 50% to within a 95% confidence 
+interval of ± 15.5%.
+Methods: assignment of interventions
+Allocation {16a–c}
+Mothers will be randomized to the BEAM or Mood -
+Mission program with a 1:1 allocation. Randomization 
+will occur in blocks of 10 using a computer-generated 
+randomization schedule (http:// www. rando mlists. com/ 
+team- gener ator) stratified by participant availability for 
+weekly group telehealth sessions. To conceal allocation 
+sequence, randomization will occur once 10 mothers 
+have been deemed eligible.Table 3 Feasibility indicators
+Feasibility Indictor Criteria for success
+Aim 1
+Recruitment rate Number of mothers per week recruited Mean 2 participants/week
+Retention rate % of mothers with data at follow‑up  > 80% of mothers with follow‑up data
+Perceived usefulness Usefulness subscale of mHealth App Usability 
+QuestionnaireMean score of < 3
+Processing time Time from initial contact until study enrollment Mean time is < 1 week
+Post ‑intervention questionnaire completion time Time to complete post ‑intervention question‑
+nairesMean of < 60 min to complete
+Follow‑Up questionnaire completion time Time to complete follow‑up questionnaires Mean of < 60 min to complete
+Questionnaire completion % of missing data among program completers  > 80% of data is present among mothers who 
+completed follow‑up
+Treatment adherence Logging onto BEAM App and/or attending 
+weekly group telehealth sessionParticipation in > 50% of program weeks via log‑
+ging onto BEAM App or attending weekly group 
+telehealth session
+Safety Adverse events from the BEAM program or 
+assessmentsNo adverse events reported
+Aim 2
+Treatment response Comparison between groups Significant group difference in primary clinical 
+outcomes (depression and anxiety)
+Treatment effect Estimate of effect size and variance for future 
+sample size calculationsData on all relevant variables
+Baseline severity moderation Comparison of those with low versus high base ‑
+line scores on the PHQ ‑9 and GAD ‑7Significant group difference
+Page 10 of 14 Joyce et al. Pilot and Feasibility Studies            (2023) 9:35 
+Blinding {17a–b}
+A research assistant unaffiliated with the BEAM clinical 
+team will be responsible for conducting central randomi -
+zation for participants who have agreed to participate 
+and have received their identification number (i.e., fol -
+lowing completion of pre-intervention questionnaires). 
+The enrollment of mothers to the proposed study and 
+their allocation to BEAM versus SOC will be com -
+pleted by two separate research assistants. The research 
+assistant designating treatment condition will have no 
+interaction with participants (i.e., not on the BEAM 
+clinical team). Trial participants, clinical coaches, parent 
+coaches, and peer coaches will not be blinded to treat -
+ment condition given the behavioral nature of the treat -
+ment provided. Data analysts also will not be blinded to 
+treatment condition.
+Methods: data collection, management, 
+and analysis
+Data collection methods {18a–b}
+An outline of all questionnaires to be used is presented in 
+Table  2. Once a mother is randomized, all efforts will be 
+made to follow the participant for the study duration. A 
+recent iteration of BEAM for mothers of toddlers had an 
+83.7% retention rate [65], suggesting high retention rates 
+are likely. Since this RCT will include an intent-to-treat 
+analysis, participants will be encouraged to complete 
+questionnaires regardless of program completion. Partic -
+ipants may withdraw from the study at any time, and the 
+investigators may withdraw a participant to protect them 
+and/or others in the program or if the study is terminated 
+prior to the planned end date.
+Data management {19}
+Participants will enter questionnaire responses in RED -
+Cap [ 31] which is managed by the Centre for Healthcare 
+Innovation in Winnipeg, Manitoba, who are consult -
+ants on the proposed project. An administrative backup 
+for roll-back purposes will occur daily, and data will be 
+exported weekly and housed on an encrypted drive. Data 
+quality checks will be conducted prior to analyses (e.g., 
+range checks for data values). Data will be stored on a 
+secure server in accordance with policies of the Univer -
+sity of Manitoba’s REB and Personal Health Information 
+Act (PHIA) policies.
+Statistical methods {20a}
+All analyses will be conducted using IBM Statistical 
+Package for the Social Sciences (SPSS). Descriptive sta -
+tistics will be computed for the total sample and between 
+the two groups (i.e., BEAM and MoodMission) for demo -
+graphics and outcome measures at pre-intervention.Aim 1
+Descriptive statistics from back-end App data, telehealth 
+group attendance, and questionnaires (i.e., BEAM App-
+Based, BEAM Forum, BEAM Perceived Social Support, 
+BEAM Zoom Telehealth Group, mHealth App Usability, 
+and MoodMission App-Based) will be used to examine 
+program feasibility, engagement, and acceptability.
+Aim 2
+Data on maternal depression (PHQ-9) [35] and anxi -
+ety (GAD-7) [36] will be used to estimate effect size 
+and variance for future sample size calculations. Pre -
+liminary analyses will also examine treatment effects 
+on outcomes of interest (e.g., depression, anxiety). A 
+longitudinal analysis of covariance, using linear mixed 
+modelling, will be conducted to preliminarily test treat -
+ment effects on outcomes of interest. Treatment effects 
+will be tested using two-way interactions between time 
+and group assignment. Baseline moderation by symp -
+tom severity will be assessed to determine whether 
+the BEAM program helps reduce symptoms for moth -
+ers with higher levels of depression and anxiety at pre-
+intervention compared to MoodMission. An α  of 0.05 
+will determine statistical significance. Aggregate vari -
+ables will be computed, by converting each measure to 
+a standardized z -score then taking the average. Results 
+will be reported as means and 95% confidence intervals 
+for all comparisons. Bonferroni corrections are consid -
+ered very conservative [64], and it has been suggested 
+that correction may not be necessary, particularly if the 
+study purpose is exploratory [65].
+Additional analyses {20b}
+A separate subgroup analysis will be conducted with 
+mothers who report at-risk substance use. This analysis 
+will assess outcomes among mothers with at-risk sub -
+stance use in the BEAM program and MoodMission. 
+Between- and within-group differences will be examined 
+among mothers with at-risk substance use (an 8 + on the 
+AUDIT and/or CUDIT-R52,53) and non-problematic 
+substance use (< 8 on the AUDIT/CUDIT-R52,53). An 
+examination of demographics on feasibility data and a 
+longitudinal analysis of covariance (as described above) 
+will also be conducted.
+Definition of analysis population related to protocol 
+non-adherence and methods to handle missing data {20c}
+An intent-to-treat analysis will be conducted where 
+missing data will be handled using full information 
+maximum likelihood estimation [66]. Sensitivity analy -
+ses will be conducted by re-running analyses with com -
+pleters only [67].
+Page 11 of 14
+ Joyce et al. Pilot and Feasibility Studies            (2023) 9:35 
+ 
+Methods: monitoring
+Composition of the data monitoring committee, its role 
+and reporting structure {21a}
+The current trial does not require a formal data moni -
+toring committee given the minimal risk, short dura -
+tion, and small sample size. The trial will be monitored 
+by the primary investigators who will review each 
+phase of the trial including recruitment, randomiza -
+tion, intervention, and data collection. Weekly meet -
+ings will occur with all clinical and research personnel 
+to discuss and resolve questions/concerns and ensure 
+consistent implementation.
+Interim analyses and stopping guidelines {21b}
+No interim analyses are planned.
+Plans for collecting, assessing, reporting, and managing 
+adverse events and harms {22}
+No adverse experiences have occurred during the prior 
+BEAM pilot study [24]. If participants report suicidality 
+and/or self-harm risk, the clinical team will be notified. A 
+risk management protocol will be in place where follow-
+up will occur among those identifying suicidality and/or 
+self-harm. Clinical coaches will also follow-up with par -
+ticipants who identified suicidality on the online com -
+munity forum and/or in weekly group telehealth sessions. 
+The University of Manitoba’s standard procedures for 
+reporting adverse events and protocol violations/devia -
+tions will be followed.
+Frequency and plans for auditing trial conduct {23}
+It is possible that the University of Manitoba Research 
+Ethics Board may request an audit; however, the study 
+team has no plans to conduct an independent audit.
+Ethics and dissemination
+Research ethics approval {24}
+The protocol for this RCT has been approved by and 
+will be performed in accordance with the University of 
+Manitoba’s REB (HE2021-0217).
+Protocol amendments {25}
+Amendments to this protocol will be submitted to 
+the University of Manitoba’s REB who will review and 
+approve amendments prior to implementation. Par -
+ticipants will re-consent to amendments, if required. 
+Amendments will also be submitted as updates on Clini -
+calTrials.gov.
+Confidentiality {27}
+The BEAM program will be provided on a secure plat -
+form. Participant confidentiality will be protected 
+throughout the study in accordance with the University of Manitoba’s REB guidelines, with exceptions to confi -
+dentiality including suspected cases of child maltreat -
+ment (abuse, neglect, or endangerment) and imminent 
+harm to self or others. Only specific individuals will have 
+access to data who are trained in the University of Mani -
+toba’s ethics and data safety protocols, have completed 
+PHIA training, and have taken an oath of confidentiality.
+All data, including identifying information, will be 
+password protected and stored on REDCap [31]. All 
+data will be associated with a de-identified participant 
+identification number. A password-protected master list 
+will be kept containing the first names and last initials, 
+email addresses, phone numbers, and group allocation of 
+participants. This master list will only be accessible by a 
+research assistant.
+Precautions will be taken to manage confidentiality on 
+the online community forums which will include a Data 
+Management Protocol, participant agreed upon Terms of 
+Use (i.e., no personally identifying/health information, no 
+identifiable photographs). Coaches will have the ability to 
+remove posts which violate the terms of use and partici -
+pants will be emailed should any concerns arise. Security 
+measures also include monitoring of the forums by the 
+study team and the ability for other participants to anon -
+ymously flag posts for review.
+During the weekly telehealth group sessions, par -
+ticipant anonymity cannot be guaranteed. Telehealth 
+sessions will be hosted on a secure Zoom Healthcare 
+account which is password-protected. At the first group 
+session, the clinical coaches will outline limitations of 
+confidentiality and anonymity. Participant attendance 
+and client records will be tracked through the Titanium 
+platform, hosted by the University of Manitoba Psycho -
+logical Service Centre, which is PHIA-compliant.
+Declaration of interests {28}
+The authors of this RCT declare no conflicts of interest.
+Access to data {29}
+All data will be housed in a secure database accessible by 
+the study investigators.
+Ancillary and post -trial care {30}
+If it is determined that a mother requires further services, 
+they will be referred to a clinician or clinic, and provided 
+with a list of mental health resources.
+Dissemination policy {31a}
+Research findings will be disseminated to academic and 
+public audiences. Several publications describing the 
+feasibility of the BEAM program will be published in 
+peer-reviewed journals following Consolidated Stand -
+ard of Reporting Trials (CONSORT) guidelines and the 
+Page 12 of 14 Joyce et al. Pilot and Feasibility Studies            (2023) 9:35 
+CONSORT extension for pilot and feasibility trials [68, 
+69]. Manuscripts will be posted rapidly on preprint serv -
+ers, such as psyarxiv.com, and open access (through pub -
+lishers and/or repositories) for a wider reach. The study 
+investigators and research trainees will present findings 
+at national and international conferences. Our knowl -
+edge mobilization plan follows an integrated knowledge 
+translation approach [70]. At the patient level, we will 
+employ multiple strategies to understand and address 
+the unique stressors relevant to maternal depression and 
+anxiety. The PAB is committed to dissemination efforts 
+by contributing to lay summaries, infographics, and shar -
+ing in parenting groups/forums. Our agency partner, 
+Family Dynamics, will distribute results with their net -
+works. Collaborating agencies, i.e., Public Health Agency 
+of Canada, The Department of Families, and Canadian 
+Perinatal Mental Health Collaborative, will aid in the 
+sharing of results to network funders, boards, and policy 
+makers. Qualitative focus group interviews with partici -
+pants and coaches are planned to gain information and to 
+inform program improvements.
+Authorship eligibility guidelines {31b}
+Individuals will be considered eligible for authorship 
+if they contributed to the design, conduct, analysis, or 
+interpretation of the data. Professional writers will not be 
+used for manuscript preparation.
+Plans to give access to the full protocol, participant -level 
+data, and statistical code {31c}
+De-identified data may be made available on public data 
+platforms such as the Open Science Framework or if 
+made a requirement by the granting agency, journal, or 
+community partner. Statistical code used to conduct 
+analyses for published manuscripts may also be included 
+on public data platforms, allowing other researchers to 
+assess the studies’ scientific rigor.
+Discussion
+BEAM is an app-based maternal mental health program 
+which is easily accessible and was designed to scale. 
+The program targets peer connection, psychoeduca -
+tion, and intervention by mental health professionals 
+and has the potential to mitigate the negative impacts 
+of maternal mental health concerns and stress on fam -
+ily well-being during the COVID-19 pandemic and 
+beyond. The proposed RCT will build upon our prior 
+research on the BEAM program [24] through partner -
+ship with a local community agency, Family Dynam -
+ics, as agencies commonly lack infrastructure and 
+personnel to adequately treat maternal mental health 
+concerns. In partnership with family agencies, BEAM 
+holds the potential to promote maternal-child mental health through the provision of mHealth content, train -
+ing, and consultation. Findings will provide informa -
+tion on the feasibility, engagement, and accessibility of 
+the BEAM program and will inform future RCTs of the 
+BEAM program.
+Trial status
+Recruitment began in January 2022 and finished in 
+March 2022. The date of first enrollment was February 
+14th, 2022. The intervention launched in April 2022 (with 
+estimated completion in December 2022 for the collec -
+tion of all primary outcomes).
+Abbreviations
+ACE  Adverse Childhood Experiences
+ASQ:SE‑2  Ages and Stages Questionnaire: Social‑Emotional Challenges – 2
+AUDIT  Alcohol Use Disorder Identification Test
+BEAM  Building Emotional Awareness and Mental health
+CSI‑4  Couples Satisfaction Inventory – 4 Item
+CUDIT ‑R  Cannabis Use Disorder Identification Test – Revised
+CONSORT  Consolidated Standard of Reporting Trials
+DSI‑SS  Depression Severity Index—Suicidality Subscale
+GAD ‑2  Generalized Anxiety Disorder – 2 Item
+GAD ‑7  Generalized Anxiety Disorder – 7 Item
+IBQ‑R‑VS  Infant Behavior Questionnaire – Revised – Very Short Form
+MAUQ  MHealth App Usability Questionnaire
+mHealth   Mobile Health
+MINI  Mini International Neuropsychiatric Interview
+ORBIT  Obesity‑Related Behavioral Intervention Tool
+PAB  Patient Advisory Board
+PANAS‑2  Positive and Negative Affect Scale
+PedsQL  Pediatric Quality of Life Inventory
+PHIA  Personal Health Information Act
+PHQ ‑2  Patient Health Questionnaire – 2 Item
+PHQ ‑9  Patient Health Questionnaire – 9 Item
+PMP S‑E  Perceived Maternal Parenting Self‑Efficacy
+PROMIS  Patient Reported Outcomes Measurement Information Systems
+PROMIS ‑A  Patient Reported Outcomes Measurement Information Systems – 
+Anger Subscale
+PROMIS‑SD  Patient Reported Outcomes Measurement Information Systems 
+– Sleep Disturbance Subscale
+PSI‑4  Parenting Stress Index – 4 Item
+PSI‑SF  Parenting Stress Index – Short Form
+RCT   Randomized Controlled Trial
+REB  Research Ethics Board
+REDCap  Research Electronic Data Capture
+RSE  Recent Stressful Experiences
+SOC  Standard of Care
+SPIRIT   Standard Protocol Items: Recommendations for Intervention Trials
+SPIRIT ‑PRO   Standard Protocol Items: Recommendations for Intervention Trials 
+– Patient Reported Outcome
+SPSS  Statistical Package for the Social Sciences
+SUMM  Substance Use Motives Measure
+T1  Pre ‑intervention
+T2  Post ‑intervention
+T3  6‑Month follow‑up
+UP  Unified Protocol
+Supplementary Information
+The online version contains supplementary material available at https:// doi. 
+org/ 10. 1186/ s40814‑ 023‑ 01260‑ y.
+Additional file 1. 
+Page 13 of 14
+ Joyce et al. Pilot and Feasibility Studies            (2023) 9:35 
+ 
+Acknowledgements
+We would like to acknowledge the mothers who will participate in this 
+study and those on the parent advisory board for their invaluable feedback. 
+We would also like to thank the Family Dynamics team, our parent coaches, 
+Janelle Bobula, Madeline Belows, Lara Penner ‑Goeke, Amber Yaholkoski, Kae ‑
+ley Simpson, Makayla Freeman, Marlee Salisbury, and Ashley Pharazyn for their 
+assistance in preparing and conducting the proposed BEAM program.
+Authors’ contributions {5a}
+KMJ, CR, ALM, EBX, LT ‑M, and LER contributed to study conceptualization and 
+methodology. KMJ wrote the original protocol draft. CR, ALM, LYK, KR, LEK, TK, 
+TOA, ARM, FMC, KP , SH, LB, LT ‑M, and LER were involved in the review and edit ‑
+ing of this manuscript. CR, ALM, LYK, KR, LEK, TK, TOA, ARM, FMC, LT ‑M, and LER 
+were responsible to acquiring funding to complete the proposed research. 
+KMJ, CR, ALM, EBX, KP , LB, SH, LT ‑M, and LER oversaw project administration. 
+Clinical and research supervision were provided by KR, LT ‑M, and LER. All 
+authors reviewed and approved the final submission.
+Funding {4}
+The BEAM program is supported by grant 178852 from the Canadian Institutes 
+of Health Research (CIHR). KMJ was supported by the Vanier Canadian Graduate 
+Scholarship from the Social Sciences and Humanities Research Council of Can‑
+ada. CR was supported by a postdoctoral fellowship from Research Manitoba 
+and the Children’s Hospital Foundation of Manitoba. ALM was supported by a 
+Social Sciences & Humanities Research Council (SSHRC) Banting Postdoctoral 
+Fellowship (#01353–000). LT ‑M was supported by a career development award 
+through the Canadian Child Health Clinician Scientist Program (CCHCSP) and 
+an Early Career Investigator Award in Maternal and Child Health through CIHR.
+Availability of data and materials
+All data will be housed in a secure database accessible to the study 
+investigators.
+Declarations
+Ethics approval and consent to participate
+This study has been approved by the University of Manitoba’s Research Ethics 
+Board (REB #: HE2021‑0217). Informed consent will be provided prior to study 
+participation.
+Consent for publication
+Not applicable. See Appendix A for consent form.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1 Department of Psychology, University of Manitoba, P314 Duff Roblin Build‑
+ing, 190 Dysart Road, Winnipeg, Manitoba R3T 2N2, Canada. 2 University 
+of Oklahoma, Norman, USA. 3 University of Calgary, Calgary, Canada. 4 Lakehead 
+University, Thunder Bay, Canada. 5 University of British Columbia, Vancouver, 
+Canada. 6 Departments of Psychology and Pediatrics, University of Manitoba, 
+Winnipeg, Canada. 
+Received: 3 November 2022   Accepted: 10 February 2023
+References
+ 1. Cameron EE, Joyce KM, Delaquis CP , Reynolds K, Protudjer JLP , Roos LE. 
+Maternal psychological distress & mental health service use during the 
+COVID ‑19 pandemic. J Affect Disord. 2020;276:765–74.
+ 2. Racine N, Eirich R, Cooke J, Zhu J, Pador P , Dunnewold N, et al. When the 
+bough breaks: a systematic review and meta‑analysis of mental health 
+symptoms in mothers of young children during the COVID ‑19 pandemic. 
+Infant Ment Health J. 2022;43(1):36–54.
+ 3. Lebel C, MacKinnon AM, Bagshawe M, Tomfohr ‑Madsen L, Giesbrecht G. 
+Elevated depression and anxiety symptoms among pregnant individuals 
+during the COVID ‑19 pandemic. J Affect Disord. 2020;277:5–13. 4. Lomonaco ‑Haycraft KC, Hyer J, Tibbits B, Grote J, Stainback ‑Tracy K, Ulrick ‑
+son C, et al. Integrated perinatal mental health care: a national model of 
+perinatal primary care in vulnerable populations. Prim Health Care Res 
+Dev. 2019;18(20):e77.
+ 5. Yao H, Chen JH, Xu YF. Patients with mental health disorders in the 
+COVID ‑19 epidemic. Lancet Psychiatry. 2020;7(4):e21.
+ 6. Bowen A, Bowen R, Butt P , Rahman K, Muhajarine N. Patterns of depres‑
+sion and treatment in pregnant and postpartum women. Can J Psychiat. 
+2012;57(3):161–7.
+ 7. Kingston D, Heaman M, Fell D, Dzakpasu S, Chalmers B. Factors associ‑
+ated with perceived stress and stressful life events in pregnant women: 
+findings from the Canadian maternity experiences survey. Matern Child 
+Health J. 2012;16(1):158–68.
+ 8. Kingston D, Tough S. Prenatal and postnatal maternal mental health and 
+school‑age child development: a systematic review. Matern Child Health 
+J. 2014;18(7):1728–41.
+ 9. van der Waerden J, Galéra C, Larroque B, Saurel‑ Cubizolles MJ, Sutter ‑
+Dallay AL, Melchior M. Maternal depression trajectories and children’s 
+behavior at age 5 years. J Pediatr. 2015;166(6):1440–8.
+ 10. Inspiring Healthy Futures. A vision for Canada’s children, youth, and families.
+ 11. Penner ‑Goeke L, Kaminski L, Sulymka J, Mitchell B, Peters S, Roos L. A 
+meta‑analysis of group ‑based parenting programs for preschoolers: 
+exploring moderation by participants, programs, and time. 2020;
+ 12. Thanhäuser M, Lemmer G, de Girolamo G, Christiansen H. Do preventive 
+interventions for children of mentally ill parents work? Results of a system‑
+atic review and meta‑analysis. Curr Opin Psychiatry. 2017;30(4):283–99.
+ 13. Sztein DM, Koransky CE, Fegan L, Himelhoch S. Efficacy of cogni‑
+tive behavioural therapy delivered over the internet for depressive 
+symptoms: a systematic review and meta‑analysis. J Telemed Telecare. 
+2018;24(8):527–39.
+ 14. Young C, Campbell K, Dulong C. Internet ‑delivered cognitive behav‑
+ioural therapy for major depression and anxiety disorders: a review of 
+clinical effectiveness. 2018.
+ 15. Roos LE, Kaminski L, Stienwandt S, Hunter S, Giuliano R, Mota N, et al. 
+The Building regulation in dual‑ generations program (BRIDGE): a 
+mixed‑methods feasibility pilot of a parenting program for depressed 
+mothers of preschoolers, matched with dialectical behavior therapy 
+skills. Child Psychiatry Hum Dev. 2021;4:1–17.
+ 16. Barlow DH, Farchione TJ, Bullis JR, Gallagher MW, Murray‑Latin H, Sauer ‑
+Zavala S, et al. The unified protocol for transdiagnostic treatment of 
+emotional disorders compared with diagnosis‑specific protocols for 
+anxiety disorders. JAMA Psychiat. 2017;74(9):875–84.
+ 17. de Ornelas Maia AC, Braga AA, Nunes CA, Nardi AE, Silva AC. Transdiag‑
+nostic treatment using a unified protocol: application for patients with 
+a range of comorbid mood and anxiety disorders. Trends Psychiatry 
+Psychother. 2013;35(2):134–40.
+ 18. Farchione TJ, Fairholme CP , Ellard KK, Boisseau CL, Thompson‑Hollands J, 
+Carl JR, et al. Unified Protocol for transdiagnostic treatment of emotional 
+disorders: a randomized controlled trial. Behav Ther. 2012;43(3):666–78.
+ 19. Spence SH, March S, Donovan CL. Social support as a predictor of 
+treatment adherence and response in an open‑access, self‑help, 
+internet ‑delivered cognitive behavior therapy program for child and 
+adolescent anxiety. Internet Interv. 2019;18:100268.
+ 20. Yardley L, Spring BJ, Riper H, Morrison LG, Crane DH, Curtis K, et al. 
+Understanding and promoting effective engagement with digital 
+behavior change interventions. Am J Prev Med. 2016;51(5):833–42.
+ 21. Lambert MJ, Harmon KL. The merits of implementing routine 
+outcome monitoring in clinical practice. Clin Psychol Sci Pract. 
+2018;25(4):e12268.
+ 22. Heber E, Ebert DD, Lehr D, Cuijpers P , Berking M, Nobis S, et al. The benefit 
+of web ‑ and computer ‑based interventions for stress: a systematic review 
+and meta‑analysis. J Med Internet Res. 2017;19(2):e32.
+ 23. Atif N, Lovell K, Rahman A. Maternal mental health: the missing “m” in the 
+global maternal and child health agenda. Semin Perinatol. 2015;39(5):345–52.
+ 24. MacKinnon AL, Simpson KM, Salisbury MR, Bobula J, Penner ‑Goeke L, 
+Berard L, et al. Building emotional awareness and mental health (BEAM): a 
+pilot randomized controlled trial of an app ‑based program for mothers of 
+toddlers. Front Psychiatry. 2022;24(13):880972.
+ 25. Czajkowski SM, Powell LH, Adler N, Naar ‑King S, Reynolds KD, Hunter CM, 
+et al. From ideas to efficacy: the ORBIT model for developing behavioral 
+treatments for chronic diseases. Health Psychol. 2015;34(10):971–82.
+Page 14 of 14 Joyce et al. Pilot and Feasibility Studies            (2023) 9:35 
+ 26. Walker LO, Czajkowski SM. Designing interventions to improve the health 
+of women using the ORBIT model. J Obstet Gynecol Neonatal Nurs. 
+2019;48(2):197–204.
+ 27. Aizenstros A, Bakker D, Hofmann SG, Curtiss J, Kazantzis N. Engagement with 
+smartphone ‑delivered behavioural activation interventions: a study of the Mood‑
+Mission smartphone application. Behav Cogn Psychother. 2021;49(5):569–81.
+ 28. Bakker D, Rickard N. Engagement with a cognitive behavioural therapy 
+mobile phone app predicts changes in mental health and wellbeing: 
+MoodMission. Aust Psychol. 2019;54(4):245–60.
+ 29. Bakker D, Kazantzis N, Rickwood D, Rickard N. Development and pilot 
+evaluation of smartphone ‑delivered cognitive behavior therapy strate ‑
+gies for mood‑ and anxiety‑related problems: MoodMission. Cogn Behav 
+Pract. 2018;25(4):496–514.
+ 30. Bakker D, Kazantzis N, Rickwood D, Rickard N. A randomized controlled 
+trial of three smartphone apps for enhancing public mental health. 
+Behav Res Ther. 2018;109:75–83.
+ 31. Harris PA, Taylor R, Thielke R, Payne J, Gonzalez N, Conde JG. Research 
+electronic data capture (REDCap) ‑ a metadata‑ driven methodology and 
+workflow process for providing translational research informatics sup ‑
+port. J Biomed Inform. 2009;42(2):377–81.
+ 32. Chan AW, Tetzlaff JM, Altman DG, Laupacis A, Gøtzsche PC, Krleža‑ Jerić K, 
+et al. SPIRIT 2013 statement: defining standard protocol items for clinical 
+trials. Ann Intern Med. 2013;158(3):200–7.
+ 33. Chan AW, Tetzlaff JM, Gotzsche PC, Altman DG, Mann H, Berlin JA, et al. 
+SPIRIT 2013 explanation and elaboration: guidance for protocols of clini‑
+cal trials. BMJ. 2013;9(346):e7586.
+ 34. Sheehan D v., Lecrubier Y, Sheehan KH, Amorim P , Janavs J, Weiller E, et al. 
+The Mini‑International Neuropsychiatric Interview (M.I.N.I.): the develop ‑
+ment and validation of a structured diagnostic psychiatric interview for 
+DSM ‑IV and ICD ‑10. Journal of Clinical Psychiatry. 1998;59:22–33.
+ 35. Kroenke K, Spitzer RL, Williams JBW. The PHQ ‑9: validity of a brief depres‑
+sion severity measure. J Gen Intern Med. 2001;16(9):606–13.
+ 36. Spitzer RL, Kroenke K, Williams JBW, Löwe B. A brief measure for 
+assessing generalized anxiety disorder: The GAD ‑7. Arch Intern Med. 
+2006;166(10):1092–7.
+ 37. Zalewski M, Maliken AC, Lengua LJ, Martin CG, Roos LE, Everett Y. Integrating 
+dialectical behavior therapy with child and parent training interventions: a 
+narrative and theoretical review. Clin Psychol Sci Pract. 2020;17:e12363.
+ 38. Kroenke K, Spitzer RL, Williams JBW. The Patient Health Question‑
+naire ‑2: validity of a two ‑item depression screener. Med Care. 
+2003;41(11):1284–92.
+ 39. Kroenke K, Spitzer RL, Williams JBW, Monahan PO, Löwe B. Anxiety disor ‑
+ders in primary care: prevalence, impairment, comorbidity, and detection. 
+Ann Intern Med. 2007;146(5):317–25.
+ 40. Barroso NE, Hungerford GM, Garcia D, Graziano PA, Bagner DM. Psy‑
+chometric properties of the Parenting Stress Index ‑Short Form (PSI‑SF) 
+in a high‑risk sample of mothers and their infants. Psychol Assess. 
+2016;28(10):1331–5.
+ 41. Watson D, Clark LA, Tellegen A. Development and validation of brief 
+measures of positive and negative affect: The PANAS scales. J Pers Soc 
+Psychol. 1988;54(6):1063–70.
+ 42. Schueller SM, Neary M, Lai J, Epstein DA. Understanding people’s use of 
+and perspectives on mood‑tracking apps: interview study. JMIR Ment 
+Health. 2021;8(8):e29368.
+ 43. Stanley IH, Hom MA, Christensen K, Keane TM, Marx BP , Björgvinsson T. Psy‑
+chometric properties of the Depressive Symptom Index ‑Suicidality Subscale 
+(DSI‑SS) in an adult psychiatric sample. Psychol Assess. 2021;33(10):987–97.
+ 44. Xie EB, Simpson KM, Reynolds K, Giuliano RJ, Protudjer J, Soderstrom M, 
+et al. Building emotion awareness and mental health (BEAM): study pro ‑
+tocol for a randomized controlled trial of the BEAM app ‑based program 
+for mothers of children 18–36 months. 2022;
+ 45. Linardon J, Cuijpers P , Carlbring P , Messer M, Fuller ‑Tyszkiewicz M. The 
+efficacy of app ‑supported smartphone interventions for mental health 
+problems: a meta‑analysis of randomized controlled trials. World Psychia‑
+try. 2019;18(3):325–36.
+ 46. Hightow‑ Weidman LB, Bauermeister JA. Engagement in mHealth behav‑
+ioral interventions for HIV prevention and care: making sense of the 
+metrics. Mhealth. 2020;6:7.
+ 47. Short CE, DeSmet A, Woods C, Williams SL, Maher C, Middelweerd A, et al. 
+Measuring engagement in eHealth and mHealth behavior change interven‑
+tions: viewpoint of methodologies. J Med Internet Res. 2018;20(11):e292. 48. Zhou L, Bao J, Setiawan IMA, Saptono A, Parmanto B. The mHealth App 
+Usability Questionnaire (MAUQ): development and validation study. JMIR 
+Mhealth Uhealth. 2019;7(4):e11500.
+ 49. Beck CT, Kurz B, Gable RK. Concordance and discordance of the Postpar ‑
+tum Depression Screening Scale and Patient Health Questionnaire ‑9 in 
+an ethnically diverse sample. J Soc Serv Res. 2012;38(4):439–50.
+ 50. Pilkonis PA, Choi SW, Reise SP , Stover AM, Riley WT, Cella D. Item banks 
+for measuring emotional distress from the Patient ‑Reported Outcomes 
+Measurement Information System (PROMIS®): depression, anxiety, and 
+anger. Assessment. 2011;18(3):263–83.
+ 51. Hanish AE, Lin‑Dyken DC, Han JC. PROMIS sleep disturbance and sleep ‑
+related impairment in adolescents. Nurs Res. 2017;66(3):246–51.
+ 52. Babor T, Higgins‑Biddle J, Saunders J, Monteiro M. AUDIT: The alcohol use 
+disorders identification test: guidelines for use in primary care. 2001.
+ 53. Adamson SJ, Sellman JD. A prototype screening instrument for cannabis 
+use disorder: the Cannabis Use Disorders Identification Test (CUDIT) in an 
+alcohol‑ dependent clinical sample. Drug Alcohol Rev. 2003;22(3):309–15.
+ 54. Biolcati R, Passini S. Development of the Substance Use Motives Measure 
+(SUMM): a comprehensive eight ‑factor model for alcohol/drugs con‑
+sumption. Addictive Behaviors Reports. 2019;10:100199.
+ 55. Barnes CR, Adamson‑Macedo EN. Perceived Maternal Parenting Self‑
+Efficacy (PMP S‑E) tool: development and validation with mothers of 
+hospitalized preterm neonates. J Adv Nurs. 2007;60(5):550–60.
+ 56. Irvine AB, Biglan A, Smolkowski K, Ary D v. The value of the Parenting 
+Scale for measuring the discipline practices of parents of middle school 
+children. Behaviour Research and Therapy. 1999 Feb;37(2):127–42.
+ 57. Funk JL, Rogge RD. Testing the ruler with item response theory: increas‑
+ing precision of measurement for relationship satisfaction with the 
+Couples Satisfaction Index. J Fam Psychol. 2007;21(4):572–83.
+ 58. Squires J, Bricker D, Twombly E. Ages & Stages Questionnaires: Social‑
+Emotional, Second Edition (ASQ:SE‑2): a parent ‑completed child monitor ‑
+ing system for social‑ emotional behaviors. 2015.
+ 59. Varni JW, Seid M, Rode CA. The PedsQL™: measurement model for the 
+Pediatric Quality of Life Inventory. Med Care. 1999;37(2):126–39.
+ 60. Putnam SP , Helbig AL, Gartstein MA, Rothbart MK, Leerkes E. Develop ‑
+ment and assessment of short and very short forms of the Infant Behav‑
+ior Questionnaire ‑Revised. J Pers Assess. 2014;96(4):445–58.
+ 61. Centre on the Developing Child. The JBP Research Network on Toxic 
+Stress. Cambridge, MA: Harvard University; 2021.
+ 62. Billingham SA, Whitehead AL, Julious SA. An audit of sample sizes for pilot 
+and feasibility trials being undertaken in the United Kingdom registered 
+in the United Kingdom Clinical Research Network database. BMC Medical 
+Research Methodology04. 2013;13(104).
+ 63. Whitehead AL, Julious SA, Cooper CL, Campbell MJ. Estimating the 
+sample size for a pilot randomised trial to minimise the overall trial 
+sample size for the external pilot and main trial for a continuous outcome 
+variable. Stat Methods Med Res. 2016;25(3):1057–73.
+ 64. Perneger T v. What’s wrong with Bonferroni adjustments. BMJ. 1998 Apr 
+18;316(7139):1236–8.
+ 65. Streiner DL, Norman GR. Correction for multiple testing: is there a resolu‑
+tion? Chest. 2011;140(1):16–8.
+ 66. Rioux C, Little TD. Missing data treatments in intervention studies: what 
+was, what is, and what should be. Int J Behav Dev. 2021;45(1):51–8.
+ 67. de Souza RJ, Eisen RB, Perera S, Bantoto B, Bawor M, Dennis BB, et al. 
+Best (but oft ‑forgotten) practices: sensitivity analyses in randomized 
+controlled trials. Am J Clin Nutr. 2016;103(1):5–17.
+ 68. Eldridge SM, Chan CL, Campbell MJ, Bond CM, Hopewell S, Thabane 
+L, et al. CONSORT 2010 statement: extension to randomized pilot and 
+feasibility trials. BMJ. 2016;24:i5239.
+ 69. Thabane L, Hopewell S, Lancaster GA, Bond CM, Coleman CL, Campbell 
+MJ, et al. Methods and processes for development of a CONSORT exten‑
+sion for reporting pilot randomized controlled trials. Pilot Feasibility Stud. 
+2016;20(2):25.
+ 70. Straus SE, Tetroe J, Graham ID. Knowledge translation in health care: mov‑
+ing from evidence to practice. 2nd ed. Wiley; 2013.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub ‑
+lished maps and institutional affiliations.

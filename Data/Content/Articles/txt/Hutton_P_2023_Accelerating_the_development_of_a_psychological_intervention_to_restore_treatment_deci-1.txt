@@ -1,0 +1,1350 @@
+Hutton  et al. Pilot and Feasibility Studies           (2023) 9:117 
+https://doi.org/10.1186/s40814-023-01323-0
+STUDY PROTOCOL Open Access
+© The Author(s) 2023, corrected publication 2023. Open Access  This article is licensed under a Creative Commons Attribution 4.0 
+International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you 
+give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes 
+were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To 
+view a copy of this licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/. The Creative Commons Public Domain Dedication waiver 
+(http:// creat iveco mmons. org/ publi cdoma in/ zero/1. 0/) applies to the data made available in this article, unless otherwise stated in a 
+credit line to the data.Pilot and F easibility Studies
+Accelerating the development 
+of a psychological intervention to restore 
+treatment decision-making capacity in patients 
+with schizophrenia-spectrum disorder: a study 
+protocol for a multi-site, assessor -blinded, pilot 
+Umbrella trial (the DEC:IDES trial)
+Paul Hutton1,2*  , James Kelly3,4, Christopher D. J. Taylor5,6, Brian Williams7, Richard Emsley8, 
+Candy Ho Alexander9, Anvita Vikram5, David Saddington5, Andrea McCann4, Joseph Burke1, 
+Emma Eliasson9,10,11, Sean Harper2,9, Thanos Karatzias1,2, Peter J. Taylor6, Andrew Watson9, Nadine Dougall1, 
+Jill Stavert1, Suzanne O’Rourke12, Angela Glasgow9, Regina Murphy9, Karen Palmer4, Nosheen Zaidi4, 
+Polly Bidwell4, Jemma Pritchard9, Lucy Carr5 and Amanda Woodrow1,2 
+Abstract 
+Background A high proportion of patients diagnosed with schizophrenia-spectrum disorders will at some point 
+in their lives be assessed as not having the capacity to make their own decisions about pharmacological treat -
+ment or inpatient care (‘capacity’). Few will be helped to regain it before these interventions proceed. This is partly 
+because effective and safe methods to do so are lacking. Our aim is to accelerate their development by testing, 
+for the first time in mental healthcare, the feasibility, acceptability and safety of running an ‘Umbrella’ trial. This involves 
+running, concurrently and under one multi-site infrastructure, multiple assessor-blind randomised controlled trials, 
+each of which is designed to examine the effect on capacity of improving a single psychological mechanism (‘mecha-
+nism’). Our primary objectives are to demonstrate feasibility of (i) recruitment and (ii) data retention on the MacArthur 
+Competence Assessment Tool-Treatment (MacCAT-T; planned primary outcome for a future trial) at end-of-treatment. 
+We selected three mechanisms to test: ‘self-stigma’ , low self-esteem and the ‘jumping to conclusions’ bias. Each is highly 
+prevalent in psychosis, responsive to psychological intervention, and hypothesised to contribute to impaired capacity.
+Methods Sixty participants with schizophrenia-spectrum diagnoses, impaired capacity and one or more mechanism(s) 
+will be recruited from outpatient and inpatient mental health services in three UK sites (Lothian, Scotland; Lancashire 
+and Pennine; North West England). Those lacking capacity to consent to research could take part if the key criteria were 
+met, including either proxy consent (Scotland) or favourable Consultee advice (England). They will be allocated to one 
+of three randomised controlled trials, depending on which mechanism(s) they have. They will then be randomised 
+*Correspondence:
+Paul Hutton
+p.hutton@napier.ac.uk
+Full list of author information is available at the end of the article
+Page 2 of 17 Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+to receive, over an 8-week period and in addition to treatment as usual (TAU), 6 sessions of either a psychological 
+intervention which targets the mechanism, or 6 sessions of assessment of the causes of their incapacity (control condi-
+tion). Participants are assessed at 0 (baseline), 8 (end-of-treatment) and 24 (follow-up) weeks post-randomisation using 
+measures of capacity (MacCAT-T), mechanism, adverse events, psychotic symptoms, subjective recovery, quality of life, 
+service use, anxiety, core schemata and depression. Two nested qualitative studies will be conducted; one to under -
+stand participant and clinician experiences and one to investigate the validity of MacCAT-T appreciation ratings.
+Discussion This will be the first Umbrella trial in mental healthcare. It will produce the first 3 single-blind randomised 
+controlled trials of psychological interventions to support treatment decision-making in schizophrenia-spectrum 
+disorder. Demonstrating feasibility will have significant implications not only for those seeking to support capacity 
+in psychosis, but also for those who wish to accelerate the development of psychological interventions for other 
+conditions.
+Trial registration ClinicalTrials.gov NCT04 309435. Pre-registered on 16 March 2020.
+Keywords  Schizophrenia, CBT, MCT, Decision-making capacity, Patient autonomy, Umbrella trial, Supported decision-
+making, Randomised controlled trial
+Background
+Approximately 9–10 people per 1000 will be diagnosed 
+with a schizophrenia-spectrum disorder (‘psychosis’) at 
+some point in their lives [1 ]. Those affected may expe -
+rience a range of distressing symptoms, from halluci -
+nations, delusions and conceptual disorganisation to 
+reduced motivation, anhedonia and cognitive impair -
+ment. They have a much greater risk of dying by suicide 
+relative to the general population [2 ] which, together 
+with significantly poorer physical health, contributes to a 
+reduction in their life expectancy of 14–15 years [3 ].
+People with psychosis are also very likely to experi -
+ence both ‘external’ threats to their autonomy, in the 
+form of involuntary psychiatric treatment, and ‘inter -
+nal’ threats, arising from the effects of psychotic symp -
+toms on their ability to make decisions [4, 5]. In turn, 
+clinicians must balance their duty to provide them with 
+effective care and treatment with their duty to promote 
+their autonomy. Although traditional treatments for 
+psychosis may have beneficial effects on autonomy over 
+the medium to longer-term [6], these must be weighed 
+against the immediate loss of autonomy that occurs if 
+they are administered under compulsion, particularly if 
+they interfere with one’s bodily integrity, liberty or right 
+to a private life [7, 8]. In many jurisdictions, it is therefore 
+necessary—but not sufficient—to first demonstrate that a 
+person lacks the ability or ‘mental capacity’ to make deci -
+sions about that treatment, before it can proceed without 
+their consent [9, 10].
+Definitions of mental capacity vary; however, most 
+involve the ability to understand decision-relevant infor -
+mation and the ability to communicate one’s decision. 
+Many also involve the abilities to retain, use and weigh 
+relevant information and/or appreciate it [11]. When the 
+capacity to make treatment decisions is lost (hereafter ‘capacity’), there is a long-standing ethical, legal and 
+human-rights based imperative for clinicians to support 
+its return [12–15]. In practice, however, such support is 
+rare [16, 17].
+There is increasing pressure for this to change. The 
+United Nations Committee on the Convention on the 
+Rights of Persons with Disabilities (UNCRPD), the 
+National Institute of Clinical and Care Excellence (NICE) 
+and the recent Wessely and Scott Reviews of UK mental 
+health legislation have all emphasised the fundamental 
+importance of supporting treatment decision-making 
+to protect a person’s autonomy [18–21]. Despite these 
+developments, there is a lack of evidence—across health -
+care—on how to do this effectively [19].
+For people with psychosis, our recent systematic review 
+confirmed there are no evidence-based interventions to 
+restore their ability to make their own treatment decisions 
+[5]. We have conducted a number of studies to address 
+this [4 , 22–29] which, taken together, suggest a lack of 
+capacity in this group may stem from specific cognitive, 
+emotional and social factors, the independent and inter -
+acting effects of which are moderated by awareness of 
+them. We specifically predict that avoiding exposure to 
+self-stigmatising beliefs about illness may motivate a per -
+son to reject the possibility they have any need for care, 
+that low self-esteem may fuel distrust and treatment-
+related paranoia and that individuals with a ‘jumping to 
+conclusions’ bias may struggle to gather sufficient infor -
+mation about treatment before accepting or rejecting it. 
+How these factors interact in those lacking capacity is not 
+yet known, but it is plausible to suggest, for instance, that 
+low self-esteem and high self-stigma may reinforce each 
+other [30, 31] or that a person with low self-esteem and 
+the JTC bias may be particularly vulnerable to developing 
+self-stigma.
+Page 3 of 17
+ Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+ 
+Self-stigma, low self-esteem and the jumping to con -
+clusions bias are each highly prevalent in psychosis [24, 
+29, 32], and psychological interventions that selectively 
+reduce them already exist [22, 33–38]. This means we 
+can conduct ‘interventionist-causal RCTs’ (IC-RCTs) to 
+examine whether they also improve capacity [39, 40]. 
+Participants in an IC-RCT are selected to ensure they 
+have both the condition (e.g., impaired capacity) and 
+the hypothesised cause of the condition (e.g., jumping 
+to conclusions bias), before being randomly allocated to 
+either a control condition or an intervention designed 
+to reduce the potential cause [40]. Positive results mean 
+both a cause and a treatment component have been iden -
+tified, whereas null results are informative insofar as they 
+allow model refinement.
+However, because complex conditions have multi -
+ple causes, multiple IC-RCTs are required to develop 
+a comprehensive intervention, which can be expensive 
+and delay treatment development. One solution is to run 
+several of these trials at the same time within one over -
+all infrastructure, with each focused on a different cause. 
+This removes duplication of time and effort in relation 
+to protocol development, ethical approval, advertising, 
+recruitment, management, staff training, so on, there -
+fore greatly increasing efficiency. Indeed, we estimate 
+that this approach, which is also known as an ‘Umbrella 
+trial’ , could produce an effective intervention in half the 
+time, for half the cost. However, although they have been 
+highly successful in improving treatments for cancer and 
+other physical health problems [41, 42], Umbrella trials 
+have never before been used to develop a psychologi -
+cal or pharmacological intervention for a mental health 
+problem [42, 43].
+Our aim is therefore to conduct the first Umbrella trial 
+in mental healthcare, using this to accelerate the develop -
+ment of the first evidence-based intervention to support 
+capacity in psychosis. The DEC:IDES (‘DEcision-making 
+Capacity: Intervention Development and Evaluation in 
+Schizophrenia-spectrum disorders’) trial involves run -
+ning three IC-RCTs in parallel, each testing the effect on 
+capacity of an intervention to either reduce self-stigma, 
+improve self-esteem or reduce the jumping to conclu -
+sions bias. Our aims at this stage are restricted to demon -
+strating feasibility, acceptability and safety. Our primary 
+objectives are to demonstrate feasibility of recruitment 
+and determine data quality and completion rates for the 
+MacArthur Competence Assessment Tool for Treatment 
+(MacCAT-T) [44], a widely used measure of treatment 
+decision-making capacity and our planned primary out -
+come in a future trial. Our secondary objectives include 
+assessing adverse events, data completion rates for sec -
+ondary efficacy and mechanism outcomes, participant and clinician acceptability of the trial, and the construct 
+validity of the MacCAT-T.
+Methods
+Design
+DEC:IDES is a multi-site single (rater) blind Umbrella 
+trial of psychological interventions to support treat -
+ment decision-making capacity in people diagnosed 
+with schizophrenia-spectrum disorders. Participants are 
+randomly allocated to receive treatment as usual (TAU) 
+plus a psychological intervention to improve either (i) 
+self-stigma, (ii) self-esteem or (iii) the jumping to con -
+clusions (JTC) reasoning bias, or TAU plus an attention 
+control condition (see Fig.  1). Each intervention group 
+is compared to its own control group (each receive the 
+same standardised procedure) to ensure participants in 
+each trial are equivalent with respect to their present -
+ing mechanism. This means the study consists of three 
+2-arm IC-RCTs (treatment vs. control) running in paral -
+lel under one overall infrastructure, or ‘Umbrella’ . TAU is 
+measured, but not changed.
+We provide control participants with a ‘non-specific’ 
+attention control condition (in addition to TAU) because 
+we need to demonstrate acceptability before using it in a 
+larger trial. An appropriate attention-control reduces the 
+risk of a false-positive finding favouring intervention effi -
+cacy (i.e., it increases confidence that group differences 
+reflect specific causal effects of the intervention). Our 
+control condition involves a therapist completing further 
+assessment of factors which help or hinder a participant’s 
+capacity and is carefully matched for time and attention 
+to the interventions.
+Assessments are carried out at 0 (baseline), 8 (end-
+of-treatment; EoT) and 24  weeks (follow-up; FU) by a 
+researcher masked to treatment allocation. Due to lim -
+ited resources and because our intention at this stage is 
+simply to demonstrate the feasibility of retaining partic -
+ipants for follow-up, only those randomised in the first 
+5 (England) to 23 (Scotland) months are eligible for the 
+24-week assessment.1 We have multiple sites (1 in Scot -
+land; 2 in England) primarily to examine the feasibility 
+of multi-site procedures. To minimise cost, we made an 
+a priori decision to recruit 75% of participants from the 
+lead site, NHS Lothian.
+There are two nested qualitative studies; one uses 
+framework analysis [45] to document and understand 
+participant and clinician experiences of the trial (‘ Qualita -
+tive study 1’), and another uses case study methodology 
+1 The number of participants eligible for follow-up increased when the 
+recruitment window was increased to mitigate the impact of the COVID-19 
+pandemic. See CONSERVE checklist.
+Page 4 of 17 Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+[46, 47] to investigate the validity of improvements in 
+MacCAT-T appreciation ratings (‘ Qualitative study 2’). 
+Both these studies are conducted after participants have 
+completed their final research assessment.
+DEC:IDES was approved by two NHS Research Eth -
+ics Committees (RECs) representing Scotland (IRAS 
+ID: 263575) and England (IRAS ID: 265638). The NHS 
+Health Research Authority required separate approval 
+from both Scotland and England because of differences in 
+legal regimes governing the inclusion of adults who lack 
+capacity to consent to research. DEC:IDES was pre-regis -
+tered on 16 March 2020, prior to first randomisation,
+(NCT04309435; https:// clini caltr  ials. gov/ ct2/ show/ NCT04  
+309435).2
+Informed consent is acquired from all participants with 
+intact decision-making capacity to consent to research, 
+using an approved consent form.3 Special REC approval was obtained to include participants who lacked capacity 
+to consent to participate, based on the study and its pro -
+cedures meeting criteria specified in the Mental Capacity 
+(England & Wales) Act (2005) and Adults with Incapacity 
+(Scotland) Act (2001) [48, 49].
+A Trial Steering Committee (TSC) provides oversight 
+of the trial and incorporates the functions of a Data Mon -
+itoring and Ethics Committee (DMEC). Membership 
+includes service-user and carer representatives, research -
+ers and clinicians. The TSC reviews all SAEs as they 
+occur and can recommend to the Sponsor and NHS REC 
+that the trial be terminated for reasons of safety.
+A schedule of enrolment, interventions and assess -
+ments is provided in Table  1. See Additional file  1 for 
+a combined checklist incorporating the ‘Standard Pro -
+tocol Items: Recommendations for Interventional Tri -
+als’ (SPIRIT) checklist and the CONSERVE extension 
+to SPIRIT for reporting changes due to extenuating 
+circumstances, together with relevant items from the 
+‘Consolidated Standards of Reporting Trials’ (CON -
+SORT) extensions for pilot and feasibility trials [50], for 
+harms [51] and for social and psychological interven -
+tions [52]. Figure  3 provides the CONSORT participant 
+Fig. 1 An Umbrella trial of psychological intervention to improve impaired treatment decision-making capacity in psychosis
+2 The first UK-wide COVID-19 stay-at-home order (‘lockdown’) was 
+announced 7 days later, on 23 March 2020.
+3 Audio recording of consent was introduced as an alternative to written 
+consent in order to reduce face-to-face contact during the COVID-19 pan-
+demic. See CONSERVE checklist.
+Page 5 of 17
+ Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+ 
+flow diagram template, designed to provide more 
+detailed information on recruitment flow [50].
+Participants
+We calculated that 60 participants (20 per trial) would 
+allow us to estimate a data non-retention rate of 15%, at 
+week 8, to within a 95% confidence interval of ± 9%.
+Individuals can participate in DEC:IDES if they are as 
+follows:
+• Diagnosed with schizophrenia-spectrum disorder 
+(schizophrenia, schizoaffective disorder, delusional 
+disorder, psychosis not otherwise specified, brief 
+psychotic disorder)
+• Aged 18–65
+• Able to be interviewed and complete the measures
+• Registered as a patient with clinical or social care 
+services
+• Judged to lack capacity to make treatment deci -
+sions by their referring clinician and the researcher 
+(using the MacCAT-T)
+• Have either (i) low self-esteem, defined as a score 
+of < 15 on the Rosenberg Self-Esteem Scale (RSES) 
+[53]; (ii) high self-stigma, defined as a score of ≥ 60 
+on Internalised Stigma of Mental Illness Inventory 
+(ISMI) [54]; and/or (iii) a JTC bias, defined as select -
+ing ≤ 2 beads on the Beads Task [29, 55].Individuals are unable to participate if they are as 
+follows:
+• Have a moderate to severe learning disability
+• Have psychosis of a predominantly organic origin 
+(e.g. brain injury, physical health condition, epilepsy) 
+or a primary diagnosis of substance or alcohol use 
+disorder
+• Cannot understand English sufficiently to engage in 
+conversation without an interpreter
+• Present with a level of risk to others that cannot be 
+managed via suitable adjustments.
+Research assistants (RAs) seek referrals from clini -
+cians in inpatient and outpatient clinical services in NHS 
+Lothian, Lancashire & South Cumbria NHS Foundation 
+Trust and Pennine Care NHS Foundation Trust. We also 
+accept self-referral, but only if the participant agrees to 
+us contacting their mental health provider for risk assess -
+ment purposes. Posters are placed in inpatient wards and 
+outpatient clinics to advertise the study to participants. 
+These provide the study website address, which hosts 
+information sheets and the consent form. Adverts were 
+also placed in newspapers and bus stop shelters in the 
+NHS Lothian area (see Fig.  2). Interested participants are 
+provided with an information sheet, and any initial ques -
+tions are answered. They are then recontacted by an RA 
+a minimum of 48  h later. Those eligible and consenting Table 1 Schedule of enrolment, interventions and assessments (SPIRIT 2013 guidelines)
+Study period
+Time point Enrolment Allocation Post-allocation
+-t1 0 weeks 8 weeks (end-of-treatment) 24 weeks (follow-
+up) > 24 weeks
+Enrolment
+ Eligibility screen X
+ Informed consent X
+ Allocation X
+Interventions
+ Self-esteem X
+ Self-stigma X
+ JTC X
+ Control X
+Assessments
+ Planned primary outcome X X X
+ Planned secondary outcomes X X X
+ Planned mechanisms X X X
+Qualitative studies
+ Study 1 X
+ Study 2 X
+Page 6 of 17 Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+then enter the trial. To compensate them for their time, 
+participants received a £10 supermarket voucher after 
+the baseline assessment, and again after the end-of-treat -
+ment and follow-up assessments (£30 in total). Reasons 
+for exclusion will be reported as per the CONSORT 2010 
+guidelines [56] and the 2016 extension for feasibility and 
+pilot trials [50]. Figure  3 provides the CONSORT par -
+ticipant flow diagram template, designed to provide more 
+detailed information on recruitment flow.
+Qualitative study 1
+We aim to recruit 6 patients and 6 staff members from 
+the Lothian site for this study, via a mixture of purpo -
+sive and random sampling. We try to ensure there is 
+one patient from every arm of the study, that half are 
+from an inpatient setting and that one third are self-
+referrers. A similar process is applied to selecting the 
+staff sample. When we have multiple patients or staff to 
+choose from, we use an online randomisation website 
+(https:// www. random. org/ lists/) to determine order of 
+invitation.
+Qualitative study 2
+We aim to recruit up to 10 patients from the Lothian site 
+for this study. Participants are eligible if they have com -
+pleted the main study in the preceding 6 months and if 
+their scores for appreciation on the MacCAT-T have 
+improved by at least 1 point between assessments. If 
+there are more than 10 eligible participants, the order of 
+invitation will again be determined randomly.Randomisation and blinding
+There are two points of randomisation: randomisation 
+to trial (‘R1’) and randomisation to treatment or control 
+(‘R2’). R1 is used to allocate individuals when they are eligi -
+ble for two or more trials. Randomisation is conducted by 
+the automated and online service provided by Sealed Enve -
+lope (https:// www. seale  denve  lope. com/) using concealed 
+and randomly generated allocation sequences (without 
+stratification or random permuted blocks) per each pos -
+sible combination of trials, with 1:1 or 1:1:1 ratios.4 This 
+sequence was generated and stored online by Sealed Enve -
+lope and was inaccessible to the research team.
+R2 is also performed by Sealed Envelope, using a single 
+concealed and randomly generated allocation sequence 
+(1:1 ratio), stratified by trial and using random per -
+muted blocks of 2 and 4. There was no stratification by 
+therapist or site. PJT used Sealed Envelope to generate 
+this sequence, which was inaccessible to the rest of the 
+research team. PJT was masked to participant alloca -
+tion and played no role in their enrolment or assess -
+ment. In order to minimise non-ignorable missing data, 
+Fig. 2 Newspaper and bus shelter recruitment adverts in Lothian site
+4 On 2 September 2022, an amendment was approved to allow preferen-
+tial allocation to the self-esteem trial. This was introduced to mitigate the 
+negative effect on recruitment of an unexpectedly low prevalence of low 
+self-esteem in this population. It means that if a participant is eligible for 
+the self-esteem trial, they are non-randomly allocated to it regardless of 
+whether they are also eligible for the self-stigma and/or JTC trials. Partici-
+pants who are eligible only for the latter two trials continue to be randomly 
+allocated to one of them.
+Page 7 of 17
+ Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+ 
+R2 is performed as late as possible, which is normally 
+the beginning of the participant’s first meeting with their 
+therapist.5 The result of R2 is communicated by email 
+to the Chief Investigator, who informs the therapist by 
+phone, who in turn informs the participant.
+Outcome assessors are masked to the result of R2 but 
+not R1 (no comparisons between trials are planned). 
+Masking is maintained by (i) assessors and therapists 
+having separate offices, phone numbers and filing sys -
+tems; (ii) assessors reminding participants at the start 
+of any phone calls or in-person meetings to not disclose 
+their allocation; and (iii) assessors not examining clinical 
+notes after R2 are performed. Assessors and therapists 
+also refrain from discussing participants after R2, unless 
+required to manage risk. If an unmasking occurs, this 
+and its cause are recorded, and a new masked assessor completes any subsequent assessments. Deliberate 
+unmasking was only allowed if doing so was judged by 
+the CI and PI to be required to prevent harm occurring 
+to the participant, a researcher or a third party.
+Assessments
+Table  2 provides specific information on the purpose and 
+timing of all measurements and outcomes.
+Sample characteristics
+To characterise the sample and confirm eligibility, base -
+line information on demographics, legal status, offend -
+ing history, medication regime stability, level of service 
+engagement, alcohol/drug use measured using questions 
+from the Alcohol Use Disorders Identification Test [57] 
+and the Drug Abuse Screening Test [58] and other treat -
+ments are gathered via interview with the participant, 
+consultation with their referrer and/or treatment pro -
+vider and review of clinical records. Additional meas -
+ures administered only at baseline include the Clinical 
+Interview for Psychotic Disorders (CIPD; to confirm and Fig. 3 CONSORT diagram template
+5 On 28 November 2022, an amendment was submitted to allow R2 to pro-
+ceed prior to session 1 if the randomisation administrator was unavailable at 
+the time of session 1 (e.g. due to leave or illness).
+Page 8 of 17 Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+Table 2 Timing and purpose of assessments
+Note: MacCAT-T MacArthur Competence Assessment Tool-Treatment; CIPD Clinical Interview for Psychotic Disorders; ISMI Internalised Stigma of Mental Illness Inventory; RSES Rosenberg Self Esteem Scale; SIMS Semi-
+structured Interview Measure of Stigma; BNA Brief Neurocognitive Assessment; PANSS Positive and Negative Syndrome Scale; QPR Questionnaire about the Process of Recovery; SQoL  Schizophrenia Quality of Life Scale; 
+CSRI Client Service Receipt Inventory; BAI Beck Anxiety Inventory; BCSS Brief Core Schema Scale; CDSS Calgary Depression Scale; AEP Adverse Events in Psychotherapy questionnaire; CGI-P Clinical Global Impression – 
+Participant version; CGI -R Clinical Global Impression – Researcher version; SAI Schedule for Assessment of Insight; CGI-C Clinical Global Impression – Capacity version
+a Incorporates questions from the Alcohol Use Disorders Identification Test (AUDIT) and the Drug Abuse Screening Test (DAST)Assessment Time point Purpose
+0 weeks 8 weeks 24 weeks Every 
+therapy 
+sessionIf early 
+withdrawalDescribe 
+sampleDetermine 
+eligibilityFeasibility 
+of assessing 
+efficacyFeasibility of assessing 
+change in mechanismsAssess 
+adverse 
+eventsMacCAT-T 
+validation
+MacCAT-T X X X X X X X
+CIPD X X X
+ISMI X X X
+RSES X X X X X X
+Beads Task X X X X X X
+SIMS X X X X X
+Demographics  interviewaX X
+BNA X X
+PANSS X X X X X
+QPR X X X X X
+SQoL X X X X X
+CSRI X X X X X
+BAI X X X X X
+BCSS X X X X X
+CDSS X X X X X
+CDSS item 8 (suicidality) X X X X X X
+AEP—trial completers X X X
+AEP—withdrawal X X
+CGI-P X X X X X X
+CGI-R X X X X X X
+SAI X X X X X
+CGI-C X X X X X
+Page 9 of 17
+ Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+ 
+record diagnosis) [59], the Brief Neurocognitive Assess -
+ment (BNA; to measure baseline cognitive functioning) 
+[60] and the Internalised Stigma of Mental Illness ques -
+tionnaire (ISMI; to determine eligibility for self-stigma 
+trial) [54].6
+Primary outcomes
+We made an a priori decision to seek to progress to 
+a definitive trial if we (1) achieved our target recruit -
+ment figure (n = 60) over the recruitment window and 
+(2) acquired end-of-treatment (8  weeks) MacCAT-T 
+data from ≥ 75% of those randomised. The MacCAT-T 
+assesses participants on 4 domains of treatment decision-
+making capacity: (i) ‘understanding’ , scored 0–6 (3 items); 
+(ii) ‘reasoning’ , scored 0–8 (4 items); (iii) ‘appreciation’ , 
+scored 0–4 (2 items); and (iv) ‘expressing a choice’ , scored 
+0–2 (1 item) [61]. Higher scores indicate greater ability 
+in each domain. We define data completion as the num -
+ber of participants completing a MacCAT-T assessment 
+at week 8 divided by the number of participants ran -
+domised to treatment or control.
+Secondary outcomes
+Secondary outcomes relate to data completion rates on 
+the MacCAT-T at follow-up and planned secondary 
+outcome measures at end-of-treatment and follow-up. 
+We measure psychotic symptoms with the Positive And 
+Negative Syndrome Scale (PANSS) [62], subjective recov -
+ery with the Questionnaire on the Process of Recovery 
+(QPR) [63], quality of life with the Schizophrenia Quality 
+of Life scale (SQoL) [64], service use with the Client Ser -
+vice Receipt Inventory (CSRI) [65], anxiety with the Beck 
+Anxiety Inventory [66], core schemata with the Brief 
+Core Schema Scale (BCSS) [67] and depression with the 
+Calgary Depression Scale for Schizophrenia (CDSS) [68]. 
+To assess feasibility of measuring psychological mecha -
+nisms (i.e., mediators of efficacy), we assess self-esteem 
+with the RSES [53], data-gathering with the Beads Task 
+(85:15 version) [55] and self-stigma with the Structured 
+Interview Measure of Stigma (SIMS) [69].
+Adverse events
+We administer a range of other measures to detect any 
+evidence of harm or threats to acceptability, following an 
+adapted version of a previously used protocol [70, 71]. 
+We record serious adverse events (SAEs; suicidal crisis, 
+suicide attempts, suicide, death for reasons other than 
+suicide, symptom exacerbation, readmission, other medi -
+cally important events) and mild to moderate events (e.g., temporarily heightened distress). We define suicidal crisis 
+without attempt as a score of 2 on item 8 of the CDSS. 
+Severe symptom exacerbation is defined as a rating of ≥ 6 
+on a patient or researcher-rated Clinical Global Impres -
+sion Severity (CGI-S) and Clinical Global Impression 
+Improvement (CGI-I) scales [72, 73]. Both the patient 
+and researcher-rated CGI-S are scored from 1 to 7, with 
+higher scores indicating greater symptom severity; the 
+CGI-I scales are also scored from 1 to 7, with higher 
+scores indicating less improvement. Masked assessors 
+administer the suicidality measure (item 8 of CDSS) at 
+0, 8 and 24 weeks, and the symptom exacerbation meas -
+ures (patient and researcher rated CGI-I and CGI-S) at 8 
+and 24 weeks only. Non-masked therapists also complete 
+these measures at the start of every intervention or con -
+trol session. To assess mild to moderate adverse events, 
+the number of participants stating they agree ‘quite a lot’ 
+or ‘very much’ (corresponding to a score of 3 or 4, respec -
+tively) with each item on a self-report measure of adverse 
+events (the Adverse Experiences in Psychotherapy ques -
+tionnaire; AEP)7 at weeks 8 and 24 is recorded. Partici -
+pants who leave the study early are invited to complete a 
+parallel version of the AEP , designed to assess whether an 
+adverse event led to their early discontinuation.
+MacCAT -T construct validity
+As part of the assessment of the MacCAT-T construct 
+validity, the Schedule for Assessment of Insight (SAI)8 
+[74] is administered with patients, while their referrers 
+or treatment providers are asked to complete a version 
+of the Clinical Global Impression scale modified to assess 
+(in) capacity (CGI–Capacity). Both are administered at 0, 
+8 and 24 weeks.
+Intervention and control procedures
+Table  3 details the shared and specific components of the 
+clinical procedures, each of which last 6 h and are deliv -
+ered over an 8-week window. The default model of deliv -
+ery is weekly 1-h sessions; however, this can be adjusted 
+(e.g. shorter and more frequent sessions can be pro -
+vided). The therapy window is deliberately short because 
+we anticipate services and/or clinicians would be unwill -
+ing or unable to wait too long for a person to regain 
+capacity before proceeding with treatment. Sessions will 
+be recorded for supervision and a random sample will be 
+assessed for adherence and competence.
+Each intervention and the control condition are deliv -
+ered by the same therapists, according to structured and 
+6 See the Statistical Analysis Plan (SAP) in appendix for further specifica-
+tion.7 Hutton, P ., Byrne, R., & Morrison, T. (2017). Adverse effects in psycho-
+therapy measure. Unpublished manuscript.
+8 We intended to use the Expanded Schedule for the Assessment of Insight; 
+however, an error led to the original version being used instead.
+Page 10 of 17 Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+manualised protocols. Therapists were either clinical psy -
+chologists who had trained in cognitive behavioural ther -
+apy (CBT), or CBT therapists accredited by the British 
+Association for Behavioural and Cognitive Psychothera -
+pies. Initial and ongoing training on the clinical protocols 
+are provided by the Chief Investigator (CI) in conjunc -
+tion with local site Principal Investigators (PIs), who also 
+provide therapists with regular individual supervision. 
+To refine the clinical procedures, therapists are asked 
+to keep a written diary to record what they perceived 
+to be the positive and challenging aspects of interven -
+tion delivery. Clinical procedures were discontinued if a 
+participant experienced an SAE which the CI and/or an 
+independent clinical member of the TSC judged to be 
+caused by those procedures and discontinuation would 
+not cause them further harm.
+All clinical procedures involve non-specific therapeutic 
+elements of engagement, listening, positive regard, empa -
+thy and collaboration. They are all structured, agenda-
+driven and manualised, and all involve between-session 
+activity for the participant (i.e., ‘homework’). In the inter -
+ventions, the between-session activity is focused on 
+understanding and/or resolving the target psychological 
+mechanism (whether low self-esteem, self-stigma or the 
+JTC bias), whereas in the control condition it is focused 
+on gathering additional information to enable further 
+assessment of factors which may affect their capacity 
+(e.g., completion of questionnaires or completing a life 
+event timeline). The interventions follow the principles of 
+cognitive-behavioural therapy for psychosis (CBTp) [75]. However, unlike traditional CBTp where therapy goals 
+are often decided in collaboration with the patient, the 
+interventions here are focused on a specific mechanism 
+and the specific outcome of improving capacity, although 
+effort is made to relate this to the personal goals of the 
+participant.
+The content of the self-stigma intervention is focused 
+on negative beliefs about schizophrenia, psychosis and 
+psychotic symptoms, and their potential effect on treat -
+ment decision-making. Building on previous work [33], 
+it involves provision of normalising and destigmatising 
+information, or completion of behavioural experiments 
+and anti-stigma data logs focused on challenging stigma-
+related beliefs, or building and strengthening alternative 
+non-stigmatising ones. Building on the work of others 
+[36], the self-esteem intervention is focused on beliefs 
+about the self and their potential relationship to decision-
+making about treatment. Only it involves strengthen -
+ing positive-self beliefs and weakening negative-self ones 
+via the use of a positive data log or activity planning, for 
+example. The JTC intervention is focused on the JTC bias. 
+Adapted from a version developed for an earlier trial [22], 
+which was in turn a distilled version of a module taken 
+from Metacognitive Training (MCT) [76], it involves 
+explaining this bias to participants, raising awareness of 
+its potential effects on treatment decision-making, and 
+encouragement of greater evidence-gathering.
+The aim of the control condition is simply to gather 
+more information on factors which may help or hinder 
+the participant’s treatment decision-making. It includes Table 3 Details of interventions and control procedures
+Key features & components of the interventions and control condition
+Self-stigma = A, Self-esteem = B, JTC = C, Control = DSession
+Engagement, listening, positive regard, empathy, collaboration ABCD1–6
+Structured & manualised to ensure focus, fidelity and homogeneity ABCD1–6
+Between-session activity for participant ABCD1–6
+Provision of structured self-help material relating to mechanism ABC-1–6
+Therapeutic work on non-targeted causal mechanisms excluded ABCD1–6
+Psychological formulation of causal mechanism and capacity (during trial) ABC-1–2
+Normalising via presentation of destigmatising written/audio-visual material A---1–2
+Behavioural experiments & anti-stigma data logs to reduce stigma beliefs and strengthen non-stigmatising illness beliefs A---3–4
+Identifying & improving positive-self beliefs, building self-confidence & reducing negative-self beliefs. Use of positive stimuli -B--1–2
+Positive data log; positive activity planning (connection to others; being active; learning and giving); strengthening positive-self 
+beliefs-B--3–4
+Education about JTC bias, exercises to generate alternative explanations & increase evidence-gathering --C-1–2
+Identification and modification of positive beliefs about JTC decision-making, building positive beliefs about evidence-gather -
+ing, & practice of non-JTC decision-making--C-3–4
+Practice of new strategies and development of shared plan to maintain gains ABC-5–6
+Assessment only: history taking, additional psychometrics & neuropsychological assessment of factors affecting capacity (for -
+mulation after trial completion)---D1–6
+Between session tasks focused on aiding assessment (e.g., life event timeline) ---D1–6
+Page 11 of 17
+ Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+ 
+administration of additional psychometric measures, 
+interviews and/or questionnaires. The therapist merely 
+assesses; they do not provide feedback, try to increase 
+understanding, or conduct formulation. However, once 
+a participant completes the trial, the therapist recontacts 
+them and their clinician (if the participant consents), to 
+offer a psychological formulation focused on understand -
+ing their impaired decision-making, with recommenda -
+tions to support it. We tested the acceptability and safety 
+of this overall approach in a previous case series [25].
+Treatment as usual (TAU)
+TAU for inpatients with psychosis in the UK typically 
+involves regular assessment and care from NHS psychia -
+trists, nurses and other professionals. Pharmacological 
+treatment with antipsychotic medication is nearly always 
+offered [77]. This is administered either orally and/or 
+via injection and in many cases involuntarily. Cognitive 
+behavioural therapy (CBT) is offered to approximately 
+half of inpatients [77], in addition to other psychosocial 
+interventions such as art therapy or occupational therapy. 
+TAU for outpatients with psychosis typically involves 
+assessment and care from a community mental health 
+team (CMHT). These involve a range of profession -
+als, including psychiatrists, psychiatric nurses, clinical 
+psychologists and occupational therapists. Patients are 
+usually prescribed antipsychotic medication and approxi -
+mately one quarter are offered CBT [77]. In England, but 
+not Scotland, all people experiencing their first episode 
+psychosis are required to be offered rapid intervention 
+and support from specialist Early Intervention in Psycho -
+sis services. Both England and Scotland allow for the use 
+of Community Treatment Orders, whereby outpatients 
+are required to adhere to pharmacological treatments or 
+be readmitted to hospital. Focused psychological support 
+for treatment decision-making capacity is likely to be rare 
+at best, regardless of setting.
+Although TAU may—and indeed ought to—have ben -
+eficial effects on the outcomes targeted by DEC:IDES, 
+randomisation should ensure these are evenly distrib -
+uted across the treatment and control groups. Service 
+usage will be measured at baseline, EoT and FU and any 
+between-group differences will be noted.
+Analysis
+A Statistical Analysis Plan (SAP; see Additional file  1) has 
+been prepared by PJT prior to data entry, in conjunction 
+with PH, RE and ND.
+Characterising the sample
+All baseline data will be reported for the sample as a 
+whole and per arm of each trial. All quantitative par -
+ticipant baseline characteristics will be summarised by numbers and percentages, mean and standard devia -
+tion (SD), or median and interquartile range (IQR), as 
+appropriate.
+Primary outcomes
+Data completion rates at 8  weeks post-randomisation 
+(end of treatment) on the MacCAT-T will be presented 
+as a percentage with 95% CIs, for the overall study, per 
+trial and per arm of each trial. Proportion of the recruit -
+ment target actually recruited will be reported as a per -
+centage with 95% CIs. We will also report standardised 
+and unstandardised effect sizes for group differences 
+within each trial on the MacCAT-T at 8 weeks, with 95% 
+CIs. Due to very limited power, these will not be subject 
+to any efficacy-related interpretation. Effect sizes will be 
+reported for both the (i) ‘as randomised’ (intention-to-
+treat; ITT) sample and (ii) those randomised who also 
+received ≥ 3 h of their allocated clinical procedures—i.e., 
+a ‘per-protocol’ population.
+Secondary outcomes
+Data completion rates for all planned secondary efficacy 
+and mechanism outcomes will be presented as a percent -
+age with 95% CIs, for the overall study, per trial and per 
+arm of each trial. Effect sizes and 95% CIs for each effi -
+cacy and mechanism outcome will be reported, for both 
+the ITT and per-protocol samples. We will also report 
+the number of blind breaks.
+Adverse events
+For each treatment and control group, we will report 
+number of (i) deaths by suicide, (ii) deaths not caused by 
+suicide, (iii) participants attempting suicide, (iv) partici -
+pants with suicidal crises, (v) participants experiencing 
+severe symptom exacerbation and (vi) participants stat -
+ing they agree ‘quite a lot’ or ‘very much’ (corresponding 
+to a score of 3 or 4, respectively) with each item on the 
+AEP . We will also report any other medically important 
+SAEs. Whether any SAEs were judged by an independent 
+clinical expert, Sponsor and/or NHS REC to be causally 
+related to research and/or clinical procedures will also be 
+reported.9
+Qualitative study analyses
+For qualitative study 1, framework analysis will be 
+applied to interview recordings in line with the approach 
+outlined by Gale (2013) [45]. This involves transcription, 
+familiarisation and coding; development and application 
+9 We will also report which events were identified via research assistants 
+who were blind to treatment arm allocation (assessed at weeks 0, 8 and 24) 
+and which events were identified via clinicians who were not blind to alloca-
+tion (assessed at start of each clinical session).
+Page 12 of 17 Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+of a wider analytical framework; and charting data into 
+the framework matrix and interpretation. We will use 
+case study methodology for qualitative study 2. Analysis 
+of interviews and research data will be structured using 
+Yin’s (2014) overall ‘explanation building’ framework [47]. 
+The steps involve making an initial explanatory proposi -
+tion and comparing the findings of an initial case against 
+this proposition. This is then revised, and other details of 
+the case and any additional cases are compared against 
+the revision. This process is repeated as many times as 
+needed.
+MacCAT -T validation
+We will calculate and report the correlation between 
+(i) MacCAT-T appreciation ratings and SAI ratings and 
+(ii) MacCAT-T total scores and clinician CGI ratings of 
+capacity, both with 95% CIs.
+Service user and carer involvement
+Service users and carers were involved at a number of 
+stages in the project. We held a knowledge exchange 
+event where we sought their views on the value of our 
+intended research programme, and several service users 
+reviewed the design and content of our participant infor -
+mation sheets. Two service users also joined our Trial 
+Steering Committee and provided oversight and guid -
+ance on project completion.
+Changes to protocol
+Several changes were made to the study protocol at 
+different phases of the project and received ethical 
+approval where required. Their timing and purpose 
+is outlined in Table  4. All the changes that occurred 
+between the study being publicly registered and the first 
+randomisation involved mitigation of pandemic-related 
+health risks to participants and staff. The majority of 
+the changes that occurred after the first randomisation 
+involved mitigation of the effects of the pandemic on 
+recruitment, with the main ones being the extension 
+of the recruitment period in the Lothian site, increas -
+ing the numbers allowed to take part in the individual 
+trials and allowing previous trial completers to return 
+to take part in one of the other trials, if eligible. Prefer -
+ential allocation to the self-esteem trial was introduced 
+primarily to mitigate the much lower than expected 
+prevalence of low self-esteem in this population, a find -
+ing which will be discussed further when we report our 
+results.
+Discussion
+A high proportion of inpatients diagnosed with schizo -
+phrenia-spectrum disorders are assessed as not being 
+able to make their own decisions about their psychiatric treatment [78– 80]. Few, however, receive support to 
+regain it [4 , 16, 17, 19]. Although various authorities 
+have provided generic suggestions for ways to support 
+capacity, such as simplification and repetition of infor -
+mation, the reduction of anxiety or sedation, delaying 
+the decision, or speech and language therapy [14, 15, 
+19–21], such strategies are unlikely to be sufficient for 
+people with complex or severe conditions such as psy -
+chosis. Regardless, even these strategies are rarely imple -
+mented [16].
+The recent Wessely and Scott reviews [20, 21] both 
+recommend using the well-established approaches of 
+advocacy and advance statements10 to support people 
+to make decisions about their psychiatric treatment. 
+However, while evidence suggests these approaches 
+may be important for supporting people to communi -
+cate and implement these decisions [81– 85], particu -
+larly in the context of power asymmetries between 
+patients and clinicians, they make no claim to identify 
+and/or mitigate threats to the internal, psychologi -
+cal processes from which those decisions emerge [85, 
+86]. While these approaches may support the exercise 
+of legal capacity, they do not seek to rectify impaired 
+mental capacity.
+The aim of DEC:IDES is to begin the much-needed 
+process of developing approaches that try to directly 
+restore capacity for people diagnosed with schizophre -
+nia-spectrum disorder. To say that there is much work 
+to do is an understatement. The Code of Practice for 
+the Adults with Incapacity Act (Scotland) (2000), states 
+‘Every possible assistance must be given to the adult to 
+understand his or her own medical condition and the 
+decision that is required in relation to treatment. ’ and 
+‘There is an absolute obligation to facilitate the exercise 
+of capacity, where possible. ’ [15]. In England and Wales, 
+the corresponding Code of Practice for the Mental 
+Capacity Act (2005) states ‘ All practical and appropriate 
+steps must be taken to help people to make a decision 
+for themselves. ’ [14]. In the two decades since the laws 
+underpinning these directives were passed, there have 
+been no notable advances in what counts as ‘possible’ for 
+people with psychosis, and no new ‘practical and appro -
+priate steps’ have been developed [5 , 19].
+We need to make up for this lost time. People with psy -
+chosis cannot wait another 10–20 years for the emergence 
+of effective and safe interventions to support their treat -
+ment decision-making. Ambitious new methodologies 
+are needed to accelerate the intervention-development 
+10 The Wessely and Scott reviews use the terms ‘ Advance Choice Docu-
+ments’ and ‘ Advance Choice’ , respectively.
+Page 13 of 17
+ Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+ 
+process. Demonstrating the feasibility of DEC:IDES will 
+have significant implications not only for those seeking 
+to support capacity in psychosis, but also those who wish 
+to accelerate the development of interventions for other 
+conditions.
+DEC:IDES compares interventions to an attention con -
+trol, rather than usual care alone. Some consider usual 
+care alone to be a better comparator because it best rep -
+resents a problem’s natural course; however, we con -
+sider this to be moot given the confounding effects of regression to the mean.11 More importantly, if we are to 
+make evidence-based justifications for the time and cost 
+involved in training people to deliver a complex interven -
+tion, then demonstrating superiority to a non-specific 
+control is required at some stage in the developmental Table 4 Timing and purpose of changes to protocol
+Note: RSES Rosenberg Self Esteem Scale; RSQ  Robson Self-concept Questionnaire; BCSS, Brief Core Schema Scale; CSRI, Client Service Receipt Inventory; CIPD, Clinical 
+Interview for Psychotic Disorders; PJT , Dr Peter James Taylor, University of ManchesterDescription of change Date of 
+sponsor 
+approvalProject phase Reason(s) for change
+RSES replaced RSQ 17/2/20 Pre-registration To improve methods (e.g., in light of new information)
+CIPD replaced SCID 17/2/20 Pre-registration To reduce or save research costs
+BCSS added 17/2/20 Pre-registration To improve methods (e.g., in light of new information)
+CSRI added 17/2/20 Pre-registration To improve methods (e.g., in light of new information)
+Randomisation sequence parameters changed 17/2/20 Pre-registration To improve methods (e.g., in light of new information)
+English docs updated with Scottish REC changes 26/9/20 Pre-randomisation To align English & Scottish REC approved protocols
+COVID-19 information sheet introduced 3/12/20 Pre-randomisation To mitigate pandemic health risks
+Remote consent introduced 3/12/20 Pre-randomisation To mitigate pandemic health risks
+Remote clinical procedures introduced 3/12/20 Pre-randomisation To mitigate pandemic health risks
+Remote research assessments introduced 3/12/20 Pre-randomisation To mitigate pandemic health risks
+COVID-19 protocol introduced 3/12/20 Pre-randomisation To mitigate pandemic health risks
+Newspaper recruitment advert launched 8/2/21 Post 1st randomisation To mitigate the effect of the pandemic on recruitment
+Bus stop recruitment adverts launched 17/5/21 Post 1st randomisation To mitigate the effect of the pandemic on recruitment
+Recruitment window in Lothian extended 1/7/21 Post 1st randomisation To mitigate the effect of the pandemic on recruitment
+Lothian research staff reduced 1/7/21 Post 1st randomisation To mitigate the effect of the pandemic on recruitment 
+via rebudgeting of research costs
+English site opening delayed (without extending 
+recruitment window)1/7/21 Post 1st randomisation To mitigate the effect of the pandemic on recruitment
+Independent statistician replaced by PJT 1/7/21 Post 1st randomisation To mitigate the effect of the pandemic on recruitment 
+via rebudgeting of research costs
+CIPD dropped at 8 and 24 weeks 1/7/21 Post 1st randomisation To fix an error
+English site closure delayed (without extending 
+recruitment window)8/6/22 Post 1st randomisation To mitigate the effects of NHS staffing problems 
+and the pandemic on recruitment
+Recruitment window in Lothian extended 8/6/22 Post 1st randomisation To mitigate pandemic health risks, its effects on recruit -
+ment, and the effect of NHS staffing problems
+More than 20 participants allowed to participate 
+in self-stigma or jumping to conclusions trials20/8/22 Post 1st randomisation To mitigate the effects of the pandemic and low prev-
+alence of self-esteem on recruitment, and to ensure 
+best use of research and treatment costs
+Preferential allocation to self-esteem trial introduced 20/8/22 Post 1st randomisation To mitigate the impact of the low prevalence of low 
+self-esteem on recruitment
+Previous participants allowed to return to take part 
+in 1 of the other trials (if eligible)20/8/22 Post 1st randomisation To mitigate the effects of the pandemic and low prev-
+alence of self-esteem on recruitment, and to ensure 
+best use of research and treatment costs
+Randomisation to treatment or control allowed 
+to happen before clinical session 1 in some cases27/9/22 Post 1st randomisation To improve feasibility
+Lothian sample size increased by 1 (45 to 46) 6/10/22 Post 1st randomisation To fix an error
+Study end date extended in all sites (without extend-
+ing recruitment window)6/10/22 Post 1st randomisation To mitigate the effect of NHS staffing problems 
+and to complete other tasks
+11 This is most likely to occur when (a) the problem fluctuates and does 
+not follow an inevitably deteriorating course, (b) the baseline assessment of 
+problem severity takes place because the problem meets a specified thresh-
+old of severity and (c) the post-treatment assessment takes place because a 
+fixed time-point has been reached.
+Page 14 of 17 Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+‘pipeline’ . Not introducing this early either unnecessar -
+ily extends the length and expense of this pipeline or, if 
+introduced later, increases uncertainty over both feasibil -
+ity and efficacy after significant investment has already 
+been made. Although early use of a non-specific control 
+might increase the risk of type II error in relation to the 
+non-specific benefits of a complex intervention, we do not 
+think confirming that these exist is worth the investment.
+DEC:IDES has a number of other key features. We have 
+planned a detailed assessment of adverse events, thus 
+allowing any early signs of harm to be detected. Asses -
+sor-blinding will allow us to quantify the potential risk 
+of blind-breaks in a larger trial. Finally, involvement of 
+multiple sites helps us identify and resolve challenges to 
+working across the different legal jurisdictions of Eng -
+land and Scotland. Demonstrating that we can deliver a 
+multi-site trial at this stage will be essential for assessing 
+the feasibility of a larger trial, where multiple sites will be 
+essential.
+The main limitation of DEC:IDES is that we did not 
+design it to be adaptive. That is, we did not build in a pri -
+ori interim analyses of feasibility together with the flex -
+ibility to drop, extend or replace trials. We anticipated 
+this to be too challenging to navigate at this early stage, 
+particularly given existing funding structures. However, 
+if DEC:IDES is successful, then demonstrating adaptiv -
+ity will be a key future objective. Another limitation is 
+that our pre-specified progression criteria were lacking in 
+detail. Although we clearly stated we would seek to pro -
+ceed to a definitive trial if we met our recruitment and 
+data retention objectives, we failed to specify the con -
+sequences of not doing so. Unlike other feasibility trials 
+[87], we did not outline in advance the circumstances 
+under which we would continue the research programme 
+with modifications, or simply discontinue it. It is impor -
+tant to note that DEC:IDES was conducted almost 
+entirely during the global COVID-19 pandemic. Draw -
+ing inferences from trials conducted during this period 
+is going to be challenging, but if DEC:IDES is feasible in 
+this unusually adverse context, then it is likely to be fea -
+sible in others. Finally, we did not formally assess align -
+ment between patient and intervention goals. Although 
+we hope our qualitative interviews will shed light on 
+whether any such misalignment is a threat to accept -
+ability, a future trial might consider assessing this more 
+systematically—not least because ambivalence about 
+support for treatment decision-making is reasonable to 
+expect in this group.
+DEC:IDES was initially funded for 19  months. Staff  
+were appointed in December 2019, and recruitment 
+commenced in late February 2020, before being paused 
+almost immediately due to the pandemic. A major 
+rebudgeting and reallocation of resources was agreed with the funder which, together with a small amount 
+of additional funding, enabled the overall duration to 
+increase to 34  months. Recruitment recommenced in 
+October 2020, but with reduced research staff and signif -
+icant pandemic-related constraints, including no access 
+to psychiatric inpatient wards and no face-to-face con -
+tact with community participants. Recruitment closed in 
+October 2022. The final post-treatment assessments will 
+be completed on 31 March 2023. Study results will be 
+published shortly after. If DEC:IDES achieve its feasibil -
+ity goals, we anticipate that the next step will be a defini -
+tive Umbrella trial, with a sample size sufficient to make 
+inferences about efficacy.
+Supplementary Information
+The online version contains supplementary material available at https:// doi. 
+org/ 10. 1186/ s40814- 023- 01323-0.
+Additional file 1: Statistical Analysis Plan (SAP).
+Additional file 2: Supplementary Appendix.
+Acknowledgements
+We express our gratitude to the members of our Trial Steering Committee; 
+Craig Whittington (Chair), Tom Todd, Filippo Varese, Daniel Freeman, Maggie 
+Whyte, Colin McKay, Frances Simpson and Jemma Hudson. We also thank Jas-
+mine Lauchlan, Connor Spratt, Ameera Iqbal and Kimberley Atkinson for help 
+with the recruitment and assessment of the participants, David Carmichael for 
+acting as an independent point of contact for the study and Glen Merritt for 
+invaluable help and assistance with planning and managing treatment costs.
+Authors’ contributions
+PH conceived the study and is the Chief Investigator. PH, RE, BW, JK, CDJT, 
+CHO, ND and AW designed the trial. PH, JK, CDJT, CHO, SO and AW designed 
+the treatment and control protocols. KP aided with the Lancashire site man-
+agement. PH, AW, CDJT, JK, SH, TK, ND, SO, RE, BW, CHO and AW contributed 
+to the development of the trial protocol. JB, JP , PH, AW and BW contributed to 
+the design, protocol and completion of the qualitative studies. AW, AV, JB, EE, 
+NZ, PB, JP and LC recruited and assessed all participants. AW and AV assessed 
+the majority of participants in Scotland and England, respectively. CHO, AM, 
+DS, AG and RM contributed to the development of the clinical protocols and 
+provided the interventions and control. JS provided consultation on develop -
+ments in capacity law and SO advised on neuropsychological assessment. RE 
+and ND are the trial statisticians. PJT constructed the randomisation sequence, 
+contributed to the trial management and carried out the analyses. The authors 
+read and approved the final manuscript.
+Funding
+The trial is funded by a grant from the Chief Scientist Office (CSO) Health 
+Improvement, Protection and Services Research Committee, awarded to PH 
+(Chief Investigator), JK (Principal Investigator, Lancashire site), CDJT (Principal 
+Investigator, Pennine site), SH (Principal Investigator, Lothian site), BW, RE, TK, 
+PJT, AW, ND, JS and SO. The funder and sponsor reviewed the design of the 
+trial but did not have any role in writing or submitting this paper for publica-
+tion. The views expressed are those of the authors and not necessarily those of 
+the NHS, the CSO or any partner organisations.
+Availability of data and materials
+Data collected in this study will be stored for 10 years and made available 
+for audit by ENU or NHS approved staff. We made an a priori decision that, 
+because the small sample size increases the risk of participant identification, it 
+would not be available to other researchers.
+Page 15 of 17
+ Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+ 
+Declarations
+Ethics approval and consent to participate
+The trial received a favourable ethical opinion from the NHS Scotland A 
+Research Ethics Committee (REC reference: 19/SS/0069) and Wales Research 
+Ethics Committee 5 (REC reference: 19/WA/0155). Informed written consent will 
+be obtained from all research participants with capacity to consent. For par -
+ticipants lacking capacity to consent, we followed Consulteee procedures as 
+laid out in the Mental Capacity (England & Wales) Act (2005) and proxy consent 
+procedures as laid out in the Adults with Incapacity (Scotland) Act (2001).
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1 School of Health & Social Care, Edinburgh Napier University, Edinburgh, UK. 
+2 Edinburgh Research & Innovation Centre for Complex and Acute Mental 
+Health Problems, Edinburgh, UK. 3 Faculty of Health & Medicine, Lancaster 
+University, Lancaster, UK. 4 Lancashire & South Cumbria NHS Foundation 
+Trust, Preston, UK. 5 Pennine Care NHS Foundation Trust, Ashton-Under -Lyne, 
+UK. 6 Division of Psychology & Mental Health, Manchester Academic Health 
+Sciences Centre, University of Manchester, Manchester, UK. 7 School of Health, 
+Social Care & Life Sciences, University of the Highlands and Islands, Inver -
+ness, UK. 8 Institute of Psychiatry, Psychology & Neuroscience, Kings College 
+London, London, UK. 9 NHS Lothian, Edinburgh, UK. 10 NHS Research Scotland 
+Mental Health Network, Edinburgh, UK. 11 National Centre for Suicide Research 
+and Prevention, Karolinska Institutet, Stockholm, Sweden. 12 School of Health 
+in Social Science, University of Edinburgh, Edinburgh, UK. 
+Received: 13 March 2023   Accepted: 26 May 2023
+References
+ 1. Moreno-Küstner B, Martin C, Pastor L. Prevalence of psychotic disorders 
+and its association with methodological issues. A systematic review and 
+meta-analyses. PloS One. 2018;13(4):e0195687.
+ 2. Palmer BA, Pankratz VS, Bostwick JM. The lifetime risk of suicide in schizo -
+phrenia: a reexamination. Arch Gen Psychiatry. 2005;62(3):247–53.
+ 3. Hjorthøj C, Stürup AE, McGrath JJ, Nordentoft M. Years of potential life 
+lost and life expectancy in schizophrenia: a systematic review and meta-
+analysis. Lancet Psychiatry. 2017;4(4):295–301.
+ 4. Stovell D, Wearden A, Morrison AP , Hutton P . Service users’ experiences of 
+the treatment decision-making process in psychosis: a phenomenologi-
+cal analysis. Psychosis. 2016;8(4):311–23.
+ 5. Larkin A, Hutton P . Systematic review and meta-analysis of factors that 
+help or hinder treatment decision-making capacity in psychosis. Br J 
+Psychiatry. 2017;211(4):205–15.
+ 6. Owen GS, David AS, Hayward P , Richardson G, Szmukler G, Hotopf M. 
+Retrospective views of psychiatric in-patients regaining mental capacity. 
+Br J Psychiatry. 2009;195(5):403–7.
+ 7. Black I. Refusing life-prolonging medical treatment and the ECHR. Oxf J 
+Leg Stud. 2018;38(2):299–327.
+ 8. Szawarski P . Classic cases revisited: allowing to die and the case of Ms B. J 
+Intensive Care Soc. 2013;14(1):20–3.
+ 9. Great Britain. England. High Court of Justice, Family Division. Re C (Adult: 
+Refusal of Treatment). Wkly Law Rep. 1993;1994:290–6.
+ 10. Owen GS, Freyenhagen F, Richardson G, Hotopf M. Mental capacity and deci-
+sional autonomy: an interdisciplinary challenge. Inquiry. 2009;52(1):79–107.
+ 11. Berg JW, Appelbaum PS, Grisso T. Constructing competence: formulating 
+standards of legal competence to make medical decisions. Rutgers L Rev. 
+1995;48:345.
+ 12. Beauchamp TL, Childress JF. Principles of biomedical ethics. Oxford: 
+Oxford University Press; 2001. p. 470. 13. Cronin T, Gouda P , McDonald C, Hallahan B. A comparison of mental 
+health legislation in five developed countries: a narrative review. Ir J 
+Psychol Med. 2017;34(4):261–9.
+ 14. Department of Constitutional Affairs. Mental capacity act code of 
+practice: code of practice giving guidance for decisions made under the 
+Mental Capacity Act 2005. London: Stationery Office; 2007.
+ 15. Scottish Executive. Adults with incapacity (Scotland) Act 2000. Code of 
+practice (3rd edition). For practitioners authorised to carry out medical 
+treatment or research under part 5 of the act. Edinburgh: The Stationery 
+Office; 2010.
+ 16. Martin W, Brown M, Hartvigsson T, Lyons D, MacLeod C, Morgan G, et al. 
+SIDMA as a criterion for psychiatric compulsion: an analysis of compulsory 
+treatment orders in Scotland. Int J Law Psychiatry. 2021;78: 101736.
+ 17. House of Lords Select Committee on the Mental Capacity Act,. Report 
+of Session 2013–14 Mental Capacity Act 2005: post-legislative scrutiny. 
+London: The Stationery Office; 2005. p. 2014.
+ 18. United Nations Committee on the Rights of Persons with Disabilities. Gen-
+eral comment No. 1; Article 12: equal recognition before the law. 2014.
+ 19. NICE. Decision making and mental capacity. NICE guideline [NG108]. 
+London: National Institute for Health and Care Excellence; 2018.
+ 20. Department of Health and Social Care. Modernising the Mental Health 
+Act: increasing choice, reducing compulsion. Final report of the Inde -
+pendent Review of the Mental Health Act 1983. London: Department of 
+Health and Social Care; 2018.
+ 21. Scottish Mental Health Law Review. Scottish mental health law review: 
+final report. Edinburgh: Scottish Government; 2022.
+ 22. Turner D, MacBeth A, Larkin A, Moritz S, Livingstone K, Campbell A, et al. 
+The effect of reducing the ‘jumping to conclusions’ data-gathering bias 
+on treatment decision-making capacity in psychosis: a randomised con-
+trolled trial with mediation analysis. Schizophr Bull. 2019;45(4):784–93.
+ 23. Lynch H. Self-stigma, decisional capacity and personal recovery in psy-
+chosis [DClinPsy Thesis]. Edinburgh: University of Edinburgh; 2017.
+ 24. Murphy P , Bentall RP , Freeman D, O’Rourke S, Hutton P . The ‘paranoia-as-
+defence’ model of persecutory delusions: a systematic review and meta-
+analysis. Lancet Psychiatry. 2018;5(11):913–29.
+ 25. Murphy P . Understanding decision-making in psychosis: a case series 
+of psychological assessment and formulation of impaired treatment 
+decision-making, and a systematic review and meta-analysis of the Attri-
+bution–Self-Representation model of persecutory delusions [DClinPsy 
+Thesis]. Edinburgh: University of Edinburgh; 2017.
+ 26. Larkin A. An examination of the contribution of clinical and psychologi-
+cal factors to treatment decision-making capacity in psychosis. [DClinPsy 
+Thesis]. Edinburgh: University of Edinburgh; 2016.
+ 27. Woodrow A, Sparks S, Bobrovskaia V, Paterson C, Murphy P , Hut -
+ton P . Decision-making ability in psychosis: a systematic review and 
+meta-analysis of the magnitude, specificity and correlates of impaired 
+performance on the Iowa and Cambridge Gambling Tasks. Psychol Med. 
+2019;49(1):32–48.
+ 28. Stovell D, Morrison AP , Panayiotou M, Hutton P . Shared treatment 
+decision-making and empowerment-related outcomes in psychosis: 
+systematic review and meta-analysis. Br J Psychiatry. 2016;209(1):23–8.
+ 29. Dudley R, Taylor P , Wickham S, Hutton P . Psychosis, delusions and the 
+“jumping to conclusions” reasoning bias: a systematic review and meta-
+analysis. Schizophr Bull. 2016;42(3):652–65.
+ 30. Vass V, Sitko K, West S, Bentall RP . How stigma gets under the skin: the 
+role of stigma, self-stigma and self-esteem in subjective recovery from 
+psychosis. Psychosis. 2017;9(3):235–44.
+ 31. Corrigan PW, Watson AC, Barr L. The self–stigma of mental illness: 
+implications for self–esteem and self–efficacy. J Soc Clin Psychol. 
+2006;25(8):875–84.
+ 32. Gerlinger G, Hauser M, De Hert M, Lacluyse K, Wampers M, Correll CU. Per -
+sonal stigma in schizophrenia spectrum disorders: a systematic review of 
+prevalence rates, correlates, impact and interventions. World Psychiatry. 
+2013;12(2):155–64.
+ 33. Morrison AP , Burke E, Murphy E, Pyle M, Bowe S, Varese F, et al. Cognitive 
+therapy for internalised stigma in people experiencing psychosis: a pilot 
+randomised controlled trial. Psychiatry Res. 2016;240:96–102.
+ 34. Yanos PT, Lysaker PH, Silverstein SM, Vayshenker B, Gonzales L, West ML, 
+et al. A randomized-controlled trial of treatment for self-stigma among 
+persons diagnosed with schizophrenia-spectrum disorders. Soc Psychia-
+try Psychiatr Epidemiol. 2019;54:1363–78.
+Page 16 of 17 Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+ 35. Wood L, Byrne R, Enache G, Morrison AP . A brief cognitive therapy 
+intervention for internalised stigma in acute inpatients who experi-
+ence psychosis: a feasibility randomised controlled trial. Psychiatry Res. 
+2018;262:303–10.
+ 36. Freeman D, Pugh K, Dunn G, Evans N, Sheaves B, Waite F, et al. An early 
+Phase II randomised controlled trial testing the effect on persecutory 
+delusions of using CBT to reduce negative cognitions about the self: 
+the potential benefits of enhancing self confidence. Schizophr Res. 
+2014;160(1–3):186–92.
+ 37. Hall PL, Tarrier N. The cognitive-behavioural treatment of low self-esteem 
+in psychotic patients: a pilot study. Behav Res Ther. 2003;41(3):317–32.
+ 38. Moritz S, Veckenstedt R, Randjbar S, Vitzthum F, Woodward TS. Antipsy-
+chotic treatment beyond antipsychotics: metacognitive intervention for 
+schizophrenia patients improves delusional symptoms. Psychol Med. 
+2011;41(9):1823–32.
+ 39. Kendler KS, Campbell J. Interventionist causal models in psy-
+chiatry: repositioning the mind–body problem. Psychol Med. 
+2009;39(6):881–7.
+ 40. Freeman D. Improving cognitive treatments for delusions. Schizophr Res. 
+2011;132(2–3):135–9.
+ 41. Park JJ, Hsu G, Siden EG, Thorlund K, Mills EJ. An overview of precision 
+oncology basket and umbrella trials for clinicians. CA Cancer J Clin. 
+2020;70(2):125–37.
+ 42. Meyer EL, Mesenbrink P , Dunger-Baldauf C, Fülle HJ, Glimm E, Li Y, et al. 
+The evolution of master protocol clinical trial designs: a systematic litera-
+ture review. Clin Ther. 2020;42(7):1330–60.
+ 43. Joshi YB, Light GA. Using EEG-guided basket and umbrella trials in 
+psychiatry: a precision medicine approach for cognitive impairment in 
+schizophrenia. Front Psych. 2018;9:554.
+ 44. Grisso T, Appelbaum PS, Hill-Fotouhi C. The MacCAT-T: a clinical tool to 
+assess patients’ capacities to make treatment decisions. Psychiatr Serv. 
+1997;48(11):1415–9.
+ 45. Gale NK, Heath G, Cameron E, Rashid S, Redwood S. Using the framework 
+method for the analysis of qualitative data in multi-disciplinary health 
+research. BMC Med Res Methodol. 2013;13(1):1–8.
+ 46. Baxter P , Jack S. Qualitative case study methodology: study design and 
+implementation for novice researchers. Qual Rep. 2008;13(4):544–59.
+ 47. Yin RK. Case study research and applications: design and methods. 5th 
+ed. Thousand Oaks, California: SAGE Publications Inc.; 2014.
+ 48. Scottish Parliament. Adults with incapacity (Scotland) Act 2000. Queen’s 
+Printer for Scotland; 2000.
+ 49. Department of Health. Mental capacity (England & Wales) Act 2005. 
+London: Stationary Office; 2005.
+ 50. Eldridge SM, Chan CL, Campbell MJ, Bond CM, Hopewell S, Thabane L, 
+CONSORT, et al. statement: extension to randomised pilot and feasibility 
+trials. BMJ. 2010;2016:355.
+ 51. Ioannidis JP , Evans SJ, GøtzschePC,O’neill RT, Altman DG, Schulz K, et al. 
+Better reporting of harms in randomized trials: an extension of the CON-
+SORT statement. Ann Intern Med. 2004;141(10):781–8.
+ 52. Montgomery P , Grant S, Mayo-Wilson E, Macdonald G, Michie S, 
+Hopewell S, et al. Reporting randomised trials of social and psy-
+chological interventions: the CONSORT-SPI 2018 Extension. Trials. 
+2018;19(1):1–14.
+ 53. Rosenberg M. Conceiving the self. New York: Basic Books; 1979. p. 291.
+ 54. Ritsher JB, Otilingam PG, Grajales M. Internalized stigma of mental 
+illness: psychometric properties of a new measure. Psychiatry Res. 
+2003;121(1):31–49.
+ 55. Huq SF, Garety PA, Hemsley DR. Probabilistic judgements in deluded and 
+non-deluded subjects. Q J Exp Psychol A. 1988;40(4):801–12.
+ 56. Schulz KF, Altman DG, Moher D. CONSORT 2010 statement: updated 
+guidelines for reporting parallel group randomised trials. J Pharmacol 
+Pharmacother. 2010;1(2):100–7.
+ 57. Babor TF, Higgins-Biddle JC, Saunders JB, Monteiro MG. The alcohol use 
+disorders identification test. Geneva: World Health Organization; 2001.
+ 58. Skinner HA. The drug abuse screening test. Addict Behav. 
+1982;7(4):363–71.
+ 59. Martins MJ, Carvalho C, Castilho P , Pereira AT, Macedo A. The Clinical Inter -
+view for Psychotic Disorders (CIPD): development and expert evaluation. 
+Int J Clin Neurosci Mental Health. 2015;2(7):1–10. 60. Fervaha G, Hill C, Agid O, Takeuchi H, Foussias G, Siddiqui I, et al. Examina-
+tion of the validity of the Brief Neurocognitive Assessment (BNA) for 
+schizophrenia. Schizophr Res. 2015;166(1–3):304–9.
+ 61. Grisso T, Appelbaum PS. MacArthur Competence Assessment Tool for 
+Treatment (MacCAT-T). Professional Resource Press/Professional Resource 
+Exchange; 1998.
+ 62. Kay SR, Fiszbein A, Opler LA. The positive and negative syndrome scale 
+(PANSS) for schizophrenia. Schizophr Bull. 1987;13(2):261–76.
+ 63. Neil ST, Kilbride M, Pitt L, Nothard S, Welford M, Sellwood W, et al. 
+The questionnaire about the process of recovery (QPR): a measure -
+ment tool developed in collaboration with service users. Psychosis. 
+2009;1(2):145–55.
+ 64. Wilkinson G, Hesdon B, Wild D, Cookson RON, Farina C, Sharma V, et al. 
+Self-report quality of life measure for people with schizophrenia: the 
+SQLS. Br J Psychiatry. 2000;177(1):42–6.
+ 65. Beecham J, Knapp M. Costing psychiatric interventions. In measuring 
+mental health needs. Edited by Thornicroft G. London: Gaskell; 2001.
+ 66. Beck AT, Epstein N, Brown G, Steer RA. An inventory for measur -
+ing clinical anxiety: Psychometric properties. J Consult Clin Psychol. 
+1988;56(6):893–97.
+ 67. Fowler D, Freeman D, Smith BEN, Kuipers E, Bebbington P , Bashforth H, 
+et al. The Brief Core Schema Scales (BCSS): psychometric properties and 
+associations with paranoia and grandiosity in non-clinical and psychosis 
+samples. Psychol Med. 2006;36(6):749–59.
+ 68. Addington D, Addington J, Maticka-Tyndale E. Assessing depres-
+sion in schizophrenia: the Calgary Depression Scale. Br J Psychiatry. 
+1993;163(S22):39–44.
+ 69. Wood L, Burke E, Byrne R, Enache G, Morrison AP . Semi-structured Inter -
+view Measure of Stigma (SIMS) in psychosis: assessment of psychometric 
+properties. Schizophr Res. 2016;176(2–3):398–403.
+ 70. Morrison AP , Pyle M, Gumley A, Schwannauer M, Turkington D, MacLen-
+nan G, et al. Cognitive behavioural therapy in clozapine-resistant schizo -
+phrenia (FOCUS): an assessor-blinded, randomised controlled trial. Lancet 
+Psychiatry. 2018;5(8):633–43.
+ 71. Klingberg S, Herrlich J, Wiedemann G, Wölwer W, Meisner C, Engel C, et al. 
+Adverse effects of cognitive behavioral therapy and cognitive remedia-
+tion in schizophrenia: results of the treatment of negative symptoms 
+study. J Nerv Ment Dis. 2012;200(7):569–76.
+ 72. Guy W. ECDEU assessment manual for psychopharmacology. US 
+Department of Health, Education, and Welfare, Public Health Ser -
+vice; 1976.
+ 73. Hermes ED, Sokoloff DM, Stroup TS, Rosenheck RA. Minimum clini-
+cally important difference in the positive and negative syndrome 
+scale using data from the CATIE schizophrenia trial. J Clin Psychiatry. 
+2012;73(4):526.
+ 74. Anthony SD. Insight and psychosis. Br J Psychiatry. 1990;156(6):798–808.
+ 75. Morrison AP , Barratt S. What are the components of CBT for psychosis? A 
+Delphi study. Schizophr Bull. 2010;36(1):136–42.
+ 76. Moritz S, Woodward TS. Metacognitive training in schizophrenia: from 
+basic research to knowledge translation and intervention. Curr Opin 
+Psychiatry. 2007;20(6):619–25.
+ 77. Royal College of Psychiatrists. National Clinical Audit of Psychosis—
+National Report for the Core Audit 2018. London: Healthcare Quality 
+Improvement Partnership; 2018.
+ 78. Pons EV, Salvador-Carulla L, Calcedo-Barba A, Paz S, Messer T, Pacciardi 
+B, et al. The capacity of schizophrenia and bipolar disorder individuals to 
+make autonomous decisions about pharmacological treatments for their 
+illness in real life: a scoping review. Health Sci Rep. 2020;3(3):e179.
+ 79. Spencer BWJ, Shields G, Gergel T, Hotopf M, Owen GS. Diversity or disar -
+ray? A systematic review of decision-making capacity for treatment and 
+research in schizophrenia and other non-affective psychoses. Psychol 
+Med. 2017;47(11):1906–22.
+ 80. Cairns R, Maddock C, Buchanan A, David AS, Hayward P , Richardson G, 
+et al. Prevalence and predictors of mental incapacity in psychiatric in-
+patients. Br J Psychiatry. 2005;187(4):379–85.
+ 81. Lequin P , Ferrari P , Suter C, Milovan M, Besse C, Silva B, et al. The joint 
+crisis plan: a powerful tool to promote mental health. Front Psych. 
+2021;12:621436.
+Page 17 of 17
+ Hutton et al. Pilot and Feasibility Studies           (2023) 9:117 
+ 
+•
+ fast, convenient online submission
+ •
+  thorough peer review by experienced researchers in your ﬁeld
+• 
+ rapid publication on acceptance
+• 
+ support for research data, including large and complex data types
+•
+  gold Open Access which fosters wider collaboration and increased citations 
+ maximum visibility for your research: over 100M website views per year •
+  At BMC, research is always in progress.
+Learn more biomedcentral.com/submissionsReady to submit y our researc h Ready to submit y our researc h  ?  Choose BMC and benefit fr om: ?  Choose BMC and benefit fr om: 
+ 82. Weller P . Psychiatric advance directives and human rights. Psychiatr 
+Psychol Law. 2010;17(2):218–29.
+ 83. Ridley J, Newbigging K, Street C. Mental health advocacy outcomes from 
+service user perspectives. Ment Health Rev J. 2018;23(4):280–92.
+ 84. Maylea C, Alvarez-Vasquez S, Dale M, Grey F, Krishnan V, Martin J, et al. 
+Midterm Review of the Independent Mental Health AdvocacyService 
+(IMHA). Social and Global Studies Centre, RMIT University; 2018.
+ 85. Newbigging K, Ridley J, McKeown M, Machin K, Poursanidou K. ‘When 
+you haven’t got much of a voice’: an evaluation of the quality of Inde -
+pendent Mental Health Advocate (IMHA) services in England. Health Soc 
+Care Community. 2015;23(3):313–24.
+ 86. Nicaise P , Lorant V, Dubois V. Psychiatric advance directives as a complex 
+and multistage intervention: a realist systematic review. Health Soc Care 
+Community. 2013;21(1):1–14.
+ 87. Varese F, Sellwood W, Aseem S, Awenat Y, Bird L, Bhutani G, et al. Eye 
+movement desensitization and reprocessing therapy for psychosis 
+(EMDRp): protocol of a feasibility randomized controlled trial with early 
+intervention service users. Early Interv Psychiatry. 2021;15(5):1224–33.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub -
+lished maps and institutional affiliations.

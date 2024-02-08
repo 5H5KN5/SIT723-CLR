@@ -1,0 +1,1335 @@
+Bouwman  et al. Pilot and Feasibility Studies           (2022) 8:260  
+https://doi.org/10.1186/s40814-022-01221-x
+STUDY PROTOCOL
+© The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/. The Creative Commons Public Domain Dedication waiver (http:// creat iveco  
+mmons. org/ publi cdoma in/ zero/1. 0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.Open Access
+Person- centred online lifestyle coaching 
+in childhood, adolescent, and young adult 
+cancer survivors: protocol of the multicentre 
+PanCareFollowUp lifestyle intervention 
+feasibility study
+Eline Bouwman1*  , Rosella P . M. G. Hermens2, Morven C. Brown3,4, Vera Araújo‑Soares5, 
+Nicole M. A. Blijlevens13, Tomas Kepak6, Katerina Kepakova6, Leontien C. M. Kremer7,8,9, 
+Selina R. van den Oever7, Helena J. H. van der Pal7,10, Roderick Skinner3,11,12, Saskia M. F. Pluijm7†, 
+Jacqueline J. Loonen1† and on behalf of the PanCareFollowUp Consortium 
+Abstract 
+Background: Physical inactivity and unhealthy dietary habits are known to be disadvantageous for the development 
+of late adverse effects in survivors of childhood, adolescent, and young adult cancer. To make interventions, aimed 
+at improving lifestyle, fit into the daily life of survivors, interventions should be designed and delivered in a person‑
+centred way with a limited time burden. As part of the European PanCareFollowUp project, an eHealth intervention 
+was developed to support sustainable changes to physical activity levels and/or diet of childhood, adolescent, and 
+young adult cancer survivors. This feasibility study aims to gain insight into the feasibility and potential effect sizes of 
+the PanCareFollowUp lifestyle intervention.
+Methods: The PanCareFollowUp lifestyle intervention consists of person‑ centred 3–6 screen‑to ‑screen sessions with 
+a certified lifestyle coach. The intervention will be evaluated with a single ‑arm pre ‑post feasibility study conducted at 
+two survivorship care clinics in the Netherlands. A total of 60 participants who are (i) diagnosed with cancer <25 years, 
+(ii) ≥ 5 years post ‑treatment, (iii) aged 16–55 years, and (iv) have a low physical activity level and/or unhealthy dietary 
+intake manifested by overweight will be recruited. Using reports, hospital records, and questionnaires for survivors, 
+coaches, and late effect doctors, feasibility will be based on (i) adherence to intervention, (ii) acceptability, (iii) practi‑
+cality, (iv) integration/implementation, (v) demand, and (vi) attrition. The potential effect sizes of the intervention will 
+be explored by determining the percentage of survivors that reach the personalized lifestyle goals that were set with 
+†Saskia M.F. Pluijm and Jacqueline J. Loonen contributed equally to this work.
+*Correspondence:  eline.bouwman@radboudumc.nl
+1 Centre of Expertise for Cancer Survivorship, Radboud Institute for Health 
+Sciences, Radboud University Medical Centre, Reinier Postlaan 4, 6500 
+HB Nijmegen, the Netherlands
+Full list of author information is available at the end of the article
+Page 2 of 15 Bouwman et al. Pilot and Feasibility Studies           (2022) 8:260 
+the coach. Physical activity level, dietary intake, BMI, general self‑ efficacy, self‑management, and motivation level will 
+be assessed at three time points with questionnaires, reports, and/or an accelerometer.
+Discussion: Data of this study will be gathered to assess the feasibility and potential effect sizes. This will allow for 
+further intervention refinement as needed as well as to inform a future large ‑scale intervention study and a manual 
+for implementation at other centres.
+Trial registration: International Clinical Trial Registry Platform (ICTRP) number: NL8932 (ICTRP Search Portal (who.
+int)). Registered on September 29, 2020.
+Keywords: Childhood, adolescent, and young adult cancer survivors, eHealth, Screen‑to ‑screen, Lifestyle, Physical 
+activity, Diet, Person‑ centred care, Motivational interviewing, Coaching, Feasibility
+Introduction
+Children diagnosed with cancer now have a far better 
+prognosis with a 5-year survival rate of over 80% com -
+pared to 30% in the 1970s [1–3]. A similar, though slightly 
+less dramatic, improvement in successful cancer cures 
+can be observed in survivors of adolescent and young 
+adult cancer [4, 5]. Therefore, the childhood, adolescent, 
+and young adult (CAYA) cancer survivor population 
+is rapidly increasing. Currently, there are over 500,000 
+CAYA cancer survivors living in Europe and this number 
+grows by approximately 12,000 CAYA cancer survivors 
+each year [6]. However, due to their cancer treatment, 
+CAYA cancer survivors are at high risk for developing 
+chronic health and psychosocial problems, also known 
+as late effects. These late effects can be severe and often 
+result in excess morbidity and mortality compared to 
+peers of the same age in the general population [7–10].
+An unhealthy lifestyle, for instance characterized by a 
+low physical activity level and unhealthy dietary habits, 
+increases the already heightened risk of developing late 
+effects in CAYA cancer survivors [11–13]. The beneficial 
+effects of complying with healthy behaviours are illus -
+trated in a study by Jones et  al. in which it was shown 
+that adherence to national vigorous exercise guidelines 
+(i.e. ≥9 MET hours/week) in Hodgkin lymphoma sur -
+vivors was associated with a 51% lower risk of any car -
+diovascular event compared with Hodgkin lymphoma 
+survivors not meeting the guidelines [11]. Likewise, in a 
+study by Schindera et al., higher aerobic fitness has been 
+associated with a lower chance of having cardiovascular 
+risk factors, such as having a high waist circumference, 
+low HDL cholesterol levels, high triglyceride levels, a 
+high composite cardiovascular risk score, and metabolic 
+syndrome in childhood cancer survivors (CCSs) [14]. 
+Previous research also showed that among survivors 
+of childhood leukaemia, a Mediterranean diet, includ -
+ing a high intake of fruit and vegetable and a low intake 
+of meat, has been negatively associated with having the 
+metabolic syndrome, meaning that for each point higher 
+on the Mediterranean Diet Score (range 0–8 with 8 rep -
+resenting full adherence to the Mediterranean diet), the odds of having the metabolic syndrome declined by 31% 
+[15]. For this reason, cancer organizations and cancer 
+survivorship guidelines recommend cancer survivors 
+to participate in regular physical activity and maintain a 
+healthy diet [16].
+However, despite these evidence-based recommenda -
+tions, CAYA cancer survivors often fail to meet them. 
+Several studies have reported that intakes of fibre, fruit, 
+and vegetables are often inadequate in survivors [17–19], 
+whereas other studies report a high proportion of survi -
+vors not meeting the physical activity recommendations 
+[19, 20]. Low compliance of CAYA cancer survivors to 
+the recommendations may be explained by potential 
+physical (e.g. limb amputation, heart failure) and psycho -
+logical (e.g. fatigue, depression) late effects due to their 
+cancer history and/or treatment regimes. Therefore, 
+being physically active and/or complying with a healthy 
+diet can be challenging for CAYA survivors [21]. Proper 
+guidance in the form of interventions given by healthcare 
+professionals with knowledge of late effects and related 
+limitations can be helpful for CAYA cancer survivors to 
+achieve healthy behaviours.
+Delivering interventions according to the concept of 
+person-centred care seems a promising approach for the 
+heterogeneous population of CAYA cancer survivors [22, 
+23]. Person-centred care enables a partnership between 
+the patient and their healthcare professional and is 
+thought to be an important contributing factor in stimu -
+lating self-efficacy and self-management [24]. In addition, 
+it ensures that care meets the physical, mental, and social 
+health needs of each individual survivor.
+Moreover, in order to make the interventions fit into 
+the daily lives of CAYA cancer survivors, lifestyle inter -
+ventions should be delivered in a way that limits time and 
+travel burden as much as possible. For this reason, elec -
+tronic health (eHealth) may be an attractive mode of life -
+style intervention delivery in this population as it avoids 
+unnecessary clinic visits and limits impact on working 
+life and care duties for CAYA cancer survivors. Though 
+these interventions have not been extensively tested in 
+CAYA cancer survivors, Beleigoli et  al. report in their 
+Page 3 of 15
+ Bouwman et al. Pilot and Feasibility Studies           (2022) 8:260 
+ 
+systematic review that web-based digital interventions 
+led to greater short-term weight loss than offline inter -
+ventions in overweight and obese adults [25]. In addition, 
+in a study by Costello et al. on the delivery of survivor -
+ship care via telemedicine, all participating childhood 
+cancer survivors would recommend telemedicine to fam -
+ily and friends and 94.1% would choose to have another 
+telemedicine visit in the future [26].
+As part of the European Union Horizon 2020-funded 
+PanCareFollowUp (PCFU) project, the PCFU lifestyle 
+intervention was developed to support the adoption 
+of positive and sustainable changes in lifestyle behav -
+iours (i.e. diet and/or physical activity) in CAYA cancer 
+survivors [27]. The primary aim of the PCFU lifestyle 
+intervention feasibility study is to gain insight into the 
+intervention’s feasibility in terms of adherence to the 
+intervention, acceptability, practicality, integration, 
+implementation, demand, and attrition. The second aim 
+is to assess potential effect sizes regarding CAYA cancer 
+survivors reaching their personalized goal(s). These goals 
+are set together with a lifestyle coach to adapt and sustain 
+their desired lifestyle change behaviour. Lastly, short- and 
+long-term changes in terms of physical activity level, die -
+tary intake, body mass index (BMI), general self-efficacy, 
+self-management, and motivation level will be assessed at 
+three time points.
+Methods
+Design and setting
+The PCFU lifestyle intervention study—a prospective 
+single-arm pre-post feasibility study with three measure -
+ment moments (T0 at baseline, T1 after the last session, 
+and T2 at 4 months follow-up)—will be conducted at two 
+survivorship clinics in the Netherlands: one situated at a university medical centre and one situated at a special -
+ized clinic for childhood cancer. After recruitment of sur -
+vivors at the clinic, the PCFU lifestyle intervention will 
+be delivered remotely through screen-to-screen video 
+calling with a lifestyle coach. The coach will provide the 
+intervention from a computer at his/her workplace at one 
+of the participating clinics or own practice. This study 
+protocol will be reported in accordance with the SPIRIT 
+guidelines (see Additional file  1) [28] and TIDieR check -
+list (see Additional file 2) [29].
+Study participants
+In total, 60 participants (30 per centre) will be recruited 
+for participation in this feasibility study (see the “Sample 
+size” section). Eligible participants must meet all of the 
+following inclusion criteria at study time: (1) is a survivor 
+of childhood, adolescent, or young adult (CAYA) cancer 
+(diagnosed with any type of cancer under the age of 25 
+years to include most survivors attending the survivor -
+ship care clinics); (2) is at least 5 years from the end of 
+cancer treatment given that after this period survivors 
+make the transition from the oncologists to a long-term 
+follow-up at survivorship care clinics; (3) cancer free at 
+time of the study; (4) is aged 16–55 years at time of inclu -
+sion given that this age group is most likely to be inde -
+pendent regarding dietary patterns as well as acquainted 
+with video calling software; (5) not meeting the World 
+Health Organization (WHO) norm for physical activ -
+ity (exercising ≥150 min of moderate-intensity aerobic 
+physical activity per week or ≥75 min of vigorous-inten -
+sity aerobic physical activity per week or an equivalent 
+combination of moderate- and vigorous-intensity activ -
+ity, and should also do muscle-strengthening activities 
+at moderate or greater intensity that involve all major 
+Table 1 Questionnaire to assess physical activity levels according to the WHO norms for adults aged 18–64
+    1. During the past month, did you participate in any physical activities or exercises such as walking for exercise, running, tennis, soccer, volleyball, 
+golf, gardening, bicycling, swimming, wheelchair basketball, weight training, yoga, resistance exercises, or jumping rope?
+    1.1 In case yes, now thinking about the vigorous physical activities you do in a usual week, do you do vigorous activities for at least 10 min at a time, 
+such as running, aerobics, tennis, soccer, volleyball, wheelchair basketball, heavy yard work, or anything else that causes large increases in breathing 
+or heart rate?
+            1.1.1. In case yes, how many days per week do you do these vigorous activities for at least 10 min at a time? 
+…………………………………….. days per week
+            1.1.2. In case yes, on days when you do vigorous activities for at least 10 min at a time, how much total time per day do you spend doing these 
+activities on average? ……………… minutes per day on average
+        1.2. Now thinking about the moderate physical activities you do in a usual week, do you do moderate activities for at least 10 min at a time, such 
+as brisk walking, bicycling, vacuuming, gardening, manual operation of a wheelchair, or anything else that causes small increases in breathing or heart 
+rate?
+            1.2.1. How many days per week do you do these moderate activities for at least 10 min at a time? …………………………………….. days per 
+week
+            1.2.2. On days when you do moderate activities for at least 10 min at a time, how much total time per day do you spend doing these activities 
+on average? ……………… minutes per day on average
+        1.3. Now thinking about the muscle ‑strengthening activities such as weight training, push‑ups, sit ‑ups, yoga, resistance exercises, or jumping 
+rope, do you do these kinds of muscle ‑strengthening activities in a usual week?
+            1.3.1. How much total time per week do you spend doing these activities on average? …………… minutes per week on average
+Page 4 of 15 Bouwman et al. Pilot and Feasibility Studies           (2022) 8:260 
+muscle groups on 2 or more days a week) and/or has an 
+unhealthy dietary intake manifested by overweight (BMI 
+≥ 25 kg/m2) (see Table  1); and (6) is motivated to change 
+unhealthy lifestyle behaviour(s) according to the crite -
+ria of the RICk (readiness, importance, confidence, and 
+knowledge) criteria [30] as assessed by the late effect doc -
+tor. Excluded are survivors who meet at least one of the 
+following criteria: (1) diagnosed with Down syndrome, 
+(2) diagnosed with cognitive disorders, (3) has depressive 
+symptoms as assessed with anamnesis by the late effect 
+doctors and/or by the Hospital Anxiety and Depres -
+sion Scale (anxiety and/or depression score ≥8), (4) is 
+diagnosed with complex endocrine disorders that might 
+influence weight or other conditions that limit the sur -
+vivor’s ability to engage in health promotion discussions 
+and activities, (5) is already participating in an interven -
+tion study or other interventions aiming to improve life -
+style behaviours, (6) is underweight (BMI ≤ 20 kg/m2), 
+or (7) has severe physical limitations which will hinder 
+proper participation in the intervention as assessed by 
+the late effect doctor. Lastly, to assess the feasibility of the 
+PCFU lifestyle intervention, the lifestyle coaches and late 
+effect doctors will be asked to complete several question -
+naires as well.
+Participant recruitment will take place at two survi -
+vorship care clinics. On arrival at the survivorship care 
+clinic for a routine follow-up visit, a healthcare profes -
+sional (e.g. a nurse or physician assistant) will perform a 
+weight and height measurement of the survivor to deter -
+mine the survivor’s BMI as part of routine clinical care. 
+The late effect doctor and/or nurse practitioner will be 
+provided with this information prior to the start of the 
+consultation which will serve as a conversational opener 
+to discuss the survivor’s lifestyle behaviours, includ -
+ing dietary intake and physical activity level. As part of 
+screening procedures of the study, the late effect doc -
+tor/nurse practitioner will assess the survivor’s compli -
+ance with the WHO norm for physical activity using a 
+short questionnaire based on the Global Physical Activ -
+ity Questionnaire (see Table  1) [31–33]. Depending on 
+the survivorship care clinic, the questionnaire will either 
+be completed together, or the survivor will complete the 
+questionnaire by himself before the consultation. All sur -
+vivors will be verbally informed by the late effect doctor 
+about the importance of a healthy lifestyle to prevent late 
+health effects or improve their health outcomes. Subse -
+quently, the doctor will check if the survivor meets the 
+eligibility criteria of the PCFU lifestyle intervention. If 
+applicable, the doctor will assess, based on the narrative 
+of the survivor, the motivation and willingness of the sur -
+vivor to change his/her health behaviour(s). Therefore, 
+to assess qualification for the intervention, the late effect 
+doctor/nurse practitioner uses the following checkpoints according to the RICk criteria: survivor’s readiness to 
+change his/her lifestyle, the survivor knows the impor -
+tance of changing his/her lifestyle, and the survivor has 
+confidence that he/she will be able to succeed in chang -
+ing his/her lifestyle and has the knowledge he/she needs 
+before participating in a lifestyle intervention [30]. As 
+the intervention aims to establish sustainable lifestyle 
+changes in survivors, it is important that survivors are 
+ready to commit to lifestyle changes.
+The late effect doctor will register whether the survivor 
+is motivated according to the RICk criteria on the regis -
+tration form. In case of a survivor fulfilling the inclusion 
+and exclusion criteria, he/she will be introduced to the 
+intervention and study and given brief information ver -
+bally. If the survivor shows interest in participation, he/
+she is provided with an information package contain -
+ing an information letter and an informed consent form. 
+Within 2 weeks after the clinic visit, the survivor will be 
+contacted by phone by the local investigator/research 
+nurse. During this phone call, the survivor has the oppor -
+tunity to ask questions. If the survivor decides to par -
+ticipate in the PCFU lifestyle intervention study, he/she 
+will be instructed to sign the informed consent form and 
+return it to their treating survivorship care clinic using 
+a postage paid envelope. When informed consent is 
+received by the study team, the survivor will be registered 
+for the intervention. Subsequently, to ensure participant 
+confidentiality, the survivor will be assigned an identifica -
+tion code for all data collected in the study as well as for 
+data on sociodemographic characteristics, cancer history, 
+and treatment.
+PanCareFollowUp lifestyle intervention
+Development
+To develop the PCFU lifestyle intervention, an approach 
+guided by the 2008 Medical Research Council Frame -
+work for the development and evaluation of complex 
+interventions was used [34]. Furthermore, a systematic 
+review, including two research aims, and two qualitative 
+studies were performed to create an adequate evidence 
+base. The first aim of the systematic review focused on 
+facilitators and barriers of adopting a healthy lifestyle in 
+CAYA cancer survivors (i.e. regular physical activity, a 
+healthy diet, a healthy body weight, no smoking, limited 
+alcohol consumption, no drug use, good sleep habits, and 
+limited and protected sun exposure), whereas the sec -
+ond review focused on the effectiveness and the effective 
+components of eHealth lifestyle interventions developed 
+for CAYA cancer survivors. To gain further insight into 
+the barriers and facilitators of providing health behaviour 
+support to CAYA cancer survivors, we conducted focus 
+groups with healthcare professionals from survivorship 
+Page 5 of 15
+ Bouwman et al. Pilot and Feasibility Studies           (2022) 8:260 
+ 
+care clinics across Europe. Lastly, the other qualita -
+tive study aimed to assess the facilitators and barriers of 
+adopting a healthy lifestyle as perceived childhood cancer 
+survivors with a Dutch or another European nationality.
+In addition, the protocol of nurse-led video-coaching 
+(REVIVER) care interventions, as developed by late effect 
+doctors and nurses at the Radboud University Medical 
+Centre (Nijmegen, the Netherlands), served as a starting 
+point for the development of the PCFU lifestyle interven -
+tion [35]. The REVIVER interventions involve coaching 
+sessions with CAYA cancer survivors delivered by trained 
+nurses via screen-to-screen video calling. The interven -
+tions aim to either reduce symptoms of cancer-related 
+fatigue, stimulate self-efficacy, or change lifestyle behav -
+iours in CAYA cancer survivors.
+In order to develop the new PCFU lifestyle interven -
+tion, the REVIVER lifestyle intervention has been refined 
+using input from experiences of the REVIVER interven -
+tions as well as the results of the systematic review and 
+qualitative studies. Adaptations have been made on the 
+structure of the intake session, coaching sessions, and 
+reflection session in terms of items discussed during the 
+sessions and planning of the sessions. In addition, con -
+textual factors such as training of the coaches have been 
+adjusted. Lastly, the intervention will be evaluated on 
+other outcomes with other evaluation measures com -
+pared with the REVIVER intervention to capture the 
+potential effect sizes and feasibility of the PCFU lifestyle 
+intervention.
+Concept
+The goal of the PCFU lifestyle intervention is to promote 
+the adoption of sustainable changes in lifestyle behaviour 
+in CAYA cancer survivors with the long-term goal of pre -
+venting cardiovascular, pulmonary, and musculoskeletal 
+diseases. The intervention targets CAYA cancer survivors 
+with a low physical activity level and/or an unhealthy 
+dietary intake manifested by overweight (BMI ≥25). The 
+PCFU lifestyle intervention elaborates on the concepts of 
+person-centred care which aims to empower survivors to 
+take charge of their health. In addition, the intervention 
+applies multiple behaviour change techniques (see Addi -
+tional file  1) and involves synchronous participation by 
+survivors and eHealth lifestyle coaches.
+Delivery
+The PCFU lifestyle intervention is individually and 
+remotely delivered through a secure screen-to-screen 
+video calling software for online meetings. The applica -
+tion and use of the video calling software (Zaurus® or 
+Skype for Business®) is free of charge and adheres to the 
+General Data Protection Regulation. Therefore, the survi -
+vor needs to be in the possession of a smartphone, tablet, or computer. The survivor can participate either at home 
+or at another desired location with a secure and stable 
+internet connection. During the intervention session, the 
+lifestyle coach makes use of two screens, which enables 
+the coach to share one screen with relevant information 
+with the CAYA cancer survivor (e.g. websites with infor -
+mation on physical activity and/or dietary intake).
+The intervention will be delivered by lifestyle coaches 
+affiliated with one of the two centres and in the posses -
+sion of certificates for lifestyle coaching. Both coaches 
+are trained in person-centred care by a person-centred 
+care expert of the Radboud University Medical Centre 
+(Nijmegen, the Netherlands). This centre has been certi -
+fied by Planetree International for excellence in person-
+centred care. In addition, both coaches are trained for 
+the intervention and qualified for applying motivational 
+interviewing. Lastly, as CAYA cancer survivors are a 
+unique population with specific needs, the coaches are 
+either trained in late effects by doctors with expertise in 
+this field or had already years of working experience in 
+the field of survivorship care.
+Content and structure
+To support CAYA cancer survivors in adopting a health -
+ier lifestyle, multiple behaviour change techniques are 
+applied by the coach in the PCFU lifestyle intervention. 
+These behaviour change techniques with their presumed 
+mechanisms of action are described in the table in S1 
+Table [36, 37]. In addition, the intervention coach uses 
+principles of person-centred care (i.e. listening to the 
+wishes and preferences of the CAYA cancer survivor) to 
+establish a partnership between the CAYA cancer survi -
+vor and the coach.
+The intervention consists of an intake session and 3 to 
+6 screen-to-screen coaching sessions delivered within a 
+period of 3–4 months. Approximately every 2–3 weeks, a 
+session will be scheduled according to the preferences of 
+the survivor. The exact number, frequency, and duration 
+of the coaching sessions depend on the personal prefer -
+ences of the participating survivor. The average duration 
+of a session will be approximately 30–45 min.
+The goal of the intake session is to reach a consensus on 
+which unhealthy lifestyle behaviour(s) will be the main 
+focus for the upcoming months. Together with the life -
+style coach, the participating survivor will set a personal 
+goal that he/she would like to reach by the last coaching 
+session. This goal can either be focused on increasing 
+physical activity and/or adopting healthier dietary habits. 
+Considering personal needs and preferences, the coach 
+and survivor together decide on the best plan of action. 
+This also includes setting smaller, short-term goals. 
+Lastly, potential barriers and facilitators for reaching the 
+personal health goal are discussed. Subsequently, during 
+Page 6 of 15 Bouwman et al. Pilot and Feasibility Studies           (2022) 8:260 
+the regular coaching sessions that follow, the coach and 
+the survivor will go through the following phases in moti -
+vational interviewing: (i) engaging with the survivor, (ii) 
+focusing on target behaviour and goal setting, (iii) evok -
+ing by drawing out the survivor’s intrinsic motivation to 
+change, and (iv) planning to make clear goals and plans 
+to change behaviours. Each session starts with exploring 
+the survivor’s Stages of Change [38], a reflection on the 
+past time, and whether the short-term goals—and overall 
+goal—have been reached yet. Next, the coach and survi -
+vor discuss plans to overcome lifestyle behaviour change 
+barriers experienced during the previous weeks (if appli -
+cable). If needed, the coach and survivor will, in mutual 
+agreement, adjust the plan of action for the survivor to 
+reach the overall health goal. During the last (regular) 
+coaching session, the lifestyle coach and survivor reflect 
+on the intervention, the progress made, and whether the 
+overall goal has been reached. In addition, a final reflec -
+tion session will be scheduled 4 months ahead. Until then, 
+the survivor is tasked to sustain the lifestyle behavioural 
+changes made by him-/herself. During the reflection ses -
+sion, the survivor’s progress will again be reviewed and 
+the coach and survivor discuss strategies on how to make 
+sure the lifestyle goals reached are sustainable.
+Fidelity
+The fidelity of the intervention will be pursued by eval -
+uating the self-reported adherence of the coach to the 
+intervention protocol. Following every intake, coaching, 
+or reflection session, the coach needs to fill in an online 
+report including questions on topics that should be cov -
+ered during the session. This will serve as a prompt to 
+discuss all these items in the sessions. Secondly, fidelity in 
+terms of adherence of coaches to the intervention proto -
+col will also be reviewed with the PCFU lifestyle interven -
+tion evaluation questionnaire of CAYA cancer survivors. 
+In this way, it can be checked whether all intended items 
+are discussed. Thirdly, fidelity can be assured as the 
+involved coaches are trained in person-centred care, 
+motivational interviewing, lifestyle coaching, and the 
+intervention protocol. Lastly, results by coaches of both 
+participating survivorship care centres will also be dis -
+played per centre in the main paper to compare results as 
+a means to check for fidelity.
+Data collection and outcomes
+The schedule of enrolment, the intervention, and assess -
+ments performed with the PCFU lifestyle intervention 
+study are displayed in Fig.  1. The study flow of the PCFU 
+lifestyle intervention study is detailed in Fig.  2. All data 
+will be stored in an electronic data capture system (Cas -
+tor EDC) compliant with all relevant regulations regard -
+ing research with servers located in the Netherlands. Data from participating CAYA cancer survivors on can -
+cer diagnosis and treatment are entered into the data -
+base prior to the start of the intervention (pre-baseline). 
+For CAYA cancer survivors, the measurements will take 
+place before the intake session at baseline (T0), immedi -
+ately following the last session with the coach (T1), and 4 
+months after the last session on completion of the reflec -
+tion session (T2). For the lifestyle coaches and referring 
+late effect doctors, one measurement will take place at 
+the end of the study period (T3).
+Baseline characteristics
+With the CAYA survivor’s consent, cancer- and treat -
+ment-related data such as primary cancer diagnosis, 
+age at diagnosis, and chemo- or radiotherapies will be 
+retrieved from the medical records and entered in the 
+study database. Sociodemographic information of the 
+participants will be assessed with a standardized ques -
+tionnaire including questions on age, educational level, 
+employment status, and country of birth. The educational 
+level will be scored in the categories “low” , “middle” , and 
+“high” according to the Dutch standard education clas -
+sification (27). Employment status will be categorized as 
+either “unemployed” , “employed” , or “being a student” .
+Feasibility evaluation
+Feasibility of the intervention as a primary outcome 
+measure will be assessed on the following indices: adher -
+ence, acceptability, practicality, integration/implementa -
+tion, demand, and attrition [39].
+Adherence Adherence of CAYA cancer survivors to the 
+PCFU lifestyle intervention will be measured by compar -
+ing the scheduled appointments for the intervention ses -
+sions with the actual attended appointments with survi -
+vors. This will be reported in the online database by the 
+coach after each intervention session with a survivor. 
+Coaches’ reports of the coaching session will be assessed 
+to evaluate the adherence to the PCFU lifestyle inter -
+vention. The coach will record all made appointments 
+for sessions, whether the survivors complied with the 
+sessions.
+Acceptability Acceptability of the PCFU lifestyle inter -
+vention will be self-assessed with questionnaires (devel -
+oped by the research team) which include questions on 
+satisfaction with the content and delivery of the inter -
+vention. This questionnaire will be provided to the par -
+ticipating CAYA cancer survivors on completion of the 
+reflection session (T2). The lifestyle coaches and referring 
+late effect doctors will receive a questionnaire on accept -
+ability at the end of the study period (T3). Questions for 
+Page 7 of 15
+ Bouwman et al. Pilot and Feasibility Studies           (2022) 8:260 
+ 
+Fig. 1 Schedule of enrolment, intervention, and assessments
+Page 8 of 15 Bouwman et al. Pilot and Feasibility Studies           (2022) 8:260 
+the healthcare professionals focus on the general view on 
+the referral process (for late effect doctors only), content, 
+duration, and amount of sessions.
+Practicality Practicality of the PCFU lifestyle interven -
+tion in terms of intervention delivery will be measured by 
+a self-assessed questionnaire developed by the research team. This questionnaire is provided to CAYA cancer 
+survivors at T2 and the lifestyle coaches and late effect 
+doctors at T3. In addition, practicality in terms of costs 
+of the intervention will be evaluated by applying a micro-
+costing approach that seeks to identify the costs of all 
+underlying activities of the intervention. Therefore, time 
+spent by coaches for tasks related to the PCFU lifestyle Fig. 2 Flowchart of participant recruitment and involvement in the PanCareFollowUp lifestyle intervention study
+Page 9 of 15
+ Bouwman et al. Pilot and Feasibility Studies           (2022) 8:260 
+ 
+intervention will be collected directly from the coaches’ 
+reports. For every consultation, an estimate of the time 
+needed to prepare a session, execute, and document a 
+session will be collected. In addition, hospital records 
+will be utilized to retrieve the salary costs of the lifestyle 
+coaches to calculate the costs of the intervention.
+Integration/implementation A self-assessed question -
+naire will be used to assess the successfulness of the inte -
+gration and implementation of the PCFU lifestyle inter -
+vention. In this questionnaire (developed by the research 
+team), questions on facilitators and barriers and suc -
+cesses and failures of the intervention are included. This 
+questionnaire will be provided to the CAYA cancer survi -
+vors (at T2). The lifestyle coaches and late effect doctors 
+will be provided with this questionnaire at T3. In addi -
+tion, after every session, potential facilitators and barri -
+ers experienced by the survivor with the intervention are 
+reported by the coaches.
+Demand To assess the demand for the intervention, 
+all potential eligible survivors as well as their expressed 
+interest in the intervention will be listed using a self-
+compiled registration form. Late effect doctors involved 
+in referrals to the PCFU lifestyle intervention study will 
+be instructed to fill in this form during consultations with 
+survivors. It contains questions on whether the survivor 
+complies to the eligibility criteria, whether the survivor 
+is motivated to change his/her health behaviour(s), and 
+whether he/she is interested in the PCFU lifestyle inter -
+vention study. The rate of interested survivors compared 
+to those eligible survivors can be calculated from this 
+registration form.
+Attrition Data will be collected on measurements (i.e. 
+questionnaires and accelerometers) completed by partici -
+pating survivors at all measurement points (T0, T1, and 
+T2). In addition, data on when measurements are com -
+pleted will be retrieved as well from the study database.
+Potential effect size evaluation
+In order to evaluate potential effect sizes, all effect meas -
+urements (except for motivation level) will be performed 
+at T0, T1, and T2. The motivation level will be assessed 
+by the lifestyle coach during each coaching session.
+Reached lifestyle goals The potential effect sizes of the 
+PCFU lifestyle intervention will be determined by eval -
+uating the percentage of CAYA cancer survivors reach -
+ing their personalized overall goals and sustaining them. 
+After the intake sessions, the lifestyle coaches will register the personalized goal, as well as the progress made dur -
+ing the next sessions, in the online study database. After 
+the last regular coaching session (T1), the coach will 
+report whether the survivor has reached his/her lifestyle 
+goal (yes/no). After the reflection session (T2), the coach 
+reports whether the goal has been sustained (yes/no).
+Physical activity Physical activity will be assessed with 
+the validated Short Questionnaire to Assess Health-
+enhancing physical activity (SQUASH) questionnaire 
+which comprises four domains on commuting activities, 
+physical activity at work or school, household activities, 
+and spare time [40]. CAYA cancer survivors will be asked 
+to indicate the number of days per week and the amount 
+of time per day they spend on each activity. An indication 
+of the effort for commuting and spare time activities will 
+be asked as well. At the end, the sum score will be calcu -
+lated based on the number of days per week the survivor 
+spends at least half an hour on all the reported activities. 
+The reliability of the SQUASH questionnaire is shown to 
+be fairly reliable and reasonable with a Spearman corre -
+lation coefficient for overall reproducibility of 0.58 (95% 
+CU 0.36–0.74) and a validity of 0.45 (P = 0.005; 95% CI 
+0.17–0.66) in Dutch subjects [40].
+In addition to the SQUASH questionnaire, physical activ -
+ity levels of participants will also be assessed objectively 
+by an accelerometer (Yamax digiwalker SW-200®). The 
+Yamax digiwalker SW-200® has shown to be a reliable 
+pedometer [41]. The participants will be instructed to 
+wear an accelerometer on their belt or waistband for 7 
+consecutive days from the moment they wake up until 
+they go to sleep. The instrument responds to vertical 
+accelerations of the hip during walking and other ambu -
+latory movements. The accelerometer will be sent to the 
+study participants in an envelope including clear instruc -
+tions on how to wear and use it. At the end of every 
+measurement day, the respondents will be asked to regis -
+ter the type and duration of physical activities performed, 
+as well as the number of steps registered by the acceler -
+ometer for that day.
+BMI As part of care as usual, weight and height are 
+measured in every survivor attending the outpatient 
+clinic to have an indication of the survivors’ BMI. The 
+late effect doctors will use the BMI assessment to assess 
+the eligibility of participants for the study. After inclu -
+sion, self-reported weight measurements will be used to 
+calculate BMI at T0, T1, and T2. Upon reporting weight 
+at T0, T1, and T2, the survivor will be instructed to use 
+the same scale. Height will be extracted from the medi -
+cal records. To validate, self-reported weight at T0 will be 
+compared with weight measured at the outpatient clinic.
+Page 10 of 15 Bouwman et al. Pilot and Feasibility Studies           (2022) 8:260 
+Dietary intake To assess the quality of diet, the Dutch 
+Food Habit Questionnaire, comprising 26 questions on 
+the type and/or frequency of consumed products, will be 
+used [42, 43]. The questionnaire is subdivided into three 
+categories of nutrients and food categories: (i) fat, (ii) 
+fibres, and (iii) vegetables and fruit. All items have 2 to 4 
+different answer options. Scores on fat, fibres, vegetables, 
+and fruit range from 1 to 3, where 1 corresponds to a 
+healthy intake and 3 to an unhealthy intake. A total score 
+(range 3–9) of the three categories can be calculated with 
+the scoring manual.
+Motivation level The CAYA cancer survivor’s motiva -
+tion level will be assessed during every intervention ses -
+sion by the coach. The coach will apply the “Stages of 
+Change” model as developed by Prochaska and Di Clem -
+ente to assess in which of the following motivation stages 
+the survivor is during the intervention sessions: precon -
+templation (“not ready”), contemplation (“getting ready”), 
+preparation (“ready”), action, and maintenance [38]. In a 
+study by Horiuchi et al., partial support was provided for 
+the validity of applying the stages of change to regular 
+exercise [44].
+Self‑efficacy To estimate the CAYA’s cancer survivor 
+self-efficacy level, the General Self-efficacy (GSE) scale 
+will be used [45]. The questionnaire is comprised of items 
+in which survivors are asked to indicate to what extent 
+certain situations apply to them in the way they handle 
+or act. Items are scored on a 4-point Likert-type scale, 
+ranging from “completely true” to “completely false” . The 
+total score is calculated by adding up the scores of the 
+different items. The GSE scale, consisting of 10 items, 
+has shown to have good psychometric properties with 
+a Cronbach’s alpha of 0.85 in Dutch subjects and 0.89 
+in German cancer patients [46, 47]. In addition, a meta-
+analysis of Luszczynsksa et  al. confirmed the validity of 
+the GSE scale with correlations found with social-cogni -
+tive behaviours [47].
+Self‑management Self-management will be assessed 
+with the disease-specific Self-Management Screening 
+(SeMaS) questionnaire [48]. The questionnaire, consist -
+ing of 25 items in total, screens the survivor’s capabil -
+ity in self-management. The items are distributed over 
+the subscales control coordination (3 items), own effec -
+tiveness (2 items), social support (1 item), coping style 
+(9 items), fear (4 items), depression (3 items), and skills 
+such as computer skills (3 items). The total score can 
+be calculated by adding up the different scores. A study 
+by Eikelenboom et al. showed that the SeMaS is a valid 
+tool with 31.7% of the variance explained in the Patient 
+Activation Measure (PAM-13) instrument [49]. The psychometric characteristics of the subscales coping 
+(problem solving) and self-efficacy were acceptable and 
+good with a Cronbach’s alpha for internal consistency of 
+0.70 and 0.86, respectively [49].
+Analyses
+Sample size
+As the primary aim of this study was to assess the feasi -
+bility of the PCFU lifestyle intervention, a formal sam -
+ple size calculation was not needed. Though there is no 
+general consensus on sample sizes in feasibility studies, 
+a pragmatic sample size of 30 participants per centre 
+(n=60 in total) was chosen [50– 52]. This number will 
+allow adequate acceptability, practicality, integration/
+implementation, demand, and attrition testing of the 
+PCFU lifestyle intervention. A sample size of 60 is real -
+istic considering the number of CAYA cancer survi -
+vors invited to the survivorship care clinics per month, 
+the study running time (20 months), and the assump -
+tion of a recruitment rate of 50%. For estimation of 
+the potential effect sizes, a sample size of n =60 is also 
+sufficient to estimate small to moderate differences in 
+pre- and post-intervention and thus to get insight into 
+possible effect sizes (and 95% confidence intervals) for 
+the dichotomous primary effect measure percentage of 
+survivors that reach the personalized lifestyle goals that 
+were set with the coach and the continuous secondary 
+effect measures level of physical activity, dietary intake, 
+BMI, self-efficacy, and self-management. In case of a 
+participant withdraws from the intervention study after 
+inclusion and completing the T0 measurement, he/she 
+will not be replaced by another participant. In case the 
+participant withdraws from the study before complet -
+ing the T0 measurement, he/she will be replaced by 
+another participant when the recruitment period is still 
+ongoing.
+Data analyses
+The feasibility of the PCFU lifestyle intervention will be 
+determined by calculating (1) mean scores on acceptabil -
+ity questions in the evaluation questionnaire; (2) percent -
+ages of participants who would want chose to apply for 
+an eHealth intervention again in the future as assessed 
+in the evaluation questionnaire; (3) average duration for 
+coaches needed to prepare, conduct, and report about 
+the intervention sessions; (4) percentages of drop-outs 
+and participants participating in all sessions; (5) percent -
+age of eligible survivors participating in intervention; and 
+(6) percentages of completed measurements. The exact 
+success criteria of the PCFU lifestyle intervention study 
+are displayed in Table  2 and will allow us to interpret 
+Page 11 of 15
+ Bouwman et al. Pilot and Feasibility Studies           (2022) 8:260 
+ 
+the results and to determine the feasibility of the inter -
+vention and study. Other feasibility data on acceptability 
+(usefulness and satisfaction with elements of the inter -
+vention, experiences with the coach), practicality (costs), 
+and integration/implementation outcomes (barriers and 
+facilitators of the intervention) will be collected to inform 
+a future study and the replication manual, but will not be 
+assessed with success criteria.
+For exploratory testing of the potential effect sizes 
+(and 95% confidence intervals (CI)) of the study, univari -
+able and multivariable analyses will be performed. First, 
+continuous data will be checked for normality and equal 
+variances with normal probability plots and boxplots, 
+respectively. For each of the two centres, percentages and 
+means (± standard deviation) or medians (interquartile 
+range) will be calculated for the baseline characteristics. 
+The percentage of CAYA cancer survivors that improve 
+their lifestyle on the behaviour(s) that they desire to 
+change (yes/no) will be described at T1 and T2. Regard -
+ing the secondary outcome measures physical activity, 
+dietary intake, BMI, self-efficacy, self-management, and 
+motivation level, the mean (± standard deviation) or 
+median values (interquartile range) will be calculated at 
+T0, T1, and T2. Estimates of differences in the secondary 
+outcomes between T0 and T1, T0 and T2, and between 
+T1 and T2 will be explored with two-tailed paired t-tests and presented with 95% CIs. Subsequently, mixed models 
+for each secondary outcome will be estimated to inves -
+tigate the effect of time, centre, anti-cancer treatment 
+factors, age at assessment, sex, socio-economic status, 
+amount of sessions, motivational change, and baseline 
+scores of the lifestyle behaviour variables, on the second -
+ary outcomes. A stepwise backward selection procedure 
+will be used to determine potential confounding factors. 
+First, a full model containing all potential variables asso -
+ciated with each of the secondary outcomes will be cre -
+ated, after which the magnitude of associations (β) and 
+95% CIs will be carefully assessed. Variables with weak 
+associations with the outcome measures, as well as wide 
+95% CIs, will be removed from the model, leaving vari -
+ables with strong associations with the outcomes in the 
+model. These are the variables that should be considered 
+potential confounding factors for a future trial.
+Study status
+The inclusion of the PCFU lifestyle intervention study 
+started in December 2020 and was completed in July 
+2022. At the moment of writing, data collection is still 
+ongoing and is planned to be finalized in May 2023. Cur -
+rently, 23 participants completed the intervention and 
+study. The results of the study are expected to be pub -
+lished in 2023.Table 2 Overview of assessments of success criteria of feasibility outcomes of the PCFU lifestyle Intervention study
+Feasibility outcome Assessment Success criteria
+Acceptability Evaluated with a questionnaire provided at T2:
+1. Rating (scale 0–10) overall intervention (survivors)
+2. Rating (scale 0–10) overall intervention (coaches)
+3. Rating (scale 0–10) on willingness to recommend the 
+intervention to other survivors (survivors)
+4. Rating (scale 0–10) on willingness to recommend the 
+intervention to other co ‑workers or survivorship care clinics 
+(coaches)1. Overall rating intervention (survivors): ≥5
+2. Overall score intervention (coaches): ≥5
+3. Score “I would recommend the intervention to other 
+survivors” (survivors): ≥5
+4. Score “I would recommend the intervention to other co ‑
+workers/late effect clinics” (survivors): ≥5
+Practicality Evaluated with a questionnaire provided at T2:
+1. Percentage of participants choosing for an eHealth 
+intervention in the future
+Evaluated with the coaches’ reports:
+2. Length of time needed to prepare, conduct, and report 
+an intervention session in a database (coaches)1. ≥50% of participants (survivors) would choose for an 
+eHealth intervention in the future
+2. Length of time needed to prepare, conduct, and report an 
+intervention session in the database ≤90 min per session
+Adherence to intervention Evaluated with the coaches’ reports:
+1. Percentage of drop ‑outs (survivors)
+2. Percentage of participants following the sessions accord‑
+ing to plan (survivors)1. Percentage of drop ‑outs ≤10%
+2. Percentage of participants following the sessions accord‑
+ing to plan ≥80%
+Demand Evaluated with registration forms:
+1. Percentage of eligible survivors who agree to participate 
+in the PCFU Lifestyle intervention study (survivors)1. Percentage of eligible survivors who agree to participate in 
+the PCFU Lifestyle intervention study ≥25%
+Attrition Evaluated with the study database:
+1. Percentage of complete questionnaires (survivors)
+2. Percentage of complete accelerometer measurements 
+(survivors)
+3. Percentage of overall completed measurements (ques‑
+tionnaires and accelerometer measurements) (survivors)1. Percentage of missing data in questionnaires ≤20%
+2. Percentage of missing data in accelerometer measure ‑
+ments ≤20%
+3. Percentage of overall completed measurements (question‑
+naires and accelerometer measurements) ≥75%
+Page 12 of 15 Bouwman et al. Pilot and Feasibility Studies           (2022) 8:260 
+Discussion
+It has been shown that the presence of lifestyle risk fac -
+tors, including physical inactivity and unhealthy dietary 
+habits, increases the already heightened risk of develop -
+ing these late effects in CAYA cancer survivors. Interven -
+tions aiming at diminishing this risk by altering unhealthy 
+lifestyle behaviours into healthy lifestyle behaviours are 
+therefore key in the follow-up care for survivors. How -
+ever, the heterogeneous character of the CAYA cancer 
+survivor population demands a personalized approach to 
+follow-up care and interventions. Our hypothesis is that 
+the PCFU lifestyle intervention will positively modify 
+lifestyle risk factors, self-efficacy, and self-management 
+with preservation or improvement of the survivor’s 
+health as the ultimate reward. In addition, by applying 
+person-centred care, the PCFU lifestyle intervention can 
+lead to improved well-being of survivors by empower -
+ing them to care for their health by adopting healthy 
+behaviours. Evaluating the PCFU lifestyle intervention 
+with the proposed feasibility study will help in improv -
+ing the content and conduct of the lifestyle interven -
+tion in order to be implemented as part of standard care 
+across other survivorship care outpatient clinics. In addi -
+tion to that, the PCFU lifestyle intervention study has a 
+lot of potential as it concerns an eHealth intervention for 
+a relatively young population. Showing the feasibility of 
+lifestyle support delivered via eHealth can clear the way 
+for other distance-delivered eHealth interventions to be 
+implemented.
+The potential strengths of the PCFU lifestyle inter -
+vention are mostly related to the personalized character 
+of the intervention following a consultation according 
+to the principles of person-centred care. The content 
+of the intervention is completely adapted to the survi -
+vor’s preferences and needs. In addition, delivering the 
+intervention via video calling can relieve survivors from 
+unnecessary visits to survivorship care clinics and can 
+therefore better fit into the personal lives of survivors.
+Although this seems to be a promising approach of 
+improving lifestyle behaviours of CAYA cancer survi -
+vors, several limitations need to be considered when 
+interpreting the results of the PCFU lifestyle study. First, 
+online self-reported questionnaires are used. Partici -
+pants may use socially desirable answers when filling in 
+the questionnaire or may forget activities that they per -
+formed. Despite that, as almost all questionnaires used in 
+this study are validated and widely accepted, we do not 
+believe this to be a problem. Second, we chose to apply 
+the “Stages of Change Model” of Prochaska and DiCle -
+mente for both intervention purposes as well as an out -
+come measure. However, a limitation of this model is the 
+fact that boundaries between the “stages” are rather arbi -
+trary selected and therefore it may be difficult for coaches to assess the appropriate stage of change in survivors 
+during the intervention. However, as the lifestyle coaches 
+are trained in using the “Stages of Change” , we believe 
+they can still assess these stages properly. In addition, we 
+believe that this feasibility study will also provide input 
+on the usefulness of applying the “Stages of Change” as 
+part of the intervention or as an outcome measure for the 
+future. Third, as the GSE scale will only provide info on 
+the survivor’s self-efficacy on a general level, we cannot 
+make any statements on potential effect sizes of self-effi -
+cacy regarding adopting healthier behaviours. However, 
+one of the aims of this intervention is also to empower 
+and enhance self-efficacy in survivors in their daily lives. 
+Therefore, we believe that the GSE scale will provide us 
+valuable information as well. Fourth, for practical rea -
+sons, survivors are instructed to weigh themselves at 
+home with their own weighing scale. These scales are not 
+validated and survivors may not be honest with reporting 
+their weight. Yet, as the survivors use the same scale for 
+all the three measurements, the effect of the PCFU life -
+style intervention regarding weight can still be noticed. 
+Fifth, due to time and travel burden for survivors to come 
+to the survivorship care clinic at every measurement 
+point, height measurements at T1 and T2 cannot be 
+conducted by healthcare professionals. For this reason, 
+height may therefore not be accurate for the younger par -
+ticipants who may potentially have grown between the 
+T0, T1, and T2 measurements. Lastly, wearing an accel -
+erometer may influence the physical activity patterns of 
+the participants leading to a higher physical activity level 
+on days where the participants wear them. In addition, it 
+only registers vertical movements and no weight bearing 
+exercises such as cycling and swimming.
+The results of this feasibility study will be used to assess 
+both the feasibility and potential effect sizes of the inter -
+vention to determine whether a full-scale trial is feasible 
+and/or adaptations of the PCFU lifestyle intervention 
+are needed in order to proceed with the intervention. 
+In addition, the results will, together with the results of 
+a systematic review and qualitative studies on barriers 
+and facilitators on adopting a healthy lifestyle, inform the 
+manual which will be written to disseminate the PCFU 
+lifestyle intervention. By publishing the manual, the 
+PCFU project aims to help implementation of the PCFU 
+lifestyle intervention at other European childhood cancer 
+survivorship care clinics.
+Abbreviations
+BMI: Body mass index; CAYA : Childhood, adolescent, and young adult; GSE: 
+General Self‑Efficacy; PCFU: PanCareFollowUp; RICk: Readiness, importance, 
+confidence, knowledge; SeMaS: Self‑Management Screening; SQUASH: Short 
+Questionnaire to Assess Health‑ enhancing physical activity; WHO: World 
+Health Organization.
+Page 13 of 15
+ Bouwman et al. Pilot and Feasibility Studies           (2022) 8:260 
+ 
+Supplementary Information
+The online version contains supplementary material available at https:// doi. 
+org/ 10. 1186/ s40814‑ 022‑ 01221‑x.
+Additional file 1. SPIRIT 2013 Checklist.
+Additional file 2. The TIDieR (Template for Intervention Description and 
+Replication) Checklist.
+Additional file 3. Behavioural Change Techniques and their presumed 
+Mechanisms of Action.
+Acknowledgements
+We thank all members of the PanCareFollowUp Consortium for their contribu‑
+tion in the project.
+The PanCareFollowUp Consortium, established in 2018, is a unique and 
+multidisciplinary collaboration between 14 project partners from 10 European 
+countries, including patient experts (https:// panca refol lowup. eu). The aim 
+of the consortium is to improve the quality of life for survivors of childhood, 
+adolescent, and young adult (CAYA) cancer by bringing evidence ‑based, 
+person‑ centred care to clinical practice. The PanCareFollowUp Consortium has 
+developed and evaluated two interventions, including a person‑ centred and 
+guideline ‑based model of survivorship care (care intervention) and an eHealth 
+lifestyle coaching model (lifestyle intervention). After the project, replication 
+manuals that contain the instructions and tools required for the implementa‑
+tion of the PanCareFollowUp interventions will be freely distributed.
+Members PanCareFollowUp Consortium
+Leontien C.M. Kremer, Princess Máxima Centre for Paediatric Oncology, Hei‑
+delberglaan 25, 3584 CS, Utrecht, the Netherlands; Department of Paediatrics, 
+Emma Children’s Hospital, Amsterdam UMC, Meibergdreef 9, 1105 AZ Amster ‑
+dam, the Netherlands; Faculty of Medicine, Utrecht University and Utrecht 
+Medical Centre, Universiteitsweg 98, 3584 CG Utrecht, the Netherlands.
+Helena J.H. van der Pal, Princess Máxima Centre for Paediatric Oncology, 
+Heidelberglaan 25, 3584 CS, Utrecht, the Netherlands; PanCare, Jacobus Bel‑
+lamylaan 16, 1401 AZ Bussum, the Netherlands.
+Renée L. Mulder, Princess Máxima Centre for Paediatric Oncology, Heidelberg‑
+laan 25, 3584 CS, Utrecht, the Netherlands.
+Saskia M.F. Pluijm, Princess Máxima Centre for Paediatric Oncology, Heidelber ‑
+glaan 25, 3584 CS, Utrecht, the Netherlands.
+Rebecca J. van Kalsbeek, Princess Máxima Centre for Paediatric Oncology, 
+Heidelberglaan 25, 3584 CS, Utrecht, the Netherlands.
+Selina R. van den Oever, Princess Máxima Centre for Paediatric Oncology, 
+Heidelberglaan 25, 3584 CS, Utrecht, the Netherlands.
+Lars Hjorth, Lund University, Skane University Hospital, Department of Clinical 
+Sciences Lund, Paediatrics, Lasarettsgatan 40, 221 85 Lund, Sweden.
+Cecilia Follin, Lund University, Skane University Hospital, Department of Clini‑
+cal Sciences Lund, Oncology, Lasarettsgatan 40, 221 85 Lund, Sweden.
+Lill Eriksson, Lund University, Skane University Hospital, Department of Clinical 
+Sciences Lund, Oncology, Lasarettsgatan 40, 221 85 Lund, Sweden.
+Thomas Relander, Lund University, Skane University Hospital, Department of 
+Clinical Sciences Lund, Oncology, Lasarettsgatan 40, 221 85 Lund, Sweden.
+Jacob Engellau, Lund University, Skane University Hospital, Department of 
+Clinical Sciences Lund, Oncology, Lasarettsgatan 40, 221 85 Lund, Sweden.
+Karin Fjordén, Lund University, Skane University Hospital, Department of Clini‑
+cal Sciences Lund, Oncology, Lasarettsgatan 40, 221 85 Lund, Sweden.
+Karolina Bogefors, Lund University, Skane University Hospital, Department of 
+Clinical Sciences Lund, Oncology, Lasarettsgatan 40, 221 85 Lund, Sweden.
+Anna S. Holmqvist, Lund University, Skane University Hospital, Department of 
+Clinical Sciences Lund, Paediatrics, Lasarettsgatan 40, 221 85 Lund, Sweden.
+Riccardo Haupt, Epidemiology and Biostatistics Unit and DOPO clinic, IRCCS 
+Istituto Giannina Gaslini, Via G. Gaslini, 5, 16147 Genoa, Italy.
+Monica Muraca, Epidemiology and Biostatistics Unit and DOPO clinic, IRCCS 
+Istituto Giannina Gaslini, Via G. Gaslini, 5, 16147 Genoa, Italy.
+Brigitte Nicolas, Epidemiology and Biostatistics Unit and DOPO clinic, IRCCS 
+Istituto Giannina Gaslini, Via G. Gaslini, 5, 16147 Genoa, Italy.
+Francesca Bagnasco, Epidemiology and Biostatistics Unit and DOPO clinic, 
+IRCCS Istituto Giannina Gaslini, Via G. Gaslini, 5, 16147 Genoa, Italy.Marina Benvenuto, Epidemiology and Biostatistics Unit and DOPO clinic, IRCCS 
+Istituto Giannina Gaslini, Via G. Gaslini, 5, 16147 Genoa, Italy.
+Anna Aulicino, Epidemiology and Biostatistics Unit and DOPO clinic, IRCCS 
+Istituto Giannina Gaslini, Via G. Gaslini, 5, 16147 Genoa, Italy.
+Luca Laudisi, Epidemiology and Biostatistics Unit and DOPO clinic, IRCCS 
+Istituto Giannina Gaslini, Via G. Gaslini, 5–16147 Genoa, Italy.
+Vera Araujo ‑Soares, Department of Health Technology & Services Research, 
+Technical Medical Centre, University of Twente, P .O. Box 217, 7500 AE 
+Enschede, The Netherlands.
+Tomas Kepak, International Clinical Research Centre (FNUSA‑ICRC) at St. 
+Anne’s University Hospital, Masaryk University, Pekařská 53, Brno 656 91, Czech 
+Republic.
+Katerina Kepakova, International Clinical Research Centre (FNUSA‑ICRC) at St. 
+Anne’s University Hospital, Masaryk University, Pekařská 53, Brno 656 91, Czech 
+Republic.
+Hana Hrstkova, International Clinical Research Centre (FNUSA‑ICRC) at St. 
+Anne’s University Hospital, Masaryk University, Pekařská 53, Brno 656 91, Czech 
+Republic.
+Viera Bajciova, International Clinical Research Centre (FNUSA‑ICRC) at St. 
+Anne’s University Hospital, Masaryk University, Pekařská 53, Brno 656 91, Czech 
+Republic.
+Marta Holikova, International Clinical Research Centre (FNUSA‑ICRC) at St. 
+Anne’s University Hospital, Masaryk University, Pekařská 53, Brno 656 91, Czech 
+Republic.
+Lucie Strublova, International Clinical Research Centre (FNUSA‑ICRC) at St. 
+Anne’s University Hospital, Masaryk University, Pekařská 53, Brno 656 91, Czech 
+Republic.
+Anne Uyttebroeck, Department of Oncology, Paediatric Oncology, KU Leuven, 
+Department of Paediatric Haematology and Oncology, University Hospitals 
+Leuven, Herestraat 49, 3000 Leuven, Belgium.
+Marleen Renard, Department of Paediatric Haematology and Oncology, Uni‑
+versity Hospitals Leuven, Herestraat 49, 3000 Leuven, Belgium.
+Sandra Jacobs, Department of Oncology, Paediatric Oncology, KU Leuven, 
+Department of Paediatric Haematology and Oncology, University Hospitals 
+Leuven, Herestraat 49, 3000 Leuven, Belgium.
+Heidi Segers, Department of Oncology, Paediatric Oncology, KU Leuven, 
+Department of Paediatric Haematology and Oncology, University Hospitals 
+Leuven, Herestraat 49, 3000 Leuven, Belgium.
+Monique van Helvoirt, Department of Paediatric Haematology and Oncology, 
+University Hospitals Leuven, Herestraat 49, 3000 Leuven, Belgium.
+Jeanette F. Winther, Childhood Cancer Research Group, Danish Cancer Society 
+Research Centre, Strandboulevarden 49, 2100 Copenhagen, Denmark; Depart ‑
+ment of Clinical Medicine, Faculty of Health, Aarhus University and Aarhus 
+University Hospital, Palle Juul‑ Jensens Boulevard 82, 8200 Aarhus, Denmark.
+Luzius Mader, Childhood Cancer Research Group, Danish Cancer Society 
+Research Centre, Strandboulevarden 49, 2100 Copenhagen, Denmark; 
+Institute of Social and Preventive Medicine, University of Bern, Mittelstrasse 43, 
+3012 Bern, Switzerland.
+Line E. Frederiksen, Childhood Cancer Research Group, Danish Cancer Society 
+Research Centre, Strandboulevarden 49, 2100 Copenhagen, Denmark.
+Elisabeth A. W. Andersen, Statistics and Data Analysis, Danish Cancer Society 
+Research Centre, Strandboulevarden 49, 2100 Copenhagen, Denmark.
+Gisela Michel, University of Lucerne, Department of Health Sciences and Medi‑
+cine, Frohburgstrasse 3, P .O. Box 4466, 6002 Lucerne, Switzerland.
+Stefan Boes, University of Lucerne, Department of Health Sciences and Medi‑
+cine, Frohburgstrasse 3, P .O. Box 4466, 6002 Lucerne, Switzerland.
+Katharina Roser, University of Lucerne, Department of Health Sciences and 
+Medicine, Frohburgstrasse 3, P .O. Box 4466, 6002 Lucerne, Switzerland.
+Jacqueline Loonen, Radboud University Medical Centre, Radboud Institute for 
+Health Sciences, Department of Hematology, Geert Grooteplein Zuid 10, 6525 
+GA, Nijmegen, the Netherlands.
+Rosella Hermens, Radboud University Medical Centre, Radboud Institute for 
+Health Sciences, Scientific Institute for Quality of Healthcare (IQ Healthcare), 
+Geert Grooteplein 21, 6525 EZ, Nijmegen, the Netherlands.
+Irene Göttgens, Radboud University Medical Centre, Radboud Institute for 
+Health Sciences, Department of Primary and Community Care, Geert Groot ‑
+eplein 21, 6525 EZ, Nijmegen, the Netherlands.
+Eline Bouwman, Radboud University Medical Centre, Radboud Institute for 
+Health Sciences, Department of Hematology, Geert Grooteplein Zuid 10, 6525 
+GA, Nijmegen, the Netherlands.
+Page 14 of 15 Bouwman et al. Pilot and Feasibility Studies           (2022) 8:260 
+Iridi Stollman, Radboud University Medical Centre, Radboud Institute for 
+Health Sciences, Department of Hematology, Geert Grooteplein Zuid 10, 6525 
+GA, Nijmegen, the Netherlands.
+Adriaan Penson, Radboud University Medical Centre, Radboud Institute for 
+Health Sciences, Department of Hematology, Geert Grooteplein Zuid 10, 6525 
+GA, Nijmegen, the Netherlands.
+Dionne Breij, Radboud University Medical Centre, Radboud Institute for Health 
+Sciences, Department of Hematology, Geert Grooteplein Zuid 10, 6525 GA, 
+Nijmegen, the Netherlands.
+Roderick Skinner, Newcastle University Centre for Cancer, Wolfson Childhood 
+Cancer Research Centre, Herschel Building, Brewery Lane, Newcastle upon 
+Tyne, NE1 7RU, United Kingdom; Great North Children’s Hospital, Royal Victoria 
+Infirmary, Queen Victoria Road, Newcastle upon Tyne, NE1 4 LP , United King‑
+dom; Translational and Clinical Research Institute, Wolfson Childhood Cancer 
+Research Centre, Herschel Building, Brewery Lane, Newcastle upon Tyne, NE1 
+7RU, United Kingdom.
+Morven C. Brown, Population Health Sciences Institute, Newcastle University, 
+Sir James Spence Institute, Royal Victoria Infirmary, Queen Victoria Road, 
+Newcastle upon Tyne, NE1 4LP , United Kingdom; Newcastle University Centre 
+for Cancer, Wolfson Childhood Cancer Research Centre, Herschel Building, 
+Brewery Lane, Newcastle upon Tyne, NE1 7RU, United Kingdom.
+Vera Araujo ‑Soares, Department of Health Technology & Services Research, 
+Technical Medical Centre, University of Twente, P .O. Box 217, 7500 AE 
+Enschede, the Netherlands
+Samira Essiaf, European Society for Paediatric Oncology, c/o BLSI, Clos 
+Chapelle ‑aux ‑Champs 30, Bte 1.30.30, BE‑1200 Brussels, Belgium.
+Anne Blondeel, European Society for Paediatric Oncology, c/o BLSI, Clos 
+Chapelle ‑aux ‑Champs 30, Bte 1.30.30, BE‑1200 Brussels, Belgium.
+William Sciberras, European Society for Paediatric Oncology, c/o BLSI, Clos 
+Chapelle ‑aux ‑Champs 30, Bte 1.30.30, BE‑1200 Brussels, Belgium.
+Joke Korevaar, Netherlands Institute for Health Services Research (Nivel), P .O. 
+Box 1568, 3500 BN Utrecht, the Netherlands.
+Mieke Rijken, Netherlands Institute for Health Services Research (Nivel), P .O. 
+Box 1568, 3500 BN Utrecht, the Netherlands; University of Eastern Finland, 
+Department of Health and Social Management, P .O. Box 1627, FI‑70211 
+Kuopio, Finland.
+Anita Kienesberger, Childhood Cancer International Europe, Servitengasse 
+5/16, 1090 Vienna, Austria.
+Jaap den Hartogh, Childhood Cancer International Europe, Servitengasse 5/16, 
+1090 Vienna, Austria.
+Hannah Gsell, Childhood Cancer International Europe, Servitengasse 5/16, 
+1090 Vienna, Austria.
+Carina Schneider, Childhood Cancer International Europe, Servitengasse 5/16, 
+1090 Vienna, Austria.
+Jaap den Hartogh, Childhood Cancer International Europe, Servitengasse 5/16, 
+1090 Vienna, Austria.
+Edit Bardi, PanCare, Jacobus Bellamylaan 16, 1401 AZ Bussum, the Netherlands.
+Jeroen te Dorsthorst, PanCare, Jacobus Bellamylaan 16, 1401 AZ Bussum, the 
+Netherlands.
+Disclaimer
+The material presented and views expressed here are the responsibility of the 
+author(s) only. The EU Commission takes no responsibility for any use made of 
+the information set out.
+Authors’ contributions
+Conceptualisation: EB, SP , and JL; methodology: EB, RH, SO, SP , and JL; 
+investigation: EB and SO; resources: HP , SP , and JL; writing—original draft: EB; 
+writing—review and editing: EB, RH, MB, VAS, NB, TK, KK, LK, HP , RS, SP , and 
+JL; visualisation: EB; supervision: RH, SP , and JL; project administration: EB, SO, 
+SP , and JL; funding acquisition: RH, TK, KK, LK, HP , SP , JL. The authors read and 
+approved the final manuscript.
+Funding
+The project has received funding from the European Union’s Horizon 2020 
+research and innovation programme under grant agreement No 824982. The 
+funder had no role in the study design, data collection, data analysis, data 
+interpretation, or writing the report.Availability of data and materials
+The PanCareFollowUp project aims to comply with all the four FAIR principles 
+and to share individual de ‑identified data upon request. At the moment of 
+writing, both the PanCareFollowUp project and the Radboud University Medi‑
+cal Centre are working on establishing the conditions and means to share the 
+data. Requests for de ‑identified data should be made to the corresponding 
+author (EB).
+Declarations
+Ethics approval and consent to participate
+This study was declared not to be subject to the Medical Research Involving 
+Human Subjects Act (WMO) by the Research Ethics Committee CMO Arnhem‑
+Nijmegen in September 2020 (case number 2020‑6960). Therefore, no positive 
+judgment was required from the CMO region Arnhem‑Nijmegen or another 
+recognized medical ethical review committee for its implementation. Local 
+research and ethics committees at the participating centres have granted 
+their approvals for the conduction of this study (Research Ethics Committee 
+Radboudumc and Clinical Research Centre Princess Máxima Centre). Informed 
+consent procedures are described elsewhere in the manuscript.
+Consent for publication
+A patient information letter and a model informed consent form are available 
+upon request.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1 Centre of Expertise for Cancer Survivorship, Radboud Institute for Health 
+Sciences, Radboud University Medical Centre, Reinier Postlaan 4, 6500 
+HB Nijmegen, the Netherlands. 2  Scientific Institute for Quality of Healthcare 
+(IQ Healthcare), Radboud Institute for Health Sciences, Radboud University 
+Medical Centre, Geert Grooteplein Zuid 10, 6525, GA, Nijmegen, the Nether ‑
+lands. 3 Wolfson Childhood Cancer Research Centre, Newcastle University Cen‑
+tre for Cancer, Newcastle University, Herschel Building, Brewery Lane, Newcas‑
+tle upon Tyne NE1 7RU, UK. 4 Population Health Sciences Institute, Newcastle 
+University, Ridley Building 1, Queen Victoria Road, Newcastle upon Tyne NE1 
+7RU4, UK. 5 Department of Health Technology & Services Research, Techni‑
+cal Medical Centre, University of Twente, P .O. Box 217, 7500, AE, Enschede, 
+the Netherlands. 6 International Clinical Research Centre (FNUSA‑ICRC), St. 
+Anne’s University Hospital, Masaryk University, Pekařská 53, 656 91 Brno, Czech 
+Republic. 7 Princess Máxima Centre for Paediatric Oncology, Heidelberglaan 
+25, 3584, CS, Utrecht, the Netherlands. 8 Department of Paediatrics, Emma 
+Children’s Hospital, Amsterdam UMC, Meibergdreef 9, 1105, AZ, Amsterdam, 
+the Netherlands. 9 Faculty of Medicine, Utrecht University and Utrecht Medical 
+Centre, Universiteitsweg 98, 3584, CG, Utrecht, the Netherlands. 10 PanCare, 
+Jacobus Bellamylaan 16, 1401, AZ, Bussum, the Netherlands. 11 Great North 
+Children’s Hospital, Royal Victoria Infirmary, Queen Victoria Road, Newcastle 
+upon Tyne NE1 4LP , UK. 12 Translational and Clinical Research Institute, Wolfson 
+Childhood Cancer Research Centre, Herschel Building, Brewery Lane, Newcas‑
+tle upon Tyne NE1 7RU, UK. 13  Department of Haematology, Radboud Univer ‑
+sity Medical Centre, Radboud Institute for Health Sciences, Geert Grooteplein 
+Zuid 10 ,  6525 GA Nijmegen, Nederland. 
+Received: 5 August 2022   Accepted: 1 December 2022
+References
+ 1. Siegel RL, Miller KD, Jemal A. Cancer statistics, 2018. CA Cancer J Clin. 
+2018;68(1):7–30.
+ 2. Miller KD, et al. Cancer survivorship and models of survivorship care: a 
+review. Am J Clin Oncol. 2015;38(6):627–33.
+ 3. Parry C, et al. Cancer survivors: a booming population. Cancer Epidemiol 
+Biomark Prev. 2011;20(10):1996–2005.
+ 4. Trama A, et al. Is the cancer survival improvement in European and 
+American adolescent and young adults still lagging behind that in chil‑
+dren? Pediatr Blood Cancer. 2019;66(1):e27407.
+Page 15 of 15
+ Bouwman et al. Pilot and Feasibility Studies           (2022) 8:260 
+ 
+ 5. Miller KD, et al. Cancer statistics for adolescents and young adults, 2020. 
+CA Cancer J Clin. 2020;70(6):443–59.
+ 6. Vassal G, et al. The SIOPE strategic plan: a European cancer plan for chil‑
+dren and adolescents. J Cancer Policy. 2016;8:17–32.
+ 7. Geenen MM, et al. Medical assessment of adverse health outcomes in 
+long‑term survivors of childhood cancer. JAMA. 2007;297(24):2705–15.
+ 8. Hudson MM, et al. Clinical ascertainment of health outcomes among 
+adults treated for childhood cancer. JAMA. 2013;309(22):2371–81.
+ 9. Oeffinger KC, et al. Chronic health conditions in adult survivors of child‑
+hood cancer. N Engl J Med. 2006;355(15):1572–82.
+ 10. Woodward E, et al. Late effects in survivors of teenage and young adult 
+cancer: does age matter? Ann Oncol. 2011;22(12):2561–8.
+ 11. Jones LW, et al. Exercise and risk of major cardiovascular events in adult 
+survivors of childhood Hodgkin lymphoma: a report from the childhood 
+cancer survivor study. J Clin Oncol. 2014;32(32):3643–50.
+ 12. Slater ME, et al. Physical activity, fitness, and cardiometabolic risk factors 
+in adult survivors of childhood cancer with a history of hematopoietic 
+cell transplantation. Biol Blood Marrow Transplant. 2015;21(7):1278–83.
+ 13. Smith WA, et al. Lifestyle and metabolic syndrome in adult survivors 
+of childhood cancer: a report from the St. Jude lifetime cohort study. 
+Cancer. 2014;120(17):2742–50.
+ 14. Schindera C, et al. Physical fitness and modifiable cardiovascular disease 
+risk factors in survivors of childhood cancer: a report from the SURfit 
+study. Cancer. 2021;127(10):1690–8.
+ 15. Tonorezos ES, et al. Contribution of diet and physical activity to metabolic 
+parameters among survivors of childhood leukemia. Cancer Causes 
+Control. 2013;24(2):313–21.
+ 16. van Kalsbeek RJ, et al. European PanCareFollowUp recommendations 
+for surveillance of late effects of childhood, adolescent, and young adult 
+cancer. Eur J Cancer. 2021;154:316–28.
+ 17. Badr H, et al. Health‑related quality of life, lifestyle behaviors, and inter ‑
+vention preferences of survivors of childhood cancer. J Cancer Surviv. 
+2013;7(4):523–34.
+ 18. Robien K, et al. Poor adherence to dietary guidelines among adult 
+survivors of childhood acute lymphoblastic leukemia. J Pediatr Hematol 
+Oncol. 2008;30(11):815–22.
+ 19. Zhang FF, et al. Do childhood cancer survivors meet the diet and physi‑
+cal activity guidelines? A review of guidelines and literature. Int J Child 
+Health Nutr. 2012;1(1):44–58.
+ 20. Mizrahi D, et al. How physically active do Australian and new Zealander 
+childhood cancer survivors perceive themselves? A report from the 
+ANZCHOG survivorship study. Complement Ther Med. 2019;44:196–203.
+ 21. Brown MC, et al. Childhood cancer survivors’ perceptions of the barriers 
+and facilitators to physical activity: a systematic review and thematic syn‑
+thesis of qualitative evidence using the theoretical domains framework. 
+Health Psychol Rev. 2022:1–24.
+ 22. Ekman I, et al. Person‑ centered care ‑‑ready for prime time. Eur J Cardio ‑
+vasc Nurs. 2011;10(4):248–51.
+ 23. Loonen JJ, et al. Cancer survivorship care: person centered care in a multi‑
+disciplinary shared care model. Int J Integr Care. 2018;18(1):4.
+ 24. Rathert C, Wyrwich MD, Boren SA. Patient ‑centered care and outcomes: a 
+systematic review of the literature. Med Care Res Rev. 2013;70(4):351–79.
+ 25. Beleigoli AM, et al. Web ‑based digital health interventions for weight loss 
+and lifestyle habit changes in overweight and obese adults: systematic 
+review and meta‑analysis. J Med Internet Res. 2019;21(1):e298.
+ 26. Costello AG, et al. Shared care of childhood cancer survivors: a telemedi‑
+cine feasibility study. J Adolesc Young Adult Oncol. 2017;6(4):535–41.
+ 27. van Kalsbeek RJ, et al. The European multistakeholder PanCareFollowUp 
+project: novel, person‑ centred survivorship care to improve care quality, 
+effectiveness, cost ‑effectiveness and accessibility for cancer survivors and 
+caregivers. Eur J Cancer. 2021;153:74–85.
+ 28. Chan AW, et al. SPIRIT 2013 statement: defining standard protocol items 
+for clinical trials. Ann Intern Med. 2013;158(3):200–7.
+ 29. Hoffmann TC, et al. Better reporting of interventions: template for inter ‑
+vention description and replication (TIDieR) checklist and guide. Bmj. 
+2014;348:g1687.
+ 30. Gale J. HealthChange® methodology for patient ‑centred care and behav‑
+iour change support: Health Change Australia; 2014.
+ 31. World Health Organisation. Global recommendations on physical activity 
+for healthWHO, Editor; 2018. 32. Cleland CL, et al. Validity of the global physical activity questionnaire 
+(GPAQ) in assessing levels and change in moderate ‑vigorous physical 
+activity and sedentary behaviour. BMC Public Health. 2014;14:1255.
+ 33. National Health and Nutrition Examination Survey. 2013; Available from: 
+https:// wwwn. cdc. gov/ nchs/ nhanes/ 2011‑ 2012/ PAQ_G. htm.
+ 34. Craig P , et al. Developing and evaluating complex interventions: the new 
+Medical Research Council guidance. Int J Nurs Stud. 2013;50(5):587–92.
+ 35. Bouwman E, et al. Nurse ‑led video ‑coaching interventions in childhood, 
+adolescent and young adult cancer survivors (REVIVER): a protocol for 
+mixed methods feasibility research. Pilot Feasibility Stud. 2019;5:150.
+ 36. Michie S, et al. The behavior change technique taxonomy (v1) of 93 
+hierarchically clustered techniques: building an international consensus 
+for the reporting of behavior change interventions. Ann Behav Med. 
+2013;46(1):81–95.
+ 37. Carey RN, et al. Behavior change techniques and their mechanisms of 
+action: a synthesis of links described in published intervention literature. 
+Ann Behav Med. 2019;53(8):693–707.
+ 38. Prochaska JO, D.C. C.C. The transtheoretical approach. In: Norcross JC, 
+Goldfried MR, editors. Handbook of psychotherpay integration. Oxford: 
+Oxford University Press; 2005. p. 147–71.
+ 39. Bowen DJ, et al. How we design feasibility studies. Am J Prev Med. 
+2009;36(5):452–7.
+ 40. Wendel‑ Vos GC, et al. Reproducibility and relative validity of the short 
+questionnaire to assess health‑ enhancing physical activity. J Clin Epide ‑
+miol. 2003;56(12):1163–9.
+ 41. Schneider PL, Crouter S, Bassett DR. Pedometer measures of free ‑living 
+physical activity: comparison of 13 models. Med Sci Sports Exerc. 
+2004;36(2):331–5.
+ 42. van Vugt M. Project Verslag Eettesten: Campagne 1999 [project report 
+eating tests: campaign]. Den Haag: Voedingscentrum; 1999. Maart Report
+ 43. Van Vugt M, Knoppert J. Een krasfolder geeft inzicht in het voedingsge ‑
+drag [a scratch leaflet gives insight in eating behaviour]. Voeding nu. 
+1999;5:30–1.
+ 44. Horiuchi S, et al. Validity of the six stages of change for exercise. J Health 
+Psychol. 2013;18(4):518–27.
+ 45. Schwarzer R, Jerusalem M. Generalized self‑ efficacy scale. In: Weinman 
+J, Wright S, Johnston M, editors. Measures in health psychology: a user’s 
+portfolio. Causal and control beliefs. Windsor: NFER‑NELSON; 1995.
+ 46. Scholz U, et al. Is general self‑ efficacy a universal construct? Psychometric 
+findings from 25 countries. Eur J Psychol Assess. 2002;18(30):242–51.
+ 47. Luszczynska A, Scholz U, Schwarzer R. The general self‑ efficacy scale: 
+multicultural validation studies. Aust J Psychol. 2005;139(5):439–57.
+ 48. Eikelenboom N, et al. Implementation of personalized self‑management 
+support using the self‑management screening questionnaire SeMaS; a 
+study protocol for a cluster randomized trial. Trials. 2013;14:336.
+ 49. Eikelenboom N, et al. Validation of self‑management screening (SeMaS), 
+a tool to facilitate personalised counselling and support of patients with 
+chronic diseases. BMC Fam Pract. 2015;16:165.
+ 50. Billingham SA, Whitehead AL, Julious SA. An audit of sample sizes for pilot 
+and feasibility trials being undertaken in the United Kingdom registered 
+in the United Kingdom clinical research network database. BMC Med Res 
+Methodol. 2013;13:104.
+ 51. Thabane L, et al. A tutorial on pilot studies: the what, why and how. BMC 
+Med Res Methodol. 2010;10(1):1–10.
+ 52. Lancaster GA, Dodd S, Williamson PR. Design and analysis of pilot studies: 
+recommendations for good practice. J Eval Clin Pract. 2004;10(2):307–12.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub ‑
+lished maps and institutional affiliations.

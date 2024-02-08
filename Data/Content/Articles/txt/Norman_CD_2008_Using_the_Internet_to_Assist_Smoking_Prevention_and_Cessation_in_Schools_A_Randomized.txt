@@ -1,0 +1,473 @@
+Using the Internet to Assist Smoking Prevention and Cessation in Schools:
+A Randomized, Controlled Trial
+Cameron D. Norman, Oonagh Maley,
+and Xiaoqiang Li
+University of TorontoHarvey A. Skinner
+York University
+Objective: To evaluate the impact of a classroom-based, Web-assisted tobacco intervention addressing
+smoking prevention and cessation with adolescents. Design: A two-group randomized control trial with
+1,402 male and female students in grades 9 through 11 from 14 secondary schools in Toronto, Canada.Participants were randomly assigned to a tailored Web-assisted tobacco intervention or an interactive controlcondition task conducted during a single classroom session with e-mail follow-up. The cornerstone of theintervention was a five-stage interactive Web site called the Smoking Zine (http://www.smokingzine.org)
+integrated into a program that included a paper-based journal, a small group form of motivational interview-ing, and tailored e-mails. Main Outcome Measure: Resistance to smoking, behavioral intentions to smoke,
+and cigarette use were assessed at baseline, postintervention, and three- and six-month follow-up. Multilevellogistic growth modeling was used to assess the effect of the intervention on change over time. Results: The
+integrated Smoking Zine program helped smokers significantly reduce the likelihood of having high intentions to
+smoke and increased their likelihood of high resistance to continued cigarette use at 6 months. The intervention alsosignificantly reduced the likelihood of heavy cigarette use adoption by nonsmokers during the study period.Conclusion: TheSmoking Zine intervention provided cessation motivation for smokers most resistant to quitting at
+baseline and prevented nonsmoking adolescents from becoming heavy smokers at 6 months. By providing anaccessible and attractive method of engaging young people in smoking prevention and cessation, this interactive andintegrated program provides a novel vehicle for school- and population-level health promotion.
+Keywords: Internet, smoking prevention, smoking cessation, adolescents, school-based interventions
+The interactivity, appeal, and wide reach of the Internet enables
+the delivery of targeted, tailored, and responsive interventions to
+prevent illness and promote health in ways that were onceunimaginable. Technologies like the World Wide Web andwireless phones have wide reach, providing opportunities to
+engage diverse populations in health promotion and deliverboth general and focused interventions on demand. While at-
+tractive in theory, the evidence base illustrating the efficacy ofelectronic health (or eHealth) interventions in real-world set-tings remains thin. Challenges in developing Internet-enabledintervention trials are myriad, including the following: access(how to give all participants a similar experience), security andprivacy (how to limit the intervention to participants, protecttheir rights, and avoid contamination), sampling (how to recruitand retain participants), and follow-up (how to track partici-pants over time). Furthermore, it is important to find ways toexplore novel technologies using a theory and evidence basethat supports effective health behavior change interventions indifferent contexts.
+This article describes the evaluation of a Web-based program
+for smoking prevention and cessation conducted in schools. Ourstudy targeted cigarette smoking, the most preventable cause ofillness on a population level, with adolescents as our focus. Ado-lescents are large users of Internet technologies (Lenhart, Madden,& Hitlin, 2005) and consumers of online health information (Gray,Klein, Noyce, Sesselberg, & Cantrill, 2005) and thus, represent animportant population for understanding the impact of informationtechnology tools on health behavior and outcomes.
+Adolescence is a developmental stage characterized by gains in
+independence and opportunities to make life choices, such as thechoice to try cigarettes, a behavior that can quickly transform intoa lifelong habit or addiction (O’Laughlin et al., 2003, 2004). ToCameron D. Norman and Oonagh Maley, Dalla Lana School of Public
+Health, University of Toronto, Toronto, Canada; Xiaoqiang Li, BloombergFaculty of Nursing, University of Toronto, Toronto, Canada; Harvey A.Skinner, Faculty of Health, York University, Toronto, Canada.
+This study was supported by grants from the Canadian Institutes of
+Health Research, Ontario Ministry of Health and Long Term Care, and theOntario Tobacco Research Unit. These funding sources had no role in thedevelopment of the manuscript. This research was approved by the Uni-versity of Toronto Ethics Review Board under the protocol title: “Impact ofan Internet-based Intervention for smoking prevention & cessation,” Num-ber: 8276. We thank members of TeenNet Research and Toronto PublicHealth for assisting in the implementation of this study: Sherry Biscope,Shawn Chirrey, Jennifer Elliot, Lisa Ennis, Dave Haans, Sarah Flicker,Celeste Le Duigou, Veronique Michelli, Meg Morrison, Jennifer Reynolds,Mabel Soo, Bohdan Turok, and Toronto Public Health (Mary-AnnMcBean, Sarah Newham, Sue St. John, Voula Varsamidou). Also, wethank the students, teachers, and schools who participated in this largeproject. Dr. Eudice Goldberg and Jennifer Batenchuk served as advisors onthe project, and we thank two anonymous reviewers for their feedback onearlier versions of this article.
+Correspondence concerning this article should be addressed to Cameron
+D. Norman, Department of Public Health Sciences, Dalla Lana School ofPublic Health, University of Toronto, 155 College Street, Room 586,Toronto, ON, Canada M5T 3M7. E-mail: cameron.norman@utoronto.caHealth Psychology Copyright 2008 by the American Psychological Association
+2008, Vol. 27, No. 6, 799–810 0278-6133/08/$12.00 DOI: 10.1037/a0013105
+799
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+achieve success in smoking prevention, interventions must be
+accessible, efficacious, cost-effective, and transportable. The In-ternet is an ideal medium for this task. In both Canada and theUnited States, over 90% of adolescents have regular access to theInternet and many use it as a key source for health information(Gray et al., 2005; Hanson, Derry, Resnick, & Richardson, 2003).
+While Internet-enabled interventions have the potential to sup-
+port behavior change, only a small number of studies have exam-ined their impact on health outcomes (Griffiths, Lindenmeyer,Powell, Lowe, & Thorogood, 2006). Web-assisted tobacco inter-ventions (WATIs) are one of the few areas in which high qualityevidence exists. Feil, Noell, Lichtenstein, Boles, and McKay(2003) evaluated an online self-treatment cessation programamong adults that contributed to 18% of smokers quitting—ratescomparable with conventional face-to-face programs. Similar pos-itive results were observed in trials conducted on other stand-aloneWATI programs (Cobb, Graham, Bock, Papandonatos, & Abrams,2005; Lenert et al., 2003) and in randomized trials comparingmultiple WATI formats (Etter, 2005; Pike, Rabius, McAlister, &Geiger, 2007). However, these studies all focused on adults, andno comparable studies with young people have been published(Bader, Travis, & Skinner, 2007).
+Our goal was to develop an intervention that could be adapted
+for multiple contexts with teenagers—the critical developmentalperiod in which cigarettes are often first tried and the stage prior toyoung adulthood where cigarette rates are highest (over 25%,Health Canada, 2007). Over a decade of experience by YouthVoices Research (www.youthvoices.ca) working with adolescentshas taught us that Web-based programs for health promotion aremore engaging and likely to be adopted when combined with otherapproaches (Norman & Skinner, 2007; Skinner, 2002; Skinner,Biscope, & Poland, 2003a, Skinner, Biscope, Poland, & Goldberg,2003b; Skinner, Maley, & Norman, 2006; Skinner et al., 1997).
+Internet-enabled programs provide behavioral assessments andtailored feedback, while offline programs can aid in integratinginformation gleaned from these tools. An integrated approach isideal for schools, where classroom lessons increasingly incorpo-rate mixed media (Cowan et al., 2004). The decision to design aprogram that was delivered in schools addressed issues of thedigital divide, or the gap between those with and without access tonew technology, due to the fact that every Canadian high school isnetwork-enabled, and over 85% of students have daily access tothe Internet at home or school (Corbett & Willms, 2002). Thechallenge for eHealth is less about the digital divide represented byaccess to information technology and more about how these toolsaid learning and the literacies required to fully utilize them to theirpotential (Norman & Skinner, 2006; Underwood, 2007; Valdez &Duran, 2007).
+The Internet component of the intervention featured a five-stage
+Web site called the Smoking Zine (http://www.smokingzine.org),
+which combines interactive quizzes and self-assessments withtailored feedback aimed at fostering resistance to pressures tosmoke and promoting self-efficacy (see Table 1). For the schoolintervention, the Smoking Zine Web site is supplemented by paper-
+based journals in which students record their assessment scoresfrom the Web site and use them in a short, group-based form ofmotivational interviewing (Miller & Rollnick, 2002) in a singleclassroom session. The intervention is supplemented with tailorede-mails sent to participants for 6 months after the intervention toremind them of their scores and invite them to repeat the Smoking
+Zine program online as needed. Tailored e-mails have been used in
+other WATI trials (Etter, 2005; Etter, le Houezec, & Landfeldt,2003), producing encouraging results. This integrated interventionwas developed with students, teachers, and school board curricu-
+Table 1
+Smoking Zine Web Site and Related Behavior Change Processes
+Smoking Zine stage Process/concept
+1. Makin’ Cents. Participants input the number of cigarette packs they
+smoke (or would smoke if they started) in one month. The marketvalue of the cigarette packs is calculated into an annual total.Participants then spend this amount in a virtual shopping mall.This stage is designed to raise consciousness of the cost of cigarettes
+purchases relative to other consumer goods.
+2. It’s Your Life . Participants complete a short assessment that asks
+about their smoking behavior (frequency, amount smoked), whichenables the program’s tailoring based on whether someone is asmoker, non-smoker, or an experimental/social smokerThis stage is both an assessment of smoking status and provides
+personalized feedback on the level of relative risk based on theresults of the assessment, while increasing awareness of cigarette usebehavior.
+3. To Change or Not to Change . This quiz is tailored to the user’s
+smoking status (identified in Step 2) and allows them to assess theirreadiness to change (quit or reduce smoking). In addition, youthassess the importance and their confidence in being able to change.This stage assesses: (a) readiness (stage of change), (b) confidence (self-
+efficacy) and (c) importance (self-determination)
+4. It’s Your Decision . This section creates a decision balance that
+displays the pros and cons related to smoking and being smoke free.Upon completion users can see their thoughts about smoking andreasons to quit, reduce tobacco consumption or stay the same.This stage examines the pros and cons of being a non-smoker versus
+being a smoker (Decision Balance). This process may help advancethe user’s readiness for change.
+5. What Now? This section brings together the results from the previous
+stages in an easy to use and comprehensive format. For smokersready to quit, the Smoking Zine will guide them in creating a
+personalized quit program. If the participant is not ready to quit, thentheSmoking Zine will take them to the Personal Forecast quiz. The
+quiz looks at other areas of the person’s life that may relate to theirsmoking behavior such as close relationships and availability ofsocial support.Identification of readiness, barriers and assets are core components for a
+successful change plan. This stage helps develop a quit plan includinga specific date, method of cessation, support mechanisms, relapseprevention strategies and outcome rewards. (cognitive/behavioralchange plan)800 NORMAN, MALEY, LI, AND SKINNER
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+lum staff to meet Ontario provincial curriculum guidelines for both
+Health and Media Studies courses in grades 9, 10, and 11.
+Multiple models and theories of health behavior change in-
+formed the intervention’s design. Use of a multitheory approachhas been shown to offer a more complete account for shifts insmoking behavior in adolescents (Collins & Ellickson, 2004) andbetter reflects the challenge of changing complex behaviors (Fish-bein et al., 1992, 2001). The framework underlying this approachis called the Likelihood of Action Index (LAI) and is described indetail elsewhere (Skinner, 2002, chapter 7). The LAI posits that anindividual is more likely to change as the number of behaviorchange conditions increase. These conditions include: a high per-ceived risk and susceptibility to health consequences; identifica-tion of more benefits than drawbacks to change; the knowledgeand skills to change; and personal interest in change. It alsoincluded additional factors related to five key models of change:the Health Belief Model (Strecher & Rosenstock, 1997), Self-efficacy/Social–cognitive theory (Bandura, 1986, 1997), Self-determination theory (Deci, Eghrari, Patrick, & Leone, 1994; Deci& Ryan, 1985; Ryan & Deci, 2000), Transtheoretical Model andStages of Change (Prochaska, DiClemente, & Norcross, 1992),and Theory of Reasoned Action/Planned Behavior (Montan ˜o et al.,
+1997).
+The intervention was evaluated by using a randomized trial,
+testing the hypotheses that those who complete the intervention,relative to a control condition, would report at posttest and three-and six-month follow-up:
+(1) Increased resistance to smoking initiation/continuation
+(2) Decreased behavioral intentions to smoke, and
+(3)Lower cigarette use (30-day prevalence).
+It was expected that participants exposed to the Smoking Zine
+intervention would report higher levels of resistance to cigarettesand smoking behavior, reduced intentions to smoke in the future,and report an overall reduction in cigarette use over the course of6 months compared with those in the control condition. The aim ofthis study was to examine the short and midterm impact of anintegrated, classroom-based program centered around an Internetmodule on adolescent smoking behavior.
+Method
+Participants
+The study included 1,402 adolescents, with 211 (15%) assessed
+as smokers at baseline. Fifty-four percent ( N/H11005753) were boys,
+due to a higher proportion of all-boys classes recruited into thestudy. Eighty-one classes were sampled from fourteen secondaryschools in the Greater Toronto Area using a purposeful, stratified,and modified snowball sampling approach that included an initialstrategic selection of schools to balance differences in school
+size, neighborhood (location), and unique characteristics (e.g.,single-sex schools and special education programs) to reflectthe diversity of the community and population. Schools thatwere interested in the study referred us to other schools thatthey believed fit our criteria, and this follow-up was conducteduntil an adequate sample was achieved. Schools received amodest stipend for participation.Thirty-nine percent of students were in grade 9 ( N/H11005548), 30%
+in grade 10 ( N/H11005418), and 31% in grade 11 ( N/H11005436). Participant
+ethno-cultural background was assessed by using a question mod-ified from the Canadian census (Statistics Canada, 2006) thatcategorizes participants based on self-reported family heritage andgeographic regions rather than racial background. As expected, oursample participants presented with a wide range of cultural iden-tities with the highest number identifying as East Asian ( N/H11005220,
+16% of sample), Eastern European ( N/H11005218, 16%), or Central
+Asian ( N/H11005172, 12%). Two hundred thirty-five participants (17%)
+did not identify with any one cultural group. The distribution ofcultural groups in the smoker sample was significantly different ( t
+(13)/H110053.105, p/H11021.001) than the nonsmoker sample, with a higher
+proportion of smokers identifying with Eastern European or Med-iterranean cultures. Those from Central Asian or African culturalgroups were the least represented in the smoker sample.
+Design and Procedures
+A two-group repeated measures randomized control trial was
+conducted over six months (see Figure 1). Six months was themaximum amount of time permitted to conduct research overthe school year due to the restrictions in access to schoolsduring the start and end of the academic year. Participants were
+randomly assigned to each group by computer at the individuallevel with an algorithm using the PHP programming language.Smoking status was assessed at baseline by using a paper-basedsurvey administered prior to randomization and the interven-tion. Smokers were categorized as those who had consumedmore than two cigarettes in the past month and more than 100cigarettes in a lifetime (Mills, Stephens, & Wilkins, 1994). Theoverall smoking rate in our sample was consistent with otherpopulation-based studies of adolescent smoking in the sameregion (Health Canada, 2004; Ontario Tobacco Research Unit,2004).
+Materials
+Three key outcome variables were the focus of the analysis:
+(1)Resistance to smoking a composite theoretical construct that
+includes measures of self-efficacy, attitudes toward smok-ing, readiness to change, and others;
+(2)Behavioral intention to be smoke-free; and
+(3)Cigarette use .
+Outcomes were assessed by using the Likelihood of Action
+Scale for Smoking–Adolescents (LASS-A) developed for thisstudy based on Skinner’s (2002) Likelihood of Action frameworkdescribed earlier. Nonrational aspects of adolescent decision-making were incorporated into the framework by inclusion ofitems informed by the Behavioral Willingness theoretical constructproposed by Gibbons and colleagues (Gibbons et al., 1995, 1998a,1998b). A set of 26 items comprised the LASS-A based on thethree outcome variables. The Resistance to Smoking subscale wascomprised of 20 items. Item analysis produced an internal consis-tency reliability score of /H9251/H11005 .82, with test–retest reliability values
+ranging from r/H11005.86 to .87, while intraclass correlations for the801 USING THE INTERNET TO ASSIST SMOKING PREVENTION
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+four measurements was r/H11005.72, F(576)/H1100511.11, p/H11021.000.
+Principal components analysis produced a strong single-factorstructure accounting for 56% of the variance in the model withsubscale to scale correlations ranging from .63 to .86. The three-item Behavioral Intention scale had an internal consistency of /H9251/H11005
+.81, while test–retest reliability ( r/H11005.83 to .84) and the intraclasscorrelation coefficient on the four measures ( r/H11005.65) all indicated
+high levels of consistency within the scale. The three Cigarette Useitems had correlations (Pearson’s r) ranging from .66 to .80.
+Although the correlations among the items were high, the overallscale alpha was lower than the other two scales at /H9251/H11005 .69.
+Test–retest reliability regressions performed on the data from Time
+Figure 1. Participant allocation.802 NORMAN, MALEY, LI, AND SKINNER
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+1 to Time 3 and Time 3 to Time 4 responses produced rvalues of
+.73 and .78. The intraclass correlation coefficient on the cigaretteuse variable was .72.
+In accordance with the a priori hypothesized structure of the
+likelihood of action model, a path analysis was conducted todetermine the structural component of the model using MPlus(Muthe ´n & Muthe ´n, 2002). Structurally, it was hypothesized that
+the concept of resistance would act through behavioral intention toinfluence cigarette use behavior with some moderate direct influ-ence between resistance and cigarette use. The model was fitted tothe data as predicted. The fitted model and relationship betweenresistance, intention and cigarette use was consistent with ourhypothesis, /H9273
+2(80)/H11005300.50, p/H11021.000; see Figure 2 ). The
+measurement model had an excellent fit (comparative fit index[CFI]/H110050.95).
+Group Conditions
+Intervention group. The intervention had four components
+designed around a central Internet program: (1) the Smoking Zine
+Web site, (2) accompanying paper journal, (3) small-group moti-vational interview, and (4) tailored follow-up e-mails. This inter-vention was designed to be a holistic program and thus, theinfluence of individual components was not evaluated. The firstthree components were delivered in a single 60-min class session,with e-mails sent once per month after the initial class. Table 1summarizes the five interactive stages of the Smoking Zine Web
+site, which takes about 20 minutes to complete depending onadaptive branching. The Smoking Zine was originally developed in
+1996 and has been enhanced several times using the Spiral Tech-nology Action Research (STAR) process (Skinner et al., 2006),which incorporates participant feedback in iterative stages to elicitideas, make program refinements, and evaluate outcomes through-out a program’s life cycle.
+Participants logged into the Smoking Zine with a unique, as-
+signed username and password, which allowed us to track use ofthe Web site while providing a secure online environment re-stricted to registered users only. Participants recorded their Website assessment scores in a paper-based journal, which was subse-quently referred to during a 10-min small-group motivationalinterview after students completed the Web site. Groups were ledby graduate-level counselors or public health nurses who hadreceived two days of intensive training on the intervention protocoland motivational interviewing by the investigators (C.D.N. andH.A.S.).Tailored e-mails were sent monthly between the initial class-
+room session and the three- and six-month follow-ups using a plaintext e-mail sent by one of the investigators. Examples of the e-mailtexts are located in the publications section of the Youth VoicesWeb site (www.youthvoices.ca). Tailoring was based on a partic-ipant’s assessment results from the Smoking Zine including the
+following: participant’s readiness to change, confidence to change,and reported intention to change scores. The e-mails were designedto support ongoing change and encourage return visits to theSmoking Zine, but were not expected to have a strong influence on
+behavior. Investigators were only able to determine whether ane-mail was delivered, not opened. Fewer than 5% of e-mail ad-dresses were invalid.
+Control group. Participants evaluated the quality of Web sites
+by using a tool developed by the investigators as the control task.The aim was to create an activity that would prompt similar levelsof participant engagement without confounding the intervention.Participants reviewed three Web sites offering different perspec-tives on climate change. Like the Smoking Zine condition, partic-
+ipants used journals to record scores from the Web site task andalso participated in small-group discussions on this topic. Care wastaken to ensure that the external look and feel of the paper journalswas identical between conditions. Control group participants re-ceived monthly generic follow-up e-mails discussing strategies forevaluating online information.
+Implementation and Protocol Adherence
+No serious implementation issues occurred during the trial.
+Three classes at one school were denied an opportunity to partic-ipate because of a server malfunction on the intervention day;otherwise, all other scheduled sessions proceeded problem-free.To ensure protocol adherence, the investigators or an appointedteam leader monitored all aspects of the intervention implementa-tion during each class session. Discussion group leaders completeda quality checklist after each group outlining how many pointsthey covered in the 10-min discussions. Results indicate that nearlyall of the seventeen recommended discussion points were coveredin both smoker ( M/H1100515.48, SD/H110053.29) and nonsmoker groups
+(M/H1100516.01, SD/H110051.65). The only substantive problem resulted
+from the suspension of expired air carbon monoxide (CO) mea-surements during the six-month follow-up when Toronto experi-enced the Severe Acute Respiratory Syndrome (SARS) outbreak(Basrur, Yaffe, & Henry, 2004; Varia et al., 2003), due to per-ceived health and safety concerns for participants and research
+Figure 2. Likelihood of Action Scale for Smoking–Adolescents (LASS-A) measurement model.803 USING THE INTERNET TO ASSIST SMOKING PREVENTION
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+staff alike. CO measurement served as a bogus pipeline for self-
+report and thus, discontinuation was not seen as a significantproblem.
+Study contamination was reduced through the use of an as-
+signed, secure login to the Smoking Zine Web site for each par-
+ticipant. Participants could revisit the Web site at any time; how-ever, server logs indicated that only 24 participants logged on tothe Web site after the initial class session, with eight participantslogging in on multiple occasions. This was not unexpected becausestudents had little reason to revisit the site after the initial smokingmessage was received unless they felt their scores might changeover time. Thus, even if intervention participants did share user-names and passwords with classmates from the control condition,the overall impact was minimal.
+Data Collection and Management
+The influence of missing data was minimized through an asser-
+tive tracking approach involving multiple visits to schools afterscheduled data collection sessions, and working closely withteachers and school administrators who assisted the research teamby contacting students in class or sending reminders home. Inten-sive procedures were used to find students absent at follow-upthrough collaboration with participating school officials, whichresulted in high follow-up rates: 95% at postintervention, 89% atthree-month follow-up, and 87% at six-month follow-up. The use
+of multilevel logistic regression models provided alternative strat-egies to deal with missing data that are comparable to estimationprocedures, but rely on less data to effectively assess change overtime (Little & Rubin, 1987).
+The data formed a natural hierarchical structure with repeated
+measures on individuals, individuals as a part of classes, classesnested within grades, and grades within schools. Since other stud-ies have found a strong effect of school and classroom or teacher(Cameron et al., 1999) on tobacco control interventions, thesefactors were taken into consideration in choosing the analyticalstrategy. It was hypothesized a priori that smokers and nonsmokerswould have a different motivational structure with regard to cig-arette use and its antecedents (resistance and intention), whichwere expected to produce a different response pattern and inter-
+action with the intervention. Initial analysis of the data confirmssuch differences; the distributions between smokers and non-
+smokers were not alike. The cigarette use scores and behavioralintention scores were highly skewed to the low end for non-smokers but were spread more evenly across the entire rangewith more high scores among smokers. The resistance scoreswere skewed to the high end for nonsmokers while they weresymmetrical distributed for smokers. The novelty of the inter-vention necessitated a detailed analysis of sex and grade-levelTable 2
+Summary of Key Significant Findings
+Resistance Intention Cigarette use
+Nonsmokers at baseline Maintained or increased the likelihood
+of high resistance for up to three-month follow-up (not significant)Lower likelihood of high intentions to
+smoke at posttest (not significant)Decreased likelihood of heavy cigarette
+use adoption at all follow-upmeasurements
+Smokers at baseline Increased likelihood of high resistance
+to continued cigarette use at allfollow-upsLower likelihood of high intention to
+smoke at all follow-upsNo effect
+Table 3
+Resistance and Behavioral Intention Two-Level Logistic Growth Models (All Four Time Points)
+Resistance Intention
+Estimate ( SE) Odds ratio Estimate ( SE) Odds ratio
+Level 1 (time)
+Constant 4.888 (1.104)/H11569/H110024.572 (1.247)/H11569
+Time /H110020.119 (0.045)/H115690.887 0.264 (0.061)/H115691.302
+Level 2 (individual)
+Group (ref: control) /H110020.157 (0.193) 0.854 0.489 (0.290) 1.630
+Gender (ref: female) /H110020.223 (0.111)/H115690.800 /H110020.033 (0.128) 0.967
+Smoker (ref: nonsmoker) /H110023.340 (0.204)/H115690.035 3.579 (0.203)/H1156935.837
+Age /H110020.241 (0.079)/H115690.785 0.117 (0.089) 1.124
+Grade 10 (ref: grade 9) 0.470 (0.153)/H115691.599 0.330 (0.232) 1.390
+Grade 11 (ref: grade 9) 1.113 (0.236)/H115693.043 0.408 (0.386) 1.503
+Group /H11003Grade 10 /H110020.649 (0.301)/H115690.522
+Group /H11003Grade 11 /H110020.768 (0.309)/H115690.463
+Intra-class interaction
+Group /H11003Time 0.031 (0.065) 1.031 0.043 (0.079) 1.043
+Grade11 /H11003Time /H110020.205 (0.086)/H115690.814
+Group /H11003Smoker /H11003Time 0.198 (0.097)/H115691.2189 /H110020.202 (0.097)/H115690.817
+/H11569Significant at p/H11021.05.804 NORMAN, MALEY, LI, AND SKINNER
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+effects and interactions given that age and gender effects can
+influence both Internet use and clinical response to an inter-vention. Analyses by ethno-cultural identity were not possibledue to the small cell sizes of some populations and no reliablemeans of combining groups for further interpretation.
+Model building. The descriptive analysis showed that scores
+on all three dependent variables deviated considerably from anormal distribution. Although the outcome variables were mea-sured as continuous, the responses by the participants clearlyshowed distinct differences between the data distribution amongthose that smoked cigarettes and those that did not smoke atbaseline, creating a distinct skew in the data set that could not beamended by transformation. To address this, scores were dichot-omized at the midpoint for the behavioral score and the cigaretteuse score and at 0.8 for the resistance score to reflect high and lowstatus. The rationale for using 0.8 for resistance rather than 0.5reflected the skew of the data, for which 0.8 was a midpoint giventhe extent of the skew. Multilevel logistic regression models wereused to handle the data using an iterative generalized least squares(IGLS) procedure with MLwiN 2.02 (Rasbash et al., 2000), whichenabled parameter estimation with the proportion of varianceexplained at each level computed using formulas developed bySnijders and Bosker (1999). Using this approach, model develop-
+ment began with a null model, which allowed for the estimation ofthe proportion each level contributed to the total variation. The nullmodel demonstrated the relative (unconstrained) influence of eachpotential level of the data on the outcome of interest. The addi-tional levels corresponding to the influence at the individual, classand school were then developed from the null model to test theimpact of the Smoking Zine program on the composite variable
+resistance, intention to smoke and cigarette use. Since there wereonly three grades, grade was not treated as a separate level.Instead, grade was included in the model as two indicator variablesincluding grade 10 and grade 11 with grade 9 as the referencecategory.
+Results
+The initial modeling did not reveal a main effect attributed to the
+Smoking Zine program; however, multiple statistically significant
+cross-level interaction effects were detected. A test of the nullmodel with four levels of structure (school, class, individual, andtime) found no substantial influence of school and class on themodel. Because these levels accounted for very little of the vari-ance, they were dropped from further analyses. The absence of aneffect in the null model indicated that any variability betweenclasses or schools was attributable to differences between individ-uals rather than differences attributed to structural issues. Subse-quent analyses only focused on individuals as a source of thedifference attributed to the intervention.
+Among the various models tested, a two-level model with Time
+(level 1) and Individual (level 2) provided the most parsimoniousrepresentation of the data, in which Time was treated as a contin-uous variable in models to control the overall longitudinal trends.This process did not reveal an overall main effect attributed tocondition, but did detect specific cross-level interactions for smok-ers on resistance and behavioral intention and nonsmokers oncigarette use over the six-month period of the study. These inter-actions corresponded to specific tobacco use conditions, such asheavy smoking adoption (nonsmokers), or provided a boostereffect with those who were most motivated to quit smoking (smok-ers). A synopsis of the key findings is given in Table 2. The readeris directed to additional tables, including the raw data scores andvarious other multilevel models tested at www.youthvoices.ca inthe Publications section.
+00.20.40.60.81
+1234
+Timeresist>=0.8control
+zine
+Figure 3. The overall proportion of high resistance ( /H113500.8) to continued cigarette use among all smokers at
+baseline over the course of the study.Table 4
+Cigarette Use Two-Level Logistic Growth Model (Posttest,Three Months, and Six Months)
+Cigarette use
+Estimate ( SE)O R
+Level 1 (Time)
+Constant 0.198 (0.506)Time /H110020.177 (0.149) 0.837
+Level 2 (individual)
+Group (ref: control) /H110020.524 (0.621) 0.592
+Gender (ref: female) 0.349 (0.178) 1.417Nonsmoker (ref: smoker) /H110027.358 (0.679)
+/H115690.000
+Grade 10 (ref: grade9) 0.413 (0.205)/H115691.511
+Grade 11 (ref: grade9) 0.863 (0.300)/H115692.370
+Intraclass interaction
+Group /H11003Time 0.237 (0.203) 1.267
+Nonsmoker /H11003Time 1.298 (0.201)/H115693.661
+Group /H11003Nonsmoker /H11003Time /H110020.242 (0.111)/H115690.785
+Nonsmoker /H11003Grade 11 /H11003Time /H110020.345 (0.111)/H115690.708
+/H11569Significant at p/H11021.05.805 USING THE INTERNET TO ASSIST SMOKING PREVENTION
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+Nonsmokers (85% of study participants). The intervention
+was successful at reducing the existing low levels of cigarette useover the course of the study. It decreased the likelihood of heavycigarette use over the study period overall. No significant impactwas detected on behavioral intention and resistance.
+Smokers (15% of study participants). The intervention did not
+influence cigarette use but had a significant modifying effect onbehavioral intention, which had an increasing trend over the courseof six months, thus negatively influencing the likelihood of futurecigarette use. The intervention also had a significant modifyingeffect on resistance to further tobacco use over the study period.TheSmoking Zine had the greatest influence on those who reported
+a high level of intention to quit and resistance to smoking, whichwas most notable at three-month follow-up.
+The significant findings are discussed further below with respect
+to the three dependent variables. Table 3 presents the findings of
+the logistic growth models for resistance and behavioral inten-tion at each of the four measurement points, while Table 4presents the models for cigarette use at each of the threemeasurement points where Time 2 (immediate postintervention)is used as the baseline measure given that no measurement wastaken at Time 1 (preintervention).
+1. Resistance to cigarette use. Table 3 illustrates the model
+building process and the significant effects of gender, age, gradeand related interaction effects on both resistance and behavioralintention. Logistic growth modeling suggests that the interventionmaintained the level of resistance to smoking throughout the studyperiod among those who reported the highest baseline levels ofresistance, compared with those in the control group for whom theproportion of high resistance decreased between posttest and three-
+month follow-up ( p/H11021.05) (see Figure 3). Students in grade 10
+were the most influenced by the program (see Figure 4) relative toother grades indicating a potential effect of age on programresponse.
+2. Behavioral intention to smoke. The intervention was most
+effective at influencing the intention to continue smoking amongthose classified as smokers at baseline compared with those in thecontrol group for the duration of the study (see Figure 5). Notabledifferences in intention were evident at three-month follow-up,where there was a spike in the proportion of those with highintentions to smoke in the control condition and a continueddecline among those in the Smoking Zine program condition. This
+difference was tested to be statistically significant ( p/H11021.05) in the
+model (see Table 3). No significant effects were detected amongthose classified as nonsmokers at baseline on intention to smoke.
+3. Cigarette use. Multilevel analyses for cigarette use were
+based on posttest, three-month follow-up, and six-month follow-uponly due to the fact that no shift was possible between baseline andpostintervention. Among nonsmokers at baseline, some did initiateregular cigarette use over the course of the study. However, thosewho completed the intervention were less likely to adopt heavysmoking behavior than those in the control condition ( p/H11021.05),
+thus mediating the influence of current tobacco use (Table 4,Figure 6). Consistent with the findings on resistance and intention,students in grade 10 in the Smoking Zine condition were the most
+likely to respond to the intervention (see Figure 7).
+In summary, the integrated Smoking Zine program provided a
+protective factor by significantly reducing the likelihood of smok-
+00.20.40.60.81
+1234
+TimeIntent>=0.5control
+zine
+Figure 5. The overall proportion of those reporting high intentions to smoke ( /H113500.5) among smokers at baseline
+over the course of the study.00.20.40.60.81
+1234
+Timeresist>=0.8control
+zine
+Figure 4. The overall proportion of high resistance ( /H113500.8) to continued cigarette use among grade 10 students
+over the course of the study.806 NORMAN, MALEY, LI, AND SKINNER
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+ers having high intentions to smoke and increasing the likelihood
+of high resistance to continued cigarette use. The program had asignificant preventive effect for nonsmokers against heavy ciga-rette adoption throughout the study period.
+Discussion
+This study demonstrates that an intervention designed around a
+Web site supported by additional motivational components can beintegrated into schools to support smoking cessation and prevention
+in an engaging manner. Through the use of multiple learning chan-nels, the Smoking Zine was able to significantly reduce the likelihood
+that an adolescent would take up smoking over 6 months whencompared with similar students in the control condition, especiallywith regard to adoption of heavy smoking. For cigarette users atbaseline, the greatest benefit of the program was in sustaining moti-vation to resist further smoking and lowering intentions to smoke inthe future. An intervention that has wide reach and efficacy, appealsto teachers and students alike, and is easy to implement and adapt toindividual needs provides the greatest opportunity to influence pop-ulation health (Glasgow, Vogt, & Boles, 1999). The free, Web-basedformat allows the Smoking Zine to contribute to population-level
+chronic disease prevention, school health, and tobacco control strat-egies immediately at virtually no cost to schools or public healthofficials if used independently.
+This study adds to an emergent evidence base supporting the use
+of WATIs in advancing tobacco control (Japuntich et al., 2006;Mermelstein & Turner, 2006). By evaluating this intervention inToronto, one of the most ethnically diverse cities in the world(http://www.toronto.ca/toronto_facts/diversity.htm, accessed 05/
+04/08), the results suggested that this intervention approach couldbe used with different cultural groups, although more research is
+necessary to investigate this possibility. To further enhance theprogram, the investigators have created the Virtual Classroom onTobacco Control that integrates the Smoking Zine within an edu-
+cational framework designed to promote learning about tobaccobroadly (http://www.tiged.org/tobacco) as an option to the stand-alone Web site.
+While the findings from this study of an integrated eHealth
+intervention are promising, certain limitations should be noted.School-based trials typically randomize classes; we chose torandomize participants at the individual-level because of thepersonalized nature of the intervention. Doing so introduced thepossibility that students would share lessons learned with theirpeers, although randomization should control for this. Integrat-ing the intervention into regular classroom activities potentiallyreduced its novelty and the likelihood of extramural discussion.Treating the program as an integrated whole limits our under-standing of the contributions of the separate components of theprogram (Web site, booklet, discussion group, e-mail) on be-havior. Another area worthy of consideration is the fact thatfewer smokers completed the six-month trial compared withnonsmokers. A potential reason could be attributed to compli-cations arising from increased engagement in risk behaviorsamong the smokers. Data not presented in this manuscript foundthat smokers engaged in higher risk health activities than non-smokers (e.g., drug use) ( p/H11021.05), consistent with other studies
+00.050.10.150.2
+234
+Timeciguse>=0. 5
+control
+zine
+Figure 7. The overall proportion of heavy cigarette use adoption ( /H113500.5) among grade 10 students at baseline
+over the course of the study.00.050.10.150.2
+234
+Timeciguse>=0. 5
+control
+zine
+Figure 6. The overall proportion of heavy cigarette use adoption ( /H113500.5) among nonsmokers at baseline over
+the course of the study.807 USING THE INTERNET TO ASSIST SMOKING PREVENTION
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+that suggest smoking may be part of a constellation of risk
+behavior (Allison, 1999; Crockett & Petersen, 1993; U.S. Cen-ters for Disease Control and Prevention, 1999). These riskbehaviors may have contributed to an increased absenteeismrate at school, making follow-up more difficult.
+Additional research exploring the impact of the integrated
+Smoking Zine program on special populations, particularly with
+respect to smoker and nonsmoker differences, is required. Oneexplanation for the differences we found between the twogroups may be that the unique, nontraditional nature of thisintervention disrupts the motivational system in those youngpeople who may be most conditioned to seeing smoking pre-vention and cessation messages given that these “high-risk”youth are a target of much public health programming (Cam-eron et al., 1999). In providing a markedly different engage-ment strategy from other tobacco control programs, both interms of style (Internet and mixed methods) and substance(promoting autonomous decision making vs. delivering an an-tismoking message), it is possible that the intervention wasmore likely to resonate with those who may have becomedesensitized to messages from other media. This cognitive“disruption” may align an individual’s thinking with the largerset of social changes around tobacco use, strategies reflected inthe emerging work on complex adaptive systems and humanhealth (c.f., Glouberman, Enkin, Groff, Jadad, & Stern, 2006;Plsek & Greenhalgh, 2001), which include viewing addictivebehavior itself as a system (West, 2006). The strongest impactwith those in grade 10 may be attributed to the fact that this isthe grade and age range (13–15 years) in which students haveboth wide exposure to cigarette use and sufficient income topurchase cigarettes, increasing the likelihood of smoking initi-ation (Statistics Canada, 2000).
+Although it has been suggested that school-based prevention
+interventions are ineffective over the long-term (Glantz & Man-dell, 2005; Wiehe, Garrison, Christakis, Ebel, & Rivara, 2005), ourstudy suggests that a single-session intervention can influencebehavior for at least six months, equivalent to two-thirds of aregular school year. By demonstrating an effect at six months, thisresearch suggests that an integrated, technology-based interventionholds promise in delivering tobacco-related curriculum content forthe duration of the school year, while providing a mechanism forpreventing smoking in young people at the same time. The effectof the intervention was most noticeable at Time 3, when there wasan increase in intentions to smoke and a lowering of resistance.This may have been attributed to the time of the three-monthfollow-up, which was within three weeks of first semester finalexams; a time when stress is most likely elevated, which couldinfluence resistance and smoking-related intentions. Although theoverall effect size was small, the portability and low cost of theintervention makes for a higher likelihood of adoption (e.g., Rog-ers, 2003) and thus, a translation into a large population healtheffect.
+This study demonstrates the importance of engaging students in
+health promotion strategies that go beyond traditional classroominstruction and school clinics, to an approach that involves mediathat students already use for health information (e.g., the WorldWide Web) in a manner consistent with their values and interests(Skinner et al., 2006). It also provides evidence for the use of anintegrated approach to behavioral eHealth programming in generaland may encourage new ways of viewing how the Internet can aid
+tobacco control and health promotion programming more broadly.The integration of online and offline health behavior change tools,in formats that can be adapted to suit different contexts, moves usone step further toward creating a transportable, evidence-basedapproach to promoting population health; an approach that has thereach we desire and the cost savings we need to widely impactadolescent smoking adoption and cessation.
+References
+Allison, K. R. (1999). Predictors of health risk behaviours among young
+adults: Analysis of the National Population Health Survey. Canadian
+Journal of Public Health, 89, 85–89.
+Bader, P., Travis, H., & Skinner, H. A. (2007). Knowledge synthesis of
+smoking cessation among employed and unemployed young adults.American Journal of Public Health, 97, 1434–1443.
+Bandura, A. (1986). Social foundations of thought and action: A social
+cognitive theory. Englewood Cliffs, NJ: Prentice Hall.
+Bandura, A. (1997). Self-efficacy: The exercise of control. New York:
+Freeman.
+Basrur, S. V., Yaffe, B., & Henry, B. (2004). Sars: A local public health
+perspective. Canadian Journal of Public Health, 95, 22–24.
+Cameron, R., Brown, K. S., Best, J. A., Pelkman, C. L., Madill, C. L.,
+Manske, S. R., et al. (1999). Effectiveness of a social influences smokingprevention program as a function of provider type, training method andschool risk. American Journal of Public Health, 89, 1827–1831.
+Cobb, N. K., Graham, A. L., Bock, B. C., Papandonatos, G., & Abrams,
+D. B. (2005). Initial evaluation of a real-world Internet smoking cessa-tion system. Nicotine & Tobacco Research, 7, 207–216.
+Collins, R. L., & Ellickson, P. L. (2004). Integrating four theories of
+adolescent smoking. Substance Use & Misuse, 39, 179–209.
+Corbett, B. A., & Willms, J. D. (2002). Information and communication
+technology: Access and use. Education Quarterly Review, 8, 8–15.
+Cowan, C., Ennis-Cole, D., & Hudson, J. (2004). Successful technology
+integration: Critical themes and practical illustrations. Teacher Educa-
+tion and Practice, 17, 14–28.
+Crockett, L. J., & Petersen, A. C. (1993). Adolescent development: Health
+risks and opportunities for health promotion. In S. G. Millstein, A. C.Petersen, & E. O. Nightingale (Eds.), Promoting the health of adoles-
+cents: New directions for the twenty-first century (pp. 13–37). New
+York: Oxford University Press.
+Deci, E., Eghrari, H., Patrick, B. C., & Leone, D. R. (1994). Facilitating
+internalization: The self-determination theory perspective. Journal of
+Personality, 62, 119–142.
+Deci, E., & Ryan, R. (1985). The general causality orientation scale:
+Self-determination in personality. Journal of Research in Personality,
+19,109–134.
+Etter, J.-F. (2005). Comparing the efficacy of two internet-based,
+computer-tailored smoking cessation programs: A randomized trial.Journal of Medical Internet Research, 7, e2.
+Etter, J-F., le Houezec, J., & Landfeldt, B. (2003). Impact of messages on
+concomitant use of nicotine replacement therapy and cigarettes: Arandomized trial on the internet. Addiction, 98, 941–950.
+Feil, E. G., Noell, J., Lichtenstein, E., Boles, S. M., & McKay, H. G.
+(2003). Evaluation of an internet-based smoking cessation program:Lessons learned from a pilot study. Nicotine & Tobacco Research, 5,
+189–194.
+Fishbein, M., Bandura, A., Triandis, H. C., Kanfer, F. H., Becker, M. H.,
+& Middlestadt, S. E. (1992). Factors influencing behavior and behavior
+change: Final report—a theorist’s workshop. Rockville, MD: NIMH.
+Fishbein, M., Hennessy, M., Kamb, M., Bolan, G. A., Hoxworth, T.,
+Iatesta, M., et al. (2001). Using intervention theory to model factors808 NORMAN, MALEY, LI, AND SKINNER
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+influencing behavior change: Project respect. Evaluation and the Health
+Professions, 24, 363–384.
+Gibbons, F. X., & Gerrard, M. (1995). Predicting young adults’ health
+risk behavior. Journal of Personality and Social Psychology, 69,
+505–517.
+Gibbons, F. X., Gerrard, M., Blanton, H., & Russell, D. W. (1998).
+Reasoned action and social reaction: Willingness and intention as inde-pendent predictors of health risk. Journal of Personality and Social
+Psychology, 74, 1164–1180.
+Gibbons, F. X., Gerrard, M., Ouellette, J. A., & Burzette, R. (1998).
+Cognitive antecedents to adolescent health risk: Discriminating betweenbehavioral intention and behavioral willingness. Psychology and Health,
+13,319–339.
+Glantz, S. A., & Mandell, L. L. (2005). Since school-based tobacco
+prevention programs do not work, what should we do? Journal of
+Adolescent Health, 36.
+Glasgow, R. E., Vogt, T. M., & Boles, S. M. (1999). Evaluating the public
+health impact of health promotion interventions: The RE-AIM frame-work. American Journal of Public Health, 89, 1322–1327.
+Glouberman, S., Enkin, M., Groff, P., Jadad, A. R., & Stern, A. (2006).
+Entrenched health care practices and complex systems. Australian
+Health Review, 30, 7–11.
+Gray, N. J., Klein, J. D., Noyce, P. R., Sesselberg, T. S., & Cantrill, J. A.
+(2005). Health information-seeking behaviour in adolescence: The placeof the internet. Social Science & Medicine, 60, 1467–1478.
+Griffiths, F., Lindenmeyer, A., Powell, J., Lowe, P., & Thorogood, M.
+(2006). Why are health care interventions delivered over the Internet? Asystematic review of the published literature. Journal of Medical Inter-
+net Research, 8, e10.
+Hanson, D. L., Derry, H. A., Resnick, P. J., & Richardson, C. R. (2003).
+Adolescents searching for health information on the internet: An obser-vational study. Journal of Medical Internet Research, 17, e25.
+Health Canada. (2004). Canadian tobacco use monitoring survey (ctums):
+Summary of results 2003. Retrieved April 3, 2008, from http://www.gosmokefree.ca/CTUMS
+Health Canada. (2007). Canadian Tobacco Use Monitoring Survey (2006 ).
+Retrieved April 3, 2008, from http://www.gosmokefree.ca/CTUMS
+Japuntich, S. J., Zehner, M. E., Smith, S. S., Jorenby, D. E., Valdez, J. A.,
+Fiore, M. C., et al. (2006). Smoking cessation via the Internet: Arandomized clinical trial of an Internet intervention as adjuvant treat-ment in a smoking cessation intervention. Nicotine & Tobacco Research,
+8,S59–S68.
+Lenert, L., Munoz, R. F., Stoddard, J., Delucchi, K., Bansod, A., Skoczen,
+S., et al. (2003). Design and pilot evaluation of an Internet smokingcessation program. Journal of the American Medical Informatics Asso-
+ciation , 10, 16–20.
+Lenhart, A., Madden, M., & Hitlin, P. (2005). Teens and technology: Youth
+are leading the transition to a fully wired and mobile nation. Washing-
+ton, DC: Pew Internet & American Life Project.
+Little, R. J. A., & Rubin, D. B. (1987). Statistical analysis with missing
+data. New York: Wiley.
+Mermelstein, R., & Turner, L. (2006). Web-based support as an adjunct to
+group-based smoking cessation for adolescents. Nicotine & Tobacco
+Research, 8, S69–S76.
+Miller, W. R., & Rollnick, S. (2002). Motivational interviewing: Preparing
+people for change (2nd ed.). New York: Guilford Press.
+Mills, C., Stephens, T., & Wilkins, K. (1994). Summary report of the
+workshop on data for monitoring tobacco use. Chronic Diseases in
+Canada, 15, 105–110.
+Montan ˜o, D. E., Kasprzyk, D., & Taplin, S. h. (1997). The theory of
+reasoned action and the theory of planned behavior. In K. Glanz, F. M.Lewis & B. K. Rimer (Eds.), Health behavior and health education (pp.
+85–112). San Francisco, CA: Jossey-Bass.Muthe ´n, B. O., & Muthe ´n, L. K. (2002). Mplus (Version 2.14). Los
+Angeles: Muthe ´n & Muthe ´n.
+Norman, C. D., & Skinner, H. A. (2006). eHealth literacy: Essential skills
+for consumer health in a networked world. Journal of Medical Internet
+Research, 8, e9.
+Norman, C. D., & Skinner, H. A. (2007). Engaging youth in eHealth
+promotion: Lessons learned from a decade of TeenNet Research. Ado-
+lescent Medicine: State of the Art Reviews: E-Health, 18(2). Washing-
+ton, DC: American Academy of Pediatrics.
+Ontario Tobacco Research Unit. (2004). OTS progress and implications,
+2002 –3. Toronto, ON: Ontario Tobacco Research Unit.
+O’Laughlin, J., DiFranza, J., Tyndale, R. F., Meshefedjian, G., McMillan-
+Davey, E., Clarke, P. B., et al. (2003). Nicotine-dependence symptomsare associated with smoking frequency in adolescents. American Journal
+of Preventive Medicine, 25, 219–225.
+O’Laughlin, J., Paradis, G., Kim, W., DiFranza, J., Meshefedjian, G.,
+McMillan-Davey, E., et al. (2004). Genetically decreased CYP2A6 andthe risk of tobacco dependence: A prospective study of novice smokers.Tobacco Control, 13, 422–428.
+Pike, K. J., Rabius, V., McAlister, A. L., & Geiger, A. (2007). American
+Cancer Society’s QuitLink: Randomized trial of Internet assistance.Nicotine & Tobacco Research, 9, 415–420.
+Plsek, P. E., & Greenhalgh, T. (2001). Complexity science: The chal-
+lenge of complexity in health care. British Medical Journal, 323,
+625–628.
+Prochaska, J. O., DiClemente, C. C., & Norcross, J. C. (1992). In search of
+how people change: Applications to addictive behaviors. American
+Psychologist, 47, 1102–1114.
+Rasbash, J., Browne, W., Goldstein, H., Yang, M., Plewis, I., Healy, M., et
+al. (2000). MLwiN (Version 2.14) [statistical software]. London: Multi-
+level Models Project.
+Rogers, E. M. (2003). Diffusion of innovations (5th ed.). New York: Free
+Press.
+Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the
+facilitation of intrinsic motivation, social development, and well-being.American Psychologist, 55, 68–78.
+Skinner, H. A. (2002). Promoting health through organizational change.
+San Francisco: Benjamin Cummings.
+Skinner, H. A., Biscope, S., & Poland, B. (2003a). Quality of internet
+access: Barrier behind internet use statistics. Social Science & Medicine,
+57,875–880.
+Skinner, H. A., Biscope, S., Poland, B., & Goldberg, E. (2003b). How
+adolescents use technology for health information: Implications forpractitioners. Journal of Medical Internet Research, 5, e32.
+Skinner, H. A., Maley, O., & Norman, C. D. (2006). Developing internet-
+based ehealth promotion programs: The spiral technology action re-search (STAR) model. Health Promotion Practice, 7, 1–12.
+Skinner, H. A., Morrison, M., Bercovitz, K., Haans, D., Jennings, M. J.,
+Magdenko, L., et al. (1997). Using the internet to engage youth in healthpromotion. International Journal of Health Promotion & Education, IV,
+23–25.
+Snijders, T. A. B., & Bosker, R. J. (1999). Multilevel analysis: An intro-
+duction to basic and advanced multilevel modeling. London: Sage.
+Statistics Canada (2000). Canadian Community Health Survey. Ottawa,
+ON: Government of Canada.
+Statistics Canada (2006, April). Canada’s ethnocultural portrait: The changing
+mosaic. Retrieved October 10, 2007 from http://www12.statcan.ca/english/census01/products/analytic/companion/etoimm/canada.cfm
+Strecher, V. J., & Rosenstock, I. M. (1997). The health belief model. In K.
+Glanz, D. Lewis, & B. K. Rimer (Eds.), Health behavior and health
+education: Theory, research and practice (2nd ed., pp. 41–59). San
+Francisco: Jossey-Bass.809 USING THE INTERNET TO ASSIST SMOKING PREVENTION
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+Underwood, J. D. M. (2007). Rethinking the digital divide: Impacts on
+student-tutor relationships. European Journal of Education, 42,
+213–222.
+U.S. Centers for Disease Control and Prevention. (1999). Youth Risk
+Behavior Surveillance Survey. Atlanta, GA: Author.
+Valdez, J. R., & Duran, R. (2007). Redefining the digital divide: Beyond
+access to computers and the Internet. The High School Journal, 90, 31–44.
+Varia, M., Wilson, S., Sarwal, S., McGeer, A., Gournis, E., Galanis, E., etal. (2003). Investigation of a nosocomial outbreak of severe acute
+respiratory syndrome (SARS) in Toronto, Canada. Canadian Medical
+Association Journal, 169, 285–292.
+West, R. (2006). Theory of addiction. Oxford, United Kingdom: Blackwell
+Publishing & Addiction Press.
+Wiehe, S. E., Garrison, M. M., Christakis, D. A., Ebel, B. E., & Rivara, F. P.
+(2005). A systematic review of school-based smoking prevention trials withlong-term follow-up. Journal of Adolescent Health, 36, 162–169.
+  810 NORMAN, MALEY, LI, AND SKINNER
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.

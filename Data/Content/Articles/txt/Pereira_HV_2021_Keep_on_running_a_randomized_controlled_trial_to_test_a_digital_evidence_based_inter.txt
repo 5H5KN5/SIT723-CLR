@@ -1,0 +1,584 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rhpb20
+Health Psychology and Behavioral Medicine
+An Open Access Journal
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rhpb20
+Keep on running – a randomized controlled trial
+to test a digital evidence-based intervention
+for sustained adoption of recreational running:
+rationale, design and pilot feasibility study
+Hugo V. Pereira, Pedro J. Teixeira, Marta M. Marques, Eliana V. Carra ça,
+Marlene N. Silva, Jorge Encantado, In ês Santos & Ant ónio L. Palmeira
+To cite this article:  Hugo V. Pereira, Pedro J. Teixeira, Marta M. Marques, Eliana V. Carra ça,
+Marlene N. Silva, Jorge Encantado, In ês Santos & Ant ónio L. Palmeira (2021) Keep on
+running – a randomized controlled trial to test a digital evidence-based intervention for
+sustained adoption of recreational running: rationale, design and pilot feasibility study, Health
+Psychology and Behavioral Medicine, 9:1, 149-164, DOI: 10.1080/21642850.2021.1885410
+To link to this article:  https://doi.org/10.1080/21642850.2021.1885410
+© 2021 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 01 Mar 2021.
+Submit your article to this journal 
+ Article views: 2002
+View related articles 
+ View Crossmark data
+Citing articles: 1 View citing articles 
+
+Keep on running –a randomized controlled trial to test a
+digital evidence-based intervention for sustained adoption ofrecreational running: rationale, design and pilot feasibilitystudy
+Hugo V. Pereiraa,b, Pedro J. Teixeiraa, Marta M. Marquesc, Eliana V. Carraçab, Marlene
+N. Silvab, Jorge Encantadoa,d, Inês Santosb,eand António L. Palmeirab
+aCentro Interdisciplinar para o Estudo da Performance Humana (CIPER), Faculdade de Motricidade Humana,
+Universidade de Lisboa, Cruz Quebrada-Dafundo, Portugal;bCentro de Investigação em Desporto, Educação
+Física, Exercício e Saúde (CIDEFES), Universidade Lusófona, Lisboa, Portugal;cADAPT SFI Research Centre
+and Trinity Centre for Practice & Health Care Innovation, Trinity College Dublin, Dublin, Ireland;dISPA
+Instituto Universitário, APPsyCI –Applied Psychology Research Center Capabilities & Inclusion, Lisboa,
+Portugal;eLaboratório de Nutrição, Faculdade de Medicina, Universidade de Lisboa, Lisboa, Portugal
+ABSTRACT
+Background: This paper describes the rationale, intervention
+development, study design and results from the pilot feasibility
+study of the Keep On Running (KOR) trial. KOR aims to test a
+web-based brief theory-based intervention, targetingmaintenance of recreational running behavior over time (i.e.
+relapse preventing).
+Methods: Intervention development was based both on Self-
+Determination Theory and on Self-Regulation Theory. As part of
+it, a pilot study was implemented ( n=18) to measure intervention
+adherence and participant satisfaction in order to establish the
+feasibility and acceptability of the intervention toolkit.
+Furthermore, this pilot study was also used to test the feasibilityand acceptability of the questionnaires selected to be part of the
+later RCT.
+Results: Pilot intervention acceptability was good, but overall
+adherence was low. Features such as feedback and social sharing
+should be added to the toolkit. The main trial should lessenquestionnaire length and include data from usual monitoring
+gadgets and apps (APIs). The protocol of the RCT was adjusted to
+test the e ﬃcacy of the re ﬁnedﬁnal version of the intervention,
+and the RCT that will test it, contributing to the understanding of
+recreational running sustainability, allowing the optimization offuture interventions aimed at physical activity promotion.ARTICLE HISTORY
+Received 13 August 2020
+Accepted 13 January 2021
+KEYWORDS
+Sports and exercise;
+motivation; self-regulation;
+behavior; web-based
+© 2021 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/
+licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited.CONTACT Hugo V. Pereira hugopereira@fmh.ulisboa.pt Faculdade de Motricidade Humana, Centro Interdisci-
+plinar para o Estudo da Performance Humana (CIPER), Universidade de Lisboa, Estrada da Costa, Cruz Quebrada/ Dafundo
+1499-002, PortugalHEALTH PSYCHOLOGY AND BEHAVIORAL MEDICINE
+2021, VOL. 9, NO. 1, 149 –164
+https://doi.org/10.1080/21642850.2021.1885410
+Background
+While bene ﬁts of regular physical activity (PA) and exercise are well established (Kraus
+et al., 2019 ; Oja et al., 2015 ), insu ﬃcient PA and the prevalence of sedentary behavior
+remain as challenges in health promotion (Ding et al., 2016 ; Guthold, Stevens, Riley,
+& Bull, 2018 ). Although research suggests that behavior change interventions can
+increase PA over the course of an intervention, these e ﬀects are generally not persistent
+after the intervention ends (McEwan, Rhodes, & Beauchamp, 2020 ).
+Along with initial involvement, sustained adherence is a well-known challenge in
+exercise contexts, as many people struggle to keep up their behavior for longer than 6
+months (Kahlert, 2015 ; Marcus et al., 2000 ). Research on the characterization of
+people who are physically active (Cortis et al., 2017 ; Sawyer, Ucci, Jones, Smith, &
+Fisher, 2017 ) and manage to sustain their PA behavior (Amireault, Godinb, & Vézina-
+Imb, 2013 ) is extensive. While most of the research about behavior sustainability
+report how many discontinue practice, only few studies addressed the psychological
+mechanisms of behavior maintenance (Kwasnicka, Dombrowski, White, & Sniehotta,2016 ), such as the quality of their motivation, the emotions and gains they experience
+while exercising, or the regulatory resources they use to overcome exercise-related chal-
+lenges and barriers.
+Self-determination theory (SDT) (Deci & Ryan, 2000 ,2008 ) can provide a valid frame-
+work to study PA maintenance. The underlying premise of SDT is that sustained motiv-
+ation is elicited from within the person (not imposed by someone else) and thatsupporting clients ’basic needs for autonomy (need to feel a sense of choice, volition
+and self-endorsement), competence (need to feel a sense of mastery and capacity to
+accomplish the behavior), and relatedness (need to feel meaningfully connected toothers, valued and understood) will best promote the initiation and maintenance ofbehavior change, by fostering autonomous motivation and well-being. Conversely,
+when these three needs are thwarted, people will tend to develop controlled motivations,
+regulating their behavior based on external contingencies and internalized self-judg-ments (Vansteenkiste & Ryan, 2013 ).
+In addition, not all types of goals have the same consequences (Ryan, Sheldon, Kasser,
+& Deci, 1996 ). The outcomes that individuals are pursuing through the new behavior can
+have intrinsic or extrinsic qualities, which can also in ﬂuence behavior maintenance. Rela-
+tive to ‘extrinsic goals ’(e.g. wealth, social recognition, physical attractiveness), ‘intrinsic ’
+goals (e.g. health, personal growth, social connectedness) tend to be regulated by moreself-determined forms of behavioral regulation and are thought to result in improvedself-regulation and longer-term outcomes (Ingledew & Markland, 2009 ).
+In summary, SDT interventions have a signi ﬁcant e ﬀect on health behavior change
+(Sheeran et al., 2020 ). Additionally, SDT-informed interventions positively a ﬀect
+indices of health, partly due to increases in internalization, self-determined motivation
+and support from social agents, and were stronger at the end of interventions than at
+follow up (Ntoumanis et al., 2020 ). The e ﬀect sizes seen in PA interventions are mediated
+by our current theories (Rhodes, Boudreau, Josefsson, & Ivarsson, 2020 ). Taken together,
+recent evidence suggests that SDT (Deci & Ryan, 2000 ) can provide a valid framework to
+study PA maintenance. Furthermore, aligning motivational and post-motivational (i.e.self-regulatory) features represents a promising avenue for lasting behavior change150 H. V. PEREIRA ET AL.
+(Hagger & Chatzisarantis, 2014 ). In this regard, self-regultory skills such as self-monitor-
+ing, individualized goal setting or action planning, have been identi ﬁed as important
+mediators of the e ﬀect of interventions on long-term physical activity and as potentially
+core features of e ﬀective behavior change/maintenance interventions (Rhodes et al.,
+2020 ).
+Thousands of health-related applications (apps) are available world-wide for smart-
+phones and represent a unique opportunity to reach a broad audience of users. Themost popular apps are for exercise, diet, and weight management, and 500 million
+users use mobile health applications. Mobile health interventions have surged in popu-
+larity but their implementation varies widely, and evidence of e ﬀectiveness is mixed
+(Dugas, Gao, & Agarwal, 2020 ). When trying to understand design features through
+the SDT lens, only one-fourth of the sample provided users support for the three basic
+psychological needs of competence, autonomy and relatedness (Villalobos-Zúñiga,2020 ). It was found that prompts and cues, techniques of personalization, feedback
+and monitoring, goal setting and action planning were most commonly used in
+eﬀective mobile health interventions (Dugas et al., 2020 ).
+The case for recreational running
+Running is one of the most popular forms of leisure-time exercise (Andersen, 2020 ;
+Running-USA, 2020 ; Teixeira, Marques, Lopes, Sardinha, & Mota, 2019 ) in part
+because it is inexpensive and can be performed anywhere, almost at any time. In addition,it requires little technical skills, is relatively safe, and it is easy to learn. The health bene ﬁts
+of running are vast, including prevention of obesity, hypertension, dyslipidemia, type 2
+diabetes, osteoarthritis and hip replacement, benign prostatic hypertrophy, respiratorydisease, cancer, disability, reduction of cardiovascular, and all-cause mortality (Lavie
+et al., 2015 ; Lee et al., 2014 ; Pedisic et al., 2019 ).
+Running stimulates the interest of the research community, especially because of the
+long hours of training throughout the year and the large number of events runners par-
+ticipate in (Zach et al., 2017 ). This suggests that motivational aspects related with training
+for and completing a race may be unique (Zach et al., 2017 ). With this in mind, running
+clubs/groups may provide a novel testbed for understanding why people adopt rec-reational running and how motivational factors can support PA maintenance.
+To better promote running sustainability and its long-term health bene ﬁts, it is crucial
+to understand individuals ’running experiences and outcomes, as well as the factors that
+predispose them to engage in this activity. Studying the antecedents and outcomes of
+running motivation, as well as the e ﬃcacy of di ﬀerent types of interventions to
+promote running behavior will enhance the understanding of the phenomenon, possiblycreating new insights into the e ﬀective promotion of PA maintenance.
+To our knowledge, no previous study has been designed to test the e ﬃcacy of inter-
+ventions to promote sustained running behavior and identify the mechanisms behindit. Future interventions will aim to test if motivation and self-regulation mediators can
+be successfully modi ﬁed via a digital-based intervention. This will ultimately lead to sus-
+tained adherence to an activity that participants have chosen and appear to enjoy, vialarge-reach interventions, capitalizing on the widespread availability of running clubs/events and increased reliance of exercisers on remote technologies.HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 151
+This paper describes the rationale, intervention development, study design, and pilot
+study of the Keep On Running (KOR) trial. KOR aims to test a brief theory-based inter-
+vention, delivered through digital technology (web app), targeting maintenance of rec-reational running behavior over time (i.e. relapse prevention) after being voluntarilyinitiated in the previous 3 months. The pilot study was focused on intervention adher-
+ence and participant satisfaction in order to establish the feasibility and acceptability
+of the intervention toolkit. Furthermore, it was also used to test the feasibility and accept-ability of the questionnaires selected to be part of the later RCT.
+Study objectives and hypotheses
+The study ’s objective is to develop and present a new digital toolkit aiming at mainten-
+ance of recreational running behavior over time (i.e. relapse preventing), and evaluatewhether it can be delivered and accepted by participants. We hypothesize that the
+built intervention can be delivered and will be accepted by the participants, and tested
+by the RCT.
+Methods
+Study design
+KOR is a Randomized controlled trial (RCT). It was developed based on a logic model
+(Figure 1 ), adapting the motivational and self-regulation arm of the NoHoW study
+(Marques et al., 2020 ; Scott et al., 2019 ). The trial involved combinations of two con-
+ditions: (a) organized (i.e. Programa Nacional de Marcha e Corrida –PNMC) vs. free
+recreational runners (FRR), and (b) self-regulation and motivation (SRM) intervention
+vs. no intervention.
+As a result, it comprises four di ﬀerent groups ( Figure 2 ): (i) a group of runners
+enrolled in the running program and additionally receiving the theory-based
+Figure 1. KoR ’s Logic Model.152 H. V. PEREIRA ET AL.
+intervention (PNMC + SRM); (ii) a group of runners merely participating in the orga-
+nized running program (PNMC); (iii) a group of FRR receiving the theory-based inter-
+vention (FRR + SRM); and lastly, (iv) a group of FRR receiving only general informationon running (i.e. control group).
+This approach was taken because (a) comparing runners belonging to PNMC with
+FRR (i.e. control group) allows examining the e ﬀect of the PNMC on behavior mainten-
+ance; (b) comparing FRR enrolled in the SRM intervention with FRR allows testing theeﬀectiveness of a light-touch intervention on motivational and other psychological vari-
+ables, and on behavior maintenance; and (c) comparing runners belonging to PNMC and
+receiving the SRM intervention with FRR receiving the SRM intervention will allowsexamining whether the SRM intervention has an additional e ﬀect on the study outcomes.
+Trial duration is one year with assessments at 6 weeks, and 6 and 12 months postbaseline
+(Figure 3 ).
+Eligibility criteria
+Inclusion criteria : age between 18 and 65 years; running for no longer than 3 months; per-
+forming a minimum of 60 min of vigorous physical activity per week; being free from
+major orthopedic limitations (de ﬁned as those which would limit moderate to vigorous
+physical activity (MVPA)); and from clinical diagnosis with any condition that may
+interfere with performing MVPA; being free from untreated or major psychological
+Figure 2. Organization of participant groups.
+Figure 3. Participants ’timeline (CID –clinical investigation day).HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 153
+disorders (e.g. psychosis, clinical depression); and possessing or willing to acquire a
+smartphone or computer with internet access.
+Exclusion criteria : inability to provide written informed consent; inability to follow
+written material or telephone conversations in Portuguese that would preclude com-pletion of study questionnaires and use of the digital intervention (i.e. KOR toolkit,
+see below); intention of pregnancy in the next 12 months; planning to travel for more
+than 2 weeks in the next 12 months or to emigrate; su ﬀering any injury in the course
+of the study.
+Motivation and self-regulation intervention
+We developed a web-based intervention adapted from the motivational and self-regu-
+lation arm of the NoHoW tria (Marques et al., 2020 ; Scott et al., 2019 ). It consists of
+11 short sessions divided in 8 modules with motivational and self-regulation based exer-cises, quizzes, videos and animations aimed to elicit re ﬂection about motives, goals, bar-
+riers and strategies to foster running behavior sustainability. Beyond the long-term
+promotion of running behavior, by implementing theory-based and evidence-basedbehavior change techniques, this brief intervention aims at promoting participants ’
+intrinsic and well-internalized motivations for running and the use of self-regulation
+skills (e.g. goal setting) that facilitate behavior maintenance.
+The intervention includes:
+i Access to a web-based intervention comprising 11 distinct sessions of 5 –10 min each
+and 8 educational modules concerning motivation and self-regulation constructs,
+delivered through several technological implementations, including videos, anima-
+tions, quizzes and exercises, as well as images, text and audio ( Figure 4 ). Several mul-
+timedia tools, including a web-based HTML5 interactive map as a navigation tool forthe SRM sessions ( http://lea ﬂetjs.com/ ), the questionnaires platform to design
+Figure 4. Screenshots of the intervention toolkit.154 H. V. PEREIRA ET AL.
+interactive features, and whiteboard drawings to convey some of the more theoreti-
+cal constructs of the intervention ( http://www.videoscribe.co/ ), were used to develop
+these implementations, supported by the team ’s previous experience in similar
+interventions.
+ii Bi-weekly text messages (see Table 1 for an overview of weekly text messages to par-
+ticipants) are sent to prompt participants toward the sessions and each week speci ﬁc
+contents. Yet, participants are able to move faster or slower through the program toﬁt their needs and availability.
+The SRM intervention includes both motivation and self-regulation components. The
+intervention ’s theoretical logic model is adapted from the NoHoW project (Marques
+et al., 2020 ; Scott et al., 2019 ) and presented in Figure 1 . The self-regulation skills com-
+ponent will seek to empower users to identify goals and make action plans for when,where, and how the goals will be implemented, allowing them to formulate explicit
+implementation intentions. Coping plans for relapses will also be supported. The moti-
+vational component is therefore based on SDT and con ﬁgured to optimally support par-
+ticipants ’psychological needs for autonomy, competence, and relatedness, via speci ﬁc
+technological implementations (e.g. self-awareness exercises, videos and practice
+modules), and as a result improve autonomous regulation of physical activity behaviors.Participants will explore personal motives to run, skills, life goals, social connections, and
+other motivational elements. Messages, videos, animations, self-awareness question-
+naires, among other tools, will stimulate users ’sense of volition and ownership (vs. exter-
+nal pressure), con ﬁdence and competence (vs. unpreparedness and sense of failure), and
+positive social support (vs. isolation). It is anticipated that the use of these implemen-
+tations will increase autonomous self-regulation and intrinsic motivation, which areassociated with longer-term behavior change, and positive health outcomes.
+The SRM web-based toolkit will be accessible only to the groups receiving the SRM
+intervention. In addition, all the study participants will receive weekly email messages
+Table 1. Overview of weekly text messages to participants.
+Text reminder 1 Good afternoon runner, you have already registered on the website http://kor.fmh.ulisboa.pt/ . By now,
+you will have received an email to validate your account. Good races!
+Text reminder 2 Good morning Athlete, have you had the opportunity to explore the contents and activities of the KoR
+program? Good Sunday wishes.
+Text reminder 3 Good morning Athlete, how about a visit to the KoR program during today? This is the third of 11
+reminders. Good races
+Text reminder 4 Good morning Athlete, how is the exploitation of KoR content RUNNING? Good racesText reminder 5 Good afternoon Athlete, you can do the activities of the KoR program at your own pace. How ’s your
+run going? Good races
+Text reminder 6 Good afternoon Athlete, fortunately tomorrow is already cooling. We have now spent half of the KoR
+program. We hope you ’re enjoying it. Good runs (in the shade)
+Text reminder 7 Good afternoon, this is the 7th of 11 messages. At this point, you may have ﬁnished exploring the
+content or just be at the beginning. You can continue to enjoy content at your own pace. Good races
+Text reminder 8 Good morning, the heat returned and we are on the ﬁnal stretch of the KoR program. On vacation or at
+work we hope you are enjoying the program and your races. Good races
+Text reminder 9 Good afternoon athlete! It is now just a little bit to ﬁnish your trip in the KoR toolkit. I hope you ’re
+enjoying it. Good races
+Text reminder
+10Good morning athlete! Weekend it is here, and a nice time for a run. This is the penultimate sms of the
+KoR program. You have certainly had the opportunity to explore the contents of the toolkit andreﬂect on your run. Best wishes for a great weekend
+Text reminder
+11Good afternoon athlete! This will be the last message / reminder to access the KoR program. During
+this week, you will also be able to access the contents and register your race. Soon I will send you thelink to complete the completion questionnaire. Have a nice week and good racesHEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 155
+with general technical information about running. An individual telephone session will
+introduce runners to speci ﬁc elements of their unique intervention and how it will
+unfold.
+Recruitment and randomization
+Part of the runners will be recruited from the PNMC program, which consists in 2 –3
+supervised running group-sessions of 10 –20 runners per week, lasting 90 min each.
+Certiﬁed trainers lead these sessions, apply speci ﬁc methodologies for running and for
+walking sessions. Prior to their enrollment, trainers must complete a training course.
+The other set of runners (which run freely, on their own) will be recruited from the com-
+munity (recreational runners). To recruit this sample, we will use online advertisementand running events list servers, reach out for running clubs, and partnerships with bothstate and private organizations.
+We will use a rolling recruitment strategy: participants will join the study as soon as
+they are considered eligible to facilitate management of available human resources. Eachset of runners will be randomly assigned to the KoR intervention group or the control
+group general information group in a 1:1 ratio, strati ﬁed by group (PNMC and FRR).
+The method of randomized permuted blocks will be used, with random block lengths(4 or 6) (Broglio, 2018 ). Because participants will know which arm of the study they
+are in, blinding is not possible.
+Assessments
+Data on demographics (age, gender, date of birth, education, income, employment,
+marital status, weight, height, physical activity history, and personal characteristics)
+and potential psychological moderators (i.e. index of autonomous functioning) will be
+collected only at baseline.
+The primary outcome of this study is running behavior, which will be measured at
+baseline, intervention ’s end and 6-month follow-up by self-report (frequency and
+minutes of running per week). At 12 months, participants will be asked by telephonewhether they keep running (at least) at their initial level, or not.
+Secondary outcomes will include putative mediators and outcomes. Basic psychologic
+need satisfaction will be assessed via the Psychological Need Satisfaction in Exercise Scale
+(Wilson, Rogers, Rodgers, & Wild, 2006 ); Basic psychological need frustration will be
+assessed trough the Basic Psychological Need Frustration in Exercise Scale (Chen
+et al., 2015 ); Motives and gains via Exercise Motives and Gains Inventory (Ingledew,
+Markland, & Strömmer, 2014 ); Behavioral regulations will be assessed via the Behavioral
+Regulation in Exercise Questionnaire –3 (Cid et al., 2018 ); Self-determination trait will
+be assessed via the Index of Autonomy Functioning (Weinstein, Przybylski, & Ryan,
+2012 ); Self-regulation skills will be measured trough the Action planning, Coping plan-
+ning, and Action control scales (Sniehotta, Scholz, & Schwarzer, 2005a ; Sniehotta,
+Schwarzer, Scholz, & Schuz, 2005b ); Self-e ﬃcacy will be assessed via the Modi ﬁed Ban-
+dura ’s Exercise Self-E ﬃcacy Scale (Bandura, 1997 ); Automaticity will be measured
+trough the Self-Report Behavioural Automaticity Index (Gardner & Tang, 2014 ;
+Gardner, Abraham, Lally, & de Bruijn, 2012 ); and exercise identity via the Exercise156 H. V. PEREIRA ET AL.
+Identity Scale (Anderson & Cychosz, 1994 ). Regarding psychological outcomes, ﬂow will
+be measured through the Dispositional Flow Scale –2 in Exercise (Jackson & Eklund,
+2002 ); Vitality will be assessed through the Subjective Vitality Scale (Ryan & Frederick,
+1997 ); and passion through the Passion Scale (Cid et al., 2019 ).
+Data collection
+Participants will go through four assessment periods at baseline, 6 weeks (post-
+program), 6 months, and 12 months follow-up. The training and clari ﬁcation
+session will be completed by telephone to ensure participants are equipped with the
+skills to access the intervention contents. Before the ﬁrst, third and fourth assessment
+periods, eligibility will be checked against inclusion and exclusion criteria through atelephone screening/re-screening call, 1 week prior to each visit. Participant ’s timeline
+is shown in Figure 3 .
+Assessment 1 (baseline): Clari ﬁcation session about the study. If participants are
+still interested in enrolling in the study, eligibility will be checked, and they will beasked to ﬁll out an informed consent form. Randomization and allocation to one
+of the four arms of the trial will be performed. Data on demographics and potential
+psychological moderators will be collected. A battery of psychological and behavioralquestionnaires will be completed online using google forms (in one-week time) –
+running behavior (i.e. frequency and minutes per week), motivations, basic psycho-
+logical needs, motives and gains, self-regulation skills, passion, ﬂow, and vitality.
+This task is estimated to take approximately 1 h, but participants will be able todo breaks and return later to complete the psychometric evaluation during that
+week. Debrief on how to use the KOR web-based intervention content –the
+toolkit (approximately 1 h).
+Assessment s 2 and 3 (intervention ’s end and 6-month follow-up). Email reminder
+prior to this evaluation period will be sent. The same battery of psychological and behav-
+ioral questionnaires will be completed online using google forms (in one-week time) –
+running behavior (i.e. frequency and minutes per week), motivations, basic psychological
+needs, motives and gains, self-regulation skills, passion, ﬂow, and vitality –, and will take
+approximately 1 h.
+Assessment 4 (12-month follow-up). Running behavior maintenance will be assessed
+through a telephone call, asking participants whether they keep running at their initial
+level or higher, or not.
+Analytical strategy
+Statistical analysis will be performed using SPSS Statistics version 25.0 (SPSS Inc., an IBM
+Company, Chicago IL, USA). Descriptive statistics will be calculated (mean, standard
+deviation and range). Repeated measures with Bonferroni corrections for adjusted com-parisons will be used to examine di ﬀerences between each intervention group(PNMC or
+SRM) and controls (i.e. free recreational runners), at all assessment points, in the primary
+and secondary outcomes measured. Statistical signi ﬁcance will be set at p< 0.05.
+Mediation analysis, will test the psychological mechanisms underlying changes in
+running behavior from baseline to post program, 6 and 12 months. Multilevel modelingHEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 157
+will be used to determine the SRM intervention e ﬀect on these motivational variables,
+with intervention group (SRM vs. Control group) as the between-subject factor and
+change in self-regulation and competence for running at baseline, 6 –8 weeks, 6months
+and 12 months, serving as dependent variables. If necessary, multiple imputationmethods will be implemented to provide robust results for primary and main secondary
+outcomes.
+Power calculations and sample size estimation
+Two types of sample size calculations were made: (a) using the primary outcome –
+running minutes and (b) using secondary outcomes, in particular, changes on key psy-chosocial variables. Regarding our primary outcome, we have used vigorous physical
+activity for our calculations. A small e ﬀect size (Cohen ’sd= 0.23) is expected, a value pre-
+viously registered in studies with intrinsic motivation interventions (Ntoumanis et al.,2020 ; Sheeran et al., 2020 ). Considering a power of 0.8 with two-tailed analysis, we esti-
+mated that each intervention group should have 37 ( p= 0.05) or 55 participants ( p=
+0.01). Concerning our secondary outcomes, we are expecting e ﬀects sizes ranging
+from 0.23 to 0.73, based on previous reports (Ntoumanis et al., 2020 ; Sheeran et al.,
+2020 ). Thus, assuming an e ﬀect size of 0.50, 18 subjects/group will be required to
+detect signi ﬁcant di ﬀerences at p= 0.05 and 28 for p= 0.01. Given that the primary
+outcome is expected to have a smaller e ﬀect size, and expecting a dropout rate of 15%
+at follow-up, we estimate that approximately 55 subjects/group are needed at baseline
+(for p= 0.05). Thus, recruiting 220 participants will ensure high statistical power for
+our primary analyses, extending its power to the secondary analyses.
+Trial results will be published in peer-reviewed scienti ﬁc journals and in several inter-
+national and national scienti ﬁc conferences. The website will be our central media to
+promote the dissemination of the results to the general public. Other media will bereached through university partners and website.
+Pilot feasibility study
+This pilot study is focused on intervention adherence and participant satisfaction, in
+order to establish the feasibility and acceptability of the web-based intervention toolkit
+and questionnaires. Besides eligibility, baseline and post-program questionnaires, partici-
+pants were interviewed about their overall experience with questionnaire ﬁlling and
+toolkit (Smailes et al., 2016 ). Additionally, toolkit usage analytics were obtained. The
+pilot feasibility study was conducted in order to better inform the ﬁnal program and pro-
+cedures. This study, as well as implications for ﬁnal protocol are brie ﬂy described here.
+Pilot study participants
+Pilot participants were recruited among the running community through online adver-
+tisement. Study procedures were equivalent to those de ﬁned for the RCT, except that par-
+ticipants were not randomized, following the path of the study as if they were included inthe intervention group. Participants were informed about the results of this pilot by indi-vidual reports.158 H. V. PEREIRA ET AL.
+The pilot feasibility study was a 6-week non-controlled trial without the follow-up.
+Considering an expected e ﬀect size of 0.23, 55 subjects per arm should be required in
+the main trial to detect signi ﬁcant di ﬀerences at p= 0.05 (see sample size calculations
+for the main trial). Bearing in mind the rule of thumb for pilot sample size (Bell, White-head, & Julious, 2018 ), for an 80% powered main trial, with an expected medium e ﬀect
+size, the pilot should have between 10 and 15 subjects per arm.
+Results of the pilot feasibility study
+Due to recruitment problems, the eligibility criteria for participants with more than threemonths of running experience were more ﬂexible. All other recruitment procedures were
+equivalent to the RCT.
+Pilot participant characteristics
+The CONSORT diagram for the pilot is shown in Figure 5 . In total, 18 participants were
+enrolled and completed the baseline assessment. Of those, 3 dropped out during the
+intervention, allegedly due to time constraints and injuries; 15 participants ﬁnished
+the 6 week-intervention, 7 the post-program questionnaire, and 14 the overall study sat-isfaction questionnaire.
+Participants ( N= 18, 33% female), between 25 and 54 years-old (average 42.1 yrs.),
+were generally self-perceived as healthy (94%), highly educated (78%), and livedmostly in the Lisbon area (83%). Participants reported to run an average of 27 km and
+4.4 h per week. Running experience ranged from 1 month to 30 years (average 6.3
+yrs.). Most participants (88.9%) wore a running monitoring device to keep track oftheir running, social sharing and coaching, and 94.4% included other types of exercisein their training regime, such as warm-up and stretching, weight training or calisthenics,
+exercise classes or biking. A total of 61.1% used social media for motivation, education,
+interaction and coaching purposes.
+Pilot adherence and program usage
+From the 18 participants allocated to the intervention, 17 (94.4%) logged at least once,
+50% logged once, and 22.2% twice. Only 6 (33.3%) completed the ﬁrst session. Partici-
+pants ’session completion decreased at sessions two ( N= 5; 27.8%), ﬁve (N= 4; 22.2%),
+and only three participants (16.7%) completed sessions from eight to eleven. During
+the course of the program 12 participants (66.7%) logged at least one race (1 –15 races,
+average 5.2), and the average run lengthened 9.4 Km (4 –14 Km).
+Pilot program evaluation: participant satisfaction
+Overall, participants understood the purpose of the study, the concepts underlying the
+questionnaires and the toolkit, and felt supported by the research team. Most participants
+(83.3%) found the questionnaire too long. Participants generally found the toolkitwebsite to be attractive and user friendly, classifying their overall experience with the
+study as positive. Most of the interviewed participants already used a running monitoring
+app, so they found the program to be less intuitive, repetitive in some questions andmissing out important aspects such as ‘time of day, speed/ pace, and altimetry ’. Addition-
+ally, participants reported problems with platform adjustment that led to ‘informationHEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 159
+overlap when used on cellphone ’, the fact that ‘it didn ’t keep data inserted in previous
+sessions ’and ‘errors in google docs that forced them to restart the questionnaire ’.
+Three participants su ﬀered injuries during the intervention period (25%). Two had
+muscular running-related injuries in the lower limbs and one had a foot trauma injury
+while playing football.
+This pilot study had limitations that need to be considered, Due to recruitment con-
+straints, the ﬁnal sample included long time runners, which may di ﬀer from beginners,
+targeted by the RCT protocol. The low sample size and the absence of follow-up hindered
+further interpretation about the e ﬃcacy of the toolkit as it is.
+Ethics and dissemination
+The study protocol was approved by the Ethics Committee of the Faculty of Human Kin-
+etics, University of Lisbon (CEFMH 3/2018) and will be conducted in accordance with
+the declaration of Helsinki for human studies (World Medical Association, 2013 ). All
+participants will be informed about the possible risks of the investigation before givingtheir written informed consent to participate. Data from google forms (questionnaires),the intervention quizzes and toolkit analytics will be handled and stored in excel and
+Figure 5. CONSORT diagram.160 H. V. PEREIRA ET AL.
+SPSSﬁles in a secure faculty server for ten years. Data will then be destroyed. All personal
+data will be anonymised at source. There will be no names or other identi ﬁers in the
+manuscripts and qualitative descriptions whatsoever. Data will only be linked back tothe individual via a separately stored coding system. Interventions will be discontinuedif they are reported detrimental. Protocol deviations, violations and serious adverse
+events will be recorded by trial sta ﬀand monitored by the principal investigator (PJT)
+(MRC, 2017 ).
+Discussion
+This paper presents the rationale, development, study design, methods and pilot appli-
+cation of the KOR trial, aimed at testing the e ﬀect of the intervention on the maintenance
+of recreational running behavior over time, after being voluntarily initiated by commu-nity-dwelling adults in the previous 3 months. This ‘light-touch ’intervention is unique in
+that it approaches running behavior and its sustainability, delivered in a digital format,
+and based on strong theoretical foundations.
+We hypothesize that the sustainability o f running behaviors will be higher in the
+SRM groups compared to the control group . Change in running behavior (e.g. fre-
+quency and minutes of running per week) and secondary outcomes related to thequality of the running experience (e.g. passion, ﬂow, vitality) will be used as the depen-
+dent variables.
+Additionally, the results of the pilot feasi bility study, intended at testing interven-
+tion adherence, participant satisfaction, and questionnaire acceptance, were also pre-
+s e n t e d .O v e r a l l ,t h ep i l o ts t u d yi n d i c a t e dt hat the intervention has good acceptability,
+feedback was very positive, but toolkit interaction decreased after the ﬁrst weeks,
+which is common in web-based interventions (Baumel & Yom-Tov, 2018 ). Moreover,
+the generalized use of other running-related devices, applications and communities
+may have overlapped with the anticipated cont ent of the toolkit, challenging partici-
+pants ’interaction. The completion ratio of th e post-program questionnaire was low,
+maybe due to its extension and burden, but also because its timeline ended near the
+summer break.
+The main trial should reduce questionnaire length and burden, and include interface
+with usual monitoring gadgets and apps (APIs), to increase data detail and prevent
+‘unnecessary ’data insertion by the participants. Features such as feedback and social
+sharing, added to the goal setting features already integrated in the toolkit, may alsoincrease attractiveness (Hosseinpour & Terlutter, 2019 ).
+Conclusion
+This paper describes the rationale, the process of developing, study design, methods, and
+the pilot study of the KOR intervention. Valuable lessons are taken from the pilot feasi-bility study and adjustments will be made in the intervention and in its delivery, in order
+to improve adherence and overall experience. Results from the RCT will test the e ﬃcacy
+of this approach, contribute to the understanding of recreational running sustainability,and can be used in the development and optimization of future interventions aimed atphysical activity promotion.HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 161
+Disclosure statement
+No potential con ﬂict of interest was reported by the author(s).
+Funding
+This work was supported by Fundação para a Ciência e a Tecnologia [grant number UIDB/00447/
+2020]; Universidade de Lisboa [grant Number PhD. grant attributed to Hugo V Pereira].
+References
+Amireault, S., Godinb, G., & Vézina-Imb, L. ( 2013 ). Determinants of physical activity mainten-
+ance: A systematic review and meta-analyses. Health Psychology Review ,7(1), 55 –91.
+Andersen, J. J. ( 2020 ).The State of Running 2019 [Press release]. Retrieved from https://runrepeat.
+com/state-of-running
+Anderson, D. F., & Cychosz, C. M. ( 1994 ). Development of an exercise identity scale. Perceptual
+and Motor Skills ,78(3 Pt 1), 747 –751.
+Bandura, A. ( 1997 ).Self-eﬃcacy: The exercise of control . New York: W.H. Freeman and Company.
+Baumel, A., & Yom-Tov, E. ( 2018 ). Predicting user adherence to behavioral eHealth interventions
+in the real world: Examining which aspects of intervention design matter most. Translational
+Behavioral Medicine ,8(5), 793 –798.
+Bell, M. L., Whitehead, A. L., & Julious, S. A. ( 2018 ). Guidance for using pilot studies to inform
+the design of intervention trials with continuous outcomes. Clinical Epidemiology ,10, 153 –
+157.
+Broglio, K. ( 2018 ). Randomization in clinical trials: Permuted blocks and strati ﬁcation. Jama ,319
+(21), 2223 –2224.
+Chen, B., Vansteenkiste, M., Beyers, W., Boone, L., Deci, E. L., Kaap-Deeder, J., …Verstuyf, J.
+(2015 ). Basic psychological need satisfaction, need frustration, and need strength across four
+cultures. Motivation and Emotion ,39, 216 –236.
+Cid, L., Monteiro, D., Teixeira, D., Teques, P., Alves, S., Moutao, J., …Palmeira, A. ( 2018 ). The
+behavioral regulation in exercise questionnaire (BREQ-3) Portuguese-version: Evidence ofreliability, validity and invariance across gender. Frontiers in Psychology ,9, 1940.
+Cid, L., Vitorino, A., Bento, T., Teixeira, D. S., Rodrigues, F., & Monteiro, D. ( 2019 ). The passion
+Scale-Portuguese version: Reliability, validity, and invariance of gender and Sport. Perceptual
+and Motor Skills ,126(4), 694 –712.
+Cortis, C., Puggina, A., Pesce, C., Aleksovska, K., Buck, C., Burns, C.,
+…Boccia, S. ( 2017 ).
+Psychological determinants of physical activity across the life course: A “DEterminants of
+DIet and physical ACtivity ”(DEDIPAC) umbrella systematic literature review. PLoS One ,12
+(8), e0182709.
+Deci, E. L., & Ryan, R. M. ( 2000 ). The “what ”and “why”of goal pursuits: Human needs and the
+self-determination of behavior. Psychological Inquiry ,11, 227 –268.
+Deci, E. L., & Ryan, R. M. ( 2008 ). Self-determination theory: A Macrotheory of human motivation,
+development, and health. Canadian Psychology/Psychologie Canadienne ,49(3), 182 –185.
+Ding, D., Lawson, K. D., Kolbe-Alexander, T. L., Finkelstein, E. A., Katzmarzyk, P. T., van
+Mechelen, W., & Pratt, M. ( 2016 ). The economic burden of physical inactivity: A global analysis
+of major non-communicable diseases. The Lancet ,388(10051), 1311 –1324.
+Dugas, M., Gao, G. G., & Agarwal, R. ( 2020 ). Unpacking mHealth interventions: A systematic
+review of behavior change techniques used in randomized controlled trials assessingmHealth e ﬀectiveness. Digital Health ,6,1–16.
+Gardner, B., Abraham, C., Lally, P., & de Bruijn, G. J. ( 2012 ). Towards parsimony in habit
+measurement: Testing the convergent and predictive validity of an automaticity subscale ofthe self-report Habit Index. International Journal of Behavioral Nutrition and Physical
+Activity ,9, 102.162 H. V. PEREIRA ET AL.
+Gardner, B., & Tang, V. ( 2014 ). Reﬂecting on non-re ﬂective action: An exploratory think-aloud
+study of self-report habit measures. British Journal of Health Psychology ,19(2), 258 –273.
+Guthold, R., Stevens, G. A., Riley, L. M., & Bull, F. C. ( 2018 ). Worldwide trends in insu ﬃcient
+physical activity from 2001 to 2016: A pooled analysis of 358 population-based surveys with
+1.9 million participants. The Lancet Global Health ,6(10), e1077 –e1086.
+Hagger, M. S., & Chatzisarantis, N. L. ( 2014 ). An integrated behavior change model for physical
+activity. Exercise and Sport Sciences Reviews ,42(2), 62 –69.
+Hosseinpour, M., & Terlutter, R. ( 2019 ). Your personal motivator is with you: A systematic review
+of mobile phone applications aiming at increasing physical activity. Sports Medicine ,49(9),
+1425 –1447.
+Ingledew, D., & Markland, D. ( 2009 ). Three levels of exercise motivation. Applied Psychology
+Health Well Being ,1(3), 336 –355.
+Ingledew, D. K., Markland, D., & Strömmer, S. S. ( 2014 ). Elucidating the roles of motives and gains
+in exercise participation. Sport. Exercise & Performance Psychology ,3, 116 –131.
+Jackson, S., & Eklund, R. ( 2002 ). Assessing ﬂow in physical activity: The ﬂow state Scale –2 and
+dispositional ﬂow Scale –2.Journal of Sport and Exercise Psychology ,24, 133 –150.
+Kahlert, D. ( 2015 ). Maintenance of physical activity: Do we know what we are talking about?
+Preventive Medicine Reports ,2, 178 –180.
+Kraus, W. E., Powell, K. E., Haskell, W. L., Janz, K. F., Campbell, W. W., Jakicic, J. M., …Piercy, K.
+L. (2019 ). Physical activity, All-cause and cardiovascular mortality, and cardiovascular disease.
+Medicine and Science in Sports and Exercise ,51, 1270 –1281.
+Kwasnicka, D., Dombrowski, S. U., White, M., & Sniehotta, F. ( 2016 ). Theoretical explanations for
+maintenance of behaviour change: A systematic review of behaviour theories. Health Psychology
+Review ,10(3), 277 –296.
+Lavie, C. J., Lee, D. C., Sui, X., Arena, R., O ’Keefe, J. H., Church, T. S., …Blair, S. N. ( 2015 ). Eﬀects
+of running on chronic diseases and cardiovascular and all-cause mortality. Mayo Clinic
+Proceedings ,90(11), 1541 –1552.
+Lee, D. C., Pate, R. R., Lavie, C. J., Sui, X., Church, T. S., & Blair, S. N. ( 2014 ). Leisure-time running
+reduces all-cause and cardiovascular mortality risk. Journal of the American College of
+Cardiology ,64(5), 472 –481.
+Marcus, B. H., Dubbert, P. M., Forsyth, L. H., McKenzie, T. L., Stone, E. J., Dunn, A. L., & Blair, S.
+N. (2000 ). Physical activity behavior change: Issues in adoption and maintenance. Health
+Psychology ,19(1 Suppl), 32 –41.
+Marques, M. M., Matos, M., Mattila, E., Encantado, J., Duarte, C., Teixeira, P., …Palmeira, A. L.
+(2020 ). Development of a theory and evidence-based digital intervention tool for weight loss
+maintenance: the NoHoW toolkit. JMIR Preprints, 27/10/2020:25305. https://doi.org/10.2196/
+preprints.25305
+McEwan, D., Rhodes, R. E., & Beauchamp, M. R. ( 2020 ). What happens when the party is over?:
+Sustaining physical activity behaviors after intervention cessation. Behavioral Medicine ,1–9.
+MRC. ( 2017 ).Medical Research Council guidelines for management of global health trials –invol-
+ving clinical or public health interventions . Retrieved from https://mrc.ukri.org/documents/pdf/
+Ntoumanis, N., Ng, J. Y. Y., Prestwich, A., Quested, E., Hancox, J. E., Thogersen-Ntoumani, C., …
+Williams, G. C. ( 2020 ). A meta-analysis of self-determination theory-informed intervention
+studies in the health domain: E ﬀects on motivation, health behavior, physical, and psychological
+health. Health Psychology Review ,1–31.
+Oja, P., Titze, S., Kokko, S., Kujala, U. M., Heinonen, A., Kelly, P., …Foster, C. ( 2015 ). Health
+beneﬁts of di ﬀerent sport disciplines for adults: Systematic review of observational and inter-
+vention studies with meta-analysis. British Journal of Sports Medicine ,49(7), 434 –440.
+Pedisic, Z., Shrestha, N., Kovalchik, S., Stamatakis, E., Liangruenrom, N., Grgic, J., …Oja, P.
+(2019 ). Is running associated with a lower risk of all-cause, cardiovascular and cancer mortality,
+and is the more the better? A systematic review and meta-analysis. British Journal of Sports
+Medicine ,54, 898 –905.HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 163
+Rhodes, R. E., Boudreau, P., Josefsson, K. W., & Ivarsson, A. ( 2020 ). Mediators of physical activity
+behaviour change interventions among adults: A systematic review and meta-analysis. Health
+Psychology Review ,1–15.
+Running-USA. ( 2020 ).2020 U.S. running trends . Retrieved from https://runningusa.org/RUSA/
+News/2020/-Running-USA-Releases-Latest-U.S.-Running-Trends-Report.aspx
+Ryan, R. M., & Frederick, C. ( 1997 ). On energy, personality, and health: Subjective vitality as a
+dynamic re ﬂection of well-being. Journal of Personality ,65(3), 529 –565.
+Ryan, R. M., Sheldon, K., Kasser, T., & Deci, E. L. ( 1996 ). All goals are not created equal: An orga-
+nismic perspective on the nature of goals and their regulation. In P. M. Gollwitzer & J. A. Bargh(Eds.), The psychology of action: Linking cognition and motivation to behavior (pp. 7 –26). The
+Guilford Press.
+Sawyer, A., Ucci, M., Jones, R., Smith, L., & Fisher, A. ( 2017 ). Simultaneous evaluation of physical
+and social environmental correlates of physical activity in adults: A systematic review. SSM -
+Population Health ,3, 506 –515.
+Scott, S. E., Duarte, C., Encantado, J., Evans, E. H., Harjumaa, M., Heitmann, B. L., …Stubbs, R. J.
+(2019 ). The NoHoW protocol: A multicentre 2×2 factorial randomised controlled trial investi-
+gating an evidence-based digital toolkit for weight loss maintenance in European adults. BMJ
+Open ,9(9), e029425.
+Sheeran, P., Wright, C. E., Avishai, A., Villegas, M. E., Lindemans, J. W., Klein, W. M. P., …
+Ntoumanis, N. ( 2020 ). Self-determination theory interventions for health behavior change:
+Meta-analysis and meta-analytic structural equation modeling of randomized controlledtrials. Journal of Consulting and Clinical Psychology ,88(8), 726 –737.
+Smailes, P., Reider, C., Hallarn, R. K., Hafer, L., Wallace, L., & Miser, W. F. ( 2016 ). Implementation
+of a research participant satisfaction Survey at an Academic Medical Center. Clin Res (Alex) ,30
+(3), 42 –47.
+Sniehotta, F. F., Scholz, U., & Schwarzer, R. ( 2005a ). Bridging the intention –behaviour gap:
+Planning, self-e ﬃcacy, and action control in the adoption and maintenance of physical exercise.
+Psychology and Health ,20, 143 –160.
+Sniehotta, F. F., Schwarzer, R., Scholz, U., & Schuz, B. ( 2005b ). Action planning and coping plan-
+ning for long-term lifestyle change: Theory and assessment. European Journal of Social
+Psychology
+,35, 565 –576.
+Teixeira, P. J., Marques, A., Lopes, C., Sardinha, L. B., & Mota, J. A. ( 2019 ). Prevalence and pre-
+ferences of self-reported physical activity and nonsedentary behaviors in Portuguese adults.Journal of Physical Activity and Health ,16(4), 251 –258.
+Vansteenkiste, M., & Ryan, R. ( 2013 ). On psychological growth and vulnerability: Basic psycho-
+logical need satisfaction and need frustration as a unifying principle. Journal of
+Psychotherapy Integration ,23(3), 263 –280.
+Villalobos-Zúñiga, G. C. M. ( 2020 ). Apps that motivate: A Taxonomy of App features based on
+self-determination theory. International Journal of Human-Computer Studies ,140(2020),
+102449.
+Weinstein, N., Przybylski, A. K., & Ryan, E. M. ( 2012 ). The index of autonomous functioning:
+Development of a scale of human autonomy. Journal of Research in Personality ,46, 397 –413.
+Wilson, P. M., Rogers, W. T., Rodgers, W. M., & Wild, T. C. ( 2006 ). The psychological need sat-
+isfaction in exercise scale. Journal of Sport and Exercise Psychology ,28, 231 –251.
+World Medical Association. ( 2013 ). World Medical Association Declaration of Helsinki: Ethical
+principles for medical research involving human subjects. Jama ,310(20), 2191 –2194.
+Zach, S., Xia, Y., Zeev, A., Arnon, M., Choresh, N., & Tenenbaum, G. ( 2017 ). Motivation dimen-
+sions for running a marathon: A new model emerging from the motivation of Marathon Scale(MOMS). Journal of Sport and Health Science ,6(3), 302 –310.164 H. V. PEREIRA ET AL.

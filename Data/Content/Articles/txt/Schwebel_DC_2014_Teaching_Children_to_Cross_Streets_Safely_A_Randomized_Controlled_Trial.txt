@@ -1,0 +1,792 @@
+Teaching Children to Cross Streets Safely: A Randomized
+Controlled Trial
+David C. Schwebel1, Leslie A. McClure2, and Joan Severson3
+1Department of Psychology, University of Alabama at Birmingham
+2Department of Biostatistics, University of Alabama at Birmingham
+3Digital Artefacts, LLC, Iowa City, IA
+Abstract
+Objective— Child pedestrian injury is a global public health challenge. This randomized
+controlled trial considered comparative efficacy of individualized streetside training, training in a
+virtual pedestrian environment, training using videos and websites, plus no-training control, to
+improve children’s street-crossing ability.
+Methods— Pedestrian safety was evaluated among 231 seven- and eight-year-olds using both
+streetside (field) and laboratory-based (virtual environment) trials prior to intervention group
+assignment, immediately post-training, and six months post-training. All training groups received
+six 30-minute sessions. Four outcomes assessed pedestrian safety: start delay (temporal lag before
+initiating crossing), hits/close calls (collisions/near-misses with vehicles in simulated crossings),
+attention to traffic (looks left and right, controlled for time), and missed opportunities (safe
+crossing opportunities that were missed).
+Results— Results showed training in the virtual pedestrian environment and especially
+individualized streetside training resulted in safer pedestrian behavior post-intervention and at
+follow-up. As examples, children trained streetside entered safe traffic gaps more quickly post-
+training than control group children and children trained streetside or in the virtual environment
+had somewhat fewer hits/close calls in post-intervention VR trials. Children showed minimal
+change in attention to traffic post-training. Children trained with videos/websites showed minimal
+learning.
+Conclusion— Both individualized streetside training and training within virtual pedestrian
+environments may improve 7- and 8-year-olds’ street-crossing safety. Individualized training has
+limitations of adult time and labor. Virtual environment training has limitations of accessibility
+and cost. Given the public health burden of child pedestrian injuries, future research should
+explore innovative strategies for effective training that can be broadly disseminated.
+Keywords
+pedestrian; street-crossing; injury; safety; randomized controlled trial
+Corresponding Author: David C. Schwebel, Department of Psychology, University of Alabama at Birmingham, 1300 University Blvd,
+CH 415, Birmingham AL 35294 USA, Phone: (205) 934-8745, Fax: (205) 975-6110, schwebel@uab.edu.
+NIH Public Access
+Author Manuscript
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+Published in final edited form as:
+Health Psychol . 2014 July ; 33(7): 628–638. doi:10.1037/hea0000032.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Child pedestrian injury is a global public health challenge. In the United States, 459 children
+died from pedestrian injuries in 2010 and another 215,188 were treated in emergency
+departments following pedestrian injuries (National Center for Injury Prevention and
+Control [NCIPC], 2013). Global data are less precise, but alarming. Estimates exceed 30,000
+child pedestrians killed annually worldwide (Toroyan & Peden, 2007).
+Among the target age group for this research, children ages 7 and 8, there were 37
+pedestrian injury deaths and 3,792 pedestrian injuries treated in emergency departments in
+2010 (NCIPC, 2013). Several studies document that young children regularly negotiate
+street environments alone, especially when going to and from school (Macpherson, Roberts,
+& Pless, 1998; Martin, Lee, & Lowry, 2007; McDonald, Brown, Marchett, & Pedroso,
+2011). In middle childhood (ages 5–9), about 60% of pedestrian injuries and mortalities
+occur when the child is crossing a road at or between intersections (Agran, Winn, &
+Anderson, 1994; DiMaggio & Durkin, 2002; Lightstone, Dhillon, Peek-Asa, & Kraus, 2001)
+– with mid-block crossings particularly dangerous near schools (Warsh, Rothman, Slater,
+Steverango, & Howard, 2009) – and typically within a half-mile of the child’s home
+(Lightstone et al., 2001) or school (Warsh et al., 2009).
+A wide range of behavioral and environmental factors contribute to child injury risk.
+Prominent among them is children’s development. Engaging in street environments safely is
+a complex intrapsychic task that requires accurate perception of the street environment and
+the vehicles traveling in it, efficient cognitive processing of that environment to make a
+decision about the safety of continuously appearing and changing traffic gaps, and initiation
+and maintenance of motoric movement to traverse the street. Because children are actively
+learning and developing the perceptual, cognitive, and motoric skills to be safe pedestrians
+during middle childhood (e.g., Barton, 2006; Schieber & Thompson, 1996; Whitebread &
+Neilson, 2000), they have higher risk of pedestrian injuries.
+A range of programs have been developed and tested to teach children the skills needed for
+safe pedestrian behavior (see Duperrex, Bunn, & Roberts, 2002; Schwebel, Davis, &
+O’Neal, 2012 for reviews). Available interventions have varying efficacy, but the existing
+literature consistently demonstrates that most children have the developmental capacity to
+learn safe pedestrian behavior with appropriate practice and training by age 7 or 8, and
+perhaps earlier. Studies of individualized or small-group training by a skilled adult
+pedestrian at streetside locations, for example, yield improved pedestrian behavior that is
+retained over time (Barton, Schwebel, & Morrongiello, 2007; Demetre et al., 1993;
+Rothengatter, 1984; van Schagen, 1988). Early studies of training in non-immersive virtual
+pedestrian environments indicate promise that training in virtual environments may also be
+effective at improving pedestrian behavior (Bart, Katz, Weiss, & Josman, 2008; McComas,
+MacKay, & Pivik, 2002; Thomson et al., 2005). Studies investigating other training tools,
+including classroom-style education (Berry & Romo, 2006; Cross et al., 2000; Hotz et al.,
+2004, 2009; Stevenson, Iredell, Howat, Cross, & Hall, 1999), videos (Preusser & Lund ,
+1988; Zeedyk & Wallace, 2003), and computer software (Glang, Noell, Ary, & Schwarz,
+2005; Tolmie et al., 2005), offer mixed results, with many reporting increased knowledge
+about children exposed to the training but several reporting poor transfer to safer behavior
+patterns.Schwebel et al. Page 2
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+What remains untested in large randomized trials is which interventions might teach
+children necessary components of safe pedestrian behavior most effectively, and whether
+different interventions may be more effective at teaching different components of pedestrian
+safety. Identification of pedestrian training programs that are efficacious could play a
+significant role in intervention dissemination to reduce child pedestrian injury rates
+nationally and globally.
+The present study considered three strategies of pedestrian safety training in a randomized
+controlled trial with seven- and eight-year-old children. Participating children were
+randomly assigned to one of four conditions. One group of children received training using
+widely available video and internet programs on pedestrian safety. These programs represent
+the most commonly used strategy for child pedestrian safety training in the United States,
+and have been demonstrated previously to have good efficacy to transfer knowledge to
+children but limited efficacy to create behavior change (Glang et al., 2005; Preusser & Lund,
+1988; Tolmie et al., 2005; Zeedyk & Wallace, 2003). A second group of children received
+individualized training at streetside locations with an adult researcher. Individualized
+streetside training has been shown in initial trials to be an effective strategy to train children
+in safe pedestrian behavior (Barton et al., 2007; Demetre et al., 1993; van Schagen, 1988;
+Yeaton & Bailey, 1983). A third group of children received individualized training in a
+semi-immersive, interactive virtual pedestrian environment. Training was tailored to the
+child’s ability and consisted of repeated crossings in the virtual environment with feedback
+concerning safety of those crossings. Early work with non-immersive virtual environments
+suggests children might learn pedestrian safety via such strategies (Bart et al., 2008;
+McComas et al., 2002; Thomson et al., 2005), but largescale randomized trials have not yet
+been published. The fourth and final group of children was randomly assigned to be in a
+control group and received no pedestrian safety training as part of the research program. Our
+focus was on mid-block crossing on two-lane bi-directional roads, without traffic signals.
+All participating children completed both field and laboratory-based assessments of
+pedestrian behavior prior to the intervention, immediately following the intervention, and six
+months after the intervention was completed. Based on the existing literature, we
+hypothesized that children trained at streetside locations and those trained in the VR would
+show superior improvement in pedestrian safety skills compared to those trained using
+videos and internet programs or the control group. We expected this result to be true both for
+broad pedestrian skills (hits/close calls in simulated crossings) as well as for specific key
+components of pedestrian safety (attention to traffic, delay entering safe traffic gaps) and for
+crossing efficiency (crossing when safe opportunities arise).
+Methods
+Participants
+Two hundred and forty 7- and 8-year-old children were recruited from community sources
+in the Birmingham, Alabama area, and 231 were randomly assigned to condition (see Figure
+1 for CONSORT flowchart of participation). Nine children were dropped during baseline
+visits, prior to randomization, for one of three reasons: discovered to be ineligible based onSchwebel et al. Page 3
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+age after consenting and enrollment (n=3), unable to understand and follow the study
+protocol (n=3), or failure to complete the baseline assessment (n=3).
+The randomized sample of 231 children was 43% male and had an average age of 8.0 years
+(SD = 0.7). It was racially diverse, with 52% of parents identifying their children as White,
+42% as African American, and 7% as other races/ethnicities, or as bi-racial or multi-racial.
+All participants’ parents provided written informed consent, and children provided informed
+assent. The study was approved by the Institutional Review Board at the University of
+Alabama at Birmingham.
+The Virtual Reality Pedestrian Environment
+The virtual reality (VR) pedestrian environment used in this study, including hardware and
+software specifications, is detailed elsewhere (Schwebel, Gaines, & Severson, 2008).
+Briefly, the simulated environment replicates an actual crosswalk near a local school. The
+crosswalk is mid-block and crosses a two-lane bi-directional road. Children are semi-
+immersed atop a wooden curb with three monitors in front of them. They view traffic
+moving bi-directionally and are instructed to step down when they deem it safe to cross.
+Upon stepping, children trigger the system to initiate a race- and gender-matched avatar to
+cross the simulated street, such that the environment switches from first person to third
+person and allows children to learn whether their crossing was safe or not. The avatar walks
+at the child’s typical walking speed (as assessed previously in a different room across five
+trials).
+The virtual environment includes ambient and traffic noise and has been validated in a trial
+demonstrating behavior in the virtual world matched behavior in the actual street
+environment, both among children and adults (Schwebel et al., 2008). A short video
+demonstrating the virtual environment is available at http://www.uab.edu/psychology/psy-
+fac/33-primary-faculty/66-dr-david-c-schwebel
+General Protocol
+Following consent processes, children completed 12 (if randomly assigned to an
+intervention group) or 6 (if randomly assigned to the control group) sessions: a pre-
+intervention laboratory session, a pre-intervention field session, 6 training sessions (omitted
+for control group), a post-test laboratory session, a post-test field session, a 6-month follow-
+up laboratory session, and a 6-month follow-up field session. During the pre-test sessions,
+baseline measures of pedestrian safety were collected in both virtual and real (field)
+environments (details below). Following pre-test assessment, children were randomly
+assigned to one of four groups: the virtual reality training group, the video/computer training
+group, the streetside training group, or the no-contact control group. Training in all three
+intervention groups was comprised of six sessions, scheduled bi-weekly over 3 weeks. Soon
+after intervention sessions were completed, post-training pedestrian safety measures were
+collected during two visits, one in the laboratory and one in the field. Finally, two follow-up
+sessions assessed pedestrian behavior in the laboratory and field six months after completion
+of the intervention. Protocols for each session appear below.Schwebel et al. Page 4
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Pre-Training Assessment
+Two sessions, one in the laboratory and the other in the field, assessed pre-training baseline
+measures of children’s pedestrian abilities. The laboratory visit was comprised of 30
+crossings within the virtual reality environment, 10 at each of three “difficulty” levels: 25
+MPH traffic and light volume (8 vehicles/minute); 30 MPH traffic and moderate volume (12
+vehicles/minute); 35 MPH traffic and heavy volume (16 vehicles/minute), in a randomized
+order. Prior to virtual reality assessment trials, children completed 8 practice trials and
+received standardized instructions to cross when they perceived the virtual street
+environment to be safe.
+The second pre-training session occurred in the field in front of a crosswalk on a two-lane
+bi-directional road, but not the same location as that in the VR simulation. Children
+completed 8 crossings using the “shout” technique, whereby they stood immediately
+adjacent to the road and shouted “now” when they deemed it safe to cross (Demetre et al.,
+1992). Children also completed 8 crossings using the “two-step” technique, whereby they
+stood two steps off the curb, and took two steps toward the road to indicate when they
+deemed it safe to cross (Demetre et al., 1992). Measures of pedestrian behavior derived from
+the streetside and virtual road simulations appear below under the header, “Pedestrian
+Measures”.
+Virtual Reality Training
+Children in the virtual reality training group received six sessions of training in the VR
+environment, each comprised of three segments of 15 virtual crossings (45 total crossings
+per session). Each crossing was accompanied by computer-generated feedback concerning
+safety; this feedback was delivered by a child-friendly cartoon character who cautioned
+greater safety in the case of a hit or close call, and who provided positive verbal feedback in
+the case of a safe crossing. Difficulty of crossing, defined by both traffic density and speed
+of traffic, was tailored to children’s abilities, with the goal that children succeed on about
+85% of trials and traffic became increasingly difficult as success rates improved.
+Video/Internet Training
+Children in the video/computer training group were exposed to six sessions with some of the
+most widely-used pedestrian training tools in the United States. The tools were chosen based
+on their broad use (e.g., recommended by state Departments of Transportation), broad
+accessibility (accessible to broad population), and relevance (focused primarily on child
+pedestrian safety). Each session lasted about 30 minutes. Materials presented, by trial, were:
+Training Trial 1: WalkSmart computer software (Oregon Center for Applied Research)
+Training Trial 2: I’m no Fool video (Disney) and Willie the Whistle video (National
+Safety Council/National Highway Traffic Safety Association, US Department of
+Transportation)
+Training Trial 3: Safer Journey website (Federal Highway Association, US Department
+of Transportation)Schwebel et al. Page 5
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Training Trial 4: Step to Safety with Asimo video (National Safety Council/Honda
+Motor Company) and Otto the Auto School Bus Safety video (AAA Foundation for
+Traffic Safety)
+Training Trial 5: Otto the Auto computer software (California State Automobile
+Association, American Automobile Association)
+Training Trial 6: Otto the Auto videos on Pedestrian Safety and Being Seen in Traffic
+(AAA Foundation for Traffic Safety)
+Streetside Training
+Children in the streetside behavioral training group were exposed to six sessions of
+individualized streetside training from trained research assistants. During all sessions, the
+child and adult stood adjacent to each other and to the street. The training program was
+grounded in behavioral theory (e.g., modeling, reinforcing, chaining) and developed from
+strategies used by Rothengatter (1984), Young and Lee (1987), and Barton and colleagues
+(Barton et al., 2007). A semi-structured and flexible approach educated children based on
+each child’s strengths, limitations, and abilities (as judged by the trainer during training
+sessions), with two primary foci: attending to traffic in both directions and selecting safe
+traffic gaps. Streetside locations were selected at marked crosswalks that became
+increasingly more challenging (heavier traffic) across the six sessions; all were two-lane bi-
+directional roads with mid-block unsignaled crosswalks.
+Post-Training and Follow-up Assessments
+The post-training and follow-up assessments paralleled the pre-training assessment. At both
+time points, two sessions were conducted, the first in the laboratory (30 crossings in the
+virtual environment, 10 each at different difficulty levels) and the second in the field (16
+crossings, 8 each using the shout and two-step techniques). The post-training assessments
+began approximately a week after the last training session for children in intervention groups
+(M=6.8 days, SD = 6.2), and approximately five weeks after the pre-intervention assessment
+ended for children in the control group (M=36.2 days, SD = 12.4). Thus, the same amount of
+time (about 5 weeks) passed between pre-training and post-training across all groups,
+including the control group, allowing for control of any developmental effects of time
+passage. The follow-up assessment occurred approximately six months following
+completion of the post-intervention assessment (M=182.5 days, SD = 11.9).
+Pedestrian Measures
+Pedestrian safety outcomes were collected in two locations, the VR and the field. Each
+offered pros and cons. The VR offered a controlled traffic scenario whereby we could
+standardize speed and volume of traffic across participants; remove potential bias from
+weather, time of day, and other environmental characteristics; and obtain precise computer-
+driven measurement of behavior. The field assessment offered a more realistic and
+ecologically valid measure of behavior with real-world traffic (and the emotions that go
+along with it). Four outcome measures of pedestrian safety were considered: hits/close calls,
+attention to traffic, start delay, and missed opportunities (See Table 1).Schwebel et al. Page 6
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Hits/close calls were included as a gross outcome measure of pedestrian safety, a count of
+crossings that are highly risky – the child would either have been hit by a vehicle had it been
+an actual rather than a simulated crossing, or would have been within 1 second of being hit
+by a vehicle. The virtual environment records hits and close calls automatically, with close
+calls tallied any time the child was within one second of collision with an oncoming vehicle.
+Children crossed the virtual street 30 times, so results are expressed as a count of hits/close
+calls out of 30 trials in the VR. Hits/close calls were assessed in the field by videotape
+review. A hit/close call was recorded when the time between the child’s initiation into the
+crosswalk plus their average walking speed (assessed during the pre-intervention laboratory
+trial) over the crosswalk distance in the field was less than one second shorter than the time
+until the next vehicle entered the crosswalk. Inter-rater reliability for the timing was
+established and adequate ( r > .95 between independent coders measuring time, masked to
+condition, on 20% of sample). Children completed 16 trials in the field, and results are
+expressed as a count out of 16 trials.
+Attention to traffic and start delay were included as two critical components of pedestrian
+safety. Attention to traffic was measured by looks to the left plus looks to the right while
+waiting to cross the street, divided by waiting time in minutes, and offers an indication of
+the pedestrian’s attention to the traffic environment. Each head turn in either direction was
+counted as one turn, such that a look to the left, the right, and the left again would be
+counted as 3 turns. A single look to the left was counted as one turn. Head-tracking
+equipment monitored children’s visual attention to traffic from the left and right in the
+virtual world. Field trial data was coded from videotape. Coders counted head-turns to the
+left and to the right, and also timed waiting time. Interrater reliability was again adequate ( r
+> .95 between independent coders measuring times and counts, masked to condition, on
+20% of sample).
+Start delay, defined as the temporal lag (in seconds) before initiation of crossing into a
+traffic gap, is considered an indicator of children’s efficiency of cognitive processing in
+pedestrian situations (Barton, 2006; Plumert, Kearney, & Cremer, 2004). Adult cognition
+while crossing streets is highly honed, and many adults actually anticipate a safe crossing by
+entering the near lane of traffic before a vehicle passes the far lane. Young children rarely do
+this. Instead, inexperienced child pedestrians apparently do not begin to process the safety of
+a traffic gap until that gap appears, causing a significant (e.g., 500-2000 milliseconds)
+temporal delay before children enter a safe gap. That delay increases injury risk.
+Start delays were assessed automatically in the VR, defined as the temporal gap between the
+gap crossed within appearing (that is, the last vehicle passes the crosswalk) and the child
+initiating crossing by stepping off the curb. Start delays were assessed in field trials via
+coding of videotaped behavior. Coders watched tapes and used a computer-based stopwatch
+to record the time between the last vehicle leaving the crosswalk and the child perceiving a
+safe crossing opportunity by indicating with a shout “now” (shout task) or the first foot
+landing on the ground (two-step task). Inter-rater reliability was established for the coding
+and was adequate ( r > .95 between independent coders measuring times, masked to
+condition on 20% of sample).Schwebel et al. Page 7
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Missed opportunities do not represent a measure of pedestrian safety but rather a measure of
+the pedestrian’s efficiency in pedestrian behavior. Tallied as instances when a traffic gap
+that was 1.5 or greater times the time needed for the child to cross the street, but the child
+chose not to cross, a high number of missed opportunities reflects inefficiency in pedestrian
+behavior. These instances were counted electronically in the VR and by videotape review in
+the field. There was very low variance of missed opportunities in the field, so the field
+assessment was dropped from analysis due to poor variance. Results from the VR are
+expressed as a count out of 30 trials, with multiple missed opportunities possible within a
+single crossing trial.
+All field pedestrian measures were computed separately for the two-step and the shout tasks.
+Because trends for the two-step and shout tasks were similar across intervention groups, we
+aggregated behavior across the two assessment strategies to create single field measures of
+pedestrian behavior.
+Other Measures
+Basic demographic information was reported by parents at the initial laboratory visit. A
+verbal intelligence screening was conducted using the Peabody Picture Vocabulary Test-IV
+(PPVT-4; Dunn & Dunn, 2007). Normed on a large national sample, the PPVT-4 has
+excellent internal and test-retest reliability, and converges well with other measures of
+verbal intelligence (Dunn & Dunn, 2007; Pullen, Tuckwiller, Konold, Maynard, & Coyne,
+2010).
+Children’s pedestrian experience was assessed by parent report using the pedestrian
+behavior questionnaire (Stavrinos et al., 2009), which assesses children’s typical weekly
+walking habits in multiple domains (e.g., to school, to friends’ houses, to walk dog, etc.).
+Responses were summed to yield parent-report of the child’s total average weekly distance
+walked.
+Analysis Plan
+Descriptive data were considered first, both for the full sample and within randomly-
+assigned groups. We tested for balance across the groups using chi-square tests of
+association (categorical variables) and analysis of variance (continuous variables). Primary
+hypotheses were tested using repeated-measures analysis of variance (ANOVA) with
+pedestrian behavior, assessed with four measures in the lab and three measures in the field,
+serving as dependent variables and time (pre vs. post vs. follow-up) and condition (VR vs.
+streetside vs. video vs. control) as independent variables. We assessed the interaction
+between time and condition to determine if the changes in condition over time differed, and
+if so, we performed contrasts to determine which pairs of conditions differed over time. Due
+to inequality of variances across condition and time for the field measures, as assessed via
+the Levene (1960) test, we allowed the variance to vary by condition/time combination in
+the repeated measures model and incorporated this into the tests of the interaction. For
+models in which the interaction was significant, we used a Bonferroni adjustment to the p-
+value for the 12 pairwise comparisons to account for multiple comparisons. Both unadjusted
+and adjusted ( p-value multiplied by 12) values are presented.Schwebel et al. Page 8
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Specifically, we fit the following model:
+where Yijk is the response (as presented in Table 1) measured on the ith subject (i=1,…, 60)
+within the jth condition (j=control, VR, streetside, video) at the kth visit (k=pre, post, follow-
+up). In this model formulation, the parameter vector associated with condition has 3 degrees
+of freedom (due to 4 levels of the variable), and the parameter associated with visit has 2
+degrees of freedom (due to the 3 levels of the variables). Thus, the parameter vector
+associated with the interaction has 3x2 degrees of freedom. For each model, we considered
+the pre-intervention visit to be the reference visit and the VR condition to be the reference
+value. Thus, the pre-intervention visit for the VR group was the reference value for the
+interaction. The parameter estimates and their standard errors from the models for each
+outcome are presented in Supplemental Table 1. Note that in this table, parameter estimates
+presented represent differences from that level to the reference.
+We assumed sphericity (compound symmetry) for the covariance structure unless we found
+the variance to differ across combinations of visit and condition, in which case we allowed
+variance components to be estimated for each visit/condition combination. We assessed
+symmetry univariately at each visit/condition combination via ocular inspection, and
+encountered one situation for which the data were not approximately symmetric (missed
+opportunities in the field). We adjusted the missed opportunities in the field variable by
+dichotomizing it (0 vs. 1 or more) and assessed that variable via generalized linear mixed
+model prior to dropping it from consideration due to lack of variation across groups even
+when dichotomized.
+Results
+Table 2 presents descriptive data for those children who were randomized, both overall and
+by intervention group (n=231). As expected, no groups differed statistically on the baseline
+factors. We also compared the 211 children who completed the full study with the 20 who
+did not complete all assessments. The non-completers were more likely to be African
+American and to come from families with lower socioeconomic status, but otherwise the
+two groups were comparable on demographics (age and gender), pedestrian experience, and
+randomized group assignment. Given this, subsequent analyses were conducted in a pairwise
+manner, with all available data.
+Table 3 presents descriptive data and p-values for the interaction between condition and time
+for seven repeated-measures ANOVAs. As shown, five of the seven models yielded
+statistically significant interactions, indicating that the changes over time differed by
+condition.
+Results from the field assessments are presented graphically in Figure 2. The four groups
+started with similar mean start delays but the streetside group showed a sharp increase in
+mean start delay post-intervention whereas the other three groups showed a modest
+decrease, with the VR group showing the sharpest decrease post-intervention. By the follow-Schwebel et al. Page 9
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+up assessment, all four groups returned close to baseline. Contrasts comparing the slopes
+found that the streetside group changes differed from all three other groups (unadjusted ps
+< .0001, adjusted ps < 0.01), suggesting the intervention had influence on the children, and
+especially on the group trained streetside which may have become more conscious of the
+decision-making process to cross a street and therefore took slightly longer to make the
+decision immediately after the training. The children trained in the VR also showed change;
+those children may have practiced decisionmaking enough that the process became
+streamlined somewhat post-intervention.
+All four groups showed a modest increase in close calls during field trials from pre to post
+assessment, with the children trained in the video group showing the sharpest, but not
+statistically different, increase. Three of the four groups then showed a modest decrease
+upon follow-up, perhaps reflecting six months of development; children trained at streetside
+locations did not show that decrease as clearly and the contrast was not statistically
+significant. Data from the attention to traffic assessment during field trials are also shown in
+Figure 2. Results were not statistically significant but indicate a trend for the children trained
+in the VR to have less attention to traffic following training, with the other groups staying
+consistent or showing a slight increase. During the six months from post-intervention to
+follow-up assessments, the control group showed a sharp decrease in attention to traffic
+whereas the other three groups maintained similar levels of attention to traffic.
+Results from laboratory assessments of pedestrian safety in the VR also appear in Figure 2.
+For all four outcomes, changes over time varied across the four groups. Results from the
+assessment of start delay are very similar to those of the same measure from the field
+assessment. The streetside group showed an increase in start delay immediately post-
+intervention, followed by a sharp decrease upon follow-up six months later. The other three
+groups showed a steady decline in start delay over time, with the VR group showing the
+sharpest decrease post-training. As was found in the field assessment, contrasts comparing
+the slopes found that the streetside group changes differed from all three other groups
+(unadjusted ps < .0001 and adjusted ps < .01 for all contrasts except video vs. streetside
+groups from post to follow-up, for which unadjusted p < .05 and adjusted p = .53.
+Results from the assessment of hits and close calls in the VR also show parallels to the field
+measurement assessment. Both the streetside and VR-trained groups showed a decrease in
+hits/close calls when crossing in the virtual environment post-training; the children trained
+with videos and internet websites showed a modest increase, and the control group of
+children showed a notable increase in dangerous crossings during the post-training
+assessment. The differences between the streetside and control groups and between the VR
+and the control groups were statistically significant in unadjusted analyses from pre- to post-
+training (unadjusted ps < .05; adjusted p, streetside vs. control = .11, VR vs. control = .31).
+All four groups showed a decrease between post-training and follow-up assessments,
+perhaps reflecting the six months of development that had occurred.
+Results from the assessment of attention to traffic in the VR were quite different from the
+assessment in the field. In the virtual environment assessment, the group trained in the VR
+demonstrated a sharp increase in attention to traffic immediately following training, and thenSchwebel et al. Page 10
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+a continued increase at follow-up. The children trained with videos/internet and at streetside
+locations showed little change immediately following training but a sharp increase at follow-
+up. The control group showed modest increases throughout assessments but minimal change
+compared to the three groups of children who received training. No contrasts were
+significant after applying the Bonferroni adjustment. Unadjusted statistically significant
+contrasts included the following for pre- to post-intervention change: VR vs control groups
+(unadjusted p < .05; adjusted p = .24), VR vs. streetside training (unadjusted p < .01;
+adjusted p = .05); and the following for post-intervention to follow-up assessment: streetside
+vs. video groups (unadjusted p < .05; adjusted p = .22).
+Finally, we examined instances of missed opportunities in the virtual reality assessments.
+Missed opportunity data were skewed with a long positive tail; results examining medians
+were very similar to those with means and data from means are presented. Children trained
+at streetside locations showed a large increase in missed opportunities following training,
+followed by a decrease at follow-up six months later. Children trained in the VR showed the
+opposite pattern: a sharp decrease following training, followed by a modest increase at
+follow-up. The children trained with videos/internet showed minimal change across time
+and the control group of children showed a slight decrease in missed opportunities across the
+assessments. Post-hoc contrasts found that the streetside group differed from all three other
+groups at a statistically significant level (unadjusted ps < .001 from pre- to post-intervention,
+adjusted ps <.05; unadjusted ps < .05 from post-intervention to follow-up, adjusted p,
+streetside vs. VR=.04; adjusted p, streetside vs. control = .57; adjusted p streetside vs. video
+= .12).
+Discussion
+Taken together, results indicate that both individualized streetside pedestrian safety training
+and training within a semi-immersive and interactive virtual pedestrian environment show
+promise as effective strategies to train 7- and 8-year-old children to cross streets more
+safely. Individualized streetside training in particular yielded consistently safer pedestrian
+behavior compared to children trained for an equal amount of time using widely-available
+videos and internet websites and compared to children who received no training.
+These results are consistent with the existing literature on pedestrian safety training for
+children (see Duperrex et al., 2002; Schwebel et al., 2012 for reviews). The present results
+support other research that suggests individualized streetside training is effective to teach
+children to cross streets more safely (e.g., Barton et al., 2007; Demetre et al., 1993; van
+Schagen, 1988; Yeaton & Bailey, 1983). They also support initial pilots in non-immersive
+virtual pedestrian environments that suggest pedestrian safety training in VR may be
+effective (Bart et al., 2008; McComas et al., 2002; Thomson et al., 2005). Finally, they lend
+support for the mixed results previously reported concerning training using videos and
+software (Glang et al., 2005; Preusser & Lund, 1988; Tolmie et al., 2005; Zeedyk &
+Wallace, 2003), indicating the need to be cautious in assuming children might learn to cross
+streets more safely based on such educational programs.Schwebel et al. Page 11
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+The two training strategies that appear to be most effective, individualized streetside training
+and training within virtual environments, each offer advantages and disadvantages to
+schools, community centers, and others who may wish to train children in how to cross
+streets safely. Individualized streetside training is laborious. It requires a competent adult
+pedestrian to spend at least a few hours with a child, teaching the cognitive-perceptual
+aspects of safe pedestrian behavior while offering repeated practice, with feedback about
+success, at the task. One might compare this process to teaching a child to hit a baseball or a
+tennis ball; repeated practice at the cognitive, perceptual, and motor skills needed helps a
+child hone the skill, and feedback about the success of trials is valuable. Innovative
+strategies to accomplish such training, such as the Kerbcraft program that recruits retired
+older adults to train schoolchildren in the United Kingdom, are available and have empirical
+support for efficacy (Whelan et al., 2008).
+Training in a virtual pedestrian environment also offers the opportunity for repetitive
+practice at the cognitive, perceptual, and motoric aspects of pedestrian behavior, but requires
+less intensive individualized attention. In fact, virtual environments can be arranged to
+permit children’s use without adult supervision. A significant disadvantage of training
+children in virtual pedestrian environments is the lack of accessibility. Most schools and
+community groups do not have access to virtual pedestrian environments, nor to the
+financial resources to purchase them. Suitable alternatives that can be offered to large
+numbers of children at minimal cost via the internet must be identified. One possibility,
+currently under development in our laboratory (Schwebel & McClure, 2013), is the notion of
+delivering a VR-type experience over the internet. If, as hypothesized, the key component of
+pedestrian training is repeated practice at the cognitive-perceptual task of crossing a street,
+then a sacrifice in realism that occurs from moving VR from a three-dimensional immersive
+experience to a two-dimensional internet experience may not detriment training, and it could
+be delivered globally to any school with internet access.
+Our results indicate that one of the most widely-used training tools currently, a combination
+of publicly-accessible videotapes and internet websites, was an ineffective training strategy.
+Although videos and websites hold appeal due to their accessibility, our results indicate they
+are a poor choice for interventionists.
+We assessed pedestrian safety outcomes with two modalities (streetside and virtual reality
+assessments) and multiple measures (start delay, hits/close calls, attention to traffic, and
+missed opportunities). On the surface, it may seem that our results were inconsistent across
+outcome measures. Pedestrian behavior is multifaceted, however; children do not simply
+learn to cross streets safely, but rather must learn to attend to traffic, to judge the safety of
+traffic gaps, and then to initiate movement into the street. Each of those components – and
+they can be divided further into subcomponents – must be mastered for a child to become a
+safe pedestrian.
+Our results suggest that children trained in the virtual environment had fewer hits/close calls
+in both field and laboratory assessments post-training. Hits/close calls with vehicles
+represent a critical outcome of interest, as they reflect potential for serious or fatal injury.
+The reduction in hits/close calls may be explained in part by the reduction in start delaysSchwebel et al. Page 12
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+shown by children trained in the VR; with more efficient cognitive processing of the
+pedestrian environment, start delays can be reduced and safety improved. Interestingly,
+children’s attention to traffic was inconsistent across measurement domains following
+training in the VR, with greater attention demonstrated in the VR assessment following
+training but lesser attention demonstrated in the field. Taken together, we might conclude
+that training in a virtual pedestrian environment improves children’s cognitive processing
+and safety but that influence on attention to traffic is unclear. Of note is the possibility that
+children might have adequate attention to traffic prior to training – that is, by age 7 children
+might typically show adequate attention to traffic in pedestrian settings because they already
+have the developmental capacity to recognize the importance of looking for traffic when
+approaching a street-crossing. It may be that the cognitive aspects of pedestrian behavior are
+deficient and in need of practice and training at age 7 or 8, not the attentional aspects. This
+possibility is supported by the fact that looks per minute reported in the present sample are
+comparable to those reported in our previous work with samples of adults (Stavrinos,
+Byington, & Schwebel, 2011; Schwebel et al., 2012) and adolescents ages 14–15 (Davis,
+Avis, & Schwebel, in press). In contrast, children’s scores on hits/close calls, start delay, and
+missed opportunities are generally far inferior to those reported among adults and
+adolescents, even after training. Also of note is the fact that traffic volume and density was
+consistent, constant and rather thick in the VR but varied much more greatly in the field,
+where natural traffic patterns, with larger gaps and more irregular density and volume across
+participants emerged.
+Children trained individually at streetside locations showed longer start delays posttraining
+that became much shorter at follow-up in both field and VR assessments. Thus, there is
+evidence that streetside training improves children’s cognitive processing of pedestrian
+situations. Our results were somewhat inconsistent across assessment strategies for measures
+of attention and hits/close calls among children trained streetside, however. Children trained
+with videos/internet programs demonstrated little improvement in any domains of pedestrian
+behavior in post-training assessments.
+We considered post-training pedestrian behavior on two occasions, both immediately post-
+training and at a six-month follow-up visit. Individual trends varied somewhat across
+components of pedestrian behavior and across measurement strategies, but the general trend
+was for safety improvements to be retained over the six-month follow-up period. Of course,
+children also experienced six months of development in cognition, perception, and other
+relevant pedestrian skills during that half-year, as represented by improved scores among the
+control group on several relevant measures.
+Like all research, this study had limitations. One limitation was a measurement issue.
+Although all participating children were given orientation trials in the VR before data were
+collected, children in the VR training group had extensive experience in the VR, and that
+practice may potentially have impacted their performance in the VR assessment trials.
+Similarly, children trained in streetside locations had more practice deciding when to cross
+in streetside simulations and therefore may have had elevated performance in field
+assessment trials (though note that field assessments were deliberately conducted in a
+different location than streetside training sessions).Schwebel et al. Page 13
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+A second limitation is specific to the streetside assessment trials. Naturalistic field trials
+offer advantages. Specifically, they incorporate real traffic patterns, which typically involve
+clusters of heavy traffic followed by “windows” of light traffic. However, inevitably some
+children experienced heavier traffic density during field trials than others. Periodic large
+windows of light traffic provided easy crossing opportunities and reduced variance in some
+outcome measures. Close call opportunities were rarer in the field trials, and missed
+opportunities were so rare that we were unable to assess them meaningfully in the field, as a
+very large portion of the sample had no missed opportunities at all in the field. These
+inconsistencies in the naturalistic trials may partly explain why results varied somewhat
+across outcome measurement strategies.
+A third limitation is the sample size. Although our a priori  power analyses indicated a
+sample of 240, accounting for attrition, would be adequate to detect medium effect sizes, it
+was not sufficient to detect smaller effect sizes that may be meaningful and important to
+public health. Several of the findings were statistical trends that may prove significant in
+larger replications as well as in applied community practice where large numbers of children
+are trained. Finally, our study focused only on mid-block unsignalled crossings. We did not
+assess learning or behavior at signaled intersections or other aspects of pedestrian skill that
+may lead to injury risk.
+In conclusion, this RCT suggests 7- and 8-year-old children may gain critical streetcrossing
+knowledge through training in a VR environment or individualized streetside training.
+Future research should build from these findings to develop, evaluate, and then implement
+lowcost methods to train children in pedestrian safety that can be disseminated widely.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+Thanks to Elizabeth O’Neal, Anna Johnston, Ksenia Shingareva, and the students of the UAB Youth Safety Lab for
+their extensive help with data collection, entry, and coding; Jodie Plumert and Kathy Christoffel for consulting
+advice; Aeron Gault for IT support; and the Digital Artefacts team for VR development and support. The research
+was supported by Award Number R01HD058573 from the Eunice Kennedy Shriver National Institute of Child
+Health & Human Development. The content is solely the responsibility of the authors and does not necessarily
+represent the official views of the Eunice Kennedy Shriver National Institute of Child Health & Human
+Development or the National Institutes of Health.
+References
+Agran PF, Winn DG, Anderson CL. Differences in child pedestrian injury events by location.
+Pediatrics. 1994; 93:284–288. [PubMed: 8121742]
+Bart O, Katz N, Weiss PL, Josman N. Street crossing by typically developed children in real and
+virtual environments. OTJR: Occupation Participation Health. 2008; 28:89–96.
+Barton BK. Integrating selective attention into developmental pedestrian safety research. Canadian
+Psychology. 2006; 47:203–210.
+Barton BK, Schwebel DC. The roles of age, gender, inhibitory control, and parental supervision in
+children’s pedestrian safety. Journal of Pediatric Psychology. 2007; 32:517–526. [PubMed:
+17442691]Schwebel et al. Page 14
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Barton BK, Schwebel DC, Morrongiello BA. Brief report: Increasing children’s safe pedestrian
+behaviors through simple skills training. Journal of Pediatric Psychology. 2007; 32:475–480.
+[PubMed: 17012736]
+Berry DS, Romo CV. Should “Cyrus the Centipede” take a hike? Effects of exposure to a pedestrian
+safety program on children’s safety knowledge and self-reported behaviors. Journal of Safety
+Research. 2006; 37:333–341. [PubMed: 16996086]
+Cross D, Stevenson M, Hall M, Burns S, Laughlin D, Officer J, Howat P. Child pedestrian injury
+prevention project: Student results. Preventive Medicine. 2000; 30:179–187. [PubMed: 10684740]
+Davis AL, Avis KT, Schwebel DC. The effects of sleep restriction on adolescents’ pedestrian safety in
+a virtual environment. Journal of Adolescent Health. in press.
+Demetre JD, Lee DN, Grieve R, Pitcairn TK, Ampofo-Boateng K, Thomson JA. Young children’s
+learning on road-crossing simulations. British Journal of Educational Psychology. 1993; 63:348–
+358.
+Demetre JD, Lee DN, Pitcairn TK, Grieve R, Thomson JA, Ampofo-Boateng K. Errors in young
+children’s decisions about traffic gaps: Experiments with roadside simulations. British Journal of
+Psychology. 1992; 83:189–202. [PubMed: 1611407]
+DiMaggio C, Durkin M. Child pedestrian injury in an urban setting: Descriptive epidemiology.
+Academic Emergency Medicine. 2002; 9:54–62. [PubMed: 11772671]
+Dunn, LM.; Dunn, DM. PPVT-4: Peabody Picture Vocabulary Test. 4. Minneapolis: Pearson; 2007.
+Manual
+Duperrex O, Bunn F, Roberts I. Safety education of pedestrians for injury prevention: A systematic
+review of randomised controlled trials. British Medical Journal. 2002; 324:1129–1131. [PubMed:
+12003885]
+Glang A, Noell J, Ary D, Swartz L. Using interactive multimedia to teach pedestrian safety: An
+exploratory study. American Journal of Health Behavior. 2005; 29:435–442. [PubMed: 16201860]
+Hotz GA, Cohn SM, Castelblanco A, Colston S, Thomas M, Weiss A. Pediatric Pedestrian Injury Task
+Force. WalkSafe: A school-based pedestrian safety intervention program. Traffic Injury
+Prevention. 2004; 5:382–389. [PubMed: 15545078]
+Hotz G, De Marcilla AG, Lufti K, Kennedy A, Castellon P, Duncan R. The WalkSafe program:
+Developing and evaluating the educational component. Journal of Trauma. 2009; 66:S3–S9.
+[PubMed: 19276724]
+Levene, H. Robust tests for equality of variances. In: Olkin, I.; Ghurye, SG.; Hoeffding, W.; Madow,
+WG.; Mann, HB., editors. Contributions to probability and statistics: Essays in honor of Harold
+Hotelling. Stanford, CA: Stanford University Press; 1960. p. 278-292.
+Lightstone AS, Dhillon PK, Peek-Asa C, Kraus JF. A geographic analysis of motor vehicle collisions
+with pedestrians in Long Beach, California: Comparing intersection and midblock incident
+locations. Injury Prevention. 2001; 7:155–160. [PubMed: 11428565]
+Macpherson A, Roberts I, Pless IB. Children’s exposure to traffic and pedestrian injuries. American
+Journal of Public Health. 1998; 88:1840–1843. [PubMed: 9842384]
+Martin SL, Lee SM, Lowry R. National prevalence and correlates of walking and bicycling to school.
+American Journal of Preventive Medicine. 2007; 33:98–105. [PubMed: 17673096]
+McComas J, MacKay M, Pivik J. Effectiveness of virtual reality for teaching pedestrian safety.
+Cyberpsychology and Behavior. 2002; 5:185–190. [PubMed: 12123238]
+McDonald NC, Brown AL, Marchetti LM, Pedroso MS. U.S. school travel, 2009: An assessment of
+trends. American Journal of Preventive Medicine. 2011; 41:146–151. [PubMed: 21767721]
+National Center for Injury Prevention and Control. WISQARSTM (Web-based Injury Statistics Query
+and Reporting System). 2013. Retrieved April 18, 2013, from http://www.cdc.gov/injury/wisqars/
+index.html
+Plumert JM, Kearney JK, Cremer JF. Children's perception of gap affordances: Bicycling across
+traffic-filled intersections in an immersive virtual environment. Child Development. 2004;
+75:1243–1253. [PubMed: 15260875]
+Preusser DF, Lund AK. And keep on looking: A film to reduce pedestrian crashes among 9 to 12 year
+olds. Journal of Safety Research. 1988; 19:177–185.Schwebel et al. Page 15
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Pullen PC, Tuckwiller ED, Konold TR, Maynard KL, Coyne MD. A tiered intervention model for
+early vocabulary instruction: The effects of tiered instruction for young students at risk for reading
+disability. Learning Disabilities Research and Practice. 2010; 25:110–123.
+Rothengatter T. A behavioural approach to improving traffic behaviour of young children.
+Ergonomics. 1984; 27:147–160. [PubMed: 6723615]
+Schwebel DC, McClure LA. Using virtual reality to train children in safe street-crossing skills. Injury
+Prevention. 2010; 16:e117–125.
+Schwebel, DC.; McClure, LA. Evaluation of usability and feasibility of an Internet-based virtual
+pedestrian environment to disseminate a safe street-crossing intervention to children. 2013.
+Manuscript under review
+Schwebel DC, Davis AL, O’Neal EE. Child pedestrian injury: A review of behavioral risks and
+preventive strategies. American Journal of Lifestyle Medicine. 2012; 6:292–
+302.10.1177/0885066611404876 [PubMed: 23066380]
+Schwebel DC, Gaines J, Severson J. Validation of virtual reality as a tool to understand and prevent
+child pedestrian injury. Accident Analysis and Prevention. 2008; 40:1394–1400. [PubMed:
+18606271]
+Schwebel DC, Stavrinos D, Byington KW, Davis T, O’Neal EE, de Jong D. Distraction and pedestrian
+safety: How talking on the phone, texting, and listening to music impact crossing the street.
+Accident Analysis and Prevention. 2012; 45:266–271.10.1016/j.aap.2011.07.011 [PubMed:
+22269509]
+Shieber RA, Thompson NJ. Developmental risk factors for childhood pedestrian injuries. Injury
+Prevention. 1996; 2:228–236. [PubMed: 9346096]
+Stavrinos D, Byington KW, Schwebel DC. The effect of cell phone distraction on pediatric pedestrian
+injury risk. Pediatrics. 2009; 123:e179–185. [PubMed: 19171568]
+Stavrinos D, Byington KW, Schwebel DC. Distracted walking: Cell phones increase injury risk for
+college pedestrians. Journal of Safety Research. 2011; 42:101–107.10.1016/j.jsr.2011.01.004
+[PubMed: 21569892]
+Stevenson M, Iredell H, Howat P, Cross D, Hall M. Measuring community/environmental
+interventions: The Child Pedestrian Injury Prevention Project. Injury Prevention. 1999; 5:26–30.
+[PubMed: 10323566]
+Thomson JA, Tolmie AK, Foot HC, Whelan KM, Sarvary P, Morrison S. Influence of virtual reality
+training on the roadside crossing judgments of child pedestrians. Journal of Experimental
+Psychology: Applied. 2005; 11:175–186. [PubMed: 16221036]
+Tolmie AK, Thomson JA, Foot HD, Whelan KM, McLaren B, Morrison S. The effects of adult
+guidance and peer discussion on the development of children’s representations: Evidence from the
+training of pedestrian skills. British Journal of Psychology. 2005; 96:181–204. [PubMed:
+15969830]
+Toroyan, T.; Peden, M., editors. Youth and road safety. Geneva: World Health Organization; 2007.
+van Schagen, INLG. Training children to make safe crossing decisions. In: Rothengatter, T.; de Bruin,
+R., editors. Road user behaviour: Theory and research. Assen/Maastricht, the Netherlands: Van
+Gorcum; 1988. p. 482-489.
+Warsh J, Rothman L, Slater M, Steverango C, Howard A. Are school zones effective? An examination
+of motor vehicle versus child pedestrian crashes near schools. Injury Prevention. 2009; 15:226–
+229. [PubMed: 19651993]
+Whelan, K.; Towner, E.; Errington, G.; Powell, J. Evaluation of the national network of child
+pedestrian training pilot projects. London: UK Department of Transportation; 2008. Available
+from: http://www.dft.gov.uk/pgr/roadsafety/research/rsrr/theme1/childpedestrianprojects/
+[Accessed October 14, 2010]
+Whitebread D, Neilson K. The contribution of visual search strategies to the development of pedestrian
+skills by 4–11 year old children. British Journal of Educational Psychology. 2000; 70:539–557.
+[PubMed: 11191186]
+Yeaton WH, Sechrest L. Critical dimensions in the choice and maintenance of successful treatments:
+Strength, integrity, and effectiveness. Journal of Consulting and Clinical Psychology. 1981;
+49:156–167. [PubMed: 7217482]Schwebel et al. Page 16
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Young DS, Lee DN. Training children in road crossing skills using a roadside simulation. Accident
+Analysis and Prevention. 1987; 19:327–341. [PubMed: 3675805]
+Zeedyk MS, Kelly L. Behavioural observations of adult-child pairs at pedestrian crossings. Accident
+Analysis & Prevention. 2003; 35:771–776. [PubMed: 12850078]
+Zeedyk MS, Wallace L. Tackling children's road safety through edutainment: An evaluation of
+effectiveness. Health Education Research: Theory and Practice. 2003; 18:493–505.Schwebel et al. Page 17
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Figure 1.
+CONSORT flowchart of study enrollment.Schwebel et al. Page 18
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Figure 2.
+Results from Field and VR Trial Outcomes: Group Means by Condition and Assessment
+Point.Schwebel et al. Page 19
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author ManuscriptSchwebel et al. Page 20Table 1
+Summary of Outcome Measures
+Variable Assessing Type Units Possible Range
+Field Measures
+ Hits/Close Calls Dangerous Injury Outcomes Count Number 0–16
+ Attention to Traffic Looking at Traffic Environment Continuous Looks/Wait Time 0-∞
+ Start Delay Cognitive Processing Continuous Seconds 0-∞
+VR Measures
+ Hits/Close Calls Dangerous Injury Outcomes Count Number 0–30
+ Attention to Traffic Looking at Traffic Environment Continuous Looks/Wait Time 0-∞
+ Start Delay Cognitive Processing Continuous Seconds 0-∞
+ Missed Opportunities Crossing Efficiency Count Number 0-∞
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author ManuscriptSchwebel et al. Page 21Table 2
+Descriptive Data: Percentages and Means(SD)
+Variable Overall (N=231) VR (n=59) Streetside (n=57) Video (n=57) Control (n=58)
+Sex
+ % male 43 46 39 39 48
+Ethnicity
+ %White 53 59 53 53 47
+ % African American 40 39 39 40 43
+ % Other/Biracial 7 2 9 7 10
+Age (years)1 8.0 (0.65) 7.9 (0.67) 7.9 (0.68) 8.1 (0.63) 8.1 (0.63)
+Mother’s Education
+ % <= HS 10 10 9 11 10
+ % Some College 29 27 35 28 24
+ % College Grad 34 32 30 33 38
+ % > College Grad 27 29 25 28 24
+Father’s Education
+ % <= HS 19 20 16 12 24
+ % Some College 21 19 25 18 19
+ % College Grad 29 29 25 33 22
+ % > College Grad 30 27 23 33 29
+Household Income
+ % < $40k 27 22 26 28 28
+ % $40k-<$100k 38 27 35 28 38
+ % >= $100k 35 27 37 40 33
+PPVT-4 IQ Screen1 106 (16) 107 (16) 108 (16) 104 (18) 105 (15)
+Pedestrian Experience2 2.5 (0.3, 5.8) 2.1 (0.3, 5.1) 2.1 (0.5, 4.5) 2.5 (0.1, 5.7) 3.3 (0.4, 7.0)
+1Mean (Standard Deviation) reported for this continuous variable.
+2Median (25 thpercentile, 75 thpercentile) reported for this highly skewed continuous variable.
+Health Psychol . Author manuscript; available in PMC 2015 July 01.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author ManuscriptSchwebel et al. Page 22Table 3
+Descriptive Data: Outcome Measure Means (SD)
+VR Streetside Video Control
+Pre IV Post IV FU Pre IV Post IV FU Pre IV Post IV FU Pre IV Post IV FUp1
+Field
+Hits/Close Calls
+(count over 16 trials)9.8 (3.5) 10.4 (4.6) 9.7 (4.6) 8.3 (3.3) 8.9 (4.3) 8.9 (4.1) 9.0 (3.9) 11.1 (3.5) 10.1 (3.4) 10.1 (4.1) 10.8 (4.5) 10.1 (3.9) 0.78
+Attention to Traffic
+(looks/wait time)14.0 (11.8) 11.4 (3.3) 11.2 (4.3) 12.3 (9.4) 12.4 (4.9) 11.7 (4.7) 11.6 (6.7) 13.2 (5.1) 13.1 (9.2) 14.8 (11.1) 15.3 (11.1) 12.3 (4.2) 0.25
+Start Delay (seconds) 1.5 (0.70) 1.2 (0.59) 1.5 (0.63) 1.5 (0.66) 2.1 (0.99) 1.5 (0.62) 1.6 (0.78) 1.4 (0.74) 1.5 (0.59) 1.4 (0.59) 1.2 (0.61) 1.4 (0.67) <0.001
+VR
+Hits/Close Calls
+(count over 30 trials)2.8 (1.6) 2.7 (1.6) 2.1 (1.4) 2.6 (1.6) 2.3 (1.2) 1.7 (1.1) 2.5 (1.7) 2.6 (1.6) 2.3 (1.5) 2.6 (1.5) 3.0 (1.6) 2.6 (1.6) 0.04
+Attention to Traffic
+(looks/wait time)27.1 (11.4) 33.2 (10.6) 35.2 (11.4) 28.7 (9.7) 27.8 (10.0) 34.1 (9.2) 30.2 (12.1) 32.2 (11.6) 32.3 (12.3) 29.3 (10.7) 29.7 (9.8) 34.2 (10.0) 0.02
+Start Delay (seconds) 1.3 (0.44) 1.1 (0.46) 1.1 (0.43) 1.2 (0.40) 1.4 (0.45) 1.1 (0.31) 1.3 (0.57) 1.2 (0.51) 1.2 (0.38) 1.4 (0.47) 1.2 (0.43) 1.2 (0.45) <0.01
+Missed
+Opportunities (count
+over 30 trials)2.7 (4.2) 1.2 (1.6) 1.6 (1.9) 1.8 (2.0) 3.9 (4.6) 2.3 (2.3) 2.7 (4.3) 2.1 (3.6) 2.4 (5.5) 2.2 (3.5) 1.5 (3.0) 1.3 (1.8) <0.0001
+1P-value for interaction between time and condition in ANOVA model.
+Note. IV = intervention; FU = follow-up. Hits/Close Calls are count. Attention to Traffic represents looks left and right divided by waiting time. Start Delay is seconds after safe gap appears before child
+enters roadway.
+Health Psychol . Author manuscript; available in PMC 2015 July 01.

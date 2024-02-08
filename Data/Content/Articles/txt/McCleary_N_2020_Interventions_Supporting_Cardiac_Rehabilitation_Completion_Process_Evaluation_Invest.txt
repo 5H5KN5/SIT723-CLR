@@ -1,0 +1,744 @@
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  1 
+ 
+Interventions supporting cardiac rehabilitation completion: process evaluation investigating theory -
+based mechanisms of action  
+ 
+Nicola McCleary,1,2 Noah M.  Ivers,3,4,5 J-D Schwalm,6,7 Holly O.  Witteman,1,9 Monica Taljaard,1,2 Laura 
+Desveaux,3,4 Zachary  Bouck,3 Sherry L. Grace,4,9 Madhu Natarajan,6,7 Jeremy  M. Grimshaw,1,2 and Justin 
+Presseau,  PhD1,2 
+1Ottawa Hospital Research Institute,  2University of Ottawa , 3Women’s College Hospital ,  
+4University of Toronto , 5ICES , 6 Hamilton Health Sciences, 7 McMaster University, 8 Laval University, 9 
+York University   
+ 
+ 
+Author Note  
+Nicola McCleary  and Monica Taljaard:  Centre for Implementation Research, Clinical 
+Epidemiology Program, Ottawa Hospital Research Institute ; and School of Epidemiology and Public 
+Health, University of Ottawa, Ottawa, Canada . Noah M. Ivers : Women’s College Research Institute, 
+Women's College  Hospital ; and Women’s College Hospital Institute for Health System Solutions and 
+Virtual Care, Women's Colleg e Hospital ; and Department of Family and Community Medicine, University 
+of Toronto ; and Institute of Health Policy, Management and Evaluation, University of Toronto ; and ICES, 
+Toronto, Canada . J-D Schwalm  and Madhu Natarajan : Division of Cardiology, Depart ment of Medicine, 
+Hamilton Health Sciences ; and Population Health Research Institute, McMaster University, Hamilton, 
+Canada .  Holly O. Witteman : Centre for Implementation Research, Clinical Epidemiology Program, 
+Ottawa Hospital Research Institute, Ottawa, Canada ; and Department of Family and Emergency 
+Medicine, and Office of Education and Continuing Professional Development, Laval University ; and Laval 
+University Research Institute for Primary Care and Health Services, Laval University, Q uébec City, 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  2 
+ 
+Canada .  Laura Desveaux : Women’s College Research Institute, Women's College Hospital ; and Women’s 
+College Hospital Institute for Health System Solutions and Virtual Care, Women's College Hospital ; and 
+Institute of Health Policy, Management and  Evaluation, University of Toronto, Toronto, Canada . Zachary 
+Bouc k: Women’s College Hospital Institute for Health System Solutions and Virtual Care, Women's 
+College Hospital, Toronto, Canada . Sherry L. Grace : School of Kinesiology and Health Science, York 
+University ; and Toronto Rehabilitation Institute, University Health Network, University of Toronto, 
+Toronto, Canada . Jeremy M. Grimshaw : Centre for Implementation Research, Clinical Epidemiology 
+Program, Ottawa Hospital Research Institute ; and Department o f Medicine, University of Ottawa, 
+Ottawa, Canada . Justin Presseau: Centre for Implementation Research, Clinical Epidemiology Program, 
+Ottawa Hospital Research Institute ; and School of Epidemiology and Public Health, University of Ottawa ; 
+and School of Psyc hology, University of Ottawa; Ottawa, Canada . This study was funded in part by a 
+grant from the Province of Ontario.  The opinions, results and conclusions in this paper are those of the 
+authors and are independent from the Province.  The funder was not invo lved in the design of the study 
+or the writing of this manuscript.  N.M.I.  is supported by  a new investigator award from the Canadian 
+Institutes of Health Research and a clinician scientist award from the Department of Family and 
+Community Medicine, Univers ity of Toronto. H.O.W.  is supported by  a Research Scholar Junior  2 award 
+from the Fonds de recherché du Québec – Santé. J.M.G.  is supported by  a Tier 1 Canada Research Chair 
+in Health Knowledge Transfer and Uptake and a CIHR Foundation grant for related wo rk. The authors 
+would like to thank the study participants for giving up their valuable time to take part in this research.  
+ Portions of these findings were presented at the 201 8 European Health Psychology  Society Conference , 
+Galway, Ireland . Correspondence concerning this article should be addressed to Dr. Nicola McCleary, 
+Clinical Epidemiology Program, Ottawa Hospital Research Institute, The Ottawa Hospital - General 
+Campus, 501 Smyth Road, Room L1202, Box 711, Ottawa, ON, Canada, K1H 8L6. Em ail: 
+nmccleary@ohri.ca  
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  3 
+ 
+Abstract  
+Objective:  A randomised trial informed by the Health Action Process Approach evaluated interventions 
+to improve cardiac rehabilitation completion. This study investigated indirect effects of the interventions 
+on cardiac rehabilitation adherence via targeted constructs. Methods: In this quantitative theory -based 
+process evaluation, participants in all three trial arms (usual care; mailouts; mailouts plus telephone 
+support) c ompleted a questionnaire at 12 months follow -up assessing intention, goal priority, outcome 
+expectancies, risk perception, self -efficacy, social support, action planning, and coping planning. 
+Consecutive sampling was used until the target sample size (167 per arm) was met. Completion of 
+cardiac rehabilitation at the same time point  was self -reported. We used multiple regression mediation 
+models to explore indirect effects. Results:  In total, 594 participants completed the cardiac 
+rehabilitation questionnair e; 588 were analysed (6 excluded due to missing data). For mailouts alone, 
+there were no significant indirect effects. There were small indirect effects of mailouts plus telephone 
+support on intention via goal priority, outcome expectancies, and self -effic acy, with a negative effect via 
+severity risk perception. There were also small indirect effects on cardiac rehabilitation completion via 
+self-efficacy and action planning. Conclusions:  Findings suggest that mailouts plus telephone support 
+increased the li kelihood of completing cardiac rehabilitation by enhancing self -efficacy and action 
+planning, and increased intention by enhancing goal priority, self -efficacy, and outcome expectancies, 
+with an unintended consequence of a negative effect via risk percepti ons. Conducting theory -based 
+process evaluations alongside trials of behaviour change interventions can clarify mechanisms of action, 
+which can inform efforts to refine interventions and to replicate and generalize findings to other 
+jurisdictions . 
+ Keywords : cardiac rehabilitation , myocardial infarction , health action process approach , process 
+evaluation , indirect effects  
+ TRIAL REGISTRATION:  ClinicalTrials.gov identifier: NCT02382731   
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  4 
+ 
+Interventions supporting cardiac rehabilitation completion: process evaluation investigating theory -
+based mechanisms of action  
+Clinical guidelines recommend that patients complete cardiac rehabilitation after hospitalization 
+for a myocardial infarction (MI) (CACPR, 2009; NICE, 2013) . Internationally, c ardiac rehabilitation 
+programs focus on  health behaviour change and typically include exercise training, education about 
+heart health, and counselling to reduce stress (Anderson & Taylor, 2014; Grace, Bennett, et al., 2014; 
+O’Gara et al., 2013) . In Ontario, Canada, the setting of this study, programs are typically delivered 2 -3 
+times a week over 5 months (Grace, Bennett, et al., 2014; Ndegwa, 2010) , within a hospital by an 
+interprofessional team (Polyzotis et al., 2012) . A Cochrane systematic review found that attending 
+exercise -based cardiac rehabilitation significantly reduced the risk of cardiovascular mor tality compared 
+to no exercise (27 trials; risk ratio 0.74, 95% CI 0.64 to 0.86) (Anderson et al., 2016) . However, existing 
+programs are under -utilized, limiting their impact on population health. Surveys in many countries 
+indicate that only 30% of eligible patients participate in cardiac rehabilitation (Bethell et al., 2001; 
+Kotseva et al., 2009; Suaya et al., 2007) . Fewer still complete the ir program and maintain exercise after 
+completion (Daly et al., 2002; S. M. Moore et al., 2003 ). Barriers to participation in cardiac rehabilitation 
+programs in Canada include perceptions of not needing programs, work or time conflicts , and healthcare 
+system factors such as wait times  (de Melo Ghisi et al., 2013) . Similar barriers  (such as denial of severity 
+of illness, financial or occupational constrain ts, and healthcare system factors ) are experienced in other 
+countries  (Clark et al., 2012; Cooper et al., 2002; Neubeck et al., 2012) .  
+Santiago de Araújo Pio et al.  (Santiago de Araújo Pio et al., 2019)  synth esized the evidence on 
+the effectiveness of interventions to increase participation . Included interventions were varied and 
+comprised multiple components. Compared to usual care, interventions improved enrolment, 
+adherence, and completion. However, this ev idence was judged to be of low to moderate quality. The 
+authors concluded that the heterogeneity between studies and lack of understanding of underlying 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  5 
+ 
+mechanisms limit ed the informativeness of the evidence . They recommended that further 
+research rigorously evaluat e interventions that target patient‐identified barriers, examin e how 
+interventions work, and identify ‘active ingredients’ (Santiago de Araújo Pio et al., 2019) . 
+We conducted a multicentre, pragmatic, three -arm randomised controlled trial to evaluate two 
+interventions to improve c ardiac rehabilitation completion post -MI (Interventions Supporting Long -term 
+Adherence aNd Decreasing cardiovascular events: ISLAND) (N. M. Ivers et al., in press, 2017) . The trial 
+took place in nine cardi ac care centres and all eligible patients were enrolled. Participants were 
+randomized to: i) usual care (no standardized follow up interventions; herein referred to as the usual 
+care arm); ii) usual care plus a series of mailouts designed to target factors  influencing adherence, 
+including a letter and pre -filled cardiac rehabilitation referral form for the patient to bring to their family 
+physician (herein referred to as the mailouts only arm); or iii) usual care plus the series of mailouts, plus 
+automated reminder telephone calls to identify those at risk of nonadherence, followed by additional 
+support and navigation via trained lay health worker calls for such participants (herein referred to as the 
+mailouts+calls arm).  The trial had two co -primary outcomes – adherence to cardiac medications, and 
+cardiac rehabilitation completion – both measures of adherence to guideline -recommended treatments 
+(CACPR, 2009; NICE, 2013; O’Gara et al., 2013) . 
+While randomised trials ar e essential for evaluating whether behaviour change interventions 
+work or not (causal description), further work is typically required to establish the ‘how’ and ‘why’ of 
+intervention effectiveness (causal explanation). A process evaluation is a type of st udy which “aims to 
+understand the functioning of an intervention, by examining implementation, mechanisms of impact, 
+and contextual factors” (G. F. Moore et al., 2015) . We conducted  a theory -based process evaluation 
+alongside the trial to investigate  the mechanisms of action of the interventions.  
+The Health Action Process Approach (HAPA) (Schwarzer, 2008; Schwarzer et al., 2011)  informed 
+intervention design. HAPA proposes that health behaviour is influenced by a series of determinants in 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  6 
+ 
+two phases. In the motivat ional phase, an individual forms an intention to engage in the behaviour, 
+which is influenced by: i) their perceptions of their risk of experiencing health events related to the 
+behaviour (risk perception); ii) what they expect the outcomes of enacting the  behaviour might be 
+(outcome expectancies); iii) their confidence in their ability to enact the behaviour (self -efficacy); and iv) 
+specific barriers and resources, such as social support (Schwarzer, 2008; Schwarzer et al., 2011) . In the 
+volitional phase, an individual’s  enactment of the behaviour is influenced by: i) their intention; ii) their 
+self-efficacy; and iii) specific barriers and resources . The theory proposes that the influence of intention 
+on behaviour is mediated (i.e. translated into action) via the individual’s development of plan s specifying 
+when, where, and how they will enact the behaviour (action planning) ; and how they will overcome 
+barriers they may face (coping planning) (Schwarzer, 2008; Schwarzer et al., 2011) . Action control (the 
+processes by which an in dividual evaluates their enactment of the behaviour as compared to a standard) 
+is also important for continuous or repeated enactment (Schwarzer, 2008; Schwarzer et al., 2011) . 
+In our preparatory work, we found that HAPA constructs predicted medication adherence in this  
+population (another behaviour of focus in the trial) (Presseau et al., 2017) . Wider literature shows that 
+HAPA constructs also predict adherence with cardiac rehabilitation exercise (Schwarzer et al., 2008; 
+Sniehotta et al., 2005, 2010) . HAPA constructs were therefore targeted as intervention mechanisms of 
+action in the ISLAND trial. In addition, there have been calls in the behaviour change literature to move 
+away from fo cusing on only one behaviour at a time and towards incorporating a multiple behaviour 
+approach , which may achieve greater impact since health outcomes tend to be influenced by multiple 
+health behaviours  (Nigg  et al., 2002; Presseau et al., 2015) . This is especially important given that cardiac 
+rehabilitation exercise must be incorporated into everyday life, in which participants are already 
+engaging in multiple health behaviours which either facilitate or conflict with rehabilitation -related goals 
+(Presseau et al., 2015) . We incorporated this perspective by investigating  the impact of the interventions 
+on the prioritization of cardiac rehabilitation exercises relative to participants’ other everyday life 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  7 
+ 
+behaviours (goal priority). The aim of this process evaluation was to investigate indirect effects of the 
+interventions on cardiac rehabilitation adherence via theory -based cons tructs targeted.  In line with the 
+phases of the HAPA  and the addition of goal priority  previously outlined , we hypothesised that 
+compared to usual care, both interventions would  
+i) increase participants’ intention to participate in cardiac rehabilitation exer cises by 
+increasing their risk perceptions, positive outcome expectancies, self -efficacy, social 
+support, and the priority of participating compared to other activities; and  
+ii) increase participants’  likelihood of  completing cardiac rehabilitation by increasing 
+intention, self -efficacy, social support, action planning, and coping planning.  
+ 
+Method s 
+Design  
+Theory -based quantitative process evaluation alongside a randomized controlled trial.  
+ 
+Ethical approvals  
+Ethical approval for the trial was provided by the nine cardiac centers involved (Hamilton 
+General Hospital, Kingston General Hospital, London Health Sciences Centre, Peterborough Regional 
+Health Care, St Catharines General Hospital, Sun nybrook Health Sciences Centre, Trillium Health 
+Partners, University Health Network, and William Osler Health Centre). Given the low -risk nature of the 
+intervention, research ethics boards approved a waiver of consent for patients enrolled in the trial wit h 
+provision of multiple opportunities to opt out and a debrief at the time of outcome assessment. Ethics 
+approval for the analyses reported here was granted by the Women’s College Hospital Research Ethics 
+Board (#2017 -0135 -E), and the Ottawa Health Science  Network Research Ethics Board (#20170832 -01H).  
+Interventions  
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  8 
+ 
+Full d etails of the intervention development process have been published (Wittem an et al., 2017) , 
+including the embedded Behaviour Change Techniques (BCTs)  (Michie et al., 2013)  mapped to the 
+theoretical constructs targeted, and the final series of mailouts used. Table 1 lists the underlying 
+constructs assessed as mechanisms of change in this process evaluation, the BCTs used to target those 
+constructs, and examples of how these BCTs were operationalized .  
+TABLE 1 HERE  
+Participants  
+When outcome data for the trial were gathered at 12 months follow -up over the telephone, 
+participants were invited to take part in the process evaluation. Participants were asked if they would be 
+willing to answer a few more questions relating to their vie ws about participating in exercise and / or 
+taking heart pills. As there were two co -primary outcomes in this trial, there were two process 
+evaluation questionnaires. We recognised that completing all questionnaires may have been 
+burdensome for participant s, and may also have impacted the accuracy and completeness of the 
+responses received. Therefore, participants were initially invited to complete one of the process 
+evaluation questionnaires (randomly assigned), and then once completed, were asked if they would be 
+willing to complete a second questionnaire .  
+The target sample size was 500 participants for each co -primary outcome , calculated based on 
+testing the effect of a continuous mediator in a logistic regression model (Vittinghoff et al., 2009) . We 
+assumed that the overall prevalence of cardiac rehabilitation completion at the end of the study would 
+be 0.4; we also assumed a partial correlation between the mediator and each treatment indicator of 0.5 
+and a standard deviation for the mediator of 1. With these assumptions, 500 participants achieve 80% 
+power at a two -sided 5% significance level to detect an Odds Ratio for the mediator of 1.34, i.e., a 
+relative increase of 34% in the odds of completing cardiac rehabilita tion per 1 -unit change in the 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  9 
+ 
+mediator. Participants were consecutively invited to take part in the process evaluation until the target 
+sample size had been met. Participants were offered entry into a raffle to win one of five $20 gift cards.  
+Data collecti on 
+Completion of cardiac rehabilitation in the past year was assessed via self -report at 12 months 
+and categorized as a binary outcome. Questions were validated in a previous study in Ontario which 
+found almost perfect agreement between self -reported and site -verified use of cardiac rehabilitation 
+services (Kayaniyil et al., 2009) . Participants in our study were first asked if they had attended even one 
+session of cardiac rehabilita tion in the past year; if they reported that they had, they were then asked 
+whether they fully participated in the program, including the final re -assessment of heart health at the 
+end of the program; if participants reported not completing the program, th ey were asked to estimate 
+the proportion of total scheduled sessions attended. In line with consensus -derived data definitions  
+(Grace, Poirier, et al., 2014) , those  reporting multiple visits and re-assessment  were considered to have 
+completed cardiac rehabilitation.   
+Process evaluation questionnaires were also administered over the telephone at 12 months. The 
+questionnaire included items assessing the HAPA constructs, based on previously validated scales. A 
+new item was included to assess goal priority. Exercise is the key focus of cardiac rehabilitation, and 
+participants could have been at various stages of program completion when responding (with some 
+potentially having not attended any sessions). For p articipants who had attended at least one 
+rehabilitation session, questions were phrased in relation to partic ipating in cardiac rehabilitation 
+exercises. For participants who had not attended at least one session, questions were phrased in 
+relation to participating in exercise to stay fit. Details of the constructs assessed are presented in Table 
+2. All questions  (those used in the outcome evaluation and process evaluation) are included in the  
+Online Supplemental Materials . 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  10 
+ 
+Participant socio -demographic and clinical characteristics were gathered for the trial from 
+administrative sources. A provincial cardiac regis try, hosted by CorHealth Ontario (previously Cardiac 
+Care Network), with data collected by each cardiac centre, along with patient -reported data were linked 
+to the population -level health administrative databases held at ICES (an Ontario -based health 
+infor matics research institute). Demographic data collected via administrative sources comprised age, 
+sex, smoking status, education, ethnicity, rurality, and socioeconomic status (neighbourhood income 
+quintile estimate) (Statistics Canada,  Government of Canada, 2017) . Additional demographic data 
+collected as part of the outcome assessment questionnaire for the main trial comprised immigration 
+status, marital status, prior cardiac event or procedure, and whether the participant had diabet es. 
+Data processing and analysis  
+Participants were excluded from analyses if they did not have a value for at least 50% of the 
+items for 50% (4/8) of the constructs. For the theoretical constructs assessed using multiple items, we 
+assessed internal consist ency using Cronbach’s alpha (Table 2). If internal consistency was <0.7, we 
+explored whether consistency could be improved by omitting individual items. We calculated the mean 
+of the items measuring each construct to create a summary score. Mean scores for  constructs were 
+calculated using the data available, and analyses were conducted using pairwise deletion. Differences 
+between trial arms were assessed using one -way ANOVA with post -hoc Tukey tests to further 
+investigate any observed differences.  
+TABLE 2 HERE  
+We investigated indirect associations between the interventions and completion via the 
+constructs assessed. Models were built using Hayes’ SPSS PROCESS macro (Hayes, 2013) , using the 
+bootstrapping procedure with 5000 resamples. Consistent with HAPA’s two phases, we built one model 
+to investigate indirect effects of the interventions on intention via motivational constructs, and a second 
+model to investigate effects on rehab ilitation completion via volitional constructs. All analyses were 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  11 
+ 
+conducted using IBM SPSS Statistics 25. All analyses were conducted, and subsequent interpretations 
+made, before knowledge of the final trial results was obtained.  
+Results  
+Summary of the ISLAND trial results  
+Compared to usual care, mailouts+calls resulted in a significantly greater proportion of patients 
+completing cardiac rehabilitation (N. M. Ivers et al., in press) . There was no significant difference 
+between usual care and mailouts only in cardiac rehabilitation completion (N. M. Ivers et al., in press) .  
+Process evaluation response rates and participant characteristics  
+Participant flow through the process evaluation is summarized in Figure  1. In total, 2742 
+patients were enrolled in the trial; 2632 were included in trial analyses. Of these, 1566 were invited to  
+the process evaluation; 1162 (74%) consented. Details of participants’ reasons for declining to 
+participate were not gathered. Of the 1162 , 594 responded to the cardiac rehabilitation completion 
+questionnaire (589 responded to the medication adherence questionnaire not included in this 
+manuscript, with 21 responding to both); 588 (99%) were included in our analyses (6 were excluded du e 
+to the volume of missing data); 214 (36%) in the usual care arm, 187 (32%) in the mailouts only arm, and 
+187 (32%) in the mailouts+calls arm. This fulfilled our target sample size of 167 participants per arm.  
+FIGURE 1 HERE  
+Participant characteristics are summarized in Table 3. On average, participants in each arm were 
+63-64 years old, and most were male (74 -75%). Within each arm, there was spread across categories of 
+socioeconomic status and extent of education.  
+TABLE 3 HERE 
+Intervention effects on constructs  
+Results of internal consistency analyses are included in Table 2. The threshold of 0.7 was not 
+met for risk perception or social support. The two items assessing risk perception were analysed as 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  12 
+ 
+separate items. The Cron bach’s alpha value could not be improved for social support by omitting any of 
+the three items: therefore, all items were included but interpreted with due caution.  
+Mean scores, and differences between arms, are shown in Table 4. Between -group differences 
+were found for severity risk perception, self -efficacy, action planning, and coping planning. Post -hoc 
+Tukey tests indicated that: i) untreated coronary health problems were viewed as less severe in the 
+mailouts+calls arm than the usual care arm ( p=.001),  and in the mailouts+calls arm than the mailouts 
+only arm ( p<.001); ii) self -efficacy for exercise participation despite potential barriers was higher in the 
+mailouts+calls arm than the usual care arm ( p=.006); iii) action planning for participation in exe rcises 
+was greater in the mailouts+calls arm than the usual care arm ( p=.020); and iv) coping planning for 
+participation in exercises was greater in the mailouts+calls arm than the usual care arm ( p<.001).  
+TABLE 4 HERE  
+Indirect effects of interventions on intention to participate in cardiac rehabilitation exercises  
+We identified significant positive indirect effects of the mailouts+calls intervention on intention 
+to participate in cardiac rehabilitation exercises via increased priority, positive outcome ex pectancies, 
+and self -efficacy (Figure 2). Controlling for all other variables: relative to the control group, the intention 
+scores of those who received the mailouts+calls were on average 0.06 units higher  (95%CI 0.01 to 0.12) 
+due to the impact of this intervention on priority; 0.04 units higher  (95%CI 0.01 to 0.09) due to the 
+impact of this intervention on positive outcome expectancies; and 0.10 units higher  (95%CI 0.04 to 0.18) 
+due to the impact of this intervention on self -efficacy.    
+However, this was mitigated by a negative indirect effect via severity risk perception (i.e. 
+reduced severity with which untreated coronary health problems were viewed).  Controlling for all other 
+variables: relative to the control group, the intention s cores of those who received the mailouts+calls 
+were on average 0.02 units lower (95%CI -0.06 to -0.01) due to the impact of this intervention on 
+severity risk perception. There were no significant indirect effects of mailouts only (Figure 2).  
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  13 
+ 
+FIGURE 2 HER E 
+Indirect effects of interventions on exercise -based cardiac rehabilitation completion  
+Cardiac rehabilitation completion was defined as participating in the full program, including the 
+final re -assessment of heart health at the end of the program. Self-reported rehabilitation completion 
+rates for process evaluation participants were as follows: 34.1% (73/214) in the usual care arm; 40.1% 
+(75/187) in the mailouts only arm; and 41.7% (78/187) in the mailouts+calls arm. Pearson Chi -squared 
+tests indica ted that among the 1,773 individuals with a non -missing response for cardiac rehabilitation 
+completion, those whose data were analysed as part of either process evaluation (n=1,152) were more 
+likely to complete rehabilitation than those who did not take pa rt in the process evaluation (those not 
+asked to participate, as well as those asked but who declined) (n = 621) in the usual care arm 
+(2(1)=19.6, p<.001),  mailouts only arm (2(1)=30.9 p<.001),  and the mailouts+calls arm (2(1)=13.0, 
+p<.001) . 
+We identified significant positive indirect effects of the mailouts+calls on cardiac rehabilitation 
+completion via increased self -efficacy and action planning (Figure 3).  Controlling for all other variables: 
+relative to the control group, the odds of completi ng rehabilitation in those who received the 
+mailouts+calls were on average 1.13 times greater (95%CI 1.04 to 1.30) due to the impact of this 
+intervention on self -efficacy, and 1.08 times greater (95%CI 1.02 to 1.20) due to the impact of this 
+intervention o n action planning.  There were no significant indirect effects of mailouts only (Figure 3).  
+FIGURE 3 HERE  
+Discussion  
+Embedded within a randomized trial, we conducted a theory -based quantitative process 
+evaluation to investigate the mechanisms of action of two interventions designed to support completion 
+of exercise -based cardiac rehabilitation. Compared to usual care, th e intervention comprising a series of 
+mailouts alone had no indirect effect on either intention to participate in exercises, or completion of 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  14 
+ 
+cardiac rehabilitation (assessed via self -report) via proposed mechanisms (goal priority, outcome 
+expectancies, ri sk perception, self -efficacy, social support, action planning, coping planning). However, 
+the intervention comprising the mailouts plus additional telephone support had indirect effects on 
+intention via increased priority of participating in exercise compa red to other activities; increased 
+positive outcome expectancies related to participating; and increased self-efficacy  in participating in 
+exercise despite potential barriers. Of note, this intervention also had an unintended negative effect in 
+that it red uced the severity with which untreated coronary health problems were viewed (risk 
+perceptions). This intervention al so had indirect effects on self-reported cardiac rehabilitation 
+completion via increased self -efficacy and increased action -planning (develo pment of a detailed plan 
+specifying when, where, and how they would participate in exercise).  
+Implications for interpreting intervention effectiveness  
+Although effect sizes are small and we cannot infer causality, o ur findings suggest that the 
+mailouts+calls intervention improved cardiac rehabilitation completion by enhancing participants’ self -
+efficacy and action -planning. Five interventions included in the recent Cochrane review of interventions 
+to increase partici pation in cardiac rehabilitation  (Santiago de Araújo Pio et al., 2019)  were explicitly 
+based on Social Cognitive Theory or exercise self -efficacy (D. L. Carroll et al., 2007; Dolansky et al., 2011; 
+Focht et al., 2004; Pfaeffli Dale et al., 2015; Price, 2012) . In two further studies which considered self -
+efficacy , interventions were designed to support maintenance of exercise following a rehabilitation 
+program (Izawa et al., 2005; S. M. Moore et al., 2006) . Six of the se seven  interventions improved 
+rehabilitation utilization or exercise maintenance (D. L. Carroll et al., 2007; Dolansky et al., 2011; Focht 
+et al., 2004; Izawa et al., 2005; S. M. Moore et al., 2006; Price, 2012) , indicating the potential of these 
+interventions. Self -efficacy was measured in four of the six studies (Dolansky et al., 2011; Izawa et al., 
+2005; S. M. Moore et al., 2006; Price, 2012) : a significant increase in self -efficacy was found in only one 
+(Izawa et al., 2005) . Previous studies did not involve exploration of indirect effects. Our results advance 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  15 
+ 
+the understanding of effective intervention components by  highlighting  self-efficacy as a potential 
+mechanism of effect.  
+The importance of planning in this population has been highlighted. Sniehotta et al.  (Sniehotta 
+et al., 2006)  found that although ac tion planning alone had no significant effect, it led to higher levels of 
+physical activity in combination with coping planning . Sniehotta et al.  (Sniehotta et al., 2006)  suggested 
+that action planning may have been less effective than combined planning because participants may 
+have already formed acti on plans prior to the intervention . Following this line of reasoning, participants 
+in our study may not have already formed action plans and therefore benefitted from reminders and 
+support to do so. However, it is important to highlight the small effect si ze and to note that mean scores 
+for action planning and coping planning were still relatively low in this group (2.74 and 2.72 
+respectively). A narrative synthesis conducted within a systematic review of coping planning 
+interventions suggested that these interventions work better when planning is supported by someone 
+(Kwasnicka et al., 2013) . Participants in our study may have benefitted from more support to develop 
+both their action and coping plans. Combined with previous literature (Schwarzer et al., 2008; Sniehotta 
+et al., 2010) , our results highlight the potential impact of these relatively straightforward, personalized, 
+scalable interventions.  
+The mailouts+calls  also impacted  participants’ motivation. A novel finding was that th is 
+intervention increased the priority of these exercises relative to other behaviours of everyday life. 
+Previous work in non -clinical populations indicated that increasing the priority of physical activity 
+strengthens the influence of intention on physical activity behaviour (Conner et al., 2016) . Ours is the 
+first study to indicate t he value of considering goal priority for intervention development with clinical 
+populations, thereby reinforcing the importance of taking a multiple behaviour perspective when 
+developing behaviour change interventions (Nigg et al., 2002; Presseau et al., 2015) . 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  16 
+ 
+However, there was also a negative effect on severity risk perceptions. During intervention 
+development, patients reviewing mail -out materials noted that the included health risk information was 
+potentially frightening (Witteman et al., 2017) . The team acknowledged that this was worrisome, but 
+agreed that they had an ethical imperative to convey this information (Witteman et al., 2017) . Although 
+this does not seem to have been an issue for the group receivin g the mailouts only, the likelihood of 
+participants being frightened may have been increased for the group receiving the calls , which were 
+aimed at individuals at risk of non -adherence and frequently emphasized that adhering to treatments 
+could reduce the risk of a further heart attack. This may have elicited defensive reactions, resulting in 
+the perceptions of reduced seriousness of untreated coronary health problems (Ditto et al., 1988) . 
+Alternatively, the reassurance and support provided in the calls may have reduced some concerns about 
+risks in general , which may have contributed to the lower scores for this item in this group. In any case, 
+risk perception is conceptualized as a distal  predictor of behaviour (Schwarzer, 2008; Schwarzer et al., 
+2011)  and therefore according to the underlying theory, this negative effect is unlikely to have had a 
+great deal of impact on cardiac rehabilitation completion in the trial. That said, this finding highlights a 
+general strength of conducting mechanistic process evaluations, in that this has enabled us to identify 
+unintended consequences of the intervention that we may not have discovered otherwise . This can 
+inform subsequent iterations of intervention content.  
+Although both interventions were developed to include the same active ingredients (i.e. the 
+same BCTs), they differentially effected the proposed mechanisms, and neither influenced all proposed 
+mechanisms. There are several potential explanations for this.  First, the differences could be related to 
+BCT operationalization. BCTs can be operationalized in various ways; there are no standardized 
+methods. It may be that in the intervention comprising mailouts alone, which did not influence 
+underlying mechanisms,  the chosen BCTs were not operationalized in the most appropriate way for 
+targeting the proposed mechanisms. A related but separate possibility is that the differences are related 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  17 
+ 
+to differences in dose or intensity of BCT delivery  (the amount of the speci fic active component included 
+in the overall intervention (Hoffmann et al., 2014) ). Given that the same BCTs were repeated, the 
+mailouts+calls contained a higher dose (repetition) of the same BCTs as those included in the mailouts 
+only. A third potential explanation relates to mode  of delivery: discussions over the phone with another 
+person may have been more powerful than paper format only. Finally, the additional phone calls may 
+have enhanced intervention fidelity (the degree to which an intervention is applied as intended (C. 
+Carroll et al., 2007) )by encouraging or reminding participants to read and use the mailouts.  
+Strengths and limitations  
+This study demonstrates the value of applying contemporary behaviour change theory to 
+develop and evaluate interventions alongside randomized trials in health care. Validated measures were 
+used to assess theoretical constructs where available. We identifie d potential mechanisms of effect of 
+one intervention, and  proposed multiple possible explanations for the lack of effects of the other 
+intervention. The response rate to the overall process evaluation study was reasonable (74%), and 
+exclusions from analyse s were kept to a minimum: only six participants were excluded from all analyses, 
+and the lowest number of participants in an analysis was 548 of a possible 594 (92%).  
+However, there are some key limitations to note. The behavioural outcome (cardiac 
+rehabi litation completion) was self -reported, which may lead to inaccuracies in reporting or increase the 
+likelihood of socially desirable responding. However, there was not uniform reporting of high adherence 
+as may be expected. In addition, the items we used w ere validated in a previous study in our province 
+which indicated that self -reported rates of cardiac rehabilitation participation are concordant with 
+program -reported rates (Kayaniyil et al., 2009) . Our approach to handling missing data was not based on 
+a precedent in the literature but reflected our aim to use as much of the gathered data as possible in our 
+analyses. The theoretical constructs and outcome were assessed at the same time, which limits the 
+interpretation of causality in the  analyses of indirect effects.  Given this design, we cannot rule out the 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  18 
+ 
+possibility that attending cardiac rehabilitation contributed to the increase in mean scores for constructs 
+seen in the mailouts+calls intervention group. However, while rehabilitatio n completion rates were 
+similar for both intervention groups, only the mailouts+calls group showed indirect effects via self -
+efficacy which suggests that this intervention  likely had an effect on self -efficacy over -and-above cardiac 
+rehabilitation attendan ce per se. While the pragmatic nature of this trial precluded this option, future 
+research should aim to decouple and sequence mediator and outcome assessment over time where 
+possible . In addition, the wording of theoretical construct questions varied for participants who had not 
+attended a session of cardiac rehabilitation (focussing on conducting exercise in general as opposed to 
+conducting exercises learned at rehabilitation). We were unable to control for this in our analyses due to 
+questionnaire wordin g being directly linked to  the outcome (cardiac rehabilitation completion).  This 
+constitutes a risk of bias in our findings. However, there were no significant differences across groups in 
+the proportion of participants who  completed the two different versions of the questionnaire 
+(2(2)=1.570, p=.456) . Although  this makes it less likely that questionnaire wording  would account for 
+the differences in indirect effects observed between the groups , it does not eliminate this ri sk of bias . 
+Future research should avoid this risk,  for example by using wording referring to exercise in general for 
+all participants.  
+There was an imbalance of sex in our participant group, with most participants being male. 
+However, the majority of indi viduals diagnosed with MI in the general population are male (Albrektsen 
+et al., 2016; Public Health Agency of Canada, 2018) . Trial results demonstrated that intervention effects 
+on cardiac rehabilitation completion did not differ depending on any sociodemographic characteristics, 
+including sex (N. M. Ivers et al., in press) . The analyses reported here were not powered to include 
+moderator effects. Eff ect modification on constructs hypothesised as underlying mechanisms of change, 
+and the impact of tailoring interventions based on sociodemographic characteristics such as sex, could 
+be explored in further research . Although the effect sizes found for the mailouts+calls are small, such 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  19 
+ 
+effects were achieved in the context of a pragmatic trial introducing a feasible, minimally -invasive 
+intervention delivered at scale as part of routine care, indicating the potential for scalability and impact 
+at a population  level. We found differences in cardiac rehabilitation completion in the sub -set of 
+participants who took part in the process evaluation compared to those in the trial who did not, which 
+may call into question the generalisability of our findings. However,  differences were found in both 
+intervention arms as well as the control arm, indicating that some trial participants were less likely to 
+adhere to cardiac rehabilitation whether or not they received one of the interventions. It is likely that 
+this group o f participants faced challenges with cardiac rehabilitation completion different to those 
+addressed by the interventions evaluated in this study, and therefore require different types of 
+additional supports.  
+Suggestions for future development and evaluati on of interventions  
+Our results indicate that those  developing interventions to facilitate cardiac rehabilitation 
+completion should consider targeting goal priority, outcome expectancies, self -efficacy, and action 
+planning , while mitigating negative effects  on risk perceptions . Since the mailouts+calls improved  
+cardiac rehabilitation completion  in the overall trial, the pragmatic nature of the project would suggest 
+that scale and spread of this intervention are key next steps. Our findings in dicate  that the positive 
+effects of th is intervention may be optimized if it is refined beforehand , for example, by re-visiting the 
+content targeting risk perceptions, and reinforc ing the content targeting action planning. In addition, 
+future work should e valuate impacts using objective reports of program completion where possible and 
+feasible. Although we proposed several reasons why mailouts only did not influence theoretical 
+constructs, we cannot definitively say why this occurred: future research could explore  the effects of 
+different BCT operationalizations, methods of delivery, dose/intensity, and assessments of fidelity.  
+Conclusion s 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  20 
+ 
+Our theory -based process evaluation conducted alongside a pragmatic randomised trial 
+indicates that an intervention comprising a series of theory -informed mailouts plus additional telephone 
+support increased the likelihood of completing cardiac rehabilitat ion (assessed via self -report) by 
+increasing participants’ confidence in participating in exercise despite potential barriers (self -efficacy), 
+and by encouraging participants to develop a detailed plan specifying when, where, and how they would 
+participate  in exercise (action -planning). An intervention comprising the mailouts alone did not 
+influence hypothesised mechanisms of action. Our findings, coupled with the clear delineation of the 
+specific behaviour change techniques included in the interventions in  previous publications, may serve 
+as a roadmap for researchers and practitioners wishing to translate this work into other settings .  
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  21 
+ 
+References  
+Albrektsen, G., Heuch, I., Løchen, M.-L., Thelle, D. S., Wilsgaard, T., Njølstad, I., & Bønaa, K. H. 
+(2016). Lifelong Gender Gap in Risk of Incident Myocardial Infarction: The Tromsø Study. 
+JAMA Internal Medicine , 176(11), 1673 –1679. 
+https://doi.org/10.1001/jamainternmed.2016.5451  
+Anderson,  L., & Taylor, R. S. (2014). Cardiac rehabilitation for people with heart disease: An 
+overview of Cochrane systematic reviews. Cochrane Database of Systematic Reviews , 12. 
+https://doi.org/10.1002/14651858.CD011273.pub2  
+Anderson, L., Thompson, D. R., Oldrid ge, N., Zwisler, A. -D., Rees, K., Martin, N., & Taylor, R. S. 
+(2016). Exercise ‐based cardiac rehabilitation for coronary heart disease. Cochrane Database 
+of Systematic Reviews , 1. Art. No.: CD001800 . 
+https://doi.org/10.1002/14651858.CD001800.pub3  
+Bethell, H. J., Turner, S. C., Evans, J. A., & Rose, L. (2001). Cardiac rehabilitation in the United 
+Kingdom. How complete is the provision? Journal of Cardiopulmonary Rehabilitation , 21(2), 
+111–115. https://doi.org/10.1097/00008483 -200103000 -00008  
+CACPR. (2009). Canadian Guidelines for Cardiac Rehabilitation and Cardiovascular Disease 
+Prevention: Translating Knowledge into Action 3rd Edition . https://cacpr.ca/Guidelines  
+Carroll, C., Patterson, M., Woo d, S., Booth, A., Rick, J., & Balain, S. (2007). A conceptual framework 
+for implementation fidelity. Implementation Science , 2(1), 40. https://doi.org/10.1186/1748 -
+5908 -2-40 
+Carroll, D. L., Rankin, S. H., & Cooper, B. A. (2007). The effects of a collaborat ive peer 
+advisor/advanced practice nurse intervention: Cardiac rehabilitation participation and 
+rehospitalization in older adults after a cardiac event. Journal of Cardiovascular Nursing , 
+22(4), 313 –319. https://doi.org/10.1097/01.JCN.0000278955.44759.73  
+Clark, A. M., King -Shier, K. M., Thompson, D. R., Spaling, M. A., Duncan, A. S., Stone, J. A., Jaglal, 
+S. B., & Angus, J. E. (2012). A qualitative systematic review of influences on attendance at 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  22 
+ 
+cardiac rehabilitation programs after referral. American Hear t Journal , 164(6), 835 -845.e2. 
+https://doi.org/10.1016/j.ahj.2012.08.020  
+Conner, M., Abraham, C., Prestwich, A., Hutter, R., Hallam, J., Sykes -Muskett, B., Morris, B., & 
+Hurling, R. (2016). Impact of goal priority and goal conflict on the intention -health -behavior 
+relationship: Tests on physical activity and other health behaviors. Health Psychology , 35(9), 
+1017 –1026. https://doi.org/10.1037/hea0000340  
+Cooper, A. F., Jackson, G., Weinman, J., & Horne, R. (2002). Factors associated with cardiac 
+rehabilitation attendance: A systematic review of the literature. Clinical Rehabilitation , 16(5), 
+541–552. https://doi.org/10.1191/0269215502cr524oa  
+Daly, J., Sind one, A. P., Thompson, D. R., Hancock, K., Chang, E., & Davidson, P. (2002). Barriers 
+to participation in and adherence to cardiac rehabilitation programs: A critical literature 
+review. Progress in Cardiovascular Nursing , 17(1), 8 –17. https://doi.org/10.111 1/j.0889 -
+7204.2002.00614.x  
+de Melo Ghisi, G. L., Oh, P., Benetti, M., & Grace, S. L. (2013). Barriers to Cardiac Rehabilitation 
+Use in Canada Versus Brazil. Journal of Cardiopulmonary Rehabilitation and Prevention , 
+33(3), 173 –179. https://doi.org/10.1097/H CR.0b013e3182930c9f  
+Ditto, P. H., Jemmott, J. B., & Darley, J. M. (1988). Appraising the threat of illness: A mental 
+representational approach. Health Psychology , 7(2), 183 –201. https://doi.org/10.1037//0278 -
+6133.7.2.183  
+Dolansky, M. A., Zullo, M. D., Boxe r, R. S., & Moore, S. M. (2011). Initial efficacy of a cardiac 
+rehabilitation transition program: Cardiac TRUST. Journal of Gerontological Nursing , 37(12), 
+36–44. https://doi.org/10.3928/00989134 -20111103 -01 
+Focht, B. C., Brawley, L. R., Rejeski, W. J., & Ambrosius, W. T. (2004). Group -mediated activity 
+counseling and traditional exercise therapy programs: Effects on health -related quality of life 
+among older adults in cardiac rehabilitation. Annals of Behavioral Medicine , 28(1), 52 –61. 
+https://doi.org/10.1 207/s15324796abm2801_7  
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  23 
+ 
+Grace, S. L., Bennett, S., Ardern, C. I., & Clark, A. M. (2014). Cardiac rehabilitation series: Canada. 
+Progress in Cardiovascular Diseases , 56(5), 530 –535. 
+https://doi.org/10.1016/j.pcad.2013.09.010  
+Grace, S. L., Poirier, P., Norris , C. M., Oakes, G. H., Somanader, D. S., & Suskin, N. (2014). Pan -
+Canadian development of cardiac rehabilitation and secondary prevention quality indicators. 
+Canadian Journal of Cardiology , 30(8), 945 –948. https://doi.org/10.1016/j.cjca.2014.04.003  
+Hayes, A. F. (2013). Introduction to mediation, moderation, and conditional process analysis: A 
+regression -based approach . Guilford Press.  
+Hoffmann, T. C., Glasziou, P. P., Boutron, I., Milne, R., Perera, R., Moher, D., Altman, D. G., 
+Barbour, V., Macdonald, H., Johnston, M., Lamb, S. E., Dixon -Woods, M., McCulloch, P., 
+Wyatt, J. C., Chan, A. -W., & Michie, S. (2014). Better reporting of interventions: Template for 
+intervention description and replication (TIDieR) checklist and guide. BMJ, 348, g1687. 
+https://doi.o rg/10.1136/bmj.g1687  
+Ivers, N. M., Schwalm, J. -D., Bouck, Z., McCready, T., Taljaard, M., Grace, S. L., Cunningham, J., 
+Bosiak, B., Presseau, J., Witteman, H. O., Suskin, N., Wijeysundera, H. C., Atzema, C., 
+Bhatia, R. S., Natarajan, M., & Grimshaw, J. M. (in press). Interventions Supporting Long -
+term Adherence aNd Decreasing cardiovascular events post myocardial infarction (ISLAND): 
+A pragmatic randomized trial. BMJ. 
+Ivers, N. M., Schwalm, J. -D., Witteman, H. O., Presseau, J., Taljaard, M., McCready, T., B osiak, B., 
+Cunningham, J., Smarz, S., Desveaux, L., Tu, J. V., Atzema, C., Oakes, G., Isaranuwatchai, 
+W., Grace, S. L., Bhatia, R. S., Natarajan, M., & Grimshaw, J. M. (2017). Interventions 
+Supporting Long -term Adherence aNd Decreasing cardiovascular event s (ISLAND): 
+Pragmatic randomized trial protocol. American Heart Journal , 190, 64–75. 
+https://doi.org/10.1016/j.ahj.2017.05.007  
+Izawa, K. P., Watanabe, S., Omiya, K., Hirano, Y., Oka, K., Osada, N., & Iijima, S. (2005). Effect of 
+the self -monitoring approac h on exercise maintenance during cardiac rehabilitation: A 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  24 
+ 
+randomized, controlled trial. American Journal of Physical Medicine & Rehabilitation , 84(5), 
+313–321. https://doi.org/10.1097/01.phm.0000156901.95289.09  
+Kayaniyil, S., Leung, Y. W., Suskin, N., Ste wart, D. E., & Grace, S. L. (2009). Concordance of self - 
+and program -reported rates of cardiac rehabilitation referral, enrollment and participation. 
+Canadian Journal of Cardiology , 25(4), e96 –e99. https://doi.org/10.1016/S0828 -
+282X(09)70063 -7 
+Kotseva, K.,  Wood, D., De Backer, G., De Bacquer, D., Pyörälä, K., & Keil, U. (2009). 
+Cardiovascular prevention guidelines in daily practice: A comparison of EUROASPIRE I, II, 
+and III surveys in eight European countries. The Lancet , 373(9667), 929 –940. 
+https://doi.org /10.1016/S0140 -6736(09)60330 -5 
+Kwasnicka, D., Presseau, J., White, M., & Sniehotta, F. F. (2013). Does planning how to cope with 
+anticipated barriers facilitate health -related behaviour change? A systematic review. Health 
+Psychology Review , 7(2), 129 –145. https://doi.org/10.1080/17437199.2013.766832  
+Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Hardeman, W., Eccles, M. P., 
+Cane, J., & Wood, C. E. (2013). The Behavior Change Technique Taxonomy (v1) of 93 
+hierarchically clustered techniq ues: Building an international consensus for the reporting of 
+behavior change interventions. Annals of Behavioral Medicine , 46(1), 81 –95. 
+https://doi.org/10.1007/s12160 -013-9486 -6 
+Moore, G. F., Audrey, S., Barker, M., Bond, L., Bonell, C., Hardeman, W., Mo ore, L., O’Cathain, A., 
+Tinati, T., Wight, D., & Baird, J. (2015). Process evaluation of complex interventions: Medical 
+Research Council guidance. BMJ, 350, h1258. https://doi.org/10.1136/bmj.h1258  
+Moore, S. M., Charvat, J. M., Gordon, N. H., Roberts, B. L ., Pashkow, F., Ribisl, P., & Rocco, M. 
+(2006). Effects of a CHANGE intervention to increase exercise maintenance following 
+cardiac events. Annals of Behavioral Medicine , 31(1), 53 –62. 
+https://doi.org/10.1207/s15324796abm3101_9  
+Moore, S. M., Dolansky, M. A ., Ruland, C. M., Pashkow, F. J., & Blackburn, G. G. (2003). Predictors 
+of women’s exercise maintenance after cardiac rehabilitation. Journal of Cardiopulmonary 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  25 
+ 
+Rehabilitation and Prevention , 23(1), 40 –49. https://doi.org/10.1097/00008483 -200301000 -
+00008  
+Ndegwa, S. (2010). Support Services for Cardiac Rehabilitation in Canada [Environmental Scan 
+issue 13].  Canadian Agency for Drugs and Technologies in Health.  
+Neubeck, L., Freedman, S. B., Clark, A. M., Briffa, T., Bauman, A., & Redfern, J. (2012). 
+Participating in cardiac rehabilitation: A systematic review and meta -synthesis of qualitative 
+data. European Journal of Preventive Cardiology , 19(3), 494 –503. 
+https: //doi.org/10.1177/1741826711409326  
+NICE. (2013). Myocardial infarction: Cardiac rehabilitation and prevention of further cardiovascular 
+disease. Clinical guideline [CG172].  https://www.nice.org.uk/guidance/cg172  
+Nigg, C. R., Allegrante, J. P., & Ory, M. (2 002). Theory -comparison and multiple -behavior research: 
+Common themes advancing health behavior research. Health Education Research , 17(5), 
+670–679. https://doi.org/10.1093/her/17.5.670  
+O’Gara, P. T., Kushner, F. G., Ascheim, D. D., Casey, D. E., Chung, M.  K., de Lemos, J. A., Ettinger, 
+S. M., Fang, J. C., Fesmire, F. M., Franklin, B. A., Granger, C. B., Krumholz, H. M., 
+Linderbaum, J. A., Morrow, D. A., Newby, L. K., Ornato, J. P., Ou, N., Radford, M. J., Tamis -
+Holland, J. E., … Zhao, D. X. (2013). 2013 AC CF/AHA guideline for the management of ST -
+elevation myocardial infarction: A report of the American College of Cardiology 
+Foundation/American Heart Association Task Force on Practice Guidelines. Journal of the 
+American College of Cardiology , 61(4), e78 –e140. https://doi.org/10.1016/j.jacc.2012.11.019  
+Pfaeffli Dale, L., Whittaker, R., Jiang, Y., Stewart, R., Rolleston, A., & Maddison, R. (2015). Text 
+message and internet support for coronary heart disease self -management: Results from the 
+Text4Heart randomiz ed controlled trial. Journal of Medical Internet Research , 17(10), e237. 
+https://doi.org/10.2196/jmir.4944  
+Polyzotis, P. A., Tan, Y., Prior, P. L., Oh, P., Fair, T., & Grace, S. L. (2012). Cardiac rehabilitation 
+services in Ontario: Components, models and underserved groups. Journal of 
+Cardiovascular Medicine , 13(11), 727 –734. https://doi.org/10.2459/JCM.0b013e32835794c1  
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  26 
+ 
+Presseau, J., Boyd, E., Francis, J. J., & Sniehotta, F. F. (2015). Goal conflict and goal facilitation in 
+community -based cardiac rehabili tation: A theory -based interview study. Psychology, Health 
+& Medicine , 20(2), 227 –238. https://doi.org/10.1080/13548506.2014.914235  
+Presseau, J., Schwalm, J. D., Grimshaw, J. M., Witteman, H. O., Natarajan, M. K., Linklater, S., 
+Sullivan, K., & Ivers, N. M . (2017). Identifying determinants of medication adherence 
+following myocardial infarction using the Theoretical Domains Framework and the Health 
+Action Process Approach. Psychology & Health , 32(10), 1176 –1194. 
+https://doi.org/10.1080/08870446.2016.1260724  
+Price, J. A. D. (2012). A pilot trial of a coaching intervention designed to increase women’s 
+attendance at cardiac rehabilitation intake  [PhD Thesis].  
+Public Health Agency of Canada. (2018). Report from the Canadian Chronic Disease Surveillance 
+System: Heart Disease in Canada . Public Health Agency of Canada.  
+Santiago de Araújo Pio, C., Chaves, G. S., Davies, P., Taylor, R. S., & Grace, S. L. (2019). 
+Interventions to promote patient utilisation of cardiac rehabilitation. Cochrane Data base of 
+Systematic Reviews , Issue 2. Art. No.: CD007131. (2). 
+https://doi.org/10.1002/14651858.CD007131.pub4  
+Schwarzer, R. (2008). Modeling health behavior change: How to predict and modify the adoption 
+and maintenance of health behaviors. Applied Psycholog y, 57(1), 1 –29. 
+https://doi.org/10.1111/j.1464 -0597.2007.00325.x  
+Schwarzer, R., Lippke, S., & Luszczynska, A. (2011). Mechanisms of health behavior change in 
+persons with chronic illness or disability: The Health Action Process Approach (HAPA). 
+Rehabilitat ion Psychology , 56(3), 161 –170. https://doi.org/10.1037/a0024509  
+Schwarzer, R., Luszczynska, A., Ziegelmann, J. P., Scholz, U., & Lippke, S. (2008). Social -cognitive 
+predictors of physical exercise adherence: Three longitudinal studies in rehabilitation. Health 
+Psychology , 27(1S), S54 -63. https://doi.org/10.1037/0278 -6133.27.1(Suppl.).S54  
+Sniehotta, F. F., Gorski, C., & Araújo -Soares, V. (2010). Adoption of community -based cardiac 
+rehabilitation programs and physical activity following phase III cardiac reh abilitation in 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  27 
+ 
+Scotland: A prospective and predictive study. Psychology & Health , 25(7), 839 –854. 
+https://doi.org/10.1080/08870440902915915  
+Sniehotta, F. F., Scholz, U., & Schwarzer, R. (2006). Action plans and coping plans for physical 
+exercise: A longitu dinal intervention study in cardiac rehabilitation. British Journal of Health 
+Psychology , 11(1), 23 –37. https://doi.org/10.1348/135910705X43804  
+Sniehotta, F. F., Schwarzer, R., Scholz, U., & Schüz, B. (2005). Action planning and coping planning 
+for long -term lifestyle change: Theory and assessment. European Journal of Social 
+Psychology , 35(4), 565 –576. https://doi.org/10.1002/ejsp.258  
+Statistics Canada, Government of Canada. (2017, December 13). Postal Code OM Conversion File 
+(PCCF), Reference Guide, 2017. Statistics Canada Catalogue no. 92 -154-G. 
+https://www150.statcan.gc.ca/n1/pub/92 -154-g/92-154-g2017001 -eng.htm  
+Suaya, J. A., Shepard, D. S., Normand, S. -L. T., Ades, P. A., Prottas, J., & Stason, W. B. (2007). 
+Use of cardiac rehabilitation by Medicare bene ficiaries after myocardial infarction or coronary 
+bypass surgery. Circulation , 116(15), 1653 –1662. 
+https://doi.org/10.1161/CIRCULATIONAHA.107.701466  
+Vittinghoff, E., Sen, S., & McCulloch, C. E. (2009). Sample size calculations for evaluating 
+mediation. Statistics in Medicine , 28(4), 541 –557. https://doi.org/10.1002/sim.3491  
+Witteman, H. O., Presseau, J., Angl, E. N., Jokhio, I., Schwalm, J. -D., Grimshaw, J. M., Bosiak, B., 
+Natarajan, M. K., & Ivers, N. M. (2017). Negotiating tensions between theory and desi gn in 
+the development of mailings for people recovering from acute coronary syndrome. JMIR 
+Human Factors , 4(1), e6. https://doi.org/10.2196/humanfactors.6502  
+ 
+ 
+ 
+ 
+ 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  28 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTERVENTIONS SUPPORTING CARDIAC REHABILITATION  29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,1597 @@
+SYSTEMATIC REVIEW Open Access
+Adapting evidence-informed complex
+population health interventions for new
+contexts: a systematic review of guidance
+A. Movsisyan1,2*, L. Arnold1,2, R. Evans3, B. Hallingberg4, G. Moore3,A .O ’Cathain5, L. M. Pfadenhauer1,2,
+J. Segrott3and E. Rehfuess1,2
+Abstract
+Background: Adapting interventions that have worked elsewhere can save resources associated with developing
+new interventions for each specific context. While a developing body of evidence shows benefits of adapted
+interventions compared with interventions transported without adaptation, there are also examples of interventions
+which have been extensively adapted, yet have not worked in the new context. Decisions on when, to what extent,
+and how to adapt interventions therefore are not straightforward, particularly when conceptualising intervention
+effects as contingent upon contextual interactions in complex systems. No guidance currently addresses these
+questions comprehensively. To inform development of an overarching guidance on adaptation of complex
+population health interventions, this systematic review synthesises the content of the existing guidance papers.
+Methods: We searched for papers published between January 2000 and October 2018 in 7 bibliographic databases.
+We used citation tracking and contacted authors and experts to locate further papers. We double screened all the
+identified records. We extracted data into the following categories: descriptive information, key concepts and
+definitions, rationale for adaptation, aspects of adaptation, process of adaptation, evaluating and reporting adapted
+interventions. Data extraction was conducted independently by two reviewers, and retrieved data were synthesised
+thematically within pre-specified and emergent categories.
+Results: We retrieved 6694 unique records. Thirty-eight papers were included in the review representing 35 sources
+of guidance. Most papers were developed in the USA in the context of implementing evidence-informed interventions
+among different population groups within the country, such as minority populations. We found much agreement on
+how the papers defined key concepts, aims, and procedures of adaptation, including involvement of key stakeholders,
+but also identified gaps in scope, conceptualisation, and operationalisation in several categories.
+Conclusions: Our review found limitations that should be addressed in future guidance on adaptation .Specifically,
+future guidance needs to be reflective of adaptations in the context of transferring interventions across countries,
+including macro- (e.g. national-) level interventions, better theorise the role of intervention mechanisms and contextual
+interactions in the replicability of effects and accordingly conceptualise key concepts, such as fidelity to intervention
+functions, and finally, suggest evidence-informed strategies for adaptation re-evaluation and reporting.
+Trial registration: PROSPERO 2018, CRD42018112714 .
+Keywords: Adaptation, Replication, Gui dance, Implementation, Context, Evidenc e-based, Evidence-informed, Systematic
+review, Population health, Complex interventions
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated.* Correspondence: ani.movsisyan@ibe.med.uni-muenchen.de
+1Institute for Medical Information Processing, Biometry and Epidemiology,
+LMU Munich, Marchioninistrasse 17, 81377 Munich, Germany
+2Pettenkofer School of Public Health, LMU Munich, Marchioninistrasse 17,
+81377 Munich, Germany
+Full list of author information is available at the end of the article
+Movsisyan et al. Implementation Science          (2019) 14:105 
+https://doi.org/10.1186/s13012-019-0956-5
+Background
+Population health interventions comprise a spectrum of
+interventions, programmes, and policies in public health
+and health services research that seek to change the
+population distribution of risk [ 1]. This includes inter-
+ventions delivered to whole populations (e.g. regulatory
+restrictions on alcohol sales), and interventions targeting
+defined sub-populations (e.g. based on age), or specific
+groups with increased levels of risk (e.g. brief alcohol
+interventions for harmful drinkers or health service in-
+terventions to prevent obesity [ 1]). Increasingly, inter-
+ventions are seen as interacting with the complex
+systems into which they are introduced [ 2–4]. From this
+systems perspective, all interventions can be conceptua-
+lised as complex, as they operate through active context-
+ual interactions, influence and are influenced by
+mechanisms of the entire system [ 3].
+Implementing interventions that have worked elsewhere
+(we refer to these as evidence-informed interventions) can
+save human and financial resources associated with build-
+ing evidence de novo for each context. However, this often
+involves implementing an intervention in systems with
+different norms, resources, and delivery structures to the
+original context. While there are examples of complex
+population health interventions that have successfully
+been transferred to new contexts [ 5,6], others have been
+ineffective [ 7,8], or even harmful [ 9,10]. Potential reasons
+for transferability failure include contextual disparities,
+local adaptations which compromise important interven-
+tion functions, or different evaluation methods in the
+original and new contexts [ 11].
+Context can be thought of as a set of characteristics
+and circumstances that consist of active and unique fac-
+tors within which the implementation of an intervention
+is embedded [ 12]. Intervention effects are generatedthrough interaction of new ways of working with exist-
+ing contexts [ 13]. When implementing interventions in a
+new context, adaptation and re-evaluation is often re-
+quired to be confident that the intervention will achieve
+the same benefits as in the original study. Simultaneous
+recognition of the value of using evidence from else-
+where, and the need to adapt interventions to achieve fit
+within new contexts, has stimulated research on the im-
+plementation and/or re-evaluation of evidence-informed
+interventions in new contexts.
+A number of papers, including editorials and case
+studies, have been published in recent years providing
+recommendations on how to adapt interventions for
+new contexts [ 11,14]. However, few attempts have been
+made to systematise them [ 15], and no overarching and
+consensus-based guidance is currently available. Further-
+more, there are debates in the field on how to define
+and operationalise important concepts, such as adapta-
+tion and fidelity. For example, Stirman et al. define adap-
+tations based on the targets of modification [ 16]: (i)
+modifications made to the content of the intervention
+and its implementation; (ii) modifications made to the
+context; and (iii) modifications made to procedures for
+intervention evaluation [ 16]. In the meantime, Resnicow
+et al. suggest defining adaptations based on degrees of
+modification: modifications made to observable charac-
+teristics of the intervention (i.e. surface structures) and
+those made to the underlying psycho-social and environ-
+mental factors (i.e. deep structures). Different ap-
+proaches have also been put forward regarding “fidelity ”.
+Implementation fidelity has commonly been conceptua-
+lised as delivery of a (manualised) intervention as
+intended by developers [ 17]. Proponents of complex sys-
+tems thinking, however, have suggested alternatively de-
+fining fidelity as retaining important functions (i.e. the
+mechanisms and theoretical principles) of the interven-
+tion while allowing adaptations to form (i.e. specific con-
+tent and delivery) of the intervention [ 18].
+The ADAPT Study has been funded to develop an
+evidence-informed and consensus-based guidance for
+adapting complex population health interventions to
+new contexts [ 11,19]. Commensurate with best prac-
+tices in guidance development [ 20], the ADAPT Study
+follows a phased process, incorporating existing meth-
+odological knowledge through literature reviews and ex-
+pert consultations, as well as the use of consensus
+development methods. A comprehensive literature re-
+view serves to consolidate existing knowledge on the
+topic, notably the spectrum of necessary considerations,
+and to identify relevant stakeholder groups to consult.
+This systematic review has thus been designed as the
+first stage of a broader guidance development to synthe-
+sise existing recommendations on adaptation and inform
+the further phases of the study, including qualitativeContributions to the literature
+/C15Making decisions about interventions to improve population
+health often relies on evidence from a different context.
+/C15To replicate the effects observed in the context in which
+interventions were developed and tested, these may need
+to be adapted for a given new context.
+/C15Differences between contexts may introduce uncertainty
+warranting re-evaluation in the new context.
+/C15This systematic review synthesises definitions of key
+concepts and recommendations on undertaking adaptations
+that support implementation, and evaluating the adapted
+intervention in a new context.
+/C15Our review provides a state-of-the-art catalogue of existing
+guidance and identifies limitations to inform develop-
+ment of an overarching guidance on adaptation.Movsisyan et al. Implementation Science          (2019) 14:105 Page 2 of 20
+interviews with key stakeholders and an international
+Delphi panel [ 11].
+We found only one recent scoping review of adapta-
+tion frameworks in public health [ 15], which maps exist-
+ing recommendations on adaptation. However, the
+review only focuses on key steps described in the frame-
+works and does not provide in-depth analysis of import-
+ant concepts and strategies in adaptation or assess
+approaches to intervention re-evaluation in new con-
+texts; nor does it extend to health services research. To
+address this gap, the present systematic review aims to
+provide a comprehensive synthesis of existing guidance
+on intervention adaptation in relation to (i) key con-
+cepts, (ii) the rationale for adaptation, (iii) different types
+of adaptations, (iv) the processes recommended for con-
+ducting intervention adaptation, and (v) methodological
+approaches suggested to re-evaluate and (vi) report the
+adapted intervention.
+Methods
+The systematic review was conducted in accordance
+with the Preferred Reporting Items for Systematic
+Reviews and Meta-Analyses (PRISMA) guidelines (see
+Additional file 1for completed PRISMA checklist) [ 21].
+The review protocol was pre-registered in PROSPERO
+(CRD42018112714) and the Open Science Framework
+(osf.io/wn5f8).
+Search strategy
+We designed the search strategy iteratively in consult-
+ation with information specialists to achieve balance be-
+tween sensitivity and specificity so that the search would
+retrieve all pre-identified eligible studies and yield a
+manageable number of studies to screen. We ran the
+searches on October 12, 2018 in the following databases:
+Applied Social Sciences Index & Abstracts (ASSIA),
+Conference Proceedings Citation Index –Social Science
+& Humanities (CPCI-SSH), Dissertations and Theses
+Global: The Humanities and Social Sciences Collection,
+EMBASE, MEDLINE and Epub Ahead of Print, In-
+Process & Other Non-Indexed Citations, Daily and
+Versions, PsycINFO, and Social Science Citation Index
+(SSCI). We used citation tracking (backward and for-
+ward in Google Scholar) of all included studies and con-
+tacted authors and international experts to locate further
+studies and updates (see Additional file 2for the search
+strategy).
+Eligibility criteria
+To be included, a document had to be full-length and
+provide recommendations on how to adapt and/or re-
+evaluate interventions in new contexts. We define full-
+length documents as those with substantive narrative,
+such as research, analysis, methodological papers, ordissertations, theses, and book chapters. We did not
+consider commentaries, abstracts, information available
+on web-pages, and conference proceedings without a
+link to a full report as full-length documents. To include
+a range of perspectives, we did not limit the review
+scope to only those papers that described a formal
+process of guidance development, but rather included all
+papers that described recommendations for practice. Pa-
+pers providing only conceptual discussion on or exam-
+ples of intervention adaptation without explicit
+recommendations for practice were not included; these
+were saved in a separate category during data screening
+for consideration in a related scoping review on “cases
+of adaptation ”(Open Science Framework registration:
+osf.io/udzma). Further inclusion criteria were as follows:
+(i) focus on public health and/or health service interven-
+tions rather than on specific clinical procedures, such as
+surgery, (ii) publication from 2000 onwards, as this was
+when discussions on evidence-informed interventions
+and their adaptation came to the fore [ 15,22], (iii) publi-
+cation in English, German, French, Italian, Russian, or
+Swedish, as these languages could be comprehensively
+covered by the project team members. Table 1provides
+further clarifications for the eligibility criteria.
+Study selection
+Results were imported into the Endnote reference man-
+agement software and de-duplicated. One reviewer (AM)
+screened publications on title level and removed clearly
+irrelevant retrievals using the eligibility criteria in Table
+1. Two reviewers (shared among AM, BH, LA, and LP)
+independently screened the titles and abstracts of the
+remaining records followed by full-text screening (AM
+and LA). Disagreements or uncertainties regarding eligi-
+bility were resolved by discussion among the two re-
+viewers, with recourse to a third when necessary (RE).
+Data screening was performed using the Rayyan web
+application for systematic reviews [ 23].
+Extraction
+We developed the data extraction form based on the re-
+view objectives (see Additional file 3). The initial form
+was piloted by four reviewers (AM, ER, LA, and RE) on
+two eligible papers. Uncertainties during piloting were
+noted and discussed among the four reviewers to revise
+and finalise the form. Two reviewers (AM and LA) then
+independently extracted all data onto seven pre-specified
+categories:
+1. Descriptive information including publication
+author, year, title, and source.
+2. Key concepts of adaptation used, including
+employed definitions and nomenclature.Movsisyan et al. Implementation Science          (2019) 14:105 Page 3 of 20
+3. Rationale for intervention adaptation, including why
+and when adaptations should be undertaken.
+4. Types and components of adaptation
+5. Processes for undertaking adaptation
+6. Approaches for deciding on an appropriate
+methodology for re-evaluating the adapted
+intervention.
+7. Suggested criteria or recommendations on how to
+report intervention adaptations.
+Disagreements and ambiguities regarding the extrac-
+tion were resolved by discussion among the two
+reviewers.
+Synthesis
+We synthesised extracted data using procedures derived
+from thematic and cross-case analyses, such as descrip-
+tive coding and cross-case tabulation [ 24–26]. Thematic
+analysis is widely used for analysing textual data, and in
+combination with cross-case analysis facilitated examin-
+ation of commonalities and differences of the content of
+the guidance papers in this review [ 26]. First, we used
+the seven pre-specified categories described above to
+sort the data. To do this, we employed structural coding
+described by Saldaña [ 24], which applies a content-based
+phrase representing a topic of inquiry to large segments
+of data relating to a specific research question (e.g. ra-
+tionale for adaptation). Drawing on the cross-case ana-
+lytical approach described by Miles and Huberman [ 25],
+two reviewers (AM and LA) charted the data to examine
+how data in each category were described across thepapers (e.g. how different papers described the rationale
+for adaptation). For this, we employed a more inductive
+and descriptive line-by-line coding. Synthesis drafts and
+descriptions of each category were then developed by
+two reviewers (AM and LA), examined by all authors,
+and revised based on their feedback.
+Quality appraisal
+We assessed included papers against pre-defined cri-
+teria designed by the project team drawing on related
+previous work [ 12,27,28]. While papers were not ex-
+cluded on the grounds of this assessment, we assigned
+more interpretive weight to those with clearer concepts
+and more comprehensive guidance. Included papers
+were assessed against three criteria, namely practicality
+(defined as understandability and clarity of key con-
+structs, ease of use and comprehensiveness in terms of
+coverage of adaptation and evaluation recommenda-
+tions), relevance (defined in terms of applicability to
+different types of interventions and by different stake-
+holder groups, such as researchers and funders), and le-
+gitimacy (defined as following a “formal process ”of
+guidance development, such as using a literature review
+and/or a consensus-based methodology). We assigned a
+rating of 0 (criterion is not addressed at all), + (criter-
+ion is partially addressed), or ++ (criterion is fully ad-
+dressed). Two reviewers independently conducted
+appraisals (AM and LA) and resolved any disagree-
+ments through discussion (see Additional file 4for fur-
+ther details on the criteria).Table 1 Eligibility criteria
+Criterion Definition
+Guidance ●Full-length document providing advice and specific recommendations on key concepts and/or steps, principles,
+and strategies for adapting population health interventions in new contexts .
+●The included documents may be intended for researchers, practitioners, and/or funders to support in their use
+of methods and conduct of research on intervention adaptation.
+Document type ●Peer-reviewed papers: research, analysis, or methodological papers.
+●Non peer-reviewed documents: dissertations, theses, books, book chapters, governmental and non-governmental
+reports, and working papers (i.e. documents issued by local, regional, or national governments or by their agencies
+or subdivisions, as well as those written and published by non-governmental organisations).
+Adaptation ●Modifications made to the content of interventions and their implementation AND/OR
+●Modifications made to the context in which interventions are delivered AND/OR
+●Modifications made during the evaluation processes
+New context ●Characterised by differences in geographical, epidemiological, socio-cultural, socio-economic, ethical, legal, and/or
+political determinants. NB: Guidance papers which describe scale-up of interventions will be included only if the
+scale-up is described with regard to changes in any of the above-mentioned determinants (e.g. taking interventions
+tested in a specific geographical district for full-scale implementation in other districts, which differ in their contextual
+profile, such as population and socio-economic determinants).
+Population health
+interventions●Interventions, programmes, and policies which seek to change the population distribution of risk.
+●These interventions can be delivered to whole populations, defined sub-populations (based on age or other
+characteristic), or specific groups with increased levels of risk.
+●Interventions may encompass public health or health services research.
+Language ●Papers written in English, German, French, Italian, Russian, or Swedish.
+Geographical location ●AnyMovsisyan et al. Implementation Science          (2019) 14:105 Page 4 of 20
+Results
+Our database searches identified 6694 unique records of
+which 38 records were included in the review describing
+35 guidance papers (see Fig. 1for the PRISMA flow
+diagram). No additional papers were found based on
+citation tracking or expert recommendations.
+Characteristics of included studies
+As shown in Table 2, papers varied in their topic area
+and largely focused on sexual health and HIV/AIDS pre-
+vention programmes ( n= 8, 23%), parenting and family-
+based interventions ( n= 8, 23%), and psychotherapies ( n
+= 6, 17%). Thirty-one papers (89%) described and drew
+on micro-level interventions (i.e. those that focus on
+intervening with individuals and their immediate social
+network and relationships, such as the family) to illus-
+trate the application of the guidance. Meso-level inter-
+ventions (i.e. those that focus on intervening with
+population groups, such as neighbourhoods, schools, orother community organisations) were discussed in five
+(14%). We did not identify a paper that discussed adap-
+tation of macro-level interventions (i.e. those that focus
+on intervening with overarching social systems that op-
+erate at the national or global level). Based on the affili-
+ation of the first author, 28 papers (80%) were developed
+in the USA and 24 of these discussed adaptations across
+different populations within the USA (e.g. transferring
+interventions to ethnic minority groups within the USA)
+[29–52]. Most papers were published in peer-reviewed
+journals ( n= 31, 89%) [ 29–31,33–36,38–61]; we identi-
+fied 4 papers (11%) from grey literature sources, includ-
+ing two book chapters [ 32,37] and two governmental
+agency reports [ 62,63].
+Quality of studies
+With respect to practicality, we rated 21 papers as pro-
+viding clear definitions of key constructs and 24 papers
+as offering a well-operationalised procedure for adapting
+Fig. 1 Systematic review flow diagramMovsisyan et al. Implementation Science          (2019) 14:105 Page 5 of 20
+Table 2 Characteristics of the included guidance papers
+First author (year) Short title/name of guidance Topic area of guidance Level of
+interventionaTheoretical principles Country of origin Stepwise
+approach
+Aarons (2012) [ 29] Dynamic adaptation process (DAP) Child neglect Micro Not specified California, USA Yes
+Aarons (2017) [ 30] “Scaling-out ”EBIs HIV/AIDS, family-based parenting Micro Cook ’s five pragmatic
+principlesCalifornia, USA No
+Backer (2002) [ 62] Finding the balance between programme fidelity
+\and adaptationSubstance abuse Not specified Roger ’s diffusion of
+innovations theoryWashington DC, USA Yes
+Barrera (2006) [ 31] A heuristic framework for cultural adaptation Parenting, psychotherapy Micro Not specified Arizona, USA Yes
+Bartholomew (2016) [ 32] Using intervention mapping (IM) to adapt EBIs Breast cancer screening Micro Not specified Houston, USA Yes
+Bernal (2006) [ 33] Culturally centred psycho-social interventions Psychotherapy Micro Not specified Puerto Rico, USA No
+Card (2011) [ 34] How to adapt effective programmes for use in
+new contextsHIV/AIDS (one-on-one and
+community-based)Micro, meso Not specified Los Altos, USA Yes
+Cardemil (2010) [ 35] Cultural adaptations to empirically supported
+treatmentsPsychotherapy Micro Not specified Worchester, USA No
+Chen (2012) [ 36] Programme adaptation through community
+engagementArthritis self-help Micro CBPR Ithaca, USA Yes
+Davidson (2013) [ 53] A tool kit of adaptation approaches Behaviour change interventions Micro Not specified Edinburgh, UK Yes
+Domenech-Rodriguez
+(2005) [ 37]Culturally appropriate EBTs for ethnic minority
+populationsParenting, psychotherapy Micro Roger ’s diffusion of
+innovations theoryUtah, USA Yes
+Goldstein (2012) [ 38] Guidelines for adapting manualised interventions
+for new populationsAnger management Micro Participatory Action
+Research (PAR)Philadelphia, USA Yes
+Hwang (2006) [ 39] The psychotherapy adaptation and modification
+framework (PAMF)Psychotherapy Micro Top-down theoretical
+approachClaremont, USA No
+Hwang (2009) [ 40] The Formative Method for Adapting Psychotherapy
+(FMAP)Psychotherapy Micro Bottom-up theoretical
+approachClaremont, USA Yes
+Kemp (2016) [ 54] Adaptation and fidelity: a recipe analogy Nurse home visiting Micro Not specified Sydney, Australia No
+Kilbourne (2007) [ 41] Application of the Replicating Effective Programmes
+(REP) frameworkPsycho-education, HIV/AIDS Micro Roger ’s diffusion of
+innovations theoryMichigan, USA Yes
+Kumpfer (2008 –2016)
+[55,64,66]Cultural adaptation of evidence-based family
+interventionsFamily-based parenting Micro CBPR Utah, USA Yes
+Lau (2006) [ 42] Selective and directed cultural adaptations of EBTs Parenting, psychotherapy Micro Not specified Los Angeles, USA No
+Lee (2008) [ 43] Planned adaptation to implement EBPs with new
+populationsJob-search skill enhancement Micro Not specified Detroit, USA Yes
+Maríñez-Lora (2016) [ 44] A framework for translating an EBI from English
+to SpanishFamily-based parenting Micro CBPR Chicago, USA No
+McKleroy (2006) [ 45] Adapting EBIs for new settings and target populations HIV/AIDS Micro Roger ’s diffusion of
+innovations theory;
+CBPRAtlanta, USA YesMovsisyan et al. Implementation Science          (2019) 14:105 Page 6 of 20
+Table 2 Characteristics of the included guidance papers (Continued)
+First author (year) Short title/name of guidance Topic area of guidance Level of
+interventionaTheoretical principles Country of origin Stepwise
+approach
+Nápoles (2013) [ 46] Methods for translating EBIs for health-disparity
+communitiesBehaviour change interventions Micro Not specified Atlanta, USA Yes
+Nápoles (2018) [ 47] Transcreation: an implementation science framework Health disparities Meso CBPR Bethesda, USA Yes
+NCI RTIPs [ 63] Guidelines for choosing and adapting programmes Cancer Not specified Not specified Bethesda, USA Yes
+Netto (2010) [ 56] How to adapt health promotion interventions: five
+principlesHealth promotion (one-on-one
+and community based)Micro, meso Not specified Edinburgh, UK Yes
+Perez (2016) [ 57] A modified theoretical framework to assess
+implementation fidelityEmpowerment strategies for
+community involvementMeso Roger ’s diffusion of
+innovations theory;
+CBPRHavana City, Cuba Yes
+Rolleri (2014) [ 48] Adaptation guidance for evidence-based teen
+pregnancy preventionSTI/HIV (one-on-one) Micro Not specified Bellerose, USA Yes
+Solomon (2006) [ 49] Adapting efficacious interventions HIV/AIDS (one-on-one) Micro Not specified Los Altos, USA Yes
+Sundell (2014) [ 58] A model for evaluation empirically supported
+FBIs in new contextsFamily-based interventions Micro Not specified Stockholm, Sweden Yes
+Tomioka (2013) [ 50] A four-step protocol for assuring replication with
+fidelityHealth promotion for older
+adults (one-on-one)Micro Not specified Honolulu, USA Yes
+Van Daele (2012) [ 59] Empowerment implementation: enhancing fidelity
+and adaptationPsychotherapy Micro CBPR Leuven, Belgium Yes
+Wainberg (2007) [ 60] A model for adapting EBIs to a new culture HIV/AIDS (one-on-one) Micro CBPR New York, USA Yes
+Wang-Schweig (2014) [ 51] A conceptual framework for cultural adaptation
+at the deep-structure levelFamily-based interventions Micro Not specified Berkeley, USA Yes
+Wingood (2008) [ 52] ADAPT-ITT: a method for adapting evidence-based
+HIV interventionsHIV/AIDS (one-on-one) Micro Not specified Atlanta, USA Yes
+Yong (2016) [ 61] Framework for cultural adaptation of preventive
+health programmesVaccination (one-on-one and
+community outreach)Micro, Meso Not specified Ottawa, Canada No
+CBPR , community-based participatory research; EBI, evidence-based Intervention; EBP, evidence-based Programme; EBT, evidence-based treatment; FBI, family-based intervention; STI, sexually transmitted infections
+aMicro-level interventions focus on intervening with individuals and their immediate social network and relationships, such as the family. Meso-le vel interventions focus on intervening with population groups, such as
+neighbourhoods, schools, or other community. Macro-level interventions focus on intervening with overarching social systems that operate at the n ational or global levelMovsisyan et al. Implementation Science          (2019) 14:105 Page 7 of 20
+interventions. The latter primarily involved a sequential
+stepwise approach. However, we judged 21 papers as
+only partially addressing the criterion of comprehensive-
+ness (defined as coverage of both intervention adaptation
+and re-evaluation), as they did not provide thorough
+guidance on intervention re-evaluation in a new context
+(see Additional file 4for detailed ratings).
+We judged only six papers as fully addressing rele-
+vance; the rest had a specific and narrow focus on
+individual-level interventions (e.g. psychotherapy and be-
+havioural interventions, see Table 2), and we down-rated
+their relevance for broader health service and public
+health interventions, notably policy-level interventions.
+Finally, we rated 23 papers as partially addressing legit-
+imacy, as they did not report a transparent and rigorous
+development process, such as consulting a broader range
+of stakeholders beyond the immediate author team. The
+papers, however, frequently reported having conducted a
+literature review or drawing on theoretical principles to
+ground their approach —primarily the principles of
+Roger ’s diffusion of innovations theory and community-
+based participatory research (CBPR) (see Table 2).
+Categories
+In the following, we describe the findings of the synthe-
+sis undertaken for each of the pre-defined categories.
+We did not find recommendations on reporting of
+adapted interventions, so this category has been omitted.
+During data sorting, we identified a new category of
+stakeholder involvement in adaptation.
+Category 1: Key concepts and definitions
+Table 3summarises key concepts and their definitions
+as used in existing guidance papers. In most cases,
+papers discussed concepts related to adaptation in the
+background sections of the guidance by referring to pre-
+viously published literature and debates [ 29,31–34,36,
+43,45,49,51–54,56–59,61]. Papers commonly concep-
+tualised adaptation as a systematically planned and pro-
+active process of modification with the aim to fit the
+intervention into a new context and enhance its accept-
+ability [ 29,30,34,35,45–49,51–54,57,61,62,64]. This
+approach was contrasted to unplanned modifications,
+which were seen as undesirable changes happening dur-
+ing intervention implementation in a real-world setting
+likely to result in “intervention drift ”(see Table 3)
+[29,32,36,45,54,62]. Alternative terms to adapta-
+tion were suggested in some papers. Specifically, the
+term reinvention , originating from diffusion of innovations
+theory, was used to describe adaptations occurring at a
+deeper structure level [ 57]( s e e “Category 3: Aspects of
+adaptation ”section below). Nápoles and Stewart used the
+term transcreation to highlight active participation of
+community partners in the process [ 47].Adaptation and fidelity were commonly viewed as mu-
+tually exclusive concepts. Sometimes, as remarked by
+Perez et al., this paralleled a distinction between impos-
+ing an intervention on the intended population versus
+actively engaging with the population to bring about
+change: “fidelity is underpinned by a professionally
+driven or “top-down ”approach to implementation, while
+adaptation seems to be closer to a user-based or “bot-
+tom-up ”approach, which is more politically appealing to
+promoters of social development ”[57]. Resolving the “fi-
+delity-adaption ”tension was seen as one of the most
+challenging tasks in intervention adaptation and was de-
+scribed as a dynamic process that requires strategic revi-
+siting throughout different stages of implementation
+[62]. In this light, identification of intervention core com-
+ponents was highlighted as important in providing a
+scope for adaptation (see Table 3). Informed by intervention
+theory, which specifies the the oretical relations between an
+intervention and its outcomes [ 34,45,58,62], these compo-
+nents were seen to fundamental ly define the intervention
+[34,45,48,59,62] and therefore not to be modified during
+adaptation [ 30,45,48,52]. In contrast, modification of dis-
+cretionary components was suggested to enhance an inter-
+vention ’s social validity, that is the perceived acceptability
+and utility of the intervention [ 45,52,58].
+Category 2: Rationale and pre-requisites for adapting
+interventions
+Adapting evidence-informed interventions was often de-
+scribed as requiring fewer human and financial resources
+than newly designing and evaluating interventions in
+each specific context [ 39,40,45,48,52,55,58]. As an
+overarching aim of adaptation , the papers highlighted
+assuring intervention salience and fit with the new
+context and addressing the specific needs of the local
+population [30,32,36,40,43,45,48,53,56,57,64].
+Where detailed, more specific aims of adaptation in-
+cluded enhancing acceptability, local commitment, sup-
+port, collaboration, and ownership of the intervention
+[35,42,45,49,52,54,57,62], facilitating enrolment, en-
+gagement, retention, and satisfaction with the interven-
+tion [ 40,42,44,49,51,54,55,57], as well as supporting
+successful implementation of the intervention, its use
+and sustainability [ 42,44,48,49,52,57]. Only a few pa-
+pers explicitly mentioned maintaining intervention ef-
+fectiveness as the direct aim of adaptation [ 49,51,53].
+To inform the need for specific adaptations, a few pre-
+requisite activities were described, including exploring
+the theory underlying the intervention (also referred to as
+programme theory and including identification of core
+components, which should not be modified), examining
+the generalisability of intervention effects in multiple con-
+texts (such as through moderation analysis within rando-
+mised controlled trials or other studies), as well asMovsisyan et al. Implementation Science          (2019) 14:105 Page 8 of 20
+assessing the extent of mismatch between the candidate
+and the replication contexts , and the acceptability of the
+intervention in the new context (see“Category 4: Process
+of adaptation ”on the recommended procedures to as-
+sess these) [ 31,32,34,42,43,50,53,56,58]. In most
+cases, the process of identifying mismatch was de-
+scribed as an assessment of the availability of the
+resources and infrastructure in the new context (e.g. fund-
+ing, staffing, and local agency capacity) [ 34,45,48,49,58],
+as well as the distinctive characteristics of the new popula-
+tion (e.g. age, socio-economic status, and cultural norms)
+[31,33,36,37,39,47–49,56]. While these factors might
+be linked to intervention theory, none of the papers expli-
+citly emphasised the possible interactions of thesecontextual factors with intervention mechanisms and im-
+plications of these interactions for effects in a new
+context.
+The level of the identified mismatch between the ori-
+ginal and new contexts was generally seen to inform the
+decision about which intervention to select and the ex-
+tent of adaptations that might be required. As noted by
+one of the papers: “if mismatches between a candidate
+programme and a replication context are significant —for
+example [ …] if the implementing agency does not have
+and cannot obtain the resources needed to implement
+the programme —the programme should probably not be
+selected for implementation in one ’s site. Less significant
+mismatches may, however, be successfully addressedTable 3 Key concepts and definitions
+Key concept Definition
+Adaptation A systematically planned and proactive process of intervention modification [ 29,30,34,35,45,47,48,51–54,57,62,64] with
+the aim to suit the specific characteristics and needs of a new context and enhance intervention acceptability [ 29,30,34,35,
+45,46,48,49,51,53,54,57,61,62,64].
+Mutual adaptation involves adaptation of both the intervention and of the community or organisation in which the
+intervention is implemented for the purposes of institutional accommodation [ 57,62].
+Adaptive
+interventionsThose interventions for which stakeholders are allowed, or even encouraged, to bring changes to the original design. These
+changes are pre-defined by intervention developers. In the context of complex public health interventions, involving different
+organisational levels and targeting collective behaviours, implementers can also make changes which are not pre-defined by
+the developers [ 31,57].
+Core components Those features in the intent and design of an intervention which are responsible for the effectiveness of the intervention [ 32,
+34,36,41,43,45,48,49,52,62]. Guidance suggests that these components fundamentally define the intervention [ 34,43,45,
+48,62] and therefore should not be modified in adaptation [ 30,45,48,52], e.g. developing a natural support system for
+youth and families as part of a family-based intervention.
+Alternative terms: essential, necessary, prototypical components or elements, or intervention ’s deep structure.
+Discretionary
+componentsThose features which are not essential for the target audience and which are not supported by the theory of change and
+thus are assumed to be modifiable without major impact on intervention effectiveness [ 45,52,58,62], e.g. provision of an
+additional class as part of a parenting intervention addressing trauma related to natural disasters.
+Alternative terms: optional components or intervention ’s surface structure.
+Drift A misapplication or a mistaken application of an intervention involving technical errors, abandonment of core components,
+or introduction of counterproductive elements resulting in a loss of intervention benefits [ 29,54].
+Fidelity (adherence) The degree to which an intervention is implemented as intended by its developers [ 29,47–49,54,58,59,62] with the aim to
+maintain intervention ’s intended effects [ 57,58]. The components of fidelity (also dimensions for measuring fidelity) include
+dose, frequency, exposure, quality of delivery, participant responsiveness, and programme differentiation [ 29,49,57,59,62].
+Programme theory Refers to the causal model that specifies the empirical and theoretical relations between intervention activities, mediators of
+change, and ultimate outcomes [ 34,43,45,58].
+Alternative terms: theory of change, internal logic
+Reinvention The degree to which an innovation (i.e. an intervention) is changed or modified by the user in the process of its adoption
+and implementation [ 37,57,62].
+Replication The process of re-implementing an established intervention in a new context in a way that maintains fidelity to core goals,
+activities, delivery techniques, intensity, and duration of the original study [ 34].
+Transcreation The processes of planning and delivering interventions so that they resonate with the targeted community, while achieving
+intended health outcomes [ 47].
+Scale-out The deliberate use of strategies to implement, test, improve, and sustain an intervention as it is delivered to new populations
+and/or through new delivery systems that differ from those in effectiveness trials. Aarons et al. distinguish three types of
+scale-out: type I scale-out: population fixed, different delivery system; type II scale-out: delivery system fixed, different popula-
+tion; type III scale-out: different population and delivery system [ 30].
+Scale-up The deliberate effort to broaden the delivery of an intervention with the intention of reaching larger numbers of a target
+audience. It often targets the same or very similar settings, under which the intervention has already been tested [ 30].
+Social validity Refers to perceived acceptability, utility, and viability of the intervention. These perceptions might be influenced by cultural
+worldview and the practical realities of life circumstances (e.g. transportation, insurance coverage, and work schedules) [ 31,42].Movsisyan et al. Implementation Science          (2019) 14:105 Page 9 of 20
+through the adaptation process ”[34]. Exploration of
+intervention theory was also seen as important in
+informing the decisions on the degrees of adaptations.
+Category 3: Aspects of adaptation
+Papers discussed different aspects of adaptation. We
+categorised these in terms of the targets of adaptation
+(i.e. what is modified) and the degrees of adaptation (i.e.
+to what degree).
+Targets of adaptation Most frequently, papers dis-
+cussed content modifications as changes including
+adding, deleting, or changing existing components
+[33,35,43,44,46,54,57,64]. While modifications to
+an intervention ’s content were seen to accommodate
+the needs of the target group, papers cautioned against
+modifications of “core components ”, which were seen as
+unsafe changes [ 48,57]. Papers also discussed modifica-
+tions to intervention delivery : these could include changes
+to delivery agents (e.g. health practitioners vs. lay health
+workers), or format of delivery (e.g. face-to-face vs. media)
+[43,46,64]. Papers mentioned context as a potential target
+of modification, such as changes to locations or settings
+(e.g. community centre vs. church); however, we found lit-
+tle detail and guidance on how to implement contextual
+adaptations in practice [ 30,33,46,54]. For example,
+Aarons et al. mention possible adaptations to the interven-
+tion’s inner (e.g. changes within the organisation where
+the intervention is delivered) and outer contexts (e.g.
+changes to funding and contracting to support implemen-
+tation) [ 30]. Finally, cultural adaptation was often consid-
+ered as a distinct type of adaptation broadly defined as
+changes to increase an intervention ’s cultural relevance
+[33,35,42,46,60,61,64]. Beyond taking into account the
+broader socio-cultural, economic, and political factors, pa-
+pers emphasised the importance of considering transverse
+cultural processes, exemplifying acculturative stress,
+phases of migration, developmental stages, availability of
+social support, and connections to the culture of origin
+[33]. These processes were highlighted to be of particular
+importance within the context of specific treatment adap-
+tation and culturally sensitive delivery of psychotherapies.
+Degrees of adaptation In the context of cultural adap-
+tation, papers drew on Resnicow et al. to distinguish
+between surface and deep structure modifications [65].
+The former was reported as relating to harmonising
+intervention materials (e.g. handbooks as part of manualised
+interventions) to observable characteristics of the target
+population, such as using cult urally appropriate messages,
+language, and product brands to improve outward appeal,
+acceptance, and face validity [ 35,51,56,58,61]. Deep struc-
+ture adaptations, on the oth er hand, were commonly seen as
+aligning the intervention with core values, beliefs, norms,and worldviews to increase salie nce (e.g. incorporating col-
+lectivist values that emphasise interpersonal relationships in
+a health promotion intervention) [ 35,43,51,56,58,61].
+This distinction between surface and deep structure modifi-
+cations was rather theoretical, and no guidance paper
+described a specific method for applying such a
+classification.
+Category 4: Process of adaptation
+Most papers provided a stepwise approach to adaptation
+[29,31,32,34,36–38,40,41,43,45–53,55–60,62,63,
+66]. Based on the analysis of commonalities and differ-
+ences in these approaches, we identified 11 unique steps
+for planning, conducting, and evaluating an adaptation
+and categorised them into four overarching phases of
+the EPIS implementation framework (see Fig. 2)[67]:
+Exploration (steps 1 –3),Preparation (steps 4 –6),Imple-
+mentation (steps 7 –9), and Sustainment (steps 10 –11).
+Table 4provides a short description of these steps
+(Additional file 5presents the steps as described in
+each included paper and the frequency of reporting of
+each step across the papers).
+Before implementing an adaptation, many papers
+highlighted the value of an exploration phase, including
+an initial assessment (step 1) to identify the needs of the
+target population, the system, the organisational cap-
+acity, and thereby the need for a new intervention. After
+this, it is important to select the appropriate intervention
+for adaptation (step 2) involving identification of rele-
+vant evidence-informed interventions, judgment of their
+fit with the new context, and selection of the best match.
+The selected intervention is then examined (step 3) for
+its components and theory to determine its adaptability
+to the new context. Following these, there are several
+steps to prepare for the adaptation, including identifica-
+tion of potential mismatches (step 4), development of an
+intervention model (step 5), and establishment of im-
+portant networks and capacity (step 6). The next phases
+are concerned with the actual undertaking of the adapta-
+tions, including development of the adaptation plan
+(step 7), pilot testing of the proposed adaptations (step
+8), and revisions and implementation of the adapted
+intervention (step 9). Finally, the adapted intervention is
+evaluated (step 10) both for important outcomes and for
+the establishment of routine and ongoing supervision
+and monitoring. The last step (step 11) involves activities
+to disseminate the adapted intervention and sustain it
+through training systems and ongoing re-assessments.
+Paper authors described how these steps did not neces-
+sarily follow a linear process. In line with best practice in
+intervention development [ 68,69], individual steps within
+the four phases were often described to take place in paral-
+lel or had a different order across the papers. Furthermore,
+there were differences in phas e attribution. For example,Movsisyan et al. Implementation Science          (2019) 14:105 Page 10 of 20
+some papers outlined establishment of relevant networks
+(preparation phase, step 6) as a sub-step in the initial as-
+sessment step (exploration phase) [ 36,37,45–47,56,58].
+In contrast, some papers prior itised an in-depth needs as-
+sessment at the beginning of the adaptation process (ex-
+ploration phase) [ 32,41,62,63].
+Category 5: Stakeholder involvement
+Papers recommended a range of stakeholders to involve
+in adaptation. While different papers emphasised differ-
+ent stakeholders, we categorised the most commonly re-
+ported stakeholders into five main groups: (i) local
+community leaders, partners, and implementers [29,31,
+32,34,36–41,45–47,49,50,52–56,58–62];(ii) repre-
+sentatives of the target population [31,32,34,36–41,
+44–47,49,52,53,55,58,60,61,63];(iii) intervention de-
+velopers and topic experts [29,31,36,45,48,52,54,58,
+62,63];(iv) researchers [29,36,43,46–48,55,59,60];
+and (v) practitioners and policy-makers [29,31,32,34,
+36–41,43–56,58–63,66]. Involvement of policy-makers
+in intervention adaptation was mentioned in only twopapers [ 58,66], perhaps reflecting the predominant
+focus of papers on micro- and meso-level interventions
+(see Table 1).
+Papers described different ways to involve these groups
+of stakeholders across different steps of adaptation. For
+example, needs assessment through formative research
+and pilot testing was commonly proposed to engage and
+learn from the local community partners and implemen-
+ters during the exploration phase of adaptation [ 29,31,
+36–41,45–47,50,52–54,58,60,62,63,66]. As part of
+preparation and implementation phases, meetings and
+consultations were suggested with intervention devel-
+opers and topic experts to guide the adaptation process
+and monitor fidelity [ 29,45,48,52,62,63]. Many papers
+recommended following the CBPR approach to engage
+with and seek input from community partners and rep-
+resentatives of the target population [ 31,34,36–38,40,
+41,45–47,49,52,53,56,59–61,66]. For example, focus
+groups or elicitation interviews were often discussed as a
+way to assess local capacity, resources, and preferences.
+More innovative methods, such as theatre testing, whichFig. 2 Overview of phases and steps in the process of adaptationMovsisyan et al. Implementation Science          (2019) 14:105 Page 11 of 20
+Table 4 Summary of the key adaptation steps extracted from the guidance papers ( n= 27)
+Step name Step descriptions Implemented by …
+Exploration phase 1. Initial assessment - Identify the need for a new intervention for the target population
+- Conduct a multilevel needs assessment of system, process, organisation,
+provider, and characteristics of the target population
+- Identify relevant contextual factors and community best practices[29,31,32,37,41,43,45–49,51–53,55–57,60,63,64,66]
+2. Intervention selection - Identify and review evidence-based interventions that address the public
+health problem of interest, risk behaviours, and environmental factors
+- Determine whether the intervention goals and outcomes are relevant to
+the target population
+- Determine whether the intervention content targets the population ’s
+social and cultural values
+- Judge the fit of the intervention to the problem, organisational capacity,
+and target population
+- Select the best matching intervention[32,34,38,41,45,46,48,49,52,53,55,58,60,63,64,66]
+3. Intervention exploration - Obtain the original intervention materials (e.g. statement of the goals,
+summary of the underlying theory of change, and/or the curriculum)
+- Identify the intervention ’s core components and best-practice
+characteristics
+- Examine the theory base behind the intervention, identifying core
+mechanisms of change, moderators that may enhance or diminish
+outcomes, and any potential secondary pathways through which
+change might be achieved
+- Determine the interventions adaptability to the new target population
+and setting[32,34,38,47–51,57–60,62]
+Preparation phase 4. Identification of potential
+mismatches- Identify and categorise potential mismatches (e.g. among intervention
+goals, characteristics of the target population, implementation agency
+and/or community)
+- Identify potential implementation barriers
+- Identify potential barriers to participation
+- Assess fidelity/adaptation concerns for the particular implementation
+site, i.e. by determining what core components are especial to maintain
+to address fidelity[29,32,34,36,38,41,45,49,52,53,56,58,62,63]
+5. Intervention model development - Define the extent of adaptation needed
+- Develop an overall logic model and timeline for adapting and
+implementing the intervention
+- Consider how components can accommodate population characteristics,
+delivery system, and community context
+- Explore potential ways to implement the adapted intervention and
+develop an implementation plan
+- Draft a user-friendly manual (i.e. “package ”) of the intervention
+- Develop an overall implementation plan, including a strategy for
+achieving and measuring fidelity/adaptation balance for the selected
+intervention[29,34,36,41,45–52,57–59,62,63]
+6. Establishment of networks,
+capacity, and infrastructure- Assess stakeholder input and potential collaborations and secure their
+meaningful involvement
+- Assess organisational, as well as implementers ’capacity to implement
+the intervention
+- Consult with the intervention developers, relevant organisational
+stakeholders, and the community to explore how they can help to shaped[32,36,37,40,41,45–47,50,52,53,56,58–60,62,63,66]Movsisyan et al. Implementation Science          (2019) 14:105 Page 12 of 20
+Table 4 Summary of the key adaptation steps extracted from the guidance papers ( n= 27) (Continued)
+Step name Step descriptions Implemented by …
+an implementation plan into a particular setting
+- Identify and recruit potential implementers, if possible with the same ethnic
+background as the target population (consider working with
+paraprofessionals or lay health workers)
+- Use community resources to increase intervention accessibility
+- Build community capacity for practical sustainability
+- Establish balance between community needs and scientific integrity by an
+iterative process among all relevant stakeholders involved in the adaptation
+process
+Implementation phase 7. Undertaking modifications - Develop an adaptation plan
+- Consider adaptations that may be necessary to meet the needs of new
+target population, while making sure that core elements of the intervention ’s
+programme theory are not altered
+- Consider possible local adaptations to improve cultural/context fit by taking
+into account potential language difference of cultural sub-groups
+- If applicable, develop a “mock-up ”version of the adapted material, prepare
+design documents for adaptation, and draft user-friendly manuals of the
+intervention
+- Consider intervention training, including training of organisation staff
+- Adapt the relevant intervention components through collaborative efforts[29,32,34,37,38,40,41,43,45–48,52,53,56,58,60,63,66]
+8. (Pilot) testing - Pilot test the adapted intervention components and procedures with
+representatives from the target group, get feedback and revise as necessary
+- Monitor the fidelity of intervention delivery[31,32,37,38,40,41,45,46,48,50,52,58,60,63]
+9. Intervention revision and
+implementation- Refine adaptations based on results generated in previous steps
+- Synthesise stakeholder feedback and finalise the implementation plan
+- Implement the adapted intervention
+- Establish ongoing support, feedback and refinement[29,31,37,38,40,41,45–47,53,60,63]
+Sustainment phase 10. Evaluation - Decide how to evaluate and possibly incorporate feedback from diverse
+stakeholder groups and develop an evaluation plan that reflects the core
+mechanisms of change within the original programme theory, as well as
+adaptations made in intervention content to accommodate the new
+target population
+- Implement outcome evaluation
+- Provide routine, ongoing supervision (including quality assurance)
+- Assess acceptance of and participants ’engagement in the adapted
+intervention
+- Revise the intervention by adopting effective or dropping ineffective
+adaptations[31,32,38,41,43,45–47,49,50,53,56,58,63,66]
+11. Maintenance and evolution - Establish a wide-scale dissemination of the adapted intervention, given
+the intervention is successful and is embraced by the community
+- Develop training systems to widen the dissemination (e.g. train future
+implementers in the adapted version of the intervention)
+- Implement an ongoing re-assessment by circularising the process and
+outcome research results and the lessons learned in the transportation
+of the evidence-based intervention[29,41,53,66]Movsisyan et al. Implementation Science          (2019) 14:105 Page 13 of 20
+involve representatives of the target population respond-
+ing to a demonstration of an adapted intervention were
+also suggested [ 52].
+A few papers highlighted the value of forming specific
+stakeholder committees to lead the entire process of
+adaptation [ 29,34,36,41,60,66]. A range of stakeholders
+from those listed above were recommended for inclusion
+in these committees depending on the topic and level of
+the intervention. These committees were differently re-
+ferred to in the papers as a Community Advisory Board
+[60], a Community Working Group [ 41], and an Imple-
+mentation Research Team [ 29].
+Category 6: Evaluating adapted interventions
+Papers often highlighted the need for additional testing
+of effects of an adapted intervention in a new context,
+however did not offer an explicit rationale for such an
+evaluation or guidance for choosing and prioritising
+among different evaluation approaches and methods.
+Outcome evaluation was the most frequently reported
+approach [ 30,34,35,38,41,46,47,49,50,52] with a
+range of specific methods discussed, including different
+types of randomised and non-randomised study designs.
+Process evaluation [30,34,38,41,45–47,49,66],piloting
+[31,35,45,52,58,63], and fidelity monitoring [29,41,
+50,54,57,58] were also commonly mentioned. These
+approaches were described separately, most frequently
+as part of the distinct steps in the adaptation process.
+Table 5provides further details on a range of ap-
+proaches for re-evaluation, including the rationale and
+specific methods for each approach.
+We found only one paper proposing a strategy to deter-
+mine the level of empirical evidence required for an
+adapted intervention to retain its evidence-informed
+standard in a new context [ 30]. Aarons et al. make a con-
+ceptual argument for the possibility to “borrow strength ”
+from evidence in the original effectiveness study to allow
+for a more limited evaluation when scaling-out interven-
+tions to new populations and/or using new delivery sys-
+tems [ 30]. This would include, for instance, using
+implementation evaluation rather than a new effectiveness
+study when a strong case can be made for similar mecha-
+nisms between original and new contexts. The authors ’
+statements were largely theoretical, and they argue that
+these require further empirical testing.
+Discussion
+Main findings in the context of other research
+This study is the first systematic review of guidance on
+adapting complex population health interventions to
+new contexts. The review explores the content of 35 pa-
+pers and sheds light on contested issues by providing a
+thorough synthesis of key concepts frequently used in
+adaptation research (see Table 3) and a comprehensiveoverview of adaptation processes (see Fig. 2and Table 4).
+The review explicates the overall aims of adaptation,
+which are largely framed as enhancing cultural relevance
+and the sense of local ownership of the intervention with
+explicit commitment to the principles of CBPR and
+Roger ’s diffusion of innovations theory (see Table 1)[70].
+Both perspectives highlight the sense of local ownership
+as an important driver of intervention acceptability and
+adoption [ 71,72].
+Our findings are largely consistent with those of the
+previous scoping study of adaptation frameworks [ 15].
+As in the previous scoping study, we identified 11 com-
+mon steps of adaptation. However, our review further
+extends the previous work through a systematic ap-
+proach and a broadened scope, including additional in-
+sights from papers on cultural adaptation and a range of
+topic areas beyond public health. In line with the previ-
+ous scoping study [ 15], our review also finds relatively
+widespread agreement in key concepts and the process
+of adaptation.
+Strengths and limitations of this systematic review
+This review consolidates existing guidance on adaptation
+following systematic searches in databases complemen-
+ted by expert consultations to help locate additional
+sources. Its key strengths lie in the thorough exploration
+and synthesis of the content of the existing guidance fol-
+lowing best practices in systematic reviewing, including
+a broad search strategy in terms of databases and search
+terms, double screening and data extraction, pilot testing
+of the extraction form, and an evidence synthesis strat-
+egy combining deductive and inductive approaches.
+There were some limitations. First, while we aimed to
+include papers in a range of languages, searches were
+conducted in English, potentially missing relevant non-
+English papers. Second, while we included a range of
+terms related to adaptation in the search strategy (e.g.
+replication, transfer), we might have missed terms used
+synonymously by other researchers. This particularly re-
+lates to guidance papers on macro-level interventions,
+which were underrepresented in our review, as adapta-
+tion may be framed and conceptualised differently for
+these broader types of interventions (e.g. policy changes
+rather than adaptations). Third, we had to use a strict
+definition of guidance for practical considerations and
+had rounds of discussions within the author team to de-
+termine eligibility. As shown in Table 1, we included
+only papers which explicitly provide recommendations
+for practice. Many papers, which did not meet this
+definition, but provided important discussions on inter-
+vention adaptation, were left out, such as the classifica-
+tion of adaptations by Stirman et al. [ 16] and works on
+cultural adaptation by Castro et al. [ 17] and Resnicow
+et al. [ 65]. It should, however, be noted that the includedMovsisyan et al. Implementation Science          (2019) 14:105 Page 14 of 20
+Table 5 Approaches for re-evaluating an adapted intervention
+Approach Rationale Specific methods
+Formative evaluationa[47] - Identify factors affecting intervention design, success, and
+sustainability (e.g. community resources, population
+characteristics)
+- Inform adaptation- Formative research
+- Input from stakeholders prior to or during adaptation
+Pilot testing [ 31,35,45,52,58,63]- “Dress rehearsal ”to inform revisions
+- Identify difficulties with implementation and sources of non-fit
+- Identify anticipated immediate outcomes
+- Provide adaptation data for other researchers
+- Assess satisfaction with and acceptability of the intervention- Process-oriented qualitative data using in-depth interviews and
+focus groups with key stakeholders
+- Short-term/small-scale trials
+- Assessment of engagement constructs and making comparisons
+with similar data from published studies
+Process evaluation [ 30,34,38,41,45–47,49,66] - Identify context-specific factors affecting intervention effectiveness
+in a new context (i.e. context-specific mediators and moderators)
+- Document implementation and adaptation processes (e.g. activities
+implemented, how and with whom)
+- Identify factors affecting intervention implementation
+- Determine the intervention reach
+- Determine acceptability of and satisfaction with the intervention
+- Identify suggested improvements
+- Determine the usefulness of the adapted interventions
+- Document successes and barriers to inform future adaptations- Self-reported measures
+- Qualitative methods (e.g. interviews, notes, site visits by intervention
+developers, the adaptation team, and send case videotapes to
+intervention developers)
+- Quantitative methods (e.g. weekly session ratings)
+- Mixed-methods approaches
+Fidelity assessment/monitoring [ 29,41,50,54,57,58] - Ensure true replication of the intervention by assessing the degree
+of adherence to delivering the intervention (e.g. whether the core
+elements have been successfully implemented)
+- Assess the adapter ’s competence in delivering the intervention
+- Ensure intervention quality maintenance- A phased approach using assessment of the process documentation
+forms, discussion with a group of developers, refinement of the
+assessment through discussions with implementers
+- Fidelity monitoring tool/checklist (e.g. by using direct observations
+and ratings)
+- Qualitative interviews
+- Assessment of notes, client reports
+Large-scale implementation evaluation [ 30] - Assess impact on the mediating variables
+- Make inferences about the changes of the distal outcomes- Assessment of proxy or indirect measures of the key RE-AIMb
+components
+Core component mediational analysis (also termed
+as mechanisms evaluation) [ 35,39,58,66]- Determine which components of an intervention most influence
+intervention effectiveness
+- Inform the need for further adaptations
+- Inform the need for a larger scale dissemination trial- Experimental dismantling designs (e.g. a three-arm effectiveness
+trial using (1) a minimally adapted version of the intervention, (2)
+a fully adapted version of the intervention, and (3) a treatment
+as usual.
+Outcome evaluation (also termed as a summative
+evaluation) [ 30,34,35,38,41,46,47,49,50,52]- Assess the effectiveness of interventions in new contexts/with
+new populations
+- Assure achievement of expected outcomes (proxy, short-term,
+as well as distal outcomes)
+- Inform future implementation and dissemination efforts
+- Gather evidence on vulnerable populations underrepresented
+in clinical/efficacy research- Use of a control condition, random assignment
+- Type 2 hybrid trial testing both effectiveness and implementation
+(baseline survey, process measures, and at least 3-month
+post-intervention assessment)
+- Small-scale or cluster randomised controlled trials (RCTs)
+- Alternatives to RCTs that are more context-specificc(e.g. propensity
+score matching, interrupted times series)
+- Collection of data on community-level outcomes (e.g. social networks,
+resources, and community capacity levels)
+- Pretest/posttest designs and comparison with literature
+Comparison evaluation [ 35] - Assess the superiority of the adapted intervention over
+standard interventions- A large RCT comparing the adapted interventions with a standard
+intervention
+Cost-benefit assessment [ 41,66] - Assess whether the extra costs of intervention adaptation
+are justified
+- Support the case for the intervention adaptation to stakeholders- Cost-benefit analysis
+aProcedures conducted while the intervention is still forming (i.e. in progress)
+bThe RE-AIM framework components include Reach, Effectiveness, Adoption, Implementation, and Maintenance
+cRCTs may not be feasible in community settings because researchers have less control over intervention delivery, use of usual-care control groups ma y be unethical, contamination might be an issues, and resistance
+to randomisation may be heightened in racial/ethnic minority communitiesMovsisyan et al. Implementation Science          (2019) 14:105 Page 15 of 20
+papers often referred to these conceptual resources to
+support their definitions and recommendations. We can
+thus argue that much of the thinking in these resources
+has shaped the guidance papers included in our review.
+Finally, we did not assess the utility of the guidance pa-
+pers from a user ’s perspective and used data as reported.
+Our quality appraisal, for example, may have missed im-
+portant information that was not included in the papers.
+However, we used pre-defined criteria for quality ap-
+praisal to enhance the rigour and transparency of our
+approach.
+Limitations of existing guidance and recommendations
+for future research and guidance
+While our review found large agreement with respect to
+terminology, reasons, types, and processes of adaptation,
+the papers included in our review have predominantly
+been developed and applied in the USA. The key gov-
+ernmental agencies supporting the work on adaptation
+frameworks have been those responsible for child health,
+the control of infectious diseases and substance abuse,
+which explains the predominant focus on topics, such as
+sexually transmitted infections (STIs), HIV prevention,
+and parenting. This questions whether the current guid-
+ance adequately reflects intervention adaptation for a
+broader set of topic areas and across a broader range of
+countries, particularly when adapting interventions to
+low- and middle-income settings with varying levels of
+resources and systems of provision.
+Our review also identified important gaps in scope,
+conceptualisation, and operationalisation in the existing
+guidance. First, as noted above, the available guidance
+has a predominant focus on micro-level (behavioural) in-
+terventions and their transfer to specific sub-groups.
+While important insights for adaptation can be gleaned
+from this body of work, the applicability of the suggested
+procedures for transferring broader macro-level inter-
+ventions across countries and continents might be ques-
+tioned. This includes, for example, potential challenges
+associated with using CBPR principles and procedures
+(as widely discussed in the current papers) and engaging
+with policy-makers at national-level institutions and
+decision-making. While papers published later in the
+2010s were more inclusive of meso-level interventions
+(see Table 1), they were few in our review. This suggests
+a need for additional research on scaling-out and adapta-
+tion of meso- and macro-level interventions (e.g. policy
+interventions), including literature reviews using tailored
+searches to identify studies, that may use a different
+framing of and terms for adaptation.
+Our findings also suggest lack of theorisation in terms
+of intervention mechanisms and broader systems think-
+ing in the existing guidance [ 3,4]. It is increasingly
+recognised that interventions represent events incomplex systems and that their effects are a result of in-
+teractions between context, implementation, and inter-
+vention design itself [ 73,74]. At present, this perspective
+is not adequately reflected and operationalised in the
+existing guidance. Interventions are exclusively seen as
+relatively fixed and bounded entities consisting of a set
+of distinct components (core or discretionary), the pres-
+ence, absence, or combinations of which are seen as re-
+sponsible for the observed outcomes without explicitly
+linking them with intervention mechanisms. Further-
+more, while there is a common emphasis on the need to
+distinguish between intervention core and discretionary
+components, we did not find guidance on how to iden-
+tify the core components that need to be maintained
+during adaptation. If this was intended to be accom-
+plished through engagement with the developers of the
+original intervention, it was not transparently discussed
+in the papers as a key purpose of such engagement. It is
+important that future guidance more transparently de-
+scribes the processes of intervention exploration (see
+Fig. 2), including the specific roles of key stakeholders
+and management of potential conflicts that may arise
+from their involvement. In general, transparent reporting
+of an interventions ’theory and how it may be imple-
+mented in practice (i.e. theory-based strategies) will also
+be informative for adaptation research [ 75,76]. While a
+lot of work has been done on articulating intervention
+theories in the literature on the development and evalu-
+ation of interventions [ 68,77], it does not seem to have
+adequately translated into adaptation research, and fu-
+ture work should aim to fill this gap.
+Key concepts, such as adaptation and fidelity (see
+Table 3), are also largely conceptualised in relation to
+intervention form, that is, specific design features rather
+than intervention mechanisms and functions. While
+intervention components can be linked to specific mech-
+anisms, as highlighted by Hawe et al. [ 18], it is arguably
+not the design components that need to be standardised,
+but rather the aspects of intervention mechanisms that
+these components are aiming to facilitate. Similarly,
+there is a lack of critical engagement with different types
+of context. Where discussed, it is primarily seen as a fac-
+tor facilitating or impeding implementation rather than
+as an inherent and active element in the construction of
+intervention effects. No paper directly guides the user to
+critically examine the underlying mechanisms and the
+possible contextual interactions that could matter in the
+replicability of the effects [ 78,79]. While many papers
+highlight the potential mismatches in the contextual
+characteristics between the original and the new con-
+texts as important pre-requisites for adaptation, they do
+not discuss the implications of these mismatches for
+intervention effects in a new context. This is a particu-
+larly important issue to tackle in light of the evidenceMovsisyan et al. Implementation Science          (2019) 14:105 Page 16 of 20
+suggesting no added benefits associated with extensively
+adapted interventions [ 5] alongside the evidence in
+favour of these adaptations [ 7,80]. Future guidance
+needs to reflect more critically on intervention mecha-
+nisms and contextual interactions to inform decisions
+on the need and the extent of adaptation that might be
+warranted. There is a growing body of literature on how
+to design and implement interventions in a context-
+sensitive manner [ 12,74,77,81]. This involves, for ex-
+ample, delineation of important contextual characteris-
+tics, such as epidemiological, socio-cultural, socio-
+economic, ethical, legal, and political factors [ 81] and
+theorisation and testing of how intervention effects may
+be contingent upon these factors.
+Another key gap relates to the appropriate evaluation
+of adapted interventions. While different approaches to
+and methods of evaluation are described, ranging from
+feasibility studies to full-scale randomised evaluation
+studies, no guidance is given on how to choose among
+these methods. Full-scale evaluation of an adapted inter-
+vention can be costly and resource-intensive, and further
+research should empirically test the conceptual arguments
+set forth by Aarons et al. on the possibility of an adapted
+intervention to “borrow strength ”as a potentially efficient
+approach [ 30]. In a similar vein, our review identified a
+range of stakeholders to be consulted during the adapta-
+tion process. While stakeholder involvement is widely
+viewed as positive in achieving greater acceptability and fit
+of the intervention, it might be associated with additional
+financial and human resource costs [ 82]. Further research
+and testing on which stakeholders should be prioritised
+during which phase of the adaptation process and on the
+optimal types and levels of involvement is warranted to
+provide efficient solutions.
+Finally, as highlighted previously [ 14], further guidance
+also needs to be established on how best to document
+and report intervention adaptation. Although our review
+aimed to extract data on intervention reporting, we did
+not find any guidance providing recommendations for
+adaptation reporting. Recently, Stirman and colleagues
+published the updated Framework for Reporting of Ad-
+aptations and Modifications to Evidence-based interven-
+tions (FRAME) approach [ 83]. While the framework
+largely focuses on documentation of adaptations during
+the implementation process, it includes a range of items
+potentially applicable for different contexts of adaptation
+(e.g. planned and unplanned adaptations). Further appli-
+cation and testing of this framework would be warranted
+in the context of planned intervention adaptations to
+new contexts.
+How to use this systematic review?
+We see three broad uses of our review. First, it can serve
+as a catalogue of existing guidance papers on adaptationand therefore aid researchers and practitioners in easily
+locating relevant resources to consult for their context
+of work. Second, by synthesising existing recommenda-
+tions and delineating important gaps, this review
+contributes in setting the research agenda for future
+methodological work on adaptation where further
+innovation would be required. Specifically, the review
+findings inform the next steps of the ADAPT Study. The
+synthesis of the key concepts (see Table 3), and
+highlighting areas of clarity and uncertainty in concep-
+tual thinking, will inform the planned overarching guid-
+ance. It is important to further problematise the review
+findings in light of the key gaps and seek further input
+and agreement around contested issues, such as concep-
+tualisation of fidelity in relation to intervention form vs.
+intervention function, differentiation between interven-
+tion core vs. discretionary components, and the language
+used around these concepts and procedures. Some of
+our review findings, specifically the phases and steps of
+adaptation (see Table 4and Fig. 2), provide clear first
+drafts for structuring the ultimate guidance and will
+serve as the starting point for the next stages of the
+study. Issues such as whether the number of steps in the
+process of adaptation as identified in this review is prac-
+tical and how the steps may be further revised and opti-
+mised will be explored in the next stages of the ADAPT
+Study, which include a scoping review of cases of inter-
+vention adaptation followed by qualitative interviews
+with a range of stakeholders, such as researchers, editors,
+and funders to examine adaptation practices and com-
+pare those with the existing guidance. Subsequently, an
+international Delphi panel will be convened, where key
+considerations and issues from previous stages, including
+this review, will be examined and refined through several
+rounds of revisions and feedback [ 11]. Finally, our review
+findings can provide those adapting interventions to new
+contexts with interim tools to consult until the ADAPT
+Study guidance is available. It should, however, be noted
+that we do not intend for our review findings to be used
+as a source of expert advice on adaptation, but rather
+that it should be considered reflectively as a descriptive
+synthesis of existing concepts and recommendations.
+Conclusion
+This systematic review synthesises currently available
+guidance on adapting interventions to new contexts. It
+can be used as a resource for researchers, policy-makers,
+and practitioners working to adapt interventions to new
+contexts. By highlighting important gaps in the field, the
+findings also serve to inform future methodological work
+and guidance development on adaptation. The findings
+will be used to inform the ADAPT Study guidance on
+adapting population health interventions to new contexts.Movsisyan et al. Implementation Science          (2019) 14:105 Page 17 of 20
+Supplementary information
+Supplementary information accompanies this paper at https://doi.org/10.
+1186/s13012-019-0956-5 .
+Additional file 1. Systematic review PRISMA checklist. This additional file
+provides the completed PRISMA checklist for the systematic review
+Additional file 2. Search strategy. This additional file provides the full
+search strategy used in the review
+Additional file 3. Data extraction template. This additional file provides
+the template used for data extraction, including details on the criteria
+used to assess quality of the included papers
+Additional file 4. Appraisal of the included guidance papers. This
+additional files provides the ratings of the included studies against the
+pre-defined quality appraisal criteria
+Additional file 5. Adaptation steps and phases. This additional file
+provides adaptation steps as originally reported in the included studies,
+as well as and the frequency of reporting of each step across the papers)
+Abbreviations
+CBPR: Community-based participatory research; MRC: Medical Research Council
+Acknowledgements
+We are grateful to Andrew Booth and Irma Klerings for their valuable
+contributions to the development of the search strategy. We would also like
+to acknowledge the contribution of the entire team of the ADAPT Study in
+helping to frame and position this review as part of the larger study,
+including Peter Craig (MRC/CSO Social and Public Health Sciences Unit,
+University of Glasgow), Lauren Copeland (DECIPHer, Cardiff University), Pat
+Hoddinott (Nursing, Midwifery and Allied Health Professions Research Unit
+(NMAHP RU), University of Stirling), Hannah Littlecott (DECIPHer, Cardiff
+University), Laurence Moore (MRC/CSO Social and Public Health Sciences
+Unit, University of Glasgow), and Simon Murphy (DECIPHer, Cardiff
+University).
+Authors ’contributions
+All authors were involved in various phases of the review conduct. ER and
+LMP developed the original idea for this study (within the context of an idea
+for the larger guidance development study ADAPT, conceived by GM and
+RE) and, together with AM, led on the development of the study protocol.
+AM led the study, developed the search strategy, and ran the searches. AM
+and LA screened and extracted all the data and synthesised the findings. BH
+and LMP helped AM and LA to double screen the records and RE helped to
+resolve the uncertainties in screening. AM, LA, RE, and ER validated the
+extraction form. ER, GM, LMP, AO, RE, and JS provided comments on
+developing synthesis. AM drafted the manuscript, which was further
+reviewed, revised, and approved by all authors.
+Funding
+This systematic review was conducted as part of the project on developing
+guidance on adaptation of evidence-informed complex population health
+interventions for implementation an d/or re-evaluation in new contexts ,
+funded by the Medical Research Council-National Institute of Health
+Research (MRC-NIHR) methodology research programme [MR/R013357/
+1]. This project is undertaken with the support of The Centre for the
+Development and Evaluation of Complex Interventions for Public
+Health Improvement (DECIPHer), a UKCRC Public Health Research
+Centre of Excellence. Joint funding (MR/KO232331/1) from the British
+Heart Foundation, Cancer Research UK, Economic and Social Research
+Council, Medical Research Council, the Welsh Government, and the
+Wellcome Trust, under the auspices of the UK Clinical Research Collaboration, is
+gratefully acknowledged.
+Availability of data and materials
+Further data and materials are included in the additional files.
+Ethics approval and consent to participate
+Not applicableConsent for publication
+Not applicable
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1Institute for Medical Information Processing, Biometry and Epidemiology,
+LMU Munich, Marchioninistrasse 17, 81377 Munich, Germany.2Pettenkofer
+School of Public Health, LMU Munich, Marchioninistrasse 17, 81377 Munich,
+Germany.3Centre for the Development and Evaluation of Complex
+Interventions for Public Health Improvement (DECIPHer), School of Social
+Sciences, Cardiff University, 1-3 Museum Place, CF10 3BD Cardiff, Wales, UK.
+4Cardiff School of Sport & Health Sciences, Llandaff Campus, Cardiff
+Metropolitan University, Western Avenue, Cardiff CF5 2YB, Wales, UK.5School
+of Health and Related Research (ScHARR), University of Sheffield, Regent
+Court, 20 Regent Street, S1 4DA Sheffield, UK.
+Received: 24 August 2019 Accepted: 28 November 2019
+References
+1. Craig P, Di Ruggiero E, Frohlich KL, Mykhalovskiy E, White M, on behalf of
+the Canadian Institutes of Health Research (CIHR) –National Institute for
+Health Research (NIHR) Context Guidance Authors Group. Taking account of
+context in population health intervention research: guidance for producers,
+users and funders of research. Southampton: NIHR Evaluation, Trials and
+Studies Coordinating Centre; 2018.
+2. Moore GF, Evans RE. What theory, for whom and in which context? Reflections
+on the application of theory in the development and evaluation of complex
+population health interventions. SSM Popul Health. 2017;3:132 –5.
+3. Hawe P, Shiell A, Riley T. Theorising interventions as events in systems. Am J
+Community Psychol. 2009;43(3-4):267 –76.
+4. Cambon L, Terral P, Alla F. From intervention to interventional system:
+towards greater theorization in population health intervention research.
+BMC Public Health. 2019;19(1):339.
+5. Gardner F, Montgomery P, Knerr W. Transporting evidence-based parenting
+programs for child problem behavor (Age 3-10) between countries:
+systematic review and meta-analysis. J Clin Child Adolesc Psychol. 2016;
+45(6):749 –62.
+6. Leijten P, Melendez-Torres GJ, Knerr W, Gardner F. Transported versus
+homegrown parenting interventions for reducing disruptive child behavior:
+a multilevel meta-regression study. J Am Acad Child Adolesc Psychiatry.
+2016;55(7):610 –7.
+7. Sundell K, Beelmann A, Hasson H, von Thiele Schwarz U. Novel programs,
+international adoptions, or contextual adaptations? Meta-analytical results
+from German and Swedish intervention research. J Clin Child Adolesc
+Psychol. 2016;45(6):784 –96.
+8. Skarstrand E, Sundell K, Andreasson S. Evaluation of a Swedish version of the
+Strengthening Families Programme. Eur J Public Health. 2014;24(4):578 –84.
+9. Althabe F, Belizan JM, McClure EM, Hemingway-Foday J, Berrueta M,
+Mazzoni A, et al. A population-based, multifaceted strategy to implement
+antenatal corticosteroid treatment versus standard care for the reduction of
+neonatal mortality due to preterm birth in low-income and middle-income
+countries: the ACT cluster-randomised trial. Lancet. 2015;385(9968):629 –39.
+10. Cartwright N, Hardie J. Evidence-based policy. A practical guide to doing it
+better. Oxford: Oxford University Press; 2012.
+11. Evans RE, Craig P, Hoddinott P, Littlecott H, Moore L, Murphy S, et al. When
+and how do ‘effective ’interventions need to be adapted and/or re-
+evaluated in new contexts? The need for guidance. J Epidemiol Community
+Health. 2019;73(6):481 –48.
+12. Pfadenhauer LM, Gerhardus A, Mozygemba K, Lysdahl KB, Booth A,
+Hofmann B, et al. Making sense of complexity in context and
+implementation: the Context and Implementation of Complex Interventions
+(CICI) framework. Implement Sci. 2017;12(1):21.
+13. Pawon R, Tilley N. Realist evaluation. London: Sage Publications Ltd; 1997.
+14. Escoffery C, Lebow-Skelley E, Haardoerfer R, Boing E, Udelson H, Wood R,
+et al. A systematic review of adaptations of evidence-based public health
+interventions globally. Implement Sci. 2018;13(1):125.Movsisyan et al. Implementation Science          (2019) 14:105 Page 18 of 20
+15. Escoffery C, Lebow-Skelley E, Udelson H, Boing EA, Wood R, Fernandez ME,
+et al. A scoping study of frameworks for adapting public health evidence-
+based interventions. Transl Behav Med. 2019;9(1):1 –10.
+16. Stirman SW, Miller CJ, Toder K, Calloway A. Development of a framework
+and coding system for modifications and adaptations of evidence-based
+interventions. Implement Sci. 2013;8:65.
+17. Castro FG, Barrera M Jr, Martinez CR Jr. The cultural adaptation of
+prevention interventions: resolving tensions between fidelity and fit. Prev
+Sci. 2004;5(1):41 –5.
+18. Hawe P, Shiell A, Riley T. Complex interventions: how “out of control ”can a
+randomised controlled trial be? BMJ. 2004;328(7455):1561 –3.
+19. The ADAPT Study. DECIPHer: Development and Evaluation of Complex
+Interventions for Public Health Improvement. A UKCRC Public Health Research
+Centre of Excellence. 2018. http://decipher.uk.net/research-page/adaptation-of-
+population-health-interventions-for-implementation-and-or-re-evaluation-in-
+new-contexts-development-of-guidance/ . Accessed 10 Aug 2019.
+20. Moher D, Schulz KF, Simera I, Altman DG. Guidance for developers of health
+research reporting guidelines. PLoS Med. 2010;7(2):e1000217.
+21. Moher D, Liberati A, Tetzlaff J, Altman DG, Group P. Preferred reporting
+items for systematic reviews and meta-analyses: the PRISMA statement.
+PLoS Med. 2009;6(7):e1000097.
+22. Brownson RC, Fielding JE, Maylahn CM. Evidence-based public health: a
+fundamental concept for public health practice. Annu Rev Public Health.
+2009;30:175 –201.
+23. Ouzzani M, Hammady H, Fedorowicz Z, Elmagarmid A. Rayyan-a web and
+mobile app for systematic reviews. Syst Rev. 2016;5(1):210.
+24. Saldaña J. The coding manual for qualitative researchers. 2nd ed. Los
+Angeles; London: SAGE publications; 2013.
+25. Miles BM, Huberman AM. Qualitative data analysis: an expanded
+sourcebook. 2nd ed. Thousand Oaks: Sage; 1994.
+26. Thomas J, Harden A, Newman M. Synthesis: combining results
+systematically and appropriately. 1st ed. London: Sage; 2012.
+27. Movsisyan A, Dennis J, Rehfuess E, Grant S, Montgomery P. Rating the
+quality of a body of evidence on the effectiveness of health and social
+interventions: a systematic review and mapping of evidence domains. Res
+Synth Methods. 2018;9(2):224 –42.
+28. Davis R, Campbell R, Hildon Z, Hobbs L, Michie S. Theories of behaviour and
+behaviour change across the social and behavioural sciences: a scoping
+review. Health Psychol Rev. 2015;9(3):323 –44.
+29. Aarons GA, Green AE, Palinkas LA, Self-Brown S, Whitaker DJ, Lutzker JR,
+et al. Dynamic adaptation process to implement an evidence-based child
+maltreatment intervention. Implement Sci. 2012;7:32.
+30. Aarons GA, Sklar M, Mustanski B, Benbow N, Brown CH. “Scaling-out ”
+evidence-based interventions to new populations or new health care
+delivery systems. Implement Sci. 2017;12(1):111.
+31. Barrera MJ, Castro FG. A heuristic framework for the cultural adaptation of
+interventions. Clin Psychol-Sci Pr. 2006;13(4):311 –6.
+32. Bartholomew EL, Highfield L, Hartman MA, Mullen PD, Leerlooijer JN. Using
+intervention mapping to adapt evidence-based interventions. In: Bartholomew
+LKE, Markham CM, Ruiter RAC, Fernández ME, Kok Gund Parcel GS. (Hg.):
+Planning health promotion programs. An intervention mapping approach. p.
+597–649. 4th ed. San Francisco: Jossey-Bass; 2016.
+33. Bernal G, Sáez-Santiago E. Culturally centered psychosocial interventions.
+J Community Psychol. 2006;34(2):121 –32.
+34. Card JJ, Solomon J, Cunningham SD. How to adapt effective programs for
+use in new contexts. Health Promot Pract. 2011;12(1):25 –35.
+35. Cardemill E. V. Cultural adaptations to empirically supported treatments: a
+research agenda. SRMHP. 2010;7(2):8 –21.
+3 6 . C h e nE K ,R e i dM C ,P a r k e rS J ,P i l l e m e rK .T a i l o r i n ge v i d e n c e - b a s e d
+interventions for new populations: a method for program adaptation
+through community engagement. E val Health Prof. 2013;36(1):73 –92.
+37. Domenech-Rodriguez M, Wieling E. Developing culturally appropriate,
+evidence-based treatments for interventions with ethnic minority
+populations. In: Rastogi M, Wieling E, editors. Voices of color: first-person
+accounts of ethnic minority therapists/editors Rastogi M, Wieling E.
+Thousand Oaks: SAGE Publications Ltd; 2005.
+38. Goldstein NE, Kemp KA, Leff SS, Lochma n JE. Guidelines for adapting manualized
+interventions for new target populations: a step-wise approach using anger
+management as a model. Clin Psychol (New York). 2012;19(4):385 –401.
+39. Hwang WC. The psychotherapy adaptation and modification framework:
+application to Asian Americans. Am Psychol. 2006;61(7):702 –15.40. Hwang WC. The Formative Method for Adapting Psychotherapy (FMAP): a
+community-based developmental approach to culturally adapting therapy.
+Prof Psychol Res Pr. 2009;40(4):369 –77.
+41. Kilbourne AM, Neumann MS, Pincus HA, Bauer MS, Stall R. Implementing
+evidence-based interventions in health care: application of the replicating
+effective programs framework. Implement Sci. 2007;2:42.
+42. Lau AS. Making the case for selective and directed cultural adaptations of
+evidence-based treatments: examples from parent training. Clin Psychol Sci
+Pract. 2006;13(4):295 –310.
+43. Lee SJ, Altschul I, Mowbray CT. Using planned adaptation to implement
+evidence-based programs with new populations. Am J Community Psychol.
+2008;41(3-4):290 –303.
+44. Marinez-Lora A, Boustani M, del Busto CT, Leone C. A framework for
+translating an evidence-based intervention from English to Spanish. HJB.
+2016;38(1):117 –33.
+45. McKleroy VS, Galbraith JS, Cummings B, Jones P, Harshbarger C, Collins C,
+et al. Adapting evidence-based behavioral interventions for new settings
+and target populations. AIDS Educ Prev. 2006;18(4 Suppl A):59 –73.
+46. Nápoles AM, Santoyo-Olsson J, Stewart AL. Methods for translating
+evidence-based behavioral interventions for health-disparity communities.
+Prev Chronic Dis. 2013;10:E193.
+47. Napoles AM, Stewart AL. Transcreation: an implementation science
+framework for community-engaged behavioral interventions to reduce
+health disparities. BMC Health Serv Res. 2018;18(1):710.
+48. Rolleri LA, Fuller TR, Firpo-Triplett R, Lesesne CA, Moore C, Leeks KD.
+Adaptation guidance for evidence-based teen pregnancy and STI/HIV
+prevention curricula: from development to practice. Am J Sex Educ. 2014;
+9(2):135 –54.
+49. Solomon J, Card JJ, Malow RM. Adapting efficacious interventions:
+advancing translational research in HIV prevention. Eval Health Prof. 2006;
+29(2):162 –94.
+50. Tomioka M, Braun KL. Implementing evidence-based programs: a four-step
+protocol for assuring replication with fidelity. Health Promot Pract. 2013;
+14(6):850 –8.
+51. Wang-Schweig M, Kviz FJ, Altfeld SJ, Miller AM, Miller BA. Building a conceptual
+framework to culturally adapt health promotion and prevention programs at
+the deep structural level. Health Promot Pract. 2014;15(4):575 –84.
+52. Wingood GM, DiClemente RJ. The ADAPT-ITT model: a novel method of
+adapting evidence-based HIV interventions. J Acquir Immune Defic Syndr.
+2008;47(Suppl 1):S40 –6.
+53. Davidson EM, Liu JJ, Bhopal R, White M, Johnson MR, Netto G, et al.
+Behavior change interventions to improve the health of racial and ethnic
+minority populations: a tool kit of adaptation approaches. Milbank Q. 2013;
+91(4):811 –51.
+54. Kemp L. Adaptation and fidelity: a recipe analogy for achieving both in
+population scale implementation. Prev Sci. 2016;17(4):429 –38.
+55. Kumpfer K, Magalhaes C, Xie J. Cultural adaptation and implementation of
+family evidence-based interventions with diverse populations. Prev Sci.
+2017;18(6):649 –59.
+56. Netto G, Bhopal R, Lederle N, Khatoon J, Jackson A. How can health
+promotion interventions be adapted for minority ethnic communities? Five
+principles for guiding the development of behavioural interventions. Health
+Promot Int. 2010;25(2):248 –57.
+57. Perez D, Van der Stuyft P, Zabala MC, Castro M, Lefevre P. A modified
+theoretical framework to assess implementation fidelity of adaptive public
+health interventions. Implement Sci. 2016;11(1):91.
+58. Sundell K, Ferrer-Wreder L, Fraser MW. Going global: a model for evaluating
+empirically supported family-based interventions in new contexts. Eval
+Health Prof. 2014;37(2):203 –30.
+59. van Daele T, van Audenhove C, Hermans D, van den Bergh O, van den
+Broucke S. Empowerment implementation: enhancing fidelity and
+adaptation in a psycho-educational intervention. Health Promot Int. 2014;
+29(2):212 –22.
+60. Wainberg ML, McKinnon K, Mattos PE, Pinto D, Mann CG, de Oliveira CS,
+et al. A model for adapting evidence-based behavioral interventions to a
+new culture: HIV prevention for psychiatric patients in Rio de Janeiro, Brazil.
+AIDS Behav. 2007;11(6):872 –83.
+6 1 . Y o n gA G ,L e m y r eL ,F a r r e l lS J ,Y o u n gM Y .A c c u l t u r a t i o ni n
+preventive health for immigrants: a systematic review on influenza
+vaccination programs in a socio-eco logical framework. Can Psychol.
+2016;57(4):340 –55.Movsisyan et al. Implementation Science          (2019) 14:105 Page 19 of 20
+62. Backer T. Finding the balance: program fidelity and adaptation in substance
+abuse prevention: a state-of-the-art review. Rockville: Center for Substance
+Abuse Prevention (CSAP). Substance Abuse and Mental Health Services
+Administration (SAMHSA); 2002.
+63. National Cancer Institute. Guidelines for choosing and adapting programs
+(Research-tested Intervention Programs). 2019. https://rtips.cancer.gov/rtips/
+reference/adaptation_guidelines.pdf . Accessed 10 Nov 2019.
+64. Kumpfer KL, Magalhães C, Xie J. Cultural adaptations of evidence-based
+family interventions to strengthen families and improve children ’s
+developmental outcomes. EJDP. 2012;9(1):104 –16.
+65. Resnicow K, Soler R, Braithwaite R, Ahluwalia JS, Butler J. Cultural sensitivity
+in substance use prevention. J Community Psychol. 2000;28(3):271 –90.
+66. Kumpfer KL, Pinyuchon M, Teixeira de Melo A, Whiteside HO. Cultural
+adaptation process for international dissemination of the strengthening
+families program. Eval Health Prof. 2008;31(2):226 –39.
+67. Moullin JC, Dickson KS, Stadnick NA, Rabin B, Aarons GA. Systematic review
+of the exploration, preparation, implementation, sustainment (EPIS)
+framework. Implement Sci. 2019;14(1):1.
+68. Craig P, Dieppe P, Macintyre S, Michie S, Nazareth I, Petticrew M.
+Developing and evaluating complex interventions: new guidance Medical
+Research Council. 2008. https://mrc.ukri.org/documents/pdf/complex-
+interventions-guidance/ . Accessed 10 Oct 2019.
+69. O ’Cathain A, Croot L, Duncan E. Guidance on how to develop complex
+interventions to improve health and healthcare. BMJ Open. 2019;9:e029954.
+70. Rogers EM. Diffusion of innovations. 5th ed. New York: Free Press; 2003.
+71. Dearing JW. Applying diffusion of innovation theory to intervention
+development. Res Soc Work Pract. 2009;19(5):503 –18.
+72. Rhodes SD, Kelley C, Siman F, Cashman R, Alonzo J, McGuire J, et al. Using
+community-based participatory research (CBPR) to develop a community-
+level HIV prevention intervention for Latinas: a local response to a global
+challenge. Womens Health Issues. 2012;22(3):e293 –301.
+73. Petticrew M, Knai C, Thomas J, Rehfuess EA, Noyes J, Gerhardus A, et al.
+Implications of a complexity perspective for systematic reviews and guideline
+development in health decision-making. BMJ Glob Health. 2019;4:e000899.
+74. Moore G, Evans R, Hawkins J, Littlecott H, Melendez-Torres GJ, Bonell C,
+et al. From complex social interventions to interventions in complex social
+systems: future directions and unresolved questions for intervention
+development and evaluation. Evaluation. 2018;25(1):23 –45.
+75. Hoffmann TC, Glasziou PP, Boutron I, Milne R, Perera R, Moher D, et al.
+Better reporting of interventions: template for intervention description and
+replication (TIDieR) checklist and guide. BMJ. 2014;348:g1687.
+76. Campbell M, Katikireddi SV, Hoffmann T, Armstrong R, Waters E, Craig P.
+TIDieR-PHP: a reporting guideline for population health and policy
+interventions. BMJ. 2018;361:k1079.
+77. O ’Cathain A, Croot L, Duncan E, Rousseau N, Sworn K, Turner KM, et al.
+Guidance on how to develop complex interventions to improve health and
+healthcare. BMJ Open. 2019;9(8):e029954.
+78. Brand SL, Quinn C, Pearson M, Lennox C, Owens C, Kirkpatrick T,
+et al. Building programme theory to develop more adaptable and
+scalable complex interventions: rea list formative process evaluation.
+Evaluation. 2018:1 –22.
+79. Burchett HED, Blanchard L, Kneale D, Thomas J. Assessing the applicability
+of public health intervention evaluations from one setting to another: a
+methodological study of the usability and usefulness of assessment tools
+and frameworks. Health Res Policy Syst. 2018;16(1):88.
+80. Hasson H, Sundell K, Beelmann A, von Thiele Schwarz U. Novel programs,
+international adoptions, or contextual adaptations? Meta-analytical results
+from German and Swedish intervention research. BMC Health Serv Res.
+2014;14:O32.
+81. Nilsen P, Bernhardsson S. Context matters in implementation science: a
+scoping review of determinant frameworks that describe contextual
+determinants for implementation outcomes. BMC Health Serv Res.
+2019;19(1):189.
+82. Oliver K, Kothari A, Mays N. The dark side of coproduction: do the costs
+outweigh the benefits for health research? Health Res Policy Syst. 2019;
+17(1):33.
+83. Stirman SW, Baumann AA, Miller CJ. The FRAME: an expanded framework
+for reporting adaptations and modifications to evidence-based
+interventions. Implement Sci. 2019;14(1):58.Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.Movsisyan et al. Implementation Science          (2019) 14:105 Page 20 of 20

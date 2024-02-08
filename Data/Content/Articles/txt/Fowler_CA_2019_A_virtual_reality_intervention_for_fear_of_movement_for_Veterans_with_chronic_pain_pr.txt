@@ -1,0 +1,968 @@
+STUDY PROTOCOL Open Access
+A virtual reality intervention for fear of
+movement for Veterans with chronic pain:
+protocol for a feasibility study
+Christopher A. Fowler1*, Lisa M. Ballistrea1, Kerry E. Mazzone2, Aaron M. Martin2, Howard Kaplan3, Kevin E. Kip1,4,
+Jennifer L. Murphy1,2,5and Sandra L. Winkler1
+Abstract
+Background: A key concern for people with chronic pain is experiencing increased pain and/or re-injury.
+Consequently, individuals with chronic pain can develop a maladaptive fear of movement that leads to adverse
+functional consequences. A primary goal of chronic pain rehabilitation is re-engagement in feared movements
+through exposure. This is often challenging since safe movement can be uncomfortable. Virtual environments
+provide a promising opportunity to safely and gradually expose Veterans to movements that are avoided in the
+real world. The current study will utilize multiple virtual reality (VR) applications (APPs) of varying the intensity levels
+ranging from passive distraction from pain to active exposure to feared movement. The primary aims of this pilot
+are to examine VR as an adjunctive nonpharmacological intervention to assist with the adoption and
+implementation of skills to decrease fear of movement and increase overall functioning among Veterans with
+chronic pain. Second, to build a hierarchy of VR APPs to assist in gradual exposure to feared movements.
+Methods: This study will be conducted in the Chronic Pain Rehabilitation Program (CPRP) at the James A. Haley
+Veterans Hospital, a unique inpatient program within the VA system. Participants will include up to 20 Veterans
+who receive a VR intervention as part of their physical therapy. A rating form containing qualitative and quantitative
+experiences will be administered following each VR session to assess feasibility and to provide descriptive
+information for the proposed hierarchy. Effect sizes will be calculated from intake and discharge measures for the
+primary outcome fear of movement and secondary pain and functional outcomes.
+Discussion: This study will inform the feasibility of a randomized controlled trial examining the clinical utility of
+using VR to reduce fear of movement and increase function among Veterans with chronic pain. VR has the
+advantage of being easily implemented both within VA healthcare settings as well as in Veterans ’own residences,
+where engagement in ongoing self-management approaches is often most challenging. Presumably, VR that is
+matched to patient needs, progresses in intensity, immerses Veterans in the applications, and is perceived positively
+by Veterans, will result in positive functional outcomes.
+Keywords: Chronic pain, Virtual reality, Veterans, Rehabilitation, Fear of movement, Kinesiophobia, Exposure
+therapy, Distraction therapy, Oculus rift, Feasibility
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated.* Correspondence: christopher.fowler3@va.gov
+1Research and Development Service, James A. Haley Veterans Hospital and
+Clinics, 8900 Grand Oak Circle, Tampa, FL 33705, USA
+Full list of author information is available at the end of the article
+Fowler et al. Pilot and Feasibility Studies           (2019) 5:146 
+https://doi.org/10.1186/s40814-019-0501-y
+Background
+Pain is among the most costly disorders treated in
+Department of Veterans Affairs (VA) settings [ 1]. Over
+five million Veterans were diagnosed with at least one
+musculoskeletal disorder from 2001 to 2011, nearly half
+of whom reported moderate-to-severe pain [ 2]. The
+treatment of pain was established as a VA priority in
+1998 [ 3], but in recent years, pain management has re-
+ceived more attention due to national concerns regard-
+ing opioid overdose, addiction, and high-profile adverse
+events [ 4]. Given this burden, the Centers for Disease
+Control and Prevention [ 4] and other national organiza-
+tions [ 5] have recommended non-pharmacological
+approaches as the preferred treatments for chronic non-
+cancer pain.
+Fear of movement
+A key concern for people with chronic pain, defined as
+pain persisting longer than 3 months [ 6], is experiencing
+increased pain or (re) injury [ 7]. As a result, individuals
+often develop kinesiophobia, a fear of movement [ 7].
+Kinesiophobia can be helpful in acute pain which lasts
+less than 3 months [ 6], but maladaptive in chronic pain,
+as it leads to adverse functional consequences [ 7]. A
+primary goal of chronic pain rehabilitation is re-
+engagement in feared movements through exposure.
+However, this is often challenging since safe movement
+can be physically and emotionally uncomfortable [ 8].
+Virtual reality
+Virtual reality (VR) can be defined as “computer-gener-
+ated simulations of three-dimensional objects or envi-
+ronments with seemingly real, direct, or physical user
+interaction ”(pg. 34) [ 9]. Today ’s virtual technologies use
+the computer and wearable devices to give the user the
+illusion of being immersed or present in a non-physical
+world [ 10,11]. VR can serve as an adjunctive method in
+evidence-based interventions to assist with the delivery
+and adoption of self-management skills [ 11–13]. When
+VR that is matched to patient level of functioning pro-
+gresses in intensity, immerses people in the applications,
+and is perceived positively, it can contribute to improved
+fear of movement and disability [ 12,13]. To date, VR re-
+search [ 11–13] has prominently focused on two cogni-
+tive behavioral therapy [ 8] techniques, distraction from
+and exposure to pain.
+Virtual reality and pain distraction
+Evidence supports the use of VR to attenuate pain with
+the majority of evidence to date aimed at treating acute
+pain. A rapid evidence assessment of immersive VR for
+acute pain management (17 studies, 337 patients) found
+strong evidence for immediate and short-term pain re-
+duction, as well as moderate evidence for short-termanalgesic effects on physical function [ 11]. Distraction-
+focused treatments (e.g., guided imagery, relaxation
+training) are the most commonly researched VR-
+administered interventions for acute pain relief [ 11,14].
+Distraction therapy is based on the assumption that
+humans have finite attentional resources [ 8,15]. VR dis-
+traction is hypothesized to consume attention leaving
+less cognitive capacity for processing pain [ 15] and fear
+of movement [ 13]. A recent controlled trial conducted
+in an inpatient acute pain care setting demonstrated re-
+duced pain scores among patients playing a “medium-in-
+tensity ”pain distraction VR application (APP) compared
+to a televised high-definition nature video [ 16]. Pilot
+work suggests that relaxation using VR may be associ-
+ated with reduced pain intensity among people with
+chronic pain [ 17].
+Virtual reality and exposure therapy for pain
+In contrast to pain distraction, exposure therapy focuses
+attention on the fearful stimulus and inducing a feeling
+of“being there ”[18,19]. To be effective, exposure ther-
+apies should be graded, motivating, and related to real-
+life functional activities [ 14,20]. A randomized study
+found that integrating exposure via guided virtual walk-
+ing into physical therapy resulted in a significant de-
+crease in fear of movement and pain intensity when
+compared to physical therapy without VR [ 21]. A feasi-
+bility study found high acceptability ratings of a virtual
+dodgeball intervention to influence lumbar flexion for
+people with chronic low back pain and pain-related fear
+[22]. No participants withdrew from the study and no
+adverse events or increased medication use was reported
+[22]. This evidence supports using VR as an adjunctive
+therapeutic delivery method for reducing fear of move-
+ment among people with chronic pain [ 21,22].
+Hierarchy from distraction to exposure
+It has been argued that distraction from pain-related
+thoughts and emotions can promote avoidance of factors
+contributing to the development and maintenance of
+chronic pain [ 12,13]. This can undermine the effective-
+ness of distraction-only VR therapies among chronic
+pain populations who have a greater need for rehabilita-
+tion than immediate relief [ 12,23]. We have conceptual-
+ized a two-dimensional hierarchy for movement and
+intensity of stimulation for people with chronic pain.
+The hierarchy will range from low-intensity pain distrac-
+tion to more “interactive ”graded exposure techniques
+within the same VR-assisted intervention (e.g., sitting
+passively in a chair during guided meditation to standing
+and using body movement to engage in virtual activities
+such as painting).Fowler et al. Pilot and Feasibility Studies           (2019) 5:146 Page 2 of 10
+Current study
+The proposed project is informed by the Fear-Avoidance
+Model of Chronic Pain [ 7] and assumes that as people
+gradually confront feared activities through VR, mal-
+adaptive pain beliefs are challenged and fear responses
+are extinguished [ 14,24]. Both distraction [ 22] and
+exposure [ 21] could be beneficial for improving fear of
+movement among people with chronic pain. Still, studies
+typically examine these methods independently despite
+the former being inherent during VR utilization [ 14].
+This will be the first known study that will investigate
+the use of immersive VR across a distraction to exposure
+spectrum as an adjunct strategy for chronic pain man-
+agement in a sample of US Veterans.
+Aims and objective
+The objective of this study is to establish feasibility for a
+future randomized controlled trial (RCT) that will test
+the effectiveness of VR as a treatment adjunct for
+chronic pain management and aim to validate the pro-
+posed hierarchy. The primary aims are as follows:
+Aim 1: Describe the individual Veteran trajectories
+and APP intensity ratings on the proposed distraction-
+to-exposure hierarchy.
+/C15RQ 1.1: How many different trajectory patterns
+emerge as Veterans progress across the intensity
+levels of the distraction-to-exposure hierarchy?
+/C15RQ 1.2: How do Veterans rate the intensity of the
+VR APPs?
+Aim 2: Estimate the within-subjects effect size and
+95% confidence interval (CI) associated with changes in
+fear of movement and secondary outcomes to provide
+insight into the likely magnitude of effect associated with
+the VR intervention.
+/C15RQ 2.1: What is the estimated within-subjects effect
+size and 95% CI for changes in the primary
+outcome, fear of movement, from baseline to post-
+test following the VR intervention?
+/C15RQ 2.2: What is the estimated within-subjects effect
+size and 95% CI in common feared movements from
+baseline to post-test following the VR intervention?
+/C15RQ 2.3: What are the within-subjects effect sizes
+and 95% CIs for changes for the secondary outcomes
+of pain intensity, pain interference, pain
+catastrophizing, pain-related functioning, and
+negative affect from baseline to post-test following
+the VR intervention?
+/C15RQ 2.4: What proportion of Veterans experience
+clinically meaningful change for the following
+outcomes: common feared movements, painintensity, pain catastrophizing, pain-related
+functioning, and negative affect?
+Aim 3: Pilot test this protocol to assess the feasibility
+of VR use to plan for a future randomized controlled
+trial.
+/C15RQ 3.1: How do Veteran users describe their
+experiences with VR during this study?
+/C15RQ 3.2: What are the identified barriers and
+facilitators of VR use?
+/C15RQ 3.3: What is the estimated compliance
+(percentage of sessions attempted, completed) with
+VR?
+Methods
+Study setting
+The CPRP at the James A. Haley Veterans Hospital is a
+19-day residential chronic pain treatment program. The
+interdisciplinary treatment provided in the CPRP utilizes
+a cognitive behavioral treatment approach that targets
+the physical and psychological impact of chronic pain.
+The CPRP is the sole inpatient chronic pain program
+within the VA system, and its attendees are Veterans re-
+ferred system-wide.
+Participants and recruitment
+All Veterans ( N≤20) enrolled in the CPRP over the 3-
+week data collection period will be recruited. Interested
+individuals will be consented in-person by the research
+staff. Given the pragmatic nature of this study, eligibility
+is consistent with the CPRP program. Inclusion criteria:
+(1) the presence of chronic pain syndrome (ICD-9-CM
+code 338.4) and experiencing psychosocial dysfunction
+and functional impairments due to chronic pain and (2)
+a negative urine drug screen for alcohol, illicit sub-
+stances, and prescribed opioid or psychiatric medica-
+tions. Exclusion criteria: (1) uncontrolled depressive
+symptoms; (2) actively suicidal; (3) uncontrolled
+psychotic symptoms; (4) a recent history of violent or
+aggressive behavior; (5) high fall risk; and (6) cardiac,
+pulmonary, or neurological contraindications [ 25,26].
+Each week, four Veterans graduate from the program
+and are discharged from the CPRP. Up to four new
+Veterans are then admitted into the CPRP. Enrollment
+includes up to 12 Veterans at a time. Demographic char-
+acteristics from a CPRP cohort study ( N= 705) reported
+that Veterans were 50.08 ± 11.03 years old with an aver-
+age pain chronicity of 13.02 ± 10.85 years, report baseline
+pain near the “severe ”range (7/10) on a numeric rating
+scale 6.95 ± 1.65, primarily experience back pain
+(56.20%), are prominently male (79.80%), Caucasian
+(60.77%), on disability or retired (73.22%), slightly more
+likely to be married (51.63%), less likely to be prescribedFowler et al. Pilot and Feasibility Studies           (2019) 5:146 Page 3 of 10
+opioids daily (39.46%), and experience “moderate ”relief
+from opioid therapy [ 25]. The program attrition rate for
+non-compliance during this period was 14.89% ( N=
+105). Consistent with the VA mission to reduce high-
+dose opioid use, all Veterans must agree to begin an opi-
+oid taper upon CPRP admission when applicable.
+Design
+A type 1 hybrid design will be used to blend clinical ef-
+fectiveness and implementation research to accelerate
+the proposed VR intervention into practice. Primary and
+secondary outcomes (Aim 2) will be assessed using a
+within-subjects pretest-posttest design. Qualitative pre-
+implementation data will be collected following each VR
+session. The VR intervention will be implemented as an
+adjunct part of graded exposure physical therapy (PT)
+sessions in the CPRP. For each session, participants will
+be assigned to use one of two VR head-mounted displays
+(HMD: Oculus Rift, Gear VR). VR assignment will be
+balanced secondary to equipment availability. Specific-
+ally, participants will participate in two sessions of Gear
+VR [27] for each session of Oculus Rift [ 28].
+Intervention
+To build a hierarchy of VR APPs for matching the tech-
+nology to patient need, the VR intervention will consist
+of 12 commercially-available APPs (six per VR modality)
+selected by investigators that could potentially reduce
+fear of movement. The APPs are matched based on two
+dimensions: movement intensity (low, moderate, high)
+and Veteran position (seated, standing). Movement in-
+tensity includes the level of movement required to meet
+the demands of the APP. Low-intensity APPs will re-
+quire minimal movement activities including guided
+meditation and visual imagery-based environments.
+Moderate intensity APPs include more active demands
+including exploring virtual environments and controlling
+air or watercraft. High-intensity APPs will require partic-
+ipants to use a greater range of bodily motion including
+painting on 3D canvases or rhythm-based activities
+(similar to the video game “Rock Band ”)[29]. While pre-
+vious studies have emphasized the intensity [ 16], it is
+important to consider whether the participant uses the
+VR technology in a seated vs. a standing position be-
+cause this may impact the intensity of the required
+movement. The APPs utilized in this study [ 30–40] are
+presented in Table 1.
+Comparable APPs were chosen for two VR HMDs,
+Oculus Rift VR [ 28] and Samsung Oculus Gear VR
+HMD ’s[27]. Oculus Rift is a commercially available VR
+HMD with two hand-operated controllers which can be
+used with commercial computers with appropriate pro-
+cessing and graphics capabilities [ 10,28]. The HMD de-
+tects head movement and the controllers track handmovements via 3D inertial sensor technology [ 10]. Case
+and pilot studies have demonstrated the feasibility of
+Oculus Rift for research and treatment of acute and
+chronic pain and movement-based disorders [ 41–44].
+The Samsung Oculus Gear VR HMD [ 27] is another
+commercially available unit designed for use with the
+Samsung Galaxy Series smartphones (i.e., series S6 and
+newer). The HMD projects VR images are generated by
+the smartphone with sound [ 27]. The Samsung Oculus
+Gear VR HMD has also been utilized in previous re-
+search for acute pain management among hospitalized
+patients [ 16]. Figure 1presents research team members
+demonstrating the Oculus Rift and Samsung Oculus
+Gear VR (used with written permission).
+Procedures
+At CPRP admission, licensed clinical psychologists will
+inform prospective participants about the study and pro-
+vide them with a flyer. The clinical staff will then send a
+VA-encrypted e-mail containing the contact information
+of any interested Veterans to the study coordinator. A
+member of the research team (i.e., licensed physical ther-
+apist, licensed occupational therapist, or clinical psych-
+ology post-doctoral fellow) will follow up with interested
+Veterans in person to further discuss the study and ob-
+tain informed consent. Veterans will be explicitly in-
+formed that they can leave the study at any time without
+penalty and that they can participate in VR as part of
+their PT even if they choose not to consent for partici-
+pation in the study.
+The CPRP provides two daily group sessions of PT,
+each session containing up to six Veterans. Within each
+PT session, participants will be randomized into groups
+of three. One group will receive the VR intervention for
+the first 20 min with the other group receiving PT. Dur-
+ing VR sessions, one participant will use the Oculus Rift
+and two participants will use Samsung Oculus Gear VR.
+During the first VR session, the intensity hierarchy will
+be explained, and Veterans will begin by using guided
+meditation (low intensity). In each session, the VeteransTable 1 APPs for Oculus Rift VR and Samsung Oculus Gear VR
+by intensity
+Intensity VR HMD
+Oculus Rift Samsung Oculus Gear VR
+Low (1) Guided Meditation VR [ 30]
+(2) Perfect [ 31](1) Guided Meditation VR [ 30]
+(2) Rest VR: Rest & Meditate
+[36]
+Medium (3) Nature Treks VR [ 32]
+(4) The Grand Canyon VR
+Experienc e[ 33](3) Ocean Rift [ 37]
+(4) Reveries: Dream Flight [ 38]
+High (5) Tilt Brush [ 34]
+(6) The Show Must Go On
+[35](5) Paint VR [ 39]
+(6) Beats Fever Paper [ 40]Fowler et al. Pilot and Feasibility Studies           (2019) 5:146 Page 4 of 10
+will be asked whether they wish to progress to a higher
+intensity VR APP or continue using similar intensity
+APPs and their preference to sit or stand during their
+VR participation. The Veteran will choose whether to sit
+or stand during their VR participation. After the 20-min
+VR sessions, the groups will switch treatment modalities
+(VR to PT and vice versa). Following each VR session,
+Veterans will be administered the daily rating form. Fear
+of movement and pain outcomes will be treatment pro-
+gress measures administered to all Veterans by CPRPstaff at admission and discharge. These research teams
+will retrieve these measures along with demographic in-
+formation from the VA electronic medical record. En-
+gagement between participants and the research team
+during VR sessions will help ensure adherence to the
+intervention protocol. A customizable user manual for
+Oculus Rift and Samsung Oculus Gear VR was devel-
+oped for this study to assist in training the research team
+and to use with the study protocol (available upon
+request). The study schedule is presented in Table 2.
+Ethical compliance
+The annual internal audit completed by the research
+compliance office at the James A. Haley Veterans Hos-
+pital will serve the purpose of examining ethical compli-
+ance. Any adverse events will be reported to clinical
+staff, the research service at the James A. Haley Veterans
+Hospital, and the University of South Florida IRB.
+Confidentiality
+Several steps will be taken to secure participant confi-
+dentiality. First, any contact information from interested
+Veterans will be sent from CPRP staff to the research
+team via VA-encrypted e-mail. Second, electronic data
+files will be saved only on a secured VA server behind
+the VA firewall. Third, informed consents will be stored
+in locked filing cabinets in the project manager ’s office.
+Finally, all raw data will be stored separately in a locked
+filing cabinet in the principal investigators ’office.
+Fig. 1 Samsung Oculus Gear VR with supplemental hand controller
+(left) and Oculus Rift (right)
+Table 2 Study schedule
+CPRP timeline Admission Week 1 Week 2 Week 3 Discharge
+VR session 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Orientation X
+Informed consent X
+Daily rating form
+APP intensity X X X X X X X X X XXXXXX
+Cybersickness X X X X X X X X X XXXXXX
+Immersion X X X X X X X X X XXXXXX
+Open-ended questions X X X X X X X X X XXXXXX
+Primary measures
+General feared movements (POQ-VA) X X
+Common feared movements (FDAQ) X X
+Secondary measures
+Pain intensity (POQ-VA) X X
+Interference with mobility (POQ-VA) X X
+Interference with ADLs (POQ-VA) X X
+Negative affect (POQ-VA) X X
+Pain catastrophizing (PCS) X X
+Patient-specific functioning (PSFS) X XFowler et al. Pilot and Feasibility Studies           (2019) 5:146 Page 5 of 10
+Primary measures
+The daily rating form is available from the authors upon
+request. Functional and pain measures were chosen
+based on their psychometric properties, relevance to
+chronic pain populations, and availability within the
+CPRP medical record.
+Feasibility of VR
+Daily rating form Following each VR session, a daily
+rating form will be used to document participants ’VR
+experiences. Specifically, the research team will use the
+daily rating form to track the APP the Veteran selects
+during their VR session, self-reported APP intensity,
+whether they participate in a seated or standing position,
+and the number of sessions completed. Information on
+APP intensity will be used to plot progression across the
+distraction-to-exposure hierarchy (Aim 1). Veterans will
+also be assessed using validated single-item measures of
+“cybersickness ”[45] and their level of “immersion ”in
+the VR experience [ 46]. Information collected from the
+daily rating form will also be utilized to gain a better un-
+derstanding of feasibility including potential barriers and
+facilitators of using VR within this complex Veteran
+population (Aim 3). For example, chronic pain popula-
+tions may require special considerations for using VR
+due to factors such susceptibility to cybersickness (e.g.,
+dizziness, nausea) and physical levels of (dis) comfort of
+HMDs [ 47]. Both factors can provoke greater anxiety/
+panic and be addressed by a tailored approach to HMD
+selection and content exposure (e.g., lower-intensity
+stimuli, appropriate VR session length) [ 47]. Participants
+will be given the opportunity to provide such additional
+information about their VR experience via their length
+of use and four open-ended questions, i.e., likes, dislikes,
+symptoms, and additional comments. This data will be
+recorded using the daily rating form and be used to
+guide any necessary modifications for the main trial (see
+the “Discussion ”section).
+Fear of movement
+Kinesiophobia will be the primary outcome and assessed
+with the following measures. The first is the two-item
+“fear ”subscale from the Pain Outcomes Questionnaire-
+VA (POQ-VA) [ 48], which will be used to examine the
+general fear of movement (i.e., fear of re-injury,
+avoidance). The second measure of kinesiophobia is the
+10-item Fear of Daily Activities Questionnaire (FDAQ)
+[49], which will be used to examine common feared
+movements.
+Pain Outcomes Questionnaire-VA (primary) The
+POQ-VA [ 48] a comprehensive multidimensional instru-
+ment was developed and validated specifically forVeteran populations. The Intake and Discharge versions
+of this questionnaire contain the following: 19 “primary
+items ”that measure pain treatment outcomes across six
+prominent pain-related domains including a two-item
+fear of movement scale. These primary scale items are
+measured on 11-point rating scales (0 to 10) with higher
+scores indicating better outcomes. Similar to other scales
+on this measure, the fear of movement scale has demon-
+strated good generalizability and discriminant and con-
+current validity [ 48,50]. Internal consistency may be
+questionable [ 48] and no minimum clinically important
+change (MCIC) standards have been established for this
+subscale.
+Fear of Daily Activities Questionnaire The FDAQ is a
+self-report measure designed to assess feared common
+activities for people with chronic pain using the Fear-
+Avoidance Model [ 49]. All 10-items are measured using
+a 100-point numeric rating scale ranging from 0 ( no
+fear) to 100 ( maximal fear ). The FDAQ can be averaged
+and utilized as a full scale with item content reflecting
+upright and seated posture as well as spinal movement.
+The full-scale FDAQ has demonstrated good internal
+(Cronbach ’sα= .91) and test-retest reliability (ICC =
+0.90) as well as strong concurrent validity with disability
+(r= 0.70) and moderate concurrent validity with other
+pain measures to be used in this study, e.g., Pain Cata-
+strophizing Scale ( r= 0.52) and the numeric rating scale
+(r= .34) [ 49,51]; sensitivity to change with reductions in
+disability ( r= 0.49) and pain catastrophizing ( r= 0.35) at
+4-week follow-up following graded-exposure physical
+therapy [ 49]. The minimum clinically important change
+(MCIC) on the FDAQ is a 12.9 point reduction [ 49].
+Secondary outcome measures
+Secondary pain and functional outcomes will be exam-
+ined to formalize optimal additional measures for VR
+use in a future RCT.
+Pain Outcomes Questionnaire-VA (secondary)
+The additional 17 primary items on the POQ-VA
+measure four additional subscales to be examined as sec-
+ondary outcomes. These scales include pain intensity,
+interference with mobility, interference with ADLs, and
+negative affect (e.g., depression, anxiety). These subscale
+scores have demonstrated acceptable internal consistency
+(Cronbach ’sα=0 . 7 8 –0.90) [ 48]. The POQ-VA will also be
+utilized to collect additional descriptive information in-
+cluding pain history (e.g., chronicity, locations), disability
+and employment status, opioid use, and pain-related med-
+ical utilization over the previous 3 months. No MCIC
+scores have been published for the POQ-VA subscales
+except the pain intensity numeric rating scale (MCIC =
+2.1–2.8 points) [ 52]. Daily pain intensity scores will alsoFowler et al. Pilot and Feasibility Studies           (2019) 5:146 Page 6 of 10
+be collected from the medical record because this may im-
+pact progression in the hierarchy.
+Pain Catastrophizing Scale
+The 13-item Pain Catastrophizing Scale (PCS) [ 53] will
+be used to measure maladaptive and exaggerated nega-
+tive beliefs “toward actual or anticipated experiences ”of
+pain (p. 602) [ 54]. Items are measured on a 5-point
+Likert-type scale anchored by 0 ( not at all ) and 4 ( all
+the time ) with higher scores indicating greater levels of
+catastrophizing. The PCS has demonstrated utility as
+both a full-scale score as well as a three-factor structure
+with subscales measuring cognitive “rumination ”on pain
+symptoms ( “I keep thinking about how much it hurts ”),
+“magnification ”of pain symptoms ( “I become afraid that
+the pain will get worse ”), and “helplessness ”(“There is
+nothing I can do to reduce the intensity of the pain ”)
+[53,55]. The full-scale PCS score has established MCIC
+improvements for return to work (38%) and pain reduc-
+tion (44%) following rehabilitation [ 56], but not for its
+subscales. Hence, the full-scale PCS score will be exam-
+ined in the current study. The full PCS has demon-
+strated acceptable internal consistency (Cronbach ’sα=
+0.87 –0.93) [ 53,55], test-retest reliability (ICC = 0.75)
+[53], and criterion validity in d ifferentiating between
+chronic pain outpatient and community adult
+samples [ 55].
+Patient-Specific Functional Scale
+The Patient-Specific Function Scale (PSFS) [ 57] can be
+tailored to the individual ’s health-related functioning.
+Participants are asked to self-select three-to-five activ-
+ities that cause great difficulty or they can no longer en-
+gage in secondary to a specific health condition. They
+are then asked to rate the difficulty of these activities on
+an 11-point scale anchored by 0 ( unable to perform ) and
+10 (able to perform at prior level ). A score will be ob-
+tained by averaging activities and using reverse-scoring
+for interpretation consistency with other measures;
+higher scores indicate worse outcomes. The PSFS has
+demonstrated good test-test reliability (ICC = 0.82) and
+sensitivity to change among people with chronic neck
+pain [ 58] and acute low back pain (ICC = 0.91 –0.97)
+[59], convergent validity with disability ( r= 0.55 –.74),
+role functioning ( r= 0.44), physical functioning ( r=
+0.30), and bodily pain ( r= 0.34) [ 59]. The MCIC for the
+PSFS has been established for small (1.3 –2.29 points),
+moderate (2.3 –2.69), and large clinical improvements
+(> 2.70) [ 60].
+Analytic plan
+All demographic characteristics, primary and secondary
+measures, will be described by the use of means and
+standard deviations for continuous variables andpercentages for categorical variables. Multiple steps will
+be taken to handle missing data. Missing value patterns
+will be examined using Little ’s Missing Completely at
+Random Test [ 61]. Missing data will be estimated using
+multiple imputations with demographic information and
+participant baseline scores on primary and secondary
+measures as predictors of missing items [ 62]. Up to 20%
+of missing data will be allowed for the proposed study
+based on evidence suggesting that standardized bias of
+mean changes is acceptable when using multiple
+imputation techniques in a small sample ( N= 20) [ 63].
+Aim 1
+Describe the individual Veteran trajectories and APP in-
+tensity ratings across the proposed distraction-to-
+exposure hierarchy. Distributions of the Veteran-
+selected VR APPs (proposed movement intensity range
+of 1 –6) will be calculated and plotted across all sessions
+over the course of the study. The frequency of individual
+Veteran trajectories will be counted to identify common
+patterns for the preferred level of movement. Veteran ’s
+average self-reported intensity ratings for individual VR
+APPs will be plotted across sessions. Consistencies be-
+tween the level of movement required to engage in the
+APP and self-reported intensity will be descriptively
+examined.
+Aim 2
+Estimate the within-subjects effect size and 95% CI for
+changes in fear of movement to provide insight into the
+likely magnitude of effect associated with the VR inter-
+vention. For the primary outcome (POQ-VA: fear of
+movement) the within-participant effect size calculations
+(Mpost –Mpre/SD diff) will be made along with 95% CIs to
+provide insight into the effect associated with VR
+utilization [ 64]. This step will also be completed for the
+FDAQ. Furthermore, the FDAQ mean difference from
+baseline and 95% CI will be calculated and compared to
+the established MCIC for this measure. The proportion
+of Veterans that experience clinically meaningful change
+will then be calculated. For secondary pain and func-
+tional measures, the effect sizes, mean differences from
+baseline with 95% CIs, and the proportion of partici-
+pants that experience meaningful change will be exam-
+ined. Data from secondary measures will be used to
+select optimal instruments for use with VR in a larger
+RCT.
+Aim 3
+Pilot test this protocol to assess the feasibility of VR use
+to plan for a future RCT. Veteran experiences using VR
+as an adjunct for pain including potential barriers and
+facilitators to use will be examined. Feedback and re-
+sponses to questions on the daily rating form will beFowler et al. Pilot and Feasibility Studies           (2019) 5:146 Page 7 of 10
+transcribed word-by-word and analyzed using the fol-
+lowing steps [ 65]. First, the text will be read several
+times. Second, exploratory commenting will be per-
+formed line-by-line to let the data drive the coding.
+Third, line-by-line coding will be chronologically or-
+dered into emergent themes. Steps one through three
+will be tabled: a MS Word document will be created for
+each emergent theme identified in steps one through
+three. Super-ordinate themes will be identified by
+searching for patterns and connections between the
+emerging themes. Compliance to the VR protocol will
+also be examined. The proportion of VR sessions
+attended (attended sessions/total sessions) will be calcu-
+lated. Additionally, the number of VR sessions com-
+pleted without early termination (completed sessions/
+total session attempts) will be calculated and reported.
+This information will help us determine anticipated
+adherence for the larger trial.
+Discussion
+Studies have demonstrated the efficacy of using VR in-
+terventions as a means of pain distraction for people
+with acute [ 11,16,42] and to a lesser extent chronic
+pain [ 17]. Similarly, evidence suggests that graded expos-
+ure to feared movements via VR interventions can im-
+prove function among people with chronic pain [ 21,22].
+However, there is a lack of sufficient evidence from stud-
+ies examining multiple VR APPS or varying simulation
+intensity levels, both of which have been identified as
+important directions for future VR research [ 16]. More-
+over, no studies have examined distraction and exposure
+methods as part of a two-dimensional VR hierarchy. The
+proposed research addresses these gaps in the literature
+by utilizing multiple VR APPs requiring varying levels of
+movement that range from low-intensity pain distraction
+to a more active exposure to movement.
+This study will inform the feasibility of a larger RCT
+examining the clinical utility of using VR to reduce fear
+of movement, pain, and increase function among Vet-
+erans with chronic pain. This will be accomplished in
+multiple ways. First, effect size estimates for improve-
+ment in fear of movement will be used to power a larger
+RCT. Second, effect size and clinically meaningful
+change on secondary outcomes will help in the selection
+of optimal scales for use with VR in the larger clinical
+trial [ 66]. Third, descriptive information collected on
+Veteran trajectories for the proposed hierarchy (i.e., APP
+selection, self-reported APP intensity) will assist in any
+necessary modifications so that Veterans are not over-
+or underexposed. Fourth, data collected using the daily
+rating form will provide useful information regarding
+Veterans with chronic pain using this technology. This
+will include whether 20 min is an appropriate length for
+VR exposure, experienced adverse events (e.g.,cybersickness, falls), and facilitators (e.g., immersion,
+HMD preferences) or barriers (e.g., physical, psycho-
+logical discomfort) to VR use [ 47,66]. Additional quali-
+tative information will help with the identification of any
+additional unforeseen factors.
+Examining the feasibility of this protocol will also be
+beneficial for Veterans, clinicians, and policymakers. Per
+the 2016 National Pain Strategy [ 67], the federal govern-
+ment ’s first coordinated plan strives to reduce the bur-
+den of chronic pain in the USA. Variations in clinical
+practice and inadequate tailoring of pain therapies, as
+well as a reliance on relatively ineffective high-risk treat-
+ments, have contributed to the poor quality of care for
+people with pain [ 67]. If the aims of this research are
+achieved, VR will be used in combination with estab-
+lished pain management strategies to decrease pain and
+opioid use. VR has the advantage of being easily imple-
+mented both within VA healthcare settings as well as in
+Veterans ’own residences, where engagement in ongoing
+self-management approaches is often most challenging.
+VR therapies are projected to have a $3.9 billion mar-
+ket size by 2023 [ 68], yet despite this tremendous public
+health burden, published research to date has not ex-
+tended beyond pilot trials and case studies. Given the
+lack of large-scale RCTs examining the clinical effective-
+ness of VR, findings from the proposed study will
+present a key step to inform a larger RCT to validate our
+proposed hierarchy and compare it to an active control
+group (i.e., VR APPs with no known therapeutic value).
+This level of RCT evidence represents a necessary next
+step in the evolution of clinical VR research.
+Abbreviations
+ADL: Activities of daily living; CBT: Cognitive behavioral therapy;
+CPRP: Chronic Pain Rehabilitation Program; FDAQ: Fear of Daily Activities
+Questionnaire; HMD: Head-mounted display; PCS: Pain Catastrophizing Scale;
+POQ-VA: Pain Outcomes Questionnaire-VA; PSFS: Patient-Specific Functional
+Scale; PT: Physical therapy; RCT: Randomized controlled trial; VA: Veterans
+Affairs; VR: Virtual reality
+Acknowledgements
+The authors would like to thank Nicolle Angeli, Ph.D., Stacey Sandusky, Ph.D.,
+and Megan Anderson, PTA from the Chronic Pain Rehabilitation Program at
+the James A. Haley Veterans Hospital for their assistance with participant
+recruitment, scheduling, and implementation strategies. We would also like
+to thank our research assistant Katherine Ralston, BA, for her numerous
+ongoing contributions to this project. Thank you to Spencer Mason from the
+Advanced Visualization Center at the University of South Florida for his
+assistance with VR technologies. Finally, thank you to Gail Powell-Cope, Ph.D.,
+ARNP, FAAN, for her continued support of our research. This material is the
+result of work supported with resources and the use of facilities at the James
+A. Haley Veterans ’Hospital. The contents of this manuscript do not reflect
+the views of the Department of Veterans Affairs or the United States
+Government.
+Authors ’contributions
+CAF, the principal investigator, prepared this manuscript for publication,
+assisted in the development of the study protocol and study design, created
+the VR user manual, and oversees all study procedures. LG assisted in the
+development of the IRB protocol, reviewed this manuscript with suggestions,
+and is currently assisting in the data collection process. KA is a physicalFowler et al. Pilot and Feasibility Studies           (2019) 5:146 Page 8 of 10
+therapist who served as a subject matter expert (SME) for PT-based graded
+exposure therapy for chronic pain, assisted with the development of the
+study protocol, and provided critical review of this manuscript. AMM and
+JLM are clinical psychologists with expertise in pain management. They
+served as chronic pain and CBT SMEs, assisted with the development of the
+study protocol, and provided critical review of this manuscript. HK served as
+a SME for the VR technology used in this study, assisted with the develop-
+ment of the study protocol, provided VR equipment for data collection, and
+provided critical review of this manuscript. KEK is a biostatistician who
+assisted in the development of the study design and quantitative analytic
+plan and assisted with the critical review of the manuscript with suggestions.
+SLW assisted in the manuscript preparation, study design, and development
+of the study and IRB protocols. All authors read and approved the final
+manuscript.
+Funding
+This study has not received support from external funding agencies. A small
+budget for purchasing VR APPs and equipment was provided by the Tampa
+VA Research and Education Foundation (TVAREF) with approval from Dr. Gail
+Powell-Cope.
+Availability of data and materials
+Once completed, the final de-identified datasets from this study (qualitative
+and quantitative) and the VR user manual will be made available by the cor-
+responding author upon reasonable request.
+Ethics approval and consent to participate
+This trial was approved by the University of South Florida IRB (Protocol
+00031503) and the James A. Haley VA Hospital R&D Committee.
+Consent for publication
+Written consent was obtained from the research team members
+demonstrating the Oculus Rift and Samsung Gear VR HMDs in Fig. 1.
+Competing interests
+JLM serves as the Chief Behavioral Health Officer of Karuna Labs. This is a
+recent appointment. JLM was not in this position during the
+conceptualization of this study, data collection, or drafting of this manuscript.
+Author details
+1Research and Development Service, James A. Haley Veterans Hospital and
+Clinics, 8900 Grand Oak Circle, Tampa, FL 33705, USA.2James A. Haley
+Veterans Hospital and Clinics, 13000 Bruce B. Downs Blvd, Tampa, FL 33612,
+USA.3Advanced Visualization Center, University of South Florida –
+Information Technology, 4202 E. Fowler Avenue, CMC147, Tampa, FL 33620,
+USA.4College of Public Health, University of South Florida, 13201 Bruce B.
+Downs Blvd, MDC56, Tampa, FL 33612, USA.5Department of Neurology,
+University of South Florida, 12901 Bruce B. Downs Blvd, Tampa, FL 33612,
+USA.
+Received: 2 December 2018 Accepted: 16 September 2019
+References
+1. Yu W, Ravelo A, Wagner TH, Phibbs CS, Bhandari, A, Chen S, et al.
+Prevalence and costs of chronic conditions in the VA health care system.
+Med Care Res Rev. 2003; doi: https://doi.org/10.1177/1077558703257000 .
+2. Goulet, JL, Kerns RD, Bair M, Becker, WC, Brennan, P, Burgess, DJ, et al. The
+musculoskeletal diagnosis cohort: examining pain and pain care among
+Veterans Pain 2016; doi: https://doi.org/10.1097/j.pain.0000000000000567 .
+3. Kerns RD, Philip EJ, Lee AW, Rosenberger PH. Implementation of the
+Veterans Health Administration national pain management strategy. Transl
+Behav Med. 2011. https://doi.org/10.1007/s13142-011-0094-3 .
+4. Dowell D, Haegrich TM, Chou R. CDC guideline for prescribing opioids
+for chronic pain-United States. JAMA. 2016. https://doi.org/10.1001/jama.
+2016.1464 .
+5. Association, ACP. National Pain Strategies. White House 2016. https://
+theacpa.org/news/national-pain-strategies%2D%2D-white-house-petition ..
+6. Grichnik KP, Ferrante FM. The difference between acute and chronic pain.
+Mt Sinai J Med. 1991;58(3):217 –20.7. Lethem J, Slade PD, Troup JDG, Bentley G. Outline of a fear-avoidance
+model of exaggerated pain perception-I. Behav Res Ther. 1983. https://doi.
+org/10.1016/0005-7967(83)90009-8 .
+8. Murphy JA, McKellar JD, Raffa SD, Clark ME, Kerns RD, Karlin BE. Cognitive
+behavioral therapy for chronic pain among veterans: therapist manual, D.o.
+V. affairs, editor. Washington, DC: U.S. Department of Veterans Affairs; 2014.
+9. Dioniso JD, Burns WG III, Gilbert R. 3D virtual worlds and the metaverse:
+current status and future possibilities. ACM Comput Surv. 2013. https://doi.
+org/10.1145/2480741.2480751 .
+10. Parkin, S. Oculus Rift: Thirty years after virtual-reality goggles and immersive
+virtual worlds made their debut, the technology finally seems poised for
+widespread use. MIT Technology Review, 2013. https://www.
+technologyreview.com/s/526531/oculus-rift/ ..
+11. Garrett B, Taverner T, Masinde W, Gromala D, Shaw C, Negraeff M. A rapid
+evidence assessment of immersive virtual reality as an adjunct therapy in
+acute pain management in clinical practice. Clin J Pain. 2014. https://doi.
+org/10.1097/AJP.0000000000000064 .
+12. Parsons TD, Trost Z. Virtual reality graded exposure therapy as treatment for
+pain-related fear and disability in chronic pain, in virtual and augmented
+reality and serious games for healthcare. In: Ma M, Cain LC, Anderson P,
+editors. . Berlin Heidelberg: Springer; 2014. p. 523 –46.
+13. Trost Z, Zielke M, Guck A, Nowlin L, Zakhidov D, France CR, et al. The
+promise and challenge of virtual gaming technologies for chronic pain: the
+case of graded exposure for low back pain. Pain Manag. 2015. https://doi.
+org/10.2217/pmt.15.6 .
+14. Trost Z, Parsons TD. Beyond distraction: virtual reality graded exposure
+therapy as treatment for pain-related fear and disability in chronic pain. J
+Appl Biobehav Res. 2014. https://doi.org/10.1111/jabr.12021 .
+15. Hoffman HG, Meyer WJ III, Ramirez M, Roberts L, Seibel EJ, Atzori B, et al.
+The analgesic effects of opioids and immersive virtual reality distraction:
+evidence from subjective and functional brain imaging assessments. Anesth
+Analg. 2007. https://doi.org/10.1089/cyber.2014.0058 .
+16. Tashjian VC, Mosadeghi S, Howard AR, Lopez M, Dupuy T, Reid M. Virtual
+reality for management of pain in hospitalized patients: results of a
+controlled trial. JMIR Ment Health. 2017. https://doi.org/10.2196/mental.7387 .
+17. Wiederhold BK, Gao K, Sulea C, Wiederhold MD. Virtual reality as a
+distraction technique in chronic pain patients. Cyberpsychol Behav Soc
+Netw. 2014. https://doi.org/10.1089/cyber.2014.0207 .
+18. Schmid-Leuz B, Elsesser K, Lohrmann T, Jöhren P, Sartory G. Attention
+focusing versus distraction during exposure in dental phobia. Behav Res
+Ther. 2007. https://doi.org/10.1016/j.brat.2007.07.004 .
+19. Price M, Anderson P. The role of presence in virtual reality exposure therapy.
+J Anxiety Disord. 2007. https://doi.org/10.1016/j.janxdis.2006.11.002 .
+20. Ferguson JM, Trombly CA. The effect of added-purpose and meaningful
+occupation on motor learning. Am J Occup Ther. 1997. https://doi.org/10.
+5014/ajot.51.7.508 .
+21. Yilmaz Yelvar GD, Ç ırak Y, Dalk ılınç M, Parlak Demir Y, Guner Z, Boydak A. Is
+physiotherapy integrated virtual walking effective on pain, function, and
+kinesiophobia in patients with non-specific low-back pain? Randomised
+controlled trial. Eur Spine J. 2016. https://doi.org/10.1007/s00586-016-4892-7 .
+22. Thomas JS, France CR, Applegate ME, Leitkam ST, Walkowski S. Feasibility
+and safety of a virtual reality dodgeball intervention for chronic low back
+pain: a randomized clinical trial. J Pain. 2016. https://doi.org/10.1016/j.jpain.
+2016.08.011 .
+23. Keefe FJ, Huling DA, Coggins MJ, Keefe DF, Rosenthal MZ, Herr NR, et al.
+Virtual reality for persistent pain: a new direction for behavioral pain
+management. Pain. 2012. https://doi.org/10.1016/j.pain.2012.05.030 .
+24. Wertli MM, Rasmussen-Barr E, Held U, Weiser S, Bachmann LM, Brunner F.
+Fear-avoidance beliefs-a moderator of treatment efficacy in patients with
+low back pain: a systematic review. Spine J. 2014. https://doi.org/10.1016/j.
+spinee.2014.02.033 .
+25. Murphy JL, Clark ME, Banou E. Opioid cessation and multidimensional
+outcomes after interdisciplinary chronic pain treatment. Clin J Pain. 2013.
+https://doi.org/10.1097/AJP.0b013e3182579935 .
+26. Murphy JL, Phillips KM, Rafie S. Sex differences between veterans
+participating in interdisciplinary chronic pain rehabilitation. JRRD, 2016; doi:
+https://doi.org/10.1682/JRRD.2014.10.0250 .
+27. Samsung, Oculus VR: Samsung Oculus Gear VR. Virtual Reality Headset, 2015.
+https://www.oculus.com/gear-vr/
+28. Oculus VR: Oculus Rift. Virtual Reality Headset, 2016. https://www.oculus.
+com/riftFowler et al. Pilot and Feasibility Studies           (2019) 5:146 Page 9 of 10
+29. Harmonix Music Systems: Rock Band. Video Game, 2007. https://www.
+rockband4.com
+30. Cubicle Ninjas: Guided meditation VR. VR APP, 2016. https://
+guidedmeditationvr.com . Accessed 26 Apr 2018.
+31. nDreams: Perfect. VR APP, 2016. http://www.ndreams.com/perfectvr .
+Accessed 26 Apr 2018.
+32. Greener Games: Nature Treks. VR APP, 2017. http://greenergames.net .
+Accessed 26 Apr 2018.
+33. Immersive Entertainment, Inc.: Grand Canyon VR. VR APP, 2016. https://
+www.immersiveentertainment.com/the-grand-canyon-vr-experience/ .
+Accessed 26 Apr 2018.
+34. Google LLC: Tilt Brush. VR APP, 2017. https://www.tiltbrush.com . Accessed
+26 Apr 2018.
+35. NiVision: The Show Must Go On. VR APP, 2017. https://nivisionag.wixsite.
+com/showmust-goon . Accessed 26 Apr 2018.
+36. Now VR: Rest VR: relax and meditate. VR APP, 2016. http://www.relaxvr.co/ .
+Accessed 26 Apr 2018.
+37. Picselica: Ocean Rift. VR APP, 2016. http://www.ocean-rift.com . Accessed 26
+Apr 2018.
+38. Multiverse Entertainment LLC: Reveries: dream flight. VR APP, 2016. https://
+www.multiverseinc.com/dreamflight . Accessed 26 Apr 2018.
+39. COSKAMI LLC: Paint VR. VR APP, 2017. https://www.facebook.com/
+PAINTinVR/ . Accessed 26 Apr 2018.
+40. Arrowiz: Beats Fever Paper. VR APP, 2017. http://arrowiz.com/ Harmonix
+Music Systems: Rock Band. Video Game, 2007. https://www.rockband4.com .
+Accessed 26 Apr 2018.
+41. Czub M, Piskorz J. Body movement reduces pain intensity in virtual reality –
+based analgesia. Int J Human Comput Interaction. 2017. https://doi.org/10.
+1080/10447318.2017.1412144 .
+42. Hoffman HG, Meyer III WJ, Ramirez M, Roberts L, Seibel EJ, Atzori B, et al.
+Feasibility of articulated arm mounted Oculus Rift virtual reality goggles for
+adjunctive pain control during occupational therapy in pediatric burn
+patients. Cyberpsychol, Behav Soc Netw, 2014; doi: https://doi.org/10.1089/
+cyber.2014.0058 .
+43. Jin W, Choo A, Gromala D, Shaw C, Squire P. A virtual reality game for
+chronic pain management: a randomized, controlled clinical study. In:
+Westwood JD, Westwood SW, Felländer-Tsai L, Fidopiastis CM, Liu A, Senger
+S, et al., editors. Medicine Meets Virtual Reality. Amsterdam, Berlin,
+Washington DC: IOS Press; 2016. p. 154 –60.
+44. Xu X, Chen KB, Lin JH, Radwin RG. The accuracy of the Oculus Rift virtual
+reality head-mounted display during cervical spine mobility measurement. J
+Biomech. 2015. https://doi.org/10.1016/j.jbiomech.2015.01.005 .
+45. Davis S, Nesbitt K, Nalivaiko E. A systematic review of cybersickness.
+Proceedings of the 2014 Conference on Interactive Entertainment, 2014,
+doi:https://doi.org/10.1145/2677758.2677780 .
+46. Cole J, Crowle S, Austwick G, Slater DH. Exploratory findings with virtual
+reality for phantom limb pain; from stump motion to agency and analgesia.
+Disabil Rehabil. 2009. https://doi.org/10.1080/09638280802355197 .
+47. Tong X, Gromala D, Gupta D, Squire P. Usability comparisons of head-
+mounted vs. stereoscopic desktop displays in a virtual reality environment
+with pain patients. Stud Health Technol Inform. 2016; doi: https://doi.org/10.
+3233/978-1-61499-625-5-424 .
+48. Clark ME, Gironda RJ, Young RW. Development and validation of the Pain
+Outcomes Questionnaire-VA. J Rehabil Res Dev. 2003;40(5):381 –95.
+49. George SZ, Valencia C, Zeppieri G Jr, Robinson ME. Development of a self-
+report measure of fearful activities for patients with low back pain: The Fear
+of Daily Activities Questionnaire. Phys Ther. 2009. https://doi.org/10.2522/ptj.
+20090032 .
+50. Clark ME, Gironda RJ. Concurrent validity of the National Pain Data Bank:
+preliminary results. Am J Pain Manage. 2000;10:25 –33.
+51. George SZ, Robinson ME, Zeppieri G Jr, Valencia C. Psychometric properties
+of the Fear of Daily Activities Questionnaire (FDAQ) for patients with low
+back pain. J Pain. 2009. https://doi.org/10.1016/j.jpain.2009.01.222 .
+52. Salaffi F, Stancati A, Silvestri CA, Ciapetti A, Grassi W. Minimal clinically
+important changes in chronic musculoskeletal pain intensity on a numeric
+rating scale. BMC Eur J Pain. 2004. https://doi.org/10.1016/j.ejpain.2003.9.004 .
+53. Sullivan MJL, Bishop S, Pivik J. The Pain Catastrophizing Scale: development
+and validation. Psychol Asses. 1995. https://doi.org/10.1037/1040-3590.7.4.524 .
+54. Gatchel RJ, Peng YB, Peters ML, Fuchs PN, Turk DC. The biopsychosocial
+approach to chronic pain: scientific advances and future directions. Psychol
+Bull. 2007. https://doi.org/10.1037/0033-2909.133.4.581 .55. Osman A, Barrios FX, Kopper BA, Hauptmann W, Jones J, O ’Neill E. Factor
+structure, reliability, and validity of the Pain Catastrophizing Scale. J Behav
+Med. 1997. https://doi.org/10.1023/A:1025570508954 .
+56. Scott W, Wideman TH, Sullivan ML. Clinically meaningful scores on pain
+catastrophizing before and after multidisciplinary rehabilitation: a
+prospective study of individuals with subacute pain after whiplash injury.
+Clin J Pain. 2014. https://doi.org/10.1097/AJP.0b013e31828eee6c .
+57. Stratford PW, Gill C, Westaway MD, Binkley JM. Assessing disability and
+change on individual patients: a report of a patient specific measure.
+Physiother Can. 1995. https://doi.org/10.3138/ptc.47.4.258 .
+58. Cleland JA, Fritz JM, Whitman JM, Palmer JA. The reliability and construct
+validity of the Neck Disability Index and patient specific functional scale in
+patients with cervical radiculopathy. Spine. 2006. https://doi.org/10.1097/01.
+brs.0000201241.90914.22 .
+59. Horn KK, Jennings S, Richardson G, Vliet DV, Hefford C, Abbott JH. The
+patient-specific functional scale: psychometrics, clinimetrics, and application
+as a clinical outcome measure. J Orthop Sports Phys Ther. 2012. https://doi.
+org/10.2519/jospt.2012.3727 .
+60. Abbott JH, Schmitt J. Minimum important differences for the patient-
+specific functional scale, 4 region-specific outcome measures, and the
+numeric pain rating scale. J Orthop Sports Phys Ther. 2014. https://doi.org/
+10.2519/jospt.2014.5248 .
+61. Little RJA, Rubin DB. Statistical analysis with missing data. 2nd ed. Hoboken:
+Wiley; 2002.
+62. Rubin DB. Multiple imputations for non-response surveys. New York:
+Wiley; 1987.
+63. Barnes SA, Lindborg SR, Seaman JW Jr. Multiple imputation techniques in
+small sample clinical trials. Stat Med. 2006. https://doi.org/10.1002/sim.2231 .
+64. Cumming G, Finch S. Inference by eye: confidence intervals and how to
+read pictures of data. Am Psychol. 2005. https://doi.org/10.1037/0003-066X.
+60.2.170 .
+65. Sandelowski M. Whatever happened to qualitative description? Res Nurs
+Health, 2000; doi: 10.1002/1098-240X(200008)23:4<334::AID-NUR9>3.0.CO;2-G.
+66. Birckhead B, Khalil C, Liu X, Conovitz S, Rizzo A, Danovitch I, et al.
+Recommendations for methodology of virtual reality clinical trials in health
+care by an international working group: iterative study. JMIR Ment Health.
+2019. https://doi.org/10.2196/11973 .
+67. Department of Veterans Affairs, Department of Defense. VA/DoD clinical
+practice guideline for opioid therapy for chronic pain. https://www.
+healthquality.va.gov/guidelines/Pain/cot/VADoDOTCPG022717.pdf (2016).
+Accessed 22 Aug 2017.
+68. Market Research Future. Virtual reality (VR) in therapy market size US $3.9
+billion by 2023: Key players –Siemens Healthcare, Virtalis, CAE Healthcare,
+GE Healthcare, Virtual Realities, Qualcomm Technologies, Samsung, Vuzix,
+Mimic Technologies, Brainlab. https://www.medgadget.com/2018/04/virtual-
+reality-vr-in-therapy-market-size-us-3-9-billion-by-2023-key-players-siemens-
+healthcare-virtalis-cae-healthcare-ge-healthcare-virtual-realities-qualcomm-
+technologies-samsung-vuzi.html?utm_source=Combo+VR+Health+-+
+Stanford+-+Greenleaf+-+Health+17&utm_campaign=ac8d912421-EMAIL_
+CAMPAIGN_2_2_2018&utm_medium=email&utm_term=0_4bf3feecdb-
+ac8d912421-55971031 (2016). Accessed 19 April 2018.
+Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.Fowler et al. Pilot and Feasibility Studies           (2019) 5:146 Page 10 of 10

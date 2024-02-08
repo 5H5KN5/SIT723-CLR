@@ -1,0 +1,909 @@
+STUDY PROTOCOL Open Access
+Implementing work-related Mental health
+guidelines in general PRacticE (IMPRovE): a
+protocol for a hybrid III parallel cluster
+randomised controlled trial
+Danielle Mazza1*, Samantha Chakraborty1, Vera Camões-Costa1, Justin Kenardy2, Bianca Brijnath3,4,
+Duncan Mortimer5, Joanne Enticott6, Michael Kidd7, Lyndal Trevena8, Sharon Reid8and Alex Collie9
+Abstract
+Background: The Clinical Guideline for the Diagnosis and Management of Work-related Mental Health Conditions
+in General Practice (the Guideline) was published in 2019. The objective of this trial is to implement the Guideline
+in general practice.
+Trial design: Implementing work-related Mental health conditions in general PRacticE is a hybrid III, parallel cluster
+randomised controlled trial undertaken in Australia. Its primary aim is to assess the effectiveness of a complex
+intervention on the implementation of the Guideline in general practice. Secondary aims are to assess patient
+health and work outcomes, to evaluate the cost-effectiveness of the trial, and to develop a plan for sustainability.
+Methods: A total of 86 GP clusters will be randomly allocated either to the intervention arm, where they will
+receive a complex intervention comprising academic detailing, enrolment in a community of practice and
+resources, or to the control arm, where they will not receive the intervention. GP guideline concordance will be
+assessed at baseline and 9 months using virtual simulated patient scenarios. Patients who meet the eligibility
+criteria (>18years, employed, and receiving care from a participating GP for a suspected or confirmed work-related
+mental health condition) will be invited to complete surveys about their health and work participation and provide
+access to their health service use data. Data on health service use and work participation compensation claim data
+will be combined with measures of guideline concordance and patient outcomes to inform an economic
+evaluation. A realist evaluation will be conducted to inform the development of a plan for sustainability.
+Results: We anticipate that GPs who receive the intervention will have higher guideline concordance than GPs in
+the control group. We also anticipate that higher concordance will translate to better health and return-to-work
+outcomes for patients, as well as cost-savings to society.
+Conclusions: The trial builds on a body of work defining the role of GPs in compensable injury, exploring their
+concerns, and developing evidence-based guidelines to address them. Implementation of these guidelines has the
+potential to deliver improvements in GP care, patient health, and return-to-work outcomes.
+© The Author(s). 2021 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ .
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.* Correspondence: danielle.mazza@monash.edu
+1Department of General Practice, Monash University, Melbourne, Australia
+Full list of author information is available at the end of the article
+Mazza et al. Implementation Science           (2021) 16:77 
+https://doi.org/10.1186/s13012-021-01146-8
+Trial registration: ACTRN12620001163998 , November 2020
+Keywords: Guideline implementation, General practice, Hybrid III trial, Mental health, Work, Integrated Knowledge
+Translation
+Contributions to the literature
+* An intervention that implements an evidence-based clinical
+guideline equipping GPs with recommendations, resources, and
+networks to improve GP care.
+/C15Improvements in GP care that enhance patient recovery,
+work productivity, and reduce health service utilisation and
+compensation claims.
+/C15A demonstration of how researchers and policy makers can
+work with GPs to facilitate the translation of research into
+clinical practice.
+/C15Rigorous evaluation processes and measurable feasibility and
+economic value mean more compensation partners can
+nationally roll out the intervention.
+Background
+Mental health conditions that have arisen as a result of
+work factors (henceforth referred to as work-related
+mental health conditions) are one of the most challen-
+ging injuries to manage [ 1,2]. These conditions can re-
+sult in some of the most expensive and complex claims
+and afflicted patients can take three times longer to re-
+turn to work compared with the median time for all
+claims [ 3].
+GPs play a key role in the diagnosis, treatment, and
+care of patients with work-related injuries. They are per-
+ceived as one of the most trusted sources of advice for
+patients, considered by patients and other health profes-
+sionals to be the primary coordinator of patient care,
+and are often tasked with advocating to employers on
+the patient ’s behalf [ 2,4,5]. Yet, many GPs, internation-
+ally, describe substantial challenges in providing this
+care, particularly where the injury involves a mental
+health condition [ 4–9]. For instance, GPs describe diffi-
+culty diagnosing mental health conditions and determin-
+ing the work-relatedness of a mental health condition,
+navigating system complexities, coordinating clinical
+care, communicating with workplaces, concern about
+imposing further harm on the patient (for instance con-
+cern about the patient facing stigma at work if they are
+known to have a work-related mental health condition),
+and a lack of evidence about optimal clinical practice [ 5,
+8,10,11]. That similar challenges are described inter-
+nationally underscores that across the compensable in-
+jury landscape, patients with mental health conditionsthat have arisen from work are seen as difficult to man-
+age, and that GPs are fundamental to brokering im-
+proved health and employment outcomes for such
+patients. The nature of these challenges suggests that
+they can be overcome through interventions that im-
+prove knowledge and offer GPs the opportunity to grow
+their confidence and skills in providing care.
+In 2019, an evidence-based clinical guideline titled
+Clinical guideline for the diagnosis and management of
+work-related mental health conditions in general practice
+was published [ 12]. This guideline is the only GP-
+focused guideline on diagnosing and managing work-
+related mental health conditions internationally. It was
+developed according to the gold-standard for guideline
+development in Australia —and approved by the National
+Health and Medical Research Council —and is endorsed
+by the two peak general practice membership organisa-
+tions in Australia, the Royal Australian College of Gen-
+eral Practitioners and the Australian College of Rural
+and Remote Medicine. It addresses specific clinical di-
+lemmas about the diagnosis and management of work-
+related mental health conditions that have been raised
+by GPs and other clinical and policy stakeholders [ 11,
+13].
+Despite the Guideline being available, it is widely
+recognised that clinicians seldom consult clinical guide-
+lines when making clinical decisions [ 14]. Instead, they
+more often develop internalised, tacit protocols that are
+based on collective reinforcement by peers, previous
+clinical experiences, and, to a lesser extent, literature or
+guidelines [ 14]. To effectively embed guideline-
+concordant behaviour into practice, an intervention
+would need to facilitate the development of new collect-
+ively reinforced, internalised tacit beliefs that align with
+the Guideline recommendations and overcome the con-
+cerns described by GPs. These requirements align well
+to the constructs of normalisation process theory: coher-
+ence, cognitive participation, collective action, and re-
+flexive monitoring [ 15]. Therefore, an intervention that
+operationalizes normalisation process theory and re-
+enforces the role of peers and opinion leaders [ 16,17]
+may be effective at implementing the Guideline. Whilst
+these factors ready a clinician for behaviour change, the
+application, practice, and embedding of new practices
+occurs over time and stages [ 18]. As such, a combination
+of these elements may provide an effective and sustain-
+able model for influencing guideline-concordant behav-
+iour change in GPs.Mazza et al. Implementation Science           (2021) 16:77 Page 2 of 11
+Two intervention approaches that encompass the prin-
+ciples of normalisation process theory and the influence
+of peers and opinion leaders are academic detailing and
+communities of practice. These interventions have some
+success in changing GP behaviour when offered indi-
+vidually [ 19–22], but are more effective when offered to-
+gether [ 19,23]. Academic detailing involves peer-to-peer
+delivery of evidence-based key messages that are tailored
+to the needs of participating clinicians [ 20,21,23]. Aca-
+demic detailing has been used regularly to educate clini-
+cians and facilitate evidence-based practice [ 24].
+Additionally, a community of practice involves driving
+innovation and excellence through sustained interaction
+over a period of time [ 22,25]. Communities of practices
+have been used successfully in Australia to improve
+evidence-based care and communication skills in general
+practice [ 26]. They provide support for practitioners
+who can feel isolated in dealing with clinical problems,
+helping them to create networks and implement new
+models of care [ 27]. A third approach, the provision of
+resources to support guideline implementation, is also
+more effective when combined with peer-to-peer strat-
+egies [ 28].
+Our complex intervention combines these academic
+detailing a community of practice and the provision
+of resources and is expected to facilitate guideline im-
+plementation by introducing these in a staged manner
+to facilitate guideline-concordant practice over time
+(Figure 1). It will do so in the following ways: (a) ad-
+dressing professional isolation; (b) learning fromrespected peers; (c) enabling GPs to demonstrate their
+own leadership by assisting their peers; (d) enabling
+GPs to develop confidence in their plan of action be-
+fore consulting with the patient, or stakeholder in-
+volved in the patient ’s care; and (e) providing this
+interaction in a flexible environment that caters to
+the GP ’s resource availability (e.g. time, mode of
+communication).
+Research hypothesis
+Our primary hypothesis is that exposure to a complex
+intervention consisting of academic detailing, and
+provision of resources and engagement in a digital com-
+munity of practice will increase the delivery of guideline-
+concordant care by GPs to patients regarding the diag-
+nosis and management of work-related mental health
+conditions. We hypothesise that increases in guideline-
+concordant care will translate into improvements in
+health status and work productivity, and reductions in
+health service utilisation.
+Aims
+This study aims to assess the effectiveness of a complex
+intervention involving academic detailing, provision of
+resources, and engagement in a digital community of
+practice on the implementation of evidence-based guide-
+lines for the diagnosis and management of work-related
+mental health conditions in general practice. Our sec-
+ondary aims are to (a) improve the health and return-to-
+work outcomes for patients with work-related mental
+Fig. 1 Theoretical basis for the IMPRovE intervention based on Prochaska and DiClemente Transtheoretical Model of Change [ 18]Mazza et al. Implementation Science           (2021) 16:77 Page 3 of 11
+health conditions in this study, (b) evaluate the cost-
+effectiveness of the guideline implementation strategy,
+and (c) develop an implementation plan for
+sustainability.
+Methods
+Design
+Implementing work-related Mental health conditions in
+general PRacticE (IMPRovE) is a hybrid III parallel
+cluster randomised controlled trial (RCT) of a complex
+intervention that involves receipt of academic detailing,
+enrolment onto a digital community of practice, and
+access to a library of resources to support guideline im-
+plementation. GP clinics (clusters) will be randomised
+to either intervention or control. A cluster design was
+chosen to avoid confounding that could arise if partici-
+pating GPs from a single clinic were allocated to differ-
+ent arms of the trial. Participating GPs in clinics
+assigned to the intervention arm will receive the inter-
+vention. GPs in the control arm will not receive the
+intervention. Patients will be recruited to each arm
+(Figure 2).
+As a hybrid III trial [ 29], the primary outcome of the
+trial will demonstrate the effectiveness of this complex
+intervention to improve guideline concordance by GPs.
+The secondary outcomes of the trial will demonstrative
+the effectiveness of the complex intervention on patient
+heath status and cost-effectiveness. Lastly, we will review
+the likelihood of this intervention being sustained and
+develop a plan for sustainability. This protocol has been
+reported according to the Template for Intervention De-
+scription and Replication (TIDieR) checklist [ 30] and the
+CONSORT extension for Cluster Trials [ 31] (Additional
+files 1and2, respectively).
+Setting
+The study will be conducted across all states and terri-
+tories in Australia. Recruitment of GPs will occur from
+December 2020 until December 2021 whilst recruitment
+of patients will occur from February 2021 until Septem-
+ber 2022 or the latest date representing nine-months
+after the final GP provides baseline measures.
+Inclusion and exclusion criteria
+General practitioners
+GPs are eligible to participate if they can recruit 7 to 24
+eligible patients over the course of the trial. GPs may
+consent after their practice has already been randomised;
+however, we will aim to enrol all GPs before their prac-
+tice has been notified of their allocation. If a GP works
+across multiple sites, then we will randomise both sites
+together.Patients
+Patients are eligible if they are 18 years or older, have a
+confirmed or suspected work-related mental health con-
+dition, are receiving care from a participating GP, and
+are employed at the time of enrolment. Patients who are
+employed but are not working (e.g. on paid or unpaid
+leave) and those who have an active workers ’compensa-
+tion claim are also eligible to participate in the study.
+Participant recruitment
+General practitioners
+GPs meeting the minimum caseload requirements for
+eligibility will be recruited through regional health au-
+thorities (known as primary health networks), GP mem-
+bership organisations, study partners, and other relevant
+healthcare organisations using newsletters, website up-
+dates, and social media avenues.
+Patients
+Patients will be recruited via the participating clinic
+through advertisement in the clinic waiting room, adver-
+tisement on the participating GP ’s desk, or directly
+through the participating GP, who will identify eligible
+patients and provide these patients with a printed infor-
+mation pack about the study. The information pack will
+include an explanatory statement, consent forms, and a
+reply-paid envelope. In addition to seeking consent to
+participate in data collection, consent will also be re-
+quested from patients to access administrative records of
+their health service utilisation for the purposes of an
+economic evaluation. Patients who wish to participate in
+the study will be invited to contact the IMPRovE project
+team for further information or to return their com-
+pleted consent forms directly to the team using the
+reply-paid envelope.
+Sample size
+A sample size of 86 clinics (clusters), with a minimum of
+one GP per cluster and assuming a GP dropout rate of
+25%, has >80% power to detect a medium-large effect
+size of Cohen ’s d of 0.69 (assuming a GP-level outcome
+score change of 1.2 on a scale with score range of 0 to 9
+and a standard deviation of 1.75 as identified in a pilot
+study of the primary outcome tool; correlation between
+baseline and follow-up measurements of 0.3, and two-
+sided significance of 0.05).
+We estimate that each GP cluster will recruit a mini-
+mum of 7 and a maximum of 24 patients (the cut-off to
+ensure that the patient sample is not skewed by a high-
+recruiting cluster) over the study period. Based on our
+analysis of high-caseload GPs [ 32], we estimate that
+there will be approximately 22 eligible patients/year/GP.
+Accounting for a 66% estimated rate of refusal to partici-
+pate as observed in another study that recruitedMazza et al. Implementation Science           (2021) 16:77 Page 4 of 11
+participants with mental health conditions in the Austra-
+lian general practice setting [ 33], we estimate that at
+least 7 eligible patients will be successfully recruited by
+each participating GP in a 9-month period.
+We anticipate that approximately 448 patients who
+are recruited within the 9 months (224 from control
+clinics and 224 test clinics; 7 per clinic/cluster) will
+have 3-month data. These patient numbers assume upto 25% of the 86 recruited GPs will drop out of the
+study. Using data from these patients, we will have 90%
+power to detect medium effects (Cohen ’sd=0 . 5 )i n
+secondary outcome measures between two groups
+(test/control) at 3 months. Calculations assume an
+alpha of 0.01, ICC of 0.03, and correlation of 0.5 be-
+tween individual scores. Calculations were made using
+Cluster statistical software [ 34].
+Fig. 2 CONSORT flowchart for the IMPRovE trial design and outcomes. *Patient numbers calculated assuming 25% of GPs will drop out of study.
+**GP guideline concordance calculated assuming 25% of GPs will drop out of the studyMazza et al. Implementation Science           (2021) 16:77 Page 5 of 11
+Randomisation
+A statistician who will not be involved in recruitment
+and will be blinded to the identity of participating GPs
+will allocate GP clusters to either the intervention or the
+control arm. Randomisation will be performed as strati-
+fied randomisation using a minimization procedure.
+Stratification factors are state, clinic size (GP equivalent
+full time >5 (yes/no)), and location (urban vs regional/
+rural). We will randomise clinics in blocks of two, or
+every 2 weeks, whichever occurs first.
+Intervention
+Intervention components
+The intervention components have been co-designed by
+the research team, an Intervention Advisory Group com-
+prising policy and practice representatives, and a key
+non-government mental health organisation Beyond
+Blue and piloted by a GP reference group. A steering
+group comprising key practice and policy representatives
+from across Australia reviewed the intervention design
+and provided advice to enhance its usability and sustain-
+ability. This approach was used to ensure that GPs re-
+ceive an intervention that is relevant to their clinical
+practice as well as relevant to policy contexts.
+Academic detailing will be provided in a single online
+session using video-conferencing. The session will be led
+by a GP opinion leader along with a professional aca-
+demic detailer. GP opinion leaders are GPs having been
+nominated by compensation scheme partners as these
+GPs are well versed in the complexities of the workers ’
+compensation system but are not representatives of the
+compensation schemes themselves. Each GP opinion
+leader will be supported by an experienced academic de-
+tailer who has expertise in providing educational out-
+reach programs to GPs. GPs from clusters in the
+intervention arm of the trial will be detailed on how to
+improve care for patients with work-related mental
+health conditions in accordance with the guideline. The
+format of each session will include (1) introduction to
+the guideline and the provision of statistics about work-
+related mental health conditions; (2) discussion of the
+key challenges that are faced by attending GPs; and (3)
+discussion of a case study with advice and instruction on
+how to implement guideline-concordant care. During
+the academic detailing session, opinion leaders will invite
+GPs to join the digital community of practice, enrol
+them as members of this community, and provide a
+demonstration on how to navigate and use the digital
+community of practice platform. Opinion leaders will
+keep a log of the key challenges and issues reported by
+GPs at each detailing session and this log will be used to
+inform the content of the community of practice and
+contribute to the process evaluation. To ensure fidelity
+of the academic detailing, all academic detailing sessionswill be recorded. A random selection of 20% of sessions
+will then be assessed against a pre-determined checklist,
+adapted from Carroll et al. [ 35] for academic detailing
+sessions, and a fidelity score will be reported. In
+addition, a qualitative and quantitative fidelity assess-
+ment will be used to assess the fidelity of the first five
+academic detailing sessions and provide feedback to GP
+opinion leaders on the delivery of these sessions.
+The digital community of practice is an online plat-
+form that will showcase the guideline recommendations
+and provides avenues to discuss and support guideline
+implementation strategies. A central component of the
+platform will be a discussion forum. In addition, the
+platform will offer a range of regular content in the form
+of webinars, case discussions, and news. A content roster
+and engagement protocol will also be used to facilitate
+ongoing engagement. The content roster will be
+reviewed quarterly to adjust for ongoing developments
+in published educational materials or other resources,
+and in response to GP engagement levels over the pre-
+ceding quarter. Once GPs are enrolled into the digital
+community of practice, they will continue to have access
+to the community of practice for the duration of the trial
+(until September 2022).
+Participating GPs will be provided with resources in-
+cluding the full guideline, flowchart of guideline recom-
+mendations, and a checklist of clinical indicators that
+was created by the expert Guideline Development Group
+during development of the guideline. They will also be
+supplied with resources from the compensation partners
+and Beyond Blue , a prominent non-government mental
+health organisation in Australia .
+Control group
+Participating GPs in clinics assigned to the control group
+will receive no support for guideline implementation. At
+the conclusion of the trial, GPs in the control group will
+be invited to attend an academic detailing session and
+engage in selected activities from the community of
+practice.
+Outcomes
+Primary outcome
+The primary outcome is concordance with guideline rec-
+ommendations by participating GPs. Guideline concord-
+ance will be assessed at baseline and 9 months later
+using virtual simulated patient scenarios. At each data
+collection point, GPs will be presented with three virtual
+scenarios of varying levels of complexity and patient cir-
+cumstance. The three virtual scenarios for each GP at
+each data collection point will be randomly selected
+from a set of eighteen virtual scenarios, controlling for
+learning effects and order effects, and balancing rigorous
+measurement with participation burden. We based theMazza et al. Implementation Science           (2021) 16:77 Page 6 of 11
+development of these scenarios on 20 interviews with
+patients who have lived experiences of work-related
+mental health conditions to ensure that virtual scenarios
+reflect the range of patient characteristics that a GP
+would see.
+This approach has been used previously to evaluate
+practice and as an educational tool in compensable in-
+jury research with GPs in Europe [ 36] and with physio-
+therapists in Australia [ 37]. The virtual scenarios are
+approximately 15 min duration each and focussed on
+typical presentations to GPs by patients with work-
+related mental health conditions. Each virtual scenario
+includes a short video of a simulated patient who de-
+scribes their symptoms, circumstances and context. Par-
+ticipating GPs are then prompted to respond to
+questions about how they would assess, diagnose, and
+manage the patient in the virtual scenario.
+Guideline-concordant responses to the scenarios will
+be measured using a tool that reflects the checklist of in-
+dicators that have been included in the Guideline.
+Responding to each set of three virtual scenarios can re-
+sult in a best score of 9 or a worst score of 0. The tool
+was pilot tested with three groups: (1) GPs who are ex-
+perts in the Guideline, (2) GPs who are not familiar with
+the Guideline, and (3) medical and research students
+who have no clinical general practice expertise. The tool
+was found to have a scale reliability score of Cronbach ’s
+α=0.74.
+Secondary outcomes
+Secondary outcomes will capture the effect of the inter-
+vention on patient health status and work participation.
+Patient health status will be measured using the short-
+form 36-item version 2 (SF-36 v2) [ 38] and the Depres-
+sion and Anxiety Stress Scale-21 item (DASS-21) [ 39].
+Work participation will be measured using the return to
+work items within the Australian National Return To
+Work Survey [ 40].
+The SF-36 v2 provides measures for mental health
+symptoms and function, as well as measures of physical
+function [ 38]. Since patients with work-related mental
+health conditions are likely to experience both psycho-
+logical and physical ill health, the SF-36 v2 is an appro-
+priate measure to assess health status [ 41]. Due to
+heterogeneity in the mental health conditions experi-
+enced by participating patients, it is necessary to use a
+broad measure of health that is capable of measuring
+changes in psychological health. The SF-36 v2 Mental
+Component Score and Mental Health Domain Score are
+strongly correlated with measures for depression, anx-
+iety, post-traumatic stress disorder, and substance use
+[42], which are common work-related mental health
+conditions. The SF-36 v2 is also sensitive to change fol-
+lowing intervention.The DASS-21 assesses the presence and severity of the
+core symptoms of depression, anxiety, and stress [ 39].
+Accordingly, the DASS-21 allows not only a way to
+measure the severity of a patient ’s symptoms but a
+means by which a patient ’s response to treatment can
+also be measured. The National Return To Work survey
+has been used by the Australian government for over 18
+years to assess level of work participation for people
+who are working and those who are not [ 40].
+Patient endpoints are at the time of their initial ap-
+pointment with the GP (T0, baseline) and every 3
+months after that for 9 months. Patients will be provided
+paper or electronic links to relevant surveys (including
+specific measures of psychological disorder) or they will
+be able to provide their responses via a structured tele-
+phone interview, as per their preference. Data for both
+GP and patient outcomes will be collated electronically
+using REDCap [ 43].
+Economic evaluation
+The economic evaluation will take a societal perspective
+in quantifying the additional costs (savings) and health
+gains associated with the intervention within the trial
+period. The primary outcome for the economic evalu-
+ation will be GP concordance with guideline recommen-
+dations. The secondary outcome for the economic
+evaluation will be quality-adjusted life-years (QALYs) in
+participating patients; calculated based on SF-36 v2 data
+at each time-point [ 44] and using an area-under-the-
+curve approach.
+The cost analysis will capture direct costs of the inter-
+vention and control conditions (based on project records
+and fidelity data), medical costs during the trial period,
+and productivity gains during the trial period. Medical
+costs will be estimated based on patient-level adminis-
+trative data from the Medicare Benefits Scheme (MBS),
+from Pharmaceutical Benefits Scheme (PBS), and from
+workers ’compensation schemes (for those patients who
+submit a claim and provide consent for data access), plus
+patient self-report of health service use funded by other
+payers (e.g. hospitalisations and allied health care). Prod-
+uctivity gains will be estimated based on patient-level
+data regarding return to work from the National Return
+To Work Survey items. Results of the economic evalu-
+ation will be expressed as cost per point improvement in
+concordance with the Guideline, and cost per QALY
+gained.
+Realist evaluation
+A realist evaluation of the intervention will be conducted
+using three methods: a knowledge, attitudes, and prac-
+tice questionnaire provided to GPs at baseline and 9
+months later, interviews with a random sample of 20
+GPs and 20 participants upon completion of theMazza et al. Implementation Science           (2021) 16:77 Page 7 of 11
+intervention, and qualitative analysis of the social inter-
+actions on the community of practice. All decisions, tai-
+loring and modifications to the structure, format,
+content, or design of the community of practice will also
+be documented in a log book.
+Planning for sustainability
+A stakeholder workshop will be held to identify how the
+intervention can be sustained following completion of
+the trial. Outcome data from the intervention, economic
+evaluation, and process evaluation will be presented for
+consideration and reflection by participants.
+Blinding
+Given that the intervention involves active engagement
+with GPs, it is inevitable that GPs will become aware of
+their group allocation as the study progresses. Patients,
+however, will not be informed about whether their GP
+clinic has received the intervention. Clinical trial coordi-
+nators will be blinded to the group allocation during
+quantitative and qualitative data collection; however, it is
+possible that they will be able to identify a GP ’s alloca-
+tion by the content of their conversations. The study
+project officer and research assistant will be involved in
+coordinating and delivering the intervention and will,
+therefore, not be blinded to group allocation. All GP and
+patient data will be de-identified by the research assist-
+ant before analysis for the primary outcome.
+Statistical methods
+Primary analysis
+The main analysis examining the primary outcome (pro-
+portion of guideline concordance) will be intention to
+treat using multilevel regression models (linear or Pois-
+son regression, as appropriate), with time-point and
+intervention status as fixed effects. Clusters will be ex-
+amined as a random effect for inclusion into the model.
+Covariates will include the stratification factors, which
+are state, clinic size (GP equivalent full time >5 (yes/
+no)), and location (urban vs regional/rural).
+Secondary analysis
+Patient analyses : Using a similar mixed model approach
+as in the main analyses, changes in patient health status
+(using the SF-36 v2), and work participation (using rele-
+vant measures of the National Return To Work Survey)
+will be measured by comparing the scores on patient
+surveys from baseline to 3, 6, and 9 months following
+their initial GP consultation.
+Adjusted analyses : The main analysis and subgroup
+analyses above include adjustment for the stratification
+factors, which are state, clinic size (GP equivalent full
+time >5 (yes/no)), and location (urban vs regional/rural),
+additional mental health training.Missing data : As the GP and patient-level data are lon-
+gitudinal samples, a missing data analysis will be done
+on each longitudinal data set and investigations made
+for predictors of missingness. These investigations will
+examine the effect of key demographic and other factors
+particularly on the presence of missing outcomes. If out-
+come data is found to not be missing at random, then
+multiple imputation will be applied using the predictors
+for missingness.
+Data monitoring
+A data monitoring committee will meet quarterly to re-
+view study data during the period of recruitment and
+intervention, and interim analysis will be supplied to the
+Executive Team at scheduled occasions and on request
+and in confidence.
+Harms
+We do not anticipate any harms to GP or patient partici-
+pants as a result of participating in this study.
+Discussion
+The challenges described by some GPs when managing
+work-related mental health conditions reflect gaps in
+knowledge as well as the absence of pragmatic effective
+strategies to implement Guideline recommendations and
+a likely lack of confidence in implementing these strat-
+egies [ 4,11]. The IMPRovE intervention will address
+these challenges using a complex intervention that com-
+prises academic detailing, a community of practice, and
+the provision of resources to improve Guideline-
+concordance amongst participating GPs.
+Firstly, tailored academic detailing will be provided to
+each GP cluster in the intervention. This session will be
+led by a GP opinion leader, who will introduce the
+Guideline, identify evidence-based practice gaps in
+current clinical practice, and provide GP participants
+with practical and tailored strategies during the aca-
+demic detailing session. This phase of the intervention
+will raise awareness of the issue amongst participants,
+highlight areas of behaviour change in their own prac-
+tice, and create an initial sense of enthusiasm regarding
+implementing the Guideline recommendations. Sec-
+ondly, the digital community of practice will provide
+GPs with opportunities to increase their learning; receive
+advice about other clinical dilemmas that were not ad-
+dressed in the initial academic detailing session, or test
+and adjust their own practices; and assist their col-
+leagues to develop implementation strategies for a range
+of issues related to mental health conditions that have
+arisen as a result of work. Engagement with the GP
+opinion leader will continue on the community of prac-
+tice platform, thus re-enforcing the credibility of discus-
+sions and learnings on the community of practice.Mazza et al. Implementation Science           (2021) 16:77 Page 8 of 11
+Finally, during the academic detailing session, GP partic-
+ipants will receive a suite of resources that can assist
+them to implement the Guideline, along with advice
+about how to use these resources (e.g. to monitor patient
+improvement), and a more comprehensive resource li-
+brary will be offered via the community of practice.
+The IMPRovE intervention has been constructed in re-
+sponse to the self-reported barriers that sometimes pre-
+vent GPs from providing optimal care for people with
+work-related mental health conditions [ 11], as well as
+theoretical principles of normalisation process theory
+[15]. As the IMPRovE intervention involves both peers
+and opinion leaders, they offer participating GPs the
+peer-to-peer social influences that are well regarded by
+clinicians when making choices about their clinical prac-
+tice [ 17]. The flexible nature of the academic detailing
+session enables the GP opinion leader to adapt a session
+so that it meets the needs of the GP participants [ 20].
+Similarly, the flexible nature of a community of practice
+enables clinicians to choose what topics they engage
+with and how [ 45]. Providing GPs with credible and rele-
+vant resources will equip GPs with practical tools for use
+in their clinical practice [ 28]. Together, the intervention
+components are likely to improve guideline concordance
+because they are based on social interactions, tailored to
+the needs of participating GPs, accompanied by credible
+and evidence-based advice from opinion leaders, and re-
+inforced over a period of time [ 15,16,18].
+The IMPRovE intervention has also been designed
+with acceptability and sustainability in mind. The inter-
+vention and its components were created in collabor-
+ation with a reference group of GPs and researchers, as
+well as an intervention advisory group that included
+GPs, mental health consumers, and representatives of
+workers ’compensation schemes. A steering group com-
+prising members from three key clinical organisations
+(representing Australian GPs, psychologists and psychia-
+trists, respectively) as well as representatives of compen-
+sation agencies and a key non-government mental
+health organisation, Beyond Blue , also provided advice
+and guidance about the health system and policy con-
+text. Co-design with GPs who are the end-users of the
+intervention, and with policy makers who influence the
+compensation landscape and have the capacity to sustain
+the intervention into the future, should yield a more ef-
+fective and sustainable intervention.
+Finally, the IMPRovE trial has been designed using a
+practical approach to maximise feasibility. For instance,
+whilst guideline concordance would ideally be measured
+in routine clinical practice, GPs in our trial are likely to
+see a relatively small number of patients with work-
+related mental health conditions each year. Conse-
+quently, we have chosen to use virtual simulated patient
+scenarios as a practical yet rigorous approach tomeasuring our primary outcome of guideline concord-
+ance. We have also chosen this method of assessment
+due to the nature of the Guideline recommendations,
+which provide no specific outcomes that can be audited
+in a case note analysis. For instance, outcomes such as
+“consideration of social factors, or symptoms that may
+indicate comorbidities ”may not be recorded in case
+notes, even if a GP does consider these factors in their
+clinical decision-making process. All secondary outcome
+measures are based on widely used pre-existing surveys
+or scales using established methodologies.
+Conclusions
+Researchers, governments, and guideline developers in-
+vest significant time and funds to facilitate guideline im-
+plementation in primary care. The IMPRovE study will
+assess the effectiveness of a complex intervention on
+guideline implementation in the context of work-related
+mental health conditions. If this intervention proves to
+be effective and cost-effective, the IMPRovE study will
+chart a clear path to evidence-informed care for people
+with work-related mental health conditions.
+Abbreviations
+DMC: Data Monitoring Committee; GP: General practitioner;
+IMPRovE: Implementing work-related Mental health conditions in general
+PRacticE; ICC: Intraclass correlation coefficient
+Supplementary Information
+The online version contains supplementary material available at https://doi.
+org/10.1186/s13012-021-01146-8 .
+Additional file 1:. Mazza et al_Additional file a. TIDieRChecklistR0
+Additional file 2:. Mazza_et al_Additional file b.
+CONSORTClusterChecklistR0
+Acknowledgements
+Dr. Alex Wilde ( www.alexwilde.com.au ) provided professional writing services
+by structuring and editing early drafts of the manuscript. Dr. Jessica Kasza
+and Prof. Monica Talljard provided statistical advice regarding the design of
+this project.
+Authors ’contributions
+DM, SC, AC, JK, BB, DM, JE, MK, and LT conceived the study design. DM, SC,
+AC, JK, BB, DM, JE, MK LT, SR, and VC refined the study design. SC and VC
+drafted the initial manuscript for submission. All authors reviewed and
+approved the final manuscript before submission.
+Funding
+Funding and/or in-kind support for this trial is provided by the following or-
+ganisations: NHMRC Partnership Grant; Beyond Blue; Attorney-General ’s De-
+partment; Comcare; Office of Industrial Relations, Queensland Government;
+State Insurance Regulatory Authority (SIRA); WorkSafeVictoria; WorkCover WA;
+and iCare. Non-NHMRC funding partners will be involved in the design of
+the trial, as members of the project Steering Group and Intervention Advis-
+ory Group, except iCare. Analysis and reporting of the trial are independent
+of funding partners, except where a Chief Investigator is also a named Part-
+ner Investigator.
+Availability of data and materials
+Trial data can be obtained upon request from the corresponding author.Mazza et al. Implementation Science           (2021) 16:77 Page 9 of 11
+Declarations
+Ethics approval and consent to participate
+Approval for this study has been obtained from the Monash University
+Human Research Ethics Committee. Project ID: 20513
+Consent for publication
+Consent statement for publication was obtained from participants.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1Department of General Practice, Monash University, Melbourne, Australia.
+2University of Queensland, Brisbane, Australia.3National Ageing Research
+Institute, Parkville, Australia.4School of Allied Health, Curtin University, Perth,
+Australia.5Centre for Health Economics, Monash Business School, Monash
+University, Melbourne, Australia.6Monash Centre for Health Research and
+Implementation, Monash University, Melbourne, Australia.7College of Health
+and Medicine, The Australian National University, Canberra, Australia.8Sydney
+School of Public Health, Faculty of Medicine and Health, The University of
+Sydney, Camperdown, Australia.9Insurance Work and Health Group, Monash
+University, Melbourne, Australia.
+Received: 6 July 2021 Accepted: 25 July 2021
+References
+1. Collie A, Ruseckaite R, Brijnath B, Kosny A, Mazza D. Sickness certification of
+workers compensation claimants by general practitioners in Victoria, 2003 –
+2010. MJA. 2013;199(7):480 –3.https://doi.org/10.5694/mja13.10508 .
+2. Mazza D, Brijnath B, Singh N, Kosny A, Ruseckaite R, Collie A. General
+practitioners and sickness certification for injury in Australia. BMC family
+practice. 2015;16(1):100. https://doi.org/10.1186/s12875-015-0307-9 .
+3. Safe Work Australia. Work-related mental disorders profile 2015. Canberra;
+2015.
+4. Brijnath B, Mazza D, Singh N, Kosny A, Ruseckaite R, Collie A. Mental health
+claims management and return to work: qualitative insights from
+Melbourne. Australia. J Occup Rehabil. 2014;24(4):766 –76.https://doi.org/1
+0.1007/s10926-014-9506-9 .
+5. Schnitzler L, Kosny A, Lifshen M. Healthcare providers' experience with the
+management of mental health conditions in the context of Workers'
+Compensation. Work. 2018;59(3):449 –62.https://doi.org/10.3233/WOR-182
+695.
+6. Anema J, Jettinghoff K, Houtman I, Schoemaker C, Buijs P, van den Berg R.
+Medical care of employees long-term sick listed due to mental health
+problems: a cohort study to describe and compare the care of the
+occupational physician and the general practitioner. J Occup Rehabil. 2006;
+16(1):38 –49.https://doi.org/10.1007/s10926-005-9001-4 .
+7. Franche RL, Carnide N, Hogg-Johnson S, Cote P, Breslin FC, Bultmann U,
+et al. Course, diagnosis & treatment of depressive symptomatology in
+workers following a workplace injury: a prospective cohort study. Can J
+Psychiatry. 2009;54(8):534 –46.https://doi.org/10.1177/070674370905400806 .
+8. Aamland A, Husabo E, Maeland S. Independent medical evaluation for sick-
+listed patients: a focus group study of GPs expectations and experiences.
+BMC health services research. 2018;18(1):666. https://doi.org/10.1186/s12913-
+018-3481-3 .
+9. Riviere M, Toullic Y, Lerouge P, Blanchon T, Leroyer A, Plancke L, et al.
+Management of work-related common mental disorders in general practice:
+a cross-sectional study. BMC family practice. 2020;21(1):132. https://doi.org/1
+0.1186/s12875-020-01203-z .
+10. Brijnath B, Mazza D, Kosny A, Bunzli S, Singh N, Ruseckaite R, et al. Is
+clinician refusal to treat an emerging problem in injury compensation
+systems? BMJ Open. 2016;6(1):e009423. https://doi.org/10.1136/bmjopen-2
+015-009423 .
+11. Chakraborty SP, Dermentzis J, Brijnath B, Ivey E, Mazza D. What clinical
+challenges are associated with diagnosing and managing work-related
+mental health conditions? A qualitative study in general practice. BMJ
+Open. 2020;10(8):e037734. https://doi.org/10.1136/bmjopen-2020-037734 .
+12. Mazza D, Chakraborty SP, Brijnath B, Nowak H, Howell C, Brott T, et al.
+Diagnosing and managing work-related mental health conditions in generalpractice: new Australian clinical practice guidelines. MJA. 2019;211(2):76 –81.
+https://doi.org/10.5694/mja2.50240 .
+13. Chakraborty S, Brijnath B, Dermentzis J, Mazza D. Defining key questions for
+clinical practice guidelines: a novel approach for developing clinically
+relevant questions. Health Res Policy Syst. 2020;18(1):113. https://doi.org/1
+0.1186/s12961-020-00628-3 .
+14. Greenhalgh T. How to implement evidence-based healthcare. Oxford: Wiley;
+2018.
+15. May CR, Mair F, Finch T, MacFarlane A, Dowrick C, Treweek S, et al.
+Development of a theory of implementation and integration: Normalization
+Process Theory. Implementation science : IS. 2009;4(1):29. https://doi.org/1
+0.1186/1748-5908-4-29 .
+16. Valente TW, Davis RL. Accelerating the diffusion of innovations using
+opinion leaders. The Annals of the American Academy of Political and
+Social Science. 1999;566(1):55 –67.https://doi.org/10.1177/00027162
+9956600105 .
+17. Flodgren G, O'Brien MA, Parmelli E, Grimshaw JM. Local opinion leaders:
+effects on professional practice and healthcare outcomes. Cochrane
+Database Syst Rev. 2019;6:CD000125.
+18. Prochaska JO, Velicer WF. The transtheoretical model of health behavior
+change. Am J Health Promot. 1997;12(1):38 –48.https://doi.org/10.4278/
+0890-1171-12.1.38 .
+19. Grimshaw JM, Shirran L, Thomas R, Mowatt G, Fraser C, Bero L, et al.
+Changing provider behavior: an overview of systematic reviews of
+interventions. Med Care. 2001;39(8 Suppl 2):Ii2 –45.
+20. Fischer MA. Academic detailing in diabetes: using outreach education to
+improve the quality of care. Curr Diab Rep. 2016;16(10):98. https://doi.org/1
+0.1007/s11892-016-0785-8 .
+21. Quanbeck A, Brown RT, Zgierska AE, Jacobson N, Robinson JM, Johnson RA,
+et al. A randomized matched-pairs study of feasibility, acceptability, and
+effectiveness of systems consultation: a novel implementation strategy for
+adopting clinical guidelines for opioid prescribing in primary care.
+Implementation science : IS. 2018;13(1):21. https://doi.org/10.1186/s13012-01
+8-0713-1 .
+22. Wieringa S, Engebretsen E, Heggen K, Greenhalgh T. How knowledge is
+constructed and exchanged in virtual communities of physicians: qualitative
+study of Mindlines Online. J Med Internet Res. 2018;20(2):e34. https://doi.
+org/10.2196/jmir.8325 .
+23. Mostofian F, Ruban C, Simunovic N, Bhandari M. Changing physician
+behavior:what works? Am J Manag Care. 2015;21(1):75 –84.
+24. Weekes LM, Blogg S, Jackson S, Hosking K. NPS MedicineWise: 20 years of
+change. J Pharm Policy Pract. 2018;11(1):19. https://doi.org/10.1186/s40545-
+018-0145-y .
+25. Li LC, Grimshaw JM, Nielsen C, Judd M, Coyte PC, Graham ID. Use of
+communities of practice in business and health care sectors: a systematic
+review. Implementation science : IS. 2009;4(1):27. https://doi.org/10.1186/174
+8-5908-4-27 .
+26. Barnett S, Jones SC, Bennett S, Iverson D, Robinson L. A virtual
+community of practice for gen eral practice training: a
+preimplementation survey. JMIR medical education. 2016;2(2):e13.
+https://doi.org/10.2196/mededu.5318 .
+27. Cruess RL, Cruess SR, Steinert Y. Medicine as a community of practice:
+implications for medical education. Acad Med. 2018;93(2):185 –91.https://
+doi.org/10.1097/ACM.0000000000001826 .
+28. Giguere A, Zomahoun HTV, Carmichael PH, Uwizeye CB, Legare F, Grimshaw
+JM, et al. Printed educational materials: effects on professional practice and
+healthcare outcomes. Cochrane Database Syst Rev. 2020;8:CD004398.
+29. Landes SJ, McBain SA, Curran GM. An introduction to effectiveness-
+implementation hybrid designs. Psychiatry Res. 2019;280:112513. https://doi.
+org/10.1016/j.psychres.2019.112513 .
+30. Hoffmann TC, Glasziou PP, Boutron I, Milne R, Perera R, Moher D, et al.
+Better reporting of interventions: template for intervention description and
+replication (TIDieR) checklist and guide. BMJ. 2014;348(mar07 3):g1687.
+https://doi.org/10.1136/bmj.g1687 .
+31. Campbell MK, Piaggio G, Elbourne DR, Altman DG, Group C. Consort 2010
+statement: extension to cluster randomised trials. BMJ. 2012;345:e5661.
+https://doi.org/10.1136/bmj.e5661 .
+32. Mazza D, Brijnath B, O'Hare MA, Ruseckaite R, Kosny A, Collie A. Do health
+service use and return-to-work outcomes differ with GPs' injured-worker
+caseload? J Occup Rehabil. 2019;29(1):64 –71.https://doi.org/10.1007/s10926-
+018-9765-y .Mazza et al. Implementation Science           (2021) 16:77 Page 10 of 11
+33. Palmer VJ, Johnson CL, Furler JS, Densley K, Potiriadis M, Gunn JM. Written
+plans: an overlooked mechanism to develop recovery-oriented primary care
+for depression? Aust J Prim Health. 2014;20(3):241 –9.https://doi.org/10.1
+071/PY12128 .
+34. Hooper R, Teerenstra S, de Hoop E, Eldridge S. Sample size calculation for
+stepped wedge and other longitudinal cluster randomised trials. Stat Med.
+2016;35(26):4718 –28.https://doi.org/10.1002/sim.7028 .
+35. Carroll C, Patterson M, Wood S, Booth A, Rick J, Balain S. A conceptual
+framework for implementation fidelity. Implementation science : IS. 2007;
+2(1):40. https://doi.org/10.1186/1748-5908-2-40 .
+36. Maeland S, Magnussen LH, Eriksen HR, Werner EL, Helle-Valle A, Hensing G.
+Correspondence in stakeholder assessment of health, work capacity and
+sick leave in workers with comorbid subjective health complaints? A video
+vignette study. J Occup Rehabil. 2016;26(3):340 –9.https://doi.org/10.1007/s1
+0926-015-9618-x .
+37. Gosling C, Keating J, Iles R, Morgan P, Hopmans R. Strategies to enable
+physiotherapists to promote timely return to work following injury.
+Melbourne: Institute for Safety Compensation and Recovery Research; 2015.
+Contract No.: Research report #: 079-0915-R01.
+38. Ware J, Kosinski M, Bjorner J, Turner-Bowker D, Gandek B, Maruish M.
+Development. User's manual for the SF-36v2® health survey; 2007.
+39. Henry JD, Crawford JR. The short-form version of the Depression Anxiety
+Stress Scales (DASS-21): construct validity and normative data in a large
+non-clinical sample. Br J Clin Psychol. 2005;44(Pt 2):227 –39.https://doi.org/1
+0.1348/014466505X29657 .
+40. Safe Work Australia. National Return to Work Survey Canberra, ACT; 2018.
+41. Buckner TW, Batt K, Quon D, Witkop M, Recht M, Kessler C, et al.
+Assessments of pain, functional impairment, anxiety, and depression in US
+adults with hemophilia across patient-reported outcome instruments in the
+Pain, Functional Impairment, and Quality of Life (P-FiQ) study. European
+Journal of Haematology. 2018;100(Suppl 1):5 –13.https://doi.org/10.1111/
+ejh.13027 .
+42. Kiely KM, Butterworth P. Validation of four measures of mental health
+against depression and generalized anxiety in a community based sample.
+Psychiatry Res. 2015;225(3):291 –8.https://doi.org/10.1016/j.psychres.2014.12.
+023.
+43. Harris PA, Taylor R, Thielke R, Payne J, Gonzalez N, Conde JG. Research
+electronic data capture (REDCap)--a metadata-driven methodology and
+workflow process for providing translational research informatics support. J
+Biomed Inform. 2009;42(2):377 –81.https://doi.org/10.1016/j.jbi.2008.08.010 .
+44. Norman R, Viney R, Brazier J, Burgess L, Cronin P, King M, et al. Valuing SF-
+6D health states using a discrete choice experiment. Med Decis Making.
+2014;34(6):773 –86.https://doi.org/10.1177/0272989X13503499 .
+45. Murad A, Hyde N, Chang S, Lederman R, Bosua R, Pirotta M, et al.
+Quantifying use of a health virtual community of practice for general
+practitioners' continuing professional development: a novel methodology
+and pilot evaluation. J Med Internet Res. 2019;21(11):e14545. https://doi.
+org/10.2196/14545 .
+Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.Mazza et al. Implementation Science           (2021) 16:77 Page 11 of 11

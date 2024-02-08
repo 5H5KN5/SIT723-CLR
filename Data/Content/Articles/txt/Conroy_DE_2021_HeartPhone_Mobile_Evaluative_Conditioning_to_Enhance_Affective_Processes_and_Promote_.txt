@@ -1,0 +1,995 @@
+HeartPhone: Mobile Evaluative Conditioning to Enhance Affective
+Processes and Promote Physical Activity
+David E. Conroy
+The Pennsylvania State University and Northwestern UniversityIan Kim
+University of Southern California
+Objective: Most American adults fail to achieve recommended levels of physical activity and, as a result,
+are at elevated risk for many chronic diseases. Affective processes have been validated as targets for
+increasing physical activity but are rarely targeted directly by behavioral interventions. This article
+describes 2 early phase studies used to develop HeartPhone, a smartphone application for conditioning
+associations between physical activity and pleasure. HeartPhone exposes users to brief doses of evalu-
+ative conditioning stimuli via background images on a smartphone lock screen. Method: Study 1
+evaluated the feasibility of delivering mobile evaluative conditioning and estimated doses received over
+7–21 days in a small sample of users ( n/H110056). Study 2 used a single-group prepost design to evaluate user
+experience and determine whether any change in reflective motivation or physical activity was possible
+over 8 weeks of HeartPhone use ( n/H1100519). Results: In Study 1, users accumulated almost 2 min/day of
+exposure to conditioning stimuli, indicating the feasibility of delivering microdoses of evaluative
+conditioning via smartphone lock screens. In Study 2, adults reported accepting the application and
+conditioning stimuli, improved affective judgments of physical activity (enjoyment, intrinsic motivation,
+integrated regulations), and increased physical activity. Conclusions: These results provide proof-of-
+concept for a low-friction approach for enhancing affective processing and increasing physical activity.
+Based on early phase success as a tool for engaging smartphone users in behavior change, the HeartPhone
+intervention is ready for a Phase IIb pilot and III efficacy trials.
+Keywords: health, intervention, mobile, user experience
+Physical activity is an important health behavior across the life
+span. People who engage in regular physical activity live longer
+and have better physical and mental health than those who do not
+engage in regular physical activity ( Physical Activity Guidelines
+Advisory Committee, 2018 ). Unfortunately, few American adults
+engage in regular physical activity ( Whitfield et al., 2019 ). Many
+interventions have been developed to promote physical activity
+and individual-level determinants have been targeted most often
+(King et al., 2019 ). Until recently, it has been relatively uncommon
+for interventions to directly target the affective processes that
+regulate physical activity ( Williams, Rhodes, & Conner, 2019 ).
+Even fewer have targeted automatic motivational processes that
+can occur rapidly and can lie outside of conscious awareness. This
+article reviews research that identified a novel affective target for
+physical activity interventions—automatic affective evaluations—and presents early phase work developing a digital tool to promote
+physical activity by altering automatic and reflective affective
+processing of physical activity.
+Automatic Affective Evaluations Are a Target for
+Promoting Physical Activity
+Social–cognitive and control theories have either explicitly or
+implicitly guided most individual-level physical activity promo-
+tion efforts ( Rhodes & Nigg, 2011 ). These theories posit that goals
+are proximal determinants of behavior ( Bandura, 1997 ;Carver &
+Scheier, 1998 ). One limitation of these approaches is that goals do
+not always translate into action and people who intend to engage
+in physical activity often fail to convert their intention into action
+(Rhodes & Dickau, 2012 ). In those cases, people seem to default
+to predictable, counterintentional behaviors without any effort or
+awareness. Automatic processes have been proposed to account for
+some of these failures to engage in intended physical activity, as
+well as for some occasions when people accumulate unintended
+physical activity.
+Dual-process models that differentiate reflective and automatic
+motivational processes regulating behavior—and health behavior
+specifically—have gained considerable traction in recent years
+(Deutsch & Strack, 2014 ;Evans, 2008 ;Hofmann, Friese, & Wiers,
+2008 ;Sheeran, Gollwitzer, & Bargh, 2013 ;Smith & DeCoster,
+2000 ). Reflective processes involve relatively more awareness,
+intention, and effort. They draw on propositional reasoning which
+slows their effects. Physical activity interventions that enhanceX
+David E. Conroy, Department of Kinesiology and Department Hu-
+man Development and Family Studies, The Pennsylvania State University,
+and Department of Preventive Medicine, Northwestern University;
+X
+Ian Kim, Department of Preventive Medicine, University of Southern
+California.
+Correspondence concerning this article should be addressed to David E.
+Conroy, Department of Kinesiology and Department Human Development
+and Family Studies, The Pennsylvania State University, 266 Rec Hall,
+University Park, PA 16802. E-mail: conroy@psu.eduThis document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+Health Psychology
+© 2020 American Psychological Association
+ISSN: 0278-6133 http://dx.doi.org/10.1037/hea00008862021, Vol. 40, No. 12, 988–997
+988This article was published Online First June 11, 2020.
+efficacy beliefs, set goals, or promote self-monitoring are targeting
+reflective processes. In contrast, automatic processes involve rel-
+atively less awareness, intention, and effort. They draw on learned
+associations to inspire rapid action. A variety of automatic affec-
+tive and cognitive processes exist and several have been linked
+with physical activity ( Rebar et al., 2016 ). This article builds on
+research that identified automatic affective evaluations (i.e., im-
+plicit attitudes) as a novel target for physical activity interventions
+(Conroy, Hyde, Doerksen, & Ribeiro, 2010 ).
+Automatic affective evaluations represent “the affective experi-
+ences that arise rapidly and involuntarily when the concept of
+physical activity is activated” ( Conroy & Berry, 2017 , p. 230).
+They are evaluative dispositions arising from the repetition of
+affective experiences during physical activity. As affectively
+charged experiences accumulate, physical activity becomes asso-
+ciated with characteristic pleasant or unpleasant affective states.
+Subsequently, when the concept of physical activity is activated,
+activation spreads—rapidly and involuntarily—to associated
+memories of affective experiences ( Anderson, 1983 ). The valence
+of affective states associated with physical activity may evoke
+subtle but almost immediate attentional biases and approach-
+avoidance motivational tendencies that could increase or decrease
+the likelihood of action ( Cheval, Sarrazin, Isoard-Gautheur, Radel,
+& Friese, 2015 ). Even if affective memories do not rise above the
+threshold of awareness that would immediately manifest in reflec-
+tive affective judgments, they can provide a seed that is elaborated
+into a reflective affective judgment with a bit of effort ( Gawronski
+& Bodenhausen, 2006 ). For example, a person who experiences a
+pleasant automatic affective evaluation of physical activity could
+reflect on that gut feeling and decide that it is because he or she
+enjoys physical activity. Affective judgments are not affective
+experiences but instead represent “judgments about the overall
+pleasure/displeasure, enjoyment, and feeling states expected from
+enacting physical activity” ( Rhodes, Fiala, & Conner, 2009 ,p .
+181). On average, automatic affective evaluations of physical
+activity appear to be largely independent of reflective affective
+judgments about physical activity but automatic affective evalua-
+tions can be elaborated into reflective affective judgments as well
+(Conroy & Berry, 2017 ;Hyde, Doerksen, Ribeiro, & Conroy,
+2010 ). Thus, automatic affective evaluations could have both
+direct and indirect influences on physical activity.
+A recent meta-analysis of 55 effect sizes from 26 observational
+studies conducted with adult (primarily student) samples in North
+American and European laboratories revealed a small positive
+association between automatic affective evaluations and physical
+activity ( Chevance, Bernard, Chamberland, & Rebar, 2019 ). This
+evidence was drawn from observational designs and does not
+permit strong causal inferences about the effects of automatic
+affective evaluations on physical activity. Experimental manipu-
+lations of automatic affective evaluations are needed to add
+rigor to this literature. Meta-analyses of observational and
+experimental studies also revealed medium and small-to-
+medium effect sizes, respectively, linking reflective affective
+judgments with physical activity ( Rhodes et al., 2009 ;Rhodes,
+Gray, & Husband, 2019 ). Interventions that modify affective
+processing can influence physical activity through both auto-
+matic and reflective mechanisms.Modifying Affective Processing and Promoting
+Physical Activity
+Evaluative conditioning is an established behavior change tech-
+nique used to promote associative learning. This technique condi-
+tions new associations via the repeated pairing of a target (i.e.,
+conditioned stimulus) with a desired attribute (i.e., valenced un-
+conditioned stimulus; De Houwer, Thomas, & Baeyens, 2001 ).
+The conditioned and unconditioned stimuli can be presented se-
+quentially or simultaneously. Effects do not differ as a function of
+forward, backward or simultaneous presentation ( Hofmann, De
+Houwer, Perugini, Baeyens, & Crombez, 2010 ). This technique
+has consistently proven effective for increasing reflective affective
+judgments, such as liking, of the conditioned stimulus ( De Houwer
+et al., 2001 ;Forscher et al., 2019 ;Hofmann et al., 2010 ;Lai et al.,
+2014 ). In fact, effects are significantly larger for explicit than
+implicit measures of affective processing ( Hofmann et al., 2010 ).
+Associative learning processes have been widely targeted in
+marketing and politics to manipulate consumer behavior and votes
+(Schachtman, Walker, & Fowler, 2011 ;Westen, 2007 ). For exam-
+ple, one of the most devastating health-related applications came
+from Big Tobacco. In 1924, Marlboro cigarettes—one of the first
+filtered cigarettes—were marketed as a “mild as May” ladies’
+cigarette. In the early 1950s, researchers in the U.S. and United
+Kingdom reported links between smoking, cancer, and mortality
+(Doll & Hill, 2004 ;Wynder & Graham, 1950 ). By 1954, Phillip
+Morris sensed an opportunity to market their filtered cigarettes to
+men by changing packaging and marketing strategy. They com-
+missioned the famous Chicago advertiser, Leo Burnett, to rebrand
+their product. To make filtered cigarettes seem more masculine, he
+created the Marlboro man—a handsome cowboy smoking, some-
+times on horseback, in what came to be known as Marlboro
+Country ( “The Marlboro Man,” n.d. ). This ad campaign created a
+new association between Marlboro cigarettes and a masculine
+archetype that appealed to frontier values. The Marlboro Man was
+launched nationally in 1955 and, within a year, Marlboro went
+from 1% market share to being the fourth leading brand with $5
+billion sales (3,241% revenue increase). Despite growing popular
+attention to the health risks associated with smoking, by 1957
+Marlboro sales were up to $20 billion annually. By 1971, smoking
+commercials were banned but the Marlboro Man had become an
+iconic presence in print ads. Marlboro was the #1 brand worldwide
+within a year. When the tobacco industry diversified their holdings
+in the 1980s, they applied this same conditioning technique to
+market sugar-sweetened beverages to children (e.g., Kool Aid;
+Nguyen, Glantz, Palmer, & Schmidt, 2019 ).
+Associative learning via evaluative conditioning is not the ex-
+clusive purview of profit-motivated industries and can be har-
+nessed to promote health-enhancing behaviors as well. It has been
+applied in laboratory settings to improve healthy eating, reduce
+alcohol use, and even improve relationship satisfaction ( Bui &
+Fazio, 2016 ;Hollands, Prestwich, & Marteau, 2011 ;Houben,
+Schoenmakers, & Wiers, 2010 ;McNulty, Olson, Jones, & Acosta,
+2017 ;Walsh & Kiviniemi, 2014 ). Three attempts to condition
+more pleasant automatic affective evaluations of physical activity
+have yielded mixed results. A 3-min audio-recorded imagery script
+altered automatic affective evaluations of physical activity ( Mark-
+land, Hall, Duncan, & Simatovic, 2015 ). In another study, a single
+computer-based evaluative conditioning activity with 120 trialsThis document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.989 MOBILE EVALUATIVE CONDITIONING
+(60 involving physical activity as the conditioned stimulus) in-
+creased automatic affective evaluations of physical activity ( An-
+toniewicz & Brand, 2016 ). Participants with negative automatic
+associations who were assigned to receive evaluative conditioning
+to create more positive associations selected more intense activity
+on a subsequent cycle ergometer task. A third trial installed posters
+in hospital rooms for 4 days as conditioning stimuli. The posters
+combined an image of physical activity with a printed affectively
+pleasant adjective. Although the posters were displayed for 4 days,
+participants’ exposure to those images could not be quantified and
+there was no change in automatic affective evaluations or
+accelerometer-measured physical activity ( Chevance, Berry, Boi-
+ché, & Heraud, 2019 ).
+These evaluative conditioning interventions to promote physical
+activity have been limited to relatively controlled environments.
+Three different modalities have been used to deliver the condition-
+ing interventions (imagery, computer task, posters) but none lend
+themselves to widespread dissemination and implementation in the
+field. These limitations can be addressed by developing an evalu-
+ative conditioning intervention that could be implemented on
+smartphones.
+A Digital Tool for Evaluative Conditioning
+The HeartPhone application is a new digital tool for mobile
+evaluative conditioning. The smartphone provides a flexible means
+for exposing users to conditioning stimuli in the natural context of
+their daily lives. Mobile health applications are vulnerable to fail
+if users do not open the application and engage with the behavior
+change technique(s) regularly (e.g., Laing et al., 2014 ). The Heart-
+Phone application circumvents this barrier to engagement by pre-
+senting conditioning stimuli via background wallpaper graphics on
+the lock screen every time a smartphone is activated. Human-
+computer interaction studies indicate that people typically activate
+their smartphones an average of 40 times/day ( Harbach, De Luca,
+& Egelman, 2016 ;Harbach, De Luca, Malkin, & Egelman, 2016 ).
+Thus, HeartPhone users are expected to be exposed (briefly) to an
+average of 40 conditioning stimuli per day.
+Purpose
+Guided by the obesity-related behavioral intervention trials
+(ORBIT) model ( Czajkowski et al., 2015 ), two studies were con-
+ducted to establish proof-of-concept for the HeartPhone interven-
+tion. Modeled on the drug development pipeline, the ORBIT
+model outlines an iterative phased approach for translating basic
+discoveries (e.g., that affective processes predict physical activity)
+into behavioral interventions (e.g., HeartPhone). The work pre-
+sented here represents Phase I (Design) and Phase II (Preliminary
+Testing) of the ORBIT model. Study 1 evaluated the technical
+feasibility of changing lock screen wallpaper with every screen
+activation and measuring the duration of each exposure to condi-
+tioning stimuli (i.e., duration the background wallpaper was pre-
+sented on the screen). Study 2 evaluated the effects of HeartPhone
+exposure on reflective affective judgments and self-reported phys-
+ical activity to establish whether there was a clinically meaningful
+signal of intervention effects.Study 1
+HeartPhone v1.0 was designed to present a collage of four
+stimuli involving two images of physical activity (conditioned
+stimuli) and two affectively pleasant images (unconditioned stim-
+uli) every time participants activated their smartphone. Stimulus
+collages varied randomly across trials to reduce boredom.
+Exposure to the evaluative conditioning stimuli requires that
+participants look at their screen when unlocking the phone. Screen
+activation by itself proved to be an insufficient measure of expo-
+sure because notifications from apps or incoming messages can
+activate screens automatically and may not elicit attention in the
+way voluntary unlocking actions do. Thus, exposure time was
+measured as the duration required to successfully unlock the
+smartphone. This metric may underestimate exposure time because
+participants could turn on their phones, look at the screen, and be
+exposed to evaluative conditioning stimuli without fully unlocking
+the smartphone. Indeed, it is known that people who do not wear
+watches activate their phone screens more frequently than people
+with watches ( Harbach et al., 2016 ).
+Method
+Participants and procedure. Six adults with smartphones
+that used an Android operating system were recruited via fliers in
+community locations to install HeartPhone v1.0 for 7 ( n/H110052), 14
+(n/H110052), or 21 days ( n/H110052). Participants provided written informed
+consent and procedures were approved by the Institutional Review
+Board. With every screen activation, the app presented a randomly
+selected lock screen background wallpaper.
+Measures. The HeartPhone v1.0 app recorded all screen ac-
+tivations and the duration of exposure to each image presented
+(i.e., time from a smartphone screen turning on until the lock
+screen pattern password was entered successfully) and transmitted
+results to a backend server.
+Results and Discussion
+This sample was women (67%), not Hispanic or Latino (83%),
+White (83%), capable of performing unassisted physical activity
+(100%), employed full-time (83%), not married (67%), and with-
+out children (67%). The average age was 34.3 years ( SD/H110058.5;
+range/H1100525 – 49). Few participants were members of a walking/
+exercise/physical activity club (17%) or used an activity tracker
+regularly (17%). None used smartphone apps to motivate them-
+selves to exercise regularly (0%).
+Participants screens were activated on 4,973 occasions over 84
+person days. Of those activations, 2,466 involved the user unlock-
+ing the phone (either after a notification or spontaneously) and
+2,327 involved the screen being activated without involvement of
+unlocking behavior (e.g., due to an incoming notification or mes-
+sage). Daily unlocking frequencies ranged from three to 76 times/
+day ( M/H1100528.0, SD/H1100517.6, Mdn/H1100525.5, interquartile range /H11005
+13.0–40.8). The median daily exposure time during successful
+unlocking events was 116.75 s (interquartile range /H1100561.6–220.0
+s). Screen activation frequencies without unlocking ranged from
+one to 94 times/day ( M/H1100526.4, SD/H1100524.8, Mdn/H1100516). It was not
+clear that participants were exposed to stimuli during these auto-
+matic screen activations so daily exposure time was not calculated.This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.990 CONROY AND KIM
+These results confirm that participants activated smartphones
+frequently throughout the day. The average number of activations
+was lower than previous estimates from field studies of unlocking
+behavior ( Harbach et al., 2016 ;Harbach, von Zezschwitz, Ficht-
+ner, Luca, & Smith, 2014 ). This difference may be attributed to the
+requirement that participants use the pattern-to-unlock lock screen.
+This format creates more friction than other unlocking methods
+and could dissuade participants from opening their phone as fre-
+quently as they might without that friction. It may also be conser-
+vative because it does not include exposures that did not lead to
+unlocking (e.g., reading notifications, checking the time). Notwith-
+standing this difference, participants were exposed to evaluative
+conditioning stimuli for approximately 2 min/day. Based on this
+estimate, cumulative exposure time should rapidly exceed that of
+laboratory-based evaluative conditioning procedures. These find-
+ings led to the conclusion that delivering mobile evaluative con-
+ditioning via background wallpaper on a lock screen is technically
+feasible.
+Study 2
+The second step in the intervention development process in-
+volved evaluating the effects of HeartPhone exposure on reflective
+affective judgments and self-reported physical activity to establish
+whether there was a clinically meaningful signal of intervention
+effects. Based on Study 1, the app was refined to reduce friction by
+presenting evaluative conditioning stimuli on a slide-to-unlock
+lock screen ( Van Bruggen et al., 2013 ). HeartPhone v1.1 simply
+involves swiping the image after activating their phone instead of
+entering a pattern as with HeartPhone v1.0. Each collage was also
+refined to include a single pair of images that activated the concept
+of physical activity (conditioned stimulus) and evoked pleasure
+(unconditioned stimulus). Figure 1 presents an illustrative image of
+a conditioning stimulus.
+Method
+Participants and procedure. Adults ( n/H1100519) using smart-
+phones with an Android operating system were recruited via fliers
+placed in the community. Procedures were approved by the Insti-
+tutional Review Board. Participants provided written informed
+consent and completed questionnaires about their demographic
+characteristics, motivation, and physical activity during a baseline
+lab visit. The researchers assisted participants in installing the
+HeartPhone v1.1 app on their Android device. At the end of each
+week, participants were prompted via e-mail to complete an online
+questionnaire about their past-week physical activity. After 8
+weeks, participants returned to the lab to complete questionnaires
+and remove the app from their smartphone.
+Measures. The HeartPhone v1.1 app recorded all screen ac-
+tivations and the duration of exposure to each image presentation
+and transmitted results to a backend server.
+Participants reported on past-week physical activity every week
+using a web-based short-form of the International Physical Activ-
+ity Questionnaire ( Booth, 2000 ;Craig et al., 2003 ;Sjöström et al.,
+2005 ). For walking, moderate-intensity and vigorous-intensity ac-
+tivity, participants reported the number of days when they engaged
+in that activity over the past week and the average daily duration
+of activity at that intensity on those days. Established scoringcriteria were used to generate scores for total physical activity
+volume and to classify participants as low ( /H11021600 metabolic equiv-
+alent [MET] ●minutes/week), moderate (600–2,999 MET ●min-
+utes/week), or high ( /H113503,000 MET ●minutes/week) active
+(Sjöström et al., 2002 ).
+Figure 1. Illustrative evaluative conditioning image presented as a smart-
+phone lock screen wallpaper.©Africa Studio (top image) and Boggy
+(bottom image)—stock.adobe.com. See the online article for the color
+version of this figure.This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.991 MOBILE EVALUATIVE CONDITIONING
+During the baseline and Week 8 lab visits, participants described
+their motivation and reflective affective judgments about physical
+activity using seven questionnaires with established psychometric
+properties. A four-item scale from the Self-Report Habit Index was
+used to measure behavioral automaticity ( Gardner, Abraham,
+Lally, & de Bruijn, 2012 ;Verplanken & Melkevik, 2008 ;Verplan-
+ken & Orbell, 2003 ). Items were rated from 1 ( strongly disagree )
+t o7( strongly agree ) and responses were averaged to create a scale
+score. The 18-item Physical Activity Enjoyment Scale was used to
+assess affective judgments of enjoyment for physical activities
+over the past 4 weeks ( Kendzierski & DeCarlo, 1991 ). The original
+items on this scale were bipolar and were reformatted for clarity
+using the anchor on the left side of the original scale as the item
+stem (e.g., “I enjoy it” to “I hate it” simply became “I enjoy it”).
+Items were rated from 1 ( disagree a lot )t o5( agree a lot ).
+Responses were reverse-scored as needed and averaged to create a
+scale score. Two scales from the Intrinsic Motivation Inventory
+were completed to assess interest/enjoyment (seven items) and
+value/usefulness (seven items; McAuley, Duncan, & Tammen,
+1989 ). Items were rated from 1 ( not at all true for me )t o7( very
+true for me ) and responses were averaged to create each scale
+score. The 23-item extended Behavioral Regulations for Exercise
+Questionnaire-2 was used to measure a range of intrinsic and
+extrinsic behavioral regulations ( Markland & Tobin, 2004 ;Mul-
+lan, Markland, & Ingledew, 1997 ;Wilson, Rodgers, Loitz, &
+Scime, 2006 ). Items were rated from 0 ( not true for me )t o4( very
+true for me ) and responses were averaged to create scale scores for
+intrinsic motivation, integrated regulation, identified regulation,
+introjected regulation, external regulation, and amotivation. Atti-
+tudes toward physical activity were assessed using six bipolar
+items each ( Rhodes, Blanchard, Matheson, & Coble, 2006 ). Af-
+fective attitude item anchors were enjoyable/unenjoyable, pleas-
+ant/unpleasant, and exciting/boring. Instrumental attitude item an-
+chors were useful/useless, wise/unwise, and beneficial/harmful.
+Each item was rated by dragging a slider between the two poles.
+Responses were recorded on a 101-point scale ranging from 0 to
+100 and averaged to create each scale score.
+At the end of the study, participants also completed the 10-item
+System Usability Scale ( Bangor, Miller, & Kortum, 2009 ;Lewis &
+Sauro, 2009 ) and custom items about their experience with the
+HeartPhone app. Items were rated from 1 ( strongly disagree )t o5
+(strongly agree ) and responses were averaged to create scale
+scores. Custom items included: “I found the pictures in the Heart-
+Phone app to be interesting [enjoyable]” (rated from /H110022[strongly
+disagree ]t o/H110012[strongly agree ]), “I would be more interested in
+using the HeartPhone app if I could choose my own images” (rated
+as yes/maybe/no), “How useful did you find the HeartPhone app?”
+(rated from 0 [ not at all useful ]t o4[ extremely useful ]), “Would
+you keep the HeartPhone app on your telephone if that was
+possible?” (rated as yes/maybe/no), “Did the HeartPhone app slow
+the processing speed of your phone?” (rated as yes/maybe/no),
+“Did you ever tell your friends or family about the HeartPhone
+app?” (rated as yes/maybe/no), “Would you recommend the Heart-
+Phone app to your friends or family?” (rated as yes/maybe/no), “I
+would use the HeartPhone app if it was free” (rated as yes/maybe/
+no), “Using the HeartPhone app reminded me to exercise” (rated as
+yes/maybe/no), “Using the HeartPhone app made exercise seem
+more pleasant” (rated as yes/maybe/no), and “How useful did youfind the HeartPhone app?” (rated from 0 [ not at all useful ]t o4
+[extremely useful ]).
+Results and Discussion
+Participants (53% male) were not Hispanic or Latino (100%),
+White (79%), capable of performing unassisted physical activity
+(100%), employed full-time (63%), not married (58%), and with-
+out children (79%). The average age was 30.1 years ( SD/H110059.3;
+range/H1100520–49). Few participants were members of a walking/
+exercise/physical activity club (11%), used an activity tracker
+regularly (16%), or used smartphone apps to motivate themselves
+to exercise regularly (11%). One participant withdrew after 2
+weeks but the remaining sample (95%) completed the entire pro-
+tocol ( Mdn/H1100557 days).
+A total of 50,243 unlock-triggered screen activations were re-
+corded. On average, participants unlocked their smartphones 45.7
+times/day ( SD/H1100532.3; range /H110057.3–107.0). Median presentation
+time for stimuli during each unlocking cycle was 1.25 s (after
+removing outliers in the top 5% of presentation times). Switching
+from a pattern unlock (v1.0) to a slide-to-unlock (v1.1) lock screen
+increased recorded screen activations but decreased average expo-
+sure time for each unlocking episode.
+With respect to system usability, the app was rated in the
+good-to-excellent range ( M/H110054.2/5, SD/H110050.6). Images were rated
+as moderately interesting ( M/H110053.8/5, SD/H110051.4) and enjoyable
+(M/H110053.7/5, SD/H110051.3). The majority (77%) of participants agreed
+or strongly agreed that the images were interesting and enjoyable.
+Only 29% expressed that they would be more likely to use the app
+if it included their own images.
+Most participants would consider using the app if it was free
+(88%), were interested in keeping the app on their phones (77%),
+had told friends or family about the app (82%), and would recom-
+mend the app to friends or family (77%). A minority (12%)
+believed that the app slowed the processor on their phone. Finally,
+participants reported that the app reminded them to exercise (77%)
+and made exercise seem more pleasant (65%). Overall, most
+participants (88%) rated the app as being moderately useful or
+better and only a minority (12%) rated it as not useful.
+Table 1 summarizes descriptive statistics and internal consis-
+tency estimates for each motivation scale. Three scales represent-
+ing less autonomous behavioral regulations for physical activity
+had unacceptable internal consistency estimates (i.e., /H9251/H11021 .70) on
+one occasion. As shown in the table, statistically significant in-
+creases were observed for ratings of enjoyment, affective attitudes,
+overall attitudes, value/usefulness, intrinsic motivation, and inte-
+grated regulations. Although not statistically significant, trends
+(i.e., d/H113500.30) were observed for more favorable instrumental
+attitudes, greater interest/enjoyment, increased identified regula-
+tions, and stronger habit strength (behavioral automaticity).
+Observed changes in affective judgments and autonomous mo-
+tivation were consistent with downstream effects of evaluative
+conditioning predicted by the associative-propositional model
+(Gawronski & Bodenhausen, 2006 ) and emerging dual-process
+models of physical activity (e.g., Brand & Ekkekakis, 2018 ;Che-
+val et al., 2018 ;Conroy & Berry, 2017 ). Affective judgments, such
+as enjoyment, have consistently demonstrated medium-sized pos-
+itive associations with physical activity ( Rhodes et al., 2009 ,
+2019 ). Likewise, more autonomous behavioral regulations, such asThis document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.992 CONROY AND KIM
+intrinsic motivation and identified regulations, have been linked
+with greater physical activity ( Teixeira, Carraça, Markland, Silva,
+& Ryan, 2012 ). These changes are consistent with the pattern of
+reflective elaboration that one would expect if the app enhanced
+automatic affective evaluations but do not demonstrate that Heart-
+Phone modified automatic affective evaluations. Future research
+should investigate whether the HeartPhone intervention is effec-
+tive for modifying this target of behavior change and compare the
+contributions of automatic and relative affective processing mech-
+anisms to behavior change.
+The dataset had 16 participants with complete weekly physical
+activity data (one participant failed to complete the baseline mea-
+sure and another failed to complete the final measure). Most (82%)
+showed positive trends in their weekly self-reported physical ac-
+tivity volume. Prepost change was statistically significant, t(15)/H11005
+2.27, p/H11021.05,d/H110050.75. Figure 2 indicates a monotonic trend forincreasing weekly physical activity across the eight assessments
+during the intervention. We conducted a sensitivity analysis using
+the first and last valid scores from each participant, and prepost
+change remained statistically significant, t(17)/H110052.61, p/H11021.05,
+d/H110050.64. Participants classified as low active at baseline increased
+to moderately active (75%) or highly active (25%) at 8 weeks;
+none remained low active. Participants classified as moderately
+active at baseline increased to highly active (80%) or remained
+moderately active (20%) at 8 weeks. Participants classified as
+highly active at baseline remained highly active (88%) or de-
+creased to moderately active (12%) at 8 weeks.
+Overall, the observed changes in physical activity in this study
+were more than three times larger than the average effect of
+physical activity interventions with healthy adults ( Conn, Hafdahl,
+& Mehr, 2011 ). As provocative as this finding appears to be,
+caution is warranted pending replication with a larger sample using
+a randomized controlled trial design and device-based measures of
+physical activity.
+General Discussion
+This early phase intervention development research translated
+basic findings that validated a new target for increasing physical
+activity into a digital tool for enhancing affective processing and
+promoting physical activity. Findings indicated that delivering
+evaluative conditioning on a temporally-distributed schedule via
+background graphics on lock screens is both feasible and accept-
+able to participants with Android smartphones. As expected, re-
+flective affective processes and physical activity increased with
+cumulative exposure to these conditioning stimuli. Conclusions
+about intervention efficacy are premature because of the small
+sample size and absence of a rigorous experimental design with an
+appropriate comparator. Nevertheless, these findings provide
+proof-of-concept for temporally distributed evaluative condition-
+ing via smartphone lock screens.
+The first contribution of this work involved demonstrating that
+microdoses of evaluative conditioning can be delivered via smart-Table 1
+Motivation Measures From Baseline and 8-Week Assessments
+Motivation scaleBaseline Week 8
+tpd /H9251 M(SD) /H9251 M(SD)
+Physical activity enjoyment .83 3.70 (0.65) .90 4.14 (0.54) 2.22 .044 0.57
+Attitude toward exercise
+Instrumental attitude .97 86.02 (23.40) .84 93.44 (8.58) 1.66 .119 0.43
+Affective attitude .92 57.43 (25.67) .96 78.52 (18.78) 3.09 .009 0.83
+Overall attitude .90 72.08 (21.80) .88 85.92 (12.28) 2.83 .004 0.76
+Intrinsic Motivation Inventory
+Interest/enjoyment .95 4.47 (1.92) .89 5.20 (1.27) 1.14 .272 0.30
+Value/usefulness .90 6.05 (0.95) .90 6.63 (0.53) 3.10 .009 0.83
+Intrinsic motivation .89 5.13 (0.96) .88 5.99 (0.75) 3.22 .007 0.86
+Behavioral Regulations in Exercise Questionnaire-2
+Intrinsic motivation .96 2.28 (1.14) .92 2.83 (0.92) 2.63 .020 0.68
+Integrated regulation .88 2.07 (0.93) .88 2.47 (1.00) 3.81 .002 0.98
+Identified regulation .80 2.68 (0.96) .75 3.01 (0.71) 1.98 .068 0.51
+Introjected regulation .64 1.89 (0.91) .76 2.12 (0.85) 1.08 .298 0.28
+External regulation .82 0.77 (0.43) .54 0.69 (0.39) /H110020.54 .599 /H110020.14
+Amotivation .49 0.67 (0.59) .77 0.52 (0.54) /H110020.98 .349 /H110020.28
+Habit strength (behavioral automaticity) .98 2.82 (2.17) .94 3.55 (1.64) 1.82 .090 0.47
+Figure 2. Weekly changes in total physical activity volume. MET /H11005
+metabolic equivalent.This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.993 MOBILE EVALUATIVE CONDITIONING
+phone lock screens. Lock screen use has typically been studied in
+the context of security and risk aversion ( Egelman et al., 2014 ;
+Harbach et al., 2016 ;Harbach, De Luca, Malkin, et al., 2016 ;
+Harbach et al., 2014 ;Van Bruggen et al., 2013 ). Others have
+placed widgets on lock screens to engage users with a health
+behavior intervention that involves self-tracking ( Choe et al.,
+2017 ). To the best of our knowledge, the HeartPhone app is the
+first to capitalize on this digital storefront to deliver a health
+behavior intervention without imposing burden or creating friction
+for users.
+Approximately 65% of smartphone owners use a lock screen to
+secure their smartphone ( Harbach, De Luca, Malkin, et al., 2016 ;
+Van Bruggen et al., 2013 ). These screens are activated frequently
+and, although each exposure is relatively brief, cumulative expo-
+sure time will rapidly exceed what can be achieved in laboratory
+evaluative conditioning protocols. Thus, HeartPhone may solve a
+long-standing problem for how to deliver evaluative conditioning
+interventions in the field. This strategy reduces friction by inte-
+grating exposures in users’ existing workflows with their smart-
+phones.
+One limitation of this approach is that it can be difficult to
+persuade users to use lock screens if they do not already use them
+(Van Bruggen et al., 2013 ). Potential intervention reach was in-
+creased in HeartPhone v1.1 by refining the app so users could use
+a slide-to-unlock method instead of a pattern-to-unlock method.
+Additionally, the type of lock screen used can influence the dura-
+tion of exposure to conditioning stimuli. Specifically, pattern and
+passcode methods take longer than the slide-to-unlock method
+(Harbach et al., 2016 ). Tradeoffs exist. Pattern users initiate their
+patterns quicker and enter them more quickly when successful.
+Pattern users also make more errors and repeat their patterns more
+frequently. Future research should investigate the impact of dif-
+ferent lock screen methods on exposure time, affective processing,
+and behavior change.
+A second contribution of this work was in providing proof-of-
+concept for smartphone-based delivery of evaluative conditioning in
+the natural context of daily life. Evaluative conditioning is well-
+established as a technique for modifying affective processing and
+behavior in the laboratory ( De Houwer et al., 2001 ;Forscher et al.,
+2019;Hofmann et al., 2010 ;Lai et al., 2014 ). Physical activity
+researchers have examined environmental modifications to facilitate
+evaluative conditioning ( Antoniewicz & Brand, 2016 ;Chevance,
+Berry, et al., 2019 ). The present study extended prior work by imple-
+menting a method to deliver evaluative conditioning via the digital
+environment of smartphone lock screens. This implementation re-
+quires the temporal distribution of exposures (unlike most laboratory
+studies). Some evidence suggests that distributed exposures enhances
+conditioning effects so this spaced implementation may be preferable
+to massed conditioning protocols in the lab ( Richter & Gast, 2017 ). It
+is also possible that cumulative exposure time from this approach is
+overestimated if users do not visually orient to their screens immedi-
+ately upon activation.
+This application of evaluative conditioning sought to create or
+strengthen associations between physical activity and pleasure. If
+this approach increases physical activity—and light-intensity
+physical activity in particular—it is possible that it could also
+reduce sedentary behavior, either by displacing sedentary time or
+offsetting the reward value of energy conservation (cf. Cheval et
+al., 2018 ). Future work should consider sedentary time as a po-tential secondary outcome when evaluating HeartPhone. It may be
+possible to reduce sedentary behavior by creating or strengthening
+associations with displeasure directly; however, the images used to
+activate displeasure in conditioning stimuli are unlikely to be
+well-accepted by users. For example, the most unpleasant images
+in the International Affective Picture System involve themes such
+as contamination, mutilation, and threat ( Bradley & Lang, 2007 ).
+It is difficult to conceive that users would tolerate seeing those
+images upon every screen activation, especially when others in
+their vicinity might also see the images. Thus, we expect that
+mobile evaluative conditioning may be best suited to appetitive
+rather than aversive conditioning of target behaviors.
+Evaluative conditioning is a classical conditioning technique
+that aims to strengthen associations between a conditioned and
+unconditioned stimulus (as opposed to a stimulus and a behavioral
+response). Health psychologists have long been interested in au-
+tomatic processes that support health behaviors but much of this
+work has focused on operant conditioning processes ( Hunt, Mat-
+arazzo, Weiss, & Gentry, 1979 ). Observed changes in motivation
+and behavior during HeartPhone use were consistent with expec-
+tations from the associative-propositional evaluation model
+(Gawronski & Bodenhausen, 2014 ); however, other mechanisms
+of behavior change may also be engaged. For example, repeated
+exposure to images that activate the concept of physical activity
+may breed familiarity and increase liking (i.e., the mere exposure
+hypothesis; Zajonc, 2001 ). Alternately, conditioning stimuli that
+evoke pleasure could engage thought-action repertoires involving
+playful or exploratory behavior (e.g., broaden-and-build theory;
+Fredrickson, 2004 ). As research moves through the ORBIT pipe-
+line from Phase II (preliminary testing) to Phase III (efficacy)
+trials, it will be important both to evaluate both the efficacy of the
+intervention and to determine the mechanism(s) of effects. In other
+contexts, evaluative conditioning effects have shown resistance to
+extinction ( Baeyens, Crombez, Van den Bergh, & Eelen, 1988 ;
+Forscher et al., 2019 ;Gawronski, Gast, & De Houwer, 2015 ;Pine,
+Mendelsohn, & Dudai, 2014 ;Vansteenwegen, Francken, Vervliet,
+De Clercq, & Eelen, 2006 ). It will be important to investigate
+whether this technique can address the persistent challenge of
+behavioral maintenance ( Rothman, Sheeran, & Wood, 2009 ).
+Questions about stimulus optimization, optimal dosing, and char-
+acteristics of responders and nonresponders will also require at-
+tention.
+In the spirit of “failing fast,” the studies reported here used small
+sample sizes and were not recruited to be representative of the
+more diverse general population. Motivational and behavioral out-
+comes were self-reported so changes may be due to demand
+characteristics or testing threats. The single-group design also
+makes it impossible to distinguish change from maturation so
+causal inferences about efficacy are not possible. Notwithstanding
+these limitations, the results clearly provide the proof-of-concept
+that warrants progression to the next phase of intervention devel-
+opment with more rigorous evaluations of effects on behavior,
+biomedical risk factors and clinical outcomes.
+In sum, the HeartPhone intervention was developed to promote
+physical activity by engaging affective processing in a low-friction
+manner. It provides a potential solution to the challenge of deliv-
+ering evaluative conditioning interventions outside of laboratory
+settings. The early phase studies reported here informed the design
+and preliminary testing of the intervention. Results justify addi-This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.994 CONROY AND KIM
+tional investment in Phase IIb/III development with pilots and
+efficacy trials that incorporate more rigorous research designs,
+more diverse samples, device-based behavioral outcome measures,
+and biomedical risk factors as distal outcomes. If successful, the
+HeartPhone intervention could also be adapted to intervene on
+other affectively-regulated lifestyle behaviors that impact health
+and well-being. This intervention approach could provide a much-
+needed counterweight to commercial determinants of health that
+target affective processing to advance industry interests. Thus, this
+early phase intervention development work represents a beginning
+of research—and is far from the final word—on the HeartPhone
+intervention and its mobile evaluative conditioning method.
+References
+Anderson, J. R. (1983). A spreading activation theory of memory. Journal
+of Verbal Learning and Verbal Behavior, 22, 261–295. http://dx.doi.org/
+10.1016/S0022-5371(83)90201-3
+Antoniewicz, F., & Brand, R. (2016). Learning to like exercising: Evalu-
+ative conditioning changes automatic evaluations of exercising and
+influences subsequent exercising behavior. Journal of Sport & Exercise
+Psychology, 38, 138–148. http://dx.doi.org/10.1123/jsep.2015-0125
+Baeyens, F., Crombez, G., Van den Bergh, O., & Eelen, P. (1988). Once in
+contact always in contact: Evaluative conditioning is resistant to extinc-
+tion. Advances in Behaviour Research and Therapy, 10, 179–199.
+http://dx.doi.org/10.1016/0146-6402(88)90014-8
+Bandura, A. (1997). Self-efficacy: The exercise of control (1st ed.). New
+York, NY: Worth Publishers.
+Bangor, A., Miller, J., & Kortum, P. (2009). Determining what individual
+SUS scores mean: Adding an adjective rating scale. Journal of Usability
+Studies, 4, 114–123.
+Booth, M. (2000). Assessment of physical activity: An international per-
+spective. Research Quarterly for Exercise and Sport, 71, S114–S120.
+http://dx.doi.org/10.1080/02701367.2000.11082794
+Bradley, M. M., & Lang, P. J. (2007). The International Affective Picture
+System (IAPS) in the study of emotion and attention. In J. A. Coan &
+J. J. B. Allen (Eds.), Handbook of emotion elicitation and assessment
+(pp. 29–46). New York, NY: Oxford University Press.
+Brand, R., & Ekkekakis, P. (2018). Affective–reflective theory of physical
+inactivity and exercise. German Journal of Exercise and Sport Research,
+48,48–58. http://dx.doi.org/10.1007/s12662-017-0477-9
+Bui, E. T., & Fazio, R. H. (2016). Generalization of evaluative condition-
+ing toward foods: Increasing sensitivity to health in eating intentions.
+Health Psychology, 35, 852–855. http://dx.doi.org/10.1037/hea0000339
+Carver, C. S., & Scheier, M. F. (1998). On the self-regulation of behavior .
+New York, NY: Cambridge University Press. http://dx.doi.org/10.1017/
+CBO9781139174794
+Cheval, B., Radel, R., Neva, J. L., Boyd, L. A., Swinnen, S. P., Sander, D.,
+& Boisgontier, M. P. (2018). Behavioral and neural evidence of the
+rewarding value of exercise behaviors: A systematic review. Sports
+Medicine, 48, 1389–1404. http://dx.doi.org/10.1007/s40279-018-0898-0
+Cheval, B., Sarrazin, P., Isoard-Gautheur, S., Radel, R., & Friese, M.
+(2015). Reflective and impulsive processes explain (in)effectiveness of
+messages promoting physical activity: A randomized controlled trial.
+Health Psychology, 34, 10–19. http://dx.doi.org/10.1037/hea0000102
+Chevance, G., Bernard, P., Chamberland, P. E., & Rebar, A. (2019). The
+association between implicit attitudes toward physical activity and phys-
+ical activity behavior: A systematic review and correlational meta-
+analysis. Health Psychology Review, 13, 248–276. http://dx.doi.org/10
+.1080/17437199.2019.1618726
+Chevance, G., Berry, T., Boiché, J., & Heraud, N. (2019). Changing
+implicit attitudes for physical activity with associative learning. German
+Journal of Exercise and Sport Research, 49, 156–167. http://dx.doi.org/
+10.1007/s12662-018-0559-3Choe, E. K., Abdullah, S., Rabbi, M., Thomaz, E., Epstein, D. A., Cord-
+eiro, F. ,... Kientz, J. A. (2017). Semi-automated tracking: A balanced
+approach for self-monitoring applications. IEEE Pervasive Computing,
+16,74–84. http://dx.doi.org/10.1109/MPRV.2017.18
+Conn, V. S., Hafdahl, A. R., & Mehr, D. R. (2011). Interventions to
+increase physical activity among healthy adults: Meta-analysis of out-
+comes. American Journal of Public Health, 101, 751–758. http://dx.doi
+.org/10.2105/AJPH.2010.194381
+Conroy, D. E., & Berry, T. R. (2017). Automatic affective evaluations of
+physical activity. Exercise and Sport Sciences Reviews, 45, 230–237.
+http://dx.doi.org/10.1249/JES.0000000000000120
+Conroy, D. E., Hyde, A. L., Doerksen, S. E., & Ribeiro, N. F. (2010).
+Implicit attitudes and explicit motivation prospectively predict physical
+activity. Annals of Behavioral Medicine, 39, 112–118. http://dx.doi.org/
+10.1007/s12160-010-9161-0
+Craig, C. L., Marshall, A. L., Sjöström, M., Bauman, A. E., Booth, M. L.,
+Ainsworth, B. E. ,... Oja, P. (2003). International physical activity
+questionnaire: 12-country reliability and validity. Medicine and Science
+in Sports and Exercise, 35, 1381–1395. http://dx.doi.org/10.1249/01
+.MSS.0000078924.61453.FB
+Czajkowski, S. M., Powell, L. H., Adler, N., Naar-King, S., Reynolds,
+K. D., Hunter, C. M. ,...Charlson, M. E. (2015). From ideas to efficacy:
+The ORBIT model for developing behavioral treatments for chronic
+diseases. Health Psychology, 34, 971–982. http://dx.doi.org/10.1037/
+hea0000161
+De Houwer, J., Thomas, S., & Baeyens, F. (2001). Associative learning of
+likes and dislikes: A review of 25 years of research on human evaluative
+conditioning. Psychological Bulletin, 127, 853–869. http://dx.doi.org/10
+.1037/0033-2909.127.6.853
+Deutsch, R., & Strack, F. (2014). Building blocks of social behavior:
+Reflective and impulsive processes. In B. Gawronski & B. K. Payne
+(Eds.), Handbook of implicit social cognition: Measurement, theory, and
+applications (pp. 188–203). New York, NY: Guilford Press.
+Doll, R., & Hill, A. B. (2004). The mortality of doctors in relation to their
+smoking habits: A preliminary report. British Medical Journal, 328,
+1529–1533. http://dx.doi.org/10.1136/bmj.328.7455.1529
+Egelman, S., Jain, S., Portnoff, R. S., Liao, K., Consolvo, S., & Wagner, D.
+(2014). Are you ready to lock? CSS’14: Proceedings of the 2014 ACM
+SIGSAC Conference on Computer and Communications Security, (pp.
+750–761). http://dx.doi.org/10.1145/2660267.2660273
+Evans, J. S. B. T. (2008). Dual-processing accounts of reasoning, judg-
+ment, and social cognition. Annual Review of Psychology, 59, 255–278.
+http://dx.doi.org/10.1146/annurev.psych.59.103006.093629
+Forscher, P. S., Lai, C. K., Axt, J. R., Ebersole, C. R., Herman, M., Devine,
+P. G., & Nosek, B. A. (2019). A meta-analysis of procedures to change
+implicit measures. Journal of Personality and Social Psychology, 117,
+522–559. http://dx.doi.org/10.1037/pspa0000160
+Fredrickson, B. L. (2004). The broaden-and-build theory of positive emo-
+tions. Philosophical Transactions of the Royal Society of London Series
+B, Biological Sciences, 359, 1367–1378. http://dx.doi.org/10.1098/rstb
+.2004.1512
+Gardner, B., Abraham, C., Lally, P., & de Bruijn, G.-J. (2012). Towards
+parsimony in habit measurement: Testing the convergent and predictive
+validity of an automaticity subscale of the Self-Report Habit Index. The
+International Journal of Behavioral Nutrition and Physical Activity, 9,
+102. http://dx.doi.org/10.1186/1479-5868-9-102
+Gawronski, B., & Bodenhausen, G. V. (2006). Associative and proposi-
+tional processes in evaluation: An integrative review of implicit and
+explicit attitude change. Psychological Bulletin, 132, 692–731. http://dx
+.doi.org/10.1037/0033-2909.132.5.692
+Gawronski, B., & Bodenhausen, G. V. (2014). The associative-
+propositional evaluation model: Operating principles and operating con-This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.995 MOBILE EVALUATIVE CONDITIONING
+ditions of evaluation. In Y. Trope, B. Gawronski, & J. Serman (Eds.),
+Dual-process theories of the social mind (pp. 188–203). New York, NY:
+Guilford Press.
+Gawronski, B., Gast, A., & De Houwer, J. (2015). Is evaluative condition-
+ing really resistant to extinction? Evidence for changes in evaluative
+judgements without changes in evaluative representations. Cognition
+and Emotion, 29, 816–830. http://dx.doi.org/10.1080/02699931.2014
+.947919
+Harbach, M., De Luca, A., & Egelman, S. (2016). The anatomy of
+smartphone unlocking: A field study of Android lock screens. CHI’16:
+Proceedings of the 2016 CHI Conference on Human Factors in Com-
+puting Systems (pp. 4806–4817). http://dx.doi.org/10.1145/2858036
+.2858267
+Harbach, M., De Luca, A., Malkin, N., & Egelman, S. (2016). Keep on
+lockin’ in the free world: A multi-national comparison of smartphone
+locking. CHI’16: Proceedings of the 2016 CHI Conference on Human
+Factors in Computing Systems (pp. 4823–4827). http://dx.doi.org/10
+.1145/2858036.2858273
+Harbach, M., von Zezschwitz, E., Fichtner, A., Luca, A. D., & Smith, M.
+(2014). It’s a hard lock life: A field study of smartphone (un)locking
+behavior and risk perception . Symposium On Usable Privacy and Se-
+curity (SOUPS 2014), 213–230. Retrieved from https://www.usenix.org/
+conference/soups2014/proceedings/presentation/harbach
+Hofmann, W., De Houwer, J., Perugini, M., Baeyens, F., & Crombez, G.
+(2010). Evaluative conditioning in humans: A meta-analysis. Psycho-
+logical Bulletin, 136, 390–421. http://dx.doi.org/10.1037/a0018916
+Hofmann, W., Friese, M., & Wiers, R. W. (2008). Impulsive versus
+reflective influences on health behavior: A theoretical framework and
+empirical review. Health Psychology Review, 2, 111–137. http://dx.doi
+.org/10.1080/17437190802617668
+Hollands, G. J., Prestwich, A., & Marteau, T. M. (2011). Using aversive
+images to enhance healthy food choices and implicit attitudes: An
+experimental test of evaluative conditioning. Health Psychology, 30,
+195–203. http://dx.doi.org/10.1037/a0022261
+Houben, K., Schoenmakers, T. M., & Wiers, R. W. (2010). I didn’t feel like
+drinking but I don’t know why: The effects of evaluative conditioning on
+alcohol-related attitudes, craving and behavior. Addictive Behaviors, 35,
+1161–1163. http://dx.doi.org/10.1016/j.addbeh.2010.08.012
+Hunt, W. A., Matarazzo, J. D., Weiss, S. M., & Gentry, W. D. (1979).
+Associative learning, habit, and health behavior. Journal of Behavioral
+Medicine, 2, 111–124. http://dx.doi.org/10.1007/BF00846661
+Hyde, A. L., Doerksen, S. E., Ribeiro, N. F., & Conroy, D. E. (2010). The
+independence of implicit and explicit attitudes toward physical activity:
+Introspective access and attitudinal concordance. Psychology of Sport
+and Exercise, 11, 387–393. http://dx.doi.org/10.1016/j.psychsport.2010
+.04.008
+Kendzierski, D., & DeCarlo, K. J. (1991). Physical Activity Enjoyment
+Scale: Two validation studies. Journal of Sport & Exercise Psychology,
+13,50–64. http://dx.doi.org/10.1123/jsep.13.1.50
+King, A. C., Whitt-Glover, M. C., Marquez, D. X., Buman, M. P., Napoli-
+tano, M. A., Jakicic, J. ,... Tennant, B. L. (2019). Physical activity
+promotion: Highlights from the 2018 Physical Activity Guidelines Ad-
+visory Committee Systematic Review. Medicine and Science in Sports
+and Exercise, 51, 1340–1353. http://dx.doi.org/10.1249/MSS
+.0000000000001945
+Lai, C. K., Marini, M., Lehr, S. A., Cerruti, C., Shin, J.-E. L., Joy-Gaba,
+J .A . ,... Nosek, B. A. (2014). Reducing implicit racial preferences: I.
+A comparative investigation of 17 interventions. Journal of Experimen-
+tal Psychology: General, 143, 1765–1785. http://dx.doi.org/10.1037/
+a0036260
+Laing, B. Y., Mangione, C. M., Tseng, C.-H., Leng, M., Vaisberg, E.,
+Mahida, M. ,... Bell, D. S. (2014). Effectiveness of a smartphone
+application for weight loss compared with usual care in overweightprimary care patients: A randomized, controlled trial. Annals of Internal
+Medicine, 161, S5–S12. http://dx.doi.org/10.7326/M13-3005
+Lewis, J. R., & Sauro, J. (2009). The factor structure of the System
+Usability Scale. In M. Kurosu (Ed.), Human centered design: First
+International Conference, HCD 2009. Lecture notes in computer science
+(Vol. 5619, pp. 94–103). Berlin, Germany: Springer-Verlag. http://dx
+.doi.org/10.1007/978-3-642-02806-9_12
+Markland, D., Hall, C. R., Duncan, L. R., & Simatovic, J. (2015). The
+effects of an imagery intervention on implicit and explicit exercise
+attitudes. Psychology of Sport and Exercise, 17, 24–31. http://dx.doi
+.org/10.1016/j.psychsport.2014.11.007
+Markland, D., & Tobin, V. (2004). A modification to the Behavioural
+Regulation in Exercise Questionnaire to include an assessment of amo-
+tivation. Journal of Sport & Exercise Psychology, 26, 191–196. http://
+dx.doi.org/10.1123/jsep.26.2.191
+McAuley, E., Duncan, T., & Tammen, V. V. (1989). Psychometric prop-
+erties of the Intrinsic Motivation Inventory in a competitive sport setting:
+A confirmatory factor analysis. Research Quarterly for Exercise and
+Sport, 60, 48–58. http://dx.doi.org/10.1080/02701367.1989.10607413
+McNulty, J. K., Olson, M. A., Jones, R. E., & Acosta, L. M. (2017).
+Automatic associations between one’s partner and one’s affect as the
+proximal mechanism of change in relationship satisfaction: Evidence
+from evaluative conditioning. Psychological Science, 28, 1031–1040.
+http://dx.doi.org/10.1177/0956797617702014
+Mullan, E., Markland, D., & Ingledew, D. K. (1997). A graded conceptu-
+alisation of self-determination in the regulation of exercise behaviour:
+Development of a measure using confirmatory factor analytic proce-
+dures. Personality and Individual Differences, 23, 745–752. http://dx.doi
+.org/10.1016/S0191-8869(97)00107-4
+Nguyen, K. H., Glantz, S. A., Palmer, C. N., & Schmidt, L. A. (2019).
+Tobacco industry involvement in children’s sugary drinks market. Brit-
+ish Medical Journal, 364, l736. http://dx.doi.org/10.1136/bmj.l736
+2018. Physical Activity Guidelines Advisory Committee. (2018). 2018
+Physical Activity Guidelines Advisory Committee Scientific Report .
+Washington, DC: U. S. Department of Health and Human Services.
+Pine, A., Mendelsohn, A., & Dudai, Y. (2014). Unconscious learning of
+likes and dislikes is persistent, resilient, and reconsolidates. Frontiers in
+Psychology, 5, 1051. http://dx.doi.org/10.3389/fpsyg.2014.01051
+Rebar, A. L., Dimmock, J. A., Jackson, B., Rhodes, R. E., Kates, A.,
+Starling, J., & Vandelanotte, C. (2016). A systematic review of the
+effects of non-conscious regulatory processes in physical activity.
+Health Psychology Review, 10, 395–407. http://dx.doi.org/10.1080/
+17437199.2016.1183505
+Rhodes, R. E., Blanchard, C. M., Matheson, D. H., & Coble, J. (2006).
+Disentangling motivation, intention, and planning in the physical activ-
+ity domain. Psychology of Sport and Exercise, 7, 15–27. http://dx.doi
+.org/10.1016/j.psychsport.2005.08.011
+Rhodes, R. E., & Dickau, L. (2012). Experimental evidence for the
+intention-behavior relationship in the physical activity domain: A meta-
+analysis. Health Psychology, 31, 724–727. http://dx.doi.org/10.1037/
+a0027290
+Rhodes, R. E., Fiala, B., & Conner, M. (2009). A review and meta-analysis
+of affective judgments and physical activity in adult populations. Annals
+of Behavioral Medicine, 38, 180–204. http://dx.doi.org/10.1007/s12160-
+009-9147-y
+Rhodes, R. E., Gray, S. M., & Husband, C. (2019). Experimental manip-
+ulation of affective judgments about physical activity: A systematic
+review and meta-analysis of adults. Health Psychology Review, 13,
+18–34. http://dx.doi.org/10.1080/17437199.2018.1530067
+Rhodes, R. E., & Nigg, C. R. (2011). Advancing physical activity theory:
+A review and future directions. Exercise and Sport Sciences Reviews, 39,
+113–119. http://dx.doi.org/10.1097/JES.0b013e31821b94c8This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.996 CONROY AND KIM
+Richter, J., & Gast, A. (2017). Distributed practice can boost evaluative
+conditioning by increasing memory for the stimulus pairs. Acta Psycho-
+logica, 179, 1–13. http://dx.doi.org/10.1016/j.actpsy.2017.06.007
+Rothman, A. J., Sheeran, P., & Wood, W. (2009). Reflective and automatic
+processes in the initiation and maintenance of dietary change. Annals of
+Behavioral Medicine, 38, S4–S17. http://dx.doi.org/10.1007/s12160-
+009-9118-3
+Schachtman, T. R., Walker, J., & Fowler, S. (2011). Effects of conditioning
+in advertising. In T. R. Schachtman & S. S. Reilly (Eds.), Associative
+learning and conditioning theory (pp. 481–506). New York, NY: Oxford
+University Press. http://dx.doi.org/10.1093/acprof:oso/9780199735969
+.003.0157
+Sheeran, P., Gollwitzer, P. M., & Bargh, J. A. (2013). Nonconscious
+processes and health. Health Psychology, 32, 460–473. http://dx.doi
+.org/10.1037/a0029203
+Sjöström, M., Ainsworth, B., Bauman, A., Bull, F., Craig, C., & Sallis, J.
+(2002). International Physical Activity Questionnaire . Solna, Sweden:
+Karolinska Institute.
+Sjöström, M., Ainsworth, B., Bauman, A., Bull, F., Craig, C., & Sallis, J.
+(2005). Guidelines for data processing and analysis of the Intentional
+Physical Activity Questionnaire (IPAQ)—Short and long forms . Solna,
+Sweden: Karolinska Institute.
+Smith, E. R., & DeCoster, J. (2000). Dual-process models in social and
+cognitive psychology: Conceptual integration and links to underlying
+memory systems. Personality and Social Psychology Review, 4, 108–
+131. http://dx.doi.org/10.1207/S15327957PSPR0402_01
+Teixeira, P. J., Carraça, E. V., Markland, D., Silva, M. N., & Ryan, R. M.
+(2012). Exercise, physical activity, and self-determination theory: A
+systematic review. The International Journal of Behavioral Nutrition
+and Physical Activity, 9, 78.http://dx.doi.org/10.1186/1479-5868-9-78
+The Marlboro Man . (n.d.). Retrieved from http://adage.com/article/special-
+report-the-advertising-century/marlboro-man/140170/
+Van Bruggen, D., Liu, S., Kajzer, M., Striegel, A., Crowell, C. R., &
+D’Arcy, J. (2013). Modifying smartphone user locking behavior. Pro-
+ceedings of the Ninth Symposium on Usable Privacy and Security,
+10:1–10:14. http://dx.doi.org/10.1145/2501604.2501614
+Vansteenwegen, D., Francken, G., Vervliet, B., De Clercq, A., & Eelen, P.
+(2006). Resistance to extinction in evaluative conditioning. Journal ofExperimental Psychology: Animal Behavior Processes, 32, 71–79.
+http://dx.doi.org/10.1037/0097-7403.32.1.71
+Verplanken, B., & Melkevik, O. (2008). Predicting habit: The case of
+physical exercise. Psychology of Sport and Exercise, 9, 15–26. http://dx
+.doi.org/10.1016/j.psychsport.2007.01.002
+Verplanken, B., & Orbell, S. (2003). Reflections on past behavior: A
+self-report index of habit strength. Journal of Applied Social Psychol-
+ogy, 33, 1313–1330. http://dx.doi.org/10.1111/j.1559-1816.2003
+.tb01951.x
+Walsh, E. M., & Kiviniemi, M. T. (2014). Changing how I feel about the
+food: Experimentally manipulated affective associations with fruits
+change fruit choice behaviors. Journal of Behavioral Medicine, 37,
+322–331. http://dx.doi.org/10.1007/s10865-012-9490-5
+Westen, D. (2007). The political brain: The role of emotion in deciding the
+fate of the nation . New York, NY: Public Affairs/Perseus.
+Whitfield, G. P., Carlson, S. A., Ussery, E. N., Fulton, J. E., Galuska,
+D. A., & Petersen, R. (2019). Trends in meeting physical activity
+guidelines among urban and rural dwelling adults—United States,
+2008–2017. Morbidity and Mortality Weekly Report, 68, 513–518.
+http://dx.doi.org/10.15585/mmwr.mm6823a1
+Williams, D. M., Rhodes, R. E., & Conner, M. T. (2019). Conceptualizing
+and intervening on affective determinants of health behaviour. Psychol-
+ogy & Health, 34, 1267–1281. http://dx.doi.org/10.1080/08870446.2019
+.1675659
+Wilson, P. M., Rodgers, W. M., Loitz, C. C., & Scime, G. (2006). It’s who
+I am . . . really!’ The importance of integrated regulation in exercise
+contexts. Journal of Applied Biobehavioral Research, 11, 79–104.
+http://dx.doi.org/10.1111/j.1751-9861.2006.tb00021.x
+Wynder, E. L., & Graham, E. A. (1950). Tobacco smoking as a possible
+etiologic factor in bronchiogenic carcinoma; a study of 684 proved
+cases. Journal of the American Medical Association, 143, 329–336.
+http://dx.doi.org/10.1001/jama.1950.02910390001001
+Zajonc, R. B. (2001). Mere exposure: A gateway to the subliminal. Current
+Directions in Psychological Science, 10, 224–228. http://dx.doi.org/10
+.1111/1467-8721.00154
+Received September 21, 2019
+Revision received January 9, 2020
+Accepted March 22, 2020 /H18546This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.997 MOBILE EVALUATIVE CONDITIONING

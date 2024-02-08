@@ -1,0 +1,514 @@
+Adapting Pharmacological Dose-Finding Designs for Early Phase
+Behavioral Intervention Development Research
+Elizabeth Kuhl Towner, April Idalski Carcone,
+Samiran Ghosh, and Steven Ondersma
+Wayne State University School of MedicineMario Stylianou
+National Institutes of Health, National Heart, Lung, and Blood
+Institute, Bethesda, Maryland
+The use of systematic dose-finding designs to develop behavioral health interventions is lacking. In
+contrast, drug development research consistently follows a prescribed, regulated, and iterative pathway
+that begins with empirically establishing optimal drug dose. Adapting dose-finding methodologies from
+the drug development literature offers several advantages to increasing the feasibility, efficiency, and
+rigor of this important intervention refining step for behavioral intervention development. This article
+discusses the current state of the science for dose finding within the behavioral intervention development
+literature. A detailed overview of one drug development dose-finding methodology (the Accelerated
+Biased Coin Up-and-Down design) is then presented, using our work to adapt the Prevention Plus
+Intervention for treatment of pediatric obesity for mHealth delivery as an example of how this design can
+be applied to empirically derive the dose for a behavioral intervention.
+Keywords: intervention development, dose finding
+Supplemental materials: http://dx.doi.org/10.1037/hea0001024.supp
+Empirically deriving dose is an important yet rarely completed
+step to maximizing the effectiveness of behavioral health interven-
+tions and their implementation and dissemination potential. New
+models for translational research, like the National Institutes of
+Health (NIH) ORBIT model, specify that dose-finding studies
+should be included as part of early phase behavioral intervention
+development to ensure that all components of interventions sub-
+jected to efficacy testing are optimized ( Czajkowski et al., 2015 ).
+In the absence of this refining step, a potentially efficacious
+intervention may be categorized as ineffective and abandoned
+when in fact a slightly higher dose may have led to very differentresults ( Kalichman, 2019 ). Alternatively, an efficacious interven-
+tion may not be implemented in real-world settings because it is
+deemed too expensive, when perhaps a smaller dose would have
+achieved the same health outcome. Finally, suboptimal dosing may
+also result in high rates of attrition and therapist burnout ( Kalich-
+man, 2019 ;Voils et al., 2012 ,2014 ).
+Instead of conducting empirical investigations, behavioral inter-
+vention dosing is typically derived from precedent, anecdotal
+evidence, clinical experience, and/or asking the targeted popula-
+tion about dosing preferences ( Kalichman, 2019 ;Voils et al., 2012 ,
+2014 ). Each of these approaches has significant limitations. Insuf-
+ficient attention to dose has substantial negative effects on at-
+tempts to evaluate the literature in a given area. Systematic reviews
+often include only a small fraction of extant intervention trials
+because dosing information is not reported ( Kalichman, 2019 ). For
+example, in their systematic review and metaregression of behav-
+ioral prevention and intervention programs for pediatric obesity,
+Heerman and colleagues (2017) excluded 25% of identified RCTs
+because publications did not include sufficient information to
+determine dose. Further, this metaregression only included in-
+tended dose because the majority of trials reviewed did not report
+actual (received) dose. Dose derived from anecdotal evidence may
+have limited generalizability (e.g., population, provider, or setting-
+specific). Finally, while asking a targeted population about dosing
+preferences is important to developing human-centered interven-
+tions, individual responses may not be consistent, optimal in terms
+of efficacy, or cost-effective. Another challenge to empirically
+establishing dose of behavioral interventions is the absence of
+systematic and efficient dose-finding methodologies. Instead, mul-
+tiple and iterative randomized controlled trials (RCTs) are often
+necessary because design and power limitations restrict the num-X
+Elizabeth Kuhl Towner, April Idalski Carcone, and Samiran Ghosh,
+Department of Family Medicine and Public Health Sciences, Wayne State
+University School of Medicine; Steven Ondersma, Merrill Palmer Skillman
+Institute and Department of Psychiatry and Behavioral Neurosciences,
+Wayne State University School of Medicine; Mario Stylianou, National
+Institutes of Health, National Heart, Lung, and Blood Institute, Bethesda,
+Maryland.
+Steven Ondersma is now at Department of Obstetrics, Gynecology, and
+Reproductive Biology and the Division of Public Health, Michigan State
+University.
+This work was supported by an award to Elizabeth Kuhl Towner and
+April Idalski Carcone from the Grants Boost Program (Office for the Vice
+President of Research, Wayne State University).
+Correspondence concerning this article should be addressed to Elizabeth
+Kuhl Towner, Department of Family Medicine and Public Health Sciences,
+Division of Behavioral Sciences, Wayne State University School of Med-
+icine, 6135 Woodward Avenue, H206 Detroit, MI 48202. E-mail:
+ekuhl@med.wayne.eduThis document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+Health Psychology
+© 2020 American Psychological Association
+ISSN: 0278-6133 http://dx.doi.org/10.1037/hea00010242021, Vol. 40, No. 12, 875–880
+875This article was published Online First November 5, 2020.
+ber of dosing levels that can be evaluated within a single study
+(Voils et al., 2014 ). This increases the already lengthy timeline
+from intervention development to effectiveness and implementa-
+tion trials.
+In contrast, traditional drug development follows a pre-
+scribed, regulated, and iterative pathway. Efficacy trials (Phase
+III) do not occur until a recommended drug dose is empirically
+identified (Phase I) and its impact on the desired health outcome
+is empirically established (Phase II; Voils et al., 2012 ,2014 ).
+Phase I studies aim to identify either (a) the maximally tolerated
+dose (MTD) or the largest dose of drug that can be administered
+that minimizes the toxicity rate of the medication to only a
+small, predetermined proportion of the targeted population
+(e.g., chemotherapy yielding negative or adverse health out-
+comes to only 5% of the population) or (b) the minimally
+effective dose (MED) or the smallest dose of the medication that
+yields the desired health outcome in a large, prespecified pro-
+portion of the targeted population (e.g., pain medication pro-
+viding pain relief in 90% of the population; Pace & Stylianou,
+2007 ). Testing is completed via application of established and
+efficient dose-finding methodologies. Characteristics of these
+designs address many of the challenges faced by behavioral
+scientists and their use could thus improve the rigor of early
+phase behavioral intervention research.
+While there are many pharmaceutical dose-finding designs,
+this article focuses on the Accelerated Biased Coin Up-and-
+Down Design (ABCD; Stylianou & Follmann, 2004 ). ABCD is
+a frequentist method and type of “up-and down” dose-finding
+design that aims to achieve balance between tolerability (de-
+fined by toxicity or nonresponse or failure) and dose response
+(defined by the desired outcome of interest or success). Under
+the assumption of monotonic relationship between drug inten-
+sity and toxicity, participants are allocated to a higher or lower
+drug dose based upon treatment outcome from the previous
+participant. Intervention dose is thus identified in a systematic
+and empirical fashion. ABCD is based upon the Biased Coin
+Up-and Down method, which has better operating characteris-
+tics than other up-and-down designs ( Pace & Stylianou, 2007 ;
+Stylianou & Flournoy, 2002 ;Stylianou, Proschan, & Flournoy,
+2003 ). ABCD’s primary modification to the Biased Coin Up-
+and Down method is that ABCD allows multiple participants to
+be enrolled at a given time whereas BCD permits only one
+participant at a time. The advantages of ABCD to behavioral
+intervention development are its simplicity to implement com-
+pared to other dose-finding designs (e.g., Continual Reassess-
+ment Method, see Voils et al., 2012 ,2014 ), its adaptive ap-
+proach that includes randomization, the fact that it requires a
+relatively small sample (20–40), and its ability to evaluate
+multiple dosing levels in the same study.
+Adapting ABCD for Use in Behavioral Intervention
+Development Research
+In the sections to follow, we describe the ABCD methodology
+and use our ongoing work to adapt the Stage I pediatric obesity
+treatment (the Prevention Plus Intervention [PPI]) for mHealth
+delivery to illustrate how this method could be applied to empir-
+ically derive dose for a behavioral health intervention.Adapting Stage I Pediatric Obesity Treatment for
+mHealth Delivery
+The Expert Committee for Prevention, Assessment, and Treat-
+ment of Child and Adolescent Overweight and Obesity recom-
+mends a stepped approach to treating pediatric obesity ( Barlow,
+2007 ). As a Stage I intervention, the PPI is intended for delivery to
+every child who meets criteria for overweight and obesity and by
+every provider (e.g., pediatricians, nurse practitioners). High scal-
+ability, wide reach, and achieving small but significant changes for
+as many children as possible are aims for population-level inter-
+ventions such as PPI. When delivering PPI, it is recommended that
+providers use Motivational Interviewing (MI; Miller & Rollnick,
+2012 ) to collaboratively set goals with families to modify behav-
+iors that may increase a preschooler’s obesity risk (e.g., increase
+fruit and vegetable intake and decrease screen use). Intervention is
+stepped up (Stage II: Structured Weight Management) if “im-
+proved BMI status” is not evident after 3–6 months. Multiple
+barriers to PPI implementation have been documented. Chief
+among these are lack of training for providers in MI or pediatric
+weight management and insufficient time to integrate PPI into
+already brief well-child visits (e.g., He, Piche, Clarson, Callaghan,
+& Harris, 2010 ;Perrin, Flower, Garrett, & Ammerman, 2005 ;
+Spivack, Swietlik, Alessandrini, & Faith, 2010 ).
+Currently, we are developing an mHealth Prevention Plus In-
+tervention for Preschoolers (mPPI-P) with two technology-
+delivered components: (a) two brief, motivational sessions sepa-
+rated by (b) 1 month of automated, MI-tailored text messages.
+While text messaging is the most common type of mHealth inter-
+vention component in the obesity treatment literature ( Siopis,
+Chey, & Allman-Farinelli, 2015 ;Thomas & Bond, 2014 ), no study
+has empirically evaluated what dose (frequency) leads to effective
+weight control. Further, in contrast to many published mHealth
+interventions for obesity, the text-message component of
+mPPI-P is an intervention and all exchanges are two-way.
+Text-messaging is thus an ideal candidate for a dose-finding
+study. While we focus on one dimension of dose (frequency),
+researchers might also select designs to evaluate duration (total
+length of the intervention) or amount (length of each interven-
+tion contact; Voils et al., 2012 ).
+Selecting MED Versus MTD
+An important first step in applying ABCD is to determine
+whether the design will focus on identifying the MED or MTD.
+The MED may seem a more intuitive selection for behavioral
+intervention development research because this design aims to
+identify the smallest dose that achieves a particular health outcome
+response. To apply ABCD to identify the MTD, it is first necessary
+to define what it means for a behavioral intervention to be toxic. A
+strict translation from drug development cannot be made because
+behavioral interventions do not yield physiological toxicity as a
+medication might ( Voils et al., 2014 ). However, adverse or nega-
+tive outcomes that could occur when dose of a behavioral inter-
+vention is too high include “psychosocial toxicity” (e.g., therapist
+burnout or patient dependency; Kalichman, 2019 ), excessive costs
+associated with treatment delivery, and attrition.
+In our applied example, we set our ABCD to focus on
+identifying the MTD of text messages that can be administeredThis document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.876 TOWNER ET AL.
+over 1 month and define toxicity as attrition. Our choice of an
+MTD instead of MED study is because while dose is a sug-
+gested moderator of pediatric weight outcomes ( Janicke et al.,
+2014 ), attrition from pediatric obesity interventions is high
+(Dhaliwal et al., 2014 ). Further, while one of the benefits of text
+messaging is the opportunity for real-time intervention, there is
+insufficient evidence in the behavioral intervention develop-
+ment literature to conclude what frequency of text messaging
+(and particularly two-way messaging) individuals will tolerate
+before it becomes overly burdensome. Given our choice of an
+MTD study, all subsequent sections we describe design proce-
+dures in terms of this type of ABCD design. Readers are
+referred to Stylianou and Follmann (2004) for more details on
+designing an ABCD study to identify the MED.
+Determining Dosing Levels
+As noted above, ABCD evaluates multiple dosing levels in the
+same study. To the extent possible, dosing levels should be derived
+from a combination of the strategies commonly used in the behav-
+ioral intervention development literature: systematic review of the
+literature, identifying preferences of the targeted population,
+and/or anecdotal or clinical experience. From these efforts, re-
+searchers need to decide what is the hypothesized target dose. For
+studies that aim to identify the MTD, the targeted dose is the dose
+that will produce toxicity or an undesired outcome in a small
+predetermined percentage of the population. While there is no
+maximum to the number of doses that can be included in the
+design, researchers are encouraged to include a minimum of two
+doses above and below the hypothesized target dose ( Liu, Cai, &
+Ning, 2013 ).
+For mPPI-P, we reviewed the obesity treatment outcome liter-
+ature, considered the text message dose within an intervention
+using the same motivational interviewing technology platform as
+mPPI-P all yielded improvements in motivation, controller medi-
+cation use, and lung functioning ( Kolmodin MacDonell, Naar,
+Gibson-Scipio, Lam, & Secord, 2016 ;MacDonell, Gibson-Scipio,
+Lam, Naar-King, & Chen, 2012 ), and our formative work with
+caregivers of young children who exceeded the PPI recommenda-
+tion for sugar-sweetened beverages. A review of the adult and
+pediatric obesity treatment outcome literatures revealed a wide
+range of text messaging doses ranging from once per week up to
+four times per day ( Militello, Melnyk, Hekler, Small, & Jacobson,
+2016 ;Nezami, Ward, Lytle, Ennett, & Tate, 2018 ;Price et al.,
+2015 ;Siopis et al., 2015 ). The only intervention using the same
+technology platform to include text messaging found young adults
+were highly satisfied with receiving messages daily for 30 days
+between motivational sessions and that this treatment package
+overall yielded improvements in motivation, medication adher-
+ence, and lung functioning ( Kolmodin MacDonell et al., 2016 ;
+MacDonell et al., 2012 ). Finally, our formative work revealed
+most caregivers of the targeted population also preferred daily
+text messaging. As such, in our example, we identified daily
+text-messaging as our target dose and set the ABCD to evaluate
+seven dose (frequency) levels: (a) once weekly, (b) twice weekly,
+(c) every other day, (d) daily, (e) twice per day, (f) three times per
+day, and (g) four times per day.Defining /H9003
+Prior to initiating the dose-finding study, researchers must de-
+fine/H9003, which in an MTD study is the targeted toxicity level or the
+proportion of the targeted population expected to experience tox-
+icity. In an MTD study, /H9003must be /H110210.50 ( Stylianou & Follmann,
+2004 ). For our example with mPPI-P, we want to identify the
+MTD of text messaging over 1 month that results in minimal
+intervention attrition (e.g., 20%), and thus we set /H9003/H11005 0.2.
+Determining Sample Size
+Extensive simulations considering a large variety of dose–
+response curves were conducted during development of the ABCD
+design. These simulations concluded that a sample size of 20–40
+is adequate to obtain an estimate of the target dose that is within
+one dose level of the true dose ( Stylianou et al., 2003 ). Additional
+information about sample size considerations can be found in the
+Appendix in the online supplemental materials and in Stylianou
+and Follmann (2004) . There are no formal rules for determining
+what number in this range is appropriate. Rather, factors such as
+length of the intervention being tested, timeline, and project budget
+will have a stronger impact on sample size decisions.
+Dosing Procedures
+ABCD uses a two-step approach to promote faster arrival at the
+MTD (see Figure 1 ). Step 1 begins with the first participant
+allocated to the hypothesized target dose or dose expected to yield
+toxicity. If the participant has a nontoxic response, then Step 1
+continues with the next participant allocated to the next highest
+dose. This pattern of one participant in active intervention at a time
+and each subsequent participant being allocated to the next higher
+dose repeats until a participant meets criteria for “toxicity,” at
+which time the study moves to Step 2.
+Figure 2 presents a hypothetical example of dosing flow for the
+first seven families to participate in the dose-finding study. In Step
+1, the first family (Family A) is allocated to the hypothesized target
+dose of daily text messaging and meets the criterion for a nontoxic
+response (retention) on Day 30 because the family has replied to
+all messages in the allocated dose. Since Family A did not expe-
+rience toxicity, the study remains in Step 1. On Day 32 Family B
+is allocated to the next highest dose of text messages (twice daily).
+On Day 40, Family B did not respond to a text message, so they are
+considered to have a toxic response and the study moves to Step 2.
+Per ABCD methodology, the first participant in Step 2 is allo-
+cated to the next lower dose than the dose that yielded a toxic
+response in Step 1. Dosing procedures depend upon three factors:
+(a)/H9003or the desired target toxicity level for the intervention, (b)
+dose response of the previous participant, and (c) biased coin flip
+based upon a predefined probability of success ( Stylianou &
+Follmann, 2004 ). As noted in Figure 1 , if the previous participant
+meets the criterion for toxicity, then the next participant is allo-
+cated to the next lower dose. If the previous participant meets the
+criterion for nontoxicity, then the next participant is randomized
+based upon probability b/H11005/H9003/1/H11002/H9003to the next higher dose and
+with probability 1 /H11002bto the same dose. In Step 2, a response is
+counted as complete either once a participant reaches the end of his
+or her evaluation period (the length of the intervention) or as soonThis document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.877 DOSE-FINDING DESIGNS FOR BEHAVIORAL INTERVENTION
+as the criterion for toxicity is met. As such, dose allocation for
+newly enrolled participants may not be (and usually is not) based
+upon the last participant to enroll in the study. In efforts to
+minimize bias that might occur from a burst in recruitment and to
+ensure the sample is not exhausted on any one dose, ABCD also
+limits the number of participants that can be enrolled at a particular
+dose at the same time to three ( Stylianou & Follmann, 2004 ).
+In continuing with our applied example (see Figure 2 ), Step 2
+begins by allocating the next family (Family C) to a dose of daily
+text messaging because this dose is the next lower dose that
+achieved toxicity in Step 1. Family D begins on Day 50 and, since
+Family C has not met the criterion for toxicity or nontoxicity, is
+also allocated to the dose of daily text messaging. Family E begins
+on Day 52 and, since neither Family C nor Family D has met
+criterion for toxicity, they are also allocated to the dose of daily
+text messaging. Family F arrives on Day 53 but, because we have
+three families at the dose of daily text messaging already, we must
+wait to start Family F until one of the families currently amid the
+intervention (C, D, or E) meets criterion for toxicity (attrition) or
+nontoxicity (retention). This occurs on Day 60, when Family Dfails to respond to a text message and thus meets criterion for
+toxicity (attrition). Family F begins the intervention the next day
+and because Family D had a toxic response (attrition) is allocated
+to the next lower dose (every other day text messaging). Family G
+enrolls on Day 72 and because the last family to complete (Family
+C on Day 71) had a nontoxic response, is allocated at a probability
+ofb/H110050.2/(1–0.2) /H110050.25 to the next higher dose and 1–0.25 /H11005
+0.75 to the same dose. In our example, the outcome of the ran-
+domization is that Family G receives the same dose (daily text
+messaging). The study would continue in this manner until the
+desired sample size ( n/H1100520–40) is achieved.
+Stopping Rules
+If the target dose is not within the levels being tested, then
+participants will keep being allocated to the lowest dose (if the
+target dose is actually lower than the minimum dose included in
+the design) or the highest dose (if the target dose is actually higher
+than the maximum dose included in the design). If allocation to the
+minimum or maximum dose occurs for more than three to four
+Figure 1. Dosing procedures for Two-Step Biased-Coin Design Dose-Finding study to identify the maximally
+tolerated dose. MTD /H11005maximally tolerated dose; i /H11005hypothesized target dose; j /H11005dose yielding a toxic
+response in Step 1; b/H11005beta;/H9003/H11005the desired toxicity level for the intervention (percent expected to have a toxic
+response); R /H11005randomization.
+Figure 2. Dosing pattern for hypothetical ABCD to determine MED of text messaging. ABCD /H11005accelerated
+biased-coin up-and-down design; MED /H11005minimally effective dose; T /H11005toxic response (attrition) to allocated
+dose; NT /H11005nontoxic response (retention) to allocated dose.This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.878 TOWNER ET AL.
+consecutive participants, then it is reasonable to stop the study,
+reassess the specified dose range, and initiate a new study with a
+different dosing range informed by the previous study.
+Determining the MTD
+The estimation of the recommended dose is determined by
+assuming the probability of toxicity increases with increasing dose.
+Isotonic regression using a pooled adjacent violators algorithm
+(PAVA; Robertson, Wright, & Dykstra, 1998 ) is a natural way to
+estimate the probability of toxicity for each dose level tested.
+Isotonic estimates of the probability of toxicity are used to produce
+an estimator of the target dose. An R code is available to produce
+these estimates along with the confidence intervals (contact author
+MS).
+Conclusions
+Despite its importance to treatment optimization and improving
+the translational process ( Czajkowski et al., 2015 ), most early
+phase work to develop behavioral interventions does not include
+studies to empirically determine dose. Identification of systematic
+and efficient dose-finding designs may help to address this gap.
+Methodologies from drug development, such as ABCD, can be
+adapted for use by behavioral researchers and provide several
+advantages to increasing the feasibility and rigor of dose finding in
+early phase intervention development research including that many
+are adaptive, include randomization, and require a range of doses
+be tested. Designs are also implemented with small samples with-
+out compromising power, making them ideal for grant mechanisms
+specific to early phase research (e.g., NIH R21 and R03) that often
+have shorter timelines and smaller budgets.
+As with any intervention development, consideration must be
+given to variables that may impact dosing. Examples include
+sociodemographic characteristics, time since diagnosis and disease
+severity, neurocognitive and emotional states, content, and also
+context if the intervention includes text messaging like the exam-
+ple presented in this article. Some variables might be addressed in
+work that informs the dose-finding design and others at a later
+point in the developmental trajectory when sample sizes are larger
+and there is sufficient power to explore mediation and moderation.
+Drug development dose-finding methodologies may not be suit-
+able for all behavioral interventions, however. For example, de-
+fining response for a study that aims to identify the minimally
+effective dose of a behavioral intervention is more intuitive as the
+majority of behavioral interventions target specific behaviors or
+health outcomes (e.g., weight loss or adherence). However, defin-
+ingtoxicity is more difficult. Kalichman (2019) suggests the term
+psychosocial toxicity to describe unintended outcomes of behav-
+ioral interventions like therapist dependency and exhausting emo-
+tions. Additional toxic outcomes might include attrition and ther-
+apist burnout. Whether and how to explore toxicity of behavioral
+interventions warrants additional thought and exploration. Another
+consideration is that drug development dose-finding designs are
+intended to evaluate interventions and treatments delivered at the
+individual level, so they may not be appropriate for behavioral
+interventions delivered at the group level.
+In summary, empirically deriving dose is imperative to optimiz-
+ing behavioral health interventions. However, systematic designsfor completing this step in the behavioral literature are lacking.
+The drug development literature offers several designs that can be
+adapted for use in behavioral intervention development to address
+this critical gap.
+References
+Barlow, S. E. (2007). Expert committee recommendations regarding the
+prevention, assessment, and treatment of child and adolescent over-
+weight and obesity: Summary report. Pediatrics, 120 (Suppl. 4), S164–
+S192. http://dx.doi.org/10.1542/peds.2007-2329C
+Czajkowski, S. M., Powell, L. H., Adler, N., Naar-King, S., Reynolds,
+K. D., Hunter, C. M. ,...Charlson, M. E. (2015). From ideas to efficacy:
+The ORBIT model for developing behavioral treatments for chronic
+diseases. Health Psychology, 34, 971–982. http://dx.doi.org/10.1037/
+hea0000161
+Dhaliwal, J., Nosworthy, N. M., Holt, N. L., Zwaigenbaum, L., Avis, J. L.,
+Rasquinha, A., & Ball, G. D. (2014). Attrition and the management of
+pediatric obesity: An integrative review. Childhood Obesity, 10, 461–
+473. http://dx.doi.org/10.1089/chi.2014.0060
+He, M., Piche, L., Clarson, C. L., Callaghan, C., & Harris, S. B. (2010).
+Childhood overweight and obesity management: A national perspective
+of primary health care providers’ views, practices, perceived barriers and
+needs. Paediatrics & Child Health, 15, 419–426. http://dx.doi.org/10
+.1093/pch/15.7.419
+Heerman, W. J., JaKa, M. M., Berge, J. M., Trapl, E. S., Sommer, E. C.,
+Samuels, L. R. ,... Barkin, S. L. (2017). The dose of behavioral
+interventions to prevent and treat childhood obesity: A systematic re-
+view and meta-regression. The International Journal of Behavioral
+Nutrition and Physical Activity, 14, Article 157. http://dx.doi.org/10
+.1186/s12966-017-0615-7
+Janicke, D. M., Steele, R. G., Gayes, L. A., Lim, C. S., Clifford, L. M.,
+Schneider, E. M. ,... Westen, S. (2014). Systematic review and meta-
+analysis of comprehensive behavioral family lifestyle interventions ad-
+dressing pediatric obesity. Journal of Pediatric Psychology, 39, 809–
+825. http://dx.doi.org/10.1093/jpepsy/jsu023
+Kalichman, S. C. (2019). When is enough, enough? How the absence of
+dose-determination trials impedes implementation of HIV behavioral
+interventions. AIDS and Behavior, 23, 2219–2225. http://dx.doi.org/10
+.1007/s10461-019-02650-1
+Kolmodin MacDonell, K., Naar, S., Gibson-Scipio, W., Lam, P., & Secord,
+E. (2016). The Detroit Young Adult Asthma Project: Pilot of a
+technology-based medication adherence intervention for African-
+American emerging adults. Journal of Adolescent Health, 59, 465–471.
+http://dx.doi.org/10.1016/j.jadohealth.2016.05.016
+Liu, S., Cai, C., & Ning, J. (2013). Up-and-down designs for Phase I
+clinical trials. Contemporary Clinical Trials, 36, 218–227. http://dx.doi
+.org/10.1016/j.cct.2013.07.002
+MacDonell, K., Gibson-Scipio, W., Lam, P., Naar-King, S., & Chen, X.
+(2012). Text messaging to measure asthma medication use and symp-
+toms in urban African American emerging adults: A feasibility study.
+The Journal of Asthma, 49, 1092–1096. http://dx.doi.org/10.3109/
+02770903.2012.733993
+Militello, L., Melnyk, B. M., Hekler, E. B., Small, L., & Jacobson, D.
+(2016). Automated behavioral text messaging and face-to-face interven-
+tion for parents of overweight or obese preschool children: Results from
+a pilot study. JMIR mHealth and uHealth, 4 (1), e21. http://dx.doi.org/
+10.2196/mhealth.4398
+Miller, W. R., & Rollnick, S. (2012). Motivational interviewing: Helping
+people change (3rd ed.). New York, NY: The Guilford Press.
+Nezami, B. T., Ward, D. S., Lytle, L. A., Ennett, S. T., & Tate, D. F.
+(2018). A mHealth randomized controlled trial to reduce sugar-
+sweetened beverage intake in preschool-aged children. Pediatric Obe-
+sity, 13, 668–676. http://dx.doi.org/10.1111/ijpo.12258This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.879 DOSE-FINDING DESIGNS FOR BEHAVIORAL INTERVENTION
+Pace, N. L., & Stylianou, M. P. (2007). Advances in and limitations of
+up-and-down methodology: A precis of clinical use, study design, and
+dose estimation in anesthesia research. Anesthesiology, 107, 144–152.
+http://dx.doi.org/10.1097/01.anes.0000267514.42592.2a
+Perrin, E. M., Flower, K. B., Garrett, J., & Ammerman, A. S. (2005).
+Preventing and treating obesity: Pediatricians’ self-efficacy, barriers,
+resources, and advocacy. Ambulatory Pediatrics, 5, 150–156. http://dx
+.doi.org/10.1367/A04-104R.1
+Price, S., Ferisin, S., Sharifi, M., Steinberg, D., Bennett, G., Wolin, K. Y.,
+. . . Taveras, E. M. (2015). Development and implementation of an
+interactive text messaging campaign to support behavior change in a
+childhood obesity randomized controlled trial. Journal of Health Com-
+munication, 20, 843–850. http://dx.doi.org/10.1080/10810730.2015
+.1018582
+Robertson, T. L., Wright, F. T., & Dykstra, R. L. (1998). Order restricted
+statistical influence . New York, NY: Wiley.
+Siopis, G., Chey, T., & Allman-Farinelli, M. (2015). A systematic review
+and meta-analysis of interventions for weight management using text
+messaging. Journal of Human Nutrition and Dietetics, 28 (Suppl. 2),
+1–15. http://dx.doi.org/10.1111/jhn.12207
+Spivack, J. G., Swietlik, M., Alessandrini, E., & Faith, M. S. (2010).
+Primary care providers’ knowledge, practices, and perceived barriers to
+the treatment and prevention of childhood obesity. Obesity, 18, 1341–
+1347. http://dx.doi.org/10.1038/oby.2009.410Stylianou, M., & Flournoy, N. (2002). Dose finding using the biased coin
+up-and-down design and isotonic regression. Biometrics, 58, 171–177.
+http://dx.doi.org/10.1111/j.0006-341X.2002.00171.x
+Stylianou, M., & Follmann, D. A. (2004). The accelerated biased coin
+up-and-down design in phase I trials. Journal of Biopharmaceutical
+Statistics, 14, 249–260. http://dx.doi.org/10.1081/BIP-120028518
+Stylianou, M., Proschan, M., & Flournoy, N. (2003). Estimating the
+probability of toxicity at the target dose following an up-and-down
+design. Statistics in Medicine, 22, 535–543. http://dx.doi.org/10.1002/
+sim.1351
+Thomas, J. G., & Bond, D. S. (2014). Review of innovations in digital
+health technology to promote weight control. Current Diabetes Reports,
+14,Article 485. http://dx.doi.org/10.1007/s11892-014-0485-1
+Voils, C. I., Chang, Y., Crandell, J., Leeman, J., Sandelowski, M., &
+Maciejewski, M. L. (2012). Informing the dosing of interventions in
+randomized trials. Contemporary Clinical Trials, 33, 1225–1230. http://
+dx.doi.org/10.1016/j.cct.2012.07.011
+Voils, C. I., King, H. A., Maciejewski, M. L., Allen, K. D., Yancy, W. S.,
+Jr., & Shaffer, J. A. (2014). Approaches for informing optimal dose of
+behavioral interventions. Annals of Behavioral Medicine, 48, 392–401.
+http://dx.doi.org/10.1007/s12160-014-9618-7
+Received October 13, 2019
+Revision received May 7, 2020
+Accepted June 24, 2020 /H18546This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.TOWNER ET AL. 880

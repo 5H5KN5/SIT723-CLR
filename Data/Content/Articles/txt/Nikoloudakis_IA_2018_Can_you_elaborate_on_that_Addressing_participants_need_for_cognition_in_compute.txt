@@ -1,0 +1,731 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rhpr20
+Health Psychology Review
+ISSN: 1743-7199 (Print) 1743-7202 (Online) Journal homepage: https://www.tandfonline.com/loi/rhpr20
+Can you elaborate on that? Addressing
+participants ’ need for cognition in computer-
+tailored health behavior interventions
+I. A. Nikoloudakis, R. Crutzen, A. L. Rebar, C. Vandelanotte, P. Quester, M.
+Dry, A. Skuse, M. J. Duncan & C. E. Short
+To cite this article:  I. A. Nikoloudakis, R. Crutzen, A. L. Rebar, C. Vandelanotte, P. Quester,
+M. Dry, A. Skuse, M. J. Duncan & C. E. Short (2018) Can you elaborate on that? Addressing
+participants ’ need for cognition in computer-tailored health behavior interventions, Health
+Psychology Review, 12:4, 437-452, DOI: 10.1080/17437199.2018.1525571
+To link to this article:  https://doi.org/10.1080/17437199.2018.1525571
+View supplementary material 
+Published online: 22 Oct 2018.
+Submit your article to this journal 
+Article views: 951
+View related articles 
+View Crossmark data
+Citing articles: 13 View citing articles 
+
+Can you elaborate on that? Addressing participants ’need for
+cognition in computer-tailored health behavior interventions
+I. A. Nikoloudakisa*, R. Crutzenb, A. L. Rebarc, C. Vandelanottec, P. Questerd, M. Drye,
+A. Skusef, M. J. Duncang,hand C. E. Shorta*
+aFreemasons Foundation Centre for Men ’s Health, School of Medicine, University of Adelaide, Adelaide, Australia;
+bDepartment of Health Promotion/CAPHRI, Maastricht University, Maastricht, Netherlands;cPhysical Activity
+Research Group, Appleton Institute, School of Health, Medical and Applied Sciences, Central Queensland University,
+Rockhampton, Australia;dProfessor in Marketing, Adelaide Business School, The University of Adelaide, Adelaide,
+Australia;eSchool of Psychology, University of Adelaide, Adelaide, Australia;fAnthropology and Development
+Studies, University of Adelaide, Adelaide, Australia;gSchool of Medicine & Public Health, Faculty of Health and
+Medicine, The University of Newcastle, Callaghan, Australia;hPriority Research Centre for Physical Activity and
+Nutrition, The University of Newcastle, Callaghan, Australia
+ABSTRACT
+Computer-tailored interventions, which deliver health messages adjusted
+based on characteristics of the message recipient, can e ﬀectively
+improve a range of health behaviours. Typically, the content of the
+message is tailored to user demographics, health behaviours and social
+cognitive factors (e.g., intentions, attitudes, self-eﬃ cacy, perceived social
+support) to increase message relevance, and thus the extent to whichthe message is read, considered and translated into attitude and
+behaviour change. Some researchers have suggested that the e ﬃcacy of
+computer-tailored interventions may be further enhanced by adapting
+messages to suit recipients ’need for cognition (NFC) –a personality trait
+describing how individuals tend to process information. However, thelikely impact of doing so, especially when tailored in conjunction with
+other variables, requires further consideration. It is possible thatintervention e ﬀects may be reduced in some circumstances due to
+interactions with other variables (e.g., perceived relevance) that alsoinﬂuence information processing. From a practical point of view, it is
+also necessary to consider how to optimally operationalise and measureNFC if it is to be a useful tailoring variable. This paper aims to facilitatefurther research in this area by critically examining these issues based
+on relevant theories and existing evidence.ARTICLE HISTORY
+Received 19 September 2017
+Accepted 15 September 2018
+KEYWORDS
+Need for cognition;
+computer-tailoring;elaboration likelihood model;
+eHealth; behaviour change;
+health communication
+Introduction
+Digital health interventions have the potential to improve a range of health-related behaviours. They
+are often more accessible than face-to-face interventions and may be able to reach large target popu-lation groups that would otherwise be unlikely to participate in interventions (Fuller & Kroese, 2015 ).
+Evidence has consistently shown that digital interventions using computer-tailoring to present indi-viduals with personalised health information are signi ﬁcantly more likely to improve health-related
+behaviours than those delivering generic information (Lustria et al., 2013 ; Short, James, Plotniko ﬀ,
+& Girgis, 2011 ; Wolfenden, Nathan, & Williams, 2015 ). Nevertheless, as the overall e ﬀect sizes of
+© 2018 Informa UK Limited, trading as Taylor & Francis GroupCONTACT C. E. Short camille.short@adelaide.edu.au
+*Both these authors contributed equally to this work.
+Supplemental data for this article can be accessed at https://doi.org/10.1080/17437199.2018.1525571HEALTH PSYCHOLOGY REVIEW
+2018, VOL. 12, NO. 4, 437 –452
+https://doi.org/10.1080/17437199.2018.1525571
+computer-tailored health interventions remain small (Lustria et al., 2013 ), there have been recent calls
+for researchers to further investigate how to improve their eﬀ ectiveness (Smit, Linn, & van Weert,
+2015 ).
+Computer-tailoring involves matching intervention messages to participant characteristics based
+on responses to one or more assessments. Software is used to automate the process, relying on algor-
+ithms that link individuals ’assessment data to particular messages in a pre-speci ﬁed message library
+(Kreuter, Farrell, Olevitch, & Brennan, 2000 ). To date, computer-tailored interventions have most often
+tailored the content of the message to match recipients ’demographic factors, social cognitive deter-
+minants of behaviour (e.g., their self-e ﬃcacy, intentions, social support) and/or current health behav-
+iour (Brug, Steenhuis, van Assema, Glanz, & De Vries, 1999 ; Spittaels, De Bourdeaudhuij, &
+Vandelanotte, 2007 ). More recently, there has been a push to focus not only on what information
+is included in the message but also on how the information is communicated, as this could
+impact on persuasion (e.g., attitude change) and potentially the magnitude of the behavioural
+change (Fuller & Kroese, 2015 ;O’Keefe & Jensen, 2007 ; Short et al., 2011 ; Smit et al., 2015 ; Vandela-
+notte et al., 2015 ). In particular, previous research suggests that matching health information to users ’
+information processing style, such as their need for cognition (NFC), may be a promising avenue topursue (Smit et al., 2015 ). However, several theoretical and practical considerations must ﬁrst be con-
+sidered before developing new interventions based on NFC.
+NFC refers to an individual ’s tendency to engage in, and enjoy, e ﬀortful cognitive activities
+(Cacioppo & Petty, 1982 ). Those with a higher NFC tend to seek information actively and think
+deeply and critically about the arguments presented. Those with lower NFC tend to invest less cog-
+nitive e ﬀort when processing information, relying more on mental short-cuts such as cognitive heur-
+istics (e.g., ‘experts are correct ’) or the source of the information (e.g., celebrities, experts) to
+understand the information presented (Cacioppo, Petty, Feinstein, & Jarvis, 1996 ). In computer-tai-
+lored interventions, NFC could be used as a tailoring variable, with message style matched to recipi-
+ents’processing style. However, the likely impact of doing so, especially when tailored in conjunction
+with other variables requires further consideration. It is possible that intervention eﬀ ects could be
+reduced in some circumstances due to adverse interactions with other variables. From a practicalpoint of view, further consideration of how to optimally operationalise and measure NFC is alsoneeded. The usefulness of NFC, or any other variable, as a predictor of information processing and
+thus as a useful tailoring variable is only as good as its operationalization and our ability to
+measure it (Peters & Crutzen, 2017 ). This paper aims to facilitate further research in this area by
+addressing these considerations.
+Theoretical considerations
+Computer-tailored interventions are commonly based on the premise that behaviour change isdriven by changes in social cognitive determinants (e.g., attitudes, eﬃcacy beliefs, intentions;Lustria et al., 2013 ; Wolfenden et al., 2015 ). There are many psychosocial models of health behaviour
+that have informed this view, including the Theory of Planned Behaviour (Ajzen, 1985 ), Social Cogni-
+tive Theory (Bandura, 1986 ) and the Health Belief Model (Abraham & Sheeran, 2015 ). Although there
+are nuanced di ﬀerences between these models in terms of the determinants speci ﬁed and the mech-
+anisms for which they work, there is also considerable overlap. For the most part, each suggests thatpeople make behavioural intentions based on deliberation of their beliefs (e.g., attitudes and self-eﬃcacy beliefs) and behaviour change occurs through the translation of intention into action
+(Bandura, 2004 ). The primary strategy for inﬂ uencing these determinants in computer-tailored inter-
+ventions has been the provision of information. For example, an intervention may provide detailsabout the bene ﬁts of a healthy diet. The underlying assumption is that such information may per-
+suade a person to have more valued attitudes of the bene ﬁts of eating well and therefore lead
+the person to make intentions to eat more fruit and vegetables or to strengthen their commitmentto enacting their intentions than if they had not received that information. This in turn, according to438 I. NIKOLOUDAKIS ET AL.
+the theories outlined above, should lead to increased behaviour change. There is experimental evi-
+dence to support this proposition (i.e., that intentions causally in ﬂuence behaviour), however, it
+should be noted that medium-large changes in intentions have typically resulted in small-medium
+changes in behaviour (Webb & Sheeran, 2006 ). This has led to an increased interest into how to
+ensure computer-tailored interventions have a large impact on intentions, and/or how to inﬂ uence
+behaviour via other mechanisms (e.g., habitual processes, Kwasnicka et al., 2017 ). Consideration of
+the Elaboration Likelihood Model (ELM) of persuasion (Petty & Cacioppo, 1986 ) and other dual
+process theories are important to consider in this context.
+The ELM is an information processing theory often applied to explain why computer-tailored inter-
+ventions that adapt message content to increase message relevance are more eﬀ ective at changing
+behaviour than generic, one-size- ﬁts-all interventions (Kreuter et al., 2000 ; Short, James, & Plotniko ﬀ,
+2013 ). According to the ELM, there are two routes to persuasion, the central route and the peripheral
+route. Information is processed via the central route when participants have the ability, opportunity,
+resources and motivation to process information more elaborately. It involves in-depth informationprocessing and thoughtful consideration of the information presented. Conversely, information pro-
+cessed via the peripheral route requires fewer resources and less motivation to process information,
+as it relies on the use of simple cognitive processes, such as the use of heuristics, biases, and a ﬀect
+(Petty & Cacioppo, 1986 ). Although persuasion can occur via either route, computer-tailoring inter-
+ventionists have focused almost exclusively on persuasion via the central route. Petty, Barden, andWheeler ( 2009 ) argue that this should result in longer lasting intervention eﬀ ects since attitude
+change that occurs via the central route should be relatively enduring and resistant to counter per-
+suasion compared to attitudes formed based on peripheral cues. This proposition is based on the
+implication that greater elaboration occurs in central route processing, which is thought to resultin the new information, or one’s personal translation of the new information, being integrated
+into the individuals underlying belief structure and committed to memory. The integration of infor-
+mation into one’ s belief structure increases the likelihood that incongruent messages will be disre-
+garded or critiqued.
+In most computer-tailored interventions, e ﬀorts to induce central route processing involve
+increasing the personal relevance of the health messages provided. For example, in a physical activityintervention, super ﬂuous information about exercising at work can be omitted if it is known that the
+message recipient is unemployed. Likewise, information of interest to the individual can be added iftheir main motivation for exercise is known (e.g., weight loss). According to the ELM, perceived per-sonal relevance is the primary factor for increasing motivation to process information elaborately
+(Cacioppo et al., 1996 ). When perceived personal relevance is high, message recipients are more
+likely to engage in central route processing. When perceived personal relevance is low motivation
+for elaborate processing wanes and recipients are more likely to engage in peripheral route proces-
+sing. On this basis, the goal of computer-tailored interventions has been to ensure that the relevance
+of the health messages provided is high. Consistent ﬁndings showing that computer-tailored inter-
+ventions are more likely to be read, remembered, discussed and perceived by the reader as interest-
+ing than non-tailored interventions support this practice (Brug et al., 1999 ; Kreuter et al., 2000 ;
+Spittaels, De Bourdeaudhuij, Brug, & Vandelanotte, 2006 ). However, it is possible that tailoring mess-
+ages based on other factors that inﬂ uence motivation and ability to process information may yield
+similar or even greater results.
+The ELM states that NFC also in ﬂuences motivation and ability to process information. Typically,
+those with a higher NFC are predisposed to process information via the central route and thosewith a lower NFC tend to process information via the peripheral route. Thus, to tailor information
+based on NFC, one could provide high NFC individuals with materials optimised for central route pro-cessing (e.g., messages containing statistics and facts) and those with a lower NFC with materials opti-
+mised for peripheral route processing (e.g., messages containing strong a ﬀective or credibility cues,
+seeFigure 1 ). This may facilitate deeper processing among those inclined to process information via
+the central route (i.e., those with high NFC), and ensure appropriate and persuasive peripheral cuesHEALTH PSYCHOLOGY REVIEW 439
+are available to those most likely to rely on these cues to form their attitudes and beliefs (i.e., those
+with low NFC). While some have argued that peripheral messages may lead to shorter-lasting inter-vention e ﬀects due to less ingrained attitude formation (Petty et al., 2009 ), this is not necessarily the
+case. Early behaviourist theories such as classical conditioning (Staats & Staats, 1958 ) as well as more
+contemporary dual process theories (Strack & Deutsch, 2004 ), are especially relevant to consider.
+According to these theories, attitudes (e.g., physical activity is pleasurable) and/or behavioural in ﬂu-
+ences (e.g., habits) may be formed and potentially sustained through exposure to repeated pairingsof two concepts. It may be possible to design peripheral route messages based on this concept. It isalso possible that peripheral route messages could reduce non-usage attrition in computer-tailored
+intervention through increased enjoyment (e.g., through use of humour as an a ﬀective cue, Zhang,
+1996 ) and/or a reduction in cognitive burden (associated with elaborative information processing;
+Petty & Cacioppo, 1986 ). These theory-based ideas are worth exploring in today ’s context, where
+the delivery of tailored messages using websites and mobile applications allows for repeated
+exposure at a low cost, and where non-usage attrition issues with central route style interventionsare consistently noted (and often attributed to a boring or taxing user experience; Short, Rebar, Plot-
+nikoﬀ , & Vandelanotte, 2015 ).
+Some studies, described in more detail below, suggest that tailoring messages based on NFC
+alone may enhance persuasion and produce positive intervention eﬀ ects on behaviour. However,
+a major limitation of this work, and arguably the tailoring ﬁeld in general, is that the interaction
+between NFC and personal relevance has rarely been considered. This is necessary as processing
+diﬀerences based on NFC are only hypothesised to exist when health promotion materials are
+Figure 1. Top left. Webpage designed for individuals with low NFC. Reducing cognitive load and relying on image to convey posi-
+tive bene ﬁts. Bottom images. Webpages designed for individuals with high NFC. Use of factual explanation to convey positive
+beneﬁts of exercise.440 I. NIKOLOUDAKIS ET AL.
+perceived as moderately relevant (Cacioppo et al., 1996 ). When messages are very high in relevance,
+all recipients are hypothesised to engage in elaborate processing, regardless of NFC. Likewise, when
+relevance is very low, all recipients are thought to employ peripheral route processing. Therefore, if
+computer-tailored interventions are e ﬀective in increasing relevance, then providing messages tai-
+lored based on NFC (especially with low NFC recipients) may become less persuasive. This would
+suggest that a detrimental interaction between NFC and relevance could be observed. Ultimately,
+this will depend on how much improvements in perceived relevance can be achieved via compu-
+ter-tailoring.
+Another thing to consider is that the central route and peripheral route processing systems may
+operate in parallel and interact to inﬂ uence each other. According to some dual process theories,
+Cognitive Experiential Self-Theory (Epstein, 2003 ) for example, non-conscious information processing,
+which is automatic, a ﬀect-based, and intuitive can bias conscious and rationale reasoning, including
+among those with high NFC. This implies that peripheral cues, which are automatically assessed whenviewing a stimuli, are still likely to have an impact on those with high NFC, albeit more indirectly. Forexample, when a person with high NFC receives a message, automatic processing of peripheral cues
+(e.g., heuristics about source, a ﬀective response) may bias message elaboration and in turn a ﬀect jud-
+gement (Epstein, 2003 ; Petty, Briñol, Loersch, & McCaslin, 2009 ; Wegener, Clark, & Petty, 2006 ). This
+would suggest that to optimise intervention materials for individuals with a high NFC both centralroute and peripheral route information processing should be considered.
+Practical considerations for future research
+Is tailoring on NFC likely to be e ﬀective?
+While dozens of randomised trials have examined the eﬃ cacy of tailoring based on demographics,
+psychosocial variables and behaviour (e.g., Lustria et al., 2013 ; Short et al., 2011 ; Wolfenden et al.,
+2015 ), to the best of our knowledge there are no randomised trials examining the impact of tailoring
+based on NFC compared to a control (e.g., usual care, wait-list). Research on this topic so far has
+focused on examining the impact of receiving matched versus mismatched NFC messages (whichis referred to as testing the ‘matching hypothesis ’). Exploring this research is valuable for considering
+the likely impact of tailoring based on NFC alone (i.e., where everyone receives a message matched totheir NFC). To this end, we conducted a narrative review of the literature. To identify key articles wesearched 10 databases (Google Scholar, PsycINFO, Scopus, PubMed, Embase, Psychology & Behav-
+ioural Sciences Collection, Medline, ClinicalKey Australia, CINAHL and Academic OneFile), using key-
+words (e.g., ‘need for cognition ’, and ‘health ’or‘behavior ’), and names of authors published in this
+area. From this, we identi ﬁed eight relevant studies (see Table 1 ). With one exception (Conner,
+Rhodes, Morris, McEachan, & Lawton, 2011 ), all examined whether tailoring messages based on
+NFC has an impact on social cognitive determinants of behaviour (e.g., intentions, attitudes,norms). However, only four assessed the impact on behaviour. One of these studies used an objective
+measure (Williams-Piehota, Schneider, Pizarro, Mowad, & Salovey, 2003 ), the remaining three utilised
+self-reported health behaviour measures (Conner et al., 2011 ; Latimer et al., 2008 ; Williams-Piehota,
+Pizarro, Navarro Silvera, Mowad, & Salovey, 2006 ).
+Of the seven studies examining impact of matched interventions on changes in social cognitive
+constructs, four reported increased persuasion when messages were matched based on NFC on at
+least one social cognitive outcome (Bakker, 1999 ; Braverman, 2008 ; Carnaghi, Cadinu, Castelli,
+Kiesner, & Bragantini, 2007 ; Conner et al., 2011 ; Vidrine, Simmons, & Brandon, 2007 ). However in
+one study this was observed for one sub-group only (occasional versus daily smokers; Vidrineet al., 2007 ), and in three of the studies it was observed for some social cognitive outcomes but
+not others (Bakker, 1999 ; Carnaghi et al., 2007 ; Vidrine et al., 2007 ). Furthermore, one study reported
+ﬁndings to the contrary of the matching hypothesis. Speci ﬁcally, Latimer et al. ( 2008 ) found that
+detailed messages were more e ﬀective with those with low NFC for increasing intentions thanHEALTH PSYCHOLOGY REVIEW 441
+Table 1. A review of studies assessing the e ﬀect of matching health messages to individuals ’NFC on persuasion and behaviour change.
+First author
+(date)Intervention
+target NFC measurePsychometric
+properties of
+NFC measureCut-o ﬀ
+measureMode of
+intervention Message typeRelevant outcome variables of
+interest Main ﬁndings
+Studies assessing whether tailoring messages based on need for cognition has an impact on the antecedents of behaviourBakker ( 1999 ) Condom use 18-item, 5-point NFC
+scale (JohnT. Cacioppo et al.,
+1984 )Cronbach ’s
+α= .81Median split Brochures High NFC message: concise,
+written information. Low NFC
+message: cartoon that was
+airy, humorous and less
+detailed. Control condition: nomessage.Knowledge about AIDS; attitude
+toward condom use; andsubjective norms regarding
+condom use.
+All assessments conducted insame sitting.Message type × NFC interaction was
+signiﬁcant for attitude toward
+condom use ( F(2, 113) = 3.06,
+p< .05)
+*†and subjective norms
+(F(2, 113) = 7.23, p< .001)*†but not
+for knowledge ( F< 1).
+Braverman
+(2008 )Water
+consumption18-item, 5-point NFC
+scale (Cacioppoet al., 1984 )Cronbach ’s
+α= .92Median split Written and audio Informational message: factual,
+impersonal, medically andprofessionally written.Testimonial message:
+contained the same
+information, presented as astory.Emotional absorption
+All assessments conducted insame sitting.Message type × NFC interaction was
+signiﬁcant for emotional absorption
+(F(1, 150) = 4.42, p< .04, d= .34).
+†§
+Carnaghi et al.
+(2007 )Safe sex
+behaviour18-item, 5-point NFC
+scale (JohnT. Cacioppo et al.,1984 ), translated
+in ItalianCronbach ’s
+α= .97Median split Pamphlets High NFC message: text only.
+Low NFC message: comic stripformat. Control condition: nomessage.Instrumental attitude
+(knowledge and attitudestoward HIV-preventablebehaviours); instrumentalnorm (subjective normsregarding safe sex behaviours
+and motivation to comply
+with them).Message type × NFC interaction was
+signiﬁcant for instrumental
+attitudes ( F(2, 102) = 327.99,
+p<.001)
+*†and instrumental norms
+(F(2, 102) = 343.36, p< .001).*†
+Vidrine et al.
+(2007 )Smokers ’health-
+risk perceptions18-item NFC scale
+(John T. Cacioppoet al., 1984 )Not assessed in
+study.N/A Pamphlets Factual pamphlet: described
+health risks associated withsmoking using logical, well-documented, and objectivelyveriﬁable information.
+Evaluative pamphlet:described the risks in terms of
+emotional, impressionistic
+and subjective statements.Control pamphlet: unrelatedto smoking.Smoking relevant knowledge;
+primary smoking-relevantrisk-perception outcomes(perceptions of absolutegeneral and speci ﬁc personal
+risk); secondary perceptionoutcomes (perceptions of
+speci ﬁc personal risk relative
+to other smokers, perceptions
+of risk speci ﬁc to women and
+men and perceptions ofgeneral risk); behaviouralexpectations of adopting thebehaviour.All assessments conducted insame sitting.For occasional smokers, NFC ×
+message type interactionsigniﬁcantly predicted perceptions
+of absolute general personal risk((β=–.74), t(90) = –2.49, p< .05)
+and perceptions of speci ﬁc risk
+relative to other smokers (( β
+=–.74), t(87) = –2.30 p< .05).
+*†
+No interaction e ﬀects on pamphlet-
+relevant knowledge andbehavioural expectations ofchanging smoking behaviour.For daily smokers, NFC × pamphlettype interaction was not related toany risk perception outcomes, orpamphlet-relevant knowledge and
+behavioural expectations of
+changing smoking behaviour.442 I. NIKOLOUDAKIS ET AL.
+Studies assessing whether tailoring messages based on need for cognition has an impact on behaviour
+Latimer et al.
+(2008 )Discussing cancer
+clinical trialswith physiciansThree items from the
+NFC scale(Cacioppo et al.,
+1984 ) (baseline
+measure); 18-
+item, 5-point NFCscale(John T. Cacioppoet al., 1984 )
+(mailed survey)Cronbach ’s
+α= .72 (3-
+item scale);
+Cronbach ’s
+α= .86
+(mailed
+survey)Low NFC was
+–1 SD from
+mean NFC
+score and
+high NFCwas +1 SDfrom meanNFC scorePhone messages
+and informationbookletsDetailed message: included
+more statistics and in-depthdescriptions of clinical trials.
+Non-detailed message:
+provided basicinformation and messagecues (e.g. celebrity advocacy).Social Cognitive Determinant
+Intention of discussing clinicaltrials with their physician;
+participants ’understanding of
+clinical trials
+BehaviourWhether participants haddiscussed clinical trialinformation with theirphysicians).Assessed three points in time(baseline, 1 week, 6 weeks
+post-baseline).Social Cognitive Determinant
+Message type × NFC interaction
+was not signi ﬁcant for
+understanding. However, theinteraction was signi ﬁcant for
+intentions ( R
+2
+change = .03, β=–.23,
+p= .02).‡§Low NFC individuals in
+the detailed condition had greater
+intentions than low NFC individualsin the non-detailed condition. Nodiﬀerences in intention observed
+for individuals with High NFC based
+on message type.
+BehaviourNo NFC × message interaction onbehaviour.
+Conner et al.
+(2011 )Exercise behavior 18-item, 5-point NFC
+scale (JohnT. Cacioppo et al.,1984 )Cronbach ’s
+α= .81Median split Not speci ﬁed Cognitive message:
+stated instrumental bene ﬁts
+of exercise (e.g. regularexercise reduces risk ofcancer). A ﬀective message:
+stated aﬀ ective bene ﬁts of
+exercise (e.g. regular physicalactivity reduces anxiety). No-message control condition.Behaviour
+Self-reported exercisebehaviour.Assessed at baseline and threeweeks post-baseline.Behaviour
+Time × condition × NFC interactionwas signi ﬁcant ( F(2, 110) = 4.89,
+p< .01, d= 0.60).
+In the low NFC group, exercise
+behaviour signi ﬁcantly increased
+across time points in the a ﬀective
+message condition ( t(14) = 6.23,
+p< .001), but not in the control or
+cognitive message conditions ( t<
+1.4). This was observed among
+individuals with high NFC as well,but was due to baseline exercisediﬀerences between the three
+conditions. It was concluded thatthe impact of aﬀ ective messages on
+exercise behaviour was onlyconsistent for individuals with lowNFC.
+Williams-
+Piehota et al.(2003 )Mammography
+utilizationThree items from the
+NFC scale(John T. Cacioppoet al., 1984 )Cronbach ’s
+α= .69Median split Phone messages,
+refrigeratormagnets andpamphlets.High NFC messages:
+emphasised the facts,included statistics andencouraged mammography
+utilization in a detailed
+manner.Low NFC messages: fewerdetails on each subtopic,included celebrity advocacy.Social cognitive determinants
+Intention of getting amammographyBehaviour mammography
+utilization.Assessed immediately afterphone message, six monthsand 12 months later.Social cognitive determinants
+No main e ﬀects. NFC × message
+type interaction not signi ﬁcant.
+Behaviour
+At
+6-month follow-up participants
+receiving matched messages were
+2.77 times more likely to get amammogram than participantswith mismatched messages,however NFC × message typeinteraction not signi ﬁcant ( p= .07).
+Also no signi ﬁcant interaction at 12
+months.
+(Continued )HEALTH PSYCHOLOGY REVIEW 443
+Table 1. Continued.
+First author
+(date)Intervention
+target NFC measurePsychometric
+properties of
+NFC measureCut-o ﬀ
+measureMode of
+intervention Message typeRelevant outcome variables of
+interest Main ﬁndings
+Williams-
+Piehota et al.(2006 )Fruit and
+vegetableintakeThree items from the
+NFC scale(Cacioppo et al.,1984 )Cronbach ’s
+α= .77Median split Phone messages,
+brochures; ‘5a
+day ’pencil;
+refrigerator
+magnets; recipe
+cards; tip card.Participants inreceived a briefeducationalmessage andthree mailingsover four months.Complex messages: emphasised
+facts and was detailed,provided more scienti ﬁc
+evidence and less pictures
+compared to low NFC
+message. Simple messages:contained more pictures thanthe high NFC condition andincluded celebrity advocacy.Social Cognitive determinants
+Motivation to increase fruitand vegetable; intention toconsume more fruit and
+vegetables; knowledge of
+current fruit and vegetableguidelines. Assessed atbaseline, one month and fourmonths follow-up.BehaviourFruit and vegetable intakemeasured using foodfrequency questionnaire at
+baseline, one month and four
+months follow-up.Social Cognitive determinants
+Main e ﬀect at 1 months but not 4
+months on intentions, with morecomplex messages resulting in
+greater intentions. No main e ﬀect
+of message type on knowledge. No
+NFC × message interaction on anyoutcomes.BehaviourMain e ﬀect at 1 and 4 months, with
+participants receiving morecomplex messages reportinggreater behaviour change. No
+NFC × message type interaction at
+either time-point.
+Notes: NFC: need for cognition; SD: standard deviation.* Individuals high in need for cognition were more persuaded by the central route message than the peripheral route message.
+†Individuals low in need for cognition were more persuaded by the peripheral route message than the central route message.
+§Individuals high in need for cognition were equally persuaded by the central route and peripheral route messages.
+‡Individuals low in need for cognition were more persuaded by the central route message.444 I. NIKOLOUDAKIS ET AL.
+simple messages. Of the four studies assessing behavioural outcomes, only one reported a signi ﬁcant
+interaction between NFC and message type on behaviour. This study partially supports the matching
+hypothesis. Conner et al. ( 2011 ) reported that a ﬀective messages were overall more e ﬀective than
+cognitive messages at increasing exercise participation for those with low NFC. However, messagetype was not associated with behaviour change among those with high NFC.
+Overall, the results of these studies suggest that tailoring based on NFC may have an impact on
+intervention persuasion (changes in social cognitive determinants) and possibly eﬃcacy, however,the evidence-base is mixed and inconclusive. Further investigation is needed as to why the matchinghypothesis has not been supported in some studies. This may be due to di ﬀerences in intervention
+modality (e.g., print versus telephone), targets (determinants of behaviour versus behaviour change;and di ﬀerences in behaviours) and/or content, including how peripheral cues are used in each con-
+dition (Epstein, 2003 ). It could also be a function of the way NFC is operationalised (e.g., ‘aﬀective ’vs
+‘cognitive ’,‘simple message ’vs‘complex message ’), measured (e.g., questionnaire using three items
+or 18 items) and/or categorised (e.g., median split versus distance from mean; see Table 1 ). The inter-
+vention content can impact directly on the persuasion process (based on the communication strat-
+egies chosen), and thus future research in this area is particularly needed. Consideration of the
+Cognitive Experiential Self Theory (Epstein, 2003 ) is recommended.
+Whether or not NFC should be tailored in conjunction with other state or person-level factors are
+another area requiring further investigation. Our search did not identify any studies in this area,although one study examined the moderating role of NFC in a smoking cessation intervention inwhich tailoring was based on psychosocial determinants of behaviour and smoking behaviour
+(Haug et al., 2010 ). In this study, NFC was assessed at baseline and found to moderate intervention
+eﬀects on smoking cessation self-e ﬃcacy, with the tailored intervention resulting in higher self-
+eﬃcacy in high NFC individuals only. These ﬁndings suggest that tailoring psychosocial messages
+to increase relevance and thus increase central route processing, may not be as eﬀ ective at persuad-
+ing individuals with a low NFC. For them, messages that evoke positive emotions and rely on other
+peripheral cues may be more e ﬀective (Chartrand, van Baaren, & Bargh, 2006 ). To examine this
+further, future tailoring studies should assess NFC, personal relevance and current states such asaﬀect, emotions, and self-control. Additionally, it is important for future eﬀ orts to explore moderating
+eﬀects on intervention outcomes. Experimental studies comparing di ﬀerent types of tailoring (e.g.,
+NFC only versus various other variables or both) should also be conducted. Studies exploring tailoringbased on a ﬀective state are particularly encouraged, given that a ﬀect can in ﬂuence information pro-
+cessing outside of conscious awareness, and that this may manifest in di ﬀerent ways among those
+with high and low NFC (Epstein, 2003 ; Petty et al., 2009 ;
+Wegener et al., 2006 ). As such, it may be
+necessary to adapt messages based on both a ﬀective state and NFC. A greater understanding of
+how these two variables interact (and the in ﬂuence of other possible state or trait moderators) is
+needed to guide further research in this area. Such research may help to guide the developmentof more persuasive computer-tailored interventions. This may boost the eﬃcacy of these interven-tions through larger changes in social cognitive determinants than has previously been achieved,
+however additional strategies (e.g., self-monitoring, point-of-decision prompts) may be needed to
+help bridge the intention-behaviour gap (Webb & Sheeran, 2006 ).
+How to assess NFC: decreasing or eliminating response burden
+Tailored messages are usually selected based on users ’responses to one or more assessments. Ideally,
+questionnaires should be short to reduce the response burden of participants and ensure a positiveuser experience of the intervention (Rolstad, Adler, & Rydén, 2011 ). The most commonly used self-
+report measure of NFC, as indicated in Table 1 , is the 18-item NFC scale (Cacioppo, Petty, & Feng
+Kao, 1984 ). Higher values on the NFC scale represent higher NFC. While this scale has strong
+psychometric properties (Cacioppo et al., 1984 ; Cacioppo et al., 1996 ; Forsterlee & Ho, 1999 ; Petty,
+Cacioppo, & Kao, 1984 ; Sadowski, 1993 ; Waters & Zakrajsek, 1990 ), the length is suboptimal for aHEALTH PSYCHOLOGY REVIEW 445
+computer-tailored intervention, especially if other tailoring variables also need to be measured prior
+to providing personalised feedback. To address this issue, some researchers have used only threeitems from the 18-item scale, selected for their high factor loadings (Latimer et al., 2008 ; Williams-
+Piehota et al., 2003 ; Williams-Piehota et al., 2006 ). As the 3-item scale ’s psychometric properties
+were previously unknown, we compared the internal structure of the 18-item scale to the 3-itemscale.
+Cross-sectional data for these analyses were collected during November –December 2014 from indi-
+viduals who are part of the Longitudinal Internet Studies for the Social Sciences (LISS) Panel (Wave 7) forCentERdata in Tilburg University, Netherlands. Every year, a large Internet-based survey is administered
+to the LISS Panel. The Panel is representative of the Dutch population aged 16 years or older as it is
+based on a probability sample of households drawn from the population register (Bruinsma &Crutzen, 2018 ;D eV o s , 2010 ). Panel members provided informed consent and the con ﬁdentiality of par-
+ticipants ’responses was maintained. While the survey assesses a number of domains (such as edu-
+cation, personality and political views) for the purposes of these analyses, only demographics andresponses to the 18-item NFC scale scored on a 7-point Likert scale (response options range 0 –6;
+scale range 0 –108) were used. Analyses were conducted using Stata version 11 (StataCorp, 2009 )
+and R (Team, 2015 ). LISS panel members, consisting of 7739 individuals, were invited to complete
+the survey and 6561 (84.8%) responded. Respondents who omitted one or more items from the
+NFC scale were excluded from the analyses ( N= 116, 1.77%), producing a dataset of 6445 participants.
+This sample consisted of 53% females. Respondents, on average, were 45 years of age (SD = 17.58) and
+the NFC mean sum score was 59.79 (SD = 16.66; range = 0 –108; see Figure 2 ).
+The results revealed that there was a strong positive correlation between the 18-item and 3-item
+NFC scales ( r= .86, p< .001). Unidimensionality of the 3-item scale was con ﬁrmed through explora-
+tory factor analysis (see Appendix 1). Interestingly, a two-factor solution was identi ﬁed as the best
+ﬁt for the 18-item scale, consisting of a dominant ﬁrst component with nine positively framed
+items and a second component based on nine negatively framed items. This has been observed pre-viously (Bors, Vigneau, & Lalande, 2006 ; Vigneau & Lalande, 2006 ), and has been attributed to the
+impact of vocabulary when interpreting the negatively worded items (Bors et al., 2006 ). This may
+have implications for tailoring based on NFC scores when using the 18-item scale, especially in popu-lations where verbal abilities are low. In such cases, it may be more desirable to use the 3-item scale.
+Figure 2. The distribution of NFC scores among participants in the LISS Panel ( N= 6445). Scale range is 0– 108. Mean = 59.79 (SD =
+16.66), Median = 59.446 I. NIKOLOUDAKIS ET AL.
+Overall, the internal structure of the 3-item scale, based on Omega (McDonald, 2013 ), appears reason-
+able. While all studies reported in Table 1 used Cronbach ’s alpha to assess the internal structure of the
+NFC scale, except for Vidrine et al. ( 2007 ), Omega is a more accurate index of a scale ’s internal struc-
+ture (Crutzen & Peters, 2017 ; McNeish, 2018 ) as its assumptions are more likely to be met (i.e., alpha
+relies on the essentially tau-equivalent model, which assumes unidimensionality and equal variances
+of, and covariances between, items). The Omega of the 3-item scale was 0.76. (95% CI: .75, .77). This
+was lower than the Omega of the 18-item scale (Omega = .89, 95% CI: .89, .90), but remains satisfac-
+tory. On balance, this reduction in reliability may be outweighed by the advantage of the 3-item scaleto reduce survey fatigue in participants, and possibly be less confounded by participants ’verbal abil-
+ities. Given this, the 3-item scale seems a suitable measure to use in computer-tailored health behav-iour interventions studies, although further research is needed to assess its other psychometricproperties, including the content validity and test– retest reliability of the scale (DeVellis, 2016 ).
+Another option for reducing response burden would be to avoid self-administered NFC surveys
+and simply allow participants to self-select the type of health behaviour message they would liketo receive (Carnaghi et al., 2007 ). This could be facilitated by showing a preview of message
+options or by describing options to users (e.g., ‘Would you prefer motivational or factual messages? ’
+Or‘Would you prefer to read a comic or a health brochure to learn about HIV? ’). This would allow
+users to select messages based on their processing preferences (Ferguson, Chung, & Weigold,
+1985 ), and also based on their current state (e.g., mood and level of fatigue). This may improve atten-
+tion to the message and increase the likelihood of positive a ﬀect when processing. With individuals
+free to select the version that appealed to them most, feelings of autonomy may be greater, whichmay then increase internal motivation to engage with the intervention (Morrison, 2015 ). The appro-
+priateness of this approach will depend on whether or not it is possible to communicate clearly the
+message type. In some circumstances, it may be better for participants to be naïve of the messaging
+strategy (e.g., to reduce demand characteristics, whereby participants change their behaviour to
+conform to researcher expectations). It will also depend on whether or not message preferencesmap to processing tendency, and the relationship between current a ﬀective state, NFC, and
+message type. This requires further examination.
+How to determine cut-o ﬀpoints based on the (continuous) NFC variable
+Researchers using a self-report measure to assess NFC, such as the 18-item or 3-item NFC scales, facethe problem of determining rational cut-points to tailor the content (e.g., when are participants
+Table 2. Cut-point methods and values of population data to categorise participants based on need for cognition.
+MethodCut-point description
+(assuming a normal distribution)Cut-points using LISS
+Panel data ( N= 6445).
+Median split
+Low NFC Median and below ≤59
+High NFC Above median >59
+Three categories based on SDs
+Low NFC < –1 SD; 16% of population 0– 43.13
+Moderate NFC 1 SD < 0 > –1 SD; 68% of population 43.14 –76.46
+High NFC > 1 SD; 16% of population 76.47 –108
+Five categories based on SDs
+Very low NFC < –2 SD; 2.5% 0– 26.47
+Low NFC 13.5% 26.48 –43.13
+Moderate NFC 1 SD < 0 > –1 SD; 68% of population 43.14 –76.46
+High NFC 13.5% 76.47 –93.12
+Very high NFC >2 SD; 2.5% 93.13 –108
+Tertile
+Low NFC 1/3 of population 0– 53
+Moderate NFC 1/3 of population 54 –67
+High NFC 1/3 of population 68 –108
+Notes: NFC: need for cognition; SD: standard deviation.HEALTH PSYCHOLOGY REVIEW 447
+considered as having a high NFC?). Table 2 presents several possible cut-point methods (e.g., median
+split, standard deviation from the mean, tertiles) and their respective values, based on the LISS panel
+data described above.
+As indicated in Table 1 , the most common method of categorising individuals as low versus high in
+NFC has been the median split. However, given that NFC is a continuous variable that is likely to benormally distributed (see Figure 2 ), this approach is problematic. It ignores that most individuals have
+a moderate NFC, and treats those that fall on either side of the median as quanti ﬁably and arti ﬁcially
+diﬀerent when, in reality, they are very similar. Although Table 1 demonstrates that some studies
+were able to ﬁnd a statistically signi ﬁcant e ﬀect of NFC categorisation on the target health behaviour
+or its antecedents, it is arguable that the e ﬀect size of these ﬁndings would have been greater had
+another (more appropriate) approach been used to categorise participants (Fitzsimons, 2008 ). The
+median-split approach also provides little insight into how those with a moderate NFC respond to
+materials optimised for central or peripheral route processing.
+Another option is to split NFC into three levels. This could be achieved by using tertiles (each con-
+taining one-third of the population) or it could be based on the standard deviation from the mean ofthe population. Those close to the boundaries will still be similar to one another, however, this
+approach at least allows con ﬁdence that those categorised as being low and high in NFC will be dis-
+similar. As such, both of these approaches would allow developers to better match messages to NFC
+level than the median split (at least for very low and very high scores). Of the two methods, using the
+standard deviation to categorise NFC into three parts may be preferable. This approach recognisesthat NFC is normally distributed in the population (see Figure 2 ), whereas the tertile split erroneously
+assumes that there are an equal proportion of individuals with low, moderate and high NFC in thepopulation. However, it should be noted that using this approach will result in the majority of partici-pants (68% based on Table 2 ) being categorised as moderate in NFC, and thus most participants
+receiving the same messages.
+Additional categories (e.g., using ﬁve categories by including a ‘very low NFC ’group and a ‘very
+high NFC ’group) may assist researchers to better capture the individual variability of the NFC con-
+struct. However, it is unclear how such tailored messages could be operationalised, and whetherthe additional time and cost of creating additional sets of messages would be warranted. Giventhis, the use of three categories appears to strike the best balance between capturing the individual
+variability of the NFC construct, while ensuring the feasibility of designing a health promotion
+message for each NFC category. This requires further investigation. To this end, researchers areencouraged to provide a detailed rationale of the cut-point used and to perform post hoc analyses
+exploring their validity. For example, where a median split is used, researchers could conduct a recei-ver operating characteristic (ROC) analyses post hoc to determine how the utilised cut-point (i.e.,
+median split) di ﬀers from the cut-point deemed optimal (in terms of speci ﬁcity and sensitivity) for
+detecting intervention e ﬀects (Lasko, Bhagwat, Zou, & Ohno-Machado, 2005 ).
+Operationalising health promotion messages tailored based on NFC
+To develop health promotion messages for each NFC category, researchers ﬁrst need to operationa-
+lise the NFC construct. As indicated in Table 1 , there is considerable variability in how this can be
+achieved. This is particularly so for messages targeting low NFC individuals, as there are several poss-ible cues to focus on, including simple cues (e.g., source credibility, visual appeal, emotions) as well asmental shortcuts (e.g., ‘experts are correct’). As previous studies have favoured some cues over others,
+or focused on di ﬀerent combinations of cues when designing messages, low NFC materials have
+varied considerably between studies. Vidrine et al. ( 2007 ), for example, considered low NFC individ-
+uals to rely more on emotional responses when evaluating information, and hence designed their low
+NFC smoking cessation materials to communicate health risks via emotional, impressionistic and sub-
+jective statements rather than facts. In contrast, Williams-Piehota et al. ( 2003 ) described individuals
+with low NFC as low in motivation to employ cognitive eﬀ ort to process detailed health information,448 I. NIKOLOUDAKIS ET AL.
+and thus designed mammogram screening materials that were simplistic, and used a celebrity endor-
+sement to reinforce the limited details presented. Owing to the heterogeneity of studies (in terms ofintervention targets, length and methodological quality), it is di ﬃcult to determine if certain periph-
+eral cues or combinations of peripheral cues are more persuasive than others. This is likely to dependon the context of the intervention. To help advance knowledge in this area, it is recommended thatresearchers describe in detail the theory and evidence-base behind the strategies they use, provide
+examples of messages to facilitate replication of ﬁndings and conduct more experimental studies to
+investigate what peripheral cues may be most salient for whom and in what circumstances.
+Another factor needing further consideration is how to design messages for those with mod-
+erate NFC, and in particular, to determine whether a hybrid approach can be used. When consid-
+ering this point, it is important to recognise that the same content can be processed via either theperipheral or central route, depending on the cues being exploited. For example, information on
+the source of a message can have an impact on attitudes because it has been carefully considered
+and the recipient ﬁnds it credible (central route processing) or because the recipient has used a
+mental short cut, such as ‘information from scientists is trustworthy’ (peripheral route processing).
+As such, it may be possible to design messages in a way that allow for both peripheral and centralroute processing. This could be ideal for those with a moderate NFC, or indeed may reduce theoverall need for tailoring based on NFC when personal relevance is moderate to high. This is an
+important area for future research, given that the LISS panel data suggest that the majority of the
+population may have moderate levels of NFC, and given that computer-tailored interventions tendto be perceived as at least moderately personally relevant (Short et al., 2017 ; Ezendam, Noorde-
+graaf, Kroeze, Brug, & Oenema, 2012 ; Hayman et al., 2017 ; Kanera et al., 2016 ). The extent to which
+this can be achieved will ultimately depend on how compatible the two messaging approachesare. Though persuasion is often discussed as occurring by two distinct routes, in practice proces-
+sing via these routes stretches across a continuum, ranging from subconscious processes to
+minimal conscious processes to more elaborate conscious processes (Petty, Barden, & Wheeler,2002 ). How strategies exploiting the processing across this continuum could be combined to
+better persuade individuals with low, moderate and high NFC, as well as the implications ofdoing so, clearly requires further investigation. It may be possible to design a single set ofmaterials that appeal to all levels of NFC.
+Conclusion
+This paper has discussed key theoretical and practical considerations regarding the tailoring ofhealth behaviour messages based on an individual ’s level of NFC. It is hoped that the information
+presented within will assist researchers to operationalise and measure NFC and consider the impli-cations of developing and evaluating a new generation of tailored interventions; that is, interven-tions that adapt not just the message content, but also how the message is presented. To
+progress science in this area, researchers developing such interventions are encouraged todescribe clearly their messaging approach (including theoretical reasoning), consider the role ofperceived personal relevance and a ﬀect on message processing, factor in those with moderate
+NFC when designing intervention materials (given that they likely represent the majority of thepopulation), and to examine intervention e ﬃcacy in terms of both persuasion (changes in deter-
+minants) and behaviour change. Research focused on behaviour change outcomes is particularly
+needed, given the paucity of e ﬃcacy studies conducted to date, and the mixed nature of the evi-
+dence available.
+Acknowledgements
+This article partly draws on data of the LISS panel of CentERdata.HEALTH PSYCHOLOGY REVIEW 449
+Disclosure statement
+No potential con ﬂict of interest was reported by the authors.
+Funding
+ALR (ID1105926) and CES (ID 1090517) are funded by the National Health and Medical Research Council of Australia. MJD
+(ID100029) and CV (ID100427) are funded through a Future Leader Fellowship from the National Heart Foundation of
+Australia. IAN was funded by Adelaide Summer Research Scholarships (Adelaide Medical School, University of Adelaide)in 2015 –2016 and 2016 –2017.
+ORCID
+R. Crutzen http://orcid.org/0000-0002-3731-6610
+M. J. Duncan http://orcid.org/0000-0002-9166-6195
+References
+Abraham, C., & Sheeran, P. ( 2015 ). The health behavior model. In M. C. P. Norman (Ed.), Predicting health behavior (pp. 28–
+80). Philadelphia, PA: Open University Press.
+Ajzen, I. ( 1985 ). From intentions to actions: A theory of planned behavior. In J. Kuhl & J. Beckman (Eds.), Action-control:
+From cognition to behavior (pp. 11 –39). Heidelberg: Springer.
+Bakker, A. B. ( 1999 ). Persuasive communication about AIDS prevention: Need for cognition determines the impact of
+message format. AIDS Education and Prevention ,11(2), 150.
+Bandura, A. ( 1986 ).Social foundations of thought and action: A social cognitive theory . Englewood Cli ﬀs, NJ: Prentice-Hall.
+Bandura, A. ( 2004 ). Health promotions by social cognitive means. Health Education and Behaviour ,31.doi:10.1177/
+1090198104263660
+Bors, D. A., Vigneau, F., & Lalande, F. ( 2006 ). Measuring the need for cognition: Item polarity, dimensionality, and the
+relation with ability. Personality and Individual Di ﬀerences ,40(4), 819 –828.
+Braverman, J. ( 2008 ). Testimonials versus informational persuasive messages: The moderating e ﬀect of delivery mode
+and personal involvement. Communication Research, 35(5), 666 –694.
+Brug, J., Steenhuis, I., van Assema, P., Glanz, K., & De Vries, H. ( 1999 ). Computer-tailored nutrition education: Di ﬀerences
+between two interventions. Health Education Research ,14(2), 249 –256.
+Bruinsma, J., & Crutzen, R. ( 2018 ). A longitudinal study on the stability of the need for cognition. Personality and Individual
+Diﬀerences ,127, 151 –161.
+Cacioppo, J. T., & Petty, R. E. ( 1982 ). The need for cognition. Journal of Personality and Social Psychology ,42(1), 116.
+Cacioppo, J. T., Petty, R. E., Feinstein, J. A., & Jarvis, W. B. G. ( 1996 ). Dispositional di ﬀerences in cognitive motivation: The
+life and times of individuals varying in need for cognition. Psychological Bulletin ,119(2), 197.
+Cacioppo, J. T., Petty, R. E., & Feng Kao, C. ( 1984 ). The e ﬃcient assessment of need for cognition. Journal of Personality
+Assessment ,48(3), 306 –307. doi:10.1207/s15327752jpa4803_13
+Carnaghi, A., Cadinu, M., Castelli, L., Kiesner, J., & Bragantini, C. ( 2007 ). The best way to tell you to use a condom: The
+interplay between message format and individuals ’level of need for cognition. AIDS Care ,19(3), 432 –440.
+Chartrand, T. L., van Baaren, R. B., & Bargh, J. A. ( 2006 ). Linking automatic evaluation to mood and information processing
+style: Consequences for experienced a ﬀect, impression formation, and stereotyping. Journal of Experimental
+Psychology. General ,135(1), 70– 77.doi:10.1037/0096-3445.135.1.70
+Conner, M., Rhodes, R. E., Morris, B., McEachan, R., & Lawton, R. ( 2011 ). Changing exercise through targeting a ﬀective or
+cognitive attitudes. Psychology and Health ,26(2), 133 –149.
+Crutzen, R., & Peters, G.-J. Y. ( 2017 ). Scale quality: Alpha is an inadequate estimate and factor-analytic evidence is needed
+ﬁrst of all. Health Psychology Review ,11(3), 242 –247.
+De Vos, K. ( 2010 ). Representativeness of the LISS-panel 2008, 2009, 2010. CentERdata, Tilburg .
+DeVellis, R. F. ( 2016 ).Scale development: Theory and applications (Vol. 26) . Newbury Park, CA: Sage.
+Epstein, S. ( 2003 ). Cognitive-experiential self-theory of personality. In T. Millon & M. J. Lerner (Eds.), Handbook of psychol-
+ogy: Personality and social psychology (pp. 159 –184). Hoboken, NJ: John Wiley & Sons Inc.
+Ezendam, N., Noordegraaf, V., Kroeze, W., Brug, J., & Oenema, A. ( 2012 ). Process evaluation of FATaintPHAT, a computer-
+tailored intervention to prevent excessive weight gain among Dutch adolescents. Health Promotion International ,28
+(1), 26– 35.
+Ferguson, M., Chung, M., & Weigold, M. ( 1985 ).Need for cognition and the medium dependency components of reliance and
+exposure . Paper presented at the meeting of the International Communication Association, Honolulu, HI.450 I. NIKOLOUDAKIS ET AL.
+Fitzsimons, G. J. ( 2008 ). Death to dichotomizing. Journal of Consumer Research ,35(1), 5– 8.
+Forsterlee, R., & Ho, R. ( 1999 ). An examination of the short form of the need for cognition scale applied in an Australian
+sample. Educational and Psychological Measurement, 59(3), 471 –480.
+Fuller, T., & Kroese, F. ( 2015 ). Tailor made for health psychology: Issues in the design and e ﬀectiveness of internet inter-
+ventions. European Health Psychologist, 17(1), 2– 5.
+Haug, S., Meyer, C., Ulbricht, S., Gross, B., Rumpf, H.-J., & John, U. ( 2010 ). Need for cognition as a predictor and a moderator
+of outcome in a tailored letters smoking cessation intervention. Health Psychology ,29(4), 367.
+Hayman, M., Reaburn, P., Browne, M., Vandelanotte, C., Alley, S., & Short, C. E. ( 2017 ). Feasibility, acceptability and e ﬃcacy
+of a web-based computer-tailored physical activity intervention for pregnant women-the Fit4Two randomised con-
+trolled trial. BMC Pregnancy and Childbirth ,17(1), 96.
+Kanera, I. M., Willems, R. A., Bolman, C. A., Mesters, I., Zambon, V., Gijsen, B. C., & Lechner, L. ( 2016 ). Use and appreciation of
+a tailored self-management eHealth intervention for early cancer survivors: Process evaluation of a randomized con-
+trolled trial. Journal of Medical Internet Research ,18(8).
+Kreuter, M. W., Farrell, D. W., Olevitch, L. R., & Brennan, L. K. ( 2000 ).Tailoring health messages: Customizing communication
+with computer technology . Routledge.
+Kwasnicka, D., Vandelanotte, C., Rebar, A., Gardner, B., Short, C., Duncan, M., …Hagger, M. S. ( 2017 ). Comparing motiva-
+tional, self-regulatory and habitual processes in a computer-tailored physical activity intervention in hospital employ-ees–protocol for the PATHS randomised controlled trial. BMC Public Health ,17(1), 518.
+Lasko, T. A., Bhagwat, J. G., Zou, K. H., & Ohno-Machado, L. ( 2005 ). The use of receiver operating characteristic curves in
+biomedical informatics. Journal of Biomedical Informatics ,38(5), 404 –415.
+Latimer, A. E., Williams-Piehota, P., Katulak, N. A., Cox, A., Salovey, P., & Mowad, L. ( 2008 ). Encouraging cancer patients to
+talk to their physicians about clinical trials: Considering patients ’information needs. Journal of Applied Biobehavioural
+research ,12(3-4), 178 –195.
+Lustria, M. L. A., Noar, S. M., Cortese, J., Van Stee, S. K., Glueckauf, R. L., & Lee, J. ( 2013 ). A meta-analysis of web-delivered
+tailored 
+health behavior change interventions. Journal of Health Communication ,18(9), 1039 –1069.
+McDonald, R. P. ( 2013 ).Test theory: A uni ﬁed treatment . New York: Psychology Press.
+McNeish, D. ( 2018 ). Thanks coeﬃ cient alpha, we ’ll take it from here. Psychol Methods ,23(3), 412 –433.
+Morrison, L. G. ( 2015 ). Theory-based strategies for enhancing the impact and usage of digital health behaviour change
+interventions: A review. Digital Health ,1, 2055207615595335.
+O’Keefe, D. J., & Jensen, J. D. ( 2007 ). The relative persuasiveness of gain-framed loss-framed messages for encouraging
+disease prevention behaviors: A meta-analytic review. Journal of Health Communication, 12(7), 623 –644.
+Peters, G.-J. Y., & Crutzen, R. ( 2017 ). Pragmatic nihilism: How a theory of nothing can help health psychology progress.
+Health Psychology Review ,11(2), 103 –121. doi:10.1080/17437199.2017.1284015
+Petty, R. E., Barden, J., & Wheeler, S. C. ( 2002 ). The elaboration likelihood model of persuasion: Health promotions that
+yield sustained behavioral change. In R. DiClemente, R. Crosby, & M. Kegler (Eds.), Emerging theories in health pro-
+motion practice and research: Strategies for improving public health (pp. 71 –99). San Francisco: Jossey-Bass.
+Petty, R. E., Barden, J., & Wheeler, S. C. ( 2009 ). The elaboration likelihood model of persuasion: Developing health pro-
+motions for sustained behavioral change. In R. J. DiClemente, R. A. Crosby, & M. C. Kegler (Eds.), Emerging theories
+in health promotion practice and research (pp. 185 –214). San Francisco, CA: Jossey-Bass
+Petty, R. E., Briñol, P., Loersch, C., & McCaslin, M. J. ( 2009 ). The need for cognition. In M. R. Leary & R. H. Hoyle (Eds.),
+Handbook of individual di ﬀerences in social behavior (pp. 318 –329). New York, NY: Guilford Press.
+Petty, R. E., & Cacioppo, J. T. ( 1986 ). The elaboration likelihood model of persuasion. Advances in Experimental Social
+Psychology ,19, 123 –205.
+Petty, R. E., Cacioppo, J. T., & Kao, C. F. ( 1984 ). The e ﬃcient assessment of need for cognition. Journal of Personality
+Assessment ,48(3), 306–307.
+Rolstad, S., Adler, J., & Rydén, A. ( 2011 ). Response burden and questionnaire length: Is shorter better? A review and meta-
+analysis. Value in Health ,14(8), 1101 –1108.
+Staats, A. W., & Staats, C. K. ( 1958 ). Attitudes established by classical conditioning. The Journal of Abnormal and Social
+Psychology ,57(1), 37 –40.
+Sadowski, C. J. ( 1993 ). An examination of the short need for cognition scale. The Journal of Psychology ,127(4), 451 –454.
+Short, C. E., James, E. L., & Plotniko ﬀ,R .C .( 2013 ). Theory-and evidence-based development and process evaluation of the
+move more for life program: A tailored-print intervention designed to promote physical activity among post-treat-
+ment breast cancer survivors. International Journal of Behavioral Nutrition and Physical Activity ,10(1), 124.
+Short, C. E., James, E. L., Plotniko ﬀ, R. C., & Girgis, A. ( 2011 ). Eﬃ cacy of tailored-print interventions to promote physical
+activity: A systematic review of randomised trials. International Journal of Behavioral Nutrition and Physical Activity ,
+8(1), 113.
+Short, C. E., Rebar, A. L., Plotniko ﬀ, R. C., & Vandelanotte, C. ( 2015 ). Designing engaging online behaviour change inter-
+ventions: A proposed model of user engagement. European Health Psychologist ,17(1), 32 –38.
+Short, C. E., James, E. L., Rebar, A. L., Duncan, M. J., Courneya, K. S., Plotniko ﬀ, R. C., . . . Vandelanotte, C. ( 2017 ). Designing
+more engaging computer-tailored physical activity behaviour change interventions for breast cancer survivors:
+lessons from the iMove More for Life study. Support Care Cancer ,25(11), 3569 –3585.HEALTH PSYCHOLOGY REVIEW 451
+Smit, E. S., Linn, A. J., & van Weert, J. C. ( 2015 ). Taking online computer-tailoring forward: The potential of tailoring the
+message frame and delivery mode of online health behaviour change interventions. European Health Psychologist,
+17(1), 25 –31.
+Spittaels, H., De Bourdeaudhuij, I., Brug, J., & Vandelanotte, C. ( 2006 ). Eﬀectiveness of an online computer-tailored physical
+activity intervention in a real-life setting. Health Education Research ,22(3), 385 –396.
+Spittaels, H., De Bourdeaudhuij, I., & Vandelanotte, C. ( 2007 ). Evaluation of a website-delivered computer-tailored inter-
+vention for increasing physical activity in the general population. Preventive Medicine ,44(3), 209 –217.
+StataCorp, L. ( 2009 ).Stata version 11.0 . College Station, TX: StataCorp LP.
+Strack, F., & Deutsch, R. ( 2004 ). Reﬂective and impulsive determinants of social behavior. Personality and Social Psychology
+Review ,8(3), 220 –247.
+Team, R. ( 2015 ).RStudio: Integrated development for R . Boston, MA: RStudio. http://www.rstudio.com .
+Vandelanotte, C., Short, C., Plotniko ﬀ, R. C., Hooker, C., Canoy, D., Rebar, A., …Duncan, M. J. ( 2015 ). Tayloractive –examin-
+ing the e ﬀectiveness of web-based personally-tailored videos to increase physical activity: A randomised controlled
+trial protocol. BMC Public Health ,15(1), 1020.
+Vidrine, J. I., Simmons, V. N., & Brandon, T. H. ( 2007 ). Construction of smoking-relevant risk perceptions Among college
+students: The in ﬂuence of need for cognition and message content. Journal of Applied Social Psychology ,37(1), 91– 114.
+Vigneau, F., & Lalande, F. ( 2006 ). Multidimensionnalité de l ’Échelle de besoin de cognition –Note sur l ’utilisation d ’items
+négatifs dans un questionnaire de personnalité. Perspectives de psychologie di ﬀérentielle , 267 –272.
+Waters, L., & Zakrajsek, T. ( 1990 ). Correlates of need for cognition total and subscale scores. Educational and Psychological
+Measurement, 50(1), 213 –217.
+Webb, T. L., & Sheeran, P. ( 2006 ). Does changing behavioral intentions engender behavior change? A meta-analysis of the
+experimental evidence. Psychological Bulletin ,132(2), 249 –268.
+Wegener, D. T., Clark, J. K., & Petty, R. E. ( 2006 ). Not all stereotyping is created equal: Di ﬀerential consequences of thought-
+ful versus nonthoughtful stereotyping. Journal of Personality and Social Psychology ,90(1), 42.
+Williams-Piehota, P., Pizarro, J., Navarro Silvera, S. A., Mowad, L., & Salovey, P. ( 2006 ). Need for cognition and message
+complexity in motivating fruit and vegetable intake among callers to the cancer information service. Health
+Communication ,19(1), 75– 84.
+Williams-Piehota, P., Schneider, T. R., Pizarro, J., Mowad, L., & Salovey, P. ( 2003 ). Matching health messages to information-
+processing styles: Need for cognition and mammography utilization. Health Communication ,15(4), 375 –392.
+Wolfenden, L., Nathan, N., & Williams, C. M. ( 2015 ). Computer-tailored interventions to facilitate health behavioural
+change. British Journal of Sports Medicine, 49(22), 1478 –1479.
+Zhang, Y. ( 1996 ). Responses to humorous advertising: The moderating e ﬀect of need for cognition. Journal of Advertising ,
+25(1), 15 –32.doi:10.1080/00913367.1996.10673493452 I. NIKOLOUDAKIS ET AL.

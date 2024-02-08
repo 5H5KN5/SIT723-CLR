@@ -1,0 +1,995 @@
+STUDY PROTOCOL Open Access
+A cluster randomized Hybrid Type III trial testing
+an implementation support strategy to facilitate
+the use of an evidence-based practice in VA
+homeless programs
+David A. Smelson1,2,3*, Matthew Chinman1,4,5, Sharon McCarthy1,4, Gordon Hannah1,4, Leon Sawh1
+and Mark Glickman2,6
+Abstract
+Background: The Housing and Urban Development-Veterans Affairs Supportive Housing (HUD-VASH) program is
+one of the largest initiatives to end Veteran homelessness. However, mental health and substance use disorders
+continue to reduce client stability and impede program success. HUD-VASH programs do not consistently employ
+evidence-based practices that address co-occurring mental health and substance use disorders. This paper presents
+a study protocol to evaluate the implementation of an evidence-based, co-occurring disorder treatment called
+Maintaining Independence and Sobriety Through Systems Integration, Outreach, and Networking —Veterans Edition
+(MISSION-Vet) in HUD-VASH using an implementation strategy called Getting To Outcomes (GTO).
+Methods/design: In three large VA Medical Centers, this Hybrid Type III trial will randomize case managers and
+their clients by HUD-VASH sub-teams to receive either MISSION-Vet Implementation as Usual (IU —standard training
+and access to the MISSION-Vet treatment manuals) or MISSION-Vet implementation augmented by GTO. In addition
+to testing GTO, effectiveness of the treatment (MISSION-Vet) will be assessed using existing Veteran-level data from
+the HUD-VASH data monitoring system. This project will compare GTO and IU case managers and their clients on
+the following variables: (1) fidelity to the MISSION-Vet intervention; (2) proportion of time the Veteran is housed; (3)
+mental health, substance use, and functional outcome s among Veterans; and (4) factors key to the successful
+deployment of a new treatment as specified by the Rea ch, Effectiveness, Adoption, Implementation, and
+Maintenance (RE-AIM) model.
+Discussion: This project is an important step for developing an implementation strategy to increase adoption of
+evidence-based practice use in VA homeless programs, and to further examine efficacy of MISSION-Vet in HUD-VASH.
+This project has important implications for program managers, policy makers, and researchers within the homelessness
+field. VA Central IRB approval for this study was granted in October 2011. The three sites were trained on MISSION-Vet
+and GTO in the first half of 2013. The first GTO planning meetings began after training occurred, between January 2013
+and November 2013, across the three sites. The data collection —via a fidelity measure embedded into the VA
+Computerized Patient Record System —began as each site initiated MISSION-Vet, between April 2013 and January
+2014.
+Trial registration: ClinicalTrials.gov: NCT01430741
+Keywords: Implementation support, Co-occurring disorders, Fidelity, Training, Technical assistance
+* Correspondence: David.Smelson@umassmed.edu
+1VA National Center on Homelessness Among Veterans, Bedford, MA, USA
+2VA Center for Healthcare Organization and Implementation Research,
+Bedford, MA, USA
+Full list of author information is available at the end of the articleImplementation
+Science
+© 2015 Smelson et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.Smelson et al. Implementation Science  (2015) 10:79 
+DOI 10.1186/s13012-015-0267-4
+Background
+Up to 80 % of Veterans who are homeless suffer from
+mental health and/or substance use disorders, which
+threatens housing stability and can result in higher rates
+of relapse, treatment dropout, poor community integra-
+tion, and utilization of costly emergency and inpatient
+services [1]. Initially announced in 2009, a major goal
+for the Department of Veterans Affairs (VA) has been to
+end Veteran homelessness by the end of 2015 [2]. To
+sustain housing placements for Veterans who are
+formerly homeless, it is critical to integrate mental
+health and substance use treatments and wraparound
+supports [3]. While a number of treatment models have
+done this effectively, one evidence-based practice called
+Maintaining Independence and Sobriety through Sys-
+tems Integration, Outreach, and Networking —Veterans
+Edition, or MISSION-Vet, wa s developed specifically
+for homeless and/or formerly homeless Veterans with
+co-occurring mental health and substance use disor-
+ders [4, 5]. However, incorporating MISSION-Vet into
+HUD-VASH —a national program that combines subsi-
+dized housing vouchers (individual Veterans receive
+“vouchers ”for subsidized housing) from HUD and case
+management services from VA —c a nb eac h a l l e n g ea s
+HUD-VASH has dramatically increased the number of
+Veterans served since 2008, resulting in larger caseload
+sizes and a need to prioritize housing placement [6].
+This paper presents the protocol for a study testing
+strategies for proactively supporting the implementa-
+tion of MISSION-Vet in HUD-VASH.
+Despite a strong evidence base and support by the VA
+nationally for use of MISSION-Vet in HUD-VASH,
+wide-scale implementation has not occurred. MISSION-
+Vet has a brief, free, web-based training offered by the de-
+velopers, as well as an accompanying Treatment Manual
+[4] and Consumer Workbook [5]. MISSION-Vet materials
+are available for free download on the National Center ’s
+website (http://www.umassmed.edu/psychiatry/national-
+center-on-homelessness-among-veterans/products/). Fur-
+ther, MISSION-Vet shares some of the same techniques
+and treatment philosophies currently used by HUD-
+VASH, including Housing First (described below)
+[7]. Research using the Consolidated Framework for
+Implementation Research (CFIR) shows that national
+momentum, concrete tools, and compatibility with
+host sites are important factors that facilitate implemen-
+tation. However, it cannot be assumed that prior efficacy
+of MISSION-Vet will automatically translate into success
+in HUD-VASH [8]. Systems do not always adopt new
+practices even when they are known to improve outcomes
+[9]. A number of studies have confirmed that factors at
+both the individual level (e.g., training, skills, efficacy, and
+involvement in decision making) and organizational level
+(organization size, climate, financial resources, and activesupport for evidence-based practices among the staff and
+administrators) predict successful implementation of evi-
+dence-based programs [10 –15]. Existing implementation
+literature also suggests that active, innovative strategies are
+needed at both of these levels to encourage adoption, while
+passive approaches such as trainings alone does not result
+in change, as attendees often experience barriers to incorp-
+orating new practices into their work [15].
+To facilitate the adoption of MISSION-Vet within
+HUD-VASH, we propose the use of the Getting To Out-
+comes (GTO) approach. GTO is both an implementation
+model —specifying the steps the staff should take when car-
+rying out an evidence-based practice (EBP) such as MIS-
+SION-Vet —and an implementation strategy , providing
+ongoing implementation training, technical assistance, and
+data feedback to improve practitioners ’capacity to
+complete those steps [16]. While MISSION-Vet manuals
+promote fidelity to the treatment approach, GTO addresses
+system-level implementation barriers commonly found
+when providers begin to deliver a new treatment. It does so
+by building support among the staff in the use of the EBP,
+enhancing skills to complete needed tasks, and working
+collaboratively with the staff to tailor the EBP to the specific
+local site conditions. We received funding from the VA
+Quality Enhancement Research Initiative to compare
+MISSION-Vet implementation with and without GTO sup-
+port in three large VA HUD-VASH sites.
+HUD-VASH program
+HUD-VASH started as a 20-site demonstration project
+in 1992 and is now available at all VA medical centers.
+Recently, HUD-VASH has experienced two significant
+changes. First, the program was expanded to help sup-
+port the goal of ending homelessness among Veterans.
+For example, between 2008 and 2014, HUD and the VA
+committed almost 70,000 additional vouchers, and the
+VA has funded over 3000 new case management posi-
+tions [17]. Despite these new case manager hires, case-
+load sizes have increased for case managers. Second,
+HUD-VASH has increasingly adopted the Housing First
+philosophy, which states that individuals do not need to
+demonstrate a set period of sobriety in order to be con-
+sidered eligible for housing and case management ser-
+vices, nor does non-adherence with case management
+necessarily lead to loss of housing [7]. In HUD-VASH,
+ongoing case management services are intended to serve
+as critical wraparound support to assist Veterans in re-
+covery from substance abuse and/or mental illness while
+they continue to receive housing benefits. However, a
+study of 36 HUD-VASH sites found that the types and
+intensity of supports provided to Veterans tended to de-
+crease over their tenure in the program, with less em-
+phasis on rehabilitation-oriented activities [6]. While
+HUD-VASH serves many Veterans with co-occurringSmelson et al. Implementation Science  (2015) 10:79 Page 2 of 10
+disorders, the program does not routinely use an evi-
+dence-based treatment model to address both mental
+health and substance abuse issues, both of which can
+threaten housing stability [6, 18]. Therefore, this study
+uses GTO implementation support to encourage the use
+of MISSION-Vet within HUD-VASH.
+Methods
+Overview
+This project is a Hybrid Type III, cluster randomized
+controlled trial [19] that compares MISSION-Vet Imple-
+mentation as Usual (IU —standard training and access to
+the MISSION-Vet treatment manuals) to MISSION-Vet
+implementation augmented by GTO. This study is being
+carried out in HUD-VASH teams at three large VA Medical
+Centers over a 2-year period. Within each site, existing sub-
+teams (case managers and Veterans they serve) are the
+clusters that will be randomly assigned, which is particularly
+appropriate when desiring to lessen the risk of experimental
+contamination [20] of the imple mentation strategy. Blinding
+in the traditional sense —e.g., data collectors blinded to sub-
+jects’treatment assignment —will not be possible; however,
+all data will be coming from secondary sources. As a
+Hybrid Type III trial, it will emphasize the test of an im-
+plementation strategy (GTO), while using VA ’se x i s t i n g
+HUD-VASH data monitoring system to also assess the
+effectiveness of the treatment (MISSION-Vet) [21] called
+HOMES (Homeless Operations, Management and Evalu-
+ation System). This design is appropriate when the imple-
+mentation strategy has strong preliminary evidence, the
+EBP in question has solid evidence but could yield weaker
+outcomes in new or less controlled environments than was
+present in efficacy trials, and the EBP has “implementation
+momentum ”[21]. These conditions are present for
+implementing MISSION-Vet in HUD-VASH, as will be
+shown below. The trial assesses three sets of variables:
+a) MISSION-Vet implementation (adoption, dose, reach,
+fidelity), b) outcomes among HUD-VASH Veterans (men-
+tal health and substance use, community functioning,
+housing), and c) MISSION-Vet implementation barriers
+and facilitators organized by the CFIR.
+MISSION-Vet clinical intervention
+MISSION-Vet is a flexible, integrated, co-occurring
+disorder treatment model rooted in the Health Belief
+Model [22] and is accompanied by a Treatment Manual
+[4], which serves as a how-to guide that describes MIS-
+SION-Vet ’s core components, suggestions for service de-
+livery, and includes a number of appendices with
+additional didactic materials. Optimally, each Veteran re-
+ceives about 2.5 h of manualized services a week from a
+case manager and peer specialist team. The core service
+components of MISSION-Vet are critical time interven-
+tion (CTI), integrated co-occurring mental health andsubstance use disorder treatment using dual recovery
+therapy (DRT) delivered by a case manager, and peer sup-
+port delivered by a peer specialist.
+CTI [23], MISSION-Vet ’s core intervention, is a time-
+limited assertive case management model intended to
+reduce the risk of homelessness by providing additional
+support to individuals with mental illness during the
+transition from institutions (e.g., inpatient psychiatry
+units, residential treatment programs, and homeless
+shelters) to community living. The assertive outreach in
+CTI is consistent with the role of case managers in
+HUD-VASH. Unlike HUD-VASH, however, CTI services
+are delivered in three phases of decreasing intensity:
+Transition to community, try-out, and transfer of care.
+In the transition to community phase, services are intended
+to reinforce community living. In the try-out phase, the
+case manager/peer specialist team begins to reduce service
+intensity to help the Veteran test and readjust the commu-
+nity-based support systems to fill any gaps. Visits in the
+transfer of care phase are used to fine-tune the connections
+established with community-based resources.
+MISSION-Vet supplements CTI with 13 DRT [24 –26]
+sessions delivered by the case manager. These sessions
+are highly structured, include the use of motivational
+interviewing [27] and relapse prevention [28] techniques,
+and specifically target the co-occurring mental health
+and substance abuse issues commonly facing homeless
+Veterans. In addition to the 13 DRT sessions, peer spe-
+cialists deliver 11 structured psycho-educational sessions
+that are designed to empower Veterans to plan for a life
+of stability, sobriety, and community integration. Peer
+specialists give out the MISSION-Vet Consumer Work-
+book [5] at the onset of treatment to promote treatment
+engagement. Designed to serve as a compliment to the
+Treatment Manual, the Consumer Workbook helps Vet-
+erans integrate DRT and peer support concepts and in-
+crease their engagement in outpatient services through
+homework assignments, readings, and checklists.
+In addition to CTI, DRT, and peer support, the MIS-
+SION-Vet Treatment Manual provides case managers/
+peer specialists with information regarding employment
+supports [29] and trauma-informed services [30], both
+of which have been found to be effective when used with
+the target population. While each component of MIS-
+SION-Vet has demonstrated efficacy on its own, when
+integrated using the MISSION-Vet platform, they work
+synergistically to increase treatment engagement, im-
+prove mental health and substance abuse outcomes, and
+reduce ER visits, re-hospitalizations, and recurring home-
+lessness [31 –34].
+Besides the MISSION-Vet Treatment Manual and
+Consumer Workbook, MISSION-Vet also includes a
+structured webinar training found in previous studies to
+be successful in conveying needed information about theSmelson et al. Implementation Science  (2015) 10:79 Page 3 of 10
+model (Smelson et al., unpublished manuscript). These
+2-h trainings provide an overview of the MISSION-Vet
+treatment model and offer an introduction to the devel-
+oped materials (manuals and fidelity measure). The
+training also covers the role of the supervisor whose job
+is to provide ongoing consultation ensuring fidelity to
+MISSION-Vet. This training is part of the IU strategy,
+along with key information on how to access and use
+the MISSION-Vet Treatment Manual and Consumer
+Workbook.
+GTO implementation model and strategy
+GTO strengthens the knowledge, attitudes, and skills
+practitioners need to carry out evidence-based programs.
+GTO does this by posing a series of steps practitioners
+should follow in order to obtain positive results and then
+provides practitioners with the guidance necessary to
+complete those steps with quality (i.e., to perform each
+task as close to the ideal as possible). According to
+GTO, “carrying out ”an evidence-based program in-
+volves much more than service delivery to patients, and
+the steps roughly correspond to three general areas: (1)
+planning —e.g., developing goals and performance tar-
+gets, ensuring the staff are trained in the evidence-based
+program; (2) implementation —e.g., monitoring program
+activities, maintaining adherence to an evidence-based
+program model, supervision; and (3) self-evaluation —e.g.,
+tracking patient outcomes, using data to improve program
+operations. All of these steps are designed to be logically
+linked so that the goals and performance targets are
+linked to program activities that will meet those targets,
+which in turn are linked to process and outcome
+measures to assess if the targets are being met, which in
+turn is linked to quality improvement activities that makes
+use of the process and outcome data. For all these areas,
+the guidance from the GTO approach comes in tools
+(GTO Implementation Handbook), face to face training
+for program (i.e., HUD-VASH) staff, and ongoing tech-
+nical assistance provided by a GTO representative who
+meets regularly with the staff to help complete the needed
+steps. The goal is to work with leadership and staff to inte-
+grate the practices GTO targets into routine operations,
+closing the gap between research and practice.
+GTO draws from multiple theories. It [16] is an opera-
+tionalization of empowerment evaluation theory [35],
+which states that positive results are more likely when
+evaluators collaborate with program implementers and
+provide them with the tools and opportunities to evalu-
+ate and improve outcomes themselves. Consistent with
+social cognitive theories of behavioral change [36, 37],
+GTO training and technical assistance (TA) enhances
+knowledge about GTO-related activities, which improves
+attitudes towards these activities, improves execution ofGTO-related behaviors, and supports strong implemen-
+tation of EBPs [38] and outcomes.
+The GTO implementation strategy is also grounded in
+implementation theory, for example, operationalizing the
+CFIR to ensure that all the major domains that influence
+implementation are considered [16]. Intervention char-
+acteristics (e.g., evidence strength and quality, relative
+advantage, complexity, adaptability), the first domain,
+can influence whether practitioners adopt an interven-
+tion. Without adaptation, many interventions are a poor
+fit. GTO helps practitioners tailor interventions to fit
+with their target population, organization, and broader
+community. The next three domains of the CFIR com-
+prise the outer setting (e.g., broader social, political, and
+economic context including policies, incentives, and re-
+sources), inner setting in which the intervention is im-
+plemented (e.g., context of the specific organization or
+group implementing the intervention including the
+structural characteristics, relationships, and implementa-
+tion readiness), and the characteristics of the individuals
+involved (e.g., knowledge, skills). In this study, the inner
+setting is the HUD-VASH team, the outer setting is the
+broader VA, and the individuals involved are the HUD-
+VASH staff. To create capacity and conditions for
+successful implementation of programs, the GTO imple-
+mentation strategy targets both individual staff and its
+leadership (it is beyond GTO ’s scope to specifically alter
+the broader social, political, and economic context of the
+outer setting). The active change process designed to
+facilitate individual and organization use of the intervention
+as designed is the last domain in CFIR. GTO proactively
+engages both the individual and program levels to establish
+a systematic implementation process.
+A great deal of research has been done to examine
+GTO ’s effectiveness. With practitioners of drug preven-
+tion programs, GTO has been found to improve the cap-
+acity of individual practitioners and the performance of
+prevention programs in both quasi-experimental and
+experimental trials. In addition to homelessness, GTO
+has been adapted to a number of other content areas in-
+cluding drug prevention, underage drinking prevention,
+teen pregnancy prevention, and positive youth develop-
+ment [16, 39 –41]. Since its inception in 2004, more than
+100,000 visits have been made to the website where the
+GTO model is described and over 100,000 GTO Imple-
+mentation Handbooks have been downloaded (www.ran-
+d.org/gto).
+Participation sites and recruitment
+Site composition
+This study includes three large HUD-VASH sites: site A
+(450 HUD-VASH vouchers and 18 case managers), site B
+(850 HUD-VASH vouchers and 27 case managers), and
+site C (810 HUD-VASH vouchers and 24 case managers),Smelson et al. Implementation Science  (2015) 10:79 Page 4 of 10
+for a total of 2110 HUD-VASH vouchers and 69 case
+managers. Case manager and voucher numbers were
+based on a point in time and are expected to change as
+new vouchers are issued over time. Each site has naturally
+occurring sub-teams of case managers (sites A, B, and C
+each has two clusters), which will be randomized with
+equal probability to IU or GTO by the team statistician
+using a random number generator. We chose to randomize
+case managers within each of these sites because it holds
+constant the variation due to site-level characteristics,
+funding streams, regulations, data collection activities, and
+political climates.
+During the planning of the study, the three HUD-
+VASH programs were selected because they were similar
+across many key factors. For example, the number of
+vouchers allocated to each site is close to 500 with 85 –95 %
+of these vouchers in use at each site. HUD-VASH case
+managers at each site are typically expected to have contact
+with each Veteran at least once per month —with a goal of
+contacting the Veteran at the Veteran ’s residence once he/
+she has been housed. While some Veterans need more fre-
+quent contact, no Veteran gets less than this amount at any
+site. Among the Veterans in HUD-VASH at these sites, the
+VA Homeless Network Coordinators report approximately
+90 % having substance use and/or mental health diagnoses.
+Additionally, each of these sites reports that approximately
+75 % of Veterans in HUD-VASH receive other services at
+the VA or in the community beyond standard HUD-VASH
+case management services.
+Recruitment
+The subjects in this study are the HUD-VASH case
+managers although data about the Veterans on their
+caseload will also be collected. All case managers were
+invited to participate and consented before randomization
+by the study staff. The two sub-teams from each site that
+were assigned to GTO or IU have approximately equal
+numbers of case managers and vouchers, although the
+exact numbers shift frequently due to staff turnover and
+Veteran dropout, graduation, and the issuing of new
+vouchers. Regardless, consistent with cluster random as-
+signment, each case manager is linked to a certain sub-
+team (and thus study condition), and each Veteran is in
+turn linked to a specific case manager. If sites decide to
+add new staff to a sub-team, that case manager would
+then automatically be assigned to the condition of that
+sub-team.
+All HUD-VASH case managers in both groups will be
+invited to the webinar training on MISSION-Vet. After
+MISSION-Vet begins, case managers will be responsible
+for engaging their Veterans into MISSION-Vet services.
+Any Veteran participating in HUD-VASH at each of
+these three sites is eligible to receive MISSION-Vet
+services. Through training and TA, case managers andpeer specialists will be guided to follow the recom-
+mended inclusion and exclusion criteria of MISSION-
+Vet: (1) has a current substance abuse or dependence
+disorder and a co-occurring mental illness and (2) is
+willing to participate in MISSION-Vet services. How-
+ever, the decision with whom to deliver MISSION-Vet
+will ultimately be made by the case managers. MIS-
+SION-Vet takes about 1 year to fully deliver; therefore,
+Veterans will be invited to take part in MISSION-Vet in
+the first year of the 2-year intervention period. The
+study received a waiver of consent to use client-level
+data already being collected as part of the homeless data
+program management system of HUD-VASH.
+GTO implementation strategy to support MISSION-Vet
+implementation
+The GTO implementation strategy is a capacity-building
+system that, at each site, consists of a “GTO Planning
+Team ”of HUD-VASH staff (led by a designated point of
+contact) who will use the GTO process to plan MIS-
+SION-Vet and the GTO TA staff person (Dr. McCarthy,
+in Pittsburgh). The key components of this capacity-
+building system are training and written tools, TA, and
+the provision of tailored feedback based on MISSION-
+Vet service data. In particular, the type of TA provided
+in GTO is “facilitation, ”a consultation method that
+emphasizes change in work practices through encour-
+agement and action promotion [42, 43]:
+(1)Training —In month 5, the Study Team (PI Smelson,
+co-PI Chinman, TA staff McCarthy) will hold a
+training with the staff and leadership at each site.
+We will provide the standard MISSION-Vet training
+for the HUD-VASH staff followed by a 6-h training
+on how to use GTO to plan, implement, evaluate,
+and conduct quality improvement on MISSION-Vet.
+The MISSION-Vet training covers the MISSION-Vet
+Treatment Manual, Consumer Workbook, fidelity
+template, and other essential MISSION-Vet resources
+[4,5], as well as core components and evaluation
+findings of MISSION-Vet. The GTO training involves
+walking the HUD-VASH staff through GTO ’sm o d e l
+of planning, implementation, and self-evaluation, as
+applied to MISSION-Vet.
+(2)GTO technical assistance and tools —With guidance
+from the TA provider, each HUD-VASH site will use
+several GTO-based tools to plan MISSION-Vet that
+were specifically developed for homeless staff as part
+of the pilot project at the Pittsburgh VA
+Homelessness Center in the manual Getting To
+Outcomes in services for homeless Veterans :10 steps
+for achieving accountability [44]. GTO is meant to
+be a tiered system of support, with the TA staff
+person meeting by phone, bi-weekly with each site ’sSmelson et al. Implementation Science  (2015) 10:79 Page 5 of 10
+GTO Team, and then receiving their own support
+via weekly meetings with the PI and co-PI, who are
+experts in MISSION-Vet and GTO, respectively.
+This tiered model has been used in previous GTO
+projects with success [ 45]. Using the written tools,
+initial meetings of this group will focus on setting
+goals and performance targets, planning on how to
+tailor MISSION-Vet for HUD-VASH sites, identifying
+any gaps in skills required by MISSION-Vet, and
+arranging additional training. The TA staff person
+( D r .M c C a r t h y )w i l lv i s i te a c hs i t ea tl e a s to n c ea
+year.
+(3)MISSION -Vet service tracking —Prior to the start of
+MISSION-Vet implementation and during initial
+GTO planning with each team, the study staff will
+work with each site to integrate a MISSION-Vet
+“fidelity note template ”into their local VA electronic
+medical record (called Computerized Patient Record
+System or CPRS). Each time the HUD-VASH staff
+delivers MISSION-Vet, they will use the template to
+record which aspects of MISSION-Vet were
+delivered, generating a clinical note. We will then
+extract this data and create feedback reports for
+each site, to be discussed in GTO team meetings
+once a month in order to stimulate quality
+improvement efforts.
+Measures, procedures, and analyses by study aim
+All of the below measures will be collected for 3 years:
+during the 2-year GTO period of support and 1 year
+after that support ends to assess sustainability (see aim 4
+below).
+Aim 1: compare MISSION-Vet fidelity between GTO and IU
+groups
+Data source . Veterans served by case managers in the
+GTO and IU groups.
+Measures and data collection. The MISSION-Vet
+Fidelity Measure tracks all the core elements of the MIS-
+SION-Vet treatment model, including CTI, DRT, peer
+support, vocational supports, and trauma-informed care
+for each individual Veteran. The fidelity index consists
+of 78 items assessing the presence or absence of certain
+activities within MISSION-Vet. Taking the responses
+from all non-missing items, we will compute a fidelity
+score for each Veteran. The data will be extracted from
+the VA Computerized Patient Record System (CPRS) on
+all HUD-VASH Veterans served by case managers in the
+IU or GTO conditions, at each of the three HUD-VASH
+sites.
+Hypothesis. We expect that Veterans served by case
+managers who were in the GTO group will receive
+MISSION-Vet with greater fidelity compared to those
+who are in the IU group.Data analysis. We will fit cross-sectional linear random
+effects (to account for clustering) models for the fidelity
+score, measured at 12 months post-baseline.
+Aim 2: compare the effect on the proportion of time the
+Veteran is housed between GTO and IU groups
+Data sources . Veterans served by case managers in the
+GTO and IU groups.
+Measures and data collection . For each Veteran enter-
+ing HUD-VASH, a case manager must complete a HUD-
+VASH Referral Worksheet that contains the program ’s
+first assessment of days of homelessness and housing.
+Then, case managers provide data every 3 months on
+the number of days housed in the last 90 days using the
+Housing Progress Report form. Case managers are also
+required to report when a Veteran loses their housing
+voucher each month. These reports are stored in na-
+tional database called HOMES (Homeless Operations,
+Management and Evaluation System).
+Hypothesis . We expect that Veterans assigned to case
+managers in the GTO group, who receive MISSION-
+Vet, will have more days housed in the prior 3 months
+compared to Veterans who receive MISSION-Vet from
+case managers in the receiving IU group.
+Data analysis . Again, we will fit repeated measures linear
+random effects models in this analysis. As a secondary ana-
+lysis, we will perform a ztest for the comparison of the
+proportion of Veterans at the end the study who have
+retained their housing (versus lost their voucher) between
+GTO versus IU.
+Aim 3: compare mental health, substance use, and
+functional outcomes among Veterans served by HUD-VASH
+case managers in GTO and IU groups
+Data sources . Veterans served by case managers in the
+GTO and IU groups.
+Measures and data collection . In addition to housing,
+the HUD-VASH staff complete data collection forms for
+HOMES on four outcomes each month. HOMES re-
+quires case managers to make separate ratings on mental
+health, substance abuse, and associated problems for
+each Veteran using components of the Addiction Sever-
+ity Index [46] as well as the Global Assessment of Func-
+tioning (GAF) [47].
+Hypothesis . We expect that Veterans served by HUD-
+VASH case managers supported by GTO, who received
+MISSION-Vet, will have improved mental health, sub-
+stance use, and functional outcomes compared to Vet-
+erans served by HUD-VASH case managers in the IU
+group.
+Data analysis . We will again fit our repeated measures
+linear random effects models to the response variables
+mentioned above.Smelson et al. Implementation Science  (2015) 10:79 Page 6 of 10
+Aim 4: analyze MISSION-Vet implementation using the factors
+specified by the implementation model RE-AIM (Reach,
+Effectiveness, Adoption, Implementation, and Maintenance)
+RE-AIM [48] states that successful deployment of an
+intervention is mediated by the following factors:
+Reach —the proportion of individuals reached by the
+intervention; Effectiveness —the efficacy of the program
+under ideal circumstances; Adoption —the proportion of
+patients that used the intervention; Implementation —the
+extent the intervention was well-implemented; and
+Maintenance —whether the intervention was maintained.
+While GTO provides guidance for successful implemen-
+tation, the RE-AIM model provides a heuristic to judge
+the success of that implementation.
+Data sources . All aspects of the RE-AIM framework
+will be informed by data from case managers in the IU
+and GTO groups and the Veterans they serve.
+Measures and data collection . Each RE-AIM measure
+below, using data collected from aims 1 –3, will be calcu-
+lated for both the IU and GTO groups:
+/C15Reach —Obtained from aim 1, the Reach measure
+will be the percent of all eligible Veterans who
+receive MISSION-Vet with adequate fidelity (defined
+as the endorsement of at least 75 % of the items on
+the MISSION-Vet Fidelity measure).
+/C15Effectiveness —Obtained from aim 3, effectiveness
+will be the percentage of all eligible Veterans who
+receive MISSION -Vet with adequate fidelity who
+improve on each outcome in an amount consistent
+with a statistically significant effect.
+/C15Adoption —The proportion of case managers who
+have more than 50 % of their eligible Veterans
+engaged in MISSION-Vet will be judged to have
+“adopted ”MISSION-Vet as a standard protocol for
+Veterans with mental illness and co-occurring
+substance abuse disorders.
+/C15Implementation —The extent to which the
+MISSION-Vet intervention was well implemented
+will come from aim 1 and be expressed as the
+percentage of eligible Veterans who actually
+participated in MISSION-Vet who had adequate
+fidelity (endorsement of at least 75 % of the items
+on the MISSION-Vet Fidelity measure).
+/C15Maintenance —The degree to which the successful
+deployment of MISSION-Vet was maintained will
+come from data collected through the previous
+components of the RE-AIM model but extended a
+year beyond the end of the GTO support. Thus, this
+study will be able to assess whether MISSION-Vet
+maintains a high Reach, Effectiveness, Adoption, and
+Implementation between the end of the GTO support
+and the last data collection wave, which will be a year
+after the GTO support ends.Hypothesis . We expect better results across all ele-
+ments of the RE-AIM model in the GTO group than in
+the IU group.
+Data analysis . The scores for R, E, A, and I will be cal-
+culated among the Veterans in both the GTO and IU
+groups during the 2-year period of GTO support. For
+Reach , we will perform a ztest for the comparison of
+the proportion of Veterans at the end of the GTO period
+with adequate fidelity between GTO versus IU. The Ef-
+fectiveness analysis will involve ttests comparing mean
+scores at the end of the GTO period for the proportion
+of time housed and homeless (on the logit scale), com-
+ponents of the ASI, and the GAF. For Adoption , we will
+compare the proportion of case managers through a z
+test who have “adopted ”MISSION-Vet according to the
+specified measure. We will also perform a logistic re-
+gression of whether a case manager adopted MISSION-
+Vet as a function of study arm, one of the moderating
+variables, and their interaction, testing specifically for
+the interaction term. The analysis of Implementation will
+compare through a ztest the proportion of Veterans
+who participated in MISSION-Vet who had a fidelity
+score of at least 75 % between the GTO versus IU
+groups.
+Maintenance —The analyses described above for R, E,
+A, and I will be similarly applied to the data collected
+and summarized a year after the end of the GTO support
+period.
+Power analysis
+We demonstrate that for aims 1, 2, and 3, we will have
+at least 80 % power to detect intervention effects at the
+0.05 significance level (aim 4 is exploratory and thus we
+are not able to calculate power for that aim). Our power
+calculations were performed using the power analysis
+software G*Power 3.1.2 [49]. Previous studies examining
+the effect of GTO used different measures than in the
+current study. We therefore assumed effect sizes based
+on a previous study of the effect of GTO on capacity to
+carry out evidence-based drug abuse prevention pro-
+gramming. The measures used in that study were of pro-
+vider knowledge (effect size = 0.21 after 2 years of GTO),
+attitudes (effect size = 0.38 at 1 year of GTO and 0.59 at
+2 years of GTO), and skills (effect size = 0.07 at 1 year of
+GTO and 0.28 at 2 years of GTO) all related to the per-
+formance of practices associated with evidence-based
+prevention programming [16]. These measures are rele-
+vant because GTO will attempt to impact knowledge, at-
+titudes, and skills in the proposed study as well, but in
+this case around the use of MISSION-Vet. We use these
+values as a rough guide for the effects we might expect
+to detect for the current study, along with conventional
+effect size interpretations.Smelson et al. Implementation Science  (2015) 10:79 Page 7 of 10
+For aim 1, we expect a total of 1604 Veterans to be
+available for the fidelity measure computations. This
+sample size assumes a reduction of 20 % from the initial
+(approximate) 2110 vouchers available due to Veterans
+not having co-occurring SUD and then another reduc-
+tion of 5 % due to case manager refusal to participate.
+The latter reduction brings the number of case managers
+down from an initial estimate of 69 down to 66. Because
+the study is cluster-randomized by case manager, the
+sample size to detect effects is reduce by a “design ef-
+fect”(Deff). The formula for the design effect is given by
+Deff = 1 + ( m−1) ICC where mis the average number of
+Veterans in the study per case manager and the ICC is
+the intra-class correlation. The ICC of MISSION-Vet +
+GTO effects clustered by case managers is unknown but
+likely to be fairly limited as GTO is a system-wide inter-
+vention. To be conservative, we use a conventionally
+large value of ICC = 0.15 [50]. Based on the information
+above, the value of mis approximately m= 1604/66 = 24.3.
+Thus, the design effect assumed is Deff = 1 + ( m−1) ICC =
+1 + (24.3 −1) (0.15) = 4.495. Therefore, the effective sample
+size for aim 1 controlling for clustering is 1604/4.495 =
+356 = 265 Veterans. For an unclustered design with an
+available sample of 356 Veterans randomized to two study
+arms, the smallest detectable effect size (ES) at the 0.05
+significance level with 80 % power assuming a two-sample
+ttest is 0.298. While this effect is of comparable or larger
+size to those in the drug abuse prevention study described
+above, this effect size, according to [51], is considered con-
+ventionally to be between small (ES = 0.2) and medium
+(ES = 0.5). Therefore, our sample size seems to be sufficient
+to detect a small-to-medium effect size. The actual data
+analyses will control for socio-demographic and other im-
+portant confounders, so in fact we expect greater power to
+detect fidelity differences due to MISSION-Vet + GTO.
+For aims 2 and 3, we will focus on the subsample of
+Veterans in the study for whom we have 12 months of
+data collected over consecutive 3-month intervals. Be-
+cause these Veterans serve as their own controls relative
+to time, they provide the greatest power in detecting the
+effect of MISSION-Vet + GTO. With the same design ef-
+fect as in aim 1, the effective sample size available for
+aims 2 and 3 controlling for clustering is 356 Veterans.
+For a linear repeated measures model with two treat-
+ment groups and five measurements per unit (that is,
+one every 3 months for a year, including baseline), and
+assuming a sample of 356 units to randomly divide ap-
+proximately equally between the two groups, the time-
+by-intervention effect size that can be measured with
+80 % power is 0.082. By convention, this is considered a
+very small effect size, and it is also small compared to
+the ones found above in the drug abuse prevention
+study. We therefore anticipate detecting effects with suf-
+ficient power for aims 2 and 3.Design challenges
+An important design issue is whether to randomize at the
+site, provider, or Veteran level. We decided to randomize
+at the HUD-VASH case manager level for several reasons.
+First, the analysis of national HUD-VASH data showed
+that the HUD-VASH site was the strongest predictor of
+housing stability [6]. Therefore, it was important to hold
+the site constant by having IU and GTO conditions
+equally represented within each of the sites. Further, we
+account for the effects of case manager clustering in our
+statistical analyses. Second, we believe that the possible
+contamination that may result between IU and GTO con-
+ditions being present at the same site is manageable. In
+the past studies of GTO, contamination did occur but was
+moderate (across multiple programs, mean = 0.5 to 1.0 on
+a 6-point index of possible GTO activities in which one
+could engage) [16]. We have however, purposely selected
+large sites in an effort to minimize the contamination as it
+is believed that we can minimize discussion of GTO im-
+plementation strategies more easily among non-GTO case
+managers in larger sites. To minimize contamination fur-
+ther given its potential confound, we decided to use natur-
+ally occurring HUD-VASH sub-teams at each site so that
+team meetings and other routine discussions between case
+managers are handled in separate IU and GTO “teamlets. ”
+Other limitations of the study include staff turnover and
+changes in policy directives. Regarding staff turnover, we
+anticipate some level of turnover, and our power analyses
+show that we have a sufficient sample. Furthermore, new
+staff in the IU sites will receive training on MISSION-Vet.
+As for changes in the program directives, we acknowledge
+that this is also a limitation as there is always ongoing ten-
+sion between research and the need for patient care ser-
+vices to make and respond to new directives to end
+homelessness. However, our design —comparing an
+organizational intervention like GTO to usual implementa-
+tion strategies (regardl ess of how they may change) —is
+therefore a genuine test of the impact of the GTO interven-
+tion (and MISSION-Vet as well) in real-world conditions.
+Thus, the findings that are produced may have greater eco-
+logical validity —or relevance to real world conditions,
+where circumstances do change. In addition, even if the VA
+did make changes to HUD-VASH, the changes would apply
+evenly to all HUD-VASH sites and all HUD-VASH case
+managers and thus be equal across IU and GTO condi-
+tions. Further, we would hypothesize that GTO would be
+able to help HUD-VASH case managers incorporate the
+changes for improved Veteran impact better than case
+managers assigned to the IU condition.
+Trial status
+Central IRB approval for this study was granted in October
+of 2011. The three sites were trained on MISSION-Vet
+and GTO in the first half of 2013. The first GTO planningSmelson et al. Implementation Science  (2015) 10:79 Page 8 of 10
+meetings began directly after training occurred, between
+January 2013 and November 2013 across the three sites.
+T h ed a t ac o l l e c t i o n —via a fidelity measure embedded into
+the VA Electronic Medical Record System —began as each
+site initiated MISSION-Vet, between April 2013 and January
+2014.
+Discussion
+As noted above, research evidence and passive dissemin-
+ation strategies often do not change clinical practice or
+increase the adoption of new practices. MISSION-Vet
+has demonstrated evidence, yet has not been widely
+adopted despite encouragement from the VA nationally.
+This project intends to test whether a comprehensive
+implementation strategy —Getting To Outcomes —can
+aid in MISSION-Vet ’s implementation in HUD-VASH
+and secondarily to evaluate the effectiveness of the
+MISSION-Vet treatment. Further, this project will yield
+important lessons about how and under what conditions
+GTO support aids MISSION-Vet implementation. The
+test will be challenging as HUD-VASH teams are under
+increasing pressure to focus on housing placement to
+meet Obama ’s administration pledge to end homeless-
+ness. However, the case managers randomized to receive
+GTO will have a number of additional supports to assist
+with the implementation of the MISSION-Vet model
+within HUD-VASH. If successful, GTO could be used as
+a model to more widely support MISSION-Vet imple-
+mentation or the implementation of other evidence-
+based practices. In addition, study results will continue
+to evaluate the efficacy of MISSION-Vet for the treat-
+ment of homeless Veterans with co-occurring disorders.
+This project is registered at ClinicalTrials.gov with
+number NCT01430741 (URL: https://clinicaltrials.gov/ct2/
+show/study/NCT01430741?term=sdp+11-240&rank=1).
+Abbreviations
+GTO: Getting To Outcomes; HUD-VASH: Housing and Urban Development-
+Veteran Affairs Supportive Housing; MISSION-Vet: Maintaining Independence
+and Sobriety through Systems Integration, Outreach, and Networking —
+Veterans Edition.
+Competing interests
+The authors declare that they have no competing interests.
+Authors ’contributions
+DAS helped conceptualize the study and wrote significant portions of the
+manuscript, focusing on MISSION-Vet, the description of HUD-VASH, and the
+HOMES system. MC also helped conceptualize the study and wrote significant
+portions of the manuscript, focusing on Getting To Outcomes and RE-AIM. GH
+conceptualized the analyses and measures and performed significant editing.
+SM developed the technical assistance component of Getting To Outcomes
+and performed significant editing. LS is a co-developer of MISSION-Vet model
+and assisted with the conceptualization and editing of the manuscript. MG is
+the statistician of the project. All authors read and approved the final
+manuscript.Acknowledgements
+All the authors are funded by a grant from the Health Services Research and
+Development Quality Enhancement Research Initiative, “MISSION-Vet HUD-VASH
+Implementation Study ”(SDP 11-240). We would like to acknowledge the
+contributions of Jesse Vazzano, Julianne Siegfriedt, Brittany Walker, and Rachel
+Mullins for their assistance with this project.
+Author details
+1VA National Center on Homelessness Among Veterans, Bedford, MA, USA.
+2VA Center for Healthcare Organization and Implementation Research,
+Bedford, MA, USA.3Department of Psychiatry, University of Massachusetts
+Medical School, Worcester, MA, USA.4VISN 4 Mental Illness Research and
+Clinical Center, VA Pittsburgh, Pittsburgh, PA, USA.5RAND Corporation, Santa
+Monica, CA, USA.6Department of Health Policy and Management, Boston
+University School of Public Health, Boston, MA, USA.
+Received: 27 February 2015 Accepted: 15 May 2015
+References
+1. Shinseki E. Secretary Shinseki Details Plan to End Homelessness for Veterans.
+2009. va.gov/opa/pressrel/pressrelease.cfm?id = 1807. Accessed 4 Feb 2015.
+2. United States Interagency Council on Homelessness (USICH). Opening
+Doors: a federal and strategic plan to prevent and end homelessness.
+Washington, DC: USICH; 2010.
+3. Shinseki E. HUD to provide permanent housing to nearly 8 000 homeless
+veterans. 2015. hud.gov/portal/page/po rtal/HUD/press/pre ss_releases_media_
+advisories/2010/HUDNo.10-117. 2010. Accessed 4 Feb.
+4. Smelson D, Sawh L, Kuhn J, Kane V, Ziedonis D. The MISSION-VET Treatment
+Manual: VA. Department of Veterans Affairs: Bedford, MA; 2011.
+5. Smelson D, Sawh L, Rodrigues S, Muñoz E, Marzilli A, Tripp J. The MISSION-
+VET Consumer Workbook. Department of Veterans Affairs: Bedford, MA;
+2011.
+6. O ’Connell M, Kasprow W, Rosenheck R. National dissemination of supported
+housing in the VA: model adherence versus model modification. Psychiatr
+Rehabil J. 2010;33(4):308 –19.
+7. Kertesz S, Crouch K, Milby J, Cusimano R, Schumacher J. Housing first for
+homeless persons with active addiction: are we overreaching? Milbank Q.
+2009;87(2):495 –534.
+8. Schoenwald S, Hoagwood K. Effectiveness transportability and
+dissemination of interventions: what matters when? Psychiatr Serv.
+2001;52(9):1190 –7.
+9. Ennett S, Ringwalt C, Thorne J, Rohrbach L, Vincus A, Simons-Rudolph A,
+et al. A comparison of current practice in school-based substance use
+prevention programs with meta-analysis findings. Prev Sci. 2003;4(1):1.
+10. McCormick L, Steckler A, McLeroy K. Diffusion of innovations in schools: a
+study of adoption and implementation of school-based tobacco prevention
+curricula. Am J Health Promo. 1995;9:210 –9.
+11. Parcel G, Eriksen M, Lovato C, Gottlieb N, Brink S, Green L. The diffusion of
+school-based tobacco-use prevention programs: project description and
+baseline data. Health Educ. 1989;4(1):111 –24.
+12. Rohrbach L, D ’Onofrio C, Backer T, Montgomery S. Diffusion of school-based
+substance abuse prevention programs. Am Behav Sci. 1996;39(7):919 –34.
+13. Rohrbach L, Graham J, Hansen W. Diffusion of a school-based substance
+abuse prevention program: predictors of program implementation. Prev
+Med. 1993;22(2):237 –60.
+14. Steckler A. Toward integrating qualitative and quantitative methods. Health
+Educ Q. 1992;19(1):1.
+15. Cividin T, Ottoson J. Linking reasons for continuing professional education
+participation with post-program application. J Contin Educ Health Prof.
+1997;17:46 –55.
+16. Chinman M, Hunter S, Ebener P, Paddock S, Stillman L, Imm P, et al. The
+getting to outcomes demonstration and evaluation: an illustration of the
+prevention support system. Am J Community Psychol. 2008;41(3):206 –24.
+17. Department of Housing and Urban Development. HUD-VASH Vouchers.
+2014. Portal.hud.gov/hudportal/HUD. Accessed 4 Feb 2015.
+18. Kane V. National Center of Homelessness Among Veterans. VA
+Homelessness Services: Washington, DC; 2010.
+19. Donner A, Klar N. Pitfalls and controversies in cluster randomization trials.
+Am J Pub Health. 2004;94:416.Smelson et al. Implementation Science  (2015) 10:79 Page 9 of 10
+20. Curran G, Bauer M, Mittman B, Stetler C, Pyne J, Fortney J. A new ‘Hybrid ’?
+Combining elements of clinical effectiveness and implementation research
+trials. Little Rock, AR: Poster presented at the VA HSR&D field-based meeting
+on mental health and substance use disorders; 2010.
+21. Curran G, Bauer M, Pyne J, Stetler C. Effectiveness-implementation hybrid
+designs: combining elements of clinical effectiveness and implementation
+research to enhance public health impact. Med Care. 2012;50(3):217 –26.
+22. Becker M. The health belief model and personal health behavior. Health
+Educ. 1974;2:324 –508.
+23. Susser E, Valencia E, Conover S, Felix A, Tsai W, Wyatt R. Preventing
+recurrent homelessness among mentally ill men: a “critical time ”
+intervention after being discharged from a shelter. Am J Pub Health.
+1997;87(2):256.
+24. Ziedonis D, Stern R. Dual recovery therapy for schizophrenia and substance
+abuse. Psychiatr Ann. 2001;31:255.
+25. Ziedonis D, Brady K. Dual diagnosis in primary care: detecting and treating
+both the addiction and mental illness. Med Clin North Am.
+1997;81(4):1017 –36.
+26. Ziedonis D, Smelson D, Rosenthal R, Batki S, Green A, Henry R, et al.
+Improving the care of individuals with schizophrenia and substance use
+disorders: consensus recommendations. J Psychiatr Pract. 2005;11(5):315.
+27. Miller W, Rollnick S. Motivational interviewing: preparing people for change.
+London: Guildford; 2002.
+28. Marlatt G, Gordon J. Relapse prevention: maintenance strategies in addictive
+behavior change. New York: Guilford; 1985.
+29. Bond G, McHugo G, Becker D, Rapp C, Whitley R. Fidelity of supported
+employment: lessons learned from the national evidence-based practice
+project. Psychiatr Rehabil J. 2008;31(4):300 –5.
+30. Najavits L. Expanding the boundaries of PTSD treatment. JAMA.
+2012;308(7):714 –6.
+31. Smelson D, Losonczy M, Castles-Fonseca K, Stewart P, Kaune M, Ziedonis D.
+Preliminary outcomes from a booster cas e management program for individuals
+with a co-occurring substance abuse and a persistent psychiatric disorder. J Dual
+Diagn. 2005;3(1):47 –59.
+32. Smelson D, Williams J, Ziedonis D, Losonczy M, Kaune M. The efficacy of
+clonazepam for decreasing cue-elicited craving in individuals with
+schizophrenia and cocaine dependence: a preliminary report. J Clin
+Psychopharmacol. 2007;1:9 –12.
+3 3 . S m e l s o nD ,K a l m a nD ,L o s o n c z yM ,K l i n eA ,S a m b a m o o r t h iU ,H i l lL ,
+et al. A brief treatment engagement intervention for individuals with
+co-occurring mental illness and su bstance use disorders: results of a
+randomized clinical trial. Co mmunity Ment Health J. 2012;1 –6.
+34. Smelson D, Kline A, Kuhn J, Rodrigues S, O ’Connor K, Fisher W, et al.
+Wraparound treatment engagement intervention for homeless veterans
+with co-occurring disorders. Psychol Serv. 2013;10(2):161 –7.
+35. Fetterman D, Wandersman A. Empowerment evaluation principles in
+practice. New York: Guilford Press; 2005.
+36. Bandura A. Health promotion by social cognitive means. Health Educ Behav.
+2004;31(2):143.
+37. Fishbein M, Ajzen I. Attitudes towards objects as predictors of single and
+multiple behavioral criteria. Psychol Rev. 1974;81(1):59 –74.
+38. Durlak J, DuPre E. Implementation matters: a review of research on the
+influence of implementation on program outcomes and the factors
+affecting implementation. Am J Community Psychol. 2008;41(3):327 –50.
+39. Acosta J, Chinman M, Ebener P, Malone P, Paddock S, Phillips A, et al. An
+intervention to improve program implementation: findings from a two-year
+cluster randomized trial of assets-getting to outcomes. Implement Sci.
+2013;8:87.
+40. Chinman M, Acosta J, Ebener P, Burkhart Q, Clifford M, Corsello M, et al.
+Intervening with practitioners to improve the quality of prevention: one
+year findings from a randomized controlled trial of the assets-getting to
+outcomes intervention. J Prim Prev. 2010;34:173 –91. PMC3703481.
+41. Chinman M, Tremain B, Imm P, Wandersman A. Strengthening prevention
+performance using technology: a formative evaluation of interactive Getting
+To OutcomesTM. Am J Orthopsychiatr. 2009;79:469 –81. PMC2859836.
+42. Kitson A, Harvey G, McCormack B. Enabling the implementation of evidence
+based practice: a conceptual framework. Qual Health Care.
+1998;7:149 –58.
+43. Rycroft-Malone J, Harvey G, Seers K, Kitson A, McCormack B, Titchen A. An
+exploration of the factors that influence the implementation of evidence
+into practice. J Clin Nurs. 2002;13:913 –24.44. Hannah G, McCarthy S, Chinman M. Getting to outcomes in services for
+homeless veterans: 10 steps for achieving results-based accountability.
+Philadelphia, PA: National Center on Homelessness Among Veterans; 2010.
+45. Lesesne C, Lewis K, White C, Greem D, Duffy J, Wandersman A. Promoting
+science-based approaches to teen p regnancy prevention: proactively
+engaging the three systems of the in teractive systems framework. Am
+J Community Psychol. 2008;41:379 –92.
+46. McLellan A, Kushner H, Metzger D, Peters R. The fifth edition of the
+Addiction Severity Index. J Subst Abuse Treat. 1992;9(3):199 –213.
+47. Jones S, Thornicroft G, Coffey M, Dunn G. A brief mental health outcome
+scale-reliability and validity of the Global Assessment of Functioning (GAF).
+BR J Psyciatry. 1995;166(5):654 –9.
+48. Russell F, Glasgow RE, Thomas M, Vogt TM, Shawn M, Boles SM, et al. Am
+J Pub Health. 1999;89:1322 –7.
+49. Faul F, Erdfelder E, Lang AG, Buchner A. G*Power 3: a flexible statistical
+power analysis program for the social, behavioral, and biomedical sciences.
+Behav Res Methods. 2007;39:175 –91.
+50. Hox J. Multilevel analysis: techniques and application. Mahwah, NJ:
+Lawrence Erlbaum; 2002.
+51. Cohen J. Statistical power analysis for the behavioral sciences. 2nd ed.
+Hillsdale, NJ: Lawrence Erlbaum Associates; 1988.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at 
+www.biomedcentral.com/submitSmelson et al. Implementation Science  (2015) 10:79 Page 10 of 10

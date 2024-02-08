@@ -1,0 +1,1422 @@
+STUDY PROTOCOL Open Access
+An individually tailored family-centered
+intervention for pediatric obesity in primary
+care: study protocol of a randomized type II
+hybrid effectiveness –implementation trial
+(Raising Healthy Children study)
+Justin D. Smith1,2,3*, Cady Berkel4, Neil Jordan1, David C. Atkins5, Shrikanth S. Narayanan6, Carlos Gallo1,
+Kevin J. Grimm4, Thomas J. Dishion4, Anne M. Mauricio4, Jenna Rudo-Stern4, Mariah K. Meachum1,
+Emily Winslow4and Meg M. Bruening7
+Abstract
+Background: Pediatric obesity is a multi-faceted public health conc ern that can lead to cardiovascular diseases, cancers,
+and early mortality. Small changes in diet, physical activity, or BMI can significantly reduce the possibility of developing
+cardiometabolic risk factors. Family-based behavioral interventions are an underutilized, evidence-based approach that have
+been found to significantly prevent excess weight gain and obes ity in children and adolescents. Poor program availability,
+low participation rates, and non-adherence are noted barriers to positive outcomes. Effective interventions for pediatric
+obesity in primary care are hampered by low family functi oning, motivation, and adher ence to recommendations.
+Methods: This (type II) hybrid effectiveness –implementation randomized trial t ests the Family Check-Up 4 Health
+(FCU4Health) program, which was designed to target he alth behavior change in children by improving family
+management practices and parenting skills, with the goal of preventing obesity and excess weight gain. The FCU4Health is
+assessment driven to tailor services and increase parent motivation. A sample of 350 families with children aged 6 to
+12 years who are identified as overweight or obese (BMI ≥85th percentile for age and gender) will be enrolled at three
+primary care clinics [two Federally Qualified Healthcare Centers (FQHCs) and a children ’s hospital]. All clinics serve
+predominantly Medicaid patients and a large ethnic minority population, including Latinos, African Americans, and
+American Indians who face disparities in obesity, cardiometabolic risk, and access to care. The FCU4Health will be
+coordinated with usual care, using two different delive ry strategies: an embedded approach for the two FQHCs and a
+referral model for the hospital-based clinic. To assess program e ffectiveness (BMI, body composition, child health behaviors,
+parenting, and utilization of support services) and implemen tation outcomes (such outcome s as acceptability, adoption,
+feasibility, appropriateness, fidelity, and cost), we use a multi -method and multi-informant assessment strategy including
+electronic health record data, behavioral observation, questionnaires, interviews, and cost capture methods.
+(Continued on next page)
+* Correspondence: jd.smith@northwestern.edu
+Justin D. Smith and Cady Berkel contributed equally to the production of
+this manuscript and to the conception of the study protocol. Justin D. Smith
+and Cady Berkel are co-principal investigators of the study.
+1Department of Psychiatry and Behavioral Sciences, Northwestern University
+Feinberg School of Medicine, Chicago, IL, USA
+2Department of Preventive Medicine, Northwestern University Feinberg
+School of Medicine, Chicago, IL, USA
+Full list of author information is available at the end of the article
+© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.Smith et al. Implementation Science  (2018) 13:11 
+DOI 10.1186/s13012-017-0697-2
+(Continued from previous page)
+Discussion: This study has the potential to prev ent excess weight gain, obesity, an d health disparities in children by
+establishing the effectiveness of the FCU 4Health and collecting information critical for healthcare decision makers to
+support sustainable implementation of family-based programs in primary care.
+Trial registration: NCT03013309 ClinicalTrials.gov
+Keywords: Family Check-Up 4 Health, Primary care, Hybrid effectiveness –implementation trial, Pediatric obesity, Integrated
+care, Coordinated care
+Background
+Childhood obesity has become the leading preventable
+cause of death worldwide [1]. Po or diet/nutrition and phys-
+ical inactivity are the leading and preventable contributors
+to obesity and are among the principal causes of chronic
+disease and mortality for youths [2]. Obesity is also related
+to psychosocial issues in youth, such as depression and aca-
+demic disengagement [3 –5]. In the USA in 2013 –2014, it
+was estimated that 18% of all 6 –11-year-old children were
+obese and that a disproportionate number are disadvan-
+taged economically and socially [6]. Obesity and its health
+consequences are disproportion ately distributed across the
+USA; Mexican Americans, American Indians, and African
+Americans have the highest prevalence rates of obesity in
+childhood at 41.1 to 56.3% [6 –9]. Social determinants of
+health [10] play a key role in the childhood obesity and
+contribute substantially to disparities. In the social environ-
+ment, stress and discrimination are acutely experienced by
+minority and low-income communities in the USA and are
+linked with childhood obesity [11]. Physical environment
+barriers include limited access to safe areas for play and
+fresh, nutritious foods [12]. Finally, access to health services
+that can prevent obesity and its sequelae [13] is limited for
+members of underserved groups [14].
+While addressing the social determinants of health is an
+ongoing task, significant evide nce supports the effectiveness
+of lifestyle modification on car diometabolic risk factors, with
+even small changes yielding sign ificant impact [15]. Recently
+published reviews [16, 17] indicate that youth health behav-
+iors and obesity may be improved when parents attend and
+are directly involved with services [18] and are provided
+training in the skills require d to support lifestyle modifica-
+tion in accordance with expert guidelines [16, 19 –21].
+Primary care is a promising context for improving parent-
+ing behaviors linked to child health [22 –24]. Most children
+access a primary care provider a nnually [25, 26], caregivers
+are present at visits, and physicians have a high level of per-
+ceived authority among parents who look to them for advice
+on children ’s health. The National Academy of Medicine,
+the American Academy of Pediatrics, and the Endocrine
+Society, among others, promote a family-centered interven-
+tion in primary care [27 –29]. Despite the appeal of a family-
+centered approach [30, 31], sev eral barriers hinder imple-
+mentation of such programs in real-world healthcaresystems [29, 32]. For example, healthcare providers report
+inadequate time, training, and resources to effectively
+work with parents to address childhood obesity [33]. Few
+comprehensive and prospective evaluations of the imple-
+mentation of weight management programs in primary
+care have been done, despite such factors as inadequate
+cost evaluation being a top reason for failure to adopt
+behavioral interventions [34] and the general concern
+about delivery with sufficient fidelity to preserve effective-
+ness [35]. To have a population impact on pediatric
+obesity, there is a pressing need for scalable programs that
+can be delivered in primary care and engage parents in
+behavior change strategies for children [32].
+The Family Check-Up for Health program
+The Family Check-Up 4 Health (FCU4Health) is an adapta-
+tion and enhancement of the original Family Check-Up
+(FCU), an evidence-based, family-centered intervention
+with empirical evidence of effectiveness and feasible
+delivery in real-world systems that provide care for cultur-
+ally diverse, low-income families [36 –39]. Initially designed
+and tested as a behavioral health intervention, the FCU
+employs motivational intervi ewing (MI) to engage parents
+in family management strategies and community-based
+support services [40]. Extensive data document the FCU ’s
+clinical effectiveness and high rates of engagement among
+underserved and ethnic minority families [36 –38, 41 –43].
+Although not targeted by the program, the FCU demon-
+strated long-term collateral effects on nutrition (ages 2 –5)
+and obesity (ages 2 to 10 years) [44] and on those from
+adolescence to early adulthood (ages 12 to 22 years) [13,
+44]. Improvement in parent –child relationships and posi-
+tive behavior support mediated the effects of the FCU on
+nutrition and obesity in both developmental periods. Based
+on these findings, the FCU4Health was developed to specif-
+ically target pediatric obesity in primary care, the front-line
+service setting for preventio n of obesity and excess weight
+gain [29]. This involved enhancing the content to focus on
+helping parents support child and family behaviors that lead
+to a healthy weight, and adapting the delivery strategy for
+the primary care context (Smit h JD, Berkel C, Rudo-Stern J,
+Montaño Z, Mauricio AM, Dishion TJ, St. George SM,
+Prado G, Chiapa A, Bruening MM, The Family Check-Up 4
+Health (FCU4Health): The process of adapting anSmith et al. Implementation Science  (2018) 13:11 Page 2 of 15
+evidence-based parenting program for prevention of
+pediatric obesity and excess weight gain in primary care,
+submitted).
+The FCU4Health is unique relative to other obesity in-
+terventions in that rather than solely targeting knowledge
+about national health guidelines (published by such or-
+ganizations as the American Academy of Pediatrics and
+United States Department of Agriculture that require up-
+dating over time), it provides parents with the skills and
+support to implement the changes recommended by
+physicians, dieticians, and other members of the health-
+care team. This aspect fills an important gap for families
+who earnestly agree to improve children ’s diet, physical
+activity, sleep habits, or screen time while in the clinic but
+encounter difficulties in their regular involvement that
+lead to an abandonment of these efforts. It also increases
+the individualizability of the intervention to the needs of
+the family and reduces training time and the need for
+regular updates to program materials.
+The core components of the FCU4Health mirror those
+of the original FCU: an ecological assessment of the
+family, a feedback and motivation session, and follow-up
+services that are individually tailored in content and dos-
+age based on identified needs in the assessment (see
+Fig. 1). These follow-up services may include parenting
+modules for needs related to family management and/or
+care coordination with community-based services to ad-
+dress ecological needs [38]. Parenting modules follow
+Everyday Parenting , [45] a 12-module skills-based cur-
+riculum focusing on the three core areas of parenting
+and family management: relationship quality, positive
+behavior support, and monitoring and limit setting. The
+application of these steps in this trial is described in
+greater detail in the “Methods ”section.
+Study design
+Overview
+We will test the FCU4Healtth with a type II hybrid
+effectiveness –implementation trial [46], which enables
+simultaneous evaluation of the clinical effectiveness andthe delivery of the FCU4Health program using two
+different implementation strategies [47].
+Implementation strategies and service delivery sites
+The delivery model used by a given practice depends upon
+their programmatic, fiscal, and resource characteristics
+and needs [48]. Several approaches for the delivery of
+behavioral health services in primary care settings have
+been described [49]. In this trial, we partnered with three
+pediatric primary care agencies that serve high rates of low-
+income, ethnic minority families (about 60 –65% Latino;
+10% African American; 5 –8% American Indian). Because
+pediatric primary care offices often do not have integrated
+behavioral health, arm 1 uses a strategy of coordinated care
+between primary care and an external behavioral health
+provider. We partnered with a large outpatient general
+pediatrics clinic associated with a children ’sh o s p i t a l .W e
+also partnered with two agencies that are part of the nation-
+wide network of 1250 Federally Qualified Health Centers
+(FQHCs). A feature of FQHCs is the integrated care model
+that typifies the medical home. In arm 2, we will test an
+integrated/co-located model of care. The FQHC network is
+crucial for embedding a family-centered approach to care
+because it serves youth and families at high sociodemo-
+graphic risk and is intended to integrate services to reduce
+barriers and improve care. Par tnering with these provider
+sites afforded the opportunity to compare FCU4Health
+implementation under two different real-life service deliv-
+ery models. In both arms, behavioral health consultants are
+responsible for delivering the FCU4Health and coordinat-
+ing care with other support services and resources.
+Clinical effectiveness of the FCU4Health
+Within the two implementation strategy arms, eligible fam-
+ilies are randomized to receive either the FCU4Health or
+clinic services-as-usual plus community program informa-
+tion (see “Methods ”). Primary clinical outcomes are child
+BMI and body composition. Secondary outcomes, hypothe-
+sized to mediate effects of the intervention on primary out-
+comes, are lifestyle behaviors (diet and nutrition, physical
+Fig. 1 Steps and elements of the Family Check-Up for Health (FCU4Health) program in the Raising Healthy Children studySmith et al. Implementation Science  (2018) 13:11 Page 3 of 15
+and sedentary activity, sleep) , child self-regulation, and
+family management practices.
+Methods
+Study aims
+Aim 1
+Aim 1 was to finalize the adaptation of the FCU4Health,
+which was initially adapted and piloted in pediatric pri-
+mary healthcare [50], based on input from a community
+advisory board (CAB) and partner clinics.
+Aim 2
+Aims 2 was to evaluate the effects of two delivery strategies:
+integrated/co-located care an d coordinated care with refer-
+ral. Using a mixed-methods approach applied to Proctor et
+al.’s [51, 52] taxonomy, we will evaluate the process of
+implementing the FCU4Health to inform, taking the
+program to scale.
+2a. Evaluate fidelity over time to the FCU4Health
+using a validated observational rating system [ 53–55]
+and develop and test an automated fidelity coding
+system [ 56].
+2b. Employ behavioral intervention costing methods
+[57] to evaluate the costs of installing and delivering
+the FCU4Health and conduct a cost –benefit analysis to
+evaluate the monetary benefits of program effects.
+2c. Develop a plan to support scale-up and sustainment
+in collaboration with our CAB.
+Aim 3
+Aim 3 was to use pragmatic trial principles to test program
+effects on primary and secondary outcomes. Intervention
+effects on proximal outcomes will be tested as mediators
+on the distal outcomes of child BMI and body composition.
+Aim 4
+Aim 4 was to carefully track utilization in each aspect of
+the program, gather data concerning family ’s service deliv-
+ery preferences and satisfaction, and test a model of pro-
+gram implementation where f amily engagement mediates
+the relation between fidelity and clinical outcomes [58].
+Study participants, recruitment, and randomization
+Families with children 5.5 to 12 years of age with BMI ≥
+85th percentile for age and gender at study entry are eli-
+gible to participate. Participants will be identified during
+clinic well- and sick-child visits and through queries of
+the Electronic Health Record (EHR). Enrolled families will
+complete an ecological, family health routine assessment.
+After the first assessment, families will be randomly
+assigned to the FCU4Health ( n= 200) or Services-as-
+Usual Plus Information condition ( n=1 5 0 ) u s i n g astratified block randomized design by child gender, age,
+language (English, Spanish), and ethnicity. Assessing the
+family prior to randomization ensures double-blinding at
+baseline. Families in the intervention condition will
+participate in the FCU4Health program, as outlined in the
+next section, in addition to receiving usual care through
+their clinic. Families are compensated for completing
+assessments, but not for engaging in services. A CONSORT
+table is presented in Fig. 2.
+Family Check-Up 4 Health program
+Delivery schedule
+Previously, the FCU has used a health maintenance
+approach, in which parents receive periodic (annual)
+FCUs [38, 59]. Based on the US Preventive Services Task
+Force recommendations that overweight/obese youth
+should be provided with at least moderate treatment
+dosage to affect weight management [60], we designed a
+delivery schedule to achieve a minimum targeted dose of
+intervention between 25 and 50 h over 6 months (assess-
+ment and feedback at months 1, 3, and 6). Because of the
+tailored approach, families with greater need and those
+with greater motivation are expected to participate in
+more follow-up services [61].
+FCU4Health family health routine assessment
+The family health routine assessment is ecological and
+evaluates five broad domains —family health behaviors,
+child health behaviors, family well-being and support,
+child adjustment, and family management and relation-
+ships —using a multi-agent battery of caregiver- and
+child-reported questionnaires and a series of brief video-
+recorded family interaction tasks (FITs). Two versions of
+the assessment are used in this study: a full version at
+months 1, 6, and 12 (90 min to complete) and a brief
+version administered only at the 3-month assessment
+(30 min). The full version includes all questionnaires
+across the five broad domains and three FITs on the
+topics of health and diet goals, monitoring and limit
+setting of child health behaviors, and planning a fun
+physically active family activity (4 min each). The brief
+version includes only the questionnaires to caregiver and
+child pertaining to family health behaviors and child
+health behaviors and is intended as a low-burden oppor-
+tunity to reinforce steps toward behavior change and
+address areas that have not yet improved or potentially
+shift focus to areas that have emerged during the first
+3 months of intervention. Questionnaires are completed
+in English or in Spanish by caregivers and the child
+through a secure website accessed via a Wi-Fi enabled
+tablet. Pencil-and-paper versions are available if needed.
+FITs are recorded using the tablet and are uploaded to a
+cloud-based, HIPAA-compliant portal for secure storage,
+viewing, and scoring.Smith et al. Implementation Science  (2018) 13:11 Page 4 of 15
+Feedback sessions
+Feedback sessions follow the assessments in months 1,
+3, and 6. The first feedback session begins with a discus-
+sion to understand (a) the caregivers ’perception of their
+needs; (b) their child ’s health, adjustment, and obeso-
+genic behaviors; and (c) the caregivers ’motivation to
+change parenting and family management practices in
+support of health behavior change. In the second and
+third feedbacks, the coordinator begins by checking in
+with the family about their progress, discussing barriers
+they are experiencing, and exploring the ways that the
+previous feedback and Everyday Parenting sessions were
+helpful for them in catalyzing and supporting healthy
+lifestyle behavior change. The coordinator presents the
+findings of the family health routine assessment using
+the Feedback Form, which summarizes where families
+are in the five areas of the assessment relative to age-
+based norms with a stoplight color scheme. Family
+strengths are represented in green, yellow indicates areas
+to monitor, and red accentuates areas in need of further
+support. The goals of this session are to (a) share assess-
+ment findings with family members regarding strengths
+and challenges, (b) engage in a motivation-enhancing
+discussion about promoting positive changes, and (c)
+provide a menu of resources and next steps for interven-
+tion. The first two feedback sessions lay out a plan for
+the follow-up services (i.e., Everyday Parenting sessions
+or referrals to community-based services) and use MItechniques to increase buy-in for the planned course of
+action. In the final feedback session (month 6), feedback
+and motivation focus on the progress the family has
+made and continuing engagement in community
+services to address areas in need of additional support.
+Everyday Parenting sessions
+In the FCU4Health, Everyday Parenting sessions are
+tailored to the family ’s specific needs identified in the
+family health routine assessment and focus on a specific
+behavior change goal, such as setting limits on snacking
+between family meals or monitoring children ’s sedentary
+and physical activity time. It is expected that families will
+engage in 8 –16 sessions of Everyday Parenting over the
+6-month intervention period. The focus is on supporting
+and maintaining children ’s healthy behaviors. It is also
+expected that during these sessions, the FCU4Health
+coordinator will help the caregivers problem-solve
+challenges they have encountered in implementing rec-
+ommended health behavior changes.
+Community programs and support services
+To address needs related to heal th behaviors (e.g., nutrition
+and physical activity programs ), specialty medical needs
+(e.g., asthma, diabetes), and the social determinants of
+health that affect parents ’ability to support child health
+(e.g., employment, food and housing insecurity, insurance
+coverage), coordinators provide families with referrals to
+Fig. 2 CONSORT flow diagramSmith et al. Implementation Science  (2018) 13:11 Page 5 of 15
+existing resources in the community. We will identify pro-
+grams in collaboration with our partner agencies that are
+available at little or no cost to families. The intent is to
+leverage existing services to support families and to test
+whether the motivational aspects of the FCU4Health lead
+to increased engagement compared to families in usual
+care. A centralized repository of available programs and
+their requirements is stored in a Web-based hub, which
+can be updated by coordinators and other staff.
+Phone-based coaching
+In weeks where a face-to-face session is not scheduled or
+does not occur (e.g., cancelation, no show), the coordin-
+ator or a behavioral health support staff person (e.g., a
+community health worker) conducts a 15- to 30-min
+phone-based coaching session. The purpose is to maintain
+contact with the family and help problem-solve chal-
+lenges, reinforce positive achievements, and continually
+address motivation to change and barriers to engagement.
+Additional information about the program is available in
+the FCU4Health protocol manual [62].
+Services-as-Usual Plus Information condition
+Families randomized to the services-as-usual arm will
+receive care as usual from their primary care provider
+and any additional services offered by the agency, as well
+as a listing of the same community resources offered to
+families randomized to the FCU4Health arm.
+Measures
+Additional information on measures of implementation
+and clinical effectiveness is presented in Tables 1 and 2,
+respectively.
+Implementation
+To assess the acceptability ,feasibility ,appropriateness ,
+and sustainability of each component of the FCU4-
+Health (e.g., training, program costs, content, delivery),
+an agency stakeholder battery will be electronically ad-
+ministered to at least 30 agency stakeholders (approxi-
+mately ten from each agency) at two times during the
+study: 4 months into the FCU4Health delivery and when
+all families enrolled in the study complete the entire 6-
+month FCU4Health protocol. Families in the FCU4-
+Health arm will rate the acceptability and appropriate-
+ness of the program via an electronically administered
+survey at months 6 and 12. Additionally, 20% of families
+in the FCU4Health arm will be randomly selected and
+interviewed by study staff via phone.
+Study enrollment and participation data will be used
+to evaluate the reach of the program in each agency
+by tracking both the proportion of eligible families re-
+ferred to the study and the number randomized to
+the FCU4Health condition that engage in theprogram compared with the total number of eligible
+families [63].
+We will assess the fidelity of coordinators to the FCU4-
+Health using an established observation rating system that
+defines high-quality care and was associated with clinical
+improvement in studies of the original FCU [53, 54]. A
+trained coding team will code video or audio recordings of
+the first FCU4Health feedback session from every family
+(N= 200), and a subset of 80 families will be randomly
+selected at study entry, balanced by coordinator, for longi-
+tudinal coding of all three FCU4Health feedback sessions
+to assess drift ( N= 160 additional sessio ns). In addition, we
+will develop an automated coding system based on an exist-
+ing, validated automated coding system for motivational
+interviewing. Automated fidelity coding will be built from
+previous methodologies developed for coding fidelity to MI
+(presence of complex reflections, open-ended questions)
+[56, 64, 65] and family interventions [66, 67]. Machine-
+generated fidelity codes have been found to be reliable with
+human coding across multiple studies [56, 64 –66, 68, 69].
+Initial algorithm training will use existing FCU feedback
+session recordings and the FCU fidelity codebook. Auto-
+mated coding involves a computational “pipeline ”of both
+speech signal processing and machine learning of the audio
+recordings of the conversations during the sessions, includ-
+ing (1) voice activity detection, (2) diarization (i.e., how
+many speakers are in session and when is each talking?), (3)
+role identification (i.e., who is the provider?), (4) automatic
+speech-to-text transcription, and (5) machine learning
+models to predict fidelity codes, using lexical (i.e., words)
+and paralinguistic features as inputs.
+Cost data collection is multi-method in order to per-
+form analyses from multiple perspectives (e.g., agency,
+payor, family). Study staff report activities weekly on an
+electronically administered survey. FCU4Health coordi-
+nators complete a brief survey after each contact with
+study families (in the intervention arm) to capture the
+staff involved and the number of hours spent. Elec-
+tronic budgets track program spending and will be used
+to prospectively separate costs associated with imple-
+mentation from those specifically related to research
+(e.g., participant reimbursement, data analysis soft-
+ware), start-up (e.g., training), and ongoing costs (e.g.,
+consultation with FCU4Health developers, technical as-
+sistance, travel for home visitation). At each assess-
+ment, families will be asked to provide a release for the
+study team to obtain health plan claims data, which will
+be used to identify relevant health services utilization
+and associated costs.
+Critical to the study ’s implementation aims, such as the
+calculation of reach and cost, is the careful tracking of par-
+ticipation in the various components of the program.
+Using methods developed and tested in previous trials, the
+FCU4Health coordinators and other agency staff will trackSmith et al. Implementation Science  (2018) 13:11 Page 6 of 15
+all family contacts and record the delivery location,
+travel time, details of participating family members,
+the type of the FCU4Health session, content areas
+covered, and referrals. At each assessment, caregiverswill report on their engagement in community re-
+sources, how well these resources met their needs,
+and the amount of time spent in activities to support
+health child and family behaviors.Table 1 Implementation outcomes
+Outcome variable(s) Measure(s) and data collection procedures Data source and reporter
+(when applicable)
+Stakeholders: acceptability, feasibility,
+appropriateness, and sustainability(1) Select scales of the Annual Survey of Evidence-Based Programs [ 113](α> .75) Survey (ST)
+(2) FCU4Health Stakeholder Survey: 11 open-ended questions, adapted from the
+Treatment Acceptability Rating Form, related to the relevance of the FCU4Health
+for obesity management, barriers and facilitators of the delivery of the program,
+and feasibility of this program from the perspective of stakeholders
+(3) Program Sustainability Assessment Tool [ 114]: 8 domains (e.g., funding stability,
+organizational capacity) with 5 items each (e.g., “The program has sustained
+funding ”) are rated on a 7-point Likert scale (1 = little or no extent, 7 = a very great
+extent) ( α= .88)
+Caregivers: acceptability and
+appropriateness(1) FCU4Health Caregiver Acceptability Interview, designed for and used in our
+pilot feasibility trial [ 50], consists of 11 open-ended questions pertaining to the
+relevance of the program components to the family ’s efforts to manage weight,
+the acceptability of the program and its components, and the barriers and
+facilitators of participationInterview (CG)
+(2) Treatment Acceptability Rating Form-Revised Short [ 115–117], adapted for
+FCU4Health: 10 items (e.g., “How likely is FCU4Health to make permanent im
+provements in your child ’s health behaviors? ”) rated on a 7-point Likert scale
+(1 = not at all, 7 = very) ( α= .92) [ 115]Survey (CG)
+Reach 1- or 2-month sampling period to more closely approximate the number
+of families that require a service at any given point [ 63]EHR data
+Family service participation (1) FCU4Health activities checklist (FACL) [ 118]
+(see description in the “Methods ”section)Administrative data
+and Survey (CO)
+(2) Community Resources: Engagement and Adequacy (CREA): adapted from an
+existing care coordination measure to assess the extent to which families engaged
+in community resources (e.g., emergency care, well-child visits, recreational and
+nutrition programs, mental healthcare, school services, financial services) and if help
+was needed to obtain the resource and whether those resources met their needs.
+Response options are as follows: “I didn ’t need help ”;“I needed help, but didn ’t find it ”;
+“I tried this, but it didn ’tw o r k ”;“I’m still getting help ”; and “I got help,
+and it worked ”Survey (CG)
+(3) Dosage of Engagement in Community Resources (DECR) [ 119]: created for this
+study to assess the amount of time spent in activities to support health behaviors
+assessed by asking the number of times among 7 response options (e.g., “once a
+month, ”“2–3 times a week, ”“2 times every day ”) and then the duration of each
+instance of teach activity using a drop-down menu of min
+(e.g., 30) to h (e.g., 1, 3, and 8 h or more)
+Fidelity (1) COACH observational rating system [ 54]: 5 dimensions of observable in-session
+coordinator skills: conceptual accuracy; observant and responsive to the families ’
+contexts and needs; actively structures session to optimize effectiveness; carefully
+teaches and provides corrective feedback; hope and motivation are generated.
+Each dimension contains exemplars (prescribed behaviors) and non-exemplars
+(proscribed behaviors) and is rated on a 9-point scale: 1 –3 (needs work); 4 –6
+(competent work); 7 –9 (excellent work) (ICC ≥.73) [ 120]. Variability in fidelity ratings
+to feedback sessions have been associated with long-term changes in parenting
+skills and child behavioral outcomes [ 53–55]Observational
+(2) Automated coding of fidelity is being developed within this study (aim 2b) Automated coding
+Costs and health economics (1) Cost capture survey [ 57] Survey (ST)
+(2) FCU4Health activities checklist (FACL) [ 118]
+(see description in the “Methods ”section)Survey (CO)
+(3) Electronic budgets Administrative data
+(4) Health plan claims data Administrative data
+CGcaregiver, COFCU4Health coordinator, STstakeholder, EHR electronic health recordSmith et al. Implementation Science  (2018) 13:11 Page 7 of 15
+Table 2 Clinical effectiveness and related child and family outcomes
+Outcome variable(s) Measure(s) and data collection procedures Data source and reporter
+(when applicable)
+Child weight and
+body compositionPortable electronic scale (Tanita SC-331SU) approved by the FDA for BMI and body
+composition in children (ages 5 to 18) and adults. Child BMI is standardized by sex
+and age according to the CDC growth reference data for children [ 121]Anthropometric
+Child dietary habits NHANES Dietary Screener Questionnaire [ 122]: 9-point scale (0 = never, 8 = 6 or more times
+per day) to rate 3 items about fruit, vegetable, and fast-food choices (e.g., “In the past month,
+how often did you eat fruit? ”) and 3 items regarding sugar-sweetened beverage choices
+(e.g., “In the past month, how often did you drink regular soda that contained sugar? ”)Survey (CG)
+Family health routines and
+health behaviors(1) Family Health Behaviors Scale [ 123]: 24 items rated on a 5-point scale (0 = almost never,
+4 = nearly always; e.g., “I participate in physical activity with [child name]; [child name]
+sneaks food ”). Caregiver ratings on this scale are sensitive to change and have been
+shown to predict child weight classificationSurvey (CG, CH)
+(2) Sleep parenting routines: 6 items on a 5-point scale (0 = almost never, 4 = nearly always;
+e.g., [child name] goes to bed at about the same time each night). Items developed from
+existing measures, such as the Brief Infant Sleep Questionnaire [ 124]
+(3) Media parenting routines: 6 items on a 5-point scale (0 = almost never, 4 = nearly always;
+e.g., “I keep track of [child name] ’s screen-time ”) and a single question on h per day of media
+use. Items were drawn from published studies and measures [ 125]
+Parenting and family
+management skillsQuestionnaires encompass 3 domains of parenting and family management skills:
+(1) positive behavior support, (2) relationship quality, and (3) monitoring and limit
+setting. Each of these measures has been used in previous FCU trials and was found
+to have adequate reliability, internal consistency, and sensitivity to changeSurvey (CG, CH)
+Caregiver: 5-point scale (0 = never, 4 = very often) on the domains of incentives and
+encouragement (4 items; e.g., “Gave [child name] a hug, kiss, or kind word ”)[126];
+proactive parenting (7 items; e.g., “Plan for ways to prevent problem behavior ”)[127], parent –child
+conflict (10 items; e.g., “[child name] gets angry at me easily ”); family conflict (5 items; e.g.,
+“We got angry at each other ”)[126]; quality time (6 items; e.g., “Involve [child name] in
+household chores ”)[127], parent warmth (5 items; e.g., “If upset, [child name] seeks comfort from me ”)
+[128]; family routines (7 items; e.g., “Check to see if [child name] has homework ”); limit setting
+(7 items, e.g., “Speak calmly with [child name] when you were upset with
+him/her ”), negative parent behavior (5 items; e.g., “Criticize [child name] ”)[127]; and
+a single question on h per day of unsupervised time
+Child: 4 items on incentives and encouragement (e.g., “Praised you or complimented you for
+something you did well ”), using a 5-point scale (0 = never, 4 = very often); 4-item questionnaire on
+family conflict (e.g., “I got my way by getting angry ”), using a 7-point scale
+(0 = never, 6 = 8+ times) [ 126]
+Family interaction task (FIT) observational coding system [ 129]: the recorded family interactions are
+scored for caregiver(s) behaviors in the domains of relationship quality, positive behavior support, and
+monitoring and limit setting, as well as demonstrated knowledge of children ’s health behaviors
+(e.g., age-appropriate physical activity duration and dietary guidelines). Child behaviors and emotional
+adaptation are rated. Each domain is rated for parent ’s skill/knowledge on a 5-point scale
+(1 = low, 5 = high) for each interaction task independentlyObservational
+Child self-regulation Caregiver: 13-item survey (e.g., “[child name] is able to resist laughing or smiling when it isn ’t
+appropriate ”) adapted from the Children ’s Behavior Questionnaire [ 130], using a 5-point scale
+(1 = almost always untrue, 5 = almost always true)Survey (CG, CH)
+Child: 16-item questionnaire (e.g., “I pay close attention when someone tells me how to do
+something ”) adapted from the Early Adolescent Temperament Questionnaire [ 131],
+using a 6-point scale (1 = always untrue, 5 = always true)
+Weight-related stigma Perception of Teasing Scale [ 132]: children will use a 5-point scale (1 = never/not upset, 4 = very
+often/extremely upset) to rate the frequency of 3 events pertaining to weight-related stigma and
+describe their level of distress associated with these items (e.g., “People made fun of you because
+you were heavy ”;“How upset does this make you? ”)Survey (CH)
+Body image Body Image Scale for Children: a pictorial scale using body pictures representing standardized
+percentile curves of BMI for boys and girls, separately; good reliability and evidence of validity with
+children aged 7 to 12 [ 133]; proxy for satisfaction and a measure of potential adverse effects of
+participation in the program/studySurvey (CH)
+Quality of life Pediatric Quality of Life Inventory [ 134]: 23 items in four categories: physical functioning,
+emotional functioning, social functioning, and school functioningSurvey (CG, CH)
+Caregivers: 5-point scale (0 = never, 4 = almost always) to rate items (e.g., “[child name]
+feels afraid or scared ”;“[child name] gets along with other children ”)
+Children: 3-point scale (0 = not at all, 2 = somewhat, 4 = a lot) to rate items
+(e.g., “It is hard for me to run ”;“It is hard for me to pay attention in school ”)
+adjusted for 2 age groups: 5 –7 years old and 8 –12 years oldSmith et al. Implementation Science  (2018) 13:11 Page 8 of 15
+Effectiveness
+At each assessment, the child and caregiver(s) will be
+weighed using a portable electronic scale. BMI is the pri-
+mary study outcome because it indicates cardiometa-
+bolic disease progression [70 –72]. However,
+improvement in body composition in the absence of
+weight loss can indicate a healthy change in the ratio of
+fat to lean muscle, which often accompanies significant
+changes in diet and physical activity and results in meta-
+bolic improvement with enduring benefits [73, 74]. At
+each assessment point, caregivers and children report on
+health-promoting family behaviors ;mealtime, sleep, and
+media routines ;child and family physical activity habits ;
+child food and beverage choices ; and use of community
+support services . The FITs are used for observational
+assessment of parenting and family management skills
+using the validated Coder Impressions Inventory [75]
+(Dishion T, Hogansen J, Winter C, Jabson J. The coder im-
+pressions inventory, unpublished manual). Although not
+central to our aims, we will also assess several other con-
+structs related to pediatric obesity: weight-related stigma ,
+body image ,quality of life ,child behavioral and emotional
+adjustment ,a n d caregiver satisfaction with services .
+Data analysis
+Overview
+Analyses focus on implementation data from the families
+randomized to the FCU4Health. Data from families receiv-
+ing services as usual will be used in aims 2b and 3. Before
+data analysis, we will test the ps ychometric properties (i.e.,
+distribution, reliability) of t he measures, conduct a sequence
+of nested multiple-group conf irmatory factor analyses [76]
+to ensure measurement invariance across language and
+ethnicity, and apply state-of-t he-science data reduction tech-
+niques (confirmatory factor an alysis, weighted regression
+scores) by creating multi-ind icator, multi-informant con-
+struct variables when applica ble. These techniques improve
+measurement properties and result in fewer contrasts,reducing type I error [77]. W e expect the attrition rate
+across waves to be 10 –15% based on retention rates for local
+studies with highly mobile, hard-to-track samples [78, 79].
+We will adjust for missing data due to attrition using
+multiple imputation [80] and full information maximum
+likelihood [81]. We will perform sensitivity analyses to check
+t h en o n - r e s p o n s em e c h a n i s m[ 8 2] and attrition analyses to
+detect differential attritio n rates and attrition by group
+interaction on sociodemograp hic and pretest variables that
+m a yp o s eat h r e a tt ot h ev a l i d i t yo rt h ee q u i t yo ft h ef i n d i n g s
+[83]. When missingness is not ignorable, we will use com-
+plex models to obtain parameter estimates [84]. To estimate
+power, we used Optimal Design [85] and Monte Carlo simu-
+lations in Mplus [84] and referred to relevant publications.
+All power analyses used 1 −β=. 8 0 a n d α=. 0 5 u s i n g t w o -
+tailed tests. For mediation models, we applied simulation in
+Mplus for estimating the power of path coefficients and re-
+ferred to a work by Fritz and MacKinnon [86] for examining
+significance of mediation effects.
+For qualitative data analysis, stakeholder and care-
+giver interviews and CAB discussions will be audio
+recorded, transcribed, and then coded using a di-
+rected content analysis approach [87] by using exist-
+ing theory, prior results, and empirical frameworks to
+develop a coding scheme. Codes will be refined using
+a subsample of interviews, and then a team of trained
+coders will code full transcripts. Twenty percent of
+interviews will be double coded in order to calculate
+reliability [88]. Disagreements in coding will be re-
+solved via consensus.
+Aim 1
+Results of the adaptation activities are largely descriptive
+and involve the use of qualitative data from the CAB
+small group discussions to describe the process and
+content of adaptations to the program during the course
+of the trial.Table 2 Clinical effectiveness and related child and family outcomes (Continued)
+Outcome variable(s) Measure(s) and data collection procedures Data source and reporter
+(when applicable)
+Satisfaction with care (1) Family Check-Up Caregiver Service Satisfaction Survey: 9 items rated on a 4-point scale
+(0 = strongly disagree, 4 = strongly agree) adapted from the Client Satisfaction Questionnaire
+[135] to be specific to parent training programs. This was developed for use with the original
+FCU conducted in community mental health clinics [ 89](α= .95) in that trialSurvey (CG)
+(2) Parent Experience of Assessment Survey (PEAS) [ 136]: 3 of the 5 subscales
+(parent –coordinator collaboration, systemic awareness, and negative feelings)
+with 15 total items rated on a 5-point scale
+(1 = strongly disagree, 5 = strongly agree) ( α> .75)
+Child adjustment Strengths and Difficulties Questionnaire [ 137]: caregivers and children rate 5 items each on a
+3-point scale (0 = not true, 1 = somewhat true, 4 = very true) on the conduct problems
+(e.g., “I/[child name] often lose(s) temper ”), hyperactivity (e.g., “I am/[child name] is constantly
+fidgeting or squirming ”), pro-social behavior (e.g., “I am/[child name] is considerate of other
+people ’s feelings ”), and emotional problems (e.g., “I am/[child name] is often unhappy,
+depressed, or sad ”) subscalesSurvey (CG, CH)
+CHchild, CGcaregiver, COFCU4Health coordinator, STstakeholder, EHR electronic health recordSmith et al. Implementation Science  (2018) 13:11 Page 9 of 15
+Aim 2
+In addition to the specific outcomes in aims 2a –2c, we
+will compare the two arms on stakeholder and caregiver
+acceptability using repeated-measures analysis of vari-
+ance (ANOVA) to analyze scores of approximately 30
+stakeholders across two time points. We have sufficient
+power to detect a medium effect for this analysis
+(f≥.32). Concerning the variance of caregiver acceptabil-
+ity ratings between groups or over time, we have
+sufficient power to detect a medium effect ( f≥.28).
+Latent growth curve (LGC) analyses will be used to
+determine group differences in the trajectory over time.
+The estimated power for this analysis is β= 0.12.
+Aim 2a: fidelity
+We will calculate the mean score, interrater correlation
+coefficient, and internal consistency of the observational
+ratings. Using a mixed-effects model with random
+effects for families and a fixed-effects model, we will
+compare scores from prior FCU trials [53 –55, 89]
+(Smith JD, Dishion TJ, Rudo-Stern J, Stormshak EA,
+Brown K, Ramos K, Thornton N, Shaw DS, Wilson MN,
+, A quasi-experimental study of the sensitivity and effi-
+ciency of observationally assessing fidelity, submitted) to
+those from the current trial. We have power to detect a
+small effect of d≥.18. Second, we will use the LGC ana-
+lysis to (1) evaluate drift in fidelity [53] (power to detect
+a small effect of d≥.16 for μslope) with the sample size of
+80 families and 240 feedback sessions and (2) assess the
+relation between variability in fidelity on program effects
+(power to detect a small effect of β≥.10 for μslope on
+outcomes). To evaluate fidelity using automated coding,
+we will conduct the same analyses as above but with all
+600 feedback sessions. Even when controlling for imper-
+fect reliability, we have power to detect a small effect of
+d≥.10 for comparison to previous trials, a small effect
+ofd≥.11 for μslope, and a small effect of β≥.08 for μslope
+on outcomes.
+Aim 2b: costs
+An ingredient-based cost analysis procedure will be
+employed to estimate FCU4Health installation and con-
+tinued implementation costs. Using an activity-based
+costing approach will allow us to value activities both
+locally and from national data sources (e.g., US Bureau
+of Labor Statistics), providing estimates relevant for
+scale-up in new pediatric care settings nationwide. First,
+we will conduct a budget impact analysis (BIA) of the
+cost to install the program (i.e., prior to enrollment and
+provision of care). BIA provides an estimate of the finan-
+cial consequences of adopting a new intervention from
+the perspective of the entity financing the intervention
+[90]. Second, a multi-perspective cost –benefit analysis
+will be undertaken to capture the potential impact of theFCU4Health on different key stakeholders (i.e., payor,
+hospital, family). The fiscal models will be structured to
+estimate monetary benefits associated with program
+effects. For significant program effects on the outcome
+measures in aims 1 and 2, we will calculate the total
+benefit as a function of the size of the effect ( Q) and the
+price per unit ( P) for each year ( y). This value can be
+simply represented as By=Qy×Py. Effects at 6 and
+12 months will be adjusted using a discount rate to
+accommodate the impact of time on our estimates. To
+avoid overlap or double-counting benefits, we will
+employ a weighted average approach of outcomes [91].
+We will calculate the average based on the total effect
+sizes for each outcome in order to estimate the benefits
+from a single monetary source. While point estimates
+often represent the bottom line for such an evaluation
+(e.g., a return-on-investment amount), a confidence
+interval that incorporates different values of model input
+that might feasibly occur is more appropriate given the
+various model assumptions used [92]. A common model
+input that could take a range of values represents
+economic uncertainty (i.e., the discounting rate) [93]. In
+addition to representing the variation that might be
+expected due to sampling, we will also consider a range
+of estimates due to anticipated variation in program
+characteristics. We will consider how key aspects of the
+delivery system, such as facility costs or provider salary,
+might vary with new installations.
+Aim 2c: sustainability
+The sustainability plan will be largely descriptive and
+involve the synthesis of quantitative and qualitative data
+across implementation outcomes, caregiver satisfaction
+survey results, and CAB guidance. We will use a mixed-
+methods data analytic approach (QUANT = QUAL) [94]
+to develop the sustainability plan.
+Aim 3
+We will apply intent-to-treat analyses, using data from
+all participants who are randomly assigned to the two
+arms. Our unbalanced design (200 FCU4Health, 150
+services-as-usual) only slightly affects statistical power
+[95]. The primary outcomes are the distal effects on
+child weight status and body composition and effects on
+more proximal mediators, including healthy lifestyle
+(dietary and physical activity habits), child self-
+regulation, parenting variables, and use of community
+support services. The LGC analysis for the continuous
+BMI and body composition measures will be used to
+compare the trajectories of the two conditions over time
+analyzed with random-effects models [96]. Specifically,
+we will estimate whether individual changes (i.e., growth
+trajectories) over time vary from person to person and
+whether inter-individual variation is systematicallySmith et al. Implementation Science  (2018) 13:11 Page 10 of 15
+related to intervention assignment. For comparing
+FCU4Health and control arms using analysis of covari-
+ance (ANCOVA), we have power to detect a mean
+difference with a small-to-medium effect size ( d≥.25;
+odds ratio ≥1.5, assuming the base rate of the control
+group is 30%). This means we have power to detect the
+size of effect on BMI found in previous trials with
+children and early adolescents, which varies significantly
+from small to medium (range: d= .20 –.40) across inter-
+vention types [97 –100] but is large ( d≥.50) for family-
+centered behavioral programs [101, 102]. For the growth
+models (repeated-measures analysis using three or four
+data points), we have power to detect a small effect on
+the trajectory ( β= .12 or η2≤2%). LGC modeling has
+better power than the two-time point ANCOVA for
+detecting treatment effects in a randomized design
+[103]. Second, we will examine whether program effects
+on the distal outcomes are transmitted through the pro-
+gram effects on the proximal variables using mediation
+analyses, controlling for baseline measures of the mediator
+and outcome. Bootstrapping will be used to form confi-
+dence intervals to test for mediation effects, which has
+been shown to have better power [86, 104]. We have
+power to detect a mediated effect if the two paths each
+have a small-to-medium effect ( βvalues ≥.14).
+Baseline weight, ecological risk, minority status, pov-
+erty status, and child gender will be included as covari-
+ates and tested as potential moderators. Moderation of
+program effects will be examined by adding a program
+by moderator interaction in the models of primary out-
+comes and mediators one at a time. For significant inter-
+actions, post hoc probing of simple effects (i.e., effects at
+different values of the moderator) will be conducted,
+following Aiken and West [105]. Accounting for the
+imperfect reliability, we have power to detect moderation
+effects that account for R2≤3% of the outcome [106].
+We will examine whether it is necessary to account for
+site and coordinator effects by calculating the design
+effect metric [107]. If significant, we will modify our
+statistical plans and utilize multi-level models with site
+or coordinator as the cluster variable.
+Aim 4
+To determine differences in family participation between
+conditions, we will use the Wilcoxon rank-sum tests.
+We have sufficient power to detect a medium effect for
+this analysis ( f≥.30). Next, we will use path analysis in
+structural equation modeling to test a model of program
+implementation where family engagement mediates the
+relation between fidelity and clinical outcomes [58].
+Using automated fidelity data on the FCU4Health condi-
+tion sample ( N= 200), we have power to detect a medi-
+ated effect if the two paths each has a small-to-medium
+effect ( βvalues ≥.21).Study status
+At the time this manuscript was submitted for publica-
+tion, the study was underway. We are planning for our
+fourth CAB meeting; initial adaptation of the program
+and assessment is complete; interviewers, coordinators,
+and other program staff have been trained; and recruit-
+ment is in progress at all three agencies. We have also
+begun formative work on the development of the auto-
+mated fidelity coding system using data from previous
+FCU trials.
+Discussion
+Similar to some previously published study protocols in
+this journal, our type II hybrid effectiveness –implemen-
+tation trial blends pragmatic trial and implementation
+science frameworks. However, our protocol is somewhat
+unique to the hybrid trial design described by Curran et
+al. [46] because the two implementation strategies differ
+on the pragmatic –explanatory trial continuum [108] in
+which the integrated/co-located care arm of the trial is
+more pragmatic compared to the coordinated care with
+referral condition, which is more explanatory. However,
+both conditions are far more pragmatic than they are
+explanatory —as would be expected for a hybrid trial.
+This was done to speed translation given that the effect-
+iveness of the adapted FCU4Health program was par-
+tially supported by the large existing corpus of evidence
+supporting the original FCU to both change the pur-
+ported mediators as well as the primary child outcomes
+[44]. Additionally, the request for applications for the
+Childhood Obesity Research Demonstration Projects 2.0
+indicated preference for such a design [109].
+One of the primary challenges we have encountered
+since beginning this study relates to working with health-
+care organizations. Context is always critical to implemen-
+tation research, and differences are magnified when
+attempting to implement a complex behavioral interven-
+tion where, previously, a similar program did not exist.
+The partnerships between the research team and the com-
+munity sites are critical for success [110], and we have
+been able to remain successful due to the strength of our
+partnership, but administrative, personnel, and other
+issues required extensive meetings, which protracted our
+planned preparation time from 6 months to nearly
+12 months. Many of the issues that were raised could not
+have been avoided. In part, the extended time was due to
+variation within our partner clinics that necessitated meet-
+ings as well as continually garnering buy-in from leader-
+ship and staff that would deliver the FCU4Health.
+In conclusion, this study was designed to address a
+larger issue in the field of pediatric obesity manage-
+ment —the lack of penetration of evidence-based pro-
+grams into the primary healthcare system. The B rating
+for family-centered weight management interventionsSmith et al. Implementation Science  (2018) 13:11 Page 11 of 15
+for children aged 6 to 12 years with overweight and
+obesity by the US Preventive Services Task Force [111]
+provided a financial avenue for such interventions in
+primary care. This study was aimed at testing and evalu-
+ating the many factors that comprise the struggle of
+making a complex, evidence-based program work in the
+real world [112]. Achieving wide-scale adoption of the
+FCU4Health, if found to be effective, would impact the
+pediatric obesity epidemic in a way that could simultan-
+eously address a number of the factors that result in
+healthcare disparities for chronic conditions.
+Additional file
+Additional file 1: Notice of award. Notice of award from CDC for year 1.
+(PDF 245 kb)
+Abbreviations
+ANCOVA: Analysis of covariance; ANOVA: Analysis of variance; BMI: Body
+mass index; CAB: Community advisory board; FCU: Family Check-Up;
+FCU4Health: Family Check-Up 4 Health; FQHC: Federally Qualified Health
+Center; LGC: Latent growth curve; MI: Motivational interviewing
+Acknowledgements
+The authors wish to thank our collaborators on this cooperative agreement
+in the Division at the Centers for Disease Control and Prevention (Brook
+Belay, Heidi Blanck, Carrie Dooyema, Alyson Goodman, Ann O ’Connor); our
+dedicated study staff at the Arizona State University (Martha Serrano, Lizeth
+Alonso, Kasha Blair, Monique Lopez, Kirsten Letham, Jon Lipfert, Jenn Yun-Tein),
+the Northwestern University (Krystal Baker, Katia Chernyshov), and the University
+of Southern California (Victor Martinez Palacios and colleagues at the Signal
+Analysis and Interpretation Lab); our partner healthcare agencies; and the many
+individuals providing guidance and input as members of our community
+advisory board.
+Funding
+This study is supported by grant U18 DP006255 from the National Center for
+Chronic Disease Prevention and Health Promotion of the Centers of Disease
+Control and Prevention, under the Childhood Obesity Research
+Demonstration Project 2.0 (CORD), awarded to Cady Berkel and Justin Smith.
+Additional support was provided by grant DA027828 from the National
+Institute on Drug Abuse, awarded to C. Hendricks Brown, and by the
+Implementation Research Institute (IRI) at the George Warren Brown School
+of Social Work, Washington University in St. Louis, through grant R25
+MH080916 from the National Institute of Mental Health and the Department
+of Veterans Affairs, Health Services Research and Development Service,
+Quality Enhancement Research Initiative (QUERI). The opinions expressed
+herein are the views of the authors and do not necessarily reflect the official
+policy or position of the Centers for Disease Control and Prevention, the
+Department of Veterans Affairs, the National Institute on Drug Abuse, the
+National Institute of Mental Health, or any other part of the US Department
+of Health and Human Services. The development work for this study was
+supported by a research grant from the College of Liberal Arts and Sciences
+at the Arizona State University, awarded to Thomas Dishion.
+Availability of data and materials
+Physicians and other staff in the agencies will have access to personal data
+of their own patients. Anonymized final trial dataset will be accessed only by
+members of the research team named on the approved IRB protocol.
+Investigators will offer the possibility of communicating trial results to
+participants and healthcare professionals under request. Anonymized trial
+results will be updated in Clinicaltrials.gov for the general public.Authors ’contributions
+JDS and CB conceived of the study. JDS and CB designed and coordinated
+the study. NJ, CG, DCA, SSN, TJD, AMM, JR-S, KJG, and EW participated in the
+different phases of the study design. JDS, CB, TJD, AMM, JR-S, and MMB
+developed the different aspects of the clinical intervention and its related
+training components and delivery procedures. JDS, CB, TJD, NJ, MKM, DCA,
+and SSN collaborated in the writing of the manuscript. JDS and CB wrote
+the final manuscript. All authors read and approved the final manuscript.
+Ethics approval and consent to participate
+The trial is designed in accordance with the basic ethical principles of
+autonomy, beneficence, justice, and non-maleficence and will be conducted
+in accordance with the rules of Good Clinical Practice outlined in the most
+recent Declaration of Helsinki. Written informed consent of patients will be
+required. Data confidentiality and anonymity will be ensured, according to
+the provisions of US law, both during the implementation phase of the
+study and in any resulting presentations or publications.
+The study has been favorably evaluated by the Institutional Review Board of
+Arizona State University on July 14, 2016 (Protocol 00004530), and by the
+Institutional Review Board of the Phoenix Children ’s Hospital on May 30,
+2017 (Protocol 17-001). All other institutions participating in this research
+provided signed reliance agreements ceding to the Institutional Review
+Board of Arizona State University. A model of the informed consent
+completed by the participants of this trial is provided as an Additional file 1.
+Any important protocol modification will be communicated to the
+Institutional Review Board of Arizona State University and updated in
+Clinicaltrials.gov.
+Consent for publication
+Not applicable.
+Competing interests
+JDS and CB are the co-developers of the Family Check-Up 4 Health program.
+TJD is the developer of the original Family Check-Up program. DCA and SSN
+are co-founders with equity stakes in a technology company, Lyssn.io, fo-
+cused on tools to support training, supervision, and quality assurance of psy-
+chotherapy and counseling.
+Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Author details
+1Department of Psychiatry and Behavioral Sciences, Northwestern University
+Feinberg School of Medicine, Chicago, IL, USA.2Department of Preventive
+Medicine, Northwestern University Feinberg School of Medicine, Chicago, IL,
+USA.3Department of Pediatrics, Northwestern University Feinberg School of
+Medicine, Chicago, IL, USA.4REACH Institute, Department of Psychology,
+Arizona State University, Tempe, AZ, USA.5Department of Psychiatry and
+Behavioral Sciences, University of Washington School of Medicine, Seattle,
+WA, USA.6Department of Electrical Engineering and Computer Science,
+University of Southern California, CA, Los Angeles, USA.7Department of
+Nutrition, Arizona State University, Tempe, AZ, USA.
+Received: 13 November 2017 Accepted: 7 December 2017
+References
+1. Barness LA, Opitz JM, Gilbert-Barness E. Obesity: genetic, molecular, and
+environmental aspects. Am J Med Genet A. 2007;143(24):3016 –34.
+2. Eaton DK, Kann L, Kinchen S, Shanklin S, Flint KH, Hawkins J, Harris WA,
+Lowry R, McManus T, Chyen D, et al. Youth risk behavior
+surveillance —United States, 2011. MMWR Surveill Summ. 2012;61(4):1 –162.
+3. Boutelle KN, Hannan P, Fulkerson JA, Crow SJ, Stice E. Obesity as a
+prospective predictor of depression in adolescent females. Health Psychol.
+2010;29(3):293 –8.
+4. Crosnoe R, Muller C. Body mass index, academic achievement, and school
+context: examining the educational experiences of adolescents at risk of
+obesity. J Health Soc Behav. 2004;45(4):393 –407.Smith et al. Implementation Science  (2018) 13:11 Page 12 of 15
+5. Echeverría SE, Vélez-Valle E, Janevic T, Prystowsky A. The role of poverty
+status and obesity on school attendance in the United States. J Adolesc
+Health. 2014;55(3):402 –7.
+6. Ogden CL, Carroll MD, Lawman HG, Fryar CD, Kruszon-Moran D, Kit BK, Flegal
+KM. Trends in obesity prevalence among children and adolescents in the
+United States, 1988-1994 through 2013-2014. JAMA. 2016;315(21):2292 –9.
+7. Broussard BA, Johnson A, Himes JH, Story M, Fichtner R, Hauck F, Bachman-
+Carter K, Hayes J, Frohlich K, Gray N. Prevalence of obesity in American
+Indians and Alaska Natives. Am J Clin Nutr. 1991;53(6):1535S –42S.
+8. Messiah SE, Arheart KL, Lopez-Mitnik G, Lipshultz SE, Miller TL. Ethnic group
+differences in cardiometabolic disease risk factors independent of body
+mass index among American youth. Obesity. 2013;21(3):424 –8.
+9. Wang Y, Beydoun MA. The obesity epidemic in the United
+States —gender, age, socioeconomic, racial/ethnic, and geographic
+characteristics: a systematic review and meta-regression analysis.
+Epidemiol Rev. 2007;29(1):6 –28.
+10. Control CfD. Prevention: establishing a holistic framework to reduce
+inequities in HIV, viral hepatitis, STDs, and tuberculosis in the United States.
+Atlanta: CDC; 2010.
+11. Brewis AA. Stigma and the perpetuation of obesity. Soc Sci Med. 2014;
+118:152 –8.
+12. Schulz A, Northridge ME. Social determinants of health: implications for
+environmental health promotion. Health Educ Behav. 2004;31(4):455 –71.
+13. Van Ryzin MJ, Nowicka P. Direct and indirect effects of a family-based
+intervention in early adolescence on parent –youth relations hip quality,
+late adolescent health, and early adult obesity. J Fam Psychol. 2013;
+27(1):106 –16.
+14. Collins KS, Hughes DL, Doty MM, Ives BL, Edwards JN, Tenney K. Diverse
+communities, common concerns: assessing health care quality for minority
+americans. Commonwealth Fund: New York; 2002.
+15. Lloyd-Jones DM, Hong Y, Labarthe D, Mozaffarian D, Appel LJ, Van Horn L,
+Greenlund K, Daniels S, Nichol G, Tomaselli GF, et al. Defining and setting
+national goals for cardiovascular health promotion and disease reduction:
+the American Heart Association ’s strategic impact goal through 2020 and
+beyond. Circulation. 2010;121(4):586 –613.
+16. Sung-Chan P, Sung YW, Zhao X, Brownson RC. Family-based models for
+childhood-obesity intervention: a systematic review of randomized
+controlled trials. Obes Rev. 2013;14(4):265 –78.
+17. Barr-Anderson DJ, Adams-Wynn AW, DiSantis KI, Kumanyika S. Family-
+focused physical activity, diet and obesity interventions in African –American
+girls: a systematic review. Obes Rev. 2013;14(1):29 –51.
+18. Hingle MD, O ’Connor TM, Dave JM, Baranowski T. Parental involvement in
+interventions to improve child dietary intake: a systematic review. Prev Med.
+2010;51(2):103 –11.
+19. Kitzman-Ulrich H, Wilson D, George S, Lawman H, Segal M, Fairchild A. The
+integration of a family systems approach for understanding youth obesity,
+physical activity, and dietary programs. Clin Child Fam Psychol Rev. 2010;
+13(3):231 –53.
+20. Krebs NF, Jacobson MS, American Academy of Pediatrics Committee on
+Nutrition. Prevention of pediatric overweight and obesity. Pediatrics. 2003;
+112(2):424 –30.
+21. Altman M, Wilfley DE. Evidence update on the treatment of overweight
+and obesity in children and adolescents. J Clin Child Adolesc Psychol.
+2015;44(4):521 –37.
+22. Leslie LK, Mehus CJ, Hawkins JD, Boat T, McCabe MA, Barkin S, Perrin EC,
+Metzler CW, Prado G, Tait VF, et al. Primary health care: potential home for
+family-focused preventive interventions. Am J Prev Med. 2016;
+23. Prado G, Pantin H, Estrada Y. Integrating evidence-based interventions for
+adolescents into primary care. Am J Prev Med. 2015;48(4):488 –90.
+24. Kjøbli J, Ogden T. A randomized effectiveness trial of brief parent training in
+primary care settings. Prev Sci. 2012;13(6):616 –26.
+25. Bloom B, Jones LI, Freeman G. Summary health statistics for U.S. children:
+National Health Interview Survey, 2012. Atlanta: Vital health statistics, series
+10, number 258: National Center for Health Statistics; 2013.
+26. Burwell SM. 2014 annual report on the quality of care for children in
+Medicaid and CHIP. Washington DC: Department of Health and Human
+Services; 2014.
+27. August GP, Caprio S, Fennoy I, Freemark M, Kaufman FR, Lustig RH,
+Silverstein JH, Speiser PW, Styne DM, Montori VM. Prevention and treatment
+of pediatric obesity: an endocrine society clinical practice guideline based
+on expert opinion. J Clin Endocrinol Metab. 2008;93(12):4576 –99.28. Barlow SE. Expert committee recommendations regarding the prevention,
+assessment, and treatment of child and adolescent overweight and obesity:
+summary report. Pediatrics. 2007;120(Supplement 4):S164 –92.
+29. National Research Council and Institute of Medicine. Early childhood obesity
+prevention policies. Washington, DC: The National Academies; 2011.
+30. Kitzmann KM, Beech BM. Family-based interventions for pediatric obesity:
+methodological and conceptual challenges from family psychology. Couple
+and Family Psychology. 2011;1(S):45 –62.
+31. Rhee KE. Childhood overweight and the relationship between parent
+behaviors, parenting style, and family functioning. Ann Am Acad Pol Soc
+Sci. 2008;615(1):11 –37.
+32. Leslie LK, Mehus CJ, Hawkins JD, Boat T, McCabe M, Barkin SL, Perrin EC, Metzler
+CW, Prado G, Tait VF, et al. Primary health care: potential home for family-focused
+preventive interventions. Am J Prev Med. 2016;51(4 (supp 2)):S106 –18.
+33. Turner KM, Shield JP, Salisbury C. Practitioners ’views on managing
+childhood obesity in primary care: a qualitative study. Br J Gen Pract. 2009;
+59(568):856 –62.
+34. Glasgow RE, Emmons KM. How can we increase translation of research
+into practice? Types of evidence needed. Annu Rev Public Health. 2007;
+28:413 –33.
+35. Chambers DA, Glasgow R, Stange K. The dynamic sustainability framework:
+addressing the paradox of sustainment amid ongoing change. Implement
+Sci. 2013;8:117.
+36. Boyd-Ball AJ, Dishion TJ, Liddle HA, Rowe C. Family-centered treatment for
+American Indian adolescent substance abuse: toward a culturally and
+historically informed strategy. Adolesc Subst Abuse. 2006:423 –48.
+37. Smith JD, Knoble N, Zerr AA, Dishion TJ, Stormshak EA. Multicultural
+competence and the Family Check-Up: indirect effect on adolescent
+antisocial behavior through family conflict. J Clin Child Adolesc Psychol.
+2014;43(3):400 –14.
+38. Dishion TJ, Shaw DS, Connell A, Gardner FEM, Weaver C, Wilson M. The
+Family Check-Up with high-risk indigent families: preventing problem
+behavior by increasing parents ’positive behavior support in early
+childhood. Child Dev. 2008;79(5):1395 –414.
+39. Smith JD, Stormshak EA, Kavanagh K. R esults of a pragmatic effectiveness-
+implementation hybrid trial of the Family Check-Up in community mental health
+agencies. Adm Policy Ment Health Ment Health Serv Res. 2015;42(3):265 –78.
+40. Dishion TJ, Andrews DW. Preventing escalation in problem behaviors with
+high-risk young adolescents: immediate and 1-year outcomes. J Consult
+Clin Psychol. 1995;63(4):538 –48.
+41. Connell AM, Dishion TJ, Deater-Deckard K. Variable- and person-centered
+approaches to the analysis of early adolescent substance use: linking peer,
+family, and intervention effects with developmental trajectories. Merrill-
+Palmer Q. 2006;52:421 –48.
+42. Stormshak EA, Connell AM, Véronneau M-H, Myers MW, Dishion TJ,
+Kavanagh K, Caruthers AS. An ecological approach to promoting early
+adolescent mental health and social adaptation: family-centered
+intervention in public middle schools. Child Dev. 2011;82(1):209 –25.
+43. Boyd-Ball AJ. A culturally responsive, family-enhanced intervention model.
+Alcohol Clin Exp Res. 2003;27(8):1356 –60.
+44. Smith JD, Montaño Z, Dishion TJ, Shaw DS, Wilson MN. Preventing weight
+gain and obesity: indirect effects of a family-based intervention in early
+childhood. Prev Sci. 2015;16(3):408 –19.
+45. Dishion TJ, Stormshak EA, Kavanagh K. Everyday parenting: a professional ’s
+guide to building family management skills. Champaign: Research; 2011.
+46. Curran GM, Bauer M, Mittman B, Pyne JM, Stetler C. Effectiveness-
+implementation hybrid designs: combining elements of clinical
+effectiveness and implementation research to enhance public health
+impact. Med Care. 2012;50(3):217 –26.
+47. Ware JH, Hamel MB. Pragmatic trials —guides to better patient care? N Engl
+J Med. 2011;364(18):1685 –7.
+48. Kelleher KJ, Campo JV, Gardner WP. Management of pediatric mental
+disorders in primary care: where are we now and where are we going? Curr
+Opin Pediatr. 2006;18(6):649 –53.
+49. Kolko DJ, Perrin E. The integration of behavioral health interventions in
+children ’s health care: services, science, and suggestions. J Clin Child
+Adolesc Psychol. 2014;43(2):216 –28.
+50. Montaño Z, Smith JD, Chiapa A, Miloh T, Dishion TJ: Adaptation and
+implementation of the Family Check-Up for the treatment of pediatric
+obesity within a primary care setting. The annual meeting of the Society for
+Prevention Research: 2014; Washington, DC; 2014.Smith et al. Implementation Science  (2018) 13:11 Page 13 of 15
+51. Proctor EK, Landsverk JA, Aarons GA, Chambers D, Glisson C, Mittman B.
+Implementation research in mental health services: an emerging science
+with conceptual, methodological, and training challenges. Adm Policy Ment
+Health Ment Health Serv Res. 2009;36(1):24 –34.
+52. Proctor EK, Silmere H, Raghavan R, Hovmand P, Aarons GA, Bunger A,
+Griffey R, Hensley M. Outcomes for implementation research: conceptual
+distinctions, measurement challenges, and research agenda. Adm Policy
+Ment Health Ment Health Serv Res. 2011;38(2):65 –76.
+53. Chiapa A, Smith JD, Kim H, Dishion TJ, Shaw DS, Wilson MN. The trajectory of
+fidelity in a multiyear trial of the Family Check-Up predicts change in child
+problem behavior. J Consult Clin Psychol. 2015; Available ahead of print
+54. Smith JD, Dishion TJ, Shaw DS, Wilson MN. Indirect effects of fidelity to the
+Family Check-Up on changes in parenting and early childhood problem
+behaviors. J Consult Clin Psychol. 2013;81(6):962 –74.
+55. Smith JD, Dishion TJ, Brown K, Ramos K, Knoble NB, Shaw DS, Wilson MN.
+An experimental study of procedures to enhance ratings of fidelity to an
+evidence-based family intervention. Prev Sci. 2016;(1):62-70.
+56. Atkins D, Steyvers M, Imel Z, Smyth P. Scaling up the evaluation of
+psychotherapy: evaluating motivational interviewing fidelity via statistical
+text classification. Implement Sci. 2014;9(1):49.
+57. Ritzwoller DP, Sukhanova A, Gaglio B, Glasgow RE. Costing behavioral
+interventions: a practical guide to enhance translation. Ann Behav Med.
+2009;37(2):218 –27.
+58. Berkel C, Mauricio AM, Schoenfelder EN, Sandler IN. Putting the pieces
+together: an integrated model of program implementation. Prev Sci. 2011;
+12(1):23 –33.
+59. Dishion TJ, Brennan LM, Shaw DS, McEachern AD, Wilson MN, Jo B.
+Prevention of problem behavior through annual family check-ups in early
+childhood: intervention effects from home to early elementary school. J
+Abnorm Child Psychol. 2014;42(3):343 –54.
+60. Whitlock EP, O'Connor EA, Williams SB, et al. Systematic review for the
+USPSTF effectiveness of weight management interventions in children: A
+targeted systematic review for the USPSTF. Pediatrics. 2010;125(2):e396-e418.
+61. Smith JD, Berkel C, Hails KA, Dishion TJ, Shaw DS, Wilson MN. Predictors of
+participation in the Family Check-Up program: a randomized trial of yearly
+services from age 2 to 10 years. Prev Sci. 2016; e-pub ahead of print
+62. Smith JD, Berkel C, Mauricio AM, Rudo-Stern J, Serrano M, Bruening MM,
+Dishion TJ. Family Check-Up 4 Health (FCU4Health) program overview and
+protocol for the Raising Healthy Children Study. Tempe: REACH Institute,
+Arizona State University; 2016.
+63. Stiles PG, Boothroyd RA, Snyder K, Zong X. Service penetration by persons
+with severe mental illness: how should it be measured? J Behav Health Serv
+Res. 2002;29(2):198 –207.
+64. Imel ZE, Barco JS, Brown HJ, Baucom BR, Baer JS, Kircher JC, Atkins DC. The
+association of therapist empathy and synchrony in vocally encoded arousal.
+J Couns Psychol. 2014;61(1):146 –53.
+65. Xiao B, Imel ZE, Georgiou PG, Atkins DC, Narayanan SS. “Rate my therapist ”:
+automated detection of empathy in drug and alcohol counseling via
+speech and language processing. PLoS One. 2015;10(12):e0143055.
+66. Gallo C, Pantin H, Villamar J, Prado G, Tapia M, Ogihara M, Cruden G, Brown
+CH. Blending qualitative and computational linguistics methods for fidelity
+assessment: experience with the Familias Unidas preventive intervention.
+Adm Policy Ment Health Ment Health Serv Res. 2014;42(5):574 –85.
+67. Wang D, Ogihara M, Gallo CG, Villamar J, Smith JD, Vermeer W, Cruden G,
+Benbow N, Brown CH. Automatic classification of communication logs into
+implementation stages via text analysis. Implement Sci. 2016;11(1):119.
+68. Atkins DC, Rubin TN, Steyvers M, Doeden MA, Baucom BR, Christensen A.
+Topic models: a novel method for modeling couple and family text data. J
+Fam Psychol. 2012;26(5):816 –27.
+69. Lord SP, Sheng E, Imel ZE, Baer J, Atkins DC. More than reflections: empathy
+in motivational interviewing includes language style synchrony between
+therapist and client. Behav Ther. 2015;46(3):296 –303.
+70. Burgert TS, Taksali SE, Dziura J, Goodman TR, Yeckel CW, Papademetris X,
+Constable RT, Weiss R, Tamborlane WV, Savoye M. Alanine aminotransferase
+levels and fatty liver in childhood obesity: associations with insulin
+resistance, adiponectin, and visceral fat. J Clin Endocrinol Metab. 2006;
+91(11):4287 –94.
+71. Kim G, Caprio S. Diabetes and insulin resistance in pediatric obesity. Pediatr
+Clin N Am. 2011;58(6):1355 –61.
+72. Olza J, Aguilera CM, Gil-Campos M, Leis R, Bueno G, Martínez-Jiménez MD,
+Valle M, Cañete R, Tojo R, Moreno LA. Myeloperoxidase is an earlybiomarker of inflammation and cardiovascular risk in prepubertal obese
+children. Diabetes Care. 2012;35(11):2373 –6.
+73. Burke V, Milligan RAK, Thompson C, Taggart AC, Dunbar DL, Spencer MJ,
+Medland A, Gracey MP, Vandongen R, Beilin LJ. A controlled trial of health
+promotion programs in 11-year-olds using physical activity “enrichment ”for
+higher risk children. J Pediatr. 1998;132(5):840 –8.
+74. Carnethon MR, Gidding SS, Nehgme R, Sidney S, Jacobs DR Jr, Liu K.
+Cardiorespiratory fitness in young adulthood and the development of
+cardiovascular disease risk factors. JAMA. 2003;290(23):3092 –100.
+75. Chiapa A, Parra Morris G, Veronneau MH, Dishion TJ. Translational
+research on parenting of adolescents: linking theory to valid
+observation measures for family centered prevention and treatment.
+Transl Behav Med. 2016;6(1):90 –104.
+76. Widaman KF, Reise SP. Exploring the measurement invariance of
+psychological instruments: applications in the substance use domain. In:
+Bryant KJ, Windle MT, West SG, editors. The science of prevention:
+methodological advances from alcohol and substance abuse research.
+Washington DC: American Psychological Association; 1997. p. 281 –324.
+77. Peter H, Westfall R, Rom D, Wolfinger R, Hochberg Y. Multiple comparisons
+and multiple tests: using the SAS system. Cary: SAS Institute; 2000.
+78. Dishion TJ, Connell AM. An ecological approach to family intervention to prevent
+adolescent drug use: link ing parent engagement to long-term reductions of
+tobacco, alcohol and marijuana use. In: Heinrichs N, Hahlweg K, Doepfner M,
+editors. Strengthening families: eviden ce-based approaches to support child
+mental health. Munster: Verlag fur Psychotherapie; 2008. p. 403 –33.
+79. Gonzales NA, Dumka LE, Millsap RE, Gottschall A, McClain DB, Wong JJ,
+Germán M, Mauricio AM, Wheeler L, Carpentier FD. Randomized trial of a
+broad preventive intervention for Mexican American adolescents. J Consult
+Clin Psychol. 2012;80(1):1 –16.
+80. Schafer JL, Graham JW. Missing data: our view of the state of the art.
+Psychol Methods. 2002;7:147 –77.
+81. Arbuckle JL. Full information estimation in the presence of incomplete
+data. In: Marcoulides GA, Schumacker RE, editors. Advanced structural
+equation modeling: issues and techniques. Mahwah: Lawrence Erlbaum
+Associates; 1996.
+82. Resseguier N, Giorgi R, Paoletti X. Sensitivity analysis when data are missing
+not-at-random. Epidemiology. 2011;22(2):282.
+83. Jurs SG, Glass GV. The effect of experimental mortality on the internal and
+external validity of the randomized comparative experiment. J Exp Educ.
+1971;40(1):62 –6.
+84. Muthén LK, Muthén BO. Mplus user ’s guide (version 7.2). Muthén & Muthén:
+Los Angeles; 2014.
+85. Raudenbush SW, Spybrook J, Congdon R, Liu X, Martinez A. Optimal design
+plus empirical evidence. 3.0 ed; 2011.
+86. Fritz MS, MacKinnon DP. Required sample size to detect the mediated
+effect. Psychol Sci. 2007;18(3):233 –9.
+87. Hsieh H-F, Shannon SE. Three approaches to qualitative content analysis.
+Qual Health Res. 2005;15(9):1277 –88.
+88. Krippendorff K. Agreement and information in the reliability of coding.
+Commun Methods Meas. 2011;5(2):93 –112.
+89. Smith JD, Stormshak EA, Kavanagh K. Results of a pragmatic
+effectiveness-implementation hybrid trial of the Family Check-Up in
+community mental health agencies. Adm Policy Ment Health Ment
+Health Serv Res. 2014;42(3):265 –78.
+90. Budget impact analysis [https://www.herc.research.va.gov/include/page.
+asp?id=budget-impact-analysis].
+91. Lee S, Aos S, Drake E, Pennucci A, Miller M, Anderson L. Return on
+investment: evidence-based options to improve statewide outcomes.
+Olympia: Washington State Institute for Public Policy; 2012.
+92. Drummond MF, Sculpher MJ, Claxton K, Stoddart GL, Torrance GW.
+Methods for the economic evaluation of health care programmes. Oxford:
+Oxford University Press; 2015.
+93. Haddix AC, Teutsch SM, Corso PS. Prevention effectiveness: a guide to decision
+analysis and economic evaluation. Oxford: Oxford University Press; 2003.
+94. Palinkas LA, Aarons GA, Horwitz S, Chamberlain P, Hurlburt M, Landsverk J.
+Mixed method designs in implementation research. Adm Policy Ment
+Health Ment Health Serv Res. 2011;38(1):44 –53.
+95. Konstantopoulos S. Power analysis in two-level unbalanced designs. J Exp
+Educ. 2010;78(3):291 –317.
+96. Singer JD, Willett JB. Applied longitudinal data analysis: modeling change
+and event occurrence. New York: Oxford University Press; 2003.Smith et al. Implementation Science  (2018) 13:11 Page 14 of 15
+97. Stice E, Shaw H, Marti CN. A meta-analytic review of obesity prevention
+programs for children and adolescents: the skinny on interventions that
+work. Psychol Bull. 2006;132(5):667 –91.
+98. Kamath CC, Vickers KS, Ehrlich A, McGovern L, Johnson J, Singhal V, Paulo R,
+Hettinger A, Erwin PJ, Montori VM. Behavioral interventions to prevent
+childhood obesity: a systematic review and metaanalyses of randomized
+trials. J Clin Endocrinol Metab. 2008;93(12):4606 –15.
+99. McGovern L, Johnson JN, Paulo R, Hettinger A, Singhal V, Kamath C,
+Erwin PJ, Montori VM. Treatment of pediatric obesity: a systematic
+review and meta-analysis of randomized trials. J Clin Endocrinol Metab.
+2008;93(12):4600 –5.
+100. Cohen J. Statistical power analysis for the bahavioral sciences. 2nd ed.
+Hillsdale: Erlbaum; 1988.
+101. Wilfley DE, Tibbs TL, Van Buren D, Reach KP, Walker MS, Epstein LH. Lifestyle
+interventions in the treatment of childhood overweight: a meta-analytic
+review of randomized controlled trials. Health Psychol. 2007;26(5):521 –32.
+102. Young KM, Northern JJ, Lister KM, Drummond JA, O ’Brien WH. A meta-
+analysis of family-behavioral weight-loss treatments for children. Clin
+Psychol Rev. 2007;27(2):240 –9.
+103. McClelland GH, Judd CM. Statistical difficulties of detecting interactions and
+moderator effects. Psychol Bull. 1993;114(2):376.
+104. Taylor AB, MacKinnon DP, Tein J-Y. Tests of the three-path mediated effect.
+Organ Res Methods. 2007;11(2):241 –69.
+105. Aiken LS, West SG. Multiple regression: testing and interpreting interactions.
+Thousand Oaks: Sage; 1991.
+106. Aiken LS, West SG. Multiple regression: testing and interpreting interactions.
+Newbury Park: Sage; 1991.
+107. Muthén BO, Satorra A. Complex sample data in structural equation
+modeling. In: Marsden PV, editor. Sociological methodology. Oxford:
+Blackwell; 1995. p. 267 –316.
+108. Loudon K, Treweek S, Sullivan F, Donnan P, Thorpe KE, Zwarenstein M. The
+PRECIS-2 tool: designing trials that are fit for purpose. BMJ. 2015;350:h2147.
+109. Centers for Disease Control and Prevention: Childhood obesity research
+demonstration 2.0. 2016.
+110. Brown CH, Kellam SG, Kaupert S, Muthen BO, Wang W, Muthen LK,
+Chamberlain P, PoVey CL, Cady R, Valente TW, et al. Partnerships for the
+design, conduct, and analysis of effectiveness, and implementation research:
+experiences of the prevention science and methodology group. Admin Pol
+Ment Health. 2012;39(4):301 –16.
+111. U. S. Preventive Services Task Force, Grossman DC, Bibbins-Domingo K, Curry
+SJ, Barry MJ, Davidson KW, Doubeni CA, Epling JW Jr, Kemper AR, Krist AH, et
+al. Screening for obesity in children and adolescents: US Preventive Services
+Task Force recommendation statement. JAMA. 2017;317(23):2417 –26.
+112. Brown CH, Curran G, Palinkas LA, Aarons GA, Wells KB, Jones L, Collins LM,
+Duan N, Mittman BS, Wallace A, et al. An overview of research and
+evaluation designs for dissemination and implementation. Annu Rev Public
+Health. 2017;20(38):1 –22.
+113. EPISCenter. Annual Survey of Evidence-based Programs (ASEP). University
+Park: Pennsylvania State University; 2005.
+114. Luke DA, Calhoun A, Robichaux CB, Elliott MB, Moreland-Russell S. The
+program sustainability assessment tool: a new instrument for public health
+programs. Prev Chronic Dis. 2014;11:E12.
+115. Reimers TM, Wacker DP, Cooper LJ, de Raad AO. Acceptability of behavioral
+treatments for children: analog and naturalistic evaluations by parents. Sch
+Psychol Rev. 1992;21(4):628 –43.
+116. Reimers TM, Wacker DP, Cooper LJ. Evaluation of the acceptability of
+treatments for children ’s behavioral difficulties. Child Family Behav Ther.
+1991;13(2):53 –71.
+117. Wacker DP, Berg WK, Harding JW, Barretto A, Rankin B, Ganzer J. Treatment
+effectiveness, stimulus generalization, and acceptability to parents of
+functional communication training. Educ Psychol. 2005;25(2 –3):233 –56.
+118. Winter C, Dishion TJ. Parent consultant log. Eugene: Child and Family
+Center, University of Oregon; 2007.
+119. Berkel C, Smith JD, Lopez M. Community resources: engagement and
+adequacy (CREA) and dosage of engagement in community resources
+(DECR): measures of community health resource utilization. Tempe: REACH
+Institute, Arizona State University; 2017.
+120. Smith JD, Dishion TJ, Brown K, Ramos K, Knoble NB, Shaw DS, Wilson MN.
+An experimental study of procedures to enhance ratings of fidelity to an
+evidence-based family intervention. Prev Sci. 2016;17(1):62 –70.121. CDC/NCHS: CDC growth charts: United States. http://www.cdc.gov/
+growthcharts. Posted May 30, 2000. 2000.
+122. National Cancer Institute DoCCaPS, Applied Research Program Short Dietary
+Assessment Instruments: Dietary Screener Questionnaire in the NHANES
+2009 –2010. [http://appliedresearch.cancer.gov/diet/screeners/] (Accessed
+June 12, 2016). 2013.
+123. Moreno JP, Kelley ML, Landry DN, Paasch V, Terlecki MA, Johnston CA,
+Foreyt JP. Development and validation of the family health behavior scale.
+Pediatric Obesity. 2011;6(2Part2)
+124. Sadeh A, Mindell JA, Luedtke K, Wiegand B. Sleep and sleep ecology in the
+first 3 years: a Web-based study. J Sleep Res. 2009;18(1):60 –73.
+125. Walton K, Simpson JR, Darlington G, Haines J. Parenting stress: a cross-
+sectional analysis of associations with childhood obesity, physical activity,
+and TV viewing. BMC Pediatr. 2014;14(1):244.
+126. Metzler CW, Biglan A, Ary DV, Li F. The stability and validity of early
+adolescents ’reports of parenting constructs. J Fam Psychol. 1998;12(4):600 –19.
+127. McEachern A, Dishion TJ, Weaver CM, Shaw DS, Wilson MN, Gardner FEM.
+Parenting Young Children (PARYC): validation of a self-report parenting
+measure. J Child Fam Stud. 2012;21(3):498 –511.
+128. Criss MM, Shaw DS. Sibling relationships as contexts for delinquency
+training in low-income families. J Fam Psychol. 2005;19(4):592 –600.
+129. Dishion TJ, Mun CJ, Tein J-Y, Kim H, Shaw DS, Gardner F, Wilson MN,
+Peterson J. The validation of macro and micro observations of parent –child
+dynamics using the relationship affect coding system in early childhood.
+Prev Sci. 2017;18(3):268 –80.
+130. Putnam SP, Rothbart MK. Development of short and very short forms of the
+children ’s behavior questionnaire. J Pers Assess. 2006;87(1):102 –12.
+131. Ellis LK, Rothbart MK: Revision of the early adolescent temperament
+questionnaire. 2001 biennial meeting of the Society for Research in child
+development: 2001; Minneapolis, MN; 2001.
+132. López-Guimerà G, Fauquet J, Sánchez-Carracedo D, Barrada J, Saldaña C,
+Masnou-Roig A. Psychometric properties of the perception of teasing scale in a
+Spanish adolescent sample: POTS-S. Eat Weight Disord. 2012;17(3):e210 –8.
+133. Truby H, Paxton SJ. Development of the children ’s body image scale. Br J
+Clin Psychol. 2002;41(2):185 –203.
+134. Varni JW, Seid M, Kurtin PS. PedsQL ™4.0: reliability and validity of the
+Pediatric Quality of Life Inventory ™version 4.0 Generic Core Scales in
+healthy and patient populations. Med Care. 2001;39(8):800 –12.
+135. Nguyen TD, Attkisson CC, Stegner BL. Assessment of patient satisfaction:
+development and refinement of a service evaluation questionnaire. Eval
+Program Plann. 1983;6(3 –4):299 –313.
+136. Austin CA, Finn SF, Keith TZ, Tharinger DJ, Fernando AD. The Parent
+Experience of Assessment Scale (PEAS) development and relation to parent
+satisfaction. Assessment. 2016;
+137. Goodman R. The strengths and difficulties questionnaire: a research note. J
+Child Psychol Psychiatry. 1997;38(5):581 –6.
+•  We accept pre-submission inquiries  
+  Our selector tool helps you to ﬁnd the most relevant journal
+  We provide round the clock customer support 
+  Convenient online submission
+  Thorough peer review
+  Inclusion in PubMed and all major indexing services 
+  Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submitSubmit your next manuscript to BioMed Central 
+and we will help you at every step:Smith et al. Implementation Science  (2018) 13:11 Page 15 of 15

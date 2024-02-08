@@ -1,0 +1,1842 @@
+RESEARCH Open Access
+Systematic development of a theory-
+informed multifaceted behavioural
+intervention to increase physical activity
+of adults with type 2 diabetes in routine
+primary care: Movement as Medicine for
+Type 2 Diabetes
+Leah Avery1*, Sarah J. Charman1, Louise Taylor1, Darren Flynn2, Kylie Mosely3,4, Jane Speight4,5,6,
+Matthew Lievesley7, Roy Taylor1, Falko F. Sniehotta2and Michael I. Trenell1
+Abstract
+Background: Despite substantial evidence for physical activity (PA) as a management option for type 2 diabetes, there
+remains a lack of PA behavioural interventions suitable for delivery in primary care. This paper describes the systematic
+development of an evidence-informed PA behavioural intervention for use during routine primary care consultations.
+Methods: In accordance with the Medical Re search Council Framework for t he Development and Evaluation
+of Complex Interventions, a four-stage systematic deve lopment process was undertaken: (1) exploratory work
+involving interviews and workshop discussions identified training needs of healthcare professionals and support
+needs of adults with type 2 diabetes; (2) a systematic re view with meta- and moderator analyses identified
+behaviour change techniques and optimal intervention intensity and duration; (3) usability testing identified
+strategies to increase implementation of the intervention in primary care and (4) an open pilot study in two
+primary care practices facilitated intervention optimisation.
+Results: Healthcare professional training needs included knowledge about type, intensity and duration of PA sufficient
+to improve glycaemic control and acquisition of skills to promote PA behaviour change. Patients lacked knowledge
+about type 2 diabetes and skills to enable them to make sustainable changes to their level of PA. An accredited online
+training programme for healthcare professionals and a professional-delivered behavioural intervention for adults with
+type 2 diabetes were subsequently developed. This multifaceted intervention was informed by the theory of planned
+behaviour and social cognitive theory and consisted of 15 behaviour change techniques. Intervention intensity and
+duration were informed by a systematic review. Usability testing resolved technical problems with the online training
+intervention that facilitated use on practice IT systems. An open pilot study of the intervention with fidelity of delivery
+assessment informed optimisation and identified mechanisms to enhance implementation of the intervention during
+routine diabetes consultations.
+(Continued on next page)
+* Correspondence: leah.avery@newcastle.ac.uk
+1Institute of Cellular Medicine, Faculty of Medical Sciences, Newcastle
+University, Newcastle upon Tyne NE2 4HH, UK
+Full list of author information is available at the end of the article
+© 2016 Avery et al. Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.Avery et al. Implementation Science  (2016) 11:99 
+DOI 10.1186/s13012-016-0459-6
+(Continued from previous page)
+Conclusions: Movement as Medicine for Type 2 diab etes represents an evidence-inf ormed multifaceted behavioural
+intervention targeting PA for manageme nt of type 2 diabetes developed for del ivery in primary care. The structured
+development process undertaken enhances transparency of intervention content, replicability and scalability. Movement
+as Medicine for Type 2 diabetes is currently undergoing evaluation in a pilot RCT.
+Trial registration: ISRCTN67997502
+Keywords: Behavioural intervention, Healthcare professional behaviour change, Type 2 diabetes, Physical activity, Primary
+care
+Background
+Effective management of type 2 diabetes poses a significant
+medical, behavioural and public health challenge, particu-
+larly with the projected increases in prevalence largely
+attributable to an ageing population and unhealthy lifestyle
+behaviours [1]. Type 2 diabetes is generally regarded as a
+progressive condition [2]; however, a plethora of evidence
+has demonstrated that a range of management options, in
+particular lifestyle behaviour modification (e.g. physical ac-
+tivity and diet), can result in improved glycaemic control
+[3]. These in turn can decelerate, halt or even reverse the
+progression of type 2 diabetes and significantly reduce the
+risk of serious complications and premature mortality [4].
+Physical activity (PA) is an effective management ap-
+proach for long-term glycaemic control in adults with type
+2d i a b e t e s[ 5 –8]. Yet, the majority of people with type 2
+diabetes are physically inactive compared with national
+norms [9]. UK guidelines indicate the need for patient
+education models for the management of type 2 diabetes
+[10] and recommend that people with type 2 diabetes are
+offered some form of education/intervention at least at
+the point of diagnosis. However, this is not available uni-
+versally and, where this is available, the length, informa-
+tion content and style of the interventions vary greatly
+between services. Despite being an important part of self-
+management, PA advice and concomitant interventions
+are frequently omitted from management plans for people
+with type 2 diabetes in the primary care setting [11].
+As primary care is the main setting for the majority of
+type 2 diabetes healthcare, it is arguably the optimal set-
+ting for targeting PA where multiple opportunities exist
+for the delivery of effective interventions by primary
+healthcare professionals. However, there remains a lack of
+evidence-informed interventions targeting PA that can be
+offered to people with type 2 diabetes during routine pri-
+mary care consultations. Furthermore, healthcare profes-
+sionals often report difficulties in supporting their patients
+to increase their everyday levels of PA [12] largely due to
+lack of training in lifestyle behaviour change [13, 14]. With
+traditional clinician-led advice-giving and direct persua-
+sion approaches being ineffective for a large proportion of
+patients [13], behavioural interventions that can increasePA to a degree sufficient to have a clinically significant im-
+pact on glycaemic control in the long-term are needed.
+The majority of available interventions do not include
+adequate support to help people with type 2 diabetes to
+achieve PA recommendations; very few have been formally
+evaluated and rarely have the individuals responsible for
+the delivery of these interventions been formally trained
+for this purpose [14].
+Currently available structured type 2 diabetes pro-
+grammes (e.g. Diabetes Education and Self-Management
+for Ongoing and Diagnosed (DESMOND) and the X-
+PERT Diabetes Programme) have demonstrated effective-
+ness for increasing self-efficacy [15] and improving gly-
+caemic control [16]. However, these programmes require
+referral, regularly have protracted waiting lists and are not
+available to primary care practices in all areas of UK. Fur-
+thermore, primary healthcare professionals do not receive
+training to provide follow-up support. Therefore, there
+remains a pressing need for an intervention that (1) is
+available to all patients with type 2 diabetes and is available
+when required (i.e. at key teachable moments within pri-
+mary care appointments); (2) provides primary healthcare
+professionals with the skills they require to successfully tar-
+get PA during routine diabetes care; (3) provides patients
+with the support and resources to effectively increase their
+levels of PA in the context of their everyday lives and (4)
+can be delivered within the primary care setting.
+The Medical Research Council (MRC) framework for
+the development and evaluation of complex interventions
+highlights the need to clearly describe the intervention de-
+velopment process and describes four phases: development
+(identify the evidence base, identify and develop theory
+and model processes and outcomes); feasibility/piloting
+(test intervention components and processes, estimate
+recruitment/retention and determine sample size); evalu-
+ation (assess effectiveness and understand processes of
+change) and implementation (dissemination, surveillance/
+monitoring and long-term follow-up) [17, 18]. Behaviour
+change interventions are, by t heir nature, complex because
+they contain multiple components; however, details of the
+development process and reporting on specific details about
+their content are often lacking [19, 20]. This is problematicAvery et al. Implementation Science  (2016) 11:99 Page 2 of 21
+when trying to replicate interventions or when trying to
+identify what active ingredien ts contribute to their accept-
+ability, feasibility and effectiv eness. This paper describes the
+application of the MRC ’s framework to the development of
+Movement as Medicine for Type 2 diabetes, a theory-
+informed multifaceted behavioural intervention to increase
+PA of adults with type 2 diabetes in routine primary care.
+The intervention is multifaceted as it comprises of two
+facets or ‘levels ’. The first is an online training intervention
+programme that aims to provide healthcare professionals
+with the skills required to target PA behaviour change of
+their patients during consultations. The second is a set of
+resources (i.e. a patient DVD, pedometer and paper-based
+materials) designed for delivery by a healthcare professional
+to support patients to make changes to their PA levels.
+We previously published a study protocol [21] that de-
+scribed the methodology for an open pilot study (phase 1)
+and pilot RCT (phase 2) of a multifaceted behavioural
+intervention. The current paper supplements the protocol
+with a comprehensive description of the intervention de-
+velopment process. This includes how the intervention
+content was iteratively designed with reference to patient
+and healthcare professional ’s views and perspectives identi-
+fied from the findings of exploratory work, usability testing
+and the mixed methods open pilot study.
+Methods
+A four-stage systematic development process was under-
+taken (see Fig. 1) to develop a multifaceted PA behavioural
+intervention with reference to three phases: pre-clinical
+(theoretical —exploratory work with patients and health-
+care professionals), modelling (phase I —systematic review
+with meta- and moderator analyses and usability testing of
+an alpha prototype with patients and healthcare profes-
+sionals) and exploratory trial (phase II —mixed methods
+open pilot study with fidelity assessment). The aim was to
+develop a behaviour change intervention that (1) fulfilled
+the needs of both primary healthcare professionals and
+adults with type 2 diabetes; (2) was evidence- and theory-
+informed; (3) could be successfully integrated into routine
+primary care and (4) could be appropriately evaluated.
+Stage 1: exploratory work
+The need for a multifaceted behavioural intervention origi-
+nated from a local Primary Care Trust that had identified
+training for primary healthca re professionals on PA behav-
+iour change as a priority area. Therefore, key informant
+general practitioners (GPs) from practices within the Trust
+area and patients were initially consulted by engaging them
+in a co-development process. The aim was to explore the
+views and experiences of each group to inform the content
+and mode of delivery of an intervention designed to effect-
+ively target PA in the primary care setting.Exploratory work with primary healthcare professionals
+A purposive sample of four GPs from four primary care
+practices in North East England participated in a semi-
+structured interview to gain in-depth information from key
+informants (three were specialists in diabetes and all four
+took overall responsibility for diabetes care and training
+provision within their primary care practices) on current
+practices and needs related to a more effective delivery of
+PA interventions. A topic guide was used to elicit informa-
+tion on how patients from each practice typically received
+their diabetes education and advice on PA (at what time
+points following diagnosis); to what extent participating
+GPs believed patients engaged with the process of diabetes
+supported self-management; a pproaches they currently use
+to target PA during diabetes review clinics and their views
+on whether they felt they were effective. Information was
+also obtained on their prefer ences for mode of training and
+intervention delivery and the amount of time available to
+complete training within a typ ical working week. All inter-
+views were audio recorded, transcribed verbatim and ana-
+lysed using content analysis [22].
+Key findings of exploratory work with GPs In general,
+prescribing medication was considered a more attractive
+and effective option than promoting PA behaviour change
+for adults with type 2 diabetes. Lifestyle behaviour change
+was considered to be the most difficult part of diabetes
+management, with GPs reliant on advice-giving and lim-
+ited to providing specific suggestions to patients in terms
+of activity type and frequency (e.g. walking for 30 min
+three times per week).
+GPs were knowledgeable about the underlying physio-
+logical mechanisms of type 2 diabetes but frequently
+experienced difficulty with communicating this complex
+information to patients. Furthe rmore, they expressed dissat-
+isfaction that many of their patients do not act upon their
+advice about increasing their PA levels. As such, they stated
+that a different approach was desirable to effectively com-
+municate information about diabetes to patients, including
+the benefits of leading a physical ly active lifestyle that would
+be more amenable to patients ’personal situations. They
+reported patients typically adopting a passive role during
+consultations, with a relucta n c et oe n g a g ei nd i s c u s s i o n s
+about self-management of their diabetes and other comor-
+bidities by changing their lifestyle behaviour. The latter was
+interpreted by GPs as patients failing to take responsibility .
+Structured diabetes educatio n at the point of diagnosis was
+offered to patients often by referral to a programme such as
+Diabetes Education and Self -Management for Ongoing and
+Newly Diagnosed (DESMOND) or X-Pert [15, 16]. How-
+ever, GPs indicated that many of their patients preferred
+not to take advantage of this service and also frequently did
+not attend scheduled diabetes review appointments.Avery et al. Implementation Science  (2016) 11:99 Page 3 of 21
+Important considerations emerged in the context of GPs ’
+training needs, including being able to plan a programme
+of training in advance to feed into the annual appraisal of
+practice for GPs, and for the training to be evidence-based
+and accredited for the purposes of continuing professional
+development. Time for training was described as ‘limited ’,
+although an online programme that allowed healthcare
+professionals to work through the content on multiple oc-
+casions over a specified period of time was considered to
+b eaf e a s i b l em o d eo ft r a i n i n gd e l i v e r y .T h ei m p o r t a n c eo fbeing able to identify a patient ’sc u r r e n tl e v e lo fP Aw a sa l s o
+emphasised (i.e. the need for tools to achieve this) as a
+starting point for discussion about PA behaviour change.
+Exploratory work identified a need for a training
+programme designed to increas e healthcare professionals ’
+awareness of the value of PA as a management option for
+type 2 diabetes (i.e. it was reported that diet was targeted
+more consistently than PA due to the lack of knowledge
+about the type, duration and frequency of PA to recommend
+to patients). Furthermore, the focus of the training shouldFig. 1 Overview of the intervention development process undertaken to develop the theory-informed multifaceted behavioural interventionAvery et al. Implementation Science  (2016) 11:99 Page 4 of 21
+be on skills development in the context of PA for type 2 dia-
+betes utilising evidence-based health behaviour change strat-
+egies. There was consensus amongst the GPs interviewed
+that an online training programme would allow flexibility
+and demonstrate new ways to communicate to patients
+about diabetes, in particular, why it progresses without ap-
+propriate management and ho w patients can self-manage
+their diabetes effectively by increasing their PA behaviour.
+The GPs who participated in the initial exploratory
+work did not take part in the subsequent developmental
+stages as we wanted to obtain views and feedback from a
+range of healthcare professionals throughout the devel-
+opment process.
+Exploratory work with adult patients with type 2 diabetes
+An interactive workshop involving six adults with type 2
+diabetes aged ≥65 years with a median time since diag-
+nosis of 11 years (interquartile range (IQR) = 8) was
+facilitated by two of the authors (LT and ML) to gain in-
+sights into their lived experience of diabetes, as well as
+identifying areas of care delivery from their perspective
+to consider for inclusion in the facet of the intervention
+for primary healthcare professionals. The benefits of the
+group-based workshops were that participants could ask
+the group questions and facilitators could immediately
+clarify any queries and provide feedback in order gain an
+in-depth understanding of the multiplicity of thoughts,
+feelings and views about a specific topic, which were
+more likely to be elicited in a social setting involving
+direct interaction. Therefore, the workshop was used as
+a vehicle to explore patients ’views and perspectives on
+the following diabetes-related topics: the value of the in-
+formation provided by primary healthcare professionals
+on diabetes; support needs to effectively manage their
+diabetes by increasing PA levels; whether they believed a
+family history of diabetes influenced their knowledge
+about the condition and the role of lifestyle behaviour
+change; who they would contact to request information
+and support about type 2 diabetes when required; how
+well informed they were about the use of PA as a man-
+agement option for their diabetes and how much infor-
+mation and support had they had received previously to
+increase their everyday levels of PA and whether they
+felt this was beneficial.
+Following the initial group discussions, patients were
+asked to complete a ‘My Diabetes Story ’worksheet (see
+Additional file 1) designed to elicit reflection on the high
+and low points of living with type 2 diabetes, and a ‘Circle
+of Influence ’worksheet (see Additional file 2) used to map
+the most influential people (healthcare professionals and
+others) in the context of their diabetes care. The completed
+worksheets were subsequently used as prompts for group
+discussion on the challenges of living with and successfully
+managing type 2 diabetes, as well as their experiences ofreceiving diabetes care from primary healthcare profes-
+sionals. Finally, participants were asked to complete a work-
+sheet exercise designed to identi fy the key characteristics of
+a good health professional (see Additional file 3).
+Given the varied nature of the interactive workshop
+(i.e. a series of structured exercises as well as verbal
+feedback), the session was not audio recorded. Instead,
+one of the two facilitators (LT) conducting the session
+made detailed field notes. Responses from the structured
+exercises and field notes on salient points were subjected
+to content analysis by the two workshop facilitators.
+Key findings of exploratory work with adults with
+type 2 diabetes Patients reported feeling that the primary
+healthcare professionals they had initial contact with fol-
+lowing their diagnosis were not particularly knowledgeable
+about type 2 diabetes. As such, they felt unable to discuss
+their condition in any significant depth; for example, one
+patient stated that a practice nurse was unsure about what
+represented a normal HbA1c level. Patients reported edu-
+cating themselves, their GP or a practice nurse about their
+condition and effective self-management strategies. One
+patient felt that secondary care provided a better service
+in terms of the level of support provided for their diabetes
+management.
+A variety of experiences when receiving a diagnosis of
+type 2 diabetes was described by patients. A common
+scenario was that GPs would refer to the possibility of dia-
+betes without explaining the condition or the implications
+it may have for the patient. Subsequently, participants
+were referred to a different primary healthcare professional
+for confirmation. Participants expressed the opinion that
+diabetes appeared to be a low priority for their primary
+care practice. One factor contributing to this belief was
+that diabetes review clinics were generally nurse-led, as op-
+posed to GP-led.
+Five of the six patients reported being advised to ‘lose
+weight ’,‘change their diet ’or‘exercise more ’although
+they were not offered any specific support or advice on
+how to achieve this in the context of their everyday lives.
+When asked ‘what makes a good healthcare professional
+in the context of diabetes? ’, participants referred consist-
+ently to healthcare professionals ’knowledge of diabetes.
+Some held the belief that the ‘new breed ’of younger
+healthcare professionals were more likely to communicate
+with their patients as equals compared to the so-called old
+school doctors, and this was regarded as a positive step
+forward.
+While exploring family history and in the context of their
+knowledge of diabetes, patients stated that it was inevitable
+that they would develop the condition; although for some,
+the diagnosis still came as a surp rise. Their expectation was
+that their diabetes would likely progress in the same way as
+their parents (or other close relatives) despite their beliefAvery et al. Implementation Science  (2016) 11:99 Page 5 of 21
+that diabetes treatment had vastly improved. When asked
+w h ot h e yw o u l dv i s i ta saf i r s tp o r to fc a l lf o ri n f o r m a t i o n
+about their diabetes, the majority relied on friends with dia-
+betes or information they came across in the media or
+press. Several patients were determined to gather as much
+information as they could about their diabetes, whereas
+others were unwilling to question the information and ad-
+vice given to them in person by healthcare professionals.
+There was consensus amongst the patients that they
+could not recall receiving any direct information about
+the potential of PA as a management option for type 2
+diabetes from primary care teams. This is despite several
+patients having an awareness and knowledge of the value
+of increased PA or exercise for glycaemic control. When
+asked what advice they had been given specifically about
+PA, patients could not recall any specific examples (other
+than being advised to simply take plenty of exercise) or
+receiving any specific information/guidance on recom-
+mended levels, type and duration of PA, including prac-
+tical hints and tips on how to successfully increase their
+PA levels.
+Patient preferences on how they would like to receive
+information on diabetes-related topics (and more specific-
+ally PA as a management option for diabetes, including
+their preferences on mode of delivery) were for printed
+booklets/leaflets and a DVD (all patients reported owning a
+DVD player). Despite reporting in some cases their dissatis-
+faction with the information they had received previously
+in primary care settings, a strong preference was elicited
+from patients for face-to-face d elivery by a knowledgeable
+and respectful primary healthcare professional.
+Conclusions of exploratory work
+The findings of the exploratory work were summarised
+and discussed within the research team. The exploratory
+work highlighted a need to focus on training provision for
+healthcare professionals to equip them with the knowledge
+and skills to target PA behaviour of their patients. An
+online training programme was developed in accordance
+with GPs stated preference for mode of delivery and the
+need for flexibility. Consequently, the online programme
+was presented in a modular format to allow flexibility of
+completion in small manageable sections in order to maxi-
+mise successful integration within a typical primary care
+environment.
+The training needs of primary healthcare professionals
+were identified in terms of different types, intensities
+and duration of PA/exercise on health outcomes, in par-
+ticular, glycaemic control; the physiological effects of a
+physically active lifestyle in the context of type 2 diabetes
+and effective communication of this information to patients;
+and the utilisation of evidence-based behaviour change strat-
+egies to facilitate person-centr ed discussions with patients
+about increasing and maintaining PA behaviour. In general,healthcare professionals reported lacking confidence in dis-
+cussing lifestyle issues with their patients, primarily due to
+frustration resulting from numerous unsuccessful past at-
+tempts. Modules on each of these topics were developed for
+inclusion in the online training programme.
+Adults with type 2 diabetes expressed a strong prefer-
+ence for individual face-to-face sessions with healthcare
+professionals who were knowledgeable about diabetes.
+Paper-based resources and a DVD were identified as feas-
+ible methods for conveying information about diabetes
+and providing support to patients. The latter finding was
+attributable to participants either not having access to or
+being unfamiliar with how to access or navigate the Inter-
+net; although they reported familiarity and access to a
+DVD player.
+Development of an alpha prototype intervention
+The views and experiences of participants in the explora-
+tory work provided an initial indication of the mode, form
+and information content of an alpha prototype multifa-
+ceted intervention for further refinement in subsequent
+stages of the co-development process: (1) an online train-
+ing programme for healthcare professionals to develop
+their knowledge and skills and (2) a suite of paper-based
+patient resources for use by healthcare professionals and
+patients during routine diabetes review appointments.
+These draft resources were designed to help patients to
+develop knowledge and skills for using PA as a vehicle for
+diabetes self-management. In addition, a DVD was designed
+to provide information to supplement and/or reinforce key
+information outside of consultations. The DVD included
+narratives of people with type 2 diabetes who had success-
+fully increased their levels of PA with some practical hints
+and tips on how this could be achieved.
+The specific evidence-informed information content of
+the behaviour change components of the alpha proto-
+type PA behavioural intervention were further refined in
+stage 2 of the development process.
+Stage 2: identification of behaviour change techniques,
+theoretical basis, intervention intensity and duration
+Prior to embarking on the development of a new interven-
+tion, the MRC framework encourages researchers to iden-
+tify what is already known about other similar interventions
+(e.g. their theoretical processes of change) by drawing on
+existing evidence. Despite t he growing number of RCTs
+examining the effect of behaviour change interventions on
+PA behaviour of adults with type 2 diabetes, a systematic
+review examining the pooled effect size of these studies on
+PA behaviour and glycaemic control had not been pub-
+lished. Stage 2 of the intervention development process
+involved a systematic review and meta-analysis to assess
+the effectiveness of PA behaviour change interventions for
+long-term glycaemic control and identification of candidateAvery et al. Implementation Science  (2016) 11:99 Page 6 of 21
+behaviour change techniques and other intervention fea-
+tures associated with improved glycaemic control.
+Systematic review with meta- and moderator analyses
+A systematic review and meta-analysis of 17 RCTs was
+conducted to assess whether behavioural interventions
+were more effective than usual clinical care for increasing
+PA and improving glycaemic control in a sample of 1975
+adults with type 2 diabetes [14]. In summary, we demon-
+strated that behavioural interventions (when compared to
+usual care) delivered in clinical and community settings
+are effective for increasing objectively assessed PA and for
+yielding a clinically significant improvement in long-term
+glycaemic control as measured by HbA1c ( −0.32 %, 95 %
+CI =−0.44 to −0.21 %).
+A pooled effect size does not provide any indication of
+what components (i.e. active ingredients) of the interven-
+tions are associated with effectiveness. Therefore, a series
+of moderator analyses of the 17 studies included in the
+systematic review was conducted to inform selection of
+behaviour change techniques (using a comprehensive and
+reliable taxonomy [23]) and other intervention features
+(e.g. mode of delivery, use of theory) associated with in-
+creases in clinically significant improvements in HbA1c
+(i.e. 0.3 % reduction) when present (as opposed to absent)
+in the studies reviewed. Studies utilised in the systematic
+review included both subjective and objective methods of
+free-living PA/exercise assessment. Moreover, it was not
+possible to establish the type, intensity and frequency of
+PA/exercise attributable to the effect sizes observed.
+Therefore, we made the decision to identify behaviour
+change techniques (BCTs) associated with clinically sig-
+nificant improvements in HbA1c to maximise the likeli-
+hood of increasing PA/exercise to a level sufficient to
+impact on glycaemic control.
+Selection of behaviour change techniques and other
+intervention features
+Moderator analyses identified ten behaviour change tech-
+niques for inclusion in the alpha prototype PA behaviour
+intervention. These were prompting generalisation of a
+target behaviour, use of follow-up prompts, prompt review
+of behavioural goals, provide information on where and
+when to perform PA, plan social support/social change,
+goal setting behaviour, time management, prompting focus
+on past success, barrier identification/problem-solving and
+provide information on the consequences of behaviour to
+the individual.
+Other intervention features identified from moderator
+analyses were the inclusion of ten or more behaviour
+change techniques: intervent ions underpinned by a theory/
+model of behaviour change and intervention durations of
+≥6 months. Contrary to expect ations, moderator analyses
+suggested that different modes of intervention delivery,interventions utilising pedomet ers, interventions of greater
+intensity (greater to of equal to a median of 14 patient
+contacts) and inclusion of a supervised PA or exercise com-
+ponent were not associated with clinically significant im-
+provements in HbA1c.
+Following a wider appraisal of t he evidence base, a further
+three behaviour change techni ques that were shown to have
+a neutral effect in the moderator analyses (i.e. they had a
+positive association with HbA1c when both are present and
+absent) were included in the intervention: provide feedback
+on performance, relapse prevention/coping planning and
+rewards contingent on effort /progress made towards PA
+behaviour. These were included for pragmatic reasons to
+provide a balance of motivation al and volitional behaviour
+change techniques to support intention formation and to
+promote maintenance of PA behaviour [24].
+Given that moderator analyses could not test associa-
+tions between different combinations of behaviour
+change techniques, it was considered important to in-
+clude combinations of techniques with strong evidence
+for increasing PA from the wider research literature.
+Therefore, a further two behaviour change techniques,
+action planning and prompt self-monitoring of behav-
+iour, were selected for inclusion in the intervention
+despite the overall effect on HbA1c being larger when
+these techniques were absent. Two published reviews
+reported that inclusion of self-regulatory techniques
+such as self-monitoring in PA behaviour change inter-
+ventions improved effectiveness [25, 26]. Furthermore,
+PA interventions are reported to be optimised when
+self-monitoring is utilised and combined with at least
+one other self-regulatory technique [27]. A pedometer
+was included in the intervention (despite exploratory
+moderator analyses indicating that interventions in-
+cluding these devices were not associated with clinically
+significant improvements in HbA1c) to augment self-
+monitoring of PA behaviour (i.e. as means for partici-
+pants to record their progress on activity planners) and
+strong evidence from the wider research that pedome-
+ters significantly increase PA behaviour [28].
+Similarly, interventions utilising action planning and
+coping planning in combination were found to predict
+increases in PA [29]. Moreover, the inclusion of both
+action planning and coping planning at various stages
+of the behaviour change process (motivational and vol-
+itional) is reported to be an optimal strategy to employ
+when targeting PA behav iour change [30, 31].
+The moderator analyses indicated that the interven-
+tion duration should be ≥6 months (i.e. patients should
+be supported to increase their levels of PA for at least
+6 months). In the absence of explicit guidance from the
+systematic review findings regarding the mode of deliv-
+ery of the intervention, the decision to use individual
+face-to-face sessions with a healthcare professional andAvery et al. Implementation Science  (2016) 11:99 Page 7 of 21
+patient was guided by the preferences expressed by pa-
+tients during the exploratory phase (stage 1).
+Theory selection
+Moderator analyses suggested that interventions under-
+pinned by a theory or model of behaviour change were as-
+sociated with clinically significant improvements in
+HbA1c). However, no single theory emerged as potentially
+superior over another. Therefore, explicit selection criteria
+were applied to inform theory selection. These included a
+strong evidence base for modelling the process of interven-
+tion components and outcomes that were the focus of the
+intervention (i.e. changing c onsultation behaviour of pri-
+mary healthcare professionals and increasing PA in adults
+with type 2 diabetes). Furthermore, exploratory work
+undertaken in stage 1 with prim ary healthcare professionals
+and patients identified the need to target motivational fac-
+tors (e.g. attitudes/beliefs re g a r d i n gt h eu s eo fP Ab yh e a l t h -
+care professionals as a manag ement option for people with
+type 2 diabetes) and volitional factors (e.g. self-efficacy to
+increase and maintain increases in PA behaviour in adults
+with type 2 diabetes and self-efficacy of healthcare profes-
+sionals for delivering a behaviou ral intervention during rou-
+tine primary care). Therefore, a dditional criteria for guiding
+theory selection included a theory that incorporated both
+motivational and volitional f actors [24] and the existence of
+in-built constructs and/or ev idence-based strategies that
+can be used to effectively targe t both motivation/intention
+and actual PA behaviour to support maintenance. It was
+also important to select a theory/theories that had readily
+available, reliable and valid instruments to measure the the-
+oretical constructs and postulated relationships between
+the constructs to inform the evaluation of the intervention
+in a planned pilot RCT.
+In accordance with these criteria, the theory of planned
+behaviour (TPB) [32] and social cognitive theory (SCT)
+[33] were selected to inform the development and evalu-
+ation of the intervention. Together with the theory-linked
+behaviour change techniques identified by the moderator
+analyses, the TPB and SCT provided a complimentary the-
+oretical framework for guiding the development and sub-
+sequent evaluation of the intervention. The TPB has been
+extensively and successfully used to predict intentions to
+increase PA and actual PA behaviour [34, 35] including
+healthcare professional behaviour change [36]. However,
+the TPB does not provide explicit guidance on how theor-
+etical constructs can be targeted within interventions using
+evidence-informed strategies or how to address the fre-
+quent lack of concordance between motivation/intention
+and action (i.e. the intention-behaviour gap) [37]. SCT is
+able to provide specific evidence-based strategies for trans-
+lating motivation/intentions into action/behaviour in both
+healthcare professionals and patients (e.g. observational
+learning strategies such as modelling to support theacquisition of behaviour change skills and self-efficacy
+for the effective delivery of behaviour change tech-
+niques to patients). Furthermore, SCT has demon-
+strated utility in samples of people with diabetes when
+predicting PA behaviour [38].
+Defining and mapping the alpha prototype PA behaviour
+intervention components
+Guidance published by Davidson et al. [39] was followed
+to ensure that intervention characteristics were described
+appropriately when developing the alpha prototype PA be-
+havioural intervention. These included intervention for-
+mat, intensity, duration and information content. Findings
+of the exploratory work and systematic review were used
+collectively to inform decisions about the content and
+mode of delivery of the alpha prototype intervention. A
+taxonomy of behaviour change techniques [23] was used
+throughout the intervention development process to en-
+sure that techniques selected for inclusion in the interven-
+tion were defined adequately and consistently.
+Online training component Consistent with the needs
+of primary healthcare professionals (identified in stage 1),
+the training programme was designed as an online re-
+source delivered in a modular format to facilitate flexibility
+and accessibility. The training programme was accredited
+by the Royal College of Physicians with completion of the
+programme prompting generation of a certificate awarding
+three continuing professional development points. This
+fulfilled the GPs ’requirement for the training programme
+to contribute towards their annual appraisal.
+The content of the online training programme addressed
+the knowledge and skills gaps identified during the explora-
+tory phase (stage 1). Eight distinct but interrelated modules
+were developed. Table 1 presents an overview of the infor-
+mation content of each module and the relationships
+between content and associated behaviour change tech-
+niques, including their relat ionship with the theoretical
+constructs of the TPB and SCT. Module 2 presented
+healthcare professionals with information about study pro-
+cedures and data collection that was initially provided as a
+paper-based protocol during the consent process. As this
+did not form part of the PA behaviour change intervention,
+it is not presented in Table 1.
+The behaviour change techniques selected for inclusion
+in the patient toolkit component of the intervention were
+covered in detail within the content of modules 6 and 7. A
+series of audiovisual clips portrayed simulated interactions
+between a diabetes specialist nurse and a patient. These
+were used as a vehicle to demons trate to healthcare profes-
+sionals how to use specific behaviour change techniques to
+facilitate delivery of the patient toolkit.
+Video clips demonstrating the use of behaviour change
+counselling skills based on the principles of motivationalAvery et al. Implementation Science  (2016) 11:99 Page 8 of 21
+Table 1 Components of the online training programme and their relationship to constructs within the theory of planned behaviour and social cognitive theory
+Module Form and information content Theoretical
+constructsBehaviour change
+techniques
+Module 1: introduction to MaMT2D Video recording of a professor of movement
+and metabolism introducing the programme
+and providing details of how and why MaMT2D
+was developed. Video recording of a consultant
+diabetologist and a diabetes specialist nurse
+providing an overview of why PA is important
+for the management of T2DSymbolising (SCT)
+Attitudes and beliefs (TPB)
+Subjective norms (TPB)Provide information on the
+consequences of behaviour
+in general (1)
+Modules 3 (metabolism and type 2 diabetes),
+4 (physical activity in the care of type 2
+diabetes) and 5 (physical activity and exercise)Evidence-based information about the role of
+metabolism, PA and exercise in the context
+of type 2 diabetesSymbolising (SCT)
+Attitudes/beliefs (TPB)
+Forethought (SCT)
+Intention (TPB)Provide information on
+the consequences of
+behaviour in general (1)
+Provide feedback on
+performance (19)
+Module 6: using psychology to change
+physical activity behaviourEvidence-based information on the use of
+psychological theory and theory-linked
+behaviour change techniques and
+counselling skills to change PA behaviourAttitudes/beliefs (TPB)
+Forethought (SCT)
+Intention (TPB)Provide information on
+the consequences of
+behaviour in general (1)
+Module 7: using behaviour change
+techniques to increase physical activity
+behaviourVideo demonstrations of a diabetes specialist
+nurse demonstrating the use of behaviour
+change techniques and behaviour change
+counselling techniques in practice with a
+mock patientSymbolising (SCT)
+Observational Learning (SCT)
+Perceived Behavioural Control
+(TPB) and Self-efficacy (SCT)
+Subjective norms (TPB)Self-monitoring of
+behaviour (16)
+Provide instruction
+on how to perform
+the behaviour (21)
+Model/demonstrate
+the behaviour (22)
+Environmental
+restructuring (24)
+Prompt practice (26)
+Motivational interviewing
+(37)
+General communication
+skills training (39)
+Module 8: screening before physical activity Flowchart diagram demonstrating how to
+screen adults with T2D prior to PA/exerciseSelf-regulation (SCT)
+Perceived behavioural control
+(TPB) and self-efficacy (SCT)Provide instruction on how
+to perform the behaviour (21)
+End of modules 3, 4 and 5 quiz questions Provides feedback on performance Perceived behavioural control
+(TPB) and self-efficacy (SCT)Provide feedback on
+performance
+(19)
+Provide rewards contingent
+on successful behaviour (12)
+Flowchart summary (crib sheet with prompts)
+of the protocol for use of the patient toolkit
+during diabetes review appointmentsPrompts for healthcare professionals to use
+specific behaviour change skills and techniquesSymbolising (SCT)
+Perceived behavioural control
+(TPB) and self-efficacy (SCT)
+Intention (TPB)
+Self-regulation (SCT)Teach to use prompts or cues (23)
+The numbers in parentheses correspond to the BCT number in the CALO-RE taxonomy
+Abbreviations: MaMT2D Movement as Medicine for Type 2 Diabetes, TPBtheory of planned behaviour, SCTsocial cognitive theory, PAphysical activityAvery et al. Implementation Science  (2016) 11:99 Page 9 of 21
+interviewing (agenda setting, use of importance and con-
+fidence rulers to engage participants in change talk, ac-
+tive listening and informing) [40] were incorporated into
+module 7. These specific counselling skills have evidence
+for effectively engaging patients effectively in discussions
+about behaviour change with healthcare professionals
+[41]. They also serve as effective vehicles for placing the
+patient at the centre of the decision-making process, and
+as such, maintaining their autonomy when setting goals
+for PA behaviour change.
+Patient toolkit component The patient toolkit was de-
+signed for delivery by healthcare professionals within
+routine consultations to assist patients with type 2 dia-
+betes to develop the knowledge and skills for effective
+use of PA in the self-management of their condition.
+The toolkit included (1) a discussion card comprised of
+a 7-day recall used to gauge current levels and patterns
+of PA, a decisional balance aid [42] to facilitate discus-
+sions about pros and cons for changing PA behaviour
+versus PA behaviour remaining the same, and readiness
+rulers to gauge the importance of PA and confidence for
+increasing PA [40]; (2) a booklet to support goal setting,
+action planning and barrier identification/problem-solv-
+ing [14]; (3) activity planners, trackers and a pedometer
+(SW200, Yamax Corporation, Tokyo, Japan) to facilitate
+time management and self-monitoring of PA; (4) a DVD
+to promote observational learning and increase self-
+efficacy; (5) a record of progress pad to guide healthcare
+professionals through the process of intervention deliv-
+ery and a mechanism for feedback provision to patients;
+(6) a motivational postcard mailed out to patients at the
+3-month time point to prompt PA behaviour; and (7)
+and a Diabetes UK leaflet entitled ‘Keeping active: an es-
+sential part of managing diabetes ’[43]. Table 2 provides
+a synopsis of the patient toolkit resources and how their
+form and information content mapped onto theoretical
+constructs of TPB and SCT.
+Following an initial discussion of current PA levels with
+patients, healthcare professionals would select the most
+appropriate behaviour change techniques (from those pre-
+sented in modules 6 and 7 of the online programme) that
+would allow them to tailor the delivery of the patient tool-
+kit in accordance with an individual patient ’s needs. A
+number of strategies are included to target motivation and
+confidence to support intention formation (e.g. provision
+of positive feedback on current levels of PA, a discussion
+ofpros versus cons for increasing PA versus activity levels
+staying the same, prompting focus on past success). Once
+a patient forms an intention to change their level of PA, a
+number of strategies are included in the process to help
+them to translate an intention into action. These include
+self-regulation strategies such as goal setting, action plan-
+ning and self-monitoring. In addition, a range of behaviourchange counselling skills based on the principles of motiv-
+ational interviewing [44] was integrated into the online
+programme to engage patients in collaborative decision-
+making with healthcare professionals.
+Stage 3: assessing usability of the alpha prototype PA
+behaviour intervention in primary care
+Aims : To assess usability of the alpha prototype inter-
+vention from the perspective of healthcare professionals,
+data managers and adults with type 2 diabetes from one
+primary care practice.
+Methods: primary care staff
+One diabetes nurse practitioner, two practice nurses and
+three data/IT managers from one primary care practice
+were given access to the alpha prototype PA behaviour
+intervention. The aim was to elicit their views on the
+relevance of the content and general usability of both
+the online training programme and the patient toolkit
+components. Although healthcare professionals were not
+required to use the materials during consultations with
+patients, they were asked to consider while reviewing
+the intervention components whether they felt they
+would work in practice and to report any barriers or
+enabling factors to implementation. Data/IT managers
+were asked to review the content of the online training
+programme and to specifically identify any potential bar-
+riers to implementation with their existing information
+technology infrastructure.
+Each usability testing partic ipant completed a structured
+questionnaire asking specific questions about each module
+in the online training programme (e.g. module 1: does this
+module provide sufficient information about the purpose of
+the programme?; how could this module be improved?).
+Participants were also asked to rate the intervention on a
+scale of 1 (very dissatisfied) to 10 (completely satisfied). Fol-
+lowing a review of the responses from the questionnaire,
+informal follow-up discussions were carried out with the
+three healthcare professionals and one data/IT manager
+(two IT managers opted out of the informal discussions as
+they did not feel they could comment upon the use of the
+intervention during routine c onsultations) to explore in
+more depth the points raised in relation to their expecta-
+tions and barriers/facilit ators to implementation.
+Results of usability testing with primary care staff
+Minor technical problems with the video footage (e.g. ini-
+tial freezing of footage and incompatibility with early
+versions of specific Internet browsers that were installed
+onto practice computers) and interactive components of
+the online training programme (e.g. issues with functional-
+ity) were detected and subsequently resolved. Further
+information content was requested on appropriate advice
+to provide to people with comorbidities (e.g. arthritis)Avery et al. Implementation Science  (2016) 11:99 Page 10 of 21
+Table 2 Components of the patient toolkit and their relationship to constructs within the theory of planned behaviour and social cognitive theory
+Intervention component Form and information content Theoretical constructs Behaviour change techniques Evidence source
+Discussion card Assessment of PA behaviour using a 7-day recall
+A decisional balance aid to assess the pros versus
+the cons for changing PA behaviour
+Rulers assessing importance and confidence for
+changeAttitudes/beliefs (TPB)
+Forethought (SCT)
+Intention (TPB)
+Perceived behavioural control
+(TPB) and self-efficacy (TPB)Provide feedback on
+performance (19)
+Time management (38)Exploratory work
+Systematic review [ 14]
+Booklet Support to select an appropriate PA/exercise, set
+PA goals, consider means of social support, identify
+barriers/problem solve, set short- and long-term goals,
+plan activity, self-monitor activity, prevent relapseForethought (SCT)
+Subjective norms (TPB)
+Intention (TPB)
+Self-regulation (SCT)
+Perceived behavioural control
+(TPB) and self-efficacy (TPB)Goal setting behaviour (5)
+Social support (29)
+Barrier identification/
+problem-solving (8)
+Time management (38)
+Self-monitoring (16)
+Action planning (7)Systematic review [ 14,24,25]
+Activity Planners/Trackers Means to plan and monitor PA/exercise Self-regulation (SCT) Action planning (7)
+Self-monitoring (16)Systematic review [ 24,25]
+DVD Video recordings of adults with type 2 diabetes
+engaging in PA/exercise and sharing their storiesSymbolising (SCT)
+Attitudes/beliefs (TPB)
+Observational learning (SCT)
+Subjective norms (TPB)
+Perceived behavioural control
+(TPB) and self-efficacy (SCT)Providing information on the
+consequences of behaviour
+to the individual (2)Exploratory work
+Pedometer Device to monitor the number of steps taken each day Self-regulation (SCT) Self-monitoring (16) Systematic review [ 24,25,27]
+Record of progress pad Record of readiness ruler outcomes, short- and long-term
+PA/exercise goals, social support, potential barriers and
+ways to overcome them, self-monitoring method adopted
+and activities of choice. Provides a mechanism for provision
+of feedback and an opportunity to monitor progress and
+recap during subsequent sessionsPerceived behavioural control
+(TPB) and self-efficacy (SCT)
+Intention (TPB)
+Self-regulation (SCT)Goal setting behaviour (5)
+Barrier identification/problem-
+solving (8)
+Goal setting behaviour (5)
+Self-monitoring (16)
+Feedback on performance (19)Systematic review [ 14,24,25]
+Diabetes UK leaflet Leaflet entitled, keeping active: an essential part of
+managing diabetesAttitudes/beliefs (TPB)
+Perceived behavioural control
+(TPB) and self-efficacy (SCT)
+Intention (TPB)Provide information on the
+consequences of behaviour
+in general (1)Exploratory work
+The numbers in parentheses correspond to the BCT number in the CALO-RE taxonomy
+MaMT2D Movement as Medicine for Type 2 Diabetes, TPB theory of planned behaviour, SCT social cognitive theoryAvery et al. Implementation Science  (2016) 11:99 Page 11 of 21
+when planning to undertake PA. This additional informa-
+tion was subsequently added to module 5 of the online
+training programme. Comments from primary care staff
+and responses to the structured questionnaire (median
+satisfaction score was 8.0; IQR 2.0) indicated that satisfac-
+tion with both intervention components was high, and they
+emphasised that they would u se the intervention and rec-
+ommend it to colleagues. When asked how they would use
+t h ep r o g r a m m e ,t h e ys u g g e s t e d that they would complete it
+in full initially but would like to return to relevant sections
+if and when required. Therefore, the need to have continu-
+ous access to the online programme was emphasised.
+Methods: usability testing with patients
+Structured interviews were also conducted with 13 adults
+with type 2 diabetes attending primary care diabetes
+clinics at one primary care practice ( n= 8 males, n=5
+females, mean age = 58 years (SD = 14), mean time since
+diagnosis = 5 years (SD = 5)). Patients were approached
+following their diabetes review appointment with a health-
+care professional to assess the face and content validity of
+the patient toolkit. During the interview, patients were
+taken through a typical scenario with the toolkit to iden-
+tify any content, design or usability issues. A structured
+questionnaire requested information about their views on
+each aspect of the toolkit, for example, ‘what, if anything
+would make the activity planners easier to use? ’
+Results of usability testing with patients
+Although no significant issues were identified with the
+content or usability of the patient toolkit, patients sug-
+gested that the original ‘intervention task card ’design
+should be redeveloped into a booklet format. They also
+commented that pictures of physical activities should be
+added to the reverse side of the toolkit case and that the
+booklet should include provision to record appointment
+dates and times, including space to make a note of any
+questions to ask during subsequent appointments. Pa-
+tients indicated that they would use the materials with
+the support of a healthcare professional as a mechanism
+to receive feedback and would be interested in taking
+part in the programme. Mirroring the findings of the ini-
+tial exploratory work, the latter was driven by a desire to
+learn more about PA, as the majority of patients re-
+ported that they did not recall having been advised spe-
+cifically about PA to manage their diabetes or offered
+support to increase their levels of PA to enable them to
+self-manage their diabetes.
+Stage 4: an open pilot study to assess acceptability and
+feasibility in the primary care setting and to optimise
+intervention components
+Based on findings from the usability testing with health-
+care professionals and patients, a beta prototype ofMovement as Medicine for Type 2 Diabetes was developed
+for use in a subsequent open pilot study in the primary
+care setting.
+Design
+A single-arm open pilot study with baseline and follow-up
+assessment at 1 month was conducted in two primary prac-
+tices in North East England. An open pilot study design
+was selected to enable a preliminary assessment of accept-
+ability, feasibility and fidelity of delivery and to facilitate
+systematic adaptations and refinements of the intervention
+while being used in a real-life setting [45]. Intervention
+components were optimised t hroughout a 1-month inter-
+vention period (baseline and 1 month diabetes review ap-
+pointments) by monitoring access and use of the online
+training programme by healthcar e professionals, theoretical
+domain framework informe d interviews with primary
+healthcare professionals and patients, and analysis of video
+recordings of consultations to investigate fidelity of inter-
+vention delivery by healthcare p rofessionals. By systematic-
+ally collecting information and refining the intervention,
+the aim was to optimise intervention components and
+increase acceptability, feasibility and fidelity of delivery of
+the intervention for use in the primary care setting ahead of
+a planned pilot RCT.
+Participants
+Two primary care practices agreed to participate in the
+pilot study who allocated six primary healthcare profes-
+sionals (two GPs, three practice nurses, one healthcare
+assistant) to participate in the study (see Fig. 2). One GP
+and one practice nurse were specialists in diabetes. All six
+healthcare professionals were female, aged 40 to 55 years
+and had not previously received training on health psych-
+ology theory and principles of health behaviour change in
+general or specific to PA. However, two healthcare profes-
+sionals reported having attended a workshop promoting
+the use of PA in the primary care setting. None of the par-
+ticipating healthcare professionals had previously been in-
+volved in diabetes or PA research.
+Out of 131 eligible patients invited to participate in the
+open pilot study (79 and 52 from practices 1 and 2, respect-
+ively), 30 (23 %) adults with non-insulin-dependent type 2
+diabetes were recruited ( n= 18 from practice 1 and n=1 2
+from practice 2). This sample size was consistent with the
+standard guidance relating to sample size for pilot studies
+[45, 46]. Patients were aged between 46 and 88 years (mean
+68.9; SD 10.6); 60 % were male (M/F, 18/12); time since
+diagnosis of type 2 diabetes was between 2 and 28 years
+(median 4.5; IQR 5.0); and 21 patients managed their dia-
+betes with oral medication and 9 with diet. Patients man-
+aged with insulin were excluded due to increased risk of
+hypoglycaemia as a result of increased levels of PA.Avery et al. Implementation Science  (2016) 11:99 Page 12 of 21
+Consent was obtained from primary healthcare profes-
+sionals to complete the online training programme and to
+subsequently deliver the intervention toolkit to patients re-
+cruited to the study. Separate consent was given by health-
+care professionals and patients for video recording of the
+consultations to assess fidelity of delivery of behaviour
+change techniques in practice and to take part in one or
+more interviews with a researcher to identify barriers and
+enabling factors to implementation of the intervention.
+Data collection
+Healthcare professionals were emailed a unique login ID
+and link to the online training programme that had to be
+completed before the delivery of the intervention to par-
+ticipating patients. They were given 4 weeks to completethe training programme. Completion of all eight modules
+of the programme was confirmed by generation of an elec-
+tronic personalised certificat e. Usage of the online training
+programme was monitored to es tablish whether healthcare
+professionals completed the t raining programme within the
+required time period (i.e. 4 weeks). Monitoring was also
+used to establish whether the programme was revisited fol-
+lowing initial completion and feasible for completion within
+the primary care working environment.
+Healthcare professionals were interviewed following com-
+pletion of the online training programme and again follow-
+ing the delivery of the intervention during baseline and 1-
+month patient appointments. Interviews focused specifically
+on the acceptability and feasibility of the intervention, in-
+cluding ways to increase impl ementation and refine studyFig. 2 Summary of practice, healthcare professional, patient recruitment and data collection activityAvery et al. Implementation Science  (2016) 11:99 Page 13 of 21
+processes and procedures. The interview topic guides were
+developed using the Theoretical Domains Framework (TDF)
+[47]. The TDF is the result of a multi-disciplinary expert
+consensus approach that aimed to organise and simplify the
+theoretical literature on behaviour change by reviewing 33
+behavioural theories. The 128 key constructs were organised
+into broad theoretical domains based on commonalities
+[48]. The TDF consists of 14 theory domains each providing
+broad explanations of why a behaviour may or may not have
+been performed: knowledge; skills; professional role and
+identity; beliefs about capabi lities; optimism; beliefs about
+consequences; reinforcement; intentions; goals; memory,
+attention and decision processes; environmental context and
+resources; social influences; emotions; and behavioural regu-
+lation [47]. This approach enabled a range of personal, pro-
+fessional and environmental challenges to implementation
+of the intervention to be explored.
+Although the TDF is not a theory, it enables the inter-
+view findings to be linked back to theory to facilitate an
+understanding of the behaviour change processes that
+were inhibitors or drivers of implementation. Theory-
+driven refinements could then be made to optimise the
+intervention content and processes (i.e. domain-specific
+beliefs informed changes/improvements to intervention
+components) that were congruent with the TPB and
+SCT used to develop the intervention components (de-
+scribed in stages 1 to 3). It was used to identify domain-
+specific issues with the online training programme and
+delivery of the patient toolkit (e.g. knowledge/skills/sup-
+port gaps).
+Acceptability and feasibility of the patient toolkit from
+the perspective of patients were assessed using TDF-
+informed semi-structured interviews to establish com-
+prehension, acceptability and feasibility of the toolkit
+and to detect any domain-specific issues (e.g. informa-
+tion/support gaps). Interviews were conducted with
+patients immediately following their diabetes review ap-
+pointments incorporating the intervention at baseline
+and 1-month follow-up.
+The TDF was used to identify domain-specific beliefs
+likely to positively or negatively impact on acceptability
+and feasibility of the intervention in the primary care
+setting and to inform intervention optimisation.
+Assessing fidelity of delivery of intervention components by
+healthcare professionals
+Fidelity of delivery of the intervention components was
+assessed to facilitate optimisation of the intervention (i.e.
+to identify specific intervention components that did not
+translate well into practice) and to enable adaptations to
+be made to the intervention to improve implementation
+[49]. Failure to assess fidelity of delivery of intervention
+components could potentially lead to false conclusions
+regarding the effectiveness or ineffectiveness ofinterventions. Effectiveness may be due to non-
+intervention factors and failure of interventionists to de-
+liver intervention components in accordance with the
+protocol. Fidelity of delivery assessment is critically im-
+portant because there is a risk that ineffective interven-
+tions are adopted into clinical settings in place of
+potentially effective interventions [49, 50]. In order to as-
+sess whether the patient toolkit intervention could be con-
+sistently and faithfully delivered in the primary care
+setting by healthcare professionals, a fidelity checklist was
+constructed to assess the presence and absence of specific
+intervention content (behaviour change techniques) being
+delivered in accordance with intervention protocol. Where
+intervention components were more frequently omitted,
+adaptations to the intervention were made to improve fi-
+delity of delivery following completion of the 1-month
+appointments.
+Data analyses
+Descriptive statistics (median and IQR, minimum and
+maximum values) were calculated for time spent (in mi-
+nutes) by healthcare professionals to complete the online
+training programme and over what period of time (e.g.,
+seven consecutive or non-consecutive days). In addition,
+data were collected to determine whether healthcare
+professionals revisited the online training programme
+post-completion and how much time they spent brows-
+ing the programme in minutes (median and IQR, mini-
+mum and maximum values). These analyses allowed an
+assessment of feasibility (i.e. whether healthcare profes-
+sionals could complete the online training within the
+time permitted or whether modifications were required)
+and acceptability (i.e. whether healthcare professionals
+were willing to use the online training programme and
+return to the programme throughout the intervention
+period).
+TDF-informed interview transcripts with healthcare
+professionals ( n= 9) and patients ( n= 14) were content
+analysed [22] independently by the first author (LA) using
+NVivo 10 [51] and the TDF and its constructs as a coding
+frame. Twelve of the 23 transcripts were independently
+coded and content analysed by a second researcher (SJC).
+The first TDF-informed interview transcript generated
+was independently coded by both researchers and dis-
+cussed (to ensure consiste ncy) before coding subse-
+quent transcripts. Regular meetings were held between
+the two researchers where discrepancies were resolved
+via discussion. Data saturation was defined in accord-
+ance with published research evidence for theory-based
+interviewing [52].
+Video recordings of consultations between healthcare
+professionals and patients ( N= 32) were coded by two of
+the three researchers (LA, SD, KK) using a fidelity check-
+list to ensure reliability. All three coders had expertise inAvery et al. Implementation Science  (2016) 11:99 Page 14 of 21
+health behaviour change and experience of using the 40-
+item taxonomy [23] utilised throughout the intervention
+development process. While reviewing the video footage
+of each consultation, two coders independently recorded
+each intervention component as ‘yes’(delivered) or ‘no’
+(not delivered). Disagreements were resolved via discus-
+sion with the third researcher while revisiting video foot-
+age where discrepancies existed.
+Results
+Time spent completing the online training programme and
+modules reviewed post-training by primary healthcare
+professionals
+All six healthcare professionals logged on and accessed
+the online training programme. They spent a median of
+3 h and 35 min browsing the programme up to the point
+of completion (i.e. when a certificate was generated) over
+a median period of 5.5 days (see Table 3). The median
+time spent using the programme post-completion was
+58 min over a median period of 4 days.
+Healthcare professional perspectives: identification of
+domain-specific beliefs that impact upon acceptability
+and feasibility of the intervention
+Barriers to acceptability and fe asibility of the intervention
+from the perspective of healthcare professionals were asso-
+ciated with six theoretical domains. These were memory,
+attention and decision processe s (i.e. difficulties recalling
+specific components of the intervention); optimism (i.e. that
+the intervention is unlikely to help change PA behaviour of
+patients); environmental context and resources (i.e. lack of
+time to complete training and practice intervention deliv-
+ery); social influences (i.e. improving diabetes care is con-
+sidered to be a practice norm and something healthcare
+professionals are already doing ); professional role and iden-
+tity (i.e. belief that nurses and not GPs should be delivering
+the intervention); and beliefs about consequences (i.e. the
+intervention will only work with a minority of patients).
+A total of 25 domain-specific beliefs across all 14 TDF
+domains were found to positively influence acceptability
+and feasibility of the intervention in the primary care
+setting. The most frequently reported domains includedknowledge (i.e. completing the online training programme
+has improved knowledge of diabetes and the value of PA
+for glycaemic control); skills (i.e. the training programme
+has facilitated acquisition of behaviour change skills); be-
+liefs about capabilities (i.e. practice delivering the inter-
+vention to patients will make it easier to use); intentions
+(i.e. completing the training programme has increased the
+likelihood that PA will be targeted in future consultations);
+and optimism (i.e. practice will improve delivery of the
+intervention during routine consultations and lead to
+beneficial changes in patient behaviour).
+Patient perspectives: identification of domain-specific
+beliefs that impact on acceptability and feasibility of the
+intervention
+Barriers to acceptability and feasibility of the interven-
+tion from the perspective of patients were associated
+with three theoretical domains. These were memory,
+attention and decision processes (i.e. it takes time to
+fully understand the nature of the intervention and its
+components); environmental context and resources (i.e.
+a period of ill health or adverse health events could cre-
+ate barriers to increasing levels of PA); and social influ-
+ences (i.e. a preference to complete the programme
+alone/privately without social support).
+A total of 40 domain-specific beliefs from across all 14
+domains of the TDF were found to impact positively on
+acceptability and feasibility of the intervention by patients.
+Ten theoretical domains were most frequently reported:
+knowledge (i.e. the intervention increased knowledge and
+awareness of the benefits of PA for management of type 2
+diabetes); skills (i.e. the intervention equipped patients
+with the self-management skills to plan, monitor and over-
+come barriers to PA); beliefs about capabilities (i.e. increas-
+ing the levels of PA was not as difficult as anticipated
+when using the intervention); beliefs about consequences
+(i.e. increasing the levels of PA will have important health
+benefits); optimism (i.e. the intervention will help to in-
+crease and maintain the levels of PA); reinforcement (i.e.
+feedback and social support from healthcare professionals
+during consultations is an incentive to taking part); inten-
+tions (i.e. the intentions to attempt to increase the levels of
+PA have become stronger as a result of the intervention);
+goals (i.e. setting personal goals is an important aspect of
+the intervention); social influences (i.e. practical and emo-
+tional support from healthcare professionals at the primary
+care practice is important for maintaining motivation); and
+behavioural regulation (i.e. self-monitoring activity levels
+have facilitated an increase in PA).
+Fidelity of intervention delivery by healthcare
+professionals
+Inter-rater reliability using Cohen ’s kappa calculated for
+baseline and 1-month coding of intervention contentTable 3 Data on time spent browsing the programme (up to
+completion and post-completion)
+Number of
+days spent
+in trainingTotal hours/
+minutesNumber of days
+spent in training
+post-completionTotal hours/
+minutes
+Min 2.00 00:57 1.00 00:28
+Max 9.00 07:02 10.00 06:42
+Range 7.00 06:05 9.00 06:13
+Median 5.50 03:35 4.00 00:58
+IQR 3.25 01:21 5.50 02:33Avery et al. Implementation Science  (2016) 11:99 Page 15 of 21
+was 0.60 and 0.55, respectively, indicating moderate
+agreement.
+Assessment of video recordings revealed that the ma-
+jority of behaviour change techniques and other inter-
+vention components (i.e. agenda setting, discussion of
+pros versus cons for increasing PA, and utilisation of im-
+portance and confidence rulers) were delivered faithfully
+during baseline and 1-month follow-up appointments
+for the majority of the time. The intervention compo-
+nents frequently not delivered when it would have been
+appropriate to deliver them included agenda setting; dis-
+cussion of pros versus cons for increasing PA; barrier
+identification and problem-solving; prompt focus on past
+success; prompt rewards contingent on progress and
+time management. The behaviour change technique re-
+view of behavioural goals was, as expected, omitted from
+all baseline consultations but delivered during 15 of the
+17 1-month follow-up consultations. The behaviour
+change technique prompt generalisation of PA behaviour
+was not delivered during baseline or 1-month follow-up
+consultations.
+Patient and healthcare professional perspectives: how the
+data obtained informed intervention optimisation to
+improve acceptability and feasibility of the intervention
+Analyses of data collected during the open pilot study
+indicated that the intervention was acceptable and feas-
+ible for use with healthcare professionals and patients.
+The data were subsequently used to inform a number of
+refinements to intervention components and processes
+to improve acceptability, feasibility and fidelity of deliv-
+ery during the pilot RCT. An overview of these refine-
+ments to the intervention components is presented in
+Table 4.
+Healthcare professionals and patients in the open pilot
+study continued onto the pilot RCT. Healthcare profes-
+sionals were asked to revisit the training programme to
+view content added as an outcome of the open pilot
+study and deliver the intervention to patients during the
+6- and 12-month diabetes review appointments (i.e. 6-
+and 12-month follow-up). An illustration of the Move-
+ment as Medicine for Type 2 Diabetes intervention, fol-
+lowing revisions, is presented in Fig. 3.
+Discussion
+This paper presents a systematic, theory and evidence-
+informed approach to developing a multifaceted behav-
+ioural intervention for use by healthcare professionals
+(GPs, practice nurses and healthcare assistants) to pro-
+mote PA as an effective component of self-management
+amongst adults with type 2 diabetes in the primary care
+setting.
+The systematic intervention development process ad-
+dressed an important criticism of previous behaviourchange interventions targeting PA —the absence of a de-
+tailed description of the rationale for selecting theory,
+information content, duration and intensity of interven-
+tions that prohibits replication [23]. Adherence to the
+MRC framework to guide the development of Move-
+ment as Medicine for Type 2 Diabetes provides an audit
+trail for the provenance of the intervention ’s facets (on-
+line training programme and patient toolkit). Moreover,
+meaningful involvement of healthcare professionals and
+patients in an iterative and co-development process pro-
+vides evidence that Movement as Medicine for Type 2
+Diabetes (mode, form and information content) is sensi-
+tive to their preferences and the context of intervention
+delivery, which can enhance implementation and uptake
+in the clinical setting. A further strength of our approach
+was the use of a taxonomy [23] to ensure that behaviour
+change techniques were defined consistently throughout
+the intervention development process.
+The findings of the systematic review and meta-
+analyses were instrumental in establishing a robust
+rationale for the development of a theory-informed
+behaviour change intervention targeting PA of adults
+with type 2 diabetes in community and clinical settings
+with the use of behavioural strategies. Furthermore, it
+highlighted the importance of providing evidence-based
+skills development training to healthcare professionals
+to facilitate delivery of intervention content.
+While a prodigious amount of work has gone into eluci-
+dating a taxonomy of behaviour change techniques, there
+has been less attention directed towards effective strategies
+to provide interventionists with the knowledge and skills
+required to deliver theory-linked behaviour change tech-
+niques as described in the taxonomy. The current study
+adds to the evidence base by providing a theory-based
+means of operationalising the prerequisite of behaviour
+change skills required and conveying this audiovisually via
+an online intervention (training programme) to support
+‘vicarious skills development ’. Furthermore, the online
+training intervention programme provides an important
+proof of concept for the delivery of behaviour change tech-
+niques by non-psychologists, which reflects one of the key
+aims of the behaviour change technique taxonomy [23].
+The feasibility and acceptability of the online training
+intervention programme for improving the knowledge
+and skills of primary healthcare professionals were con-
+sistent with a Cochrane review published in 2013 on a
+digital/Internet-based PA behaviour change interven-
+tions [53]. Another systematic review published in 2010
+of Internet-based health behaviour change interven-
+tions reported that such interventions had small but
+significant effects on health behaviour, although interven-
+tions underpinned by the TPB and those incorporating
+more behaviour change techniques and using additional
+methods of communicating (e.g. text messaging) wereAvery et al. Implementation Science  (2016) 11:99 Page 16 of 21
+reported to have larger effects [53]. These findings support
+the decision to utilise the TPB to underpin the intervention
+and add to the evidence base for Internet-based interven-
+tions to support professional behaviour change [54]. How-
+ever, in acknowledgment of the limitations of the TPB,
+specifically in relation to its utility for developing interven-
+tion content [55], we engaged he althcare professionals and
+patients in an iterative development process. This helped to
+identify acceptable and feasibl e ways of operationalising the-
+oretical constructs from the TPB and SCT (and specific
+BCTs) to ensure that the inter vention mode, form and con-
+tent were optimally sensitive to the study context.
+An assessment of fidelity of intervention delivery by
+healthcare professionals addressed an important methodo-
+logical issue in the behaviour change literature. That is
+whether intervention components can be deliveredfaithfully by interventionists within the constraints of the
+target setting. We were able to demonstrate that ‘enact-
+ment ’of intervention knowledge and skills (i.e. specific be-
+haviour change techniques) in the primary care setting can
+be attributed to the completion of the evidence-based on-
+line training programme, described as the theoretically ex-
+pected treatment effects in the MRC framework [18, 23].
+The use of an open pilot study design enabled the
+gathering of feedback from healthcare professionals and
+patients throughout an active intervention period [23].
+While early development work is essential to make im-
+portant decisions about intervention content and mode of
+delivery, often, implementation issues cannot be identified
+until the intervention is utilised in practice. Therefore, the
+open pilot study design allowed the intervention to be
+‘tested ’and refined ahead of a planned pilot RCT involvingTable 4 An overview of modifications made to the Movement as Medicine for Type 2 Diabetes multifaceted intervention
+Revision Source of data that informed revision Justification for revision
+Removal of the behaviour change
+technique ‘rewards contingent on
+progress towards behaviour ’Semi-structured interviews with healthcare
+professionals and patients and video
+recordings of consultationsSeveral attempts were made by healthcare professionals to
+deliver the technique; however, faithful delivery and quality
+of delivery emerged as ongoing issues. Healthcare
+professionals reported the technique as ‘uncomfortable ’to
+deliver and felt it was not well received by patients. Patients
+reported the technique as ‘unnecessary ’a n dc o n s i d e r e dp o s i t i v e
+feedback from healthcare professionals a sufficient reward. The
+intervention contains a number of other self-regulatory behav-
+iour change techniques; therefore, the balance of motivational
+and volitional techniques was maintained
+Inclusion of explicit feedback
+on outcomes of behaviourSemi-structured interviews with patients Patients requested a formal record of weight, waist
+circumference, blood pressure and glycaemic control (HbA1c)
+to allow them to monitor their behavioural progress against
+their own anthropometric and clinical outcomes. The ‘record of
+progress pad ’was subsequently redesigned to allow provision
+for this information. Removal of the technique ‘rewards ’and
+inclusion of ‘feedback on outcomes of behaviour ’ensured that
+the balance of motivational and volitional techniques was
+maintained
+Redesign of the record of
+progress padSemi-structured interviews with
+healthcare professionals and patientsHealthcare professionals reported that there was insufficient
+space within version 1 of the record of progress pad to
+record PA goals and plans. Patients requested provision to
+record and monitor outcomes of behaviour. The record of
+progress pad was subsequently revised/optimised and
+reintroduced
+Inclusion of an intervention
+component checklistSemi-structured interviews with
+healthcare professionalsHealthcare professionals requested a paper-based checklist of
+intervention components/techniques available to them via
+the Movement as Medicine for Type 2 Diabetes intervention.
+They reported that this ‘visual aid ’would reduce cognitive
+burden, prompt use of specific techniques and thus increase
+the likelihood of implementation of intervention
+components
+Insertion of an online contents
+page to direct users to descriptions
+of intervention componentsSemi-structured interviews with
+healthcare professionalsAn additional page was inserted into the online training
+programme to direct healthcare professionals to descriptions
+of each intervention component and examples of how each
+component could/should be used. The aim was to (1)
+increase fidelity of delivery of intervention components
+overall and to specifically target those that were frequently
+not delivered and (2) to increase quality of delivery
+Insertion of additional online content
+to promote delivery of specific BCTsVideo recordings of consultations Additional written information was inserted online to prompt
+delivery of barrier identification/problem-solving (i.e. to
+prompt use of problem-solving specifically) and time
+managementAvery et al. Implementation Science  (2016) 11:99 Page 17 of 21
+a larger number of primary care practices and partici-
+pants. Several issues emerged that were later targeted by
+refinements to the intervention. These included failure to
+deliver intervention components when it would have been
+appropriate to deliver them (e.g. use of problem-solving
+when patients report barriers to undertaking physical ac-
+tivity); behaviour change techniques not delivered because
+healthcare professionals felt they were not relevant to the
+individual patients ’circumstances (e.g. omission of the
+behaviour change technique time management when the
+patient is retired); and quality of delivery (i.e. not deliver-
+ing behaviour change techniques in accordance with their
+published definitions and patient needs, preferences and
+circumstances). The latter made fidelity of delivery assess-
+ment difficult.
+The TDF approach has been used to understand patient
+and healthcare professional behaviour and intervention im-
+plementation challenges in a variety of contexts such as wit-
+ness response at acute onset of stroke [56]; implementation
+of a complex intervention for acute low back pain manage-
+ment in primary care [57]; hand hygiene behaviours [58];
+implementation of family intervention recommendations
+within the NICE guideline for schizophrenia [59]; and
+clinicians ’behaviour about preoperative test ordering for
+anaesthesia management [60] and blood transfusion [61].However, despite wide and successful use, there are several
+potential limitations of the TDF approach that should be
+acknowledged. Firstly, it is a descriptive framework not a
+theory; therefore, relationships between domains cannot
+be specified. Secondly, the TDF is frequently used in inter-
+view studies; however, inter-coder agreement can be low
+[62]. This highlights the issue that it can be difficult to rec-
+ognise the boundaries between the domains when using
+the TDF as a coding framework [62].
+Although the systematic intervention development process
+presented has several strengths, the limitations should be ac-
+knowledged. The early exploratory work was based on a very
+select and small sample of healthcare professionals; therefore,
+we cannot be certain that the findings were representative.
+Behaviour change techniques identified by the systematic re-
+view [14] were based on univariate analyses and only 25 out
+of 40 were used across the 17 included RCTs. Therefore, it is
+yet to be determined whether the behaviour change tech-
+niques omitted could have further optimised the interven-
+tion. Moreover, specific clusters of BCTs may be or less
+effective at different junctures in the intervention process.
+Further avenues of research, which could augment the
+information content of Movement as Medication, include
+the provision of ‘personalised ’information to individuals
+with type 2 diabetes on the likely absolute benefits of
+Fig. 3 Image of the Movement as Medicine for Type 2 Diabetes intervention toolkitAvery et al. Implementation Science  (2016) 11:99 Page 18 of 21
+increasing their levels of PA. However, there has been
+limited research looking into the impact of numerical and
+graphical information on risk in the context of type 2
+diabetes. The @Risk trial investigated the utility of theory-
+based methods of conveying absolute 10-year risk of car-
+diovascular disease to patients with type 2 diabetes [63].
+This trial found a positive effect on the accuracy of pa-
+tients ’estimates of cardiovascular risk perception (agree-
+ment between the patient ’s UK Prospective Diabetes Study
+risk engine score for cardiovascular disease and the pa-
+tient ’s perceived risk) at 2 weeks, but not 12 weeks, with
+no significant impact on attitudes and intentions to make
+lifestyle behaviour changes. Further research is warranted
+to establish whether evidence-based information that
+transparently communicates the absolute risk reduction/
+benefit of developing complications and/or progressing to
+insulin treatment as a function of incremental changes to
+patients ’current levels of PA could further support the for-
+mation of positive outcome expectancies (in both patients
+and healthcare professionals). In addition, an assessment is
+needed as to whether this could serve as a further mechan-
+ism for augmenting the BCT ’s‘provide information on the
+consequences of behaviour to the individual ’and support-
+ing collaborative discussions with healthcare professionals
+about self-management strategies for increasing PA in the
+p r i m a r yc a r es e t t i n g .
+Future research is needed to explore the impact of
+providing individualised feedback on performance to
+healthcare professionals as part of an enhanced training
+programme to establish any additional benefit in terms
+of fidelity of delivery and successful implementation of
+behavioural interventions in the primary care setting.
+The Movement as Medicine Intervention could also be
+provided as a compliment to existing programmes such
+as DESMOND and X-PERT by providing healthcare
+professionals with the skills to provide ongoing support.
+With the recent inception of Clinical Commissioning
+Groups (CCGs) in the UK, there is arguably a greater need
+to demonstrate cost-effectiveness as well as clinical effect-
+iveness. The former will need to be a core component of
+future randomised studies. This will elucidate any im-
+provement in outcomes as a function of cost savings to
+the UK National Health Service and as a function of cost
+of the intervention per patient against the cost savings of
+the reduced diabetes-related morbidity and mortality.
+Threats to continued uptake of the intervention over
+time should be considered. These include the need for up-
+dating the Movement as Medicine for Type 2 Diabetes
+intervention over time as new evidence emerges on the
+effectiveness of behaviour ch ange models/theory, theory-
+linked behaviour change techniques and types of PA and
+exercise, including sedentar y behaviour [64]. Otherwise,
+after a relatively short period of time, the intervention may
+be viewed as out of date and that would impact negativelyon uptake rates by healthcare professionals over time (and
+ultimately prevent patients from receiving the support they
+need to increase their PA behav iour). Furthermore, infor-
+mation computer technology is progressing rapidly, and to
+maintain uptake rates, there is also need to update and
+maintain the online trainin g programme to ensure com-
+patibility with primary care systems.
+Conclusions
+Despite PA being widely considered to be a cornerstone of
+diabetes care, rarely are healthcare professionals trained to
+provide support to adults with type 2 diabetes to become
+more physically active. In accordance with the MRC frame-
+work for development and evaluation of complex interven-
+tions [18], we have described the systematic development
+of a multifaceted PA behavioura l intervention with refer-
+ence to the pre-clinical (theoretical), modelling (phase I)
+and exploratory trial (phase II) phases. All phases contrib-
+uted meaningfully to the inter vention development process.
+In particular, the mixed methods open pilot study with as-
+sessment of fidelity was most useful for the following
+reasons: increased confidence that the intervention could
+feasible be delivered as specified, allowed the intervention
+to be optimised ahead of a planned pilot RCT and provided
+invaluable insights into the imp lementation of the interven-
+tion into routine practice. Following optimisation and a
+preliminary positive assessment of acceptability, feasibility
+and fidelity at 1-month foll ow-up with healthcare profes-
+sionals and patients, future research will compare the
+Movement as Medicine for Type 2 Diabetes multifaceted
+PA behavioural intervention to standard clinical care in a
+pilot RCT [21].
+Additional files
+Additional file 1: Interactive workshop materials ( ‘Circle of influence ’
+worksheet). (PDF 36 kb)
+Additional file 2: Interactive workshop materials ( ‘My diabetes story ’
+worksheet). (PDF 34 kb)
+Additional file 3: Interactive workshop materials ( ‘Good healthcare
+professional ’worksheet). (PDF 24 kb)
+Abbreviations
+GP, general practitioner; PA, physical activity; RCT, randomised controlled
+trial; MRC, Medical Research Council; HbA1c, glycated hemoglobin A1c; TDF,
+Theoretical Domains Framework; TPB, theory of planned behaviour; SCT,
+social cognitive theory
+Acknowledgements
+The authors would like to thank County Durham & Darlington Primary Care
+Trust for funding the initial development of the intervention and the Health
+Innovation Education Cluster North East for funding the open pilot study
+that informed intervention optimisation. We would like to thank Dr. Mike
+Lavender, consultant in Public Health Medicine at Durham County Council
+for his ongoing advice and support with the development and piloting of
+the intervention in primary care. We would also like to thank the
+participating primary healthcare professionals and patients who, via their
+ongoing feedback, contributed to the development of the intervention andAvery et al. Implementation Science  (2016) 11:99 Page 19 of 21
+have provided consent for their data to be published and within scientific
+reports and journals. Finally, we would like to acknowledge and thank Dr.
+Stephan Dombrowski and Dr. Keegan Knittle who contributed to the
+development of the fidelity checklist and coding of video recordings. This
+study was sponsored by the Public Health England who was responsible for
+performance management and audit. The study was given a favourable
+ethical opinion by Sunderland NRES Committee North East; REC reference
+12/NE/0037. MIT is funded by a National Institute for Health Research Senior
+Fellowship Award. FFS is funded by Fuse, the Centre for Translational
+Research in Public Health, a UKCRC Public Health Research Centre for
+Excellence.
+Authors ’contributions
+MIT, LA and FFS conceived the study. LA, KM, JS, FFS and MIT developed the
+alpha prototype intervention. LA, SJC, DF, FFS and MIT developed the beta
+version of the intervention. LA and SJC conducted the usability testing and
+an open pilot study to inform further development of the beta version of
+the intervention. LT and ML worked with healthcare professionals and
+patients to design and refine the intervention components. RT provided
+clinical expertise to inform the content of the intervention. LA drafted the
+manuscript, and all authors revised the manuscript for important intellectual
+content and approved the final version to be published.
+Competing interests
+LA has received speaker fees from Lilly and Novartis. RT has received lecture
+fees from Novartis, Lilly and NovoNordisk and support for an EASD
+Workshop from Nestle, Lilly and Novartis.
+Author details
+1Institute of Cellular Medicine, Faculty of Medical Sciences, Newcastle
+University, Newcastle upon Tyne NE2 4HH, UK.2Institute of Health & Society,
+Newcastle University, Newcastle upon Tyne NE2 4AX, UK.3Graduate School
+of Health, University of Technology, Sydney, New South Wales 2007,
+Australia.4AHP Research Limited, Hornchurch, Essex, UK.5The Australian
+Centre for Behavioural Research in Diabetes, Diabetes Victoria, Melbourne,
+Victoria 3000, Australia.6School of Psychology, Deakin University, Victoria
+3125, Australia.7Northumbria School of Design, Northumbria University,
+Newcastle upon Tyne NE1 8ST, UK.
+Received: 18 November 2015 Accepted: 28 June 2016
+References
+1. Yach D, Stuckler D, Brownwell KD. Epidemiologic and economic consequences
+of the global epidemics of obesity and diabetes. Nat Med. 2006;12:62 –6.
+2. Prospective UK. Diabetes Study Group. UK prospective diabetes study 16.
+Overview of 6 years ’therapy of type II diabetes: a progressive disease.
+Diabetes. 1995;44(11):1249 –58.
+3. Andrews RC, Cooper AR, Montgomery AA, Norcross AJ, Paters TJ, Sharp DJ,
+Jackson N, Fitzsimons K, Bright J, Coulman K, England CY, Gorton J,
+McLenaghan A, Paxton E, Polet A, Thompson C, dayan CM. Diet or diet plus
+physical activity versus usual care in patients with newly diagnosed type 2
+diabetes: the early ACTID randomised controlled trial. Lancet. 2011;
+378(9786):129 –39.
+4. Steven S, Hollingsworth KG, Al-Mrabeh A, Avery L, Aribisala B, Caslake M,
+Taylor R. Very-low-calorie diet and 6 months of weight stability in type 2
+diabetes: pathophysiologic changes in responders and nonresponders.
+Diabetes Care. 2016;39(8):1 –8.
+5. Thomas D, Elliott E, Naughton G. Exercise and type 2 diabetes systematic
+review. Cochrane Database Syst Rev. 2006;3:CD002968.
+6. Sigal RJKG, Wasserman DH, Castaneda-Sceppa C. Physical activity/exercise
+and type 2 diabetes. Diabetes Care. 2004;27(10):2518 –39.
+7. Zanuso S, Jimenez A, Pugliese G, Corigliano G, Balducci S. Exercise for the
+management of type 2 diabetes: a review of the evidence. Acta Diabetol.
+2009;47(1):15 –22.
+8. Snowling N, Hopkins W. Effects of different modes of exercise training on
+glucose control and risk factors for complications in type 2 diabetic
+patients: a meta-analysis. Diabetes Care. 2006;29(11):2518 –27.
+9. Morrato E, Hill J, Wyatt H, Ghushchyan V, Sullivan P. Physical activity in U.S. adults
+with diabetes and at risk for developing diabetes. Diabetes Care. 2007;30:203 –9.10. National Institute of Health and Clinical Excellence. NICE clinical guideline
+66: type 2 diabetes: the management of type 2 diabetes. Available from:
+www.nice.org.uk/guidance/ng28 London; 2008.
+11. Hawthorne G, Hrisos S, Stamp E, Elovainio M, Francis JJ, Grimshaw JM, et al.
+Diabetes care provision in UK primary care practices. PLoS One. 2012;7(7):e41562.
+12. Douglas F, Torrance N, van Teijlingen E, Meloni S, Kerr A. Primary care staff ’s
+views and experiences related to routinely advising patients about physical
+activity. A questionnaire survey. BMC Public Health. 2006;6(138):1 –10.
+13. National Institute of Health and Clinical Excellence. Public health guidance
+6: behaviour change at population, community and individual levels.
+Available from www.nice.org.uk/guidance/ph6. London; 2007.
+14. Avery L, Flynn D, van Wersch A, Sniehotta FF, Trenell MI. Changing physical
+activity behavior in Type 2 diabetes. A systematic review and meta-analysis
+of behavioral interventions. Diabetes Care. 2012;35(12):2681 –89.
+15. Davies MJ, Heller S, Skinner TC, Campbell MJ, Carey ME, Cradock S, et al.
+Effectiveness of the diabetes education and self management for ongoing and
+newly diagnosed (DESMOND) programme for people with newly diagnosed
+type 2 diabetes: cluster randomised controlled trial. BMJ. 2008;336(7642):491 –5.
+16. Deakin TA, Cade JE, Williams R, Greenwoo d DC. Structured patient education: the
+diabetes X-PERT programme makes a difference. Diabet Med. 2006;23(9):944 –54.
+17. Campbell M, Fitzpatrick R, Haines A, Kinmonth A, Sandercock P,
+Spiegelhalter D, et al. Framework for design and evaluation of complex
+interventions to improve health. BMJ. 2000;321:694 –6.
+18. Craig P, Dieppe P, Macintyre S, Michie S, Nazareth I, Petticrew M. Developing and
+evaluating complex interventions: the new Medical Research Council Guidance.
+BMJ. 2008;337:a1655.
+19. Dombrowski S, Sniehotta F, Avenell S. Towards a cumulative science of
+behaviour change: do current conduct and reporting of behavioural
+interventions fall short of good practice? Psychol Health. 2007;22:869 –74.
+20. Michie S, Fixen D, Grimshaw J, Eccles M. Specifying and reporting complex
+behaviour change interventions: the need for a scientific method.
+Implementation Science. 2009;4:40.
+21. Avery L, Sniehotta FF, Denton SJ, Steen N, McColl E, Taylor R, et al. Movement
+as Medicine for Type 2 Diabetes: protocol for an open pilot study and external
+pilot clustered randomised controlled trial to assess acceptability, feasibility
+and fidelity of a multifaceted behavioural intervention targeting physical
+activity in primary care. Trials. 2014;15(46):1 –18.
+22. Krippendorff KH, Bock MA. The content analysis reader. Thousand Oaks CA:
+Sage; 2009.
+23. Michie S, Ashford S, Sniehotta F, Dombrowski S, Bishop A, French D. A
+refined taxonomy of behaviour change techniques to help people change
+their physical activity and healthy eating behaviours: the CALO-RE
+taxonomy. Psychol Health. 2011;26(11):1479 –98.
+24. French DP, Stevenson A, Michie S. An intervention to increase walking
+requires both motivational and volitional components: a replication and
+extension. Psychol Health Med. 2012;17(2):127 –35.
+25. Dombrowski SU, Sniehotta FF, Avenell A, Johnston M, MacLennan G, Araújo-
+Soares V. Identifying active ingredients in complex behavioural interventions
+for obese adults with obesity-related co-morbidities or additional risk factors
+for co-morbidities: a systematic review. Health Psychol Rev. 2012;6(1):7 –32.
+26. Greaves CJ, Sheppard KE, Abraham C, Hardeman W, Roden M, Evans PH, et
+al. Systematic review of reviews of intervention components associated
+with increased effectiveness in dietary and physical activity interventions.
+BMC Public Health. 2011;11(1):119.
+27. Michie S, Abraham C, Whittington C, McAteer J, Gupta S. Effective techniques
+in healthy eating and physical activity interventions: a meta-regression. Health
+Psychol. 2009;28(6):690 –701.
+28. Bravata DM, Smith-Spangler C, Sundaram V, Gienger AL, Lin N, Lewis R,
+Stave CD, Olkin I, Sirard JR. Using pedometers to increase physical activity
+and improve health: a systematic review. JAMA. 2007;298(19):2296 –304.
+29. Sniehotta F, Scholz U, Schwarzer R. Action plans and coping plans for
+physical exercise: a longitudinal intervention study in cardiac rehabilitation.
+Br J Health Psychol. 2006;11:23 –37.
+30. Kwasnicka D, Presseau J, White M, Sniehotta F. Does planning how to cope
+with anticipated barriers facilitate health-related behaviour change? A
+systematic review. Health Psychol Rev. 2013;7(2):129 –45.
+31. Sniehotta F, Schwarzer R, Scholz U, Schuz B. Action planning and coping
+planning for long-term lifestyle change: theory and assessment. Eur J Soc
+Psychol. 2005;35:565 –76.
+32. Ajzen I. The theory of planned behaviour. Organ Behav Hum Decis Process.
+1991;50:179 –211.Avery et al. Implementation Science  (2016) 11:99 Page 20 of 21
+33. Bandura A. Social foundations of thought and action. Englewood Cliffs:
+Prentice Hall; 1986.
+34. Hagger M, Chatzisarantis N, Biddle S. A meta-analytic review of the theories of
+reasoned action and planned behavior in physical activity: predictive validity
+and contribution of additional variables. J Sport Exerc Psychol. 2002;24:1 –12.
+35. Plotnikoff C, Lubans D, Trinh L, Craig C. A 15 year longitudinal test of the
+theory of planned behaviour to predict physical activity in a randomized
+national sample of Canadian adults. Psychol Sport Exerc. 2012;13(5):521 –7.
+36. Godin G, Belanger-Gravel A, Eccles M, Grimshaw J. Healthcare professionals
+intentions and behaviours: a systematic review of studies based on social
+cognitive theories. Implementation Science. 2008;3:36.
+37. Sniehotta FF, Scholz U, Schwarzer R. Bridging the intention –behaviour gap:
+planning, self-efficacy, and action control in the adoption and maintenance
+of physical exercise. Psychol Health. 2005;20(2):143 –60.
+38. Plotnikoff R, Lippke S, Courneya K, Birkett N, Sigal R. Physical activity and
+social cognitive theory: a test in a population sample of adults with type 1
+or type 2 diabetes. Appl Psychol. 2008;57(4):628 –43.
+39. Davidson K, Goldstein M, Kaplan R, Kaufmann P, Knatterud G, Orleans C, et
+al. Evidence-based behavioral medicine: what is it and how do we achieve
+it? Ann Behav Med. 2003;26(3):161 –71.
+40. Rollnick S, Mason P, Butler C. Health behaviour change: a guide for
+practitioners. London: Elsevier; 1999.
+41. Stott NC, Rees M, Rollnick S, Pill RM, Hackett P. Professional responses to
+innovation in clinical method: diabetes care and negotiating skills. Patient
+Educ Couns. 1996;29(1):67 –73.
+42. Marcus BH, Bock BC, Pinto BM, Forsyth LAH, Roberts MB, Traficante RM.
+Efficacy of an individualized. Motivationally-tailored physical activity
+intervention. Ann Behav Med. 1998;20(3):174 –80.
+43. Diabetes UK. Keeping active: an essential part of managing diabetes.
+London: Diabetes UK; 2010.
+44. Rollnick S, Miller W. What is motivational interviewing? Behav Cogn
+Psychother. 1995;23:325 –34.
+45. Thabane L, Ma J, Chu R, Cheng J, Ismaila A, Rios LP, et al. A tutorial on pilot
+studies: the what, why and how. BMC Med Res Methodol. 2010;10(1):1.
+46. Lancaster GA, Dodd S, Williamson PR. Design and analysis of pilot studies:
+recommendations for good practice. J Eval Clin Pract. 2004;10(2):307 –12.
+47. Cane J, O ’Connor D, Michie S. Validation of the Theoretical Domains
+Framework for use in behaviour change and implementation research.
+Implementation science. 2012;7:37.
+48. Michie S. Making psychological theory u seful for implementing evidence based
+practice: a consensus approach. Qualit y Safety Health Care. 2005;14(1):26 –33.
+49. Bellg A, Borrelli B, Resnick B, Hecht J, Sharp Minicucci D, Ory M, et al.
+Enhancing treatment fidelity in health behavior change studies: best
+practices and recommendations from the NIH behavior change consortium.
+Health Psychol. 2004;23(5):443 –51.
+50. Schlosser RW. On the importance of being earnest about treatment
+integrity. Augment Altern Commun. 2002;18:36 –44.
+51. International QSR. Nvivo qualitative data analysis software version 10. 2012.
+52. Francis J, Johnston M, Robertson C, Glidewell L, Entwistle V, Eccles M, Grimshaw,
+J. What is an adequate sample size? Operationalising data saturation for theory-
+based interview studies ’. Psychol Health. 2010;25(10):1229 –45.
+53. Richards J, Thorogood M, Hillsdon M, Foster C. Face-to-face versus remote
+and web 2.0 interventions for promoting physical activity. Cochrane
+Database of Systematic Reviews. 2013. Issue 9. Art. No.: CD010393.
+54. Webb TL, Joseph J, Yardley L, Michie S. Using the Internet to promote
+health behavior change: a systematic review and meta-analysis of the
+impact of theoretical basis, use of behavior change techniques, and mode
+of delivery on efficacy. J Med Internet Res. 2010;12(1):e4.
+55. Sniehotta FF, Presseau J, Araújo-Soares V. Time to retire the theory of
+planned behaviour. Health Psychology Review. 2014;8(1):1.
+56. Dombrowski SU, Sniehotta FF, Mackintosh J, White M, Rodgers H, Thomson
+RG, et al. Witness response at acute onset of stroke: a qualitative theory-
+guided study. PLoS One. 2012;7(7):e39852.
+57. Michie S, Hendy J, Smith J, Adshead F. Evidence into practice: a theory
+based study of achieving national health targets in primary care. J Eval Clin
+Pract. 2004;10:447 –56.
+58. Dyson J, Lawton R, Jackson C, Chester F. Does the use of a theoretical
+approach tell us more about hand hygiene behaviour? The barriers and
+levers to hand hygiene. J Infect Prev. 2011;12(1):17 –24.59. Michie S, Pilling S, Garety P, Whitty P, Eccles MP, Johnston M, et al.
+Difficulties implementing a mental health guideline: an exploratory
+investigation using psychological theory. Implement Sci. 2007;2:8.
+60. Patey AM, Islam R, Francis JJ, Bryson GL, Grimshaw JM, Canada PRIME Plus Team.
+Anesthesiologists ’and surgeons ’perceptions about routine pre-operative testing
+in low-risk patients: application of the Theoretical Domains Framework (TDF) to
+identify factors that influence physicians ’decisions to order pre-operative tests.
+Imp Sci. 2012;7:52.
+61. Francis JJ, Stockton C, Eccles MP, Johnston M, Cuthbertson BH, Grimshaw
+JM, et al. Evidence-based selection of theories for designing behaviour
+change interventions: using methods based on theoretical construct
+domains to understand clinicians ’blood transfusion behaviour. Br J Health
+Psychol. 2009;14(4):625 –46.
+62. Francis JJ, O ’Connor D, Curran J. Theories of behaviour change synthesised
+into a set of theoretical groupings: introducing a thematic series on the
+theoretical domains framework. Implementation Science. 2012;7(1):35.
+63. Welschen LMC, Bot SDM, Kostense PJ, Dekker JM, Timmermans DRM, van
+der Weijden T, et al. Effects of cardiovascular disease risk communication for
+patients with type 2 diabetes on risk perception in a randomized controlled
+trial: the @RISK study. Diabetes Care. 2012;35(12):2485 –92.
+64. Wilmot EG, Edwardson CL, Achana FA, Davies MJ, Gorely T, Gray LJ, et al.
+Sedentary time in adults and the association with diabetes, cardiovascular
+disease and death: systematic review and meta-analysis. Diabetologia. 2012;
+55(11):2895 –905.
+•  We accept pre-submission inquiries  
+  Our selector tool helps you to ﬁnd the most relevant journal
+  We provide round the clock customer support 
+  Convenient online submission
+  Thorough peer review
+  Inclusion in PubMed and all major indexing services 
+  Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submitSubmit your next manuscript to BioMed Central 
+and we will help you at every step:Avery et al. Implementation Science  (2016) 11:99 Page 21 of 21

@@ -1,0 +1,1016 @@
+SYSTEMATIC REVIEW Open Access
+A systematic review of the use of
+the Consolidated Framework for
+Implementation Research
+M. Alexis Kirk1,2*, Caitlin Kelley3, Nicholas Yankey3, Sarah A. Birken1, Brenton Abadie4and Laura Damschroder3
+Abstract
+Background: In 2009, Damschroder et al. developed the Consolidated Framework for Implementation Research (CFIR),
+which provides a comprehensive listing of constructs thought to influence implementation. This systematic review
+assesses the extent to which the CFIR ’s use in implementation research fulfills goals set forth by Damschroder et al. in
+terms of breadth of use, depth of application, and contribution to implementation research.
+Methods: We searched Scopus and Web of Science for publications that cited the original CFIR publication by
+Damschroder et al. (Implement Sci 4:50, 2009) and downloaded each un ique result for review. After applying exclusion
+criteria, the final articles were empirical studies published in peer-review journals that us ed the CFIR in a meaningful way
+(i.e., used the CFIR to guide data collec tion, measurement, coding, analysis, and/or reporting). A framework analysis
+approach was used to guide ab straction and synthesis of the included articles.
+Results: T w e n t y - s i xo f4 2 9u n i q u ea r t i c l e s( 6% )m e ti n c l u s i o nc r i teria. We found great breadth in CFIR application; the
+CFIR was applied across a wide variety of study objectives, se ttings, and units of analysis. There was also variation in the
+method of included studies (mixed methods ( n= 13); qualitative ( n=1 0 ) ;q u a n t i t a t i v e( n= 3)). Depth of CFIR application
+revealed some areas for improvement. Few studies ( n= 3) reported justification for selection of CFIR constructs used; the
+majority of studies ( n= 14) used the CFIR to guide data analysis only; and few studies investigated any outcomes ( n=1 1 ) .
+Finally, reflections on the contribution of the CFIR to implementation research were scarce.
+Conclusions: Our results indicate that the CFIR has been used acro ss a wide range of studies, though more in-depth use
+of the CFIR may help advance implementation science. To harness its potential, researchers should consider how to most
+meaningfully use the CFIR. Specific recommendations for applying the CFIR include explicitly justifying selection of CFIR
+constructs; integrating the CFIR throughout the research pr ocess (in study design, data collection, and analysis); and
+appropriately using the CFIR given the phase of impl ementation of the research (e.g., if the research is
+post-implementation, using the CFIR to link de terminants of implementation to outcomes).
+Keywords: Implementation research, Theory, Frameworks, Synthesis, Consolidated Framework for Implementation
+Research
+* Correspondence: kqmeredi@live.unc.edu
+1Department of Health Policy and Management, Gillings School of Global
+Public Health, The University of North Carolina at Chapel Hill, Chapel Hill, NC
+27599-7411, USA
+2Performance Measure Development and Implementation Program, RTI
+International, 3040 Cornwallis Road, Research Triangle Park, NC 27709, USA
+Full list of author information is available at the end of the article
+© 2016 Kirk et al. Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.Kirk et al. Implementation Science  (2016) 11:72 
+DOI 10.1186/s13012-016-0437-z
+Background
+A top priority for implementat ion research is to understand
+why an innovation is successfully implemented in one set-
+ting, but not in another. Without a theoretical framework
+to guide data collection, analys is, and interpretation, imple-
+mentation researchers often id entify determinants of imple-
+mentation that apply only to the specific contexts in which
+their research was conducted. C onducting implementation
+research without a theoretical framework also hinders a
+foundational scientific goal of being able to generalize and
+build on findings across studies and contexts. Conse-
+quently, researchers and policymakers have called for
+greater use of theory in implementation research [1]. Many
+implementation theoretical frameworks describe similar or
+overlapping constructs, each wi th slightly different termin-
+ologies and definitions [2]. Thus, in 2009, Damschroder
+et al. undertook a review of the implementation science
+literature with the aim of inte grating previously published
+theories into a single, consolidated framework to guide
+implementation research [3]. The result of this literature
+review was the Consolidated Framework for Implementa-
+tion Research (CFIR).
+The CFIR is a meta-theoretical framework that provides
+a repository of standardized implementation-related con-
+structs that can be applied across the spectrum of imple-
+mentation research [3]. The CF IR comprises 39 constructs
+organized across five major domains, all of which interact
+to influence implementation and implementation effective-
+ness [3]. Additional file 1 includes a description of CFIR
+constructs within each domain.
+The CFIR provides a common language by which deter-
+minants of implementation can be articulated, as well as a
+comprehensive, standardized list of constructs to serve
+as a guide for researchers as they identify variables that
+are most salient to implementation of a particular
+innovation [4]. The CFIR can be used to develop data
+collection approaches (e.g., interview guide, codebook)
+and as a guide for analyzing, interpreting, and/or reporting
+implementation-related findings. The CFIR can be applied
+at any phases of implementation (i.e., pre-, during, or
+post-implementation), and researchers can also use the
+CFIR ’s constructs as building blocks for developing test-
+able hypothetical models that focus on specific constructs
+and their interrelationships. At the macro level, the CFIR
+provides a standardized structure for building on findings
+across studies [3].
+Although use of the CFIR as a theoretical framework
+appears to be on the rise since its publication in 2009, no
+formal reviews have been conducted to investigate its
+impact on implementation research. Thus, our specific re-
+search objectives for this sys tematic review are as follows:
+/C15Objective 1: determine types of studies that use the
+CFIR./C15Objective 2: determine how the CFIR has been
+applied, including depth of application.
+/C15Objective 3: determine the contribution of the CFIR
+to implementation research.
+The objectives of this systematic review are based on a
+review of Damschroder et al. ’s seminal publication [3],
+which specified criteria for using the CFIR and goals for the
+CFIR over time. Findings from this systematic review can
+be used as a reference for implementation researchers as
+they integrate the CFIR into their work. To this end, we
+conclude this systematic review by making recom-
+mendations to promote the CFIR ’s use as intended by
+Damschroder et al.
+Methods
+Search strategy
+We employed a citation search strategy to identify pub-
+lished peer-reviewed articles that describe use of the
+CFIR to guide their research. The cited article used for
+our search was the original 2009 CFIR publication by
+Damschroder et al. [3]. We searched two citation index
+databases, Web of Science and Scopus, from August
+2009 through January 2015. These databases were se-
+lected because they offer the most comprehensive data-
+bases of articles that can be tracked using citations, and
+they allow for cited reference searching. Although other
+databases, such as Google Scholar, may provide wider
+coverage of certain types of publications (international,
+non-English journals, conference proceedings) [5], those
+publications were excluded from our review. In addition,
+literature shows that Web of Science and Scopus yield
+more consistent and accurate results than other databases
+that may provide wider coverage (e.g., Google Scholar) [6].
+In Scopus, the search string was REF (fostering implemen-
+tation of health services res earch findings into practice: a
+consolidated framework for advancing implementation
+science). In Web of Science, the search strategy was TITLE:
+(fostering implementation of health services research find-
+ings into practice: a consolidated framework for advancing
+implementation science), and the “times cited ”link pro-
+vided a full list of citations of the original CFIR paper. Full
+texts of all resulting articles were downloaded for review.
+Inclusion and exclusion criteria
+English language research that used the CFIR in a meaning-
+ful way (i.e., use of CFIR to guide data collection, measure-
+ment, coding, analysis, and/o rr e p o r t i n g )i na ne m p i r i c a l
+study and were published in a peer-reviewed journal were
+included. Excluded were protocols, editorials, and articles
+that cited the CFIR, but neither reported applying nor plan-
+ning to apply the CFIR (e.g., cited the CFIR in the introduc-
+tion to acknowledge the complexity of implementation
+context). This review focused on empirical studies, so weKirk et al. Implementation Science  (2016) 11:72 Page 2 of 13
+excluded syntheses in which the CFIR was one of a list of
+frameworks, theories, or models.
+Study selection process
+Article selection was performed by two authors (CK,
+AK). One author (CK) performed a full text analysis of
+all articles, searching for evidence of meaningful use of
+the CFIR by examining the methods and results sections.
+There was no initial screening based on titles or ab-
+stracts because this review is based on citations of the
+CFIR, and the CFIR was not always mentioned in those
+sections. Before the primary reviewer (CK) conducted
+the full text review of all articles, the research team went
+through a preliminary review process to refine inclusion
+and exclusion criteria. During this preliminary review
+process, a second author (AK) reviewed of a sub-sample
+of articles (71 articles, or 17 % of 429 unique papers
+resulting from our search) to establish refined inclusion
+and exclusion criteria, and ensure criteria were applied
+consistently. During this preliminary phase, if the re-
+viewers disagreed or were uncertain about the inclusion
+of any article, the article was discussed with the senior
+authors (LD, SB). After the preliminary review phase,
+CK completed a full-text review of all articles. During
+this phase, the majority of articles were excluded be-
+cause they did not meet the criteria for using the CFIR
+in a meaningful way. All articles marked for inclusion
+were also assessed by a second reviewer (AK). The two
+reviewers achieved 80 % agreement on their determin-
+ation of whether to include articles in the final sample.
+When there was disagreement, both reviewers discussed
+until consensus was reached.
+Data extraction and analysis
+We used a framework analysis approach to guide abstrac-
+tion and synthesis of the included articles [7]. The study
+team developed a standardized data abstraction tool inMicrosoft Excel where content was arrayed in a matrix
+format consisting of rows (art icles), columns (codes), and
+cells (summarized data) [8]. Abstraction was accomplished
+in five phases. First, in the familiarization phase, we
+reviewed a subset of the included articles to familiarize
+team members with the literature base. Second, we identi-
+fied a thematic framework based on our specific research
+objectives, which served as the codes used to identify and
+extract passages from the artic les. These codes comprised
+the columns in our abstraction matrix. Final codes by study
+objective are presented in Table 1.
+In the third and fourth phases, indexing and charting,
+four authors (CK, AK, NY, and BA) extracted text selec-
+tions from included articles into our abstraction matrix.
+Two individuals independently indexed and charted each
+article, comparing results; discrepancies were discussed
+until consensus was reached. In the fifth and final phase,
+mapping and interpretation, passages from the abstraction
+matrix were analyzed by AK, SB, and LD to develop over-
+arching themes for each code. Themes were discussed
+among all co-authors until consensus was reached.
+The quality and depth of application of the CFIR was
+assessed by (1) the inclusion criteria of our systematic
+review (i.e., the proportion of articles that were included
+because they used the CFIR in a meaningful way) and (2)
+research objective 2, which focuses on the depth of CFIR
+application. This assessment was intended to evaluate qual-
+ity of CFIR application and not the quality of any other as-
+pects of the studies described in the included articles.
+Results
+Our searches yielded 716 retrievals; the search in Scopus
+yielded 398 retrievals and Web of Science yielded 318.
+Of those 716, 287 were duplicate retrievals and were
+removed, leaving 429 unique articles that cited the 2009
+CFIR paper. Of the 429 unique articles, we excluded a
+total of 403 articles. Three hundred fifty-six articles were
+Table 1 Research objectives and operationalization
+Research objective Operationalization of objective (codes for analysis)
+Objective 1: determine the types of studies that use the CFIR General study characteristics, including:
+Research objective
+Setting
+Unit of analysis (e.g., organization- or provider-level)
+Phase of implementation (pre-, during, or post-implementation)
+Study design and methods (qualitative, quantitative, or mixed-methods)
+Objective 2: determine how the CFIR is being applied,
+including depth of applicationDepth of CFIR application, including:
+How the CFIR was used (e.g., to guide data analysis, data collection, or both)
+Rationale of selection of CFIR constructs, as well as which CFIR constructs
+were selected and used
+Investigation of outcomes, including implementation effectiveness outcomes,
+and measurement of association between CFIR constructs and outcomes
+Objective 3: determine the contribution of the CFIR to
+implementation researchGeneral commentary about validity and utility of the CFIR, based on three questions
+posed by Damschroder et al. in their seminal CFIR publication [ 3], which included:
+Coherence of CFIR terminology
+Whether the CFIR promotes comparison across studies
+Whether the CFIR stimulates new theoretical developmentKirk et al. Implementation Science  (2016) 11:72 Page 3 of 13
+excluded because they were non-meaningful uses of the
+CFIR (e.g., use of the CFIR as background or plans for
+future research in the discussion), and 47 were excluded
+because they were syntheses, study protocols, etc.; 26
+articles (6 % of 429) were included in the final sample.
+See Fig. 1. All 26 included articles were reviewed to meet
+our three research objectives.
+Objective 1: types of studies that have used the CFIR
+Each study was characterized with respect to research ob-
+jective, setting, unit of analysis, phase of implementation,
+and study design and methods (see Table 2).
+Research objective
+All but one study [9] investigated facets of implementation
+of innovations that had already been developed and tested
+for feasibility or effectiveness. The general research object-
+ive of most (73.1 %) studies was to gain an in-depth under-
+standing of practitioners ’experiences (e.g. , implementation
+processes, barriers and facilitators to implementation) in
+innovation implementation. Stu dies investigated implemen-
+tation of a wide variety of innovations (e.g., healthcare
+delivery and process re-design, quality improvement, healthpromotion, and disease management), spanning a wide var-
+iety of health-related topics (e .g., mental health, obesity,
+and blood pressure).
+Setting and unit of analysis
+Healthcare systems were the most common settings for
+implementation ( n= 20). The unit of analysis was most
+often the organization in wh ich implementation occurred
+(n= 12) or the providers involved in implementation ( n=
+11); other units of analysis included programs ( n=2 ) ,
+departments ( n=2 ) ,a n dp a t i e n t( n=2 ) .
+Phase of implementation
+The majority of studies ( n= 15) focused their data collec-
+tion and evaluations in the p ost-implementation phase,
+though some studies did occur during ( n=8 ) o r p r e -
+implementation ( n= 2). In the seminal CFIR publication,
+Damschroder et al. outlined ways in which the CFIR could
+be used across phases of imp lementation [3]. For pre-
+implementation research, the CFIR provides a list of “expli-
+citly defined constructs ”to conduct capacity and needs
+assessments to identify potential determinants (barriers and
+facilitators) to implementation [3]. During implementation,
+Fig. 1 PRISMA diagram of study selectionKirk et al. Implementation Science  (2016) 11:72 Page 4 of 13
+Table 2 Summary of included studies
+Author Research objective Methods Unit of analysis Phase of
+implementation
+Acosta et al. (2013)
+[33]Assess impact of Assets-Getting to Outcomes intervention on individual prevention practitioners and whole
+prevention programs in 12 Maine communitiesMixed Program (program
+and coalition)Post
+Baker et al. (2014)
+[34]Investigate mental health care workers ’views of a physical health self-management program in South Australia Qualitative Provider Post
+Balas et al. (2013)
+[35]Implementation of the awakening and breathing coordination, delirium monitoring/management, and early
+exercise/mobility bundle in a tertiary care settingMixed Provider
+(clinician)Post
+Cilenti et al. (2012)
+[11]Identify factors of successful implementation of evidence-based practices in public health agencies Qualitative Department Post
+Connell et al. (2014a)
+[18]Survey therapists ’use of Graded Repetitive Arm Supplementary Program for upper limb stroke rehabilitation in
+Vancouver, British ColumbiaQuantitative Provider
+(therapists)Post
+Connell et al. (2014b)
+[36]Implementation of Graded Repetitive Arm Supplementary Program for upper limb stroke rehabilitation in
+Vancouver, British ColumbiaQualitative Provider Post
+Cragun et al. (2014)
+[19]Explore how variation in universal tumor screening procedures for colorectal cancer patients influenced patient
+follow through with germ-line testing after a positive resultMixed Organization Post
+Damschroder and
+Lowery (2013) [ 20]Identify factors affecting implementation of the MOVE! weight management program in Veterans Affairs medical
+centersMixed Provider Post
+Draanen et al. (2013)
+[37]Examine effectiveness of Toronto Community Addictions Team on service and substance use in Toronto Mixed Provider
+(individual)During
+English et al. (2011)
+[38]Implementation of a multifaceted intervention to improve inpatient care in rural Kenyan hospitals Mixed Organization
+(hospital)Post
+English et al. (2013)
+[22]Design of a tailored intervention strategy to improve hospital services for children in Kenya Qualitative NA (designing
+intervention for
+hospitals)Pre
+Forman et al. (2014)
+[17]Understanding experiences of primary care leadership, physicians, and staff during Patient Aligned Care Teams
+early implementation in Veterans Affairs medical centersQualitative Provider (individual
+provider/staff)During
+Gilmer et al. (2013)
+[39]Implementation of full service partnerships, supportive housing programs for persons with serious mental illness
+in CaliforniaMixed Program During
+Green et al. (2014)
+[23]Examine the adoption and use of buprenorphine for opioid addiction treatment in two not-for-profit health plans Qualitative Provider During
+Ilott et al. (2012)
+[12]Testing the CFIR through post hoc analysis of 11 narrative accounts of health care service and practice innovation
+in EnglandQualitative Organization Post
+Jones et al. (2015)
+[40]Implementation of central line associated bloodstream infections reduction project in an orthopedic and trauma
+surgical unit in an academic health care system in the southeast region of the United StatesQuantitative Organization
+(hospital unit)Post
+Kalkan et al. (2014)
+[9]Explore the influences on individual rheumatologist ’s decisions on prescribing biological drugs in Sweden Mixed Provider Not specified
+Kilbourne et al. (2013)
+[21]Measure success of randomized adaptive implementation trial to improve uptake of a re-engagement program for
+patients with serious mental illness in Veterans Affairs medical centersMixed Organization and
+patientDuring
+Luck et al. (2014)
+[16]Evaluation of Patient Aligned Care Teams toolkit across Veterans Affairs medical centers Mixed Organization PostKirk et al. Implementation Science  (2016) 11:72 Page 5 of 13
+Table 2 Summary of included studies (Continued)
+Robins et al. (2013)
+[10]Investigated potential facilitators and barriers to applying a blood pressure management strategy in a community
+setting.Qualitative Providers and patient Pre
+Ruffolo and
+Capobianco (2012)
+[13]Investigate the implementation of a family psychoeducation intervention into routine care throughout an
+entire state.Qualitative Organization Post
+Sanchez et al. (2014)
+[41]Examine medication reconciliation implementation in a large academic medical center and its affiliated
+Veterans Affairs medical center.Qualitative Organization Post
+Shaw et al. (2013)
+[42]Examine engagement of health care providers in the implementation of a fall prevention program. Mixed Provider During
+Shimada et al. (2013)
+[14]Explore variations in adoption and outcomes of patient-provider secure messaging in Veterans Affairs medical
+centers.Quantitative Organization During
+Zulman et al. (2013)
+[43]Evaluate the large-scale implementation of an internet mediated walking program delivered by a large US
+health insurance company.Mixed Organization Post
+Zulman et al. (2014)
+[15]Evaluate a healthcare delivery redesign process for high-need, high-cost patients in Veterans Affairs medical
+centers.Mixed Organization During
+Total n=2 6 N A Qualitative:
+10
+Quantitative
+:3
+Mixed: 13Organization: 10
+Provider: 10
+Program: 2
+Department: 1
+Provider and patient: 1
+Organization and
+patient: 1
+NA: 1Pre: 2
+Post: 15
+During: 8
+Not specified: 1Kirk et al. Implementation Science  (2016) 11:72 Page 6 of 13
+CFIR constructs can provide a roadmap to monitor imple-
+mentation progress. In post-i mplementation, the CFIR can
+be used to “guide exploration ”to determine what factors
+influenced outcomes such as im plementation effectiveness
+and intervention effectiveness [3]. In general, we found that
+phase of implementation mapped onto Damschroder
+et al. ’s intended use of the CFIR, though there were some
+exceptions, especially among post-implementation studies.
+For example, studies that occurred during the pre-
+implementation phase used the CFIR to investigate poten-
+tial barriers to implementation prior to the roll-out of the
+innovation. A case in point, Robins et al. used the CFIR to
+guide interviews of providers about potential barriers to
+implementing a home blood pressure monitoring program
+in the pre-implementation phase [10]. Findings revealed
+t h a tt h e r ew a saf l a wi nak e yc o m p o n e n to ft h ep r o g r a m ;
+specifically, many clinics l acked an in-house pharmacist
+necessary for the program (coded to Available Resources
+within the Inner Setting). Sub sequently, the investigators
+explored options for re-des igning the program to accom-
+modate clinics without an in-house pharmacist.
+Some studies, however, did not apply the CFIR in a man-
+ner completely consistent w ith the guidance set forth by
+Damschroder et al. [3]. In particular, studies that occurred
+post-implementation most commonly used the CFIR to
+investigate facilitators/barr iers to implementation among
+participants who had already adopted and implemented an
+innovation (e.g., [11]), thus identifying determinants of
+implementation post hoc. This application of the CFIR is
+more aligned with Damschroder et al. ’s pre-implementation
+guidance and does not incorporate a key component of
+Damschroder et al. ’s suggestion for applying the CFIR to
+post-implementation research —which is to link determi-
+nants of implementation to outcomes (e.g., implementation
+or innovation effectiveness).
+Study design and methods
+The majority of studies employed either a mixed methods
+(n= 13) or qualitative ( n= 10) design. Only three studies
+were purely quantitative. Common qualitative methods
+included key informant interviews and focus groups with
+program managers or participants. Studies using quantita-
+tive methods commonly employed surveys and adminis-
+trative data collection methods. Quantitative measures of
+CFIR constructs were developed using a variety of outside
+sources because no widely accepted quantitative measures
+for CFIR constructs currently exist. Most studies en-
+gaged in primary data collec tion either through inter-
+views or surveys. Two studies, however, conducted
+secondary analysis of existing qualitative data sources
+including meeting minutes, memos, and quarterly
+reports generated during the implementation of the
+innovation under investigation [12, 13].Objective 2: depth of CFIR application
+As an initial overall indicator of the depth of CFIR appli-
+cation, it is interesting to note that of the initial 429
+unique articles that cited the original CFIR publication,
+356 (82.9 %) did not meet our definition for meaningful
+use of the CFIR (i.e., they did not integrate the CFIR in
+methods and reporting of findings). Among the 26 arti-
+cles that did meet our inclusion criteria, we assessed the
+depth of CFIR application according to the following cri-
+teria: selection and use of CFIR domains and constructs,
+application of the CFIR in the methods, and whether the
+CFIR was being used to investigate outcomes.
+Selection and use of CFIR domains and constructs
+Figure 2 reports CFIR constructs used in studies, rank
+ordered from highest to lowest use within each domain.
+(For a listing of which constructs where used by which
+studies, see Additional file 2.) Overall, there was wide
+variation in use of CFIR domains and constructs. Some
+of the included studies reported on domains only ( n= 9),
+while others used all domains and all constructs ( n= 3).
+Two studies [14, 15] made no explicit reference to use
+of specific domains or constructs.
+With respect to the selection of CFIR constructs,
+Damschroder et al. offered guidance on how to best select,
+operationalize, measure, and report findings of CFIR con-
+structs. Damschroder et al. recommended that implemen-
+tation researchers assess each CFIR construct for salience;
+determine levels at which each construct should be de-
+fined and measured (e.g., individual, team, clinic); and be
+aware of time points at which each construct is measured
+[3]. They also recommended that researchers report each
+decision and rationale, along with findings for each
+construct that is ultimately selected [3]. In our review, we
+found that authors of only three articles reported justifica-
+tion for their selection of the set of CFIR domains/con-
+structs used [9, 16, 17]. Within these three articles, there
+were two main strategies used to select relevant CFIR
+constructs. Two of the three articles selected CFIR con-
+structs based on their own prior knowledge about which
+CFIR domains/constructs would be most relevant to their
+research question [16, 17]. The remaining article [9] se-
+lected constructs by first piloting an interview guide that
+included questions for all CFIR domains. Based on pilot
+interviews, the authors identified which constructs were
+deemed most relevant by providers involved in implemen-
+tation and included only those constructs in the final
+version of the interview guide.
+Application of the CFIR in the methods
+Table 3 reports application of the CFIR (i.e., whether the
+CFIR was used to guide data collection, analysis, or both)
+by study design (mixed methods, quantitative, or qualita-
+tive). The majority of included studies ( n= 14 (54 %)) usedKirk et al. Implementation Science  (2016) 11:72 Page 7 of 13
+the CFIR to guide data analysis only. Three studies used
+the CFIR to guide data collection only, and six studies
+used the CFIR to guide both data collection and analysis.
+The way the CFIR informed study methods depended on
+study design. For qualitative studies, the CFIR was used to
+guide data collection via development of semi-structuredinterview guides or focus group protocols. For qualitative
+analysis, the CFIR was used to guide development of quali-
+tative coding templates. In quantitative or mixed-method
+studies, the CFIR was used in the data collection phase to
+inform survey question development (e.g., [18, 19]). In
+quantitative or mixed-method analysis, the CFIR was usedFig. 2 Count of CFIR constructs used in studies. Note: This figure includes only studies which specified CFIR constructs used ( n=15). Nine studies
+specified only domains that were used and no constructs. Two studies made no explicit reference to any CFIR domains or constructsKirk et al. Implementation Science  (2016) 11:72 Page 8 of 13
+in a variety of ways. In mixed-method approaches (e.g., [9]),
+the CFIR was used with both qualitative and quantitative
+methods to ascertain complementary information about
+implementation-related efforts. For example, Kalkan et al.
+[9] used the CFIR qualitativel y to elicit information about
+CFIR constructs which providers believed had any influence
+on implementation; quantitative ranking of the most influ-
+ential CFIR constructs allowed the researchers to ascertain
+quantitative impact of various CFIR constructs. Quantita-
+tive uses of the CFIR mostly focused on linking CFIR con-
+structs to implementation or innovation outcomes. For
+example, Damschroder and Lowery [20] used quantitative
+ratings of CFIR constructs to distinguish between facilities
+with high and low implementation effectiveness, and found
+that 10 CFIR constructs stro ngly distinguished between
+high and low implementation effectiveness.
+Authors reported that using the CFIR to guide data
+collection efforts had advantages over using the CFIR in
+data analysis only. Authors that used the CFIR to inform
+the development of their structured interview guides
+stated that if they had not used the CFIR constructs as a
+“checklist ”of variables for consideration, they would
+have either missed factors to assess, or they would have
+asked about irrelevant factors [9, 17]. Conversely, investiga-
+tors reported that using the C F I Ro n l yt og u i d ed a t aa n a -
+lysis was a disadvantage because they did not anticipate the
+importance of unmeasured implementation factors.
+Investigation of outcomes using the CFIR
+T h em a j o r i t yo fa r t i c l e s( n= 15 (58 %)) did not investigate
+outcomes and focused primarily on descriptive objectives
+to identify barriers and facilitators of implementation.
+Slightly less than half ( n= 11 (42 %)) of the included arti-
+cles assessed implementation outcomes, which varied
+widely. Some studies investigated implementation or
+innovation effectiveness as the outcome of interest, while
+other studies investigated process outcomes (e.g., exposure
+to the innovation). Of the 11 studies that investigated out-
+comes, six assessed associations between CFIR constructs
+and relevant outcomes. Application of the CFIR toinvestigate outcomes included using CFIR constructs to
+distinguish between high and low implementation effect-
+iveness, using CFIR constructs as predictors of implemen-
+tation effectiveness outcomes in regression models, and
+using CFIR constructs as control variables in analysis. Kil-
+bourne at al. [21] is an example of the latter application
+(using CFIR constructs as controls), and is the most exten-
+sive quantitative analytic approach included in our sample
+(i.e., the only article that developed a predictive analytic
+model). Kilbourne et al. used quantitative measures of 12
+CFIR constructs (e.g., implementation climate, complexity,
+peer pressure) that were distributed across all five domains
+as covariates in analytic models to examine changes in im-
+plementation outcomes. Quantitative measures of CFIR
+constructs allowed the authors t oc o n t r o lf o ra d d i t i o n a lf a c -
+tors beyond typical patient-level characteristics, such as
+gender, race, and age.
+Objective 3: contribution of the CFIR to implementation
+research
+For Objective 3, our goal was to d etermine the contribution
+of the CFIR to implementatio n research, which we assessed
+by considering three questions posed by Damschroder et al.
+in their 2009 article introducing the CFIR [3]. These three
+questions included (1) coherence of CFIR terminology, (2)
+whether the CFIR promotes comparison across studies, and
+(3) whether the CFIR stimulates new theoretical develop-
+m e n t .O v e r a l l ,r e f l e c t i o n so nt h eC F I R ’s utility and contri-
+butions within our sample were sparse. The following three
+sections provide insights based on the articles included in
+this review.
+Is CFIR terminology and language coherent?
+In general, authors offered few reflections on the coherence
+of CFIR terminology and constructs. A few authors noted
+that the constructs were gener ally easy to understand and
+apply (e.g., [12, 20 –23]); others noted specific suggestions
+for clarification and some gaps in the constructs. For
+example, Damschroder and Lowery [20] reported some
+challenges distinguishing be tween related constructs in
+qualitative data coding, but noted that this was overcome
+by using concrete examples from their own data. They
+identified these construct pa irs, which included relative
+priority versus patient needs and resources, and design
+quality and packaging versus access to knowledge and
+information. To further clarify the distinction between
+these constructs, Damschrode r and Lowery added specific
+examples to an online CFIR technical assistance interactive
+wiki (www.cfirguide.org), whic h they (and other researchers
+[24]) encourage implementati on researchers to use for add-
+itional coding guidance and to promote sharing continued
+refinements to these guides. Ilo tt and colleagues [12] identi-
+fied several gaps in the CFIR and recommended more
+development of a few constructs. Improvements in existingTable 3 Application of the CFIR by study design
+Study design Application of the CFIR in methods
+Qualitative: n= 10 Data collection: 1 (10 %)
+Data analysis: 7 (70 %)
+Both: 0 (0 %)
+Neither: 2 (20 %)
+Quantitative: n= 3 Data collection: 1 (33.3 %)
+Data analysis: 0 (0 %)
+Both: 1 (33.3 %)
+Neither: 1 (33.3 %)
+Mixed methods: n= 13 Data collection: 4 (30.8 %)
+Data analysis: 5 (38.5 %)
+Both: 3 (23.1 %)
+Neither: 1 (7.7 %)Kirk et al. Implementation Science  (2016) 11:72 Page 9 of 13
+constructs noted by these authors include identification of
+stakeholders in the tension for change construct, as well as
+a time point component for relative advantage, since these
+perceptions may change over time. The primary gap identi-
+fied by Ilott et al. was lack of consideration of scale-up,
+spread, and sustainability. I lott et al. noted that the CFIR
+process domain ends after reflecting and evaluating, which
+they noted as “premature given the importance of longer
+term change ”[12].
+Does the CFIR promote comparison of results across
+contexts and studies over time?
+Few included articles ( n= 3) compared their findings to
+other studies. However, the discussion section of several
+articles noted that the standardized nature of the CFIR
+would promote comparison across future research. Thus,
+the potential is acknowledged, although few actually did
+cross-comparisons.
+Does the CFIR stimulate new theoretical development?
+Only two articles mentioned how the CFIR promoted
+theoretical development [17, 20]. One article mentioned
+that further research was needed to develop measures,
+to propose and test models that predict implementation,
+and to assess the extent to which constructs can be used
+to develop implementation strategies [20]; another art-
+icle linked CFIR constructs to a “foundational strategy
+for implementation ”[17].
+Discussion
+Overall, the CFIR has been applied across a wide range of
+studies with a wide range of objectives, units of analysis,
+design, and methods, suggesting that the CFIR is applicable
+to a wide range of interventions, settings, and research de-
+signs. Despite the CFIR ’s application to a wide range of
+studies and settings, we found areas for improvement with
+respect to the depth of the CFIR ’s application. These find-
+ings are discussed in greater detail below.
+The use and selection of CFIR constructs
+Overall, we found wide variation in which CFIR con-
+structs were used and evaluated, and little reporting of
+methods or logic for selecting CFIR constructs or do-
+mains. This gap limits the contribution of the CFIR to
+implementation science, and is not in alignment with
+guidance published by Damschroder et al., which recom-
+mends that researchers report each decision and rationale
+for selection, measurement, and reporting of CFIR con-
+structs. A justification of selection of CFIR constructs
+would help ensure consistency of implementation studies
+(i.e., that the most salient implementation-related factors
+were investigated). In addition, we found several instances
+where authors were not explicit about which constructs
+were selected (i.e., no reporting of final constructs orreporting was at the domain-level only). This lack of spe-
+cificity limits opportunities to compare research over time
+and across contexts.
+How the CFIR was used
+The majority of studies (53.8 %) used the CFIR only to
+guide data analysis. Some auth ors noted this as a limitation
+because they did not anticipate the importance of certain
+unmeasured implementation factors. As the use of the
+CFIR continues to increase, and as with use of any theory,
+integrating the CFIR into res earch question development
+and data collection efforts early-on will strengthen research
+and applicability of findings.
+Phase of implementation
+Most studies applied the CFIR during- or post-
+implementation to identify barriers and facilitators to im-
+plementation of an innovation. Only two studies (7.69 %)
+used the CFIR prior to innovation implementation to help
+inform future implementation efforts. This is a potential
+missed opportunity since studies that did use the CFIR
+prior to implementation (e.g., [10]) were able to identify
+potential barriers to implementation, refine their imple-
+mentation strategy, and adapt the innovation before imple-
+mentation began. The use of the CFIR to prospectively
+investigate implementation issues before a program is
+rolled out on a large scale can allow for critical program
+re-design, increasing the likelihood of successful program
+dissemination and implementation. The use of the CFIR
+during- or post-implementation may have similar benefits,
+but only if researchers use information about barriers and
+facilitators to inform adaptations of the innovation, imple-
+mentation, scale-up, or sustainment. In general, our review
+found little evidence of post-implementation findings being
+applied to help inform implementation, scale-up, or sus-
+tainment. Additionally, Damschroder et al. identified that
+the meaningful use of the CFIR in post-implementation
+research would include linking CFIR constructs (determi-
+nants of implementation) to outcomes (implementation or
+innovation effectiveness); results revealed that only about
+half of the post-implementation studies reported investigat-
+ing the association of CFIR constructs with outcomes.
+Additional information on investigation of outcomes is
+reported below.
+Investigation of outcomes using CFIR constructs
+Investigation of outcomes is critical for the field of imple-
+mentation science overall because optimal implementation
+outcomes are a necessary condition for innovation effect-
+iveness [25, 26]. Additionally, the study and measurement
+of implementation outcomes is vital since it allows the
+field to “advance the understanding of implementation
+processes, enable studies of comparative effectiveness of
+implementation strategies, and enhance efficiency inKirk et al. Implementation Science  (2016) 11:72 Page 10 of 13
+implementation research ”[25]. Fewer than half of the in-
+cluded studies in our review assessed outcomes and even
+fewer ( n= 6) linked CFIR constructs to outcomes. This is a
+gap in the implementation literature in and of itself and not
+necessarily constrained to those that reported use of the
+CFIR. Even among articles that did investigate outcomes,
+there is room for improvement in outcome metrics since
+some were just metrics of exposure to an innovation, not
+meaningful measures of implem entation effectiveness, such
+as those conceptualized by P roctor et al. [25]. In studies
+that did relate CFIR constructs to outcomes, there was vari-
+ation in how CFIR constructs were used, and there was a
+trend of more studies investigating outcomes later in our
+review timeframe (2013 –2014). Some studies used CFIR
+constructs as direct pred ictors of implementation
+effectiveness while others used CFIR constructs as control
+variables in investigating implementation outcomes. Unfor-
+tunately, a lack of specificat ion of use of CFIR constructs
+did not allow us to synthesize f indings across studies to see
+if there were trends in which CFIR constructs were found
+to influence outcomes, and under what conditions, reveal-
+ing another gap in the research . Greater investigation of
+meaningful implementation ou tcomes, clearer linkage ofCFIR constructs with outcomes, and clearer specification of
+which CFIR constructs were u sed to investigate outcomes
+would allow for more robust comparisons across studies.
+This would contribute to the fi eld of implementation sci-
+ence by enabling structured investigation of which con-
+structs influence outcomes and under what conditions.
+Contribution of the CFIR to implementation science
+In the 6 years since the CFIR was published, its use in
+empirical studies has steadily increased and there is mod-
+est progress towards achieving the goals set forth by
+Damschroder et al. Terminology and language of the
+CFIR ’s constructs appear to be coherent; the few sugges-
+tions for improvements to the CFIR did not point to
+significant changes in the framework. There was much
+less evidence of progress for the remaining two goal-
+s—promoting comparison of results across contexts and
+studies over time and advancing theory —but limited pro-
+gress may be more a function of the short amount of time
+since the initial publication of the CFIR. In the 6 years
+since its publication, few studies have used the CFIR in a
+meaningful way ( n= 26); however, this is understandable,
+given the number of years needed to conceive, obtainTable 4 Recommendations for applying the CIFR in implementation research
+Recommendation Rationale Notes/explanation
+Consider how to most meaningfully
+use the CFIR across different phases
+of implementation (pre-, during, or
+post-implementation).Explicit use and reporting of CFIR constructs
+at various phases of implementation would
+allow comparisons across phases.Meaningful pre-implementation assessment would help to
+identify barriers to address and facilitators to leverage,
+which in turn, would inform choice of strategies that will
+increase likelihood of implem entation success. In addition,
+this information can be used to adapt the intervention to
+fit local context.
+Meaningful during or post-implementation studies
+would continue identification of barriers and facilitators
+to implementation to:
+▪Inform scale-up efforts
+▪Inform implementation of an innovation in other
+settings/contexts
+▪Associate CFIR constructs with implementation
+outcomes (if using mixed-methods or quantitative
+studies)
+Report how CFIR constructs were
+selected for assessment.Help to ensure rigor of implementation studies
+(i.e., that the most salient implementation-related
+factors were investigated) and promotes the ability
+to compare research over time and across contexts.Researchers using the CFIR should clearly report: (1)
+justification/rationale for selecting CFIR constructs and
+(2) the CFIR constructs used in the research study.
+Increase use of CFIR to investigate
+outcomes.Investigation of outcomes allows for more robust
+comparisons across studies to identify which
+constructs influence outcomes and under what
+conditions.Researchers should include measurement of
+implementation outcomes to assess association of CFIR
+constructs with implementation outcomes.
+Within the context of investigating outcomes,
+researchers should: (1) include implementation
+outcome measures (such as those mentioned by
+Proctor et al. [ 25]), (2) provide clearer linkage of CFIR
+constructs with outcomes, and (3) provide clearer
+specification of which CFIR constructs were used to
+investigate outcomes.
+Integrate the CFIR more holistically
+into the research process.Integrating the CFIR into research question
+development and data collection efforts early-on will
+strengthen research and applicability of findings.The CFIR should be used throughout the research
+process. Researchers can use the CFIR Technical
+Assistance wiki ( www.cfirguide.org ) to develop
+research questions, interview and coding guides, as
+well as to refine CFIR constructs, definitions, and
+theoretical developments.Kirk et al. Implementation Science  (2016) 11:72 Page 11 of 13
+funding for, execute, and then publish research studies
+and their findings. Damschroder et al. ’s goals were voiced
+earlier by developers of the PARIHS framework [27]. A
+review of application of the PARIHS framework approxi-
+mately 10 years after its initial publication identified 18
+articles describing empirical studies [28]. This review
+identified minimal prospective use of PARIHS in pub-
+lished articles and insufficient descriptions of how the
+framework was used to guide studies. The limitations
+identified in this review of the CFIR and of PARIHS are
+not unusual and reflect a general lack of integration of
+theory/frameworks into empirical studies [29, 30]. Better
+integration of the CFIR (or other theoretical framework)
+into empirical studies would help to address gaps in use of
+theory and advance implementation science [4, 31, 32].
+Additionally, structured guidance on how to comprehen-
+sively apply theory in implementation research may help
+achieve consistency and rigor in the application of theory
+or frameworks when they are used by implementation
+researchers.
+To assist researchers in their application of the CFIR, we
+have developed a list of recommendations (see Table 4).
+These include (1) consider how to most meaningfully use
+the CFIR across different phases of implementation, (2)
+report how CFIR constructs were selected and which
+constructs were used, (3) assess the association of CFIR
+constructs with outcomes, and (4) integrate the CFIR
+throughout the entire research process (e.g., to develop
+research questions, data collection materials, and to refine
+CFIR constructs and promote theoretical development).
+An online CFIR technical assistance website (www.cfirgui
+de.org) is available to guide application of the CFIR in
+implementations and evaluations.
+Conclusions
+In the 6 years since its publication, 26 of 429 published
+articles were identified as having used the CFIR in a mean-
+ingful way in a study. These articles collectively indicate
+that the CFIR has been used across a wide range of studies
+with a wide range of objectives, units of analysis, design,
+methods, and implementations of an array of innovations
+in an array of settings. However, more in-depth and pro-
+spective use of the CFIR (or other framework) may help
+to advance implementation science.
+Additional files
+Additional file 1: Description of the five CFIR domains and constructs
+within each domain. (DOCX 25.0 kb)
+Additional file 2: CFIR constructs used in studies, by author. (DOCX 14.5 kb)
+Abbreviations
+CFIR: Consolidated Framework for Implementation Research; PARIHS: Promoting
+Action on Research Implementation in Health Services.Competing interests
+The authors declare that they have no competing interests except that Laura
+J. Damschroder (LJD), a co-author on this paper, was the lead developer of
+the CFIR.
+Authors ’contributions
+All authors made significant contributions to manuscript. CK and AK
+conducted the searches and reviewed articles for inclusion. AK, CK, NY, and
+BA extracted data, and AK, CK, NY, BA, SB, and LD analyzed and interpreted
+data. AK, SB, LD, and CK drafted the manuscript. AK, NY, BA, and CK prepared
+figures and tables. AK, SB, CK, NY, and LD critically revised the manuscript for
+important intellectual content. All authors have read and gave final approval
+of the version of the manuscript submitted for publication.
+Funding
+This manuscript was partially funded with internal funds from RTI
+International. Funding agencies did not oversee data collection and were
+not involved in data analysis or the writing of this paper. The statements
+made herein are solely the responsibility of the authors.
+Author details
+1Department of Health Policy and Management, Gillings School of Global
+Public Health, The University of North Carolina at Chapel Hill, Chapel Hill, NC
+27599-7411, USA.2Performance Measure Development and Implementation
+Program, RTI International, 3040 Cornwallis Road, Research Triangle Park, NC
+27709, USA.3VA Health Services Research & Development Center for Clinical
+Management Research, VA Ann Arbor Healthcare System, P.O. Box 130170,
+Ann Arbor, MI 48113-0170, USA.4Psychology Department, Eastern Michigan
+University, 341 Science Complex, Ypsilanti, MI 48197, USA.
+Received: 12 January 2016 Accepted: 6 May 2016
+References
+1. McEvoy R, Ballini L, Maltoni S, O ’Donnell CA, Mair FS, MacFarlane A. A
+qualitative systematic review of studies using the normalization process
+theory to research implementation processes. Implement Sci. 2014;9:2.
+2. Larsen KR, Voronovich ZA, Cook PF, Pedro LW. Addicted to constructs:
+science in reverse? Addiction. 2013;108(9):1532 –3.
+3. Damschroder LJ, Aron DC, Keith RE, Kirsh SR, Alexander JA, Lowery JC.
+Fostering implementation of health services research findings into practice:
+a consolidated framework for advancing implementation science.
+Implement Sci. 2009;4(1):50.
+4. Damschroder LJ, Hagedorn HJ. A guiding framework and approach for
+implementation research in substance use disorders treatment. Psychol
+Addict Behav. 2011;25(2):194.
+5. Meho LI, Yang K. Impact of data sources on citation counts and rankings of
+LIS faculty: Web of Science versus Scopus and Google Scholar. J Am Soc Inf
+Sci Technol. 2007;58(13):2105 –25.
+6. Falagas ME, Pitsouni EI, Malietzis GA, Pappas G. Comparison of PubMed,
+Scopus, Web of Science, and Google scholar: strengths and weaknesses.
+FASEB J. 2008;22(2):338 –42.
+7. Ritchie J, Lewis J, Nicholls CM, Ormston R. Qualitative research practice: a
+guide for social science students and researchers. Thousand Oaks, CA: SAGE
+Publications Inc; 2013.
+8. Gale NK, Heath G, Cameron E, Rashid S, Redwood S. Using the framework
+method for the analysis of qualitative data in multi-disciplinary health
+research. BMC Med Res Methodol. 2013;13(1):117.
+9. Kalkan A, Roback K, Hallert E, Carlsson P. Factors influencing
+rheumatologists ’prescription of biological treatment in rheumatoid arthritis:
+an interview study. Implement Sci. 2014;9:153.
+10. Robins LS, Jackson JE, Green BB, Korngiebel D, Force RW, Baldwin L-M.
+Barriers and facilitators to evidence-based blood pressure control in
+community practice. J Am Board Fam Med. 2013;26(5):539 –57.
+11. Cilenti D, Brownson RC, Umble K, Erwin PC, Summers R. Information-seeking
+behaviors and other factors contributing to successful implementation of
+evidence-based practices in local health departments. J Public Health
+Manag Pract. 2012;18(6):571 –6.
+12. Ilott I, Gerrish K, Booth A, Field B. Testing the Consolidated Framework for
+Implementation Research on health care innovations from South Yorkshire.
+J Eval Clin Pract. 2013;19(5):915 –24.Kirk et al. Implementation Science  (2016) 11:72 Page 12 of 13
+13. Ruffolo MC, Capobianco J. Moving an evidence-based intervention into
+routine mental health care: a multifaceted case example. Soc Work Health
+Care. 2012;51(1):77 –87.
+14. Shimada SL, Hogan TP, Rao SR, Allison JJ, Quill AL, Feng H, et al. Patient-provider
+secure messaging in VA: variations in adoption and association with urgent care
+utilization. Med Care. 2013;51:S21 –8.
+15. Zulman DM, Ezeji-Okoye SC, Shaw JG, Hummel DL, Holloway KS,
+Smither SF, et al. Partnered research in healthcare delivery redesign for
+high-need, high-cost patients: development and feasibility of an
+Intensive Management Patient-Aligned Care Team (ImPACT). J Gen
+Intern Med. 2014;29(4):861 –9.
+16. Luck J, Bowman C, York L, Midboe A, Taylor T, Gale R, et al. Multimethod
+evaluation of the VA ’s peer-to-peer toolkit for patient-centered medical
+home implementation. J Gen Intern Med. 2014;29(2):572 –8.
+17. Forman J, Harrod M, Robinson C, Annis-Emeott A, Ott J, Saffar D, et al. First
+things first: foundational requirements for a medical home in an academic
+medical center. J Gen Intern Med. 2014;29(2):640 –8.
+18. Connell LA, McMahon NE, Watkins CL, Eng JJ. Therapists ’Use of the Graded
+Repetitive Arm Supplementary Program (GRASP) Intervention: a practice
+implementation survey study. Phys Ther. 2014;94(5):632 –43.
+19. Cragun D, DeBate RD, Vadaparampil ST, Baldwin J, Hampel H, Pal T.
+Comparing universal Lynch syndr ome tumor-screening programs to
+evaluate associations between implementation strategies and patient
+follow-through. Genet Med. 2014;16:773 –82.
+20. Damschroder LJ, Lowery JC. Evaluation of a large-scale weight management
+program using the consolidated framework for implementation research
+(CFIR). Implement Sci. 2013;8(1):51.
+21. Kilbourne AM, Abraham KM, Goodrich DE, Bowersox NW, Almirall D, Lai Z,
+et al. Cluster randomized adaptive implementation trial comparing a
+standard versus enhanced implementation intervention to improve uptake
+of an effective re-engagement program for patients with serious mental
+illness. Implement Sci. 2013;8(1):1 –14.
+22. English M. Designing a theory-informed, contextually appropriate
+intervention strategy to improve delivery of paediatric services in Kenyan
+hospitals. Implement Sci. 2013;8:39.
+23. Green CA, McCarty D, Mertens J, Lynch FL, Hilde A, Firemark A, et al. A
+qualitative study of the adoption of buprenorphine for opioid addiction
+treatment. J Subst Abuse Treat. 2014;46(3):390 –401.
+24. Martinez RG, Lewis CC, Weiner BJ. Instrumentation issues in implementation
+science. Implement Sci. 2014;9:118.
+25. Proctor E, Silmere H, Raghavan R, Hovmand P, Aarons G, Bunger A, et al.
+Outcomes for implementation research: conceptual distinctions,
+measurement challenges, and research agenda. Adm Policy Ment Health.
+2011;38(2):65 –76.
+26. Klein KJ, Sorra JS. The challenge of innovation implementation. Acad
+Manage Rev. 1996;21(4):1055 –80.
+27. Kitson AL, Rycroft-Malone J, Harvey G, McCormack B, Seers K, Titchen A.
+Evaluating the successful implementation of evidence into practice using
+the PARiHS framework: theoretical and practical challenges. Implement Sci.
+2008;3(1):1.
+28. Helfrich CD, Damschroder LJ, Hagedorn HJ, Daggett GS, Sahay A, Ritchie M, et al. A
+critical synthesis of literature on the promoting action on research implementation
+in health services (PARIHS) framework. Implement Sci. 2010;5(1):82.
+29. Colquhoun HL, Brehaut JC, Sales A, Ivers N, Grimshaw J, Michie S, et al. A
+systematic review of the use of theory in randomized controlled trials of
+audit and feedback. Implement Sci. 2013;8(1):66.
+30. Prestwich A, Sniehotta FF, Whittington C, Dombrowski SU, Rogers L, Michie
+S. Does theory influence the effectiveness of health behavior interventions?
+Meta-analysis. Health Psychol. 2014;33(5):465.
+31. Davidoff F, Dixon-Woods M, Leviton L, Michie S. Demystifying theory and its
+use in improvement. BMJ Qual Saf. 2015;24:228 –38.
+32. French SD, Green SE, O ’Connor DA, McKenzie JE, Francis JJ, Michie S, et al.
+Developing theory-informed behaviour change interventions to implement
+evidence into practice: a systematic approach using the Theoretical
+Domains Framework. Implement Sci. 2012;7(1):38.
+33. Acosta J, Chinman M, Ebener P, Malone PS, Paddock S, Phillips A, et al. An
+intervention to improve program implementation: findings from a two-year
+cluster randomized trial of Assets-Getti ng To Outcomes. Implement Sci. 2013;8:87.
+34. Baker W, Harris M, Battersby M. Health workers ’views of a program to
+facilitate physical health care in mental health settings: implications for
+implementation and training. Australas Psychiatry. 2014;22:560 –3.35. Balas MC, Burke WJ, Gannon D, Cohen MZ, Colburn L, Bevil C, et al.
+Implementing the awakening and breathing coordination, delirium
+monitoring/management, and early exercise/mobility bundle into
+everyday care: opportunities, challenges, and lessons learned for
+implementing the ICU Pain, Agitation, and Delirium Guidelines. Crit
+Care Med. 2013;41(9 Suppl 1):S116 –27.
+36. Connell L, McMahon N, Harris J, Watkins C, Eng J. A formative evaluation of
+the implementation of an upper limb stroke rehabilitation intervention in
+clinical practice: a qualitative interview study. Implement Sci. 2014;9:90.
+37. Jv D, Corneau S, Henderson T, Quastel A, Griller R, Stergiopoulos V.
+Reducing service and substance use among frequent service users: a brief
+report from the Toronto community addictions team. Subst Use Misuse.
+2013;48(7):532 –8.
+38. English M, Nzinga J, Mbindyo P, Ayieko P, Irimu G, Mbaabu L. Explaining the
+effects of a multifaceted intervention to improve inpatient care in rural
+Kenyan hospitals —interpretation based on retrospective examination of
+data from participant observation, quantitative and qualitative studies.
+Implement Sci. 2011;6(1):124.
+39. Gilmer TP, Katz ML, Stefancic A, Palinkas LA. Variation in the implementation
+of California ’s full service partnerships for persons with serious mental
+illness. Health Serv Res. 2013;48(6pt2):2245 –67.
+40. Jones CM, Stewart C, Roszell SS. Beyond best practice: implementing a unit-
+based CLABSI project. J Nurs Care Qual. 2015;30(1):24 –30.
+41. Sanchez SH, Sethi SS, Santos SL, Boockvar K. Implementing medication
+reconciliation from the planner ’s perspective: a qualitative study. BMC
+Health Serv Res. 2014;14(1):290.
+42. Shaw J, Sidhu K, Kearney C, Keeber M, McKay S. Engaging home health care
+providers in a fall prevention best practice initiative. Home Health Care Serv
+Q. 2013;32(1):1 –16.
+43. Zulman DM, Damschroder LJ, Smith RG, Resnick PJ, Sen A, Krupka EL, et al.
+Implementation and evaluation of an incentivized Internet-mediated
+walking program for obese adults. Transl Behav Med. 2013;3(4):357 –69.
+•  We accept pre-submission inquiries  
+  Our selector tool helps you to ﬁnd the most relevant journal
+  We provide round the clock customer support 
+  Convenient online submission
+  Thorough peer review
+  Inclusion in PubMed and all major indexing services 
+  Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submitSubmit your next manuscript to BioMed Central 
+and we will help you at every step:Kirk et al. Implementation Science  (2016) 11:72 Page 13 of 13

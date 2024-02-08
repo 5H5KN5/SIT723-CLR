@@ -1,0 +1,440 @@
+Some Methodological Considerations in Theory-Based Health
+Behavior Research
+Linda M. Collins ,
+The Methodology Center and Department of Human Development and Family Studies, The
+Pennsylvania State University
+David P. MacKinnon , and
+Department of Psychology, Arizona State University
+Bryce B. Reeve
+Lineberger Comprehensive Cancer Center and Department of Health Policy and Management,
+University of North Carolina, Chapel Hill
+Abstract
+As this special issue shows, much research in social and personality psychology is directly
+relevant to health psychology. In this brief commentary, we discuss three topics in research
+methodology that may be of interest to investigators involved in health-related psychological
+research. The first topic is statistical analysis of mediated and moderated effects. The second is
+measurement of latent constructs. The third is the Multiphase Optimization Strategy, a framework
+for translation of innovations from social and personality psychology into behavioral
+interventions.
+Keywords
+mediation analysis; psychological measurement; Multiphase Optimization Strategy
+The articles in this special issue contain fascinating insights into the complex processes of
+health behavior, and how theory in social and personality psychology can be used to
+establish theoretical models of health behaviors. We hope that these articles inspire readers
+to conduct research that tests hypotheses suggested by these theoretical models, and to use
+these theoretical models as the basis for behavioral interventions to prevent and treat
+disease, to promote health, and to improve quality of life. In this brief commentary, we
+discuss three methodological considerations that may be of interest to investigators involved
+in such research: mediation analysis, measurement of constructs in social and personality
+psychology and health behavior, and translation of theoretical models into behavioral
+interventions.
+Mediation and Moderation of Effects
+As the articles in this special issue clearly illustrate, mediators and moderators are central to
+theories of health behavior change. Mediators  are variables that measure the processes
+described in a theoretical model. Moderators  are variables that identify subgroups in which
+© 2013 American Psychological Association
+Correspondence concerning this article should be addressed to: Linda M. Collins, The Methodology Center, The Pennsylvania State
+University, 400 Calder Square II, University Park, PA 16802-6504. lmcollins@psu.edu.
+NIH Public Access
+Author Manuscript
+Health Psychol . Author manuscript; available in PMC 2013 November 18.
+Published in final edited form as:
+Health Psychol . 2013 May ; 32(5): . doi:10.1037/a0029543.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+relations among variables differ. Together, these two types of variables provide a framework
+for investigating theories of health behavior (MacKinnon, 2008).
+Each article in the special issue describes mediating variables. For example, Sheeran,
+Gollwitzer, and Bargh (in press) describe how intervention changes in attentional bias may
+reduce relapse among drug users. Major, Dovidio, and Berry-Mendes (in press) mention
+how intergroup relations of group categorization, hierarchy, and competition affect how
+members feel about groups and how these processes are related to perceptions and behaviors
+in a multiple mediator and outcome model. Pietromonaco, Uchino, and Dunkel Schetter (in
+press) describe how type of attachment predicts emotion regulation, which, in turn, affects
+health.
+The importance of moderators in health is also illustrated in the articles in this special issue.
+Pietromonaco et al. (in press) describe how the impact of conflict on marital satisfaction
+differs depending on type of attachment. DeSteno, Kubzansky, and Gross (in press) describe
+how age moderates the effects of emotion on health. Mann, de Ridder, and Fujita (in press)
+mention how an individual’s capacity for effortful inhibition may explain how stress is
+related to health. Moderation is particularly important in the area of adaptive behavioral
+interventions (Collins, Murphy, & Bierman, 2004). In adaptive interventions, the content
+and/or intensity of the intervention are varied in a principled manner in response to the
+characteristics and needs of individual participants. For example, a drug abuse treatment
+protocol might be different depending on whether an individual presents with depression.
+The purpose of varying the treatment is to ensure that it is equally effective for depressed
+and nondepressed participants. In other words, if the treatment were fixed (i.e., the same for
+all participants), depression status would moderate the treatment effect. Thus the theory
+underlying most adaptive behavioral interventions specifies how moderation would occur in
+a fixed intervention, and the adaptive intervention is designed specifically to eliminate this
+moderation and produce uniform treatment effects.
+Methods for Investigating Mediation and Moderation
+One approach to investigating mediation and moderation is to use mediating and moderating
+variables in statistical analysis after an effect has been observed to investigate how an effect
+occurred and for whom. An alternative, more powerful, approach is to investigate mediating
+variables using an experimental design in which a manipulation is directly targeted at a
+mediating variable hypothesized to be causally related to the outcome variable. The logic is
+that if the mediating variable is in fact causally related to the dependent variable, then
+changing the mediator will change the outcome.
+Many behavioral health interventions are based on this type of mediation by design,
+whereby theory and prior experimental research is used to suggest mediating variables to be
+changed with an intervention. An important challenge of this approach is the specification of
+two types of theory: action theory for the actions that will change the mediator and
+conceptual theory for how mediators are related to outcomes (Chen, 1990). The a priori
+specification of how the intervention will work followed by the testing of this specification
+with data provides a powerful method to investigate processes of health behavior. Of course,
+there are complications to this simplified approach, including the existence of additional,
+possibly unmeasured, confounding variables, timing of intervention effects, and the extent to
+which processes differ across persons.
+One crucial aspect of any mediation model is the establishment of temporal precedence for
+how an intervention changes a mediator, which in turn changes an outcome. An ideal health
+behavior theory makes clear predictions about how variables change and the timing of cause
+and effect; for example, the lag between the time that the cause operates and the time atCollins et al. Page 2
+Health Psychol . Author manuscript; available in PMC 2013 November 18.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+which change in the mediator occurs (Collins, 2006; MacKinnon, 2008). The lack of clear
+specification of temporal relations, both in theories of cause and effect and in timing of
+measurement occasions in theory-testing research, is a substantial limitation of current
+health behavior research.
+Another important aspect of mediation analysis is the fundamental question of the causal
+ordering among variables. Much stronger inference about this is possible when an
+experiment has been conducted and therefore the treatment X represents random assignment
+to experimental conditions. In a randomized experiment, it is clear that X comes first
+causally, and other putative explanations of the observed relations between X and the
+mediator M and between X and the outcome Y become much less plausible. However, even
+with randomization of participants to levels of X, the relation of M and Y is
+nonexperimental and therefore more complicated. In most cases, it is impossible to
+determine with certainty whether M causes Y, Y causes M, or there is some third variable
+that explains the observed M-to-Y relation (MacKinnon, 2008). Newly developed methods
+for causal inference have much to offer here (e.g., Coffman, 2011; Ten Have et al., 2007).
+It is possible to investigate models that incorporate both mediation and moderation. Such
+models may more closely reflect actual health behavior and thus may be more realistic in
+many cases. However, they are more complex, and the associated statistical analyses are
+correspondingly complex. Moderation of a mediated effect occurs when the mediated effect
+differs across levels of a moderator. Mediation of a moderated effect occurs when an
+interaction involving two or more variables predicts a mediating variable, which in turn
+predicts an outcome. Methods for investigating moderation of a mediated effect and
+mediation of a moderated effect can be found in Fairchild and MacKinnon (2009),
+MacKinnon (2008), and MacKinnon and Luecken (2008). The translation of the theory
+outlined in the articles in this special issue to predictions regarding mediating and
+moderating processes is a critical next step. However, the state of knowledge in these areas
+may not be sufficient to clearly specify these relations; a series of exploratory studies may
+be required to develop clear tests of intervention processes.
+Measurement of Psychological and Behavioral Constructs
+Attributes of a High-Quality Behavioral Measure
+All of the theoretical models discussed in this special issue involve latent (unobservable)
+constructs that cannot be directly measured from expert observation or laboratory tests, but
+rather depend on capturing information directly from individuals through questionnaires
+(surveys). These latent constructs, for example, perceived stress, self-efficacy, positive
+emotion, health knowledge, and social role function, must be measured using multiple
+questions that form a scale.
+The selection of the appropriate scale is a critically important aspect of health behavior
+research. There are many issues to consider when selecting a self-report questionnaire/scale
+for measuring a social or behavioral construct. Most importantly, reliability  and validity
+must be established. Ideally, the scale will have been validated in the study target population
+or a population similar to the target population (Nunnally & Bernstein, 1994; Scientific
+Advisory Committee of the Medical Outcomes Trust, 2002; Frost et al., 2007). In addition,
+scores on a health measure should be interpretable to decision-makers , which could include
+researchers, participants, clinicians, and policymakers, and provided in a metric that is easy
+to understand. In particular, it should be clear how much change over time in a score
+represents a meaningful change in the construct as opposed to random error (noise). Recent
+efforts in health outcomes research have focused on establishing minimally important
+differences (MIDs). An MID is the minimum change in the measure that is discernable toCollins et al. Page 3
+Health Psychol . Author manuscript; available in PMC 2013 November 18.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+the study participants. The MID is different from a statistically significant difference, which
+is affected by sample size.
+It is always a good idea to minimize respondent burden  by keeping the difficulty and length
+of the questionnaire, as well as frequency of assessments in a longitudinal study, to the
+minimum that is necessary to accomplish the research goals. Further, item clarity and
+comprehensibility are critical to make the questionnaire appropriate for nonnative English
+speakers and respondents with low literacy levels. Planned missing data designs can be
+helpful in reducing the number of questions an individual respondent is asked to answer
+while maintaining the investigator’s ability to address key research questions with the
+resulting data (Graham, Taylor, Olchowski, & Cumsille, 2006).
+The United States is an ethnically and racially diverse population, and there are an
+increasing number of multinational research studies. Therefore, it is essential for
+questionnaires to be available in multiple languages . It is not important to multiethnic or
+national studies that the words are the same in all languages per se; rather, it is critical that
+the construct being measured is equivalent across languages and cultures. A more detailed
+discussion of this issue is provided in the next section.
+With advances in technology, there has been a shift from paper-and-pencil questionnaires to
+questionnaires administered via telephone (e.g., interactive voice response), computers
+connected to the Internet, and, increasingly, various handheld devices. Tailoring the method
+of administration to individual preferences, limitations, or lifestyles improves a
+questionnaire’s ability to assess people who are hard to reach or who have a disability.
+However, there are issues here similar to those that arise when a questionnaire is translated
+into several languages. Developers must test for conceptual equivalence when moving from
+the paper format to other administration modes, especially when more than one mode is to
+be used in the same study.
+Reducing Measurement Bias Due to Subpopulation Differences in
+Questionnaire Responses
+Research conducted within the United States or multinationally is faced with the challenge
+of measuring social and behavioral constructs in a multicultural, multiethnic, and/or
+multiracial context. To aggregate the data across groups or to compare beliefs or perceptions
+among the groups, it is necessary to assume that the questionnaire items are interpreted the
+same way by all groups, and that the construct measured by the questionnaire is equivalent
+across the groups. This can be a challenge. Whether a particular question or item is
+presented in a common language or translated to ensure linguistic equivalence, the words
+may have different meanings in different cultural, ethnic, or racial groups. Thus, differences
+between groups in responding to the question(s) may not reflect true underlying differences
+on the proposed measured construct, but may be confounded by cultural perceptions
+yielding biased results and/or qualitative differences in the construct itself. For example,
+Azocar, Arean, Miranda, and Munoz (2001) found that Latino respondents endorsed the
+item “I feel like crying” for a depression questionnaire more often than non-Hispanic
+American respondents, not because they were more depressed, but because in Latino
+cultures crying is a more socially acceptable behavior. Without controlling for these cultural
+differences, the Latinos would, on average, have a higher depression score than they would
+without this biased question.
+When one group consistently responds differently to an item than another group after
+controlling for group mean differences on the underlying measured construct, this is known
+as differential item functioning (DIF; Holland & Wainer, 1993; Teresi, 2001). There are aCollins et al. Page 4
+Health Psychol . Author manuscript; available in PMC 2013 November 18.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+number of statistical tools for identifying DIF in questionnaires. These include item response
+theory (IRT), contingency tables, structural equation modeling, and regression approaches
+(Teresi, 2006). DIF testing may be important not only for dealing with cultural or ethnic
+differences, but also when studies include different subpopulations, such as different age or
+disease populations. DIF can also occur when different assessment modes are used (e.g.,
+computer-administered questionnaires and phone-based interviews) to collect respondent
+data. Once DIF has been detected, it can be extremely helpful to use qualitative methods,
+such as focus groups, to help uncover reasons for the observed differences. Recognizing and
+controlling for DIF in research studies will enhance the validity of the results.
+A Shift Toward Data Harmonization in Health-Behavior Research
+Although the use of psychometrically sound and clinically relevant measures will enable
+researchers to test social, behavioral, and personality theories in health settings, the health
+behavior research field will benefit to the extent that there is an agreed on single measure
+(questionnaire) for each domain (e.g., perceived stress, self-efficacy, depression, positive
+emotion) used in the field. This would enable researchers to synthesize findings across
+multiple studies in the field to strengthen the evidence base for generalizing theories across
+multiple populations and settings.
+This push for harmonizing data is the impetus for the creation of the National Cancer
+Institute’s Grid-Enabled Measures (GEM) Database. GEM provides researchers access to a
+database that can be used to review on a domain-by-domain basis which measures are
+appropriate based on their psychometric properties. It also provides an environment for
+researchers to share their experiences with the measures and findings from their research.
+The goals for the GEM project are: (a) to promote the use of standardized measures that are
+tied to theoretically based constructs; and (b) to facilitate the ability to share harmonized
+data resulting from the use of standardized measures ( http://cancercontrol.cancer.gov/brp/
+gem.html ).
+However, it is likely unrealistic for the research community to agree on one measure for
+each domain, because there may be several good quality measures that currently exist (e.g.,
+for depression) that are equally valid and reliable. An attractive solution to this challenge of
+multiple measures for the same domain is to use IRT modeling. With the appropriate dataset
+(ideally, having a representative sample answer questions on each measure), IRT models can
+be used to simultaneously link two or more questionnaires on the same metric. This would
+allow the creation of crosswalk tables to link scores from one existing measure to another.
+An excellent example of this concept is the National Institutes of Health’s Patient-Reported
+Outcomes Measurement Information System (PROMIS), whose goal is to develop
+standardized measures of health-related quality of life domains (Cella et al., 2010). A key
+feature of PROMIS is its item banks, which contain a large number of items and questions
+from existing measures and new items all found to be psychometrically valid and
+responsive. Thus, scores on PROMIS can be transformed to equivalent scores on other
+measures calibrated in the item banks. The expansion of PROMIS to capture more social,
+behavioral, and personality concepts will greatly advance the field toward the goal of data
+harmonization.
+Translating Innovations in Social and Personality Psychology Into
+Behavioral Interventions
+The Multiphase Optimization Strategy
+One value of social and personality theory and research is that it provides insights into
+human behavior that can form the basis for behavioral interventions. In this section, weCollins et al. Page 5
+Health Psychol . Author manuscript; available in PMC 2013 November 18.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+discuss the Multiphase Optimization Strategy (MOST; Collins, Murphy, Nair, & Strecher,
+2005; Collins, Murphy, & Strecher, 2007; Collins et al., 2011), a comprehensive framework
+for translating theory and research drawn from social and personality psychology and other
+fields into behavioral interventions.
+As an example, suppose an investigator has been inspired by the compelling argument for
+the importance of emotion regulation in health behavior presented by DeSteno et al. (in
+press), and wants to translate these ideas into a behavioral intervention for weight loss. The
+investigator has developed a theoretical model specifying that weight loss can be achieved
+by (a) using cognitive reappraisal when faced with temptations to overeat or to skip
+exercise; (b) taking pride in each week’s weight loss and the cumulative accomplishment of
+weight loss; and (c) using gratitude to develop a social support network among family and
+friends. (Note that this is a mediation model; it specifies that the intervention’s effect on
+weight loss is mediated by cognitive reappraisal ability, ability to feel pride, and ability to
+use gratitude to develop a support network.) This suggests that the intervention should have
+three components, each aimed at teaching and encouraging practice of one of these three
+emotion-regulation skills.
+An investigator using the approach to intervention development and evaluation that is most
+often used today would assemble the three components into a package and evaluate the
+package in a randomized controlled trial (RCT). The purpose of the RCT would be to
+estimate the size of the intervention’s effect when compared to a suitable control or
+comparison group. This approach is generally the most appropriate one for addressing the
+important question of whether a multicomponent behavioral intervention has a statistically
+and clinically significant effect as a package . However, it is not a good approach for
+gathering information to build a highly effective behavioral intervention, because the RCT
+does not provide information about which of the individual components  making up the
+intervention package are having the desired effect. Without this information, it is difficult to
+eliminate inactive intervention components, or to weigh the contribution of an intervention
+component against its implementation cost when deciding whether to include it. Obtaining
+information about the effects of individual components opens up some intriguing
+possibilities for intervention science. For example, this information makes it possible to
+select a set of intervention components with the objective of meeting a specific criterion,
+such as the largest effect that can be obtained without exceeding a predetermined
+implementation cost.
+MOST was inspired by ideas and methods that are widely used in engineering. Evaluating a
+treatment package via the RCT is an essential part of MOST. However, equally essential in
+MOST is conducting systematic and highly efficient randomized experimentation to
+determine what should go into the treatment package. Thus if our hypothetical investigator
+were using MOST, he or she would not immediately form a treatment package and mount an
+RCT. Instead, the investigator would conduct a component selection experiment to obtain
+estimates of the individual effects of each of the three intervention components, then use this
+information as the basis for selecting effective components and discarding any ineffective
+ones. The investigator would then review other considerations, such as the cost in terms of
+money, time, and participant burden, and then decide which of the effective components
+would be included in the intervention package. Only then would an RCT be conducted to
+evaluate the newly constructed intervention package.
+A Resource Management Perspective on Choosing an Experimental Design
+In many cases, it is feasible to conduct a component-selection experiment using the same
+level of resources as would be required for an RCT. Empirical examples of component-
+selection experiments can be found in Strecher et al. (2008) and Collins et al. (2011).Collins et al. Page 6
+Health Psychol . Author manuscript; available in PMC 2013 November 18.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+Experimental design selection in MOST is guided by the resource management principle
+(Collins, Dziak, & Li, 2009). According to this principle, the selection of an experimental
+design should be based on (a) what resources are available to conduct the experiment and (b)
+the key scientific questions to be addressed by the experiment. Then a design can be selected
+that makes the most efficient use of available resources to address the key scientific
+questions. There are many experimental design options, each of which may be highly
+efficient or highly inefficient, depending on the research questions at hand and the level and
+type of resources available.
+Suppose in the hypothetical example the investigator decides that in order to be considered
+for inclusion in the intervention a component must demonstrate an effect size of at least d = .
+20, which is in the “small” range according to Cohen (1988). Further suppose that the
+experimentation will set each component to only two levels: on (presented to the subject) or
+off (not presented to the subject). There are two primary domains of resource demands in
+experimentation, namely, the cost of implementing experimental conditions and the cost of
+obtaining and retaining subjects. The investigator considers several approaches to estimating
+individual component effects, each of which makes different resource demands. (Formulas
+for comparing the resource demands of experimental designs can be found in Collins et al.,
+2009.) One approach is to conduct three separate experiments, one for each component.
+Another approach is to conduct a comparative experiment (Behar & Borkovec, 2003). A
+third approach is a 2 × 2 × 2 factorial experiment. It should be noted that because these
+designs estimate different effects, they are not interchangeable from a scientific perspective.
+A detailed explanation can be found in Collins et al. (2009).
+The comparative experiment requires the smallest number of conditions. It involves four
+conditions: a control group in which all three components are off, plus three conditions in
+which one component is on and the other two are off (e.g., pride training on, the other two
+components off). (The additive and dismantling designs are closely related statistically and
+require the same number of conditions in most cases.) Next is the three separate experiments
+approach. Each experiment would have two conditions: one in which the component is on,
+and a control condition in which the component is off, for a total of six experimental
+conditions across the three experiments. The factorial experiment, which requires eight
+conditions representing all combinations of levels of the three components, is the most
+resource intensive in this domain.
+Now let us examine the number of subjects that would be required in each design to achieve
+statistical power ≥ 0.8, for detecting main effects in the factorial experiment and treatment
+and control differences (which are not technically main effects; see Collins et al., 2009) in
+the other two approaches. It may surprise some readers that with a requirement of N = 512,
+the factorial experiment is the least resource intensive of the three alternatives in this
+domain, by far. The comparative experiment is next with a requirement of N = 1,024, or
+twice as many as the factorial experiment. (In general, additive and dismantling designs
+have identical sample size requirements to the comparative design.) Conducting three
+separate experiments would require a much larger sample size of N = 1,536, or three times
+what the factorial experiment would require. (Formulas to obtain these relative sample sizes
+appear in Collins et al., 2009.)
+Which experimental design would be the most efficient for this study depends on the
+relative cost of the overhead for implementing experimental conditions compared to the
+costs associated with subjects. In this example, separate experiments would be eliminated
+from consideration because this approach is more resource intensive than the others in both
+the experimental conditions and the subject domains. A macro for comparing the resourceCollins et al. Page 7
+Health Psychol . Author manuscript; available in PMC 2013 November 18.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+requirements of different experimental designs can be found online ( http://
+methodology.psu.edu/downloads ).
+Conclusion
+This commentary has reviewed only three of the many methodological considerations that
+may arise when ideas like the ones described in the articles in this special issue are
+investigated. The consideration of mediating and moderating variables, both in research
+design and statistical analysis, provides a general approach to investigating how
+interventions work and for which groups of persons. Measurement is a central part of
+research in health psychology because of the variety of psychological and behavioral
+constructs routinely used in research studies. Finally, one approach to translating theory
+from social and personality psychology into an effective behavioral intervention is MOST,
+which involves evaluating individual program components using an efficient experimental
+design suited for this purpose. Like the theories outlined in the articles, each of these three
+methodological considerations is best evaluated within a program of research.
+Acknowledgments
+Supported by grants from the National Institute on Drug Abuse (P50DA10075 and R21DA024266) and the
+National Cancer Institute (P50CA143188). We thank Amanda Applegate for help preparing the manuscript.
+References
+Azocar F, Arean P, Miranda J, Munoz RF. Differential item functioning in a Spanish translation of the
+Beck depression inventory. Journal of Clinical Psychology. 2001; 57:355–365.10.1002/jclp.1017
+[PubMed: 11241365]
+Behar, ES.; Borkovec, TD. Psychotherapy outcome research. In: Schinka, JA.; Velicer, WF., editors.
+Handbook of psychology. New York, NY: Wiley; 2003. p. 213-240.
+Cella D, Riley W, Stone A, Rothrock N, Reeve B, Yount S, Hays RD. on behalf of the PROMIS
+Cooperative Group. Initial item banks and first wave testing of the Patient–Reported Outcomes
+Measurement Information System (PROMIS) network: 2005–2008. Journal of Clinical
+Epidemiology. 2010; 63:1179–94.10.1016/j.jclinepi.2010.04.011 [PubMed: 20685078]
+Chen, H-T. Intervening mechanism evaluation. In: Chen, H-T., editor. Theory-driven evaluations.
+Newbury Park, CA: Sage; 1990. p. 191-218.
+Coffman DL. Estimating causal effects in mediation analysis using propensity scores. Structural
+Equation Modeling. 2011; 18:357–369.10.1080/10705511.2011.582001 [PubMed: 22081755]
+Cohen, J. Statistical power analysis for the behavioral sciences. Mahwah, NJ: Erlbaum; 1988.
+Collins LM. Analysis of longitudinal data: The integration of theoretical model, temporal design and
+statistical model. Annual Review of Psychology. 2006; 57:505–528.10.1146/annurev.psych.
+57.102904.190146
+Collins LM, Baker TB, Mermelstein RJ, Piper ME, Jorenby DE, Smith SS, Fiore MC. The multiphase
+optimization strategy for engineering effective tobacco use interventions. Annals of Behavioral
+Medicine. 2011; 41:208–226.10.1007/s12160-010-9253-x [PubMed: 21132416]
+Collins LM, Dziak JR, Li R. Design of experiments with multiple independent variables: A resource
+management perspective on complete and reduced factorial designs. Psychological Methods. 2009;
+14:202–224.10.1037/a0015826 [PubMed: 19719358]
+Collins LM, Murphy SA, Bierman K. A conceptual framework for adaptive preventive interventions.
+Prevention Science. 2004; 5:185–196.10.1023/B:PREV.0000037641.26017.00 [PubMed:
+15470938]
+Collins LM, Murphy SA, Nair V, Strecher V. A strategy for optimizing and evaluating behavioral
+interventions. Annals of Behavioral Medicine. 2005; 30:65–73.10.1207/s15324796abm3001_8
+[PubMed: 16097907]
+Collins LM, Murphy SA, Strecher V. The multiphase optimization strategy (MOST) and the sequential
+multiple assignment randomized trial (SMART): New methods for more potent e-healthCollins et al. Page 8
+Health Psychol . Author manuscript; available in PMC 2013 November 18.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript
+interventions. American Journal of Preventive Medicine. 2007; 32:S112–S118.10.1016/j.amepre.
+2007.01.022 [PubMed: 17466815]
+DeSteno D, Kubzansky L, Gross J. Affective science and health: The importance of emotion and
+emotion regulation [Special issue]. Health Psychology. in press.
+Fairchild AJ, MacKinnon DP. A general model for testing mediation and moderation effects.
+Prevention Science. 2009; 10:87–99.10.1007/s11121-008-0109-6 [PubMed: 19003535]
+Frost MH, Reeve BB, Liepa AM, Stauffer JW, Hays RD. The Mayo/FDA Patient-Reported Outcomes
+Consensus Meeting Group. What is sufficient evidence for the reliability and validity of patient-
+reported outcome measures? Value in Health. 2007; 10:S94–S105.10.1111/j.
+1524-4733.2007.00272.x [PubMed: 17995479]
+Graham JW, Taylor BJ, Olchowski AE, Cumsille PE. Planned missing data designs in psychological
+research. Psychological Methods. 2006; 11:323–343.10.1037/1082-989X.11.4.323 [PubMed:
+17154750]
+Holland, PW.; Wainer, H., editors. Differential Item functioning. Hillsdale, NJ: Lawrence Erlbaum
+Associates; 1993.
+MacKinnon, DP. Introduction to statistical mediation analysis. Mahwah, NJ: Lawrence Erlbaum
+Associates; 2008.
+MacKinnon DP, Luecken LJ. How and for whom? Mediation and moderation in health psychology.
+Health Psychology. 2008; 27:S99–S100.10.1037/0278-6133.27.2(Suppl.).S99 [PubMed:
+18377161]
+Major B, Dovidio J, Berry-Mendes W. The social psychology of intergroup relations: Implications for
+health disparities [Special issue]. Health Psychology. in press.
+Mann T, de Ridder DTD, Fujita K. Social psychological approaches to self-regulation: Processes of
+goal setting and goal striving [Special issue]. Health Psychology. in press.
+Nunnally, JC.; Bernstein, IH. Psychometric theory. 3. New York, NY: McGraw-Hill; 1994.
+Pietromonaco PR, Uchino B, Dunkel Schetter C. Close relationship processes and health: Implications
+of attachment theory for health and disease [Special issue]. Health Psychology. in press.
+Scientific Advisory Committee of the Medical Outcomes Trust. Assessing health status and quality-of-
+life instruments: Attributes and review criteria. Quality of Life Research: An International Journal
+of Quality of Life Aspects of Treatment. Care & Rehabilitation. 2002; 11:193–205.10.1023/A:
+1015291021312
+Sheeran P, Gollwitzer PM, Bargh JA. Nonconscious processes and health [Special issue]. Health
+Psychology. in press.
+Strecher VJ, McClure JB, Alexander GW, Chakraborty B, Nair VN, Konkel JM, Pomerleau OF. Web-
+based smoking cessation programs: Results of a randomized trial. American Journal of Preventive
+Medicine. 2008; 34:373–381.10.1016/j.amepre.2007.12.024 [PubMed: 18407003]
+Ten Have TR, Joffe MM, Lynch KG, Brown GK, Maisto SA, Beck AT. Causal mediation analyses
+with rank preserving models. Biometrics. 2007; 63:926–934.10.1111/j.1541-0420.2007.00766.x
+[PubMed: 17825022]
+Teresi JA. Statistical methods of examination of differential item functioning with applications to
+cross-cultural measurement of functional, physical and mental health. Journal of Mental Health
+and Aging. 2001; 7:31–40.
+Teresi JA. Overview of quantitative measurement methods: Equivalence, invariance, and differential
+item functioning in health applications. Medical Care. 2006; 44:S39–S49.10.1097/01.mlr.
+0000245452.48613.45 [PubMed: 17060834]Collins et al. Page 9
+Health Psychol . Author manuscript; available in PMC 2013 November 18.
+NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript

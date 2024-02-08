@@ -1,0 +1,526 @@
+A Pilot Randomized, Controlled Trial of an Active Video Game Physical
+Activity Intervention
+Wei Peng, Karin A. Pfeiffer, and Brian Winn
+Michigan State UniversityJih-Hsuan Lin
+National ChengChi University
+Darijan Suton
+Michigan State University
+Objective: Active video games (AVGs) transform the sedentary screen time of video gaming into active
+screen time and have great potential to serve as a “gateway” tool to a more active lifestyle for the leastactive individuals. This pilot randomized trial was conducted to explore the potential of theory-guidedactive video games in increasing moderate-to-vigorous physical activity (MVPA) among young adults.Method: In this pilot 4-week intervention, participants were randomly assigned to 1 of the following
+groups: an AVG group with all the self determination theory (SDT)–based game features turned off, anAVG group with all the SDT-based game features turned on, a passive gameplay group with all theSDT-based game features turned on, and a control group. Physical activity was measured usingActiGraph GT3X accelerometers. Other outcomes included attendance and perceived need satisfaction ofautonomy, competence and relatedness. Results: It was found that playing the self-determination theory
+supported AVG resulted in greater MVPA compared with the control group immediately postinterven-tion. The AVG with the theory-supported features also resulted in greater attendance and psychologicalneed satisfaction than the non–theory-supported one. Conclusion: An AVG designed with motivation
+theory informed features positively impacted attendance and MVPA immediately postintervention,suggesting that including AVG features guided with motivation theory may be a method of addressingcommon problems with adherence and increasing effectiveness of active gaming.
+Keywords: college student, exercise, exergame, sedentary behavior, young adult
+Supplemental materials: http://dx.doi.org/10.1037/hea0000302.supp
+Approximately 44% of young adults 18 to 24 years old do not
+meet the moderate to vigorous physical activity (MVPA) guidelineof 150 minutes per week ( Centers for Disease Control and Pre-
+vention, 2011 ), despite numerous health benefits of being physi-
+cally active ( Haskell et al., 2007 ). Sedentary behaviors are linked
+to all-cause and cardiovascular disease mortality in adults ( Trem-
+blay, Colley, Saunders, Heay, & Owen, 2010 ). The transition from
+adolescence to early adulthood is a critical time period for estab-lishing lifelong active lifestyles ( Bell & Lee, 2005 ). Unfortunately,
+few physical activity promotion efforts have been directed towardthis specific group. One promising intervention strategy, which
+addresses both sedentary behaviors and physical activity, is the useof active video games (also called exergames). Active video games(AVGs) decrease sedentary behaviors by transforming the seden-tary screen time of video gaming (playing video games whilesitting) into active screen time (using actual body movements tointeract with the game interface while playing) because the gameplaying itself is an actual physical activity ( Biddiss & Irwin, 2010 ;
+Peng, Crouse, & Lin, 2013 ). A meta-analysis of 18 lab experi-
+ments quantifying energy expenditure of AVGs found that playing
+Wei Peng, Department of Media and Information, Michigan State Uni-
+versity; Karin A. Pfeiffer, Department of Kinesiology, Michigan StateUniversity; Brian Winn, Department of Media and Information, MichiganState University; Jih-Hsuan Lin, Department of Communication and Tech-nology, National ChengChi University; Darijan Suton, Department ofKinesiology, Michigan State University.
+Darijan Suton is now at University of Massachusetts Boston.We thank the following individuals for their assistance in data collec-
+tion: Julia Crouse, Steve Jeong, Mijung Kim, Yumi Jung, Adam Smith,Margaux Hetzman, Sharla Gillespie, and Rebecca Moore. We thank thefollowing individuals for their contributions to the Olympus game design
+and development: Adam Rademacher, Marie Lazar, Jon Moore, ShawnAdams, Adam Starks, Jason Maynard, Jordan Ajlouni, Daniel AlexanderII, Michael Hilliker, Daniel Shillair, Bethany Strandbergh, David Phillips,
+Andrew Dennis, Eric Musser, and Valeta Wensloff. We thank RobertWood Johnson Foundation for providing funding to support this workthrough its national program, Health Games Research (Grant 66725). This2015 special supplemental issue of Health Psychology is supported byfunding from the National Institutes of Health (NIH) Office of Behavioraland Social Sciences Research (OBSSR) to support the dissemination ofresearch on eHealth and mHealth interventions, methods, and implicationsin the practice of health psychology.
+Correspondence concerning this article should be addressed to Wei
+Peng, Department of Media and Information, Michigan State University,409 Comm Arts Building, East Lansing, MI 48824. E-mail: pengwei@
+msu.eduThis document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.Health Psychology © 2015 American Psychological Association
+2015, Vol. 34, Supplement, 1229–1239 0278-6133/15/$12.00 http://dx.doi.org/10.1037/hea0000302
+1229
+AVG is equivalent to light to moderate physical activity ( Peng,
+Lin, & Crouse, 2011 ). This intensity of AVGs is appropriate for
+the least active population to initiate the change from a sedentarylifestyle ( Colley, Hills, King, & Byrne, 2010 ).
+Research studies show that in addition to the greater energy
+expenditure compared to sedentary video games and other tradi-tional physical activities such as treadmill walking, AVGs werebetter enjoyed ( Barkley & Penko, 2009 ). Particularly, AVGs with
+greater enjoyment are more likely to be played over time todecrease sedentary behavior ( Lyons et al., 2011 ). AVGs that are
+more enjoyable and engaging are more likely to produce greaterintensity activity ( Lyons et al., 2014 ;Staiano, Abraham, & Calvert,
+2012 ). As activity choice and adherence are largely dictated by the
+level of enjoyment ( Epstein, Beecher, Graf, & Roemmich, 2007 ),
+and previous physical activity interventions established enjoymentas a significant mediator ( Dishman et al., 2005 ;Salmon, Owen,
+Crawford, Bauman, & Sallis, 2003 ), AVGs have great potential as
+a physical activity promotion tool among young adults. In addi-tion, digital games are also a receptive tool for the target audiencebecause 81% of young adults 18 to 29 years old are regular oroccasional game players ( Lenhart, Jones, & Macgill, 2008 ).
+Despite the promising energy expenditure evidence of AVGs, a
+number of interventions repurposing first generation commercialAVGs for physical activity promotion in children demonstratedsuboptimal results because of lack of engagement after the initialweeks of intervention ( Biddiss & Irwin, 2010 ;Maloney et al.,
+2008 ). These first generation AVGs were not specifically designed
+with a theoretical framework for motivation and engagement overtime for physical activity promotion. More recent AVGs designwith a fitness focus tend to include theory-based behavior changestrategies ( Lyons & Hatkevich, 2013 ). To develop more effective
+AVGs for the least active young adults, special design consider-ations supported by motivational theories are needed. The currentstudy employed a self-determination theory (SDT) ( Ryan & Deci,
+2000a ,2000b ) informed AVG targeting insufficiently active young
+adults ages 18 to 24 years, an often overlooked population, forwhom AVGs have great potential to serve as a “gateway” tool toa more active lifestyle ( Lieberman et al., 2011 ).
+Self-Determination Theory–Guided AVG
+SDT assumes that all humans possess three basic psychological
+needs: the needs for competence, autonomy, and relatedness ( Deci
+& Ryan, 1985 ). Specifically, the need for competence implies that
+individuals have a desire to interact effectively with the environ-ment, to experience a sense of competence in producing desiredoutcomes, and to prevent undesired events. The need for autonomyreflects a desire to engage in activities of one’s choice and to be theorigin of one’s own behavior. Finally, the need for relatednessinvolves feeling connected, or feeling that one belongs in a givensocial milieu.
+The contexts of an activity can facilitate the satisfaction of the
+three basic psychological needs and the self-determined regulationprocess. In the domain of exercise and physical activity, fulfill-ment of these three basic needs is related to more self-determinedmotivational regulations. A number of empirical studies havedemonstrated the link between positive consequences such asmotivation to exercise and exercise adherence and the need satis-faction of competence ( Markland, 1999 ), autonomy ( Gagné, Ryan,& Bargmann, 2003 ;Silva et al., 2010 ), and relatedness ( Edmunds,
+Ntoumanis, & Duda, 2006 ).
+SDT has also been applied in the game play context. Computer
+and video game playing is one type of activity that has tremendousappeal, and players are highly motivated to engage in game play-ing.Ryan, Rigby, and Przybylski (2006) argued that the psycho-
+logical “pull” of games is largely due to their capacities to engen-der feelings of autonomy, competency, and relatedness. Thefeatures of the gaming environment were found to be the facilita-tors of psychological need satisfaction and game enjoyment ( Ryan
+et al., 2006 ). Specifically, games that have considerable flexibility
+over movement and strategies, choice over tasks and goals, andstructured rewards not intended to control the player’s behaviorsare supportive of autonomy. Game controls that are intuitive andreadily mastered, game tasks that provide ongoing optimal chal-lenges and opportunities for positive feedback, and games thatenable player to have a sense of accomplishment are supportive ofcompetence. Relatedness may be supported by computer-generated avatars or agents in the game and real players that areconnected by the game.
+AVGs are a type of video game that require body movements
+similar to exercise. In active video gaming, similar to what hasbeen found in the domain of sports and exercise as well asnonactive video gaming, features that satisfy players’ psycholog-ical needs of autonomy, competence, and relatedness, can furtherlead to increased enjoyment ( Ryan et al., 2006 ), motivation for
+future play ( Przybylski, Rigby, & Ryan, 2010 ;Ryan et al., 2006 ),
+and recommendation intention ( Przybylski et al., 2010 ). Based on
+the above evidence, the purpose of this study was to examine theeffectiveness of an AVG with features that satisfy the need ofautonomy, competence, and relatedness. It was hypothesized thatan AVG with SDT-supported features would be more effective inreducing overall sedentary behaviors and increasing physical ac-tivity (light, moderate, and vigorous) among players during thetime that they have access to the AVG and immediately after suchAVG intervention is over, compared with an AVG without suchneed satisfaction features, as well as the control group and thepassive game play group. It was hypothesized that the SDT-features-on AVG groups would have greater (a) attendance, (b)time spent on game, (c) need satisfaction of autonomy, (d) needsatisfaction of competence, (e) need satisfaction of relatedness, (f)game enjoyment, (g) future game play motivation, and (h) likeli-hood of recommendation of game, than the SDT-features-off AVGgroup.
+Method
+Study Design
+This small trial used a four-arm randomized control design with
+assessment of outcomes at baseline (week 0), week 1 of game play,and one week after game play (week 5). Participants were ran-domly assigned to one of the four groups: (a) an active gameplaygroup that employed the active inputs (Wiimote, Nunchuk, anddancepad) to play the game with all the SDT-based features turnedoff (SDT-features-off AVG group), (b) an active gameplay groupthat employed the active inputs (Wiimote, Nunchuk, and dance-pad) to play the game with all the SDT-based features turned on(SDT-features-on AVG group), (c) a passive gameplay group thatThis document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.1230 PENG, PFEIFFER, WINN, LIN, AND SUTON
+used the traditional game controller input (Xbox 360 controller) to
+play the game with all the SDT-based features turned on (SDT-features-on passive game), and (d) a control group that did notreceive any treatment (control group). The passive gameplay groupwas included to ensure that effects of the game can be attributed tothe active gameplay component.
+Participants
+Inclusionary criteria required participants to be between 18 and
+25 years of age, domestic students, playing video games for at leastone hour per month, available for week 0, week 1, and week 5physical activity assessments, and not highly physically active atthe time. The total time participants engaged in MVPA in the pastseven days was calculated from the screening questionnaire. Timespent in vigorous physical activity was multiplied by two toconvert it to time spent in moderate physical activity. Those whoreported to engage in no more than 225 minutes per week ofmoderate activity in total (with the converted vigorous physicalactivity minutes included) were eligible for participation in thisexperiment. Among the enrolled participants, only one had morethan 150 minutes per week of reported MVPA. Exclusionarycriteria were having a medical condition that influenced physicalactivity or having a seizure disorder. This project was approved bythe Institutional Review Board. Table 1 reports the participants’
+characteristics by group.
+Recruitment and Randomization
+Participants were recruited in two waves to control for potential
+seasonal effect as well as to accommodate the limited number ofaccelerometers, which objectively measured physical activity. Fig-
+ure 1 illustrates the recruitment procedure and the loss of partici-
+pants by point after initial recruitment in both waves. Wave 2resulted in more participants than what could be accommodated bythe number of accelerometers and thus some enrolled participantswere not equipped with accelerometers. Simple randomization was
+conducted via computer generated random numbers by the fourthauthor. Allocation sequence was concealed from the researchersenrolling the participants. Blinding was only possible for theoutcome assessors. The participants were provided up to $100 cashincentives for complying with all the study requirements (e.g.,minimal accelerometer wear time, attending orientation and datacollection sessions, etc.).
+Intervention and Control Conditions
+Three versions of an in-house developed game were used. The
+game was a third person, fantasy role-playing game that allowedplayers to immerse themselves in the wondrous time of AncientGreek history and myth. Players could hone their skills and abil-ities by competing in athletic events and put these skills to the testas they faced challenges from the warring minions of the gods.Through the use of a WiiMote (accelerometer-based motion con-troller) for upper-body movement and a dancepad for lower-bodymovement, the player’s corresponding physical actions in the realworld drove the virtual actions of his or her avatar (player’s gameworld representation) in the game world. For instance, to controlthe avatar in the game to walk or run, the player needed to literallywalk or run in place on the dancepad. To control the avatar in thegame to climb, the player needed to physically move both his orher arms and legs in a motion that resembled climbing. In aseparate lab experiment ( Peng, Lin, Pfeiffer, & Winn, 2012 ),
+energy expenditure testing with 150 subjects demonstrated that theaverage METs/min was 3.5 during 15 minutes of game play.Details of the SDT-based features are described in the Appendix(online supplemental material also include the screen captures ofthe game). The control group did not have access to the game orreceive treatment and only came to the research site for acceler-ometers and survey completion.
+Table 1
+Participant Characteristics by Groups
+Characteristic SDT off SDT on Passive Control Group equivalence
+Total N(% within row) 28 34 29 30
+Age 20.32 (1.19) 20.26 (1.44) 20.00 (1.73) 20.13 (1.48) F(3, 120) /H11005.28,p/H11005.84
+Gender /H92732(3,N/H11005121)/H110051.59, p/H11005.66
+Female 11 (39.3) 16 (47.1) 16 (55.2) 13 (43.3)
+Male 17 (60.7) 18 (52.9) 13 (44.8) 17 (56.7)
+Race /H92732(9,N/H11005121)/H110055.87, p/H11005.75
+White 23 (82.1) 24 (70.6) 19 (65.5) 24 (80.0)
+African American 4 (10.7) 4 (11.8) 3 (10.3) 2 (6.7)Asian 0 (0) 4 (11.8) 4 (13.8) 3 (10.0)Other 2 (7.1) 2 (5.9) 3 (10.3) 1 (3.3)
+BMI (kg/m
+2) 25.23 (6.36) 24.08 (5.16) 24.07 (4.75) 25.48 (5.02) F(3, 120) /H11005.60,p/H11005.62
+Baseline PA (accelerometer)% time spent in sedentary activities 71.85 (8.06) 72.39 (8.35) 71.40 (9.19) 71.42 (9.44) F(3, 93) /H11005.07,p/H11005.98
+% time spent in light PA 21.53 (7.95) 21.68 (8.86) 21.54 (10.13) 19.70 (11.04) F(3, 93) /H11005.25,p/H11005.86
+% time spent in MVPA 6.61 (3.86) 5.93 (4.31) 7.05 (4.91) 8.88 (5.26) F(3, 93) /H110051.96, p/H11005.13
+Baseline PA (self-report)Self-reported MVPA minutes per week 134.11 (115.88) 108.09 (109.24) 109.66 (102.0) 103.00 (103.82) F(3, 117) /H11005.48,p/H11005.70
+Self-reported walk minutes per week 10.18 (9.71) 8.94 (8.96) 7.83 (7.37) 11.50 (8.32) F(3, 177) /H110051.00, p/H11005.40
+Note. Percent in parentheses for gender and race and standard deviations in parentheses for all other variables.This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.1231 ACTIVE VIDEO GAME INTERVENTION
+Procedure
+Recruiting emails were sent to a random sample of 10,000
+domestic undergraduate students via the registrar’s office at a largeMidwestern university at the beginning of each wave (January andMarch of 2011) and a total of 1,082 responses were received,among which 271 were eligible. Eligible participants were ran-domly assigned to one of the four conditions and invited to a 1-hrorientation session, which included the consent process, research-ers’ presentation of the study procedure, final determination ofeligibility, enrollment, and training and distribution of accelerom-eters to be worn for baseline.
+One week later, the participants came to the research site and
+returned the accelerometers. The researchers downloaded andchecked the accelerometers. Participants with insufficient or in-valid data were asked to additionally wear the accelerometers to
+make up for any missing data, and/or to fulfill accelerometer weartime requirements. During the weeks that the participants woreaccelerometers, at least one e-mail and one text message were sent
+to all participants to remind them to wear the accelerometers.The participants in all conditions wore the accelerometers at thefirst week of the intervention and one week after the interven-tion.
+For the participants who were assigned to play the game, at the
+time they came back for the researchers to check week 0 acceler-ometer data, they were instructed on the basics of how to play thegame. Because the game included a tutorial session, the instructionsession was brief. The participants also used an online schedulingsystem to sign up for time slots to come to the research sites to play                                                                                                                                                                                    
+ 
+  
+ 
+ 
+Received treatment 
+and completed all 
+assessment (n = 33; n a 
+= 26; n b =7) 
+Week 5Week 1 
+Received 
+treatment and 
+completed all 
+assessment (n = 
+29; n a = 27; n b =2) Received treatment and 
+completed all assessment (n = 
+29; n a = 22; n b =7) Completed all 
+assessment (n = 30*; n a = 
+26*; n b = 4; *including 1 
+with invalid 
+accelerometer data) 
+Completed all 
+assessment (n = 29; n a = 
+25; n b = 4) 
+Dropped out (n = 4; n a = 
+1, n b= 3) 
+ Completed all 
+assessment (n =26; n a 
+= 25; n b = 1) Dropped 
+out (n =3; n a = 2; n b= 
+1) Completed all assessment (n = 27; 
+na = 20; n b =7) 
+Dropped out (n = 2, n a = 1,  the 
+dropout also had invalid week 0 
+accelerometer data; n b= 1 ) 
+ Completed all assessment 
+(n = 28; n a = 24; n b =4) 
+Dropped out (n a = 2) 
+ Completed all baseline 
+assessment 
+(n = 33, n a = 26; n b =7) 
+Dropped out (n a = 3) Completed all baseline assessment  
+(n = 29; n
+a = 27*; n b 
+=2, * including 2 with 
+invalid accelerometer 
+data) 
+Dropped out (n a =2) 
+ Completed all baseline assessment  
+(n = 29*, n a = 22*; n b =7, *including 1 
+subject with malfunctioned 
+accelerometer, and 1 subject with 
+invalid accelerometer data) 
+ Completed all baseline assessment n = 30; n
+a = 
+26; n b = 4,) 
+Dropped out (n  a =1) 
+ 
+ Week 0 (Baseline) (n = 127) 
+Included in primary 
+outcomes analysis (n a 
+=23) 
+Excluded from 
+analysis due to 
+invalid accelerometer 
+data at baseline (n  a 
+=2) 
+ Included in primary 
+outcomes analysis (n a 
+=25) Included in primary outcomes 
+analysis (n a = 19) 
+Excluded from analysis due to 
+invalid accelerometer data at 
+baseline (n  a =1) Included in primary outcomes analysis (n
+a = 23) 
+Excluded from analysis due 
+to invalid accelerometer 
+data at week 1 (n  a =1) AVG with SDT Features on (n= 
+36) AVG with SDT 
+Features off (n=31)  Passive Group with SDT Features on (n = 29) Control (n = 31) Assessed for eligibility (n = 1082) 
+AnalysisRandomized (n = 271)Excluded (n = 811) 
+Not meeting inclusion 
+criteria  
+Excluded (n = 144) 
+Did not show up at week 0 
+orientation  
+Figure 1. A CONSORT statement figure of loss of participants by point after initial recruitment, Wave 1 ( na:
+with accelerometer, nb: without accelerometer).This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.1232 PENG, PFEIFFER, WINN, LIN, AND SUTON
+the game. The online scheduling system sent automatic reminders
+for their scheduled game play appointments. The research site hadsix systems available in six different rooms. The participants wereasked to schedule three time slots in a week. The research site wasstaffed with at least one research assistant for technical support,survey implementation, and distribution of incentives at the end ofeach week.
+Primary Outcome Measures
+Total daily physical activity was measured with the ActiGraph
+GT3X (triaxial) accelerometer (ActiGraph; Pensacola, FL). Themonitors were initialized to save data in 1-s intervals (epochs).Participants were instructed to wear the accelerometers on anelastic belt on the right hip (anterior to the iliac crest) during allwaking hours for one week at baseline, week 1, and week 5. Foranalyses, participants must have had three valid days (monitorworn for at least eight hours) of weekday data and one valid dayof weekend data. If participants had more than this, all of the daysof usable data were averaged. Periods of 20 minutes or more ofcontinuous zeroes were considered nonwear times and not consid-ered in the calculation of total wear time ( Matthews, Ainsworth,
+Thompson, & Bassett, 2002 ). Counts were reintegrated to 60-s
+epochs, and cutpoints from Freedson, Melanson, and Sirard (1998)
+were used to categorize each minute of wear as sedentary, light,and moderate-to-vigorous physical activity. Minutes spent in eachphysical activity intensity level were divided by wear time in orderto account for wear-time differences, providing an outcome vari-able with units of percentage of time spent in each intensity level.
+Process Outcome Measures
+The total number of game sessions scheduled was recorded.
+Game attendance was measured by the total number of times theparticipants came to the research site to play the game. The gamelog file also enabled us to calculate the total time the participantsspent playing the game.
+Game-Related Outcome Measures
+The validated perceived need satisfaction of autonomy scale
+used in a previous study was employed ( Peng et al., 2012 ).
+However, the 6-item scale revealed an extremely low reliabilityscore at week 4 (Cronbach’s alpha /H11005.11), even though Cron-
+bach’s alpha was very high at week 1 (.92). Following Tavakol and
+Dennick (2011) , the dataset was explored by deleting the least
+correlated item one at a time to see whether it improved theCronbach’s alpha result. Deleting the item “This game providedme with interesting options” improved the Cronbach’s alpha from.11 to .19. Among the remaining five items, deleting the item “Ihad many opportunities to choose how to grow my character”improved the Cronbach’s alpha from .18 to .32. Finally, among theremaining four items, deleting the item “I felt like I was free todecide for myself how to proceed in this game” improved theCronbach’s alpha from .32 to .56. Exploratory factor analysis alsoindicated that these three items loaded into one factor. Therefore,these three items were kept as the measure for perceived needsatisfaction of autonomy: “I experienced a lot of freedom in thegame,” “I had a lot of choices in this game,” and “I was able toplay the game the way I wanted to play it.” The resulting Cron-
+bach’s alpha was .88 and .56 at week 1 and week 4, respectively.However, the above attempt still did not result in a reliablemeasure of autonomy with Cronbach’s alpha over .70. Therefore,we did not include the results of the effect on autonomy.
+Perceived need satisfaction of competence was measured using
+a 5-item scale ( Peng et al., 2012 ). Cronbach’s alpha values were
+.79 and .74 at week 1 and week 4, respectively. The five itemswere “I felt competent at this game,” “I felt a great sense ofaccomplishment playing this game,” “I felt able to meet the chal-lenge of performing well in this game,” “I did not feel very capablewhen playing this game [reverse-code],” and “I felt that I waseffective interacting in this game.”
+Perceived need satisfaction of relatedness was measured by
+adapting the relatedness subscale in PENS ( Ryan et al., 2006 ) and
+the Basic Need Satisfaction At Work scale ( Baard, Deci, & Ryan,
+2004 ). The participants rated eight statements on a 7-point Likert
+scale anchored by 1 ( strongly disagree )a n d7( strongly agree ): “I
+felt a sense of camaraderie while playing this game,” “I felt that thegame characters supported me,” “I really liked the characters Iinteracted with in this game,” “I felt that the characters in the gamecared about me,” “When I was interacting with the characters inthis game, I felt a lot of closeness,” “When I was playing the game,I felt that the other game characters were with me together,” “I feltthat I formed relationships with other characters in this game,” and“When I was playing the game, I felt that I was left alone all bymyself.” Cronbach’s alpha values were .90 and .77 at week 1 andweek 4.
+The Physical Activity Enjoyment Scale (PACES) was adopted
+to measure the players’ enjoyment of playing the different versionsof the game at week 1 and week 4 ( Kendzierski & Decarlo, 1991 ).
+Cronbach’s alpha values were .88 and .69 at week 1 and week 4,respectively.
+Future Play Motivation was measured based on Ryan et al.
+(2006) . At week 1 and week 4 participants were asked to rate three
+statements on a 7-point scale anchored by 1 ( strongly disagree )
+a n d7( strongly agree ): “Given the chance I would play this game
+in my free time,” “I would like to spend more time playing thisgame,” and “I would like to continue playing this game.” Cron-bach’s alpha values were .91 and .93 at week 1 and week 4,respectively. One item was employed to ask the participants from1(extremely unlikely )t o7( extremely likely ) how likely they would
+be to recommend this game to others at week 1 and week 4.
+Statistical Analysis
+Data analyses of the primary outcomes (percent time spent in
+sedentary, light, and MVPA) were only conducted among theparticipants who were equipped with the accelerometers. Dataanalyses of the game related outcomes and process outcomes wereconducted among all the participants in the three game playgroups. Missing data were not imputed, and completer analyseswere conducted for the primary outcomes and the secondaryoutcomes. As the PA data were not normally distributed, square-root transformation was performed to satisfy the assumption of thestatistical analysis because the transformation would not materiallychange statistical difference for accelerometry PA outcomes. Themeans and standard deviations of the PA data were still reported inthe original form for easy interpretation. Baseline self-reportedThis document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.1233 ACTIVE VIDEO GAME INTERVENTION
+weekly MVPA minutes, walking minutes, BMI, and monthly
+gaming time were compared between those equipped with accel-erometers and those without. No statistically significant differ-ences were found. Additionally, these same variables were com-pared between those who remained in the study and those whodropped out. No statistically significant differences were found.
+A mixed model analysis of covariance (ANCOVA) with inter-
+vention condition as the between-subjects factor and time (week 1and week 5) as the within-subjects factor was conducted to exam-ined whether the four groups differed in terms of the primaryoutcome measures (percent of time spent in sedentary, light, mod-erate, and vigorous physical activity) over time, controlling forbaseline PA measures and seasonal effects due to two waves ofdata collection. When an interaction effect was found, simpleANCOVA at each level of the within-subjects factor was con-ducted, that is, separate ANCOVAs for week 1 (during interven-tion) and week 5 (immediately after intervention). The magnitudeof the overall effect was explained through a magnitude of thepartial eta square for the Fstatistic, where .01 .09, and .25
+represent small, medium, and large effects, respectively.
+A mixed model analysis of variance (ANOVA) examined the
+difference among the three game play groups in terms of the gamerelated measures at week 1 and week 4. The model contained time(a within-subjects factor: week 1 and week 4) and group (abetween-subjects factor: SDT-features-off AVG, SDT-features-onAVG, and SDT-features-on passive game). Separate models wereused for each dependent variable. A significant main effect ofgroup difference was the primary test. One-way ANOVA was usedto examine group differences regarding process outcomes—gamesession scheduling, game attendance, and time spent playing thegames. For all the ANOVA tests, Welch’s ANOVA was used if thehomogeneity assumption was violated.
+Results
+Primary Outcomes
+Table 2 summarizes the means and standard deviations of the
+primary and process outcomes. Three mixed model ANCOVAswere conducted for sedentary activity, light PA, and MVPA andthe results are summarized in Table 3 . No main effect of interven-
+tion condition or main effect of time were found for sedentaryactivity, light PA, and MVPA. No interaction effects were foundfor sedentary activity and light PA. The only statistically signifi-cant difference revealed was the interaction effect for MVPA, F(3,
+84)/H110052.89, p/H11005.04,/H9257
+2/H11005.09, indicating that the MVPA
+differences among the intervention conditions were dependent on
+time. To interpret the interaction effect, separate ANCOVAs ateach level of the within-subjects factor—week 1 and week 5 wereconducted, controlling for week 0 MVPA and seasonal effects. Forweek 1 MVPA, the four conditions did not differ, F(3, 84) /H11005.65,
+p/H11005.58. Neither wave of data collection, F(1, 84) /H110053.21, p/H11005
+.077, nor week 0 MVPA, F(1, 84) /H110051.58, p/H11005.21, were signif-
+icant covariates. However, for week 5 MVPA, statistically signif-icant difference was found, F(3, 84) /H110053.76, p/H11005.014,/H9257
+2/H11005.12.
+Wave of data collection was a significant covariate, F(1, 84) /H11005
+12.99, p/H11005.001,/H92572/H11005.13, but week 0 MVPA was not, F(1, 84) /H11005
+2.94, p/H11005.09. Post hoc pairwise comparisons with Bonferroni
+correction indicated that SDT-features-on AVG condition had
+Table 2Means and Standard Deviations of Primary Outcomes and Process Outcomes
+SDT off AVG n/H1100523 SDT on AVG n/H1100525 SDT on passive game n/H1100519 Control n/H1100523
+DV Week 0 Week 1 Week 5 Week 0 Week 1 Week 5 Week 0 Week 1 Week 5 Week 0 Week 1 Week 5
+% time spent in sedentary
+activities 72.03 (8.19) 68.42 (8.00) 71.10 (7.63) 71.94 (8.33) 69.21 (9.14) 71.68 (7.45) 71.28 (9.43) 71.12 (7.04) 72.02 (4.47) 72.31 (9.58) 71.22 (9 .03) 74.56 (8.77)
+% time spent in light PA 21.39 (8.10) 25.31 (8.93) 22.56 (7.40) 22.83 (8.15) 25.73 (10.20) 18.89 (11.10) 22.03 (10.17) 21.91 (9.86) 19.69 (7.44) 18.34 ( 10.79) 22.68 (8.39) 19.50 (8.72)
+% time spent in MVPA 6.58 (3.94) 6.26 (3.51) 6.35 (3.40) 5.23 (3.23) 5.06 (2.54) 9.43 (5.81) 6.69 (4.76) 6.97 (4.20) 8.29 (5.19) 9.36 (5.37) 6.10 (4.46) 5 .93 (4.44)
+Game session scheduling 9.33 (2.92) 10.17 (2.78) 10.73 (1.96)Game attendance 8.94 (3.14) 10.39 (2.30) 10.79 (1.93)Time spent in game 184.45 (68.91) 241.65 (89.38) 239.41 (70.47)
+Note. Only included those who had accelerometers and provided valid data at all these three weeks. SDT /H11005self-determination theory; AVG /H11005active video game. Standard deviations reported in
+parentheses.This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.1234 PENG, PFEIFFER, WINN, LIN, AND SUTON
+greater MVPA than the control group at week 5, p/H11005.012. There
+were no other statistical differences in MVPA between any othertwo groups. A cautionary note needs to be pointed out that thehomogeneity assumption was violated in the mixed modelANCOVA for light PA at week 5. Levene’s test of equality of errorvariance was statistically significant, p/H11005.01, even after square-
+root transformation was applied for the light PA data.
+Because data collection was conducted in two waves, potential
+seasonal effects were also explored. A mixed model ANOVA wasconducted to see whether secondary activities, light PA, andMVPA differ among the two waves. A between-subjects maineffect would indicate seasonal effect, which was in fact demon-strated by our data. Participants in the second wave (March-May)had greater MVPA than the first wave (January to March), F(1,
+88)/H110058.94, p/H11005.004,/H9257
+2/H11005.092, which shows weather as an
+important factor impacting MVPA.
+Process Outcomes
+Means and standard deviations for compliance of game session
+scheduling, actual game attendance, and time spent in gamingwere reported in Table 2 . No statistically significant difference was
+found for compliance of game session scheduling, F(2, 90) /H110052.32,
+p/H11005.11. Significant group differences were found for game
+attendance, F(2, 57.89) /H110054.09, p/H11005.022, and total time in game,
+F(2, 86) /H110055.06, p/H11005.008. Post hoc pairwise comparison with
+Bonferroni correction indicated that players in the SDT-features-on AVG condition came to play the game more often thanplayers in SDT-features-off AVG condition ( p/H11005.016). Players in
+SDT-features-on conditions, either played passively ( p/H11005.015) or
+actively ( p/H11005.024), spent more time playing the game than players
+in the SDT-features-off AVG condition.Game-Related Outcomes
+Table 4 summarizes the mixed model ANOVAs for the game
+related outcomes. A main effect of group difference was found forperceived need satisfaction of relatedness, F(2, 84) /H110053.93, p/H11005
+.023,/H9257
+2/H11005.086. Post hoc pairwise comparison with Bonferroni
+correction showed that the SDT-features-on AVG condition had
+greater perceived relatedness than the SDT-features-off AVG con-dition. No main effect of group difference was found for perceivedneed satisfaction of competence, F(2, 84) /H110051.66, p/H11005.196,/H9257
+2/H11005
+.038. Significant time effects were also found for perceived com-
+petence, F(1, 84) /H1100581.53, p/H11021.001,/H92572/H11005.49, and perceived
+relatedness, F(1, 84) /H110055.25, p/H11005.025,/H92572/H11005.059. Specifically,
+over time, participants had increased perception of relatedness but
+decreased perception of competence. No group by time interactioneffect was found.
+The mixed model ANOVA did not reveal statistically signifi-
+cant group difference for game enjoyment, F(2, 88) /H110052.55, p/H11005
+.084,/H9257
+2/H11005.055. No significant group difference was found with
+regard to future play motivation, F(2, 84) /H110051.16, p/H11005.317,/H92572/H11005
+.027. Significant group difference was found for likelihood of
+game recommendation, F(2, 84) /H110057.02, p/H11005.002,/H92572/H11005.143. Post
+hoc pairwise comparison with Bonferroni correction indicated that
+players were more likely to recommend the SDT-features-on AVGthan the SDT-features-on passive game ( p/H11005.001), but there was
+no difference of likelihood of recommendation between the SDT-features-on and SDT-features-off AVG groups. Significant timeeffects were also found for game enjoyment and future playmotivation. Over time, the participants had decreased game enjoy-ment, F(1, 88) /H1100542.40, p/H11005.00,/H9257
+2/H11005.325, and future play
+motivation, F(1, 84) /H1100512.21, p/H11021.001,/H92572/H11005.127. No time byTable 3
+F Test Statistics From Mixed Model ANCOVAs for Sedentary Activity, Light PA, and MVPA
+Time Group Time /H11003GroupCovariate:
+Week 0 MVPACovariate: Wave of
+data collection
+Activity Fp /H92572Fp /H92572Fp /H92572Fp /H92572Fp /H92572
+Sedentary activity .41 .008 .008 1.26 .29 .043 .30 .82 .011 22.16 .00 .21 .17 .68 .002
+Light PA .001 .98 .00 .80 .50 .028 1.16 .33 .04 6.63 .012 .073 1.83 .18 .021MVPA .85 .36 .01 1.87 .14 .063 2.89 .04 .094 3.70 .058 .042 12.29 .001 .13
+Table 4
+Means, Standard Deviations, and F Test Statistics From Mixed-Model ANOVA for Game-Related Outcomes
+SDT off AVG SDT on AVG SDT on passive game Time Group Time /H11003Group
+Outcome W1 W4 W1 W4 W1 W4 Fp /H92572Fp /H92572Fp /H92572
+Autonomy 2.62 (1.12) 3.15 (1.00) 3.70 (1.62) 3.36 (1.03) 3.55 (1.10) 3.62 (.94) .47 .49 .006 4.27 .017 .092 3.90 .024 .085
+Competence 5.29 (.89) 4.09 (1.24) 5.28 (1.01) 4.08 (1.06) 4.91 (1.11) 3.76 (.86) 81.52 .00 .49 1.66 .20 .038 .02 .98 .00Relatedness 3.14 (1.24) 3.33 (.88) 3.81 (1.34) 4.00 (1.11) 3.53 (1.19) 3.99 (.75) 5.25 .025 .059 3.93 .023 .086 .52 .60 .012Game enjoyment 4.63 (.74) 4.23 (.80) 4.80 (.75) 4.28 (.63) 4.40 (.86) 3.96 (.51) 42.40 .00 .325 2.55 .084 .055 .29 .75 .007Future play motivation 4.71 (1.62) 4.14 (1.76) 4.84 (1.23) 4.12 (1.58) 4.25 (1.54) 3.75 (1.40) 12.21 .001 .127 1.16 .32 .027 .15 .86 .004Game recommendation 4.30 (1.81) 4.21 (1.66) 5.03 (1.54) 4.74 (1.69) 3.68 (1.59) 3.89 (1.50) .048 .83 .001 7.02 .002 .143 .34 .71 .008
+Note. Effect sizes (partial eta square: /H9257
+2): small effect /H11005.01, medium effect /H11005.09, large effect /H11005.25. W1 /H11005week 1; W4 /H11005week 4. Standard deviations
+reported in parentheses.This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.1235 ACTIVE VIDEO GAME INTERVENTION
+group interaction was found for game enjoyment, future motiva-
+tion, and game recommendation.
+Discussion
+This study examined whether an AVG with SDT-supported
+features would be more effective in reducing sedentary behaviorsand increasing physical activity (light, moderate, and vigorous)among players during the time that they have access to the AVGand immediately after such AVG intervention is over, comparedwith an AVG without such need satisfaction features, as well as thecontrol group and the passive game play group. Additionally, thisstudy investigated whether an AVG with SDT supported featureswould result in greater game engagement manifested by atten-dance, time spent on game, game enjoyment, future game playmotivation, and likelihood of recommendation of game, as well asgreater needs satisfaction of autonomy, competence, and related-ness in comparison to an AVG without those SDT supportedfeatures.
+It was found that playing the self-determination theory–
+supported AVG resulted in greater MVPA compared with thecontrol group immediately postintervention, although no statisti-cally significant difference was found between the theory-supported AVG and the AVG without the additional theory-supported features or the theory-supported AVG and a passivegame with theory-supported features. A possible explanation forthe difference in MVPA between the theory-supported AVG andthe control group immediately after intervention would be thatthrough the four weeks of intervention of playing the AVG, theinsufficiently active young adults started to become more active.After the intervention was over, the SDT-features-on AVG mayhave motivated participants to engage in some real life physicalactivities, which resulted in significantly greater MVPA comparedwith the control group, although there is no evidence to supportthis actually occurred except the increased MVPA minutes. This isconsistent with the proposition that a theory-based AVG mightserve as a gateway to introduce sedentary or insufficiently activeindividuals to fun physical activities which will ultimately stimu-late them to become more active in real life ( Lieberman et al.,
+2011 ).
+What was perplexing was that the first week did not result in
+statistically significant change of physical activity, including lightPA which was supposed to be the range of PA the game elicited inthe first week. One possible explanation was that the effect sizemight be too small and our sample was not well-powered. Anotherpossible explanation was that participants needed to come to theresearch site to play the game and most of them came by walking,which might dilute the effect of AVG.
+Nevertheless, we consider the most important findings support-
+ing the importance of theory-guided intervention design are theprocess outcomes and the game related outcomes. Game atten-dance and game time are two variables that not only provideempirical evidence for intervention fidelity but also evidence thattheory-supported game features impact objectively measured mo-tivation. Participants in the SDT-features-on AVG condition cameto the intervention site more to play the game and spent more timeplaying the game than the SDT-features-off AVG condition.
+The SDT-supported features also impacted players’ need satis-
+faction of autonomy and need satisfaction of relatedness as ex-pected from lab study results ( Peng et al., 2012 ). This finding
+suggests that to continuously engage participants to come back toplay a video game, in particular an AVG, it is important to haveneed satisfaction supportive game features. Previous AVG inter-vention showed high burn-out rate or significantly diminishedAVG use after the initial weeks (e.g., Maloney et al., 2008 ). The
+AVGs used in the previous interventions were first generationcommercial off-the-shelf ones and were not designed for physicalactivity promotion or integrated with theory support for prolongedmotivation and engagement. Our findings that playing AVGs withthe theory-based features resulted in greater attendance and psy-chological need satisfaction further warrant the importance oftheory guiding in intervention development ( Baranowski, Ander-
+son, & Carmack, 1998 ;Brug, Oenema, & Ferreira, 2005 ).
+No statistically significant difference of need satisfaction of
+competence was found. One possible explanation might be that thegame engine (Unity) used to develop the game went through somebackend platform change during the intervention period. Thischange resulted in an error in the game world. Because this was anerror in the third-party game engine, there was nothing that ourgame developer could do to fix it and this error prevented allplayers from successfully completing a level, regardless of theirstudy conditions. This inability to proceed in the game might havenegatively influenced every player’s need satisfaction of compe-tence and washed out the effects of the SDT features such asdynamic difficult adjustment, heroism meter, and achievementbadges.
+Additionally, because no significant group differences were
+found for game enjoyment and future play motivation, the lack ofdifference in need satisfaction of competence might also contributeto that as need satisfaction contributes to enjoyment and futureplay motivation ( Ryan et al., 2006 ). The players were found to
+be more likely to recommend the game to others when they playedthe SDT-features-on versions actively than passively, suggestingthat active video games were positively received and accepted byinsufficiently active young adults, which is consistent with previ-ous findings ( Lyons et al., 2011 ).
+Significant time effects were found for a number of the game
+related outcomes. Over time, the players’ need satisfaction ofcompetence, game enjoyment, and future play motivation de-creased. Although no decreased adherence were found over time,this might be an issue over longer period of time, as identified inprevious studies ( Madsen, Yen, Wlasiuk, Newman, & Lustig,
+2007 ). The other time effect of the game related outcomes was the
+increase of need satisfaction of relatedness over time. The gamefeatures were not manipulated optimally to support need satisfac-tion of relatedness, as only nonplay characters were used, eitherthrough voice-over, or supportive conversations, and multiplayerfeatures were not employed. However, our data suggest that evenif the participants did not play with other players, only interactingwith the virtual nonplayer characters over the period of four weekscontributed to need satisfaction of relatedness. This finding wasconsistent with the media equation theory or the computers associal actors framework such that people are prone to perceivesocialness from small anthropomorphic cues in computer gener-ated interfaces or systems and behave according to social rules andbe impacted by the socialness of these computer generated inter-faces and systems ( Reeves & Nass, 1996 ). However, although
+need satisfaction of relatedness generated by the nonplayer char-This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.1236 PENG, PFEIFFER, WINN, LIN, AND SUTON
+acters increased over time, this need satisfaction did not translate
+into game enjoyment or future play motivation as indicated in themultiple regression results. This implies that need satisfaction ofrelatedness generated by other players may be necessary, suggest-ing that multiplayer gaming either in face-to-face or networkedmodality may need to be included to contribute to game enjoymentand future game play motivation.
+The strengths of the current research were the experimental
+design with random assignment of participants to groups; the useof a theory-guided AVG (not off-the-shelf commercial games)designed for a specific target audience (insufficiently active youngadults who play video games); and the use of objective monitors ofPA (accelerometers) over week-long intervals at 3 times in thedesign.
+The current research also has a number of limitations. First, the
+duration of the intervention was rather short. Second, the technicaldifficulty attributable to the game engine issue may have unex-pectedly influenced the need satisfaction of competence. Third,although need satisfaction difference was found among theSDT-on versus SDT-off condition, this did not further lead togame enjoyment or future play motivation difference. Fourth, thesample size was rather small and the pilot trial was not adequatelypowered. Fifth, physical activities were only objectively measuredat baseline, week 1, and immediately after intervention (week 5).The lack of assessment of PA beyond the first week during theintervention limited us in examining how PA change over timeduring the intervention and how the AVG impacted PA over time.Sixth, the Cronbach’s alpha of the measure of need satisfaction ofautonomy was very poor despite the data-driven attempt to im-prove reliability, limiting our ability to interpret and discuss theresults regarding need satisfaction of autonomy. Seventh, an in-centive up to $100 may affect the generalizability of the study,although the incentive was only provided for outcome data col-lection and not for game attendance. Eighth, our sample wasself-selected college students, limiting the generalizability of thefindings. Finally, as the current research required customizeddancepad to play the game on a Mac computer, the interventioncould not have been implemented and generalized in a morenatural, home-based setting.
+In conclusion, the current research provides some evidence that
+playing a SDT-based AVG resulted in greater of MVPA comparedto the control group immediately after the intervention was over.AVGs with the theory-supported features also resulted in greateradherence and psychological need satisfaction. The findings indi-cate that including AVG features guided with motivation theorymay be a method of addressing common problems with adherenceand increasing effectiveness of active gaming.
+References
+Baard, P. P., Deci, E. L., & Ryan, R. M. (2004). Intrinsic need satisfaction:
+A motivational basis of performance and well-being in two work set-tings. Journal of Applied Social Psychology, 34, 2045–2068. http://dx
+.doi.org/10.1111/j.1559-1816.2004.tb02690.x
+Baranowski, T., Anderson, C., & Carmack, C. (1998). Mediating variable
+framework in physical activity interventions. How are we doing? Howmight we do better? American Journal of Preventive Medicine, 15,
+266–297. http://dx.doi.org/10.1016/S0749-3797(98)00080-4
+Barkley, J. E., & Penko, A. (2009). Physiologic responses, perceived
+exertion, and hedonics of playing a physical interactive video gamerelative to a sedentary alternative and treadmill walking in adults.
+Journal of Exercise Physiology Online, 12, 1389–1398.
+Bell, S., & Lee, C. (2005). Emerging adulthood and patterns of physical
+activity among young Australian women. International Journal of
+Behavioral Medicine, 12, 227–235. http://dx.doi.org/10.1207/
+s15327558ijbm1204_3
+Biddiss, E., & Irwin, J. (2010). Active video games to promote physical
+activity in children and youth: A systematic review. Archives of Pedi-
+atrics & Adolescent Medicine, 164, 664–672. http://dx.doi.org/10.1001/
+archpediatrics.2010.104
+Brug, J., Oenema, A., & Ferreira, I. (2005). Theory, evidence and inter-
+vention mapping to improve behavior nutrition and physical activityinterventions. The International Journal of Behavioral Nutrition and
+Physical Activity, 2, 2.http://dx.doi.org/10.1186/1479-5868-2-2
+Centers for Disease Control and Prevention. (2011). Behavioral risk factor
+surveillance system survey data . Atlanta, GA: Author.
+Colley, R. C., Hills, A. P., King, N. A., & Byrne, N. M. (2010). Exercise-
+induced energy expenditure: Implications for exercise prescription andobesity. Patient Education and Counseling, 79, 327–332. http://dx.doi
+.org/10.1016/j.pec.2010.03.001
+Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self-
+determination in human behavior . New York, NY: Plenum Press. http://
+dx.doi.org/10.1007/978-1-4899-2271-7
+Dishman, R. K., Motl, R. W., Saunders, R., Felton, G., Ward, D. S.,
+Dowda, M., & Pate, R. R. (2005). Enjoyment mediates effects of aschool-based physical-activity intervention. Medicine and Science in
+Sports and Exercise, 37, 478–487. http://dx.doi.org/10.1249/01.MSS
+.0000155391.62733.A7
+Edmunds, J., Ntoumanis, N., & Duda, J. L. (2006). A test of self-
+determination theory in the exercise domain. Journal of Applied Social
+Psychology, 36, 2240–2265. http://dx.doi.org/10.1111/j.0021-9029
+.2006.00102.x
+Epstein, L. H., Beecher, M. D., Graf, J. L., & Roemmich, J. N. (2007).
+Choice of interactive dance and bicycle games in overweight and non-overweight youth. Annals of Behavioral Medicine, 33, 124–131. http://
+dx.doi.org/10.1007/BF02879893
+Freedson, P. S., Melanson, E., & Sirard, J. (1998). Calibration of the
+Computer Science and Applications, Inc. accelerometer. Medicine and
+Science in Sports and Exercise, 30, 777–781. http://dx.doi.org/10.1097/
+00005768-199805000-00021
+Gagné, M., Ryan, R. M., & Bargmann, K. (2003). Autonomy support and
+need satisfaction in the motivation and well-being of gymnasts. Journal
+of Applied Sport Psychology, 15, 372–390. http://dx.doi.org/10.1080/
+714044203
+Haskell, W. L., Lee, I.-M., Pate, R. R., Powell, K. E., Blair, S. N., Franklin,
+B .A . ,... Bauman, A., & the American College of Sports Medicine, &
+American Heart Association. (2007). Physical activity and public health:Updated recommendation for adults from the American College ofSports Medicine and the American Heart Association. Circulation, 116,
+1081–1093. http://dx.doi.org/10.1161/CIRCULATIONAHA.107
+.185649
+Kendzierski, D., & Decarlo, K. J. (1991). Physical Activity Enjoyment
+Scale: Two validation studies. Journal of Sport & Exercise Psychology,
+13,50–64.
+Lenhart, A., Jones, S., & Macgill, A. R. (2008, December 7). Pew Internet
+Project data memo: Adults and video games. Retrieved June 22, 2011,
+from http://www.pewinternet.org/~/media//Files/Reports/2008/
+PIP_Adult_gaming_memo.pdf.pdf
+Lieberman, D. A., Chamberlin, B., Medina, E., Jr., Franklin, B. A., Sanner,
+B. M., Vafiadis, D. K., & the Power of Play: Innovations in GettingActive Summit Planning Committee. (2011). The power of play: Inno-vations in Getting Active Summit 2011: A science panel proceedingsreport from the American Heart Association. Circulation, 123, 2507–
+2516. http://dx.doi.org/10.1161/CIR.0b013e318219661dThis document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.1237 ACTIVE VIDEO GAME INTERVENTION
+Lyons, E. J., & Hatkevich, C. (2013). Prevalence of behavior changing
+strategies in fitness video games: Theory-based content analysis. Journal
+of Medical Internet Research, 15, e81. http://dx.doi.org/10.2196/jmir
+.2403
+Lyons, E. J., Tate, D. F., Ward, D. S., Bowling, J. M., Ribisl, K. M., &
+Kalyararaman, S. (2011). Energy expenditure and enjoyment duringvideo game play: Differences by game type. Medicine and Science in
+Sports and Exercise, 43, 1987–1993.
+Lyons, E. J., Tate, D. F., Ward, D. S., Ribisl, K. M., Bowling, J. M., &
+Kalyanaraman, S. (2014). Engagement, enjoyment, and energy expen-diture during active video game play. Health Psychology, 33, 174–181.
+http://dx.doi.org/10.1037/a0031947
+Madsen, K. A., Yen, S., Wlasiuk, L., Newman, T. B., & Lustig, R. (2007).
+Feasibility of a dance videogame to promote weight loss among over-weight children and adolescents. Archives of Pediatrics & Adolescent
+Medicine, 161, 105–107. http://dx.doi.org/10.1001/archpedi.161.1.105-c
+Maloney, A. E., Bethea, T. C., Kelsey, K. S., Marks, J. T., Paez, S.,
+Rosenberg, A. M. ,... Sikich, L. (2008). A pilot of a video game (DDR)
+to promote physical activity and decrease sedentary screen time. Obe-
+sity, 16, 2074–2080. http://dx.doi.org/10.1038/oby.2008.295
+Markland, D. (1999). Self-determination moderates the effects of perceived
+competence on intrinsic motivation in an exercise setting. Journal of
+Sport & Exercise Psychology, 21, 351–361.
+Matthews, C. E., Ainsworth, B. E., Thompson, R. W., & Bassett, D. R., Jr.
+(2002). Sources of variance in daily physical activity levels as measuredby an accelerometer. Medicine and Science in Sports and Exercise, 34,
+1376–1381. http://dx.doi.org/10.1097/00005768-200208000-00021
+Peng, W., Crouse, J. C., & Lin, J.-H. (2013). Using active video games for
+physical activity promotion: A systematic review of the current state ofresearch. Health Education & Behavior, 40, 171–192. http://dx.doi.org/
+10.1177/1090198112444956
+Peng, W., Lin, J.-H., & Crouse, J. (2011). Is playing exergames really
+exercising? A meta-analysis of energy expenditure in active videogames. Cyberpsychology, Behavior, and Social Networking, 14, 681–
+688. http://dx.doi.org/10.1089/cyber.2010.0578
+Peng, W., Lin, J.-H., Pfeiffer, K. A., & Winn, B. (2012). Need satisfaction
+supportive game features as motivational determinants: An experimentalstudy of a self-determination theory guided exergame. Media Psychol-
+ogy, 15, 175–196. http://dx.doi.org/10.1080/15213269.2012.673850
+Przybylski, A. K., Rigby, C. S., & Ryan, R. M. (2010). A motivational
+model of video game engagement. Review of General Psychology, 14,
+154–166. http://dx.doi.org/10.1037/a0019440
+Reeves, B., & Nass, C. (1996). The media equation: How people treat
+computers, television, and new media like real people and places . New
+York, NY: Cambridge University Press.
+Ryan, R. M., & Deci, E. L. (2000a). The darker and brighter sides of
+human existence: Basic psychological needs as a unifying concept.Psychological Inquiry, 11, 319–338. http://dx.doi.org/10.1207/
+S15327965PLI1104_03
+Ryan, R. M., & Deci, E. L. (2000b). Self-determination theory and the
+facilitation of intrinsic motivation, social development, and well-being.American Psychologist, 55, 68–78. http://dx.doi.org/10.1037/0003-
+066X.55.1.68
+Ryan, R. M., Rigby, C. S., & Przybylski, A. (2006). The motivational pull
+of video games: A self-determination theory approach. Motivation and
+Emotion, 30, 344–363. http://dx.doi.org/10.1007/s11031-006-9051-8
+Salmon, J., Owen, N., Crawford, D., Bauman, A., & Sallis, J. F. (2003).
+Physical activity and sedentary behavior: A population-based study ofbarriers, enjoyment, and preference. Health Psychology, 22, 178–188.
+http://dx.doi.org/10.1037/0278-6133.22.2.178
+Silva, M. N., Vieira, P. N., Coutinho, S. R., Minderico, C. S., Matos, M. G.,
+Sardinha, L. B., & Teixeira, P. J. (2010). Using self-determinationtheory to promote physical activity and weight control: A randomizedcontrolled trial in women. Journal of Behavioral Medicine, 33, 110–
+122. http://dx.doi.org/10.1007/s10865-009-9239-y
+Staiano, A. E., Abraham, A. A., & Calvert, S. L. (2012). Motivating effects
+of cooperative exergame play for overweight and obese adolescents.Journal of Diabetes Science and Technology, 6, 812–819.
+Tavakol, M., & Dennick, R. (2011). Making sense of Cronbach’s alpha.
+International Journal of Medical Education, 2, 53–55. http://dx.doi.org/
+10.5116/ijme.4dfb.8dfd
+Tremblay, M. S., Colley, R. C., Saunders, T. J., Healy, G. N., & Owen, N.
+(2010). Physiological and health implications of a sedentary lifestyle.Applied Physiology, Nutrition, and Metabolism, 35, 725–740. http://dx
+.doi.org/10.1139/H10-079This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.1238 PENG, PFEIFFER, WINN, LIN, AND SUTON
+Appendix
+Description of the Self-Determination Theory–Supported Game Features
+Autonomy-Supportive Game Features
+Three game features were manipulated to correspond to the
+concept of autonomy. First, character customization allowed play-ers to personalize their characters in the game. In the autonomysupportive features on condition, players were offered options tochoose the character’s gender and change the character’s appear-ance such as skin tone, hair color, eye color, etc. In the autonomysupportive features off condition, the players were just providedwith a default character matching their biological sex and did nothave the option to customize the appearance of the characters.Second, in the autonomy supportive features on condition, playerscould choose how to donate treasure to different Gods in the altarin exchange for different types of rewards, including increase ofstrength, speed, or damage power for character development. Eachtime the players made a choice in which area they want to developtheir characters, the internal game system would track the statisticsand this would influence how much damage the their game char-acters could endure from the opponents (strength), how fast thetheir game characters could navigate (speed), and how muchdamage their game characters could cast on their opponents (dam-age power). What skills the players chose to improve would becritical, as this provided “skill boost” to their future game play andfuture character performance would largely depends on this. In theautonomy supportive features off condition, players did not havethe choice over donations for character growth. When they founda treasure and picked it up, the game just automatically donated thetreasure to increase speed, strength, and damage power in a se-quential way. Third, players could also choose from a range ofdifferent answers when conversing with other non-player charac-ters in the game if they were in the autonomy supportive gamefeatures on condition. Otherwise, there was only one option in thedialog and thus giving no choice for the player.
+Competence-Supportive Game Features
+Based on SDT and current literature, three features were de-
+signed in this game to support the need satisfaction of competence.First, in the competence supportive features on condition, a dy-
+namic difficulty mechanism would adjust along with players’performance in the game. For example, after a player successfullycompleted a challenge, he or she would be given a more difficultchallenge. Conversely, if a player was struggling, then the subse-quent challenges would be easier. In competence supportive fea-tures off condition, there would be no dynamic difficulty mecha-nism. Therefore, the difficulty level would remain the same,regardless of the players’ performance. Second, a heroism meterwas shown on the screen to reflect how well a player handled thegame and its challenges. Players would receive heroism pointswhen performing well in the game. Conversely, players in thecompetence supportive features off condition would not be able tosee the heroism meter. Third, the game also created various typesof achievement badges for players. Players could earn and browsetheir achievements in the achievement menu of the game. Playersin the competence supportive features off condition were not ableto earn achievements throughout the game.
+Relatedness-Supportive Game Features
+Because of the limitation of the single-player role-playing game,
+our design could not provide real-world social connections withother players. Although the relatedness features in this video gamewere not manipulated optimally, two features were designed toreflect the concept of relatedness. First, the presence of voice-overin the video game created an environment for players to perceivesocial presence. Second, the presence of supportive dialog wasanother feature to increase players’ perceived social support andconnections to the non-player characters in the game.
+Received August 28, 2014
+Revision received May 30, 2015
+Accepted September 4, 2015 /H18546This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.1239 ACTIVE VIDEO GAME INTERVENTION

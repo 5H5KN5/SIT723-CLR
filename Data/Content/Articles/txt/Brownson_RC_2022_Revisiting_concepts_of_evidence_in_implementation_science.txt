@@ -1,0 +1,1909 @@
+Brownson  et al. Implementation Science           (2022) 17:26  
+https://doi.org/10.1186/s13012-022-01201-y
+DEBATE
+Revisiting concepts of evidence 
+in implementation science
+Ross C. Brownson1,2* , Rachel C. Shelton3, Elvin H. Geng4 and Russell E. Glasgow5 
+Abstract 
+Background: Evidence, in multiple forms, is a foundation of implementation science. For public health and clinical 
+practice, evidence includes the following: type 1 evidence on etiology and burden; type 2 evidence on effectiveness 
+of interventions; and type 3: evidence on dissemination and implementation (D&I) within context. To support a vision 
+for development and use of evidence in D&I science that is more comprehensive and equitable (particularly for type 3 
+evidence), this article aims to clarify concepts of evidence, summarize ongoing debates about evidence, and provide 
+a set of recommendations and tools/resources for addressing the “how-to” in filling evidence gaps most critical to 
+advancing implementation science.
+Main text: Because current conceptualizations of evidence have been relatively narrow and insufficiently character -
+ized in our opinion, we identify and discuss challenges and debates about the uses, usefulness, and gaps in evidence 
+for implementation science. A set of questions is proposed to assist in determining when evidence is sufficient for dis-
+semination and implementation. Intersecting gaps include the need to (1) reconsider how the evidence base is deter -
+mined, (2) improve understanding of contextual effects on implementation, (3) sharpen the focus on health equity 
+in how we approach and build the evidence-base, (4) conduct more policy implementation research and evaluation, 
+and (5) learn from audience and stakeholder perspectives. We offer 15 recommendations to assist in filling these gaps 
+and describe a set of tools for enhancing the evidence most needed in implementation science.
+Conclusions: To address our recommendations, we see capacity as a necessary ingredient to shift the field’s 
+approach to evidence. Capacity includes the “push” for implementation science where researchers are trained to 
+develop and evaluate evidence which should be useful and feasible for implementers and reflect community or 
+stakeholder priorities. Equally important, there has been inadequate training and too little emphasis on the “pull” for 
+implementation science (e.g., training implementers, practice-based research). We suggest that funders and review-
+ers of research should adopt and support a more robust definition of evidence. By critically examining the evolving 
+nature of evidence, implementation science can better fulfill its vision of facilitating widespread and equitable adop -
+tion, delivery, and sustainment of scientific advances.
+Keywords: Context, Equity, Evidence, Implementation science
+© The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/. The Creative Commons Public Domain Dedication waiver (http:// creat iveco  
+mmons. org/ publi cdoma in/ zero/1. 0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.Open Access
+*Correspondence:  rbrownson@wustl.edu
+1 Prevention Research Center, Brown School at Washington University 
+in St. Louis, One Brookings Drive, Campus, Box 1196, St. Louis, MO 63130, 
+USA
+Full list of author information is available at the end of the article
+Page 2 of 25 Brownson et al. Implementation Science           (2022) 17:26 
+For every complex problem, there is a solution that is 
+simple, neat, and wrong. — H. L. Mencken
+Contributions to the literature
+• Evidence in multiple forms is a foundation of imple -
+mentation science. We describe multiple types of evi -
+dence including evidence on etiology and burden, 
+effectiveness of interventions, and implementation 
+within context.
+• We highlight what is missing in current literature on 
+evidence and what is needed to more fully capture and 
+characterize key evidence needed for dissemination 
+and implementation research.
+• For all types of evidence and particularly for evidence 
+regarding dissemination and implementation, com -
+plexity and context are essential elements. We provide 
+15 specific recommendations to advance, specify, and 
+broaden the field’s conceptualization and development 
+of evidence.
+• To fill the evidence gaps, we provide a set of tools 
+and resources that begin to map out the “how-to” for 
+accomplishing research needed to inform more equita -
+ble and sustained implementation.
+Introduction
+Evidence, often informed by a complex cycle of obser -
+vation, theory, and experiment [1 ], is a foundation of 
+implementation science [2 , 3]. Evidence is central in 
+part because dissemination and implementation (D&I) 
+science is based on the notion that there are practices 
+and policies that should be widely used because sci -
+entific research concludes that they would have wide -
+spread benefits. In this context, an evidence-based 
+intervention (EBI) is defined broadly to include pro -
+grams, practices, processes, policies, and guidelines 
+with some level of effectiveness [4 ]. Many of the under -
+lying sources of evidence were originally derived from 
+legal settings, taking on multiple forms including wit -
+ness accounts, police testimony, expert opinions, and 
+forensic science [5 ]. Building on these origins, evi -
+dence for public health and clinical practice comes in 
+many forms, across three broad domains [6 –8]: type 
+1: evidence on etiology and burden; type 2: evidence 
+on effectiveness of interventions; type 3: evidence on 
+implementation within context (Table  1). These three 
+types of evidence are often not linear, but intercon -
+nected, iterative, and overlapping—they shape one 
+another (e.g., if we have limited type 2 evidence then 
+the ability to apply type 3 evidence is hampered). Across these three domains, we have by far the most 
+type 1 evidence and the least type 3 evidence [6 , 9].
+Definitions of evidence and the associated processes 
+(how evidence is used) vary by setting. In clinical set -
+tings, evidence-based medicine is “the conscientious, 
+explicit, and judicious use of current best evidence in 
+making decisions about the care of individual patients” 
+[10]. Evidence-based public health occurs across a range 
+of community settings and is “the process of integrating 
+science-based interventions with community preferences 
+to improve the health of populations” [11]. Perhaps most 
+relevant to implementation science, evidence-based deci -
+sion-making is a multilevel process that involves collect -
+ing and implementing the best available evidence from 
+research, practice, professional experience, and clinical 
+or community partners [12–15]. A robust, equitable, and 
+sustainable approach to evidence-based decision-making 
+takes both challenges and strengths into account (e.g., 
+skills, leadership priorities, resources [16–19]) and places 
+scientific evidence and stakeholder engagement in the 
+center of the decision-making process [20].
+For all types of evidence and particularly for type 3 evi -
+dence regarding D&I, complexity and context are essen -
+tial elements [21–23]. Both PCORI [24, 25] and a recent 
+update to the MRC guidance [26] have provided state -
+ments about researching complex health interventions 
+that provide excellent recommendations and resources. 
+We concur with most of these recommendations and add 
+to their points and recommendations in this article. The 
+most effective approaches often rely on complex inter -
+ventions embedded in complex systems (e.g., nonlinear, 
+multilevel interventions) where the description of core 
+intervention components and their relationships involve 
+multiple settings, audiences, and approaches [26–28]. 
+Type 3 evidence is also highly context-dependent—the 
+context for implementation involves complex adaptive 
+systems that form the dynamic environment(s) in which 
+discrete interventions and interconnected implementa -
+tion processes are situated [29]. For example, in models 
+such as the Dynamic Sustainability Framework, the EBI 
+is embedded in the context of multiple factors in a prac -
+tice setting (e.g., staffing, organizational climate) which is 
+in turn embedded in a broader ecological system with a 
+complex set of variables (e.g., policy, regulations, popula -
+tion characteristics) [30]. This embeddedness also should 
+take into account dynamism—that an EBI may stay true 
+to its original function but need to evolve form over time 
+to adapt to changing population needs, new evidence, 
+and the “fit” of evidence with complex and changing con -
+text [ 30–32].
+Much has been written about the terminology of evi -
+dence-based practice and policy. The most widely used 
+Page 3 of 25
+ Brownson et al. Implementation Science           (2022) 17:26 
+ 
+Table 1 Selected terminology related to evidence and implementation science
+Type Element Definition Sample indicators and outcomes
+Type 1 evidence: Etiology and burden Descriptive epidemiology The study of the occurrence of disease or other 
+health-related characteristics in human popula-
+tions, often classified under the headings of person, 
+place, and time.Incidence, prevalence mortality
+Burden The impact of disease on a population Excess risk in patients, populations, subgroups, costs
+Access The ability to connect patients to healthcare practi-
+tioners and healthcare servicesIncidence of preventable diseases, early detection, 
+treatment
+Disparity A particular type of health difference that is closely 
+linked with economic, social, or environmental 
+disadvantageIncidence, prevalence mortality
+Etiology The study of the causes of diseases Effect sizes and other indicators of effect
+Social determinants and structural factors Conditions in which people are born, grow, live, 
+work, and age as well as the complex, interrelated 
+social structures, and economic/political systems 
+that shape these health outcomes and conditionsEffect sizes and other indicators of effect
+Type 2 evidence: Effectiveness of interventions Effectiveness of interventions (programs, 
+guidelines, and policies)Activities designed to assess, improve, maintain, 
+promote, or modify health, health behaviors, func-
+tioning, or health conditionsEffect sizes and other indicators of effect (including 
+heterogeneity of results)
+Effectiveness of healthcare The study of the structure, processes, and organiza-
+tion of healthcare servicesPerformance, quality, effectiveness, efficiency, patient 
+centeredness, equity, safety
+Practice guidelines A standardized set of information based on scien-
+tific evidence of the effectiveness and efficiency 
+of the best practices for addressing health issues 
+commonly encountered in public health or clinical 
+practice.Recommendation (e.g., recommended, not recom-
+mended, insufficient evidence), applicability across 
+populations and settings
+Economic evaluation The comparative analysis of alternative courses of 
+action in terms of both their costs and conse -
+quence (e.g., cost-effectiveness analysis)Intervention and implementation strategy costs, 
+cost-effectiveness ratio, return on investment, budget 
+impact analyses, opportunity and replication costs
+Page 4 of 25 Brownson et al. Implementation Science           (2022) 17:26 
+Table 1 (continued)
+Type Element Definition Sample indicators and outcomes
+Type 3 evidence: Implementation and context Context A set of circumstances or unique factors related to 
+the setting or community that surround a particular 
+implementation effortPolicies, regulations, incentives, changes in priorities, 
+setting factors, organizational characteristics, history, 
+social, and environmental factors
+External validity The extent to which inferences reported in one 
+study can be applied to different populations, set -
+ting, treatments, and outcomesStaff participation, setting participation, representa-
+tiveness by geography and population, cost
+Implementation strategy The processes or methods, techniques, activities, 
+and resources that support the adoption, integra-
+tion, and sustainment of evidence-based interven-
+tions into usual settings (e.g., ERIC taxonomy)Acceptability, adoption, appropriateness, cost, feasi-
+bility, cost, penetration, sustainability
+Implementation mechanism The process or event through which an implemen-
+tation strategy operates to affect desired imple -
+mentation outcomesAcceptability, adoption, appropriateness, cost, feasi-
+bility, cost, penetration, sustainability
+Equity in implementation The degree to which explicit attention is paid to the 
+culture, history, values, and needs of the commu-
+nity during implementation, including any social 
+and structural factors that may contribute to health 
+inequities and equitable or inequitable implemen-
+tationInequities or differences across settings or popula-
+tions in acceptability, adoption, appropriateness, cost, 
+feasibility, reach, implementation delivery/fidelity, 
+penetration, sustainability; social determinants (e.g., 
+living conditions, socioeconomic indicators) unin-
+tended consequences related to implementation
+Adaptation The degree to which an evidence-based inter -
+vention is changed or modified by a user before, 
+during, and after adoption and implementation to 
+(a) suit the needs of the setting/local conditions; (b) 
+respond to emerging evidence; or (c) respond to 
+changing contextFit with recipients, reach, data, resources, capacity, 
+satisfaction, engagement
+Replication and transportability The ability to transfer an evidence-based inter -
+vention to a new setting, balancing fidelity with 
+adaptationAcceptability, adoption, appropriateness, cost, feasi-
+bility, cost, penetration
+Scale-up The ability to expand the coverage of successful 
+interventions, including the financial, human, and 
+capital resources necessary for the expansionUsability, utility, feasibility, fidelity, adoption
+Sustainability The ability to create structures and processes to 
+allow an implemented EBI to be maintained and 
+adapted in an organization or system and continue 
+to produce benefits over timePenetration, institutionalization, normalization, inte -
+gration, capacity, infrastructure, costs, maintenance 
+of EBI/strategy delivery, and/or continuation of health 
+benefits
+Page 5 of 25
+ Brownson et al. Implementation Science           (2022) 17:26 
+ 
+term is “evidence-based” practice (often evidence-based 
+medicine [33, 34] or evidence-based public health [7 , 
+35]). Especially in Canada and Australia, the term “evi -
+dence-informed” decision-making is commonly used 
+[15, 36]. The term “informed” is used to emphasize that 
+public health decisions are based on research but also 
+require consideration of individual preferences and 
+political and organizational factors [37, 38]. Others have 
+used the term “knowledge-based practice” or “prac -
+tice-based evidence” or “practice-relevant evidence” 
+to emphasize the importance of practice wisdom from 
+frontline practitioners and lived experience of patients 
+and community members [39– 43]. To maximize the 
+use of EBIs, research should inform practice and prac -
+tice should inform research [44]. In our view, the most 
+important issue is not which term to use, but rather 
+that implementation decisions should be based on and 
+informed by evaluation and research findings, while 
+using rigorous methods to take into account a variety of 
+contextual variables across multiple levels of influence 
+(Table 2 ).
+Fundamental issues for implementation science 
+involve the questions: (1) evidence on what and for 
+whom in what settings and under what conditions? and 
+(2) When do we have enough evidence for D&I? While 
+the answer to this latter question will always be “it 
+depends, ” there are related questions that are useful to 
+consider (Table 3 ).
+To facilitate the development and delivery of more 
+equitable and sustainable interventions, we need to 
+expand our thinking about evidence, especially for 
+but not limited to type 3 evidence. We discuss a set of 
+five core interrelated issues about evidence, examining 
+(1) how the evidence base is determined, (2) context, 
+(3) health equity, (4) policy implementation, and (5) 
+audience/stakeholder perspectives. All areas concern 
+some form of research or knowledge gaps in D&I sci -
+ence. The evidence base discussion presents a broader 
+perspective on what is considered evidence; the con -
+text, equity, and stakeholder sections cover neglected 
+aspects of implementation science in need of more and 
+higher quality research; and the policy implementation 
+section points to the need for the most pressing gaps 
+in policy-relevant research for D&I. Across these areas, 
+we provide a series of recommendations along with 
+tools and resources for speeding translation of research 
+to practice and policy.
+Selected debates about evidence
+Here, we describe ongoing discussions and debates about 
+the uses, usefulness, and gaps in evidence for implemen -
+tation science, which give way to our recommendations 
+(Table  4). While this is not an exhaustive list, it illustrates the need for more reflection and clarity across five core areas 
+where there are major unresolved issues about evidence.
+Reconsider how the evidence base is determined
+The evidence base for implementation science needs 
+to be broadened to encompass a wider range of study 
+designs, methods, stakeholders, and outcomes. For exam -
+ple, the decontextualized randomized controlled efficacy 
+trial (RCT) that attempts to control for many potential 
+confounding factors is generally considered the gold 
+standard for obtaining evidence on internal validity and 
+contributing to the determination of causality of a given 
+intervention, practice, or treatment [45]. A property of an 
+RCT is that, with large sample sizes, it allows researchers 
+to potentially balance known and unknown confound -
+ers. Despite the value and conceptual simplicity of the 
+traditional efficacy RCT, its limitations have been noted 
+[46–48]. For example, randomization may be impractical, 
+costly, or unethical for some interventions (e.g., commu -
+nity-based interventions where partners have concerns 
+about withholding a program from the community) and 
+for many policy interventions, where the independent 
+variable (the “exposure”) cannot be randomized. Tools 
+such as PRECIS-2 and the newer PRECIS-2 PS help 
+enhance the real-world utility of RCTs (pragmatic trials) 
+[49, 50]. For some settings and interventions, alternative 
+and more rapid-cycle and adaptive designs are needed 
+to elucidate effects including quasi-experiments, obser -
+vational trials, iterative assessments and actions, natu -
+ral experiments, and mixed-methods studies [51–55]. 
+Often in implementation science what we want to know 
+is how one strategy adds to a range of strategies already 
+being delivered within an existing environment a concept 
+called “mosaic effectiveness” [56].
+For clinical and public health practice, the generalizabil -
+ity of an EBI’s effectiveness from one population and setting 
+to another (and ideally across a diverse range of populations 
+and settings)—the core concept of external validity—is an 
+essential ingredient. Systematic review and practice guide -
+lines, which are often the basis for an implementation study, 
+are mainly focused on whether an intervention is effective 
+on average (internal validity) and have commonly given 
+limited attention to specifying conditions (settings, popula -
+tions, circumstances) under which a program is and is not 
+effective [57– 59]. For implementation science, there are 
+many considerations and layers to the notion of whether 
+an evidence-based practice applies in a particular setting or 
+population [59]. Tools such as ADAPT [60] or process mod -
+els like ADAPT-ITT [61] can be useful in transferring EBIs 
+from one setting to another while taking contextual vari -
+ables into account. Models such as FRAME and FRAME-
+IS are helpful for tracking and building the evidence base 
+around what types of adaptations are associated with 
+Page 6 of 25 Brownson et al. Implementation Science           (2022) 17:26 
+improved or decreased effectiveness or implementation 
+outcomes (and for which settings and populations?) [62, 63].
+The question of whether an EBI applies involves a set 
+of scientific considerations that may differ from simply knowing average treatment effects. These include bal -
+ancing of fidelity to the original EBI functions with 
+adaptations needed for replication and scale-up [64], as 
+well as considerations as to when there may be a need Table 2 Contextual variables for implementation across ecological levels
+It is not anticipated that any single study would address this full list of variables; rather, this is a set of examples that can be described and narrowed via review of the 
+literature, formative research, and stakeholder engagement
+a Basic human needs include food, shelter, warmth, safetyEcological level Examples
+Individual Education level
+Race/ethnicity/age/gender
+Geography/rurality
+Basic human  needsa
+Personal health history
+Readiness/motivation to undergo testing or therapy
+Literacy and numeracy
+Trust, mistrust, distrust
+Stigma
+Stress and distress
+Resilience
+Genotype and phenotype
+Motivation
+Values
+Interpersonal Family health history
+Support from peers
+Social capital
+Social networks
+Social support from family, friends, coworkers, health-
+care providers
+Organizational Staff composition
+Staff expertise, experience, and skills
+Physical infrastructure
+Organizational and financial resources
+Organizational climate and culture
+Leadership
+Degree of participatory decision-making
+Density of organizational ties
+Centrality of agencies in a community
+Institutional racism
+Psychological safety
+Mission and priorities
+Guidelines and incentives
+Processes and procedures
+Training and retraining
+Norms
+Stability
+Socio-cultural and community Social norms and values
+Cultural norms, values, traditions
+Health equity
+History
+Societal stigma
+Community capacity, priorities, assets
+Local resources and investments
+Structural racism
+Shared mental models
+Neighborhood characteristics
+Access to healthcare and health promoting resources
+Political and economic structures and systems Societal values
+Political will
+Political ideology
+Lobbying and special interests
+Costs and benefits
+Professional guidelines
+Policies and regulations (both Big P and small p)
+Page 7 of 25
+ Brownson et al. Implementation Science           (2022) 17:26 
+ 
+to “start from scratch” in developing a new intervention 
+as opposed to refining or adapting an existing one (e.g., 
+when the nature of the evidence for an EBI does not fit 
+the sociocultural or community context). There is a press -
+ing need for research on the strengths and limitations of 
+practitioner-driven and community-centered adaptation 
+of EBIs, which is likely to enhance relevance, feasibility, 
+and sociocultural appropriateness and acceptability, as 
+well as fit with implementation context [65–67]. There 
+are also potential considerations when adapting EBIs or 
+implementation strategies (e.g., costs, resources needed, 
+potential reduction in effectiveness) [63, 68, 69]. It has 
+also been suggested that a greater emphasis is needed on 
+both the functions of an intervention (its basic purposes, 
+underlying theoretical premise) and forms (the strategies 
+and approaches used to meet each intervention func -
+tion) [64], opening the door to inquiry about how fidel -
+ity to function may demand adaptations (or in some cases 
+transformation or evolution) in form.
+Additional evidence is needed on the inter-related 
+concepts of null (ineffective) interventions, de-imple -
+mentation, and mis-implementation [70–72]. From null 
+intervention results, we can learn which parts of an EBI 
+or implementation strategy need to be refined, adapted, 
+or re-invented. Data on null interventions also informs 
+for whom and under what conditions an EBI or imple -
+mentation strategy is “evidence-based. ” De-implementa -
+tion is the process of stopping or abandoning practices 
+that are not proved to be effective or are possibly harm -
+ful [73], whereas mis-implementation involves one or 
+both of two processes: the discontinuation of effective 
+programs and the continuation of ineffective practices in 
+public health settings [70]. Many of the contextual vari -
+ables in Table  2 strongly affect de-implementation and 
+mis-implementation.
+Emerging perspectives in data science and causal infer -
+ence may help advance type 3 evidence. If contextual 
+heterogeneity is the norm, then the scientific task in any 
+one study population is to produce data that address relevance across diverse external settings. Useful meth -
+ods to do so are becoming available and suggest that the 
+more we know about mediators/mechanisms and modi -
+fiers of effects in implementation, the more interpretable 
+findings could be in different settings and populations 
+[74–76]. For example, consider the question of whether 
+evidence for audit and feedback on the use of EBIs in 
+HIV clinics from randomized trials in Boston could apply 
+to HIV clinics in Nairobi, Kenya. Let us assume that in 
+Boston, researchers learn that the credibility of the data 
+is a key driver of successful implementation (e.g., clini -
+cians who doubt the veracity of metrics from the elec -
+tronic health record are less likely to respond). Given the 
+widespread challenges of data accuracy in the nascent 
+electronic health records in this specific setting in Africa 
+(and extensive literature documenting this challenge), 
+audit and feedback as an implementation strategy can be 
+anticipated to have limited implementation relevance as 
+well as effectiveness. Using data from Boston to infer (in 
+this case that it might not work) in Nairobi depends on 
+knowing critical mediators of audit and feedback in Bos -
+ton (i.e., the credibility of data on provider performance). 
+In some situations, a completely different implementa -
+tion strategy may be needed that is better suited to local 
+conditions. One further implication is that this directs 
+research efforts to not only find effects in Boston, but 
+how they came about (type 3 evidence).
+Improve understanding of contextual effects 
+on implementation
+The complexity and dynamic nature of implementation 
+necessitate continual attention to context (i.e., active and 
+unique factors that surround implementation and sus -
+tainability [77, 78]) [22, 79, 80]. When context is taken 
+into account in research, the study findings are more 
+likely to indicate the conditions under which evidence 
+does or does not generalize to different populations, 
+settings, and time periods [23]—yet too often context 
+is inadequately described or not fully elucidated [81]. Table 3 Determining when evidence is sufficient for dissemination and implementation
+° How pressing is the health issue?
+° Is there an EBI? If so, what is the quality and quantity of evidence on the EBI?
+° How long will it take to develop the evidence base?
+° Are there emerging or established health equity issues?
+° If the study addresses social or structural determinants, might multiple health conditions benefit?
+° Is the issue a priority among stakeholders? How many? Which ones?
+° Are you equipped to measure a range of contextual variables?
+° Are there resources to implement a study?
+° Might a hybrid trial that addresses both effectiveness and implementation, be appropriate?
+° Is there implementation already happening that you might evaluate?
+° Is action going to be taken regardless of whether the program or policy is evidence-based or not?
+° What are the consequences of not implementing?
+° What are the consequences of getting it wrong?
+Page 8 of 25 Brownson et al. Implementation Science           (2022) 17:26 
+Table 4 Recommendations to advance evidence and implementation science
+Domain Recommendation Rationale Potential solutions Actorsa
+Evidence base 1. Use an evidence typology rather than an evidence 
+hierarchyThe choice and strength of study design is dependent 
+on the research questions and setting, particularly the 
+context for the study• Identify and implement alternatives and modifica-
+tions (e.g., natural experiments; interrupted time series, 
+adaptive designs, systems modeling, mixed methods, 
+participatory modeling, multi-level pragmatic trials, 
+policy implementation) to the efficacy RCT 
+• Match the research question with the study design, 
+balanced with considerations of rigor and pragmatism• Funders
+• Researchers
+• Policy  makersb
+2. Increase focus on practice-based and community-
+defined evidenceMuch of the existing evidence base is developed by 
+university researchers in high-resource settings• Strike a better balance between explicit (research) 
+knowledge and tacit (lived experience) knowledge
+• Conduct practice-based research, particularly for 
+low-resource settings and settings that face numer -
+ous structural and social impediments to health and 
+well-being
+• Engage multi-level stakeholders and practice-based 
+partners in substantive and meaningful ways in the 
+context of and beyond research and research grants, 
+including identifying stakeholder prioritized issues and 
+outcomes• Funders
+• Researchers
+• Practitioners
+3. Speed the pace of evidence development The research enterprise (review processes, conduct -
+ing research, publishing and disseminating research) 
+moves slowly, often much more slowly than practice 
+and policy• Conduct rapid reviews/living syntheses (so-called 
+living meta-analyses)
+• Use rapid methods, designs, analyses
+• Bring together practitioners, researchers, community 
+members, and policy makers to identify promising 
+innovations in need of evaluation (including realist 
+evaluation)
+• Reorient funding mechanisms to be more adaptive 
+and flexible, and to support rapid-cycle evaluation 
+(e.g., quick addition of measures to existing studies)• Funders
+• Researchers
+• Practitioners
+• Policy makers
+4. Address potential biases in implementation Biases are often present in small scale studies that are 
+not taken into account in larger studies or studies do 
+not account for context• Reconfigure small scale studies to account for gener -
+alizability biases (bias in intervention intensity, imple -
+mentation support, delivery agent, target audience, 
+duration, setting, measurement, resources required, 
+directional conclusion, outcome)
+• Specify which communities, organizations, staff, and 
+individuals are included and which are excluded and 
+why at multiple levels and stages of a study, and their 
+characteristics• Researchers
+• Practitioners
+Page 9 of 25
+ Brownson et al. Implementation Science           (2022) 17:26 
+ 
+Table 4 (continued)
+Domain Recommendation Rationale Potential solutions Actorsa
+Context 5. Document ways in which context drives implemen-
+tationWhen context is taken into account in research, study 
+findings are more applicable to different populations, 
+settings, and time periods• Employ new theories, models, and frameworks (e.g., 
+Normalization Process Theory) to understand context, 
+including ones outside the field of implementation 
+science that address social and community context 
+in depth
+• Use mixed-methods and user-centered design 
+approaches to study context, particularly at organiza-
+tional, community, policy, and society levels
+• Define and apply contextual variables that lead to 
+effective replication and may facilitate sustainability 
+and scale-up
+• Investigate mechanisms of implementation strategies 
+to enable greater generalization into different contexts• Researchers
+• Practitioners
+6. Further develop pragmatic methods and measures 
+to assess and address contextPragmatic methods show promise by engaging 
+multiple stakeholders, heterogeneous settings, and 
+real-world conditions• Make use of pragmatic measures (e.g., those that are 
+user-friendly, sensitive to change, low cost, important 
+to practitioners)
+• Apply pragmatic tools such as PRECIS-2 PS
+• Make use of guidelines to develop and evaluate 
+complex interventions (e.g., the MRC guidance)• Researchers
+• Practitioners
+7. Apply lessons from LMICs and other low-resource 
+settingsThere are particular challenges and opportunities for 
+development of new evidence in LMICs• Document and seek to replicate conditions under 
+which innovations emerge and thrive
+• Apply principles of transportability research across 
+different countries and diverse settings that have a 
+range of capacity, resources, and infrastructure
+• Apply findings from task shifting research• Funders
+• Researchers
+• Practitioners
+8. Further develop the science of adaptation The process of modifying and refining EBIs and imple -
+mentation strategies has not been well documented 
+and understood• Apply tools such as FRAME, FRAME IS, and other 
+emerging coding systems to address and study key 
+considerations in adaptation (e.g., when and how 
+adaptations occur, whether planned or unplanned, 
+their impact)
+• Use adaptation process models to guide cultural and 
+contextual adaptations to address fit and dynamic 
+context, while also remaining true to the original 
+function
+• Better link implementation with the field of cultural 
+adaptation to enhance the reach and equity of EBIs
+• Investigate ways of guiding adaptations that center 
+on equity and investigate contexts in which EBIs 
+may be adapted successfully versus when new EBIs 
+may need to be developed to address specific health 
+issues, historical experiences of populations, or socio -
+cultural contexts• Funders
+• Researchers
+• Practitioners
+Page 10 of 25 Brownson et al. Implementation Science           (2022) 17:26 
+Table 4 (continued)
+Domain Recommendation Rationale Potential solutions Actorsa
+Health equity 9. Place greater emphasis on social determinants and 
+structural factors that shape health inequities and 
+inequitable implementationMuch of the evidence base is narrowly developed 
+on diseases and risk behaviors, neglecting root and 
+structural causes; many EBIs have not been evaluated 
+among populations and settings experiencing inequi-
+ties• Show the value and impact of interventions that 
+address health equity, root causes, and social deter -
+minants
+• Include structural racism and other equity relevant 
+structural factors (economic inequality, stigma) in 
+measures, frameworks, and models in assessing 
+context and barriers/facilitators to implementation, or 
+in planning for implementation
+• Map the pathways and mechanism through which 
+upstream interventions operate to impact more 
+proximal downstream factors and ultimately health 
+inequities
+• Identify interventions that consider social context, 
+prioritize community priorities, and build off existing 
+community strengths/assets• Funders
+• Researchers
+• Practitioners
+10. Integrate equity-relevant methods and measures Equity has been under-addressed in implementation 
+science and should be a feature of all studies• Develop and apply models and frameworks that 
+place a central focus on equity in both determinants 
+and outcomes
+• Determine how well existing implementation 
+strategies apply to a range of diverse populations and 
+settings facing social and health inequities
+• Explicitly measure and track health equity, health 
+inequities, and their determinants (structural racism) 
+and how they are reduced or exacerbated by EBIs/
+strategies
+• Consider and track differential indicators of imple -
+mentation (e.g., reach, feasibility, acceptability, appro -
+priateness, adoption, implementation, sustainability) 
+across different social groups (e.g., by race, ethnicity, 
+age, gender, sexual orientation) or settings (e.g., urban, 
+rural)
+• Prioritize equity indicators and determinants based 
+on community and stakeholder input.• Funders
+• Researchers
+• Practitioners
+Page 11 of 25
+ Brownson et al. Implementation Science           (2022) 17:26 
+ 
+Table 4 (continued)
+Domain Recommendation Rationale Potential solutions Actorsa
+Policy implementation 11. Expand the scope of policy implementation 
+researchDespite its potential impact, there are many gaps in 
+policy implementation research• Focus on structural interventions and community-
+defined interventions and policies and consider both 
+health and social policies (that have health impacts)
+• Determine ways in which to build equity in all poli-
+cies
+• Study how the meaning of evidence and processes 
+are shaped via the interactions between policy imple -
+mentation and practice change
+• Develop reliable and valid measures for policy 
+implementation• Funders
+• Researchers
+• Policy makers
+12. Apply concepts from other fields to policy imple -
+mentation researchOther disciplines (e.g., political science, law, sociology) 
+have a long history of policy research that is relevant 
+to implementation scientists• Apply theories from other fields to policy implemen-
+tation in health
+• Use principles of team science to build new and 
+vibrant transdisciplinary teams
+• Seek to understand the culture, norms, processes, 
+and context of policy makers• Researchers
+• Policy makers
+13. Expand knowledge of the spread of policy-relevant 
+informationFor effective dissemination of policy information, 
+tailoring of messages and channels is needed• Compare different messaging strategies for policy 
+makers (e.g., social good versus cost-savings, return on 
+investments)
+• Expand knowledge of the role of social media in 
+policy implementation research (e.g., disseminating 
+research, understanding the socio-political environ-
+ment)
+• Expand knowledge on how to combat mis- and dis-
+information in policy implementation• Researchers
+• Policy makers
+Audience differences 14. Apply principles of audience segmentation and 
+human-centered  or user-centered designImplementation research can be informed by audi-
+ence segmentation principles, which were developed 
+outside the health sector• Select and describe characteristics of discrete audi-
+ences for dissemination and implementation
+• Engage community members/patients as a core 
+audience with a commitment to return research 
+evidence to those affected
+• Develop messages and channels of high salience 
+to various stakeholders (e.g., visually appealing, brief 
+summaries for policy makers)
+• Apply audience segmentation approaches from the 
+marketing world• Researchers
+• Practitioners
+15. Apply principles of framing and other communica-
+tion strategiesIndividuals interpret the same data in different ways 
+depending on the mental model through which they 
+perceive information• Compare the effectiveness of gain versus loss framing 
+to various audiences
+• Identify ways in which framing in policy advocacy 
+can be applied to implementation science
+• Apply principles of narrative communication to 
+framing to turn scientific evidence into meaningful 
+narratives for specific audiences• Funders
+• Researchers
+• Policy makers
+a Individuals, groups, and community partners most likely to take action to address the recommendation
+b Policy makers include those addressing both Big P and small p policies
+Page 12 of 25 Brownson et al. Implementation Science           (2022) 17:26 
+Contextual conditions also drive and inform the adapta -
+tion of EBIs to populations and settings that differ from 
+those in which it originally developed [82]. It is useful to 
+consider contextual issues of relevance for implementa -
+tion across levels of a socio-ecological framework (indi -
+vidual, interpersonal, organizational, community, policy) 
+(Table 2) [79].
+The challenging scientific task of “unpacking” context 
+requires three activities. First, contextual effects in any 
+study setting or across settings and/or systems should be 
+enumerated (e.g., a set of variables in Table  2). Second, 
+since one cannot measure everything, part of building 
+the evidence base involves determining which aspects of 
+context are most salient for implementation within and 
+across settings. Third, implementation research should 
+also seek to measure the presence, distribution, and 
+intensity of those contextual factors in target settings 
+in which a research study is not being undertaken, but 
+where one might want to apply evidence.
+Within an implementation research project, context 
+is dynamic and should be assessed across all stages of 
+a study [83]. Too often, dynamic contexts are not fully 
+understood or assessed [30]. In some cases, the con -
+text for delivery (e.g., a particular clinical setting) is 
+relatively stable, but the target of the intervention (e.g., 
+a particular pathophysiology; guidelines for cancer 
+screening) is dynamic and emergent. In a more com -
+plex intervention trial, both context and targets are 
+dynamic and emergent [22, 84].
+During implementation planning, a needs and assets 
+assessment (formative research) should account for his -
+torical, cultural, social, and system factors that may 
+shape implementation and the implementation climate, 
+including forms of structural or institutional racism (e.g., 
+inequitable practices and policies), medical mistrust, 
+institutional and providers’ biases and norms that may 
+create or reinforce biases or inequities, as well as com -
+munity strengths and assets that may inform implemen -
+tation efforts. Tools such as critical ethnography can be 
+useful during needs assessment to understand interac -
+tions between the ensembles of actors, agencies, inter -
+ventions, and other contextual variables [85]. When 
+selecting EBIs to be tested in an implementation study, 
+context may affect both internal validity and external 
+validity. Systematic reviews, which are often the source of 
+EBIs, use a relatively narrow hierarchy of evidence [86] 
+and tend to strip out implementation context when try -
+ing to make a summary (often quantitative) judgement 
+about the average effectiveness of an EBI (e.g. for most 
+populations and settings). For many settings in which we 
+are conducting implementation studies (e.g., lower- and 
+middle-income countries [87]), we may not have a strong 
+evidence base, guidelines, or interventions that have been tested through “gold-standard” RCTs and if they have, 
+they are often not under conditions similar to those in 
+which the EBI will now be applied.
+Context in global settings presents unique considera -
+tions, particularly in lower- and middle-income countries 
+(LMICs) and other settings that have limited resources 
+and face numerous structural barriers to health (e.g., in 
+the USA, federally qualified health centers, donor-funded 
+vertical health programs in lower- and middle-income 
+countries). Among the considerations is the relevant evi -
+dence base for implementation—when settings vary tre -
+mendously, particularly the social and political context 
+and systems/organizational infrastructure: Do research -
+ers and implementers need to start anew in building the 
+evidence base for implementation, answering many of 
+the questions in Table  3? There is some evidence that in 
+settings with constrained resources, intervention and 
+methods innovations may be fostered due to the need for 
+creativity and adaptations (e.g., task shifting [88]) when 
+choices are restricted [89]). Adaptive designs (where 
+interventions and strategies are modified in response to 
+emerging data) may be particularly useful in LMICs since 
+they may allow a team to begin with low-intensity/low-
+resource approaches, and refine or intensify as needed 
+[90–92].
+Transportability theory has been applied to assess 
+whether findings about the effects of an implementation 
+strategy in one setting can be used to infer in another, 
+and if so, whether it is likely to work [93]. Context, when 
+defined narrowly as the causes of an outcome that differ 
+from one setting to another, asks science to focus on two 
+measurement tasks. In the initial context where a strategy 
+is being tested, it will be important to measure the steps 
+that mediate or moderate the effects of the strategy on 
+the outcome as well as factors that influence those steps. 
+Hypotheses not only about effects but also about how 
+and why they occur across diverse settings are important 
+to inform the measurement architecture.
+Context is also important during the process of broader 
+dissemination of evidence-based approaches. There is 
+a well-documented disconnect between how research -
+ers disseminate their findings (including EBIs) and how 
+practitioners and policy makers learn about the latest 
+evidence [14]. Applying principles of designing for dis -
+semination (D4D) allows researchers to better account 
+for the needs, assets, priorities, and time frames of 
+potential adopters and stakeholders [94, 95]. An active 
+D4D process emphasizes the design phase of an imple -
+mentation research project. A D4D process anticipates 
+dissemination of products (e.g., an evidence-based imple -
+mentation strategy) by developing a dissemination plan 
+that takes into account audience differences, product 
+messaging, channels, and packaging  [96]. In the future, 
+Page 13 of 25
+ Brownson et al. Implementation Science           (2022) 17:26 
+ 
+this proactive D4D process could usefully more fully 
+address designing for equity and sustainment, as well as 
+dissemination.
+Sharpen the focus on health equity
+Addressing heath disparities and promoting health 
+equity is becoming a more central and explicit focus of 
+implementation science [92, 97–102]. Health equity is 
+a framing that shifts from a deficits approach (dispari -
+ties) to one focused on what society can achieve (equity) 
+[103]. An equity focus also recognizes the unjust nature 
+of inequities, naming root/structural causes [104]. This 
+emphasis is documented in publication trends over 
+the past two decades. Figure  1 shows trends of publi -
+cations from January 1, 2000, to December 31, 2021, 
+using two search strings in PubMed: 1) “health dispari -
+ties” AND [“implementation science” OR “implementa -
+tion research” or “knowledge translation”] and 2) “health 
+equity” AND [“implementation science” OR “implemen -
+tation research” or “knowledge translation”]. For most 
+of the past two decades, research has been framed more 
+often with a disparities focus than with an equity focus—
+disparity publications were two- to three-fold more com -
+mon than equity articles from 2006 to 2014. However, in 
+2021, the number of equity-framed publications greatly 
+exceeded the number of disparities-framed publications.
+To move towards the goal of achieving health equity, 
+it is critical that implementation science expands the 
+quantity, quality, and types of evidence produced and prioritized, as well as who and what settings are (1) 
+reflected in that evidence (representativeness) and (2) 
+involved in its generation and interpretation (represen -
+tation). For many health conditions and populations, we 
+have adequate descriptive (type 1) data that can guide 
+what to address (e.g., the size and nature of disparities). 
+However, we often lack sufficient data on EBIs and strate -
+gies that are effective in reducing inequities and/or pro -
+moting equity [92]. Often, available EBIs inadequately 
+address or account for many relevant social, cultural, 
+structural, and contextual conditions that shape both 
+health inequities and have implications for EBI imple -
+mentation [92, 105, 106]. There are challenges in generat -
+ing evidence on inequities, including potentially smaller 
+sample sizes across various social dimensions through 
+which inequities exist, which may limit subgroup hetero -
+geneity analyses (e.g., by race or ethnicity) [107, 108] (see 
+Table  2). As we build the evidence base of EBIs to actively 
+promote equity, there is a need to understand the core 
+elements of equity-focused interventions and strategies, 
+and to do so for the range of social dimensions through 
+which health inequities may exist (e.g., race, immigra -
+tion status, gender, sexual orientation, location) and their 
+intersection [109].
+A foundational challenge here is that many EBIs were 
+not developed with or tested among settings or popula -
+tions that experience inequities or with the goal of pro -
+moting health equity and may unintentionally contribute 
+to or exacerbate inequities [110–112]. This results in part 
+Fig. 1 Number of annual publications on health disparities and health equity
+Page 14 of 25 Brownson et al. Implementation Science           (2022) 17:26 
+from the reductionist way in which EBIs are often devel -
+oped, deployed (a linear, “cause and effect” approach), 
+and tested [113], paying inadequate attention to the com -
+plex and interrelated social determinants of health and 
+root causes of health inequities (e.g., structural racism, 
+inequitable allocation of resources and opportunities) 
+[114–118].
+We need to engage a wider range of partners from lower 
+resource settings earlier and throughout the research 
+process and in meaningful ways to build a broader and 
+more relevant array of equity-focused EBIs that are fea -
+sible, acceptable, culturally appropriate, and address root 
+causes. We also need to expand what we “count” as EBIs 
+in public health and clinical research, broadening the 
+focus from a narrower view of individual, interpersonal, 
+and organizational interventions, to also include com -
+munity, policy, and multi-sector interventions that have 
+the potential to make larger shifts in health inequities. 
+Such broadening of evidence with an eye towards health 
+equity will consider moving beyond a more singular 
+focus on our EBI repositories and including and evaluat -
+ing existing promising community-defined evidence and 
+interventions [92, 119, 120]. In expanding the evidence-
+base with the goal of promoting health equity, there are 
+significant opportunities to develop and deploy EBIs in 
+sectors outside of health (e.g., schools, workplaces, social 
+services agencies, juvenile justice settings) where in many 
+cases, the reach and impact can be greater than in the 
+health sector [121]. Additionally, as we expand this evi -
+dence base, it may be beneficial to prioritize development 
+and evaluation of interventions, practices, and policies 
+that can reduce underlying structural and social factors 
+(e.g., structural racism) and their downstream effects on 
+health inequities [120].
+Equity should be a core criterion for valuing evidence. 
+This value statement should be reflected in priorities 
+of funders, how research questions are framed, how 
+research resources and decision-making are distributed, 
+and how studies are conducted, evaluated, and reviewed. 
+Implementation science has a role in recognizing that a 
+negative consequence of our social and economic sys -
+tems is the concentration of resources and health. These 
+systems create inequities, so when thinking about clos -
+ing an implementation gap, we should recognize the 
+context—that such a gap is often an outgrowth of these 
+systems and must be addressed and transformed. Equity 
+needs to be prioritized and made more explicit as part 
+of engagement efforts, which includes consideration of 
+power imbalances (who is and is not involved in mak -
+ing key decisions) and timing of when and how partners 
+are engaged (e.g., who is involved in EBI development 
+and deployment, how communities are reflected in co-
+creating the evidence) [95, 120]. Reflection questions and step-by-step guidance can help guide study planning with 
+an equity focus [102, 120].
+Conduct more policy implementation research 
+and evaluation
+Health and social policies, in the form of laws, regula -
+tions, organizational practices, and funding priorities, 
+have a substantial impact on the health and well-being of 
+populations and create the conditions under which peo -
+ple can be healthy and thrive- or not [122, 123]. Clinical 
+and public health guidelines inform policy implementa -
+tion by providing the basis for legislation, informing cov -
+ered services in health plans, and advancing policies that 
+support health equity [124–128]. Policies often address 
+the underlying social and structural conditions that shape 
+health and inequities—this in turn provides opportuni -
+ties for policy implementation to frame accountability for 
+organizations and systems.
+Policy implementation research, which has been con -
+ducted since the 1970s across multiple disciplines [129, 
+130], seeks to understand the complexities of the policy 
+process and increase the likelihood that evidence reaches 
+policymakers and influences their decisions so that the 
+population health benefits of scientific progress are maxi -
+mized [131]. A key objective of policy implementation 
+research is the enactment, enforcement, and evaluation 
+of evidence-based policies to (1) understand approaches 
+to enhance the likelihood of policy adoption (process); 
+(2) identify specific policy elements likely to be effec -
+tive (content); and (3) document the potential impact of 
+policy (outcomes) [132]. Especially in the USA, policy 
+implementation research is underdeveloped compared 
+to other areas in implementation science. For example, a 
+content analysis of all projects funded by the US National 
+Institutes of Health through implementation research 
+program announcements found that only 8% of funded 
+grants were on policy implementation researc h[133]. 
+Few of these studies had an explicit focus on equity or 
+social determinants of health.
+Policy researchers have utilized a variety of designs, 
+methods, and data sources to investigate the develop -
+ment processes, content, and outcomes of policies. Much 
+more evidence is needed, including which policies work 
+and which do not (for what outcomes, settings, and pop -
+ulations), how policies should be developed and imple -
+mented, unintended consequences of policies, and the 
+best ways to combine quantitative and qualitative meth -
+ods for evaluation of “upstream” factors that have impor -
+tant implications for health equity [134]. There is also a 
+pressing need for reliable and valid measures of policy 
+implementation processes [135]. These knowledge gaps 
+are unlikely to be addressed by randomized designs and 
+are more likely to be addressed using quasi-experimental 
+Page 15 of 25
+ Brownson et al. Implementation Science           (2022) 17:26 
+ 
+designs, natural experiments, stakeholder-driven adapta -
+tions, systems science methods, citizen science, and par -
+ticipatory approaches [51, 66, 136–139].
+Several other areas in policy implementation research 
+need attention. First, policy makers often need informa -
+tion on a much shorter time frame than researchers can 
+deliver—this calls for the use of tools such as rapid-cycle 
+research [ 140] and rapid realist reviews [141]. Second, we 
+need to better understand the spread of policies, includ -
+ing the reasons that ineffective policies spread [142], the 
+role of social media [131], and ways to address mis- and 
+dis-information in the policy process [143]. Finally, more 
+emphasis is needed on the reciprocal, often horizontal, 
+interactions between organizations and the development 
+of policy-relevant evidence [144]. For this inter-organiza -
+tional research, the role of policy intermediaries (those 
+who work in between existing systems to achieve a pol -
+icy goal) has gained attention due to their critical roles 
+in policy implementation research [145]. Strategies and 
+tools to address several of these issues are provided in 
+recent reviews [146, 147] and in Table 4.
+Pay greater attention to audience and stakeholder 
+differences
+There are multiple audiences of relevance for developing, 
+applying, disseminating, and sustaining the evidence for 
+implementation science [148]. When seeking effective 
+methods to generate, implement, and sustain EBIs, it is 
+important to take into account the characteristics of each 
+audience and stakeholder group, what they value, how to 
+balance different viewpoints, and how to combine stake -
+holders’ experience and research evidence. Across these 
+stakeholder groups, research evidence is only one of 
+many influential factors influencing adoption, implemen -
+tation, and sustainment of EBI [6, 15, 40].
+Key audience categories include researchers, practi -
+tioners, and policy makers (Table  5). Researchers are 
+one core audience. These individuals typically have spe -
+cialized training and may devote an entire career study -
+ing a particular health issue. Another audience includes 
+clinical and public health practitioners who seek practi -
+cal information on the scope and quality of evidence for a 
+range of EBIs and implementation strategies that are rele -
+vant in their setting. Practitioners in clinical settings (e.g., 
+nurses, physicians) have specialized and standardized 
+training whereas the training for public health practition -
+ers is highly variable (most public health practitioners 
+lack a public health degree [149]). A third group is policy 
+makers at local, regional, state, national, and international 
+levels. These individuals are faced with macro-level deci -
+sions on how to allocate public resources. Policy makers 
+seek out distributional consequences (i.e., who has to pay, 
+how much, and who benefits) [150] and in many policy settings, anecdotes are prioritized over empirical data [9]. 
+The category of policy makers also includes funders—
+these funders may be elected officials and “small p” policy 
+makers (organizational leaders) who make funding deci -
+sions within their settings.
+The relevance and usefulness of evidence vary by stake -
+holder type (Table  5) [151]. Research usefulness can be 
+informed by audience segmentation, where a product 
+promotion strategy is targeted to the characteristics of a 
+desired segment—a widely accepted principle in market -
+ing [152]. Audience segmentation can be informed by the 
+process of user-centered design and decision-centered 
+processes, in which the product (e.g., an implementation 
+strategy) is guided in a systematic way by the end-users 
+of the product [153–155].
+Framing is another important factor in consider -
+ing audiences for D&I. Individuals interpret the same 
+data in different ways depending on the mental model 
+through which they perceive information [156]. For 
+example, policy makers often perceive risks and benefits 
+not in scientific terms but in relation to (usually short 
+term) emotional, moral, financial, or political frame -
+works [157, 158]. In practical terms for implementation 
+science, framing for a particular health issue for a com -
+munity member or patient might relate to the ability to 
+raise healthy children whereas framing for a policy maker 
+might relate to cost savings from action or inaction. Cost 
+and economic evaluation are key considerations for a 
+range of stakeholders involved in implementation, yet too 
+often the perspectives of diverse stakeholders are not well 
+considered, acted upon, or reported [159].
+Next steps for addressing gaps
+The “how-to” for broadening the evidence base for imple -
+mentation science will require several actions. First, we 
+need to prioritize the evidence gaps and possible ways of 
+filling these gaps—many ideas are shown in Table  4. Next, 
+resources and tools are needed to address evidence defi -
+cits (Table  6). All tools listed are available free of charge 
+and provide enough background and instructions to 
+make them useful for a wide range of users—from begin -
+ners to experts. The tools listed cover multiple, overlap -
+ping domains: (1) engagement and partnerships; (2) study 
+planning; (3) research proposals, articles, reporting, and 
+guidelines; (4) and dissemination, scale-up, and sustain -
+ability. In addition to the resources in Table  6, there are 
+many other portals that provide valuable information and 
+resources for implementation research across multiple 
+domains (e.g., technical assistance, mentorship, confer -
+ences, archived slides, webinars) [160–168].
+Capacity is a core element for building a stronger, more 
+comprehensive, and equitable evidence base. Capacity 
+can be developed in multiple ways, including supporting 
+Page 16 of 25 Brownson et al. Implementation Science           (2022) 17:26 
+Table 5 Differences in evidence-related characteristics and needs among audiences
+a Policy makers include funders of research
+b External factors commonly include habit, stereotypes, and cultural normsCharacteristic Researcher Practitioner (clinical, public health) Policy makera
+Time in position Longer Middle to longer Shorter
+Training Specialized Specialized for some, but generalized for others Generalized
+Personal connection to constituents Low Moderate to high Moderate to high
+Knowledge span Deeper knowledge on a small number of issues Moderate knowledge on wide set of issues (often 
+more specialized in larger agencies)Less depth, wider breadth
+Decisio-making based on external factorsbLow Moderate High
+Time spent on a particular issue Longer Moderate Shorter
+Role in the evidence development process Generation, synthesis, publication, implementa-
+tion, disseminationPlanning, evaluation, implementation, dissemina-
+tion, sustainmentAdoption, implementation, dissemination, sustain-
+ment, funding
+Primary types of evidence relied upon Science, evidence reviews, experimental
+experience from the field, general evidenceScience, evidence reviews, real-world experience 
+from the field, personal experience, local evidenceReal-world stories, constituents, gatekeepers, party 
+priorities, media, science, policy briefs
+Barriers to the use of evidence Time, predominant focus on RCTs, lack of atten-
+tion to context, slow speed of researchTime, lack of access to peer-reviewed evidence, 
+lack of incentives, low priority of leadership, per -
+ceived lack of relevance, competing demandsTime, lack of interest, complexity of evidence, new 
+demands, rapidly changing context
+Page 17 of 25
+ Brownson et al. Implementation Science           (2022) 17:26 
+ Table 6 Selected resources and tools to support practice and research on evidence-based dissemination and implementation
+Category Name Description Weblink
+Engagement and partnerships Community Tool Box The Community Tool Box is a free, online resource 
+for those working to build healthier communities 
+and bring about social change. The Tool Box seeks 
+to promote community health and development 
+by connecting people, ideas, and resources.https:// ctb. ku. edu/ en
+Engage for Equity The tools provide a step-by-step approach for 
+research partnerships to examine where they are 
+now and where they want to be in the future. Each 
+step includes a short description and an interactive 
+exercise or tool.https:// engag efore quity. org/ tool_ kit/
+Advancing Health Equity Toolkit This practice-oriented toolkit leads agencies, 
+teams, community-based organizations, and 
+community partnerships through different public 
+health processes using a health equity lens. The 
+modules include interactive reflection questions 
+across a framework for evidence-based decision-
+making.Home | Evide nce- Based  Decis ion Makin g &  Healt h 
+Equit  y (wixsi te. com)
+Stakeholder Engagement Navigator The Navigator is designed to help teams select 
+the most appropriate engagement method or 
+tool for a particular project. It is an interactive tool 
+that takes into account the purpose, resources, 
+frequency of engagement, and expertise.https:// dicem ethods. org/ Tool
+Study planning Dissemination and Implementation Models in 
+Health Research and PracticeAn interactive, online resource designed to help 
+researchers and practitioners navigate dissemina-
+tion and implementation theories, models, and 
+frameworks through planning, selecting, combin-
+ing, adapting, using, and linking to measures. 
+Newly added frameworks address the interface 
+between health equity and implementation sci-
+ence.https:// disse minat ion- imple menta tion. org/
+T-CaST (Theory, Model, and Framework Compari-
+son and Selection Tool)T-CaST offers explicit criteria to facilitate theory 
+comparison during the selection process. The 
+tool is also potentially useful in selecting theories, 
+models, and framework beyond the field of imple -
+mentation science.https:// impsci. tracs. unc. edu/ tcast/
+PRECIS-2 (PRagmatic Explanatory Continuum 
+Indicator Summary) and PRECIS-2 PSPRECIS-2 is a tool to help in designing health 
+services research and to consider where a trial lies 
+across 9 dimensions across the pragmatic/explana-
+tory (efficacy) continuum; the newer PRECIS-2 PS 
+is focused on designs related to provider strategies 
+for implementation studies.https:// www. precis- 2. org/
+https:// imple menta tions cience. biome dcent ral. com/ 
+artic les/ 10. 1186/ s13012- 020- 01075-y
+APEASE (Acceptability, Practicability, Effectiveness, 
+Affordability, Side-effects, and Equity)The APEASE criteria provide a framework for assess-
+ing interventions, intervention components, and 
+ideas. APEASE can be applied to anything from a 
+general concept to a detailed plan for a proposed 
+intervention, or a formal evaluation of an interven-
+tion that has already been implemented.https:// assets. publi shing. servi ce. gov. uk/ gover 
+nment/ uploa ds/ system/ uploa ds/ attac hment_ data/ 
+file/ 875385/ PHEBI_ Achie  ving_ Behav iour_ Change_ 
+Local_ Gover  nment. pdf
+Page 18 of 25 Brownson et al. Implementation Science           (2022) 17:26 
+Table 6 (continued)
+Category Name Description Weblink
+MOST (Multiphase Optimization Strategy) MOST is a research framework, based on engineer -
+ing principles, for determining the most efficient 
+and effective version of an intervention. It uses a 
+3-phase approach to assess the effectiveness of 
+individual program elements and consider whether 
+effectiveness varies depending on context.https:// www. hvres earch. org/ preci sion- home-  visit 
+ing/ innov ative- metho ds/ multi phase-  optim izati on- 
+strat  egy- most/
+The Hexagon Tool At any stage of implementation, the Hexagon Tool 
+can be used by communities and organizations to 
+better understand how a new or existing program 
+or practice fits into an implementing site’s existing 
+work and context.https:// nirn. fpg. unc. edu/ resou rces/ hexag on-  explo 
+ration- tool
+Annotated Bibliography of Economic Analysis 
+Resources for Implementation ScienceThis tool is a compilation of resources, tools, and 
+studies about cost/cost-effectiveness research in 
+implementation science. It covers costing methods 
+and cost-effectiveness analyses that are important 
+for measuring and improving the value of health-
+care and public health practices.cost- annoat- biblio-  disc-  one- pager- 31221 19e99 
+fe630 2864d 9a5bff  f0a0 01ce3 85. pdf (cuans chutz. edu)
+Measuring Health Policy Implementation This website is designed to help policy research-
+ers, evaluators, and implementation science 
+researchers identify and select measures to assess 
+the implementation of health policies in a variety 
+of settings (e.g., hospitals, outpatient clinics, neigh-
+borhoods, schools).https:// www. health- policy- measu res. org/
+Page 19 of 25
+ Brownson et al. Implementation Science           (2022) 17:26 
+ 
+Table 6 (continued)
+Category Name Description Weblink
+Research proposals, articles, reporting, and guidelines Tool for Rating Research Proposals for Sensitivity to 
+Health Equity IssuesThis tool assesses research proposals for their 
+sensitivity to health equity issues. The tool consists 
+of a series of questions that prompt for evaluation 
+of how well equity issues have been considered in 
+terms of the population context, study rationale, 
+intervention design, sample design, data collection 
+and analysis plan, evidence of community engage -
+ment, and team composition.https:// ajph. aphap ublic ations. org/ doi/ suppl/ 10. 
+2105/ AJPH. 2019. 305221
+GRADE (Grading of Recommendations, Assess-
+ment, Development and Evaluations)GRADE is a transparent framework for develop -
+ing and presenting summaries of evidence and 
+provides a systematic approach for making clinical 
+practice recommendations.https:// bestp racti ce. bmj. com/ info/ us/ toolk  it/ learn- 
+ebm/ what- is-  grade/
+Expanded CONSORT (Consolidated Standards of 
+Reporting Trials)The expanded CONSORT includes data about par -
+ticipation and representativeness at multiple levels 
+of settings, as well as staff and individual recipients, 
+and about intervention sustainability after project 
+support ends. It adds a focus on transparent 
+reporting of inclusions, exclusions, and participa-
+tion at multiple levels and includes a fillable PDF 
+for manuscript submissions.https:// www. re- aim. org/ expan ded-  conso rt- figure- 
+for- plann ing- and- repor  ting-d- i- resea rch/
+Standards for Reporting Implementation Studies 
+(StaRI) StatementStaRI is used for reporting of implementation 
+studies, which employ a range of study designs to 
+develop and evaluate implementation strategies 
+with the aim of enhancing adoption and sustain-
+ability of effective interventionshttps:// www. equat  or- netwo rk. org/ repor  ting-  guide 
+lines/ stari- state ment/
+Page 20 of 25 Brownson et al. Implementation Science           (2022) 17:26 
+Table 6 (continued)
+Category Name Description Weblink
+Dissemination, scale-up, and sustainability Dissemination Planning Tool A tool to help researchers evaluate their research 
+and develop appropriate dissemination plans, if the 
+research is determined to have “real-world” impacthttps:// www. ahrq. gov/ patie nt- safety/ resou rces/ 
+advan ces/ vol4/ plann ing. html
+ExpandNet A global network of representatives from 
+international organizations, non-governmental 
+organizations, academic and research institutions, 
+ministries of health, and specific projects who seek 
+to advance the science and practice of scaling uphttps:// expan dnet. net/
+Clinical Assessment Sustainability Tool (CSAT) The CSAT measures the sustainability of evidence-
+based practices in clinical settings. Users receive 
+a tailored report that can be used by clinical and 
+healthcare settings to plan for and implement 
+changes within their organization.https:// www. susta intool. org/ csat/
+Program Assessment Sustainability Tool (PSAT) The PSAT measures the sustainability of evidence-
+based practices in community settings. Users 
+receive a tailored report that can be used by public 
+health and community organizations to plan for 
+and implement changes within their organization.https:// www. susta intool. org/ psat/
+This table is illustrative and is not meant to be comprehensive. We have focused on sources that are more regularly updated
+Page 21 of 25
+ Brownson et al. Implementation Science           (2022) 17:26 
+ 
+the “push” for implementation science where research -
+ers are trained to develop the evidence for implementa -
+tion and skills in evaluation. Evaluation skill building 
+should take into account the principles of realist evalua -
+tion, a mixed-methods approach that takes into account 
+multiple contextual variables [169]. There is a significant 
+number of implementation science training opportuni -
+ties across countries [160, 170, 171], though few have an 
+explicit focus on many of the issues we have highlighted 
+(e.g., health equity, designing for dissemination, sustain -
+ability, policy implementation). There has also been inad -
+equate training and too little emphasis on the “pull” for 
+implementation science (e.g., training the practitioners/
+implementers) [170, 172]. This emphasis on “pull” should 
+embrace the audience differences in Table  5. There is even 
+less evidence on who and how to conduct capacity build -
+ing, especially in low-resource settings [171, 173].
+There are also macro-level actions that would facilitate 
+a broader and more robust evidence base. For example, 
+funders and guideline developers should adopt a more 
+comprehensive definition of evidence, addressing many 
+of the recommendations outlined in Table  4 and above. 
+This could include an alternative or addition to GRADE, 
+incorporating methods of appraising research that does 
+not automatically elevate RCTs (particularly when 
+answering policy-related research questions). Similarly, it 
+is helpful for study sections to be oriented to a wide array 
+of evidence, particularly type 3 evidence. This will require 
+some learning as well as some unlearning—as an exam -
+ple, we need to broaden our understanding of contextual 
+mediators and moderators of implementation, which are 
+likely to vary from those identified in highly controlled 
+experiments.
+Conclusion
+Over the past few decades, there has been substantial 
+progress in defining evidence for clinical and public 
+health practice, identifying evidence gaps, and mak -
+ing initial progress in filling certain gaps. Yet to solve 
+the health challenges facing society, we need new and 
+expanded thinking about evidence and commitment to 
+context-based decision-making. This process begins 
+with evidence—a foundation of implementation sci -
+ence. By critically examining and broadening current 
+concepts of evidence, implementation science can bet -
+ter fulfill its vision of providing an explicit response to 
+decades of scientific progress that has not translated 
+into equitable and sustained improvements in popula -
+tion health [92].
+Abbreviations
+APEASE: Acceptability, Practicability, Effectiveness, Affordability, Side-effects, and 
+Equity; CONSORT: Consolidated Standards of Reporting Trials; D4D: Designing for dissemination; EBI: Evidence-based intervention; ERIC: Expert Recommenda-
+tions for Implementing Change; FRAME: Framework for Reporting Adaptations 
+and Modifications-Enhanced; FRAME-IS: Framework for Reporting Adaptations 
+and Modifications to Evidence-based Implementation Strategies; GRADE: Grad-
+ing Recommendations Assessment and Development Evidence; HIV: Human 
+immunodeficiency virus; LMICs: Lower- and middle-income countries; MOST: 
+Multiphase Optimization Strategy; MRC: UK Medical Research Council; PRECIS-2: 
+PRagmatic Explanatory Continuum Indicator Summary; PRECIS-2 PS: PRagmatic 
+Explanatory Continuum Indicator Summary for providers; RCT  : Randomized 
+controlled trial; StaRI: Standards for Reporting Implementation Studies; TCaST: 
+Theory, Model, and Framework Comparison and Selection Tool.
+Disclaimer
+The findings and conclusions in this paper are those of the authors and do not 
+necessarily represent the official positions of the National Institutes of Health, 
+the Centers for Disease Control and Prevention, or the American Cancer Society.
+Authors’ contributions
+RCB conceptualized the original ideas and wrote the first draft of the paper. RCS, 
+EHG, and REG provided input on the original outline, contributed text to the draft 
+manuscript, and provided intellectual content to the manuscript. All authors 
+provided critical edits on drafts of the article and approved the final version.
+Funding
+This work was supported in part by the National Cancer Institute (numbers 
+P50CA244431, P50CA244688, P50CA244690, R01CA255382), the National Insti-
+tute of Diabetes and Digestive and Kidney Diseases (numbers P30DK092950, 
+P30DK056341, R25DK123008), the Centers for Disease Control and Prevention 
+(number U48DP006395), the American Cancer Society (number RSG-17-156-
+01-CPPB), and the Foundation for Barnes-Jewish Hospital.
+Availability of data and materials
+Not applicable.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare they have no conflicting interests.
+Author details
+1 Prevention Research Center, Brown School at Washington University in St. 
+Louis, One Brookings Drive, Campus, Box 1196, St. Louis, MO 63130, USA. 
+2 Department of Surgery, Division of Public Health Sciences, and Alvin J. Site -
+man Cancer Center, Washington University School of Medicine, Washington 
+University in St. Louis, St. Louis, MO 63130, USA. 3 Department of Sociomedical 
+Sciences, Columbia University Mailman School of Public Health, New York, 
+NY 10032, USA. 4 Division of Infectious Diseases, Department of Medicine 
+and Center for Dissemination and Implementation in the Institute for Public 
+Health, Washington University School of Medicine, Washington University 
+in St. Louis, St. Louis, MO 63110, USA. 5 Department of Family Medicine 
+and Adult & Child Consortium for Health Outcomes Research and Delivery 
+Science, University of Colorado School of Medicine, University of Colorado 
+Anschutz Medical Campus, Aurora, CO 80045, USA. 
+Received: 30 October 2021   Accepted: 4 April 2022
+References
+ 1. Rimer BK, Glanz DK, Rasband G. Searching for evidence about health 
+education and health behavior interventions. Health Educ Behav. 
+2001;28:231–48.
+Page 22 of 25 Brownson et al. Implementation Science           (2022) 17:26 
+ 2. Peters DH, Adam T, Alonge O, Agyepong IA, Tran N. Implementation 
+research: what it is and how to do it. BMJ. 2013;347:f6753.
+ 3. Shelton RC, Lee M, Brotzman LE, Wolfenden L, Nathan N, Wainberg ML. 
+What is dissemination and implementation science?: An Introduction 
+and opportunities to advance behavioral medicine and public health 
+globally. Int J Behav Med. 2020;27:3–20.
+ 4. Rabin BA, Brownson RC, Kerner JF, Glasgow RE. Methodologic chal-
+lenges in disseminating evidence-based interventions to promote 
+physical activity. Am J Prev Med. 2006;31:S24–34.
+ 5. McQueen DV. Strengthening the evidence base for health promotion. 
+Health Promot Int. 2001;16:261–8.
+ 6. Brownson RC, Fielding JE, Maylahn CM. Evidence-based public health: 
+a fundamental concept for public health practice. Annu Rev Public 
+Health. 2009;30:175–201.
+ 7. Brownson RC, Gurney JG, Land GH. Evidence-based decision making in 
+public health. J Public Health Manag Pract. 1999;5:86–97.
+ 8. Rychetnik L, Hawe P , Waters E, Barratt A, Frommer M. A glossary 
+for evidence based public health. J Epidemiol Community Health. 
+2004;58:538–45.
+ 9. Brownson RC, Baker EA, Deshpande AD, Gillespie KN. Evidence-Based 
+Public Health. 3rd ed. New York: Oxford University Press; 2018.
+ 10. Sackett DL. Evidence-based medicine. Semin Perinatol. 1997;21:3–5.
+ 11. Kohatsu ND, Robinson JG, Torner JC. Evidence-based public health: an 
+evolving concept. Am J Prev Med. 2004;27:417–21.
+ 12. Baba V, HakemZadeh F. Toward a theory of evidence based decision 
+making. Manag Decis. 2012;50:832–67.
+ 13. Mackintosh J, Ciliska D, Tulloch K. Evidence-informed decision making 
+in public health in action. Environ Health Rev. 2015;58:15–9.
+ 14. Brownson RC, Fielding JE, Green LW. Building capacity for evidence-
+based public health: reconciling the pulls of practice and the push of 
+research. Annu Rev Public Health. 2018;39:27–53.
+ 15. Armstrong R, Pettman TL, Waters E. Shifting sands - from descriptions to 
+solutions. Public Health. 2014;128:525–32.
+ 16. Jacobs JA, Dodson EA, Baker EA, Deshpande AD, Brownson RC. Barriers 
+to evidence-based decision making in public health: a national survey 
+of chronic disease practitioners. Public Health Rep. 2010;125:736–42.
+ 17. Newman M, Papadopoulos I, Sigsworth J. Barriers to evidence-based 
+practice. Intensive Crit Care Nurs. 1998;14:231–8.
+ 18. Oliver K, Innvar S, Lorenc T, Woodman J, Thomas J. A systematic review 
+of barriers to and facilitators of the use of evidence by policymakers. 
+BMC Health Serv Res. 2014;14:2.
+ 19. Sadeghi-Bazargani H, Tabrizi JS, Azami-Aghdash S. Barriers to evidence-
+based medicine: a systematic review. J Eval Clin Pract. 2014;20:793–802.
+ 20. Glasgow RE, Green LW, Taylor MV, Stange KC. An evidence integration 
+triangle for aligning science with policy and practice. Am J Prev Med. 
+2012;42:646–54.
+ 21. Braithwaite J, Churruca K, Long JC, Ellis LA, Herkes J. When complexity 
+science meets implementation science: a theoretical and empirical 
+analysis of systems change. BMC Med. 2018;16:63.
+ 22. May CR, Johnson M, Finch T. Implementation, context and complexity. 
+Implement Sci. 2016;11:141.
+ 23. Nilsen P , Bernhardsson S. Context matters in implementation science: 
+a scoping review of determinant frameworks that describe contextual 
+determinants for implementation outcomes. BMC Health Serv Res. 
+2019;19:189.
+ 24. PCORI Methodology Standards [https:// www. pcori. org/ resea rch/ about- 
+our- resea rch/ resea rch- metho dology/ pcori- metho dology- stand ards# 
+Compl ex].
+ 25. Selby JV, Beal AC, Frank L. The Patient-Centered Outcomes Research 
+Institute (PCORI) national priorities for research and initial research 
+agenda. JAMA. 2012;307:1583–4.
+ 26. Skivington K, Matthews L, Simpson SA, Craig P , Baird J, Blazeby JM, 
+et al. A new framework for developing and evaluating complex 
+interventions: update of Medical Research Council guidance. BMJ. 
+2021;374:n2061.
+ 27. Hawe P . Lessons from complex interventions to improve health. Annu 
+Rev Public Health. 2015;36:307–23.
+ 28. Hawe P , Shiell A, Riley T, Gold L. Methods for exploring implementation 
+variation and local context within a cluster randomised community 
+intervention trial. J Epidemiol Community Health. 2004;58:788–93. 29. May C. Towards a general theory of implementation. Implement Sci. 
+2013;8:18.
+ 30. Chambers DA, Glasgow RE, Stange KC. The dynamic sustainability 
+framework: addressing the paradox of sustainment amid ongoing 
+change. Implement Sci. 2013;8:117.
+ 31. Allen J, Shelton D, Emmons K, Linnan L. Fidelity and its relationship 
+to implementation efffectiveness, adaptation and dissemination. In: 
+Brownson R, Colditz G, Proctor E, editors. Dissemination and implemen-
+tation research in health: translating science to practice. 2nd ed. New 
+York: Oxford University Press; 2018. p. 267–84.
+ 32. Baumann A, Cabassa L, Wiltsey Stirman S. Adaptation in dissemination 
+and implementation science. In: Brownson R, Colditz G, Proctor E, edi-
+tors. Dissemination and Implementation Research in Health: Translating 
+Science to Practice. 2nd ed. New York: Oxford University Press; 2018. p. 
+285–300.
+ 33. Guyatt G, Cook D, Haynes B. Evidence based medicine has come a long 
+way. BMJ. 2004;329:990–1.
+ 34. Sackett DL, Rosenberg WMC. The need for evidence-based medicine. J 
+R Soc Med. 1995;88:620–4.
+ 35. Glasziou P , Longbottom H. Evidence-based public health practice. Aust 
+N Z J Public Health. 1999;23:436–40.
+ 36. Yost J, Dobbins M, Traynor R, DeCorby K, Workentine S, Greco L. Tools to 
+support evidence-informed public health decision making. BMC Public 
+Health. 2014;14:728.
+ 37. Rycroft-Malone J. Evidence-informed practice: from individual to con-
+text. J Nurs Manag. 2008;16:404–8.
+ 38. Viehbeck SM, Petticrew M, Cummins S. Old myths, new myths: chal-
+lenging myths in public health. Am J Public Health. 2015;105:665–9.
+ 39. Glasby J, Walshe K, Gill H. What counts as ʻevidenceʼ in ʻevidence-based 
+practiceʼ? Evid Policy. 2007;3:325–7.
+ 40. Rycroft-Malone J, Seers K, Titchen A, Harvey G, Kitson A, McCormack 
+B. What counts as evidence in evidence-based practice? J Adv Nurs. 
+2004;47:81–90.
+ 41. Green LW. Making research relevant: if it is an evidence-based practice, 
+whereʼs the practice-based evidence? Fam Pract. 2008;25(Suppl 
+1):i20–4.
+ 42. Kothari A, Rudman D, Dobbins M, Rouse M, Sibbald S, Edwards N. The 
+use of tacit and explicit knowledge in public health: a qualitative study. 
+Implement Sci. 2012;7:20.
+ 43. Youngblut JM, Brooten D. Evidence-based nursing practice: why is it 
+important? AACN Clin Issues. 2001;12:468–76.
+ 44. Swisher AK. Practice-based evidence. Cardiopulm Phys Ther J. 
+2010;21:4.
+ 45. Akobeng AK. Understanding randomised controlled trials. Arch Dis 
+Child. 2005;90:840–4.
+ 46. Kessler R, Glasgow RE. A proposal to speed translation of healthcare 
+research into practice: dramatic change is needed. Am J Prev Med. 
+2011;40:637–44.
+ 47. Sanson-Fisher RW, Bonevski B, Green LW. DʼEste C: Limitations of the 
+randomized controlled trial in evaluating population-based health 
+interventions. Am J Prev Med. 2007;33:155–61.
+ 48. Weiss N, Koepsell T, Psaty B. Generalizability of the results of rand-
+omized trials. Arch Int Med. 2008;168:133–5.
+ 49. Loudon K, Treweek S, Sullivan F, Donnan P , Thorpe KE, Zwarenstein 
+M. The PRECIS-2 tool: designing trials that are fit for purpose. BMJ. 
+2015;350:h2147.
+ 50. Norton WE, Loudon K, Chambers DA, Zwarenstein M. Designing 
+provider-focused implementation trials with purpose and intent: intro -
+ducing the PRECIS-2-PS tool. Implement Sci. 2021;16:7.
+ 51. Leatherdale ST. Natural experiment methodology for research: a review 
+of how different methods can support real-world research. Int J Social 
+Res Methodol. 2019;22:19–35.
+ 52. Petticrew M, Cummins S, Ferrell C, Findlay A, Higgins C, Hoy C, et al. 
+Natural experiments: an underused tool for public health? Public 
+Health. 2005;119:751–7.
+ 53. Palinkas LA, Mendon SJ, Hamilton AB. Innovations in mixed methods 
+evaluations. Annu Rev Public Health. 2019;40:423–42.
+ 54. Ramsey AT, Proctor EK, Chambers DA, Garbutt JM, Malone S, Powderly 
+WG, et al. Designing for Accelerated Translation (DART) of emerging 
+innovations in health. J Clin Transl Sci. 2019;3:53–8.
+Page 23 of 25
+ Brownson et al. Implementation Science           (2022) 17:26 
+ 
+ 55. Leeman J, Rohweder C, Lee M, Brenner A, Dwyer A, Ko LK. OʼLeary 
+MC, Ryan G, Vu T, Ramanadhan S: Aligning implementation science 
+with improvement practice: a call to action. Implement Sci Commun. 
+2021;2:99.
+ 56. Glidden DV, Mehrotra ML, Dunn DT, Geng EH. Mosaic effective -
+ness: measuring the impact of novel PrEP methods. Lancet HIV. 
+2019;6:e800–6.
+ 57. Avellar SA, Thomas J, Kleinman R, Sama-Miller E, Woodruff SE, Coughlin 
+R, et al. External validity: the next step for systematic reviews? Eval Rev. 
+2017;41:283–325.
+ 58. Green LW, Glasgow RE. Evaluating the relevance, generalization, and 
+applicability of research: issues in external validation and translation 
+methodology. Eval Health Prof. 2006;29:126–53.
+ 59. Huebschmann AG, Leavitt IM, Glasgow RE. Making health research 
+matter: a call to increase attention to external validity. Annu Rev Public 
+Health. 2019;40:45–63.
+ 60. Moore G, Campbell M, Copeland L, Craig P , Movsisyan A, Hoddinott P , 
+et al. Adapting interventions to new contexts-the ADAPT guidance. 
+BMJ. 2021;374:n1679.
+ 61. Wingood GM, DiClemente RJ. The ADAPT-ITT model: a novel method 
+of adapting evidence-based HIV Interventions. J Acquir Immune Defic 
+Syndr. 2008;47(Suppl 1):S40–6.
+ 62. Miller CJ, Barnett ML, Baumann AA, Gutner CA, Wiltsey-Stirman S. The 
+FRAME-IS: a framework for documenting modifications to implementa-
+tion strategies in healthcare. Implement Sci. 2021;16:36.
+ 63. Wiltsey Stirman S, Baumann AA, Miller CJ. The FRAME: an expanded 
+framework for reporting adaptations and modifications to evidence-
+based interventions. Implement Sci. 2019;14:58.
+ 64. Perez Jolles M, Lengnick-Hall R, Mittman BS. Core functions and forms 
+of complex health interventions: a patient-centered medical home 
+illustration. J Gen Intern Med. 2019;34:1032–8.
+ 65. Alvidrez J, Napoles AM, Bernal G, Lloyd J, Cargill V, Godette D, et al. 
+Horse Brave Heart MY, Das R, Farhat T: Building the evidence base to 
+inform planned intervention adaptations by practitioners serving 
+health disparity populations. Am J Public Health. 2019;109:S94–S101.
+ 66. Minkler M, Salvatore A, Chang C. Participatory approaches for study 
+design and analysis in dissemination and implementation research. In: 
+Brownson R, Colditz G, Proctor E, editors. Dissemination and implemen-
+tation research in health: translating science to practice. 2nd ed. New 
+York: Oxford University Press; 2018. p. 175–90.
+ 67. Ramanadhan S, Davis MM, Armstrong R, Baquero B, Ko LK, Leng JC, 
+et al. Participatory implementation science to increase the impact of 
+evidence-based cancer prevention and control. Cancer Causes Control. 
+2018;29:363–9.
+ 68. Escoffery C, Lebow-Skelley E, Haardoerfer R, Boing E, Udelson H, Wood 
+R, et al. A systematic review of adaptations of evidence-based public 
+health interventions globally. Implement Sci. 2018;13:125.
+ 69. Wang Z, Norris SL, Bero L. The advantages and limitations of guideline 
+adaptation frameworks. Implement Sci. 2018;13:72.
+ 70. Brownson RC, Allen P , Jacob RR, Harris JK, Duggan K, Hipp PR, et al. 
+Understanding mis-implementation in public health practice. Am J 
+Prev Med. 2015;48:543–51.
+ 71. Nilsen P , Ingvarsson S, Hasson H, von Thiele SU, Augustsson H. Theories, 
+models, and frameworks for de-implementation of low-value care: a 
+scoping review of the literature. Implement Res Pract. 2020;1:1–15.
+ 72. Norton WE, Chambers DA. Unpacking the complexities of de-imple -
+menting inappropriate health interventions. Implement Sci. 2020;15:2.
+ 73. Prasad V, Ioannidis JP . Evidence-based de-implementation for contradicted, 
+unproven, and aspiring healthcare practices. Implement Sci. 2014;9:1.
+ 74. Anselmi L, Binyaruka P , Borghi J. Understanding causal pathways within 
+health systems policy evaluation through mediation analysis: an appli-
+cation to payment for performance (P4P) in Tanzania. Implement Sci. 
+2017;12:10.
+ 75. Mehrotra M, Petersen M, Zimmerman S, Glidden D, Geng E. Designing 
+trials for transport: optimizing trials for translation to diverse. In:  Society 
+for Epidemiologic Research: Virtual; 2020.
+ 76. Pearl J, Bareinboim E. External validity: from do-calculus to transport -
+ability across populations. Statist Sci. 2014;29:579–95.
+ 77. Aarons GA, Hurlburt M, Horwitz SM. Advancing a conceptual model 
+of evidence-based practice implementation in public service sectors. 
+Adm Policy Ment Health. 2011;38:4–23. 78. Pfadenhauer L, Rohwer A, Burns J, Booth A, Bakke Lysdahl K, Hfmann 
+B, et al. Guidance for the assessment of context and implementation 
+in health technology assessments (HTA) and systematic reviews of 
+complex interventions: the context and implementation of complex 
+interventions (CICI) framework. European Union; 2016.
+ 79. Glasgow RE, Emmons KM. How can we increase translation of research 
+into practice? Types of evidence needed. Annu Rev Public Health. 
+2007;28:413–33.
+ 80. Shelton RC, Chambers DA, Glasgow RE. An extension of RE-AIM to 
+enhance sustainability: addressing dynamic context and promoting 
+health equity over time. Front Public Health. 2020;8:134.
+ 81. Glasgow RE, Chambers D. Developing robust, sustainable, implementa-
+tion systems using rigorous, rapid and relevant science. Clin Transl Sci. 
+2012;5:48–55.
+ 82. Cabassa LJ, Baumann AA. A two-way street: bridging implementation 
+science and cultural adaptations of mental health treatments. Imple -
+ment Sci. 2013;8:90.
+ 83. Miller AL, Krusky AM, Franzen S, Cochran S, Zimmerman MA. Partner -
+ing to translate evidence-based programs to community settings: 
+bridging the gap between research and practice. Health Promot Pract. 
+2012;13:559–66.
+ 84. Paparini S, Papoutsi C, Murdoch J, Green J, Petticrew M, Greenhalgh T, et al. 
+Evaluating complex interventions in context: systematic, meta-narrative 
+review of case study approaches. BMC Med Res Methodol. 2021;21:225.
+ 85. Cook KE. Using critical ethnography to explore issues in health promo -
+tion. Qual Health Res. 2005;15:129–38.
+ 86. Shaw RL, Larkin M, Flowers P . Expanding the evidence within evidence-
+based healthcare: thinking about the context, acceptability and feasibil-
+ity of interventions. Evid Based Med. 2014;19:201–3.
+ 87. Chinnock P , Siegfried N, Clarke M. Is evidence-based medicine relevant 
+to the developing world? PLoS Med. 2005;2:e107.
+ 88. Joshi R, Alim M, Kengne AP , Jan S, Maulik PK, Peiris D, et al. Task shift -
+ing for non-communicable disease management in low and middle 
+income countries--a systematic review. PLoS One. 2014;9:e103754.
+ 89. Yapa HM, Barnighausen T. Implementation science in resource-poor 
+countries and communities. Implement Sci. 2018;13:154.
+ 90. Brown CH, Ten Have TR, Jo B, Dagne G, Wyman PA, Muthen B, et al. 
+Adaptive designs for randomized trials in public health. Annu Rev 
+Public Health. 2009;30:1–25.
+ 91. Brown C, Curran G, Palinkas L, et al. An overview of research and evalu-
+ation designs for dissemination and implementation. Annu Rev Public 
+Health. 2017;38:1–22.
+ 92. Brownson RC, Kumanyika SK, Kreuter MW, Haire-Joshu D. Implementa-
+tion science should give higher priority to health equity. Implement Sci. 
+2021;16:28.
+ 93. Mehrotra ML, Petersen ML, Geng EH. Understanding HIV program 
+effects: a structural approach to context using the transportability 
+framework. J Acquir Immune Defic Syndr. 2019;82(Suppl 3):S199–205.
+ 94. Brownson RC, Jacobs JA, Tabak RG, Hoehner CM, Stamatakis KA. Design-
+ing for dissemination among public health researchers: findings from a 
+national survey in the United States. Am J Public Health. 2013;103:1693–9.
+ 95. Knoepke CE, Ingle MP , Matlock DD, Brownson RC, Glasgow RE. Dissemi-
+nation and stakeholder engagement practices among dissemination 
+& implementation scientists: results from an online survey. PLoS One. 
+2019;14:e0216971.
+ 96. Kwan BM, Brownson RC, Glasgow RE, Morrato EH, Luke DA. Designing 
+for dissemination and sustainability to promote equitable impacts on 
+health. Annu Rev Public Health. 2022;43:331–53.
+ 97. Woodward EN, Matthieu MM, Uchendu US, Rogal S, Kirchner 
+JE. The health equity implementation framework: proposal and 
+preliminary study of hepatitis C virus treatment. Implement Sci. 
+2019;14:26.
+ 98. McNulty M, Smith JD, Villamar J, Burnett-Zeigler I, Vermeer W, Benbow 
+N, et al. Implementation research methodologies for achieving scien-
+tific equity and health equity. Ethn Dis. 2019;29:83–92.
+ 99. Baumann AA, Cabassa LJ. Reframing implementation science to 
+address inequities in healthcare delivery. BMC Health Serv Res. 
+2020;20:190.
+ 100. Shelton RC, Adsul P , Oh A. Recommendations for addressing struc-
+tural racism in implementation science: a call to the field. Ethn Dis. 
+2021;31:357–64.
+Page 24 of 25 Brownson et al. Implementation Science           (2022) 17:26 
+ 101. Yousefi Nooraie R, Kwan BM, Cohn E, AuYoung M, Clarke Roberts 
+M, Adsul P , et al. Advancing health equity through CTSA programs: 
+opportunities for interaction between health equity, dissemina-
+tion and implementation, and translational science. J Clin Transl Sci. 
+2020;4:168–75.
+ 102. Kerkhoff AD, Farrand E, Marquez C, Cattamanchi A, Handley MA. 
+Addressing health disparities through implementation science-a need 
+to integrate an equity lens from the outset. Implement Sci. 2022;17:13.
+ 103. Kumanyika SK. Health equity is the issue we have been waiting for. J 
+Public Health Manag Pract. 2016;22(Suppl 1):S8–S10.
+ 104. Braveman P , Gruskin S. Defining equity in health. J Epidemiol Commu-
+nity Health. 2003;57:254–8.
+ 105. Bach-Mortensen AM, Lange BCL, Montgomery P . Barriers and facilitators 
+to implementing evidence-based interventions among third sector 
+organisations: a systematic review. Implement Sci. 2018;13:103.
+ 106. Fagan AA, Bumbarger BK, Barth RP , Bradshaw CP , Cooper BR, Supplee 
+LH, et al. Scaling up evidence-based interventions in US public systems 
+to prevent behavioral health problems: challenges and opportunities. 
+Prev Sci. 2019;20:1147–68.
+ 107. Andresen EM, Diehr PH, Luke DA. Public health surveillance of low-
+frequency populations. Annu Rev Public Health. 2004;25:25–52.
+ 108. Korngiebel DM, Taualii M, Forquera R, Harris R, Buchwald D. Addressing 
+the challenges of research with small populations. Am J Public Health. 
+2015;105:1744–7.
+ 109. Bowleg L. The problem with the phrase women and minorities: 
+intersectionality-an important theoretical framework for public health. 
+Am J Public Health. 2012;102:1267–73.
+ 110. Allen-Scott LK, Hatfield JM, McIntyre L. A scoping review of unintended harm 
+associated with public health interventions: towards a typology and an 
+understanding of underlying factors. Int J Public Health. 2014;59:3–14.
+ 111. Lorenc T, Petticrew M, Welch V, Tugwell P . What types of interventions 
+generate inequalities? Evidence from systematic reviews. J Epidemiol 
+Community Health. 2013;67:190–3.
+ 112. Thomson K, Hillier-Brown F, Todd A, McNamara C, Huijts T, Bambra C. 
+The effects of public health policies on health inequalities in high-
+income countries: an umbrella review. BMC Public Health. 2018;18:869.
+ 113. Hoffmann I. Transcending reductionism in nutrition research. Am J Clin 
+Nutr. 2003;78:514S–6S.
+ 114. Braveman P , Egerter S, Williams DR. The social determinants of health: 
+coming of age. Annu Rev Public Health. 2011;32:381–98.
+ 115. Donkin A, Goldblatt P , Allen J, Nathanson V, Marmot M. Global action on 
+the social determinants of health. BMJ Glob Health. 2018;3:e000603.
+ 116. Marmot M, Bell R, Goldblatt P . Action on the social determinants of 
+health. Rev Epidemiol Sante Publique. 2013;61(Suppl 3):S127–32.
+ 117. Williams DR, Lawrence JA, Davis BA. Racism and health: evidence and 
+needed research. Annu Rev Public Health. 2019;40:105–25.
+ 118. Griffith DM, Holliday CS, Enyia OK, Ellison JM, Jaeger EC. Using 
+syndemics and intersectionality to explain the disproportion-
+ate COVID-19 mortality among black men. Public Health Rep. 
+2021;136:523–31.
+ 119. Martinez K, Callejas L, Hernandez M. Community-defined evidence: a 
+bottom-up behavioral health approach to measure what works in com-
+munities of color. Emotional Behav Disord Youth. 2010;10:11–6.
+ 120. Shelton R, Adsul P , Oh A, Moise N, Griffith D. Application of an anti-
+racism lens in the field of implementation science: recommendations 
+for Reframing Implementation Research with a Focus on Justice and 
+Racial Equity. Implement Res Pract. 2021; in press.
+ 121. Mazzucca S, Arredondo EM, Hoelscher DM, Haire-Joshu D, Tabak RG, 
+Kumanyika SK, et al. Expanding implementation research to prevent 
+chronic diseases in community settings. Annu Rev Public Health. 
+2021;42:135–58.
+ 122. CDC. Ten great public health achievements--United States, 1900-1999. 
+MMWR Morb Mortal Wkly Rep. 1999;48:241–3.
+ 123. CDC. Ten great public health achievements--United States, 2001-2010. 
+MMWR Morb Mortal Wkly Rep. 2011;60:619–23.
+ 124. Ayres CG, Griffith HM. Consensus guidelines: improving the delivery of 
+clinical preventive services. Health Care Manage Rev. 2008;33:300–7.
+ 125. Briss PA, Brownson RC, Fielding JE, Zaza S. Developing and using 
+the guide to community preventive services: lessons learned 
+about evidence-based public health. Annu Rev Public Health. 
+2004;25:281–302. 126. Woolf SH, Atkins D. The evolving role of prevention in health care. 
+Contributions of the U.S. Preventive Services Task Force. Am J Prev Med. 
+2001;20:13–20.
+ 127. Woolf SH, DiGuiseppi CG, Atkins D, Kamerow DB. Developing evidence-
+based clinical practice guidelines: lessons learned by the US Preventive 
+Services Task Force. Annu Rev Public Health. 1996;17:511–38.
+ 128. Doubeni CA, Simon M, Krist AH. Addressing systemic racism through 
+clinical preventive service recommendations from the US Preventive 
+Services Task Force. JAMA. 2021;325:627–8.
+ 129. Mugambwa J, Nabeta N, Ngoma M, Rudaheranwa N, Kaberuka W, 
+Munene J. Policy implementation: conceptual foundations, accu-
+mulated wisdom and new directions. J Public Adm Governance. 
+2018;8:211–32.
+ 130. Nilsen P , Stahl C, Roback K, Cairney P . Never the twain shall meet?--a 
+comparison of implementation science and policy implementation 
+research. Implement Sci. 2013;8:63.
+ 131. Purtle J, Dodson E, Brownson R. Policy dissemination research. In: 
+Brownson R, Colditz G, Proctor E, editors. Dissemination and Implemen-
+tation Research in Health: Translating Science to Practice. 2nd ed. New 
+York: Oxford University Press; 2018. p. 433–47.
+ 132. Brownson RC, Chriqui JF, Stamatakis KA. Understanding evidence-
+based public health policy. Am J Public Health. 2009;99:1576–83.
+ 133. Purtle J, Peters R, Brownson RC. A review of policy dissemination and 
+implementation research funded by the National Institutes of Health, 
+2007-2014. Implement Sci. 2016;11:1.
+ 134. Emmons KM, Chambers DA. Policy implementation science - an 
+unexplored strategy to address social determinants of health. Ethn Dis. 
+2021;31:133–8.
+ 135. Allen P , Pilar M, Walsh-Bailey C, Hooley C, Mazzucca S, Lewis CC, et al. 
+Quantitative measures of health policy implementation determinants 
+and outcomes: a systematic review. Implement Sci. 2020;15:47.
+ 136. Newcomer K, Hatry H, Wholey J, editors. Handbook of practical pro -
+gram evaluation. 4th ed. San Francisco: Jossey-Bass; 2015.
+ 137. Hinckson E, Schneider M, Winter SJ, Stone E, Puhan M, Stathi A, et al. 
+Citizen science applied to building healthier community environments: 
+advancing the field through shared construct and measurement devel-
+opment. Int J Behav Nutr Phys Act. 2017;14:133.
+ 138. Tengo M, Austin BJ, Danielsen F, Fernandez-Llamazares A. Creating syn-
+ergies between citizen science and indigenous and local knowledge. 
+Bioscience. 2021;71:503–18.
+ 139. Wallerstein N, Duran B. Community-based participatory research 
+contributions to intervention research: the intersection of science and 
+practice to improve health equity. Am J Public Health. 2010;100(Suppl 
+1):S40–6.
+ 140. Glasgow RE, Vinson C, Chambers D, Khoury MJ, Kaplan RM, Hunter C. 
+National Institutes of Health approaches to dissemination and imple -
+mentation science: current and future directions. Am J Public Health. 
+2012;102:1274–81.
+ 141. Saul JE, Willis CD, Bitz J, Best A. A time-responsive tool for informing 
+policy making: rapid realist review. Implement Sci. 2013;8:103.
+ 142. Shipan C, Volden C. Why bad policies spread (and good ones don’t): 
+Cambridge University Press; 2021.
+ 143. Mheidly N, Fares J. Leveraging media and health communication 
+strategies to overcome the COVID-19 infodemic. J Public Health Policy. 
+2020;41:410–20.
+ 144. May C. Mobilising modern facts: health technology assessment and the 
+politics of evidence. Sociol Health Illn. 2006;28:513–32.
+ 145. Bullock HL, Lavis JN. Understanding the supports needed for policy 
+implementation: a comparative analysis of the placement of inter -
+mediaries across three mental health systems. Health Res Policy Syst. 
+2019;17:82.
+ 146. Ashcraft LE, Quinn DA, Brownson RC. Strategies for effective dissemina-
+tion of research to United States policymakers: a systematic review. 
+Implement Sci. 2020;15:89.
+ 147. Bullock HL, Lavis JN, Wilson MG, Mulvale G, Miatello A. Understanding 
+the implementation of evidence-informed policies and practices from 
+a policy perspective: a critical interpretive synthesis. Implement Sci. 
+2021;16:18.
+ 148. Brownson RC, Eyler AA, Harris JK, Moore JB, Tabak RG. Getting the word 
+out: new approaches for disseminating public health science. J Public 
+Health Manag Pract. 2018;24:102–11.
+Page 25 of 25
+ Brownson et al. Implementation Science           (2022) 17:26 
+ 
+•
+ fast, convenient online submission
+ •
+  thorough peer review by experienced researchers in your ﬁeld
+• 
+ rapid publication on acceptance
+• 
+ support for research data, including large and complex data types
+•
+  gold Open Access which fosters wider collaboration and increased citations 
+ maximum visibility for your research: over 100M website views per year •
+  At BMC, research is always in progress.
+Learn more biomedcentral.com/submissionsReady to submit y our researc h Ready to submit y our researc h  ?  Choose BMC and benefit fr om: ?  Choose BMC and benefit fr om: 
+ 149. Institute of Medicine. Who will keep the public healthy? Educating pub -
+lic health professionals for the 21st century. Washington, D.C.: National 
+Academies Press; 2003.
+ 150. Sturm R. Evidence-based health policy versus evidence-based medi-
+cine. Psychiatr Serv. 2002;53:1499.
+ 151. Kerner JF. Integrating research, practice, and policy: what we 
+see depends on where we stand. J Public Health Manag Pract. 
+2008;14:193–8.
+ 152. Slater MD. Theory and method in health audience segmentation. J 
+Health Commun. 1996;1:267–83.
+ 153. Dopp AR, Parisi KE, Munson SA, Lyon AR. Aligning implementation and 
+user-centered design strategies to enhance the impact of health ser -
+vices: results from a concept mapping study. Implement Sci Commun. 
+2020;1:17.
+ 154. Lyon AR, Koerner K. User-centered design for psychosocial interven-
+tion development and implementation. Clin Psychol (New York). 
+2016;23:180–200.
+ 155. Schnittker R, Marshall SD, Horberry T, Young K. Decision-centred design 
+in healthcare: the process of identifying a decision support tool for 
+airway management. Appl Ergon. 2019;77:70–82.
+ 156. Morgan M, Fischhoff B, Bostrom A, Atman C. Risk communication: a 
+mental models approach. Cambridge: Cambridge University Press; 2002.
+ 157. Choi BC, Pang T, Lin V, Puska P , Sherman G, Goddard M, et al. Can scien-
+tists and policy makers work together? J Epidemiol Community Health. 
+2005;59:632–7.
+ 158. The Social Issues Research Centre. Guidelines for scientists on communi-
+cating with the media. Oxford: The Social Issues Research Centre; 2006.
+ 159. Eisman AB, Quanbeck A, Bounthavong M, Panattoni L, Glasgow RE. 
+Implementation science issues in understanding, collecting, and 
+using cost estimates: a multi-stakeholder perspective. Implement Sci. 
+2021;16:75.
+ 160. Darnell D, Dorsey CN, Melvin A, Chi J, Lyon AR, Lewis CC. A content 
+analysis of dissemination and implementation science resource 
+initiatives: what types of resources do they offer to advance the field? 
+Implement Sci. 2017;12:137.
+ 161. Implementation Science [https:// cance rcont rol. cancer. gov/ is].
+ 162. The Center for Implementation [https:// thece nterf  orimp lemen tation. 
+com/ about- us].
+ 163. Resources [https:// ncois. org. au/ resou rces/].
+ 164. Dissemination and Implementation Science Program [https:// medsc 
+hool. cuans chutz. edu/ accor  ds/ cores- and- progr ams/ disse minat ion- 
+imple menta tion- scien ce- progr am].
+ 165. Implementation Science Exchange [https:// impsci. tracs. unc. edu/].
+ 166. Implementation Science Resource Hub [https:// impsc iuw. org/].
+ 167. Dissemination & Implemetation Research [https:// imple menta tionr 
+esear  ch. wustl. edu/].
+ 168. Implementation Science Video Library [https:// www. youtu be. com/ 
+chann el/ UCJhG TpULm VIENe YHPDy- jLg/ videos].
+ 169. Pawson R, Greenhalgh T, Harvey G, Walshe K. Realist review--a new 
+method of systematic review designed for complex policy interven-
+tions. J Health Serv Res Policy. 2005;10(Suppl 1):21–34.
+ 170. Chambers DA, Proctor EK, Brownson RC, Straus SE. Mapping training 
+needs for dissemination and implementation research: lessons from a 
+synthesis of existing D&I research training programs. Transl Behav Med. 
+2016;7:593–601.
+ 171. Davis R. DʼLima D: Building capacity in dissemination and implementa-
+tion science: a systematic review of the academic literature on teaching 
+and training initiatives. Implement Sci. 2020;15:97.
+ 172. Schultes MT, Aijaz M, Klug J, Fixsen DL. Competences for implementa-
+tion science: what trainees need to learn and where they learn it. Adv 
+Health Sci Educ Theory Pract. 2021;26:19–35.
+ 173. Osanjo GO, Oyugi JO, Kibwage IO, Mwanda WO, Ngugi EN, Otieno FC, 
+et al. Building capacity in implementation science research training at 
+the University of Nairobi. Implement Sci. 2016;11:30.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub -
+lished maps and institutional affiliations.

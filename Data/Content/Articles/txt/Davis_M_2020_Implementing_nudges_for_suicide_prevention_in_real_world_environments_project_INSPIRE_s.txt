@@ -1,0 +1,1010 @@
+STUDY PROTOCOL Open Access
+Implementing nudges for suicide
+prevention in real-world environments:
+project INSPIRE study protocol
+Molly Davis1,2*, Courtney Benjamin Wolk1,3, Shari Jager-Hyman1, Rinad S. Beidas1,2,4,5, Jami F. Young1,6,
+Jennifer A. Mautone1,6, Alison M. Buttenheim3,4,7,8, David S. Mandell1,3, Kevin G. Volpp3,4,5,7,9,10, Katherine Wislocki1,
+Anne Futterer1, Darby Marx1, E. L. Dieckmeyer11and Emily M. Becker-Haimes1
+Abstract
+Background: Suicide is a global health issue. There are a number of evidence-based practices for suicide screening,
+assessment, and intervention that are not routinely deployed in usual care settings. The goal of this study is to develop
+and test implementation strategies to facilitate evidence-based suicide screening, assessment, and intervention in two
+settings where individuals at risk for suicide are especially likely to present: primary care and specialty mental health
+care. We will leverage methods from behavioral economics, which involves understanding the many factors that
+influence human decision making, to inform strategy development.
+Methods: We will identify key mechanisms that limit implementation of evidence-based suicide screening, assessment,
+and intervention practices in primary care and specialty mental health through contextual inquiry involving behavioral
+health and primary care clinicians. Second, we will use contextual inquiry results to systematically design a menu of
+behavioral economics-informed implementation strategies that cut across settings, in collaboration with an advisory
+board composed of key stakeholders (i.e., behavioral economists, clinicians, implementation scientists, and suicide
+prevention experts). Finally, we will conduct rapid-cycle trials to test and refine the menu of implementation strategies.
+Primary outcomes include clinician-reported feasibility and acceptability of the implementation strategies.
+Discussion: Findings will elucidate ways to address common and un ique barriers to evidence-based suicide screening,
+assessment, and intervention practices in primary care and specialty mental health care. Results will yield refined,
+pragmatically tested strategies that can in form larger confirmatory trials to combat the growing public health crisis of suicide.
+Keywords: Suicide, Prevention, Implementation s cience, Primary care, Mental health
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ .
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.* Correspondence: mollydav@upenn.edu
+1Department of Psychiatry, University of Pennsylvania Perelman School of
+Medicine, Philadelphia, PA, USA
+2Penn Implementation Science Center at the Leonard Davis Institute of
+Health Economics (PISCE@LDI), University of Pennsylvania, Philadelphia, PA,
+USA
+Full list of author information is available at the end of the article
+Davis et al. Pilot and Feasibility Studies           (2020) 6:143 
+https://doi.org/10.1186/s40814-020-00686-y
+Background
+Suicide is a critical health issue around the world; about
+800,000 people die by suicide each year, which translates
+to one death every 40 s [ 1]. In fact, suicide is now the sec-
+ond leading cause of death among individuals 15 –29 years
+of age globally [ 1]. In the United States, suicide rates across
+the lifespan increased by 35% from 1999 to 2018 [ 2],
+highlighting the need for widespread use of effective
+screening, assessment, and intervention tools to reduce the
+number of lives lost to suicide. While evidence-based sui-
+cide screening, assessment, and intervention (referred to
+hereafter as SSAI) practices exist to mitigate suicide risk
+[3,4], implementation of these practices often is inad-
+equate [ 5,6]. There is a dearth of knowledge about why
+evidence-based practices (EBPs) for SSAI remain under-
+used and how to optimize implementation to increase the
+number of lives saved. The limited research in this area in-
+dicates that clinicians routinely report misconceptions and
+anxiety about screening for suicide [ 7,8]. Research from
+other areas of medicine suggests that clinicians —like all
+humans —employ heuristic decision-making and are sub-
+ject to common behavioral barriers [ 9]. In the case of clini-
+cians, these behavioral barriers and heuristics may
+interfere with the uptake of EBPs, but can also be effect-
+ively targeted via implementation strategies that seek to
+improve EBP use [ 9]. However, the specific behavioral bar-
+riers that interfere with the implementation of SSAI EBPs
+across healthcare settings, as well as the most promising
+strategies to address these barriers, are unknown.
+This exploratory project will (a) identify key behavioral
+barriers that may limit the implementation of SSAI EBPs
+and (b) develop and test behavioral economics-informed
+implementation strategies to target those barriers. To
+maximize the impact of this work, we will study two set-
+tings particularly critical for suicide prevention: primary
+care and specialty mental health.
+Developing cross-setting implementation strategies that
+can be deployed across the multiple setting types where
+individuals at risk for suicide commonly present has the
+potential to lead to more efficient implementation. Most
+people who die by suicide interact with a primary care
+clinician in the prior year and close to one-third of indi-
+viduals who die by suicide are seen by an outpatient men-
+tal health provider in the year before their death [ 10].
+Thus, concomitant attention to supporting SSAI EBPs in
+both settings is critical to meeting the needs of those at
+risk for suicide. Identifying cross-setting implementation
+strategies, as well as those that address barriers unique to
+each setting, will help ensure strategies match the needs of
+at-risk patients seen in primary care and specialty mental
+health. The current study seeks to generate implementa-
+tion strategies that can be more efficiently deployed across
+a range of healthcare settings; this approach can help ad-
+vance the field of implementation science.Current implementation of suicide prevention EBPs
+Several effective screening [ 11,12], assessment [ 3,13],
+and intervention [ 4] approaches for addressing suicide
+risk have been deployed across a range of healthcare set-
+tings [ 14,15]. Moreover, a number of national guidelines
+have been put forth regarding suicide screening across
+settings. For instance, physician organizations such as
+the American Academy of Pediatrics recommend that
+for patients presenting with behavioral health difficulties,
+clinicians should screen for suicide risk [ 16]. Although
+universal screening for suicide risk (i.e., screening all pa-
+tients regardless of the primary presenting problem) is
+not required in primary care, the U.S. Preventive Ser-
+vices Task Force recommends (B grade) universal de-
+pression screening for adolescents [ 17] and adults [ 18]
+in primary care. Thus, as more providers increasingly
+screen for depression in line with the aforementioned
+guidelines, there is likely to be a concomitant rise in the
+identification of individuals at risk for suicide across a
+number of healthcare settings.
+Potential barriers to implementation
+The extant literature describes key factors that may impede
+consistent use of SSAI EBPs, including gaps in clinician
+training and knowledge, time constraints, beliefs that
+suicide screening increases risk, and assuming that SSAI is
+someone else ’sj o b[ 7,8,19]. However, most prior research
+on barriers to SSAI EBP implementation focuses on a
+single EBP or setting [ 19] and there are significant gaps in
+our understanding of the mechanisms that lead to poor
+implementation of SSAI EBPs. More work is needed to
+understand how these mechanisms operate to identify opti-
+mal targets for implementation strategies. In addition, little
+is known about how barriers may overlap and vary as a
+function of whether the EBP of interest relates to suicide
+screening, assessment, or intervention and whether these
+barriers are similar or distinct across different health set-
+tings. For example, clinician “forgetting ”may be an import-
+ant barrier to the implementation of suicide screening,
+whereas clinician beliefs abou t whether their professional
+role includes suicide intervention might be a more import-
+ant factor in whether a clinician engages in any follow-up
+intervention to address suicide risk. Further distinguishing
+barriers that cut across settings and EBPs from those that
+are unique to a specific context and/or EBP can inform the
+extent to which implementation strategy development can
+be expedited to address common barriers. This can have
+life-saving implications and can shorten the research-to-
+practice gap.
+Leveraging insights from behavioral economics
+Given that clinicians ’beliefs are commonly cited as bar-
+riers to SSAI practices [ 7], behavioral economics (BE)
+strategies may be particularly well-suited for enhancingDavis et al. Pilot and Feasibility Studies           (2020) 6:143 Page 2 of 10
+the implementation of EBPs for suicide prevention across
+settings. BE comprises a set of theories and frameworks
+that recognize that humans demonstrate predictably
+bounded rationality, meaning they often make decisions
+heuristically, based on incomplete information and with-
+out exhaustive analysis of all costs and benefits [ 20]. As an
+example, prospect theory [ 21] describes how people make
+decisions based on the perceived likelihood of gains and
+losses. Additionally, BE principles suggest people have lim-
+ited self-control, limited attention and cognitive processing
+power, are present- rather than future-oriented, and are
+strongly influenced by social norms [ 20–24].
+To date, a number of behavior change theories such as
+the theory of planned behavior [ 25]a n ds e l f - d e t e r m i n a t i o n
+theory [ 26] have been used to guide implementation re-
+search [ 27,28]. BE offers unique insights for the design of
+implementation strategies that target human decision-
+making constraints (i.e., cognitive heuristics) across settings.
+BE approaches have yielded notable effects in changing
+clinician practices in other health domains [ 29–32]. For in-
+stance, changing the default o ptions in the electronic health
+record (EHR) has been found to increase the prescribing of
+generic medications over pricier, brand-name medicines
+[29]. Nonetheless, taxonomies of implementation strategies,
+such as the Expert Recommendations for Implementation
+Change (ERIC [ 33]), do not include consideration of BE
+principles for targeting behavioral barriers specifically nor
+do they address potential mechanisms of implementation
+more broadly. This omission means that implementation
+strategies are seldom informed by principles of BE [ 34]. In
+particular, innovative BE-in formed implementation strat-
+egies for preventing suicide via EBPs remain untapped.
+Subtle but powerful “nudges ”that change the choice archi-
+tecture (i.e., the way choices are presented) in which clini-
+cians make screening and treatment decisions [ 32]a r eo n e
+example of a potential BE-informed implementation strat-
+egy for increasing SSAI EBP use.
+Leveraging methods from innovation science and industry
+Rapid cycle approaches (RCAs) are derived from
+innovation science to “fail fast and learn quickly ”in the
+search for effective implementation strategies and may be
+well-suited for healthcare settings [ 35,36]. RCAs represent
+a set of methods to develop and refine an innovation with-
+out investing the resources required to develop a full-scale
+version [ 37]. RCAs leverage observation and iterative test-
+ing of innovations integrated within clinic operations to
+learn how to design innovations (in this case, implementa-
+tion strategies) to fit a clinic workflow in an efficient, cost-
+effective, and reliable way. The typical development and
+refinement process involves several cycles of concept defin-
+ition, implementation of a skeletal system, evaluation, and
+concept refinement. Given the cost of developing fully
+functioning implementation strategies, RCAs are idealapproaches through which to prototype and optimize strat-
+egies. RCAs allow researchers to test the “assumptions ”
+underlying why individuals may not use a particular EBP.
+By rapidly proving or disproving the assumptions under-
+lying the barriers to SSAI EBP use (i.e., the mechanisms of
+implementation), we can ensure that the final implementa-
+tion strategies are designed for the correct targets. For ex-
+ample, participants may highlight as a barrier that safety
+planning materials are difficult to access in the EHR. There
+are assumptions underlying this barrier, such as that clini-
+cians have the requisite knowledge to engage in safety
+planning but lack the means to do so. RCAs are designed
+to test such assumptions to inform refinement or design of
+new implementation strategies. A strategy such as develop-
+ing and testing a more user-friendly approach to accessing
+the safety planning template in the EHR would test the as-
+sumption that the primary barrier is the lack of access to
+safety planning materials. If this then leads to increases in
+safety planning, we can be more confident in the accuracy
+of this assumption and the possible utility of this strategy
+as an implementation strategy at scale. If safety planning
+does not increase, we would then need to test possible
+alternative explanations (e.g., that clinicians do not
+h a v et h ec o n f i d e n c et os a f e t yp l a n ) .T h eo u t c o m eo f
+RCAs is a set of implementation strategies that are
+ready to be tested in larger confirmatory trials since
+there is preliminary support suggesting the implemen-
+tation strategy engages the correct mechanism.
+Aims
+This project will merge insights from BE and implementa-
+tion science along with methods from innovation science
+to identify key barriers to SSA I and to generate implemen-
+tation strategies to increase the use of SSAI EBPs that can
+be applied broadly across different healthcare settings. This
+study comprises a project conducted as part of a National
+Institute of Mental Health-funded P50 Advanced Labora-
+tories for Accelerating the Reach and Impact of Treatments
+for Youth and Adults with Mental Illness (ALACRITY)
+grant (supplement grant number: 3P50MH113840-03S1;
+PIs: Beidas, Mandell, & Buttenheim/Volpp), which aims to
+accelerate the pace at which effective treatments for psychi-
+atric disorders are deployed in community practice by
+integrating principles of imp lementation science, BE, and
+participatory design [ 38]. In partnership with a team of key
+stakeholders, including clinic ians, setting leaders, behav-
+ioral economists, implementa tion scientists, and suicide
+experts, we propose to:
+/C15Aim 1: Identify barriers and facilitators to SSAI
+implementation. We will apply established
+approaches to contextual inquiry (surveys and
+interviews [ 39,40]), in addition to the assessment of
+fidelity to SSAI EBPs, to elicit key barriers that limitDavis et al. Pilot and Feasibility Studies           (2020) 6:143 Page 3 of 10
+the implementation of suicide prevention EBPs in
+each setting and map identified barriers to established
+BE frameworks (e.g., the EAST framework, described
+below [ 41]). The qualitative interview will be guided
+by behavioral science tenets outlined by Potthoff and
+colleagues [ 42] that capture the volitional and implicit
+aspects (i.e., dual-process model) of clinician behavior
+as well as the competing goals clinicians face (i.e.,
+multiple behavior approach). A questionnaire will be
+administered to tap attitudes that may serve as
+barriers to safety planning [ 43].
+/C15Rationale. Traditional approaches have leaned
+heavily on surveys and qualitative interviews to
+glean barriers to implementation. Although
+surveys and interviews can be informative,
+clinicians may not always be aware of the barriers
+to implementation, particularly those driven by
+their own heuristics. Thus, we will complement
+our contextual inquiry with baseline fidelity
+monitoring of current SSAI practices, using
+chart-stimulated recall (i.e., brief, structured in-
+terviews during which the clinician reviews pa-
+tients ’charts to aid recall of specific encounters
+[44–48]). This approach has been used as a fidel-
+ity measure in other research [ 49] and will yield a
+rich understanding of current SSAI practices and
+barriers to implementing such practices. As de-
+scribed above, BE will be an important lens
+through which such barriers are interpreted.
+/C15Aim 2: Match implementation strategies to
+identified barriers .Insights gleaned from Aim 1 will
+be leveraged to design a menu of BE-informed im-
+plementation strategies, with input from key stake-
+holders that cut across settings.
+/C15Rationale. The goal is for these strategies to be
+useful in both primary care and specialty mental
+health settings. To achieve this goal, it is essential
+for key stakeholders from various settings to be
+involved in generating, evaluating, and refining
+potential strategies.
+/C15Aim 3: Prototype implementation strategies using
+RCAs. The final study aim is to evaluate the
+feasibility and acceptability of the BE-informed im-
+plementation strategies using RCAs.
+/C15Rationale. In addition to the feasibility and
+acceptability of the implementation strategies, we
+will also assess fidelity to SSAI procedures before,
+during, and after each rapid cycle phase using
+chart-stimulated recall. As described above, chart-
+stimulated recall is a method for indexing clinician
+fidelity [ 49] and will therefore provide important,
+minimally intrusive information on clinicians ’ad-
+herence to SSAI procedures in each practice be-
+fore, during, and after rapid cycle trials.Method
+Settings
+This project will be conducted in partnership with pri-
+mary care clinics ( n= 4; two clinics with a pediatric focus,
+one internal medicine practice, and one family medicine
+site) and specialty mental health programs ( n= 2). Al-
+though some SSAI EBPs are either mandated or recom-
+mended in each of these settings, each setting is at a
+different stage of implementation of SSAI EBPs. Sites were
+intentionally selected for the present study to include a
+combination of primary care and specialty mental health
+settings that represent variability in current SSAI prac-
+tices. For example, in the primary care networks from
+which specific clinics have been sampled, leadership has
+implemented guideline-concordant depression screening
+for adolescents and adults. When suicidal ideation is en-
+dorsed, additional follow up by behavioral health or pri-
+mary care clinicians is recommended; however, exact
+protocols and procedures vary by practice. In the specialty
+mental health programs, insurance regulations require
+documentation of the presence or absence of suicidal
+ideation in each clinical encounter, but do not require cli-
+nicians to use routine screening tools across clinical en-
+counters; administration of the Columbia-Suicide Severity
+Rating Scale [ 3] to assess suicidality is encouraged but not
+mandatory. When suicide risk is present for patients seen
+in the specialty mental health programs, clinicians are re-
+quired to document a safety plan in the patient ’sc h a r t .
+However, clear guidelines as to how SSAI should be con-
+ducted are lacking and the rates at which SSAI EBPs are
+used in this specialty mental health setting are unknown.
+The relevant Institutional Re view Boards (IRBs) have ap-
+proved this study and all ethi cal guidelines will be followed.
+All research participants (i.e. , behavioral health and primary
+care clinicians, clinic leaders) will provide written consent
+prior to participating. Given that this is a provider-facing
+study and all study activities will take place only with pro-
+viders, patients will not be enrolled. Data will be de-
+identified to protect confidentiality. Data will be available to
+members of the research team for analyses. This report was
+prepared in accordance with Standard Protocol Items: Rec-
+ommendations for Interventional Trials (SPIRIT) 2013
+guidelines [ 50]. We have completed recruitment and data
+collection for Aim 1; data collection for Aim 3 has begun in
+specialty mental health but is not completed and has not
+yet commenced in primary care. No data has been analyzed
+f o ra n yo ft h ep r i m a r ys t u d ya i m s .W ep l a nt ow o r kw i t h
+practice leadership to adjust study planning as needed in
+light of COVID-19 social distancing requirements to ensure
+that all data collection and rollout of implementation
+strategies can be conducted remotely. We will also
+consult with the relevant IRBs to ensure the appropri-
+ate ethical approvals are obtained for changes made
+in partnership with stakeholders.Davis et al. Pilot and Feasibility Studies           (2020) 6:143 Page 4 of 10
+Aim 1: identify barriers and facilitators to SSAI
+implementation
+Sample
+Our participants will include clinicians from primary
+care ( n= 10; a combination of behavioral health and pri-
+mary care clinicians) and specialty mental health ( n=
+10; behavioral health clinicians and case managers) sites.
+We will use purposive sampling to select clinicians for
+this aim. Clinic leadership will nominate clinicians
+whom they consider champions of SSAI (e.g., those who
+frequently screen for suicide risk) and those whose use
+of SSAI is indicative of typical provider practice so that
+we can learn from those who engage in ideal and usual
+practice. We will invite these individuals to participate.
+Procedures
+Each clinician will complete an individual, semi-
+structured interview, as described below, which will query
+about barriers and facilitators to SSAI implementation, in
+addition to a questionnaire about attitudes toward safety
+planning. At the end of the qualitative interview, clinicians
+will engage in chart-stimulated recall to provide informa-
+tion on their recent SSAI practices with patients.
+Measures
+Attitudes toward safety planning The Clinician Atti-
+tudes Toward Safety Planning questionnaire [ 43] will as-
+sess clinicians ’attitudes toward safety planning. Reyes-
+Portillo et al. [ 43] reported that Cronbach ’s alpha for the
+12 attitude items on this measure was .83.
+Qualitative interview on barriers and facilitators
+Members of the research team will conduct theory-
+guided qualitative interviews adapted from Potthoff et al.
+[42]. Potthoff et al. ’s[42] interview was developed to
+understand the implementation of type 2 diabetes self-
+management and captured the volitional and implicit as-
+pects (i.e., dual-process model) of clinician behavior as
+well as the competing goals clinicians face (i.e., multiple
+behavior approach). The current interview will involve
+questions about clinicians ’SSAI practices, how they
+make decisions about escalating to a higher level of care
+(e.g., sending a patient to the emergency department), as
+well as a number of factors that may facilitate or impede
+implementation of suicide prevention practices (e.g.,
+self-efficacy, competing demands, motivation).
+Chart-stimulated recall For the chart-stimulated recall
+(i.e., the fidelity assessment), a member of the research
+team will review the clinician ’s caseload with them for a
+specified, recent clinic day. For each patient seen that
+day, the researcher will ask brief questions (no more
+than 5 min) related to the clinician ’s suicide practices(e.g., Did you conduct a screen for suicide risk? How did
+you screen for risk?). Clinicians will provide yes/no re-
+sponses to this fidelity assessment and will be able to
+provide a rationale (e.g., why they opted not to screen
+for suicide risk) as needed.
+Analyses
+Qualitative coding Interviews will be digitally recorded
+and transcribed with analyses supported by the use of an
+NVivo database. Using an integrated approach [ 51]t o
+codebook development, a priori codes will be developed
+using constructs from BE derived from the EAST frame-
+work (described below [ 41]) and additional codes will be
+added to the codebook by the research team following a
+close reading of the first five transcripts [ 52,53]. This
+process will result in a structured codebook in which
+each code will be defined and decision rules for their ap-
+plication are included in the definition.
+Briefly, the EAST framework asserts that to encourage
+behavior change and reduce people ’sr e l i a n c eo nc o g n i t i v e
+biases, the desired change should be Easy, Attractive,
+Social, and Timely. Specifically, the EAST principals are
+(a) Make it Easy to change behavior, by using strategies
+such as default options (e.g., auto-enrollment in 401 k),
+reducing the effort required to perform an activity, and
+simplifying messaging; (b) Make it Attractive, by using
+strategies such as attention-grabbing messaging and in-
+centives; (c) Make it Social, by using strategies that dem-
+onstrate that most people engage in the desired behavior,
+harnessing the power of networks, and encouraging
+people to express commitment to others; and (d) Make it
+Timely, by using strategies such as the provision of
+prompts when people are most likely to be receptive, en-
+couraging consideration of immediate costs and benefits,
+and engaging in planning for action. We will code for bar-
+riers and facilitators that make it easier or harder, more or
+less attractive, social, and timely to implement SSAI EBPs.
+Using the NVivo qualitative data analysis software
+program, two members of the research team will then
+separately code a new sample of three transcripts and
+compare their application of the coding scheme to assess
+the reliability and robustness of the coding scheme. Dis-
+agreements in coding will be resolved through discus-
+sion and the codebook will be refined and applied to all
+transcripts. Coders will be expected to reach and main-
+tain interrater reliability at Cohen ’s kappa ≥.8. Reliability
+will be monitored through biweekly coding meetings. If
+reliability drops below the set kappa value of .8, add-
+itional training, supervision, and consensus meetings
+with coders will be conducted to improve reliability.
+Themes that generalize across sites, as well as those
+specific to a given setting (i.e., primary care or specialty
+mental health) will be summarized.Davis et al. Pilot and Feasibility Studies           (2020) 6:143 Page 5 of 10
+Attitudes toward safety planning Descriptive statistics
+will yield information on clinician attitudes toward safety
+planning.
+Chart-stimulated recall Since each setting has certain
+institutional expectations regarding SSAI practices, those
+expectations will be used to determine fidelity benchmarks.
+For instance, if a given site has an expectation that screen-
+ing for suicide risk should occur at all visits for patients
+above a certain age, the number of patients in that age
+range who were screened out of the total number of pa-
+tients seen in that age range will be used to calculate fidelity
+(all based on chart-stimulate d recall). Responses to chart-
+stimulated recall items will be analyzed separately for each
+SSAI practice (e.g., screening separately from intervention).
+Findings from Aim 1 will be synthesized to identify
+barriers and facilitators impacting the implementation of
+SSAI EBPs that will serve as inputs to implementation
+strategy design in Aim 2.
+Aim 2: Match implementation strategies to identified barriers
+Sample
+Participants will include an advisory board of expert
+stakeholders, including behavioral economists, clinicians,
+implementation scientists, and suicide prevention ex-
+perts. This group will develop prototypes of implementa-
+tion strategies that can help increase the use of SSAI
+EBPs by targeting the barriers identified in Aim 1.
+Procedures
+With guidance from one of the co-authors who is a design
+strategy consultant, the investigative team will engage in an
+assumption mapping exercise drawn from innovation [ 54]
+to first identify assumptions relevant to SSAI EBP imple-
+mentation (e.g., “organizational leader ship has established
+clear policies on how suicidal risk should be handled at
+their site ”) and determine the degree of certainty and risk
+associated with each assumption (e.g., by asking questions
+such as “H o wc e r t a i na r ew et h a tt h i sa s s u m p t i o ni st r u e ? ”
+and “If we are wrong, how problematic would that be to
+successful implementation? ”).
+Qualitative interviews and surveys from Aim 1 will form
+the basis for the assumption mapping exercise. Members
+of the research team will use barriers to SSAI identified
+through Aim 1 data collection to engage in a guided exer-
+cise led by the design consultant to create a comprehen-
+sive list of assumptions underlying identified barriers to
+the use of SSAI EBPs. Aim 1 data will inform team ratings
+of“how likely ”it is that each assumption is true and “how
+problematic ”it would be if each assumption were false.
+For example, if an identified barrier is that a lack of clear
+protocols inhibits SSAI implementation, an assumption
+underlying that barrier might be that enhancing protocols
+would promote the use of SSAI EBP practices. Asdescribed further below, we will then design and roll out
+an implementation strategy (i.e., a method for overcoming
+barriers to incorporating a clinical practice into routine
+healthcare delivery [ 55]) during the Aim 3 RCAs to test
+the assumptions generated.
+The assumption mapping exercise will produce a matrix
+of assumptions falling into four categories: “likely true, not
+problematic if false, ”“likely true, problematic if false, ”“un-
+certain if true, not problematic if false, ”and “uncertain if
+true, problematic if false. ”Assumptions rated as “uncertain
+if true, problematic if false ”constitute the “highest risk ”as-
+sumptions. This category represents the highest level of risk
+because there is both uncertainty as to whether the as-
+sumption is true and, if the assumption is false, targeting
+that barrier with an implementation strategy is unlikely to
+lead to successful EBP implement ation. These high-risk as-
+sumptions are therefore most crucial to test in using RCAs
+to optimize the likelihood that the implementation strat-
+egies identified for testing in confirmatory trials target the
+correct mechanisms. For example, one “high-risk ”assump-
+tion might be “Clinicians know how to implement SSAIs,
+but lack of time makes it difficult for them to do so. ”If
+false, this could mean that limited SSAI limitation is due to
+other factors, such as clinicia ns being asked to use interven-
+tions that they are improperly trained to deliver. Thus,
+testing this assumption (e.g., by leading trainings or brief
+seminars and obtaining feedback about the extent to which
+the training contained new information) would be critical
+for determining whether the final set of implementation
+strategies to be tested in larger trials should address
+clinician knowledge.
+We will design prototyped ve rsions of implementation
+strategies that will test the highest risk assumptions through
+rapid prototyping using RCA methodology in Aim 3. The
+goal of these trials is not to test the effectiveness of the im-
+plementation strategy, but rather to test the underlying as-
+sumption and evaluate the acc eptability and feasibility of
+the implementation strategy. The EAST framework will in-
+form the design of the implementation strategy to test the
+underlying assumption. For instance, if an underlying as-
+sumption is that clinicians forget to screen, we would
+prototype an attractive, timely reminder for clinicians to
+screen. If, during prototypin g, providers give feedback that
+they saw the reminder and found it feasible and acceptable
+but did not screen because they thought the patient was
+too young or low risk, we would learn our original assump-
+tion about “forgetting ”was not correct. This would lead us
+to test both a new implementation strategy and, in turn,
+an alternative assumption (e.g., clinician beliefs about
+client appropriateness is a primary driver of the deci-
+sion to screen). Alternatively, if the provider states that
+they never saw the reminder, that would suggest that
+the implementation strategy needs to be redesigned to
+serve its intended purpose.Davis et al. Pilot and Feasibility Studies           (2020) 6:143 Page 6 of 10
+Methods from innovation will be used as appropriate to
+develop and assess the prototyped implementation strat-
+egies, such as “fake back ends ”and “vapor tests, ”before
+larger, more comprehensive solutions are formulated and
+tested [ 37]. A fake back end is a temporary infrastructure
+that mimics a more resource-intensive strategy. For ex-
+ample, rather than programming a text-messaging plat-
+form that reminds clinicians to screen patients for suicide
+risk, a fake back end would entail a study team member
+manually texting reminders to clinicians to determine
+whether the system warrants the investment to automate
+it. A vapor test is a way to realistically assess demand for a
+given product or service to determine whether that prod-
+uct/service should be created. For example, a vapor test
+could be used to ask primary care clinicians to sign up to
+use an on-call service for access to a behavioral health
+clinician for consultation regarding suicide risk. Upon
+signing up for the service, the primary care clinician would
+receive a message that the service is “coming soon. ”
+Key stakeholders will provide feedback on the refined
+set of assumptions and initial prototyped implementation
+strategies. The approach used in the current study of ap-
+plying established practices from innovation to generate
+solutions to issues in healthcare is consistent with sugges-
+tions in the extant literature [ 37], yet such approaches are
+scarcely applied in behavioral health domains.
+The product will be a list of potential implementation strat-
+egies mapped to assumptions, which we will evaluate in Aim
+3. Findings will also yield important insights on the feasibility
+and utility of using an assumption mapping approach to de-
+sign tailored implementation strategies. See Table 1for an ex-
+ample of hypothesized output; however, this is subject to
+change based upon what we learn in the first aim.
+Aim 3: prototype implementation strategies using RCAs
+Sample
+Participants in Aim 3 will include behavioral health cli-
+nicians and physicians ( n= 10) in primary care practices,and behavioral health clinicians ( n= 10) in specialty
+mental health programs. Aim 3 participants may overlap
+with those in Aim 1 but new clinicians will also be in-
+vited to participate in Aim 3.
+Procedures
+We will start by deploying an implementation strategy that
+addresses barriers and tests assumptions in small steps to
+build up to a larger strategy that can be tested in future
+studies. In that way, we will be able to “rapidly test critical
+assumptions in context ”[37]. For a given rapid cycle
+period, our research team will embed themselves in the
+sites to engage in brief surveys and interviews regarding
+the rollout of each implementation strategy (note: we will
+work closely with stakeholders to ensure that all processes
+comply with COVID-19 restrictions). After testing a given
+implementation strategy, the team will debrief and decide
+whether to refine or adjust strategies based on the follow-
+ing criteria: (a) were enough trials completed to gain
+insight that consistently validates or invalidates the
+assumption?; (b) were a breadth of relevant stakeholders
+or circumstances included?; (c) were there obvious failures
+(e.g., did stakeholders voice serious concern)?; and (d) was
+the SSAI metric in question affected by the strategy?. We
+will then systematically test other strategies or refine exist-
+ing strategies to improve their integration into clinic work-
+flow. We anticipate that each phase will take 1 –3w e e k s
+and that we will conduct up to five rapid cycle trials. Of
+note, rapid prototyping is designed to uncover additional
+barriers and facilitators in order to optimize implementa-
+tion strategies.
+Measures
+After each discrete rapid cycle phase, we will quantitatively
+assess the feasibility and accep tability of the implementa-
+tion strategies from the persp ective of clinicians via two
+brief (4 items each) questionnai res: Acceptability of Inter-
+vention Measure and Feasibility of Intervention Measure
+Table 1 Examples of applying tailored implementation strategies to target potential assumptions
+Barrier identified via
+contextual inquiryUnderlying assumption Behavioral
+insightImplementation
+strategy to be testedPlan for testing variations
+of the implementation
+StrategySample questions for
+rapid prototyping
+evaluation
+Clinicians report
+“forgetting ”as a
+barrier to routine
+screeningClinicians intend to screen
+and would do so more
+often if they rememberedCognitive
+loadClinicians nudged to
+screen via posters or
+text reminders prior to
+session timesTest different posters
+hanging in the hallway with
+various framed messages
+and in different locations;
+send text reminders before
+appointment times to
+nudge clinicians to screenDid you notice the poster
+in the hallway? Did you
+notice the text message
+before your sessions?
+What was it like having a
+reminder to screen?
+Clinicians do not
+perceive that others
+in their organization
+routinely engage in
+brief intervention to
+address suicide riskClinicians do not believe
+that brief interventions for
+suicide risk are the norm
+in their practice and
+therefore use these
+interventions infrequentlySocial
+normsWeekly leaderboard of
+clinicians engaging in
+safety planning for
+suicide prevention with
+clients identified to be
+at suicide riskVary timing of the email,
+who sends it (clinic leader
+vs. research team), and
+presentation of the resultsDid you open the email?
+What were your thoughts
+when you saw the
+leaderboard?Davis et al. Pilot and Feasibility Studies           (2020) 6:143 Page 7 of 10
+[56]. These questionnaires have demonstrated reliability
+and validity (e.g., internal consi stency, test-retest reliability,
+content validity [ 56]. We also will collect qualitative data by
+directly asking clinicians, s taff, and clinic leaders about
+their experience with each strategy. To obtain a prelim-
+inary estimate of fidelity to SSAI procedures, we will
+engage providers in chart-stimulated recall before the
+implementation strategies are tested, in the midst of
+strategy testing, and afterwards.
+Analyses
+Acceptability and feasibility We will analyze accept-
+ability and feasibility scores on the Acceptability of
+Intervention Measure and Feasibility of Intervention
+Measures using descriptive statistics for primary care
+and specialty mental health separately, which will allow
+us to explore how means and standard deviations on
+these measures compare across sites. We will collect and
+summarize qualitative perceptions of the feasibility and
+acceptability of the strategies.
+Chart-stimulated recall Preliminary fidelity estimates
+will be exploratory given that we will not be powered to
+detect effects.
+The outcomes of Aim 3 will be preliminary data on
+the feasibility and acceptability of the implementation
+strategies, as well as exploratory data on provider fidelity
+to SSAI EBPs.
+Discussion
+This project has the potential to increase the use of sui-
+cide prevention EBPs in settings in which individuals
+with suicidal ideation and behavior are particularly likely
+to present. The dual-pronged approach of including
+primary care and specialty mental health settings will
+increase the potential reach and subsequent impact of
+this research. Importantly, this cross-setting work will
+produce both specific knowledge on how to implement
+SSAI EBPs within each setting and generalizable know-
+ledge across settings. Thus, the present study has the
+potential to accelerate the pace at which SSAI EBPs are
+deployed in multiple healthcare settings.
+This project has several key strengths. First, it applies in-
+sights, frameworks, and methods from BE, which to date
+have not been applied systematically within implementa-
+tion science to improve suicide prevention [ 38]. Second, it
+utilizes innovative methods, including RCAs from industry
+to“fail fast and learn quickly ”in the search for effective
+implementation strategies [ 57]. Third, it utilizes a multi-
+method approach to identify behavioral barriers that may
+impede implementation. Fourth, it will provide prelimin-
+ary indications of the mechanisms (i.e., assumptions)
+through which implementation strategies improve the useof SSAI EBPs [ 35,36]. Thus, testing assumptions in the
+RCAs will provide key information on why strategies did
+or did not work, thereby allowing us to identify specific
+targets for subsequent trials. Fifth, the proposed work will
+allow for the identification of core determinants across
+settings that may hinder or facilitate SSAI EBP implemen-
+tation, ultimately leading to a widely applicable set of im-
+plementation strategies [ 34].
+Nonetheless, there are several potential limitations to this
+study. In particular, as this is a trial focused on establishing
+feasibility and acceptability, the sample size will be small,
+thereby limiting statistical power. However, this research
+will be pivotal in paving the way for larger confirmatory tri-
+als of the novel implementation strategies developed in this
+study. Furthermore, the RCAs used in the current study
+will allow us to prototype implementation strategies, de-
+signed in collaboration with key stakeholders, to optimize
+their effectiveness before conducting expensive and lengthy
+trials. Additionally, although the use of multiple settings
+enhances the generalizability of our work, the extent to
+which findings will be applicable to healthcare systems in
+other areas of the United Sta t e sa sw e l la si no t h e rc o u n -
+tries, or to settings beyond primary care and specialty men-
+tal health (e.g., specialty medical clinics, college counseling
+centers), is an empirical ques tion to test in future studies.
+Given the study ’s focus on provider perspectives and
+behavior, patients and families were not recruited. The
+inclusion of patients and families in future work on this
+topic will be critical for building upon research that has
+assessed patient and family perspectives to date [ 58,59]
+and for ensuring SSAI procedures are acceptable to a
+range of stakeholders.
+Overall, this study will yield essential information on
+strategies for maximizing the implementation of EBPs
+that can reduce the likelihood of deaths by suicide. This
+work will be a critical building block for improving the
+quality of care and clinical outcomes in primary care
+and specialty mental health. Findings will spur further
+research on ways to augment the delivery of SSAI EBPs
+across settings.
+Abbreviations
+EBP: Evidence-based practice; SSAI: Suicide screening, assessment, and
+intervention; RCA: Rapid cycle approaches; EAST: Easy, Attractive, Social, and
+Timely; BE: Behavioral economics; ALACRITY: Advanced Laboratories for
+Accelerating the Reach and Impact of Treatments for Youth and Adults with
+Mental Illness
+Acknowledgements
+Molly Davis is supported by a National Institute of Mental Health Training
+Fellowship (T32 MH109433; Mandell/Beidas MPIs). This supplement was part
+of a larger P50 ALACRITY grant (P50 MH113840; PIs: Beidas, Mandell, &
+Buttenheim/Volpp). We want to thank the network of primary care clinicians
+for their contribution to this project and clinical research facilitated through
+the Pediatric Research Consortium (PeRC) at The Children ’s Hospital of
+Philadelphia.Davis et al. Pilot and Feasibility Studies           (2020) 6:143 Page 8 of 10
+Authors ’contributions
+All authors contributed to the conceptualization and design of the proposed
+work (MD, CBW, SJH, RB, JY, JM, AB, DM, KV, KW, AF, DM, ELD, and EBH). RB,
+DM, AB, and KV are principal investigators and responsible for all Center
+activities. MD drafted the initial manuscript. All authors read, provided critical
+feedback and editing, and approved the final manuscript.
+Funding
+This project is funded by an administrative supplement to a National
+Institute of Mental Health (NIMH) P50 Advanced Laboratories for
+Accelerating the Reach and Impact of Treatments for Youth and Adults with
+Mental Illness (ALACRITY) grant (supplement grant number: 3P50MH113840-
+03S1; PIs: Beidas, Mandell, & Buttenheim/Volpp; supplement title: Transform-
+ing Mental Health Delivery Through Behavioral Economics and Implementa-
+tion Science).
+Availability of data and materials
+Not applicable.
+Ethics approval and consent to participate
+The University of Pennsylvania (834031) and the Children ’s Hospital of
+Philadelphia (19-017043) Institutional Review Boards (IRBs) have approved
+this study and all ethical guidelines will be followed. The study was granted
+exemption status by the relevant IRBs. Moreover, the University of
+Pennsylvania ’s IRB deemed Aim 3 to be a quality improvement project.
+Modifications to study procedures will be submitted to the IRBs in
+accordance with their guidelines. All research participants will provide
+written consent prior to participating; trained study staff will carry out
+consent procedures. Any significant changes to study protocol that impact
+provider participation will be communicated to those participants.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare they have no competing interests.
+Author details
+1Department of Psychiatry, University of Pennsylvania Perelman School of
+Medicine, Philadelphia, PA, USA.2Penn Implementation Science Center at
+the Leonard Davis Institute of Health Economics (PISCE@LDI), University of
+Pennsylvania, Philadelphia, PA, USA.3Leonard Davis Institute of Health
+Economics, University of Pennsylvania, Philadelphia, PA, USA.4Department of
+Medical Ethics and Health Policy, Perelman School of Medicine, University of
+Pennsylvania, Philadelphia, PA, USA.5Department of Medicine, Perelman
+School of Medicine, University of Pennsylvania, Philadelphia, PA, USA.
+6Department of Child and Adolescent Psychiatry and Behavioral Sciences,
+Children ’s Hospital of Philadelphia, and PolicyLab, Children ’s Hospital of
+Philadelphia, Philadelphia, PA, USA.7Center for Health Incentives and
+Behavioral Economics, Perelman School of Medicine, University of
+Pennsylvania, Philadelphia, PA, USA.8Department of Family and Community
+Health, School of Nursing, University of Pennsylvania, Philadelphia, PA, USA.
+9Department of Health Care Management, The Wharton School, University of
+Pennsylvania, Philadelphia, PA, USA.10Penn Medicine Center for Health Care
+Innovation, University of Pennsylvania, Philadelphia, PA, USA.11Jefferson
+College of Life Sciences, Thomas Jefferson University, University of
+Pennsylvania, Philadelphia, PA, USA.
+Received: 1 April 2020 Accepted: 14 September 2020
+References
+1. World Health Organization: Mental Health: Suicide. (2016) http://www.who.
+int/mental_health/prevention/suicide/suicideprevent/en/ . Accessed 1 June
+2020.
+2. Centers for Disease Control and Prevention: Increase in Suicide Mortality in
+the United States, 1999-2018. (2020). https://www.cdc.gov/nchs/products/
+databriefs/db362.htm . Accessed 15 June 2020.
+3. Posner K, Brown GK, Stanley B, Brent DA, Yershova KV, Oquendo MA, et al.
+The Columbia –Suicide Severity Rating Scale: Initial validity and internalconsistency findings from three multisite studies with adolescents and
+adults. Am J Psychiatry. 2011;168:1266 –77.
+4. Stanley B, Brown GK. Safety Planning Intervention: A brief intervention to
+mitigate suicide risk. Cogn Behav Pract. 2012;19:256 –64.
+5. Gamarra JM, Luciano MT, Gradus JL, Wiltsey Stirman S. Assessing variability
+and implementation fidelity of suicide prevention safety planning in a
+regional VA healthcare system. Crisis. 2015;36:433 –9.
+6. Green JD, Kearns JC, Rosen RC, Keane TM, Marx BP. Evaluating the
+effectiveness of safety plans for military veterans: Do safety plans tailored to
+veteran characteristics decrease suicide risk? Behav Ther. 2018;49:931 –8.
+7. Lang M, Uttaro T, Caine E, Carpinello S, Felton C. Implementing routine
+suicide risk screening for psychiatric outpatients with serious mental
+disorders: I. qualitative results. Arch Suicide Res. 2009;13:160 –8.
+8. Schmidt RC. Mental health practitioners ’perceived levels of preparedness,
+levels of confidence and methods used in the assessment of youth suicide
+risk. Prof Couns. 2016;6:76 –88.
+9. Dobler CC, Morrow AS, Kamath CC. Clinicians ’cognitive biases: A potential
+barrier to implementation of evidence-based clinical practice. BMJ Evid
+Based Med. 2019;24:137 –40.
+10. Ahmedani BK, Simon GE, Stewart C, Beck A, Waitzfelder BE, Rossom R, et al.
+Health care contacts in the year before suicide death. J Gen Intern Med.
+2014;29:870 –7.
+11. Horowitz LM, Bridge JA, Teach SJ, Ballard E, Klima J, Rosenstein DL, et al. Ask
+Suicide-Screening Questions (ASQ). Arch Pediatr Adolesc Med. 2012;166:1170.
+12. Kroenke K, Spitzer RL, Williams JBW. The PHQ-9. J Gen Intern Med. 2001;16:606 –13.
+13. Suicide Assessment Five-step Evaluation and Triage (SAFE-T) for Mental
+Health Professionals. (2009) http://www.mentalhealthscreening.org.
+Accessed 19 February 2020.
+14. Etter DJ, McCord A, Ouyang F, Gilbert AL, Williams RL, Hall JA, et al. Suicide
+screening in primary care: Use of an electronic screener to assess suicidality and
+improve provider follow-up for adolescents. J Adolesc Health. 2018;62:191 –7.
+15. Stanley B, Brown GK, Brenner LA, Galfalvy HC, Currier GW, Knox KL, et al.
+Comparison of the Safety Planning Intervention with follow-up vs usual
+care of suicidal patients treated in the emergency department. JAMA
+Psychiatry. 2018;75:894.
+16. Shain B. Suicide and suicide attempts in adolescents. Pediatrics. 2016;138:
+e20161420.
+17. Siu AL. Screening for depression in children and adolescents: U.S. Preventive
+Services Task Force recommendation sta tement. Ann Intern Med. 2016;164:360.
+18. Siu AL, Bibbins-Domingo K, Grossman DC, Baumann LC, Davidson KW, Ebell
+M, et al. Screening for depression in adults. JAMA. 2016;315:380.
+19. Diamond GS, O ’Malley A, Wintersteen MB, Peters S, Yunghans S, Biddle V,
+et al. Attitudes, practices, and barriers to adolescent suicide and mental
+health screening. J Prim Care Community Health. 2012;3:29 –35.
+20. Tversky A, Kahneman D. The framing of decisions and the psychology of
+choice. Science. 1981;211:453 –8.
+21. Kahneman D, Tversky A. Prospect theory: An analysis of decision under risk.
+Econometrica. 1979;47:363 –91.
+22. Tversky A, Kahneman D. Judgment under uncertainty: Heuristics and biases.
+Science. 1974;185:1124 –31.
+23. Muraven M, Baumeister RF. Self-regulation and depletion of limited resources:
+Does self-control resemble a muscle? Psychol Bull. 2000;126:247 –59.
+24. Cialdini RB, Goldstein NJ. Social influence: Compliance and conformity.
+Annu Rev Psychol. 2004;55:591 –621.
+25. Ajzen I. The theory of planned behavior. Organ Behav Hum Decis Process.
+1991;50:179 –211.
+26. Deci EL, Ryan RM. Overview of self-determi nation theory: An organismic dialectical
+perspective. In: Deci EL, Ryan RM, edi tors. Handbook of self-determination
+research. Rochester: The University of Rochester Press; 2002. p. 3 –33.
+27. Lyon AR, Cook CR, Duong MT, Nicodimos S, Pullmann MD, Brewer SK, Gaias
+LM, Cox S. The influence of a blended, theoretically-informed pre-
+implementation strategy on school-based clinician implementation of an
+evidence-based trauma intervention. Implement Sci. 2019;14:54.
+28. Williams V, Deane FP, Oades LG, Crowe TP, Ciarrochi J, Andresen R. A cluster-
+randomised controlled trial of values-based training to promote autonomously
+held recovery values in mental health workers. Implement Sci. 2015;11:13.
+29. Patel MS, Day SC, Halpern SD, Hanson CW, Martinez JR, Honeywell S, et al.
+Generic medication prescription rates after health system –wide redesign of
+default options within the electronic health record. JAMA Intern Med. 2016;
+176:847 –8.Davis et al. Pilot and Feasibility Studies           (2020) 6:143 Page 9 of 10
+30. Doshi JA, Lim R, Li P, Young PP, Lawnicki VF, State JJ, et al. A synchronized
+prescription refill program improved medication adherence. Health Aff.
+2016;35:1504 –12.
+31. Patel MS, Kurtzman GW, Kannan S, Small DS, Morris A, Honeywell S, et al.
+Effect of an automated patient dashboard using active choice and peer
+comparison performance feedback to physicians on statin prescribing.
+JAMA Netw Open. 2018;1:e180818.
+32. Patel MS, Volpp KG, Asch DA. Nudge units to improve the delivery of health
+care. N Engl J Med. 2018;378:214 –6.
+33. Powell BJ, Waltz TJ, Chinman MJ, Damschroder LJ, Smith JL, Matthieu MM,
+et al. A refined compilation of implementation strategies: Results from the
+Expert Recommendations for Implementing Change (ERIC) project.
+Implement Sci. 2015;10:21.
+34. Williams NJ, Beidas RS. Annual Research Review: The state of
+implementation science in child psychology and psychiatry: A review and
+suggestions to advance the field. J Child Psychol Psychiatry. 2019;60:430 –50.
+35. Asch DA, Terwiesch C, Mahoney KB, Rosin R. Insourcing health care
+innovation. N Engl J Med. 2014;370:1775 –7.
+36. Boustani M, Alder CA, Solid CA. Agile implementation: A blueprint for implementing
+evidence-based healthcare solutions. J Am Geriatr Soc. 2018;66:1372 –6.
+37. Asch DA, Rosin R. Innovation as discipline, not fad. N Engl J Med. 2015;373:
+592 –4.
+38. Beidas RS, Volpp KG, Buttenheim AN, Marcus SC, Olfson M, Pellecchia M,
+et al. Transforming mental health delivery through behavioral economics
+and implementation science: Protocol for three exploratory projects. JMIR
+Res Protoc. 2019;8:e12121.
+39. Lewis CC, Scott K, Marriott BR. A methodology for generating a tailored
+implementation blueprint: an exemplar from a youth residential setting.
+Implement Sci. 2018;13:68.
+40. Wolk CB, Van Pelt AE, Jager-Hyman S, Ahmedani BK, Zeber JE, Fein JA, et al.
+Stakeholder perspectives on implementing a firearm safety intervention in
+pediatric primary care as a universal suicide prevention strategy: a
+qualitative study. JAMA Netw Open. 2018;1:e185309.
+41. Service O, Hallsworth M, Halpern D, Algate F, Gallagher R, Nguyen S, et al.
+EAST: Four simple ways to apply behavioural insights. 2014.
+42. Potthoff S, Presseau J, Sniehotta FF, Breckons M, Rylance A, Avery L.
+Exploring the role of competing demands and routines during the
+implementation of a self-management tool for type 2 diabetes: A theory-
+based qualitative interview study. BMC Med Inform Decis Mak. 2019;19:23.
+43. Reyes-Portillo JA, McGlinchey EL, Toso-Salman J, Chin EM, Fisher PW,
+Mufson L. Clinician experience and attitudes toward safety planning with
+adolescents at risk for suicide. Arch Suicide Res. 2019;23:222 –33.
+44. Cunnington JP, Hanna E, Turnhbull J, Kai gas TB, Norman GR. Defensible assessment
+of the competency of the practicing physician. Acad Med. 1997;72:9 –12.
+45. Goulet F, Jacques A, Gagnon R, Racette P, Sieber W. Assessment of family
+physicians ’performance using patient charts. Eval Health Prof. 2007;30:376 –92.
+46. Miller PA, Nayer M, Eva KW. Psychometric properties of a peer-assessment
+program to assess continuing competence in physical therapy. Phys Ther.
+2010;90:1026 –38.
+47. Salvatori P, Simonavicius N, Moore J, Rimmer G, Patterson M. Meeting the
+challenge of assessing clinical competence of occupational therapists within
+a program management environment. Can J Occup Ther. 2008;75:51 –60.
+48. Jennett P, Affleck L. Chart audit and chart stimulated recall as methods of
+needs assessment in continuing professional health education. J Contin
+Educ Heal Prof. 1998;18:163 –71.
+49. Beidas RS, Maclean JC, Fishman J, Dorsey S, Schoenwald SK, Mandell DS,
+et al. A randomized trial to identify accurate and cost-effective fidelity
+measurement methods for cognitive-behavioral therapy: Project FACTS
+study protocol. BMC Psychiatry. 2016;16:323.
+50. Chan AW, Tetzlaff JM, Altman DG, Laupacis A, Gøtzsche PC, Krle ža-Jeri ćK,
+Doré CJ. SPIRIT 2013 statement: Defining standard protocol items for clinical
+trials. Ann Intern Med. 2013;158:200 –7.
+51. Bradley EH, Curry LA, Devers KJ. Qualitative data analysis for health services
+research: Developing taxonomy, themes, and theory. Health Serv Res. 2007;
+42:1758 –72.
+52. Glaser B, Strauss A. Applying grounded theory. The discovery of grounded
+theory: Strategies of qualitative research. Chicago: Aldine Publishing
+Company; 1967.
+53. Charmaz K. Grounded theory: Objectivist and constructivist methods.
+Thousand Oaks: Sage; 2000.54. Gutbrod M, Münch J. Teaching lean startup principles: an empirical study
+on assumption prioritization. Espoo: InSiBW; 2018. p. 245 –53.
+55. Proctor EK, Powell BJ, McMillen JC. Implementation strategies:
+recommendations for specifying and reporting. Implement Sci. 2013;8:1 –11.
+56. Weiner BJ, Lewis CC, Stanick C, Powell BJ, Dorsey CN, Clary AS, et al.
+Psychometric assessment of three newly developed implementation
+outcome measures. Implement Sci. 2017;12:108.
+57. Loewenstein G, Asch DA, Volpp KG. Behavioral economics holds potential
+to deliver better results for patients, insurers, and employers. Health Aff.
+2013;32:1244 –50.
+58. Lois BH, Urban TH, Wong C, Collins E, Brodzinsky L, Harris MA, Adkisson H,
+Armstrong M, Pontieri J, Delgado D, Levine J. Integrating suicide risk
+screening into pediatric ambulatory subspecialty care. Pediatr Qual Saf.
+2020;5:e310.
+59. Richards JE, Hohl SD, Whiteside U, Ludman EJ, Grossman DC, Simon GE,
+Shortreed SM, Lee AK, Parrish R, Shea M, Caldeiro RM. If you listen, I will talk:
+The experience of being asked about suicidality during routine primary
+care. J Gen Intern Med. 2019;34:2075 –82.
+Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.Davis et al. Pilot and Feasibility Studies           (2020) 6:143 Page 10 of 10

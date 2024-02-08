@@ -1,0 +1,936 @@
+promot ing access to White Rose research papers  
+   
+White Rose Research Online  
+eprints@whiterose.ac.uk  
+ 
+ 
+ 
+Universities of Leeds, Sheffield and York  
+http://eprints.whiterose.ac.uk/  
+ 
+ 
+ 
+This is an author prod uced version of a paper published in Health Psychology . 
+White Rose Re search Online  URL for this paper:  
+ 
+http://eprints.whiterose.ac.uk/76353 / 
+ 
+ 
+ 
+ 
+Paper : 
+Michie, S  and Prestwich, A  (2010) Are interventions theory -based? Development 
+of a Theory Coding Scheme.  Health Psychology, 29 (1). 1 - 8 (8).  
+ 
+http://dx.doi.org/10.1037/a0016939  
+ 
+ 1 
+ 
+ 
+APA Copyright Notice: This article may not exactly replicate the final version 
+published in the APA journal. It is not the copy of record. This is a preprint of an article 
+whose final and definitive form has been published in Health Psychology  © 2010 Ame rican 
+Psychological Association DOI: 10.1037/a0016939 ; Health Psychology  is available online 
+at http://www.apa.org/pubs/journals/hea/index.aspx  . The final and definitive form of the 
+article c an be found at http://psycnet.apa.org/journals/hea/29/1/1/   
+ 
+Running Head: CODING THEORY  
+ 
+ 
+Are interventions theory -based?  Development of a Theory Coding Scheme  
+ 
+Susan Michie  
+Centre for Outcomes  Research and Effectiveness, University College London, UK  
+Andrew Prestwich  
+Institute of Psychological Sciences, University of Leeds, UK  
+ 
+Author Note  
+We would like to thank Falko Sniehotta, Kali Demes, Ben Gardner, John McAteer 
+and Lizzie Rogers for their helpful input  in developing the coding scheme  and Robert 
+West, Mark Conner, Rebecca Lawton, and David French for helpful comments on an 
+earlier draft.  Correspondence should be addressed to Professor Susan Michie, Centre 
+for Outcomes Research and Effectiven ess, University College London, 1 -19 
+Torrington Place, London WC1E 7HB, United Kingdom, email: s.michie@ucl.ac.uk 
+Tel. +44 (0) 207 679 5930; Fax: +44 (0) 207 916 8511.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 2 
+ 
+Abstract  
+Objective  
+Interventions are increasingly described as theory -based; howe ver, the basis for this  is 
+often not clear. Advancing behavioural science requires a good understanding of how 
+interventions are informed by, and test, theory. This study aims to develop  a reliable 
+method for assessing the extent to which behavioural inter ventions are theory -based.  
+Design  
+The reliability, usability, and comprehensiveness of an initial coding scheme were 
+improved in 13 iterative stages on the basis of its application to 29 papers from a 
+systematic review of interventions to promote physical  activity and healthy eating. 
+Results  
+The final Theory Coding Scheme  contained 19 items, each with satisfactory inter -
+rater reliabilities, coding whether a theory or model was mentioned, how theories 
+were  used in intervention design, how intervention evalu ations test ed theory and the 
+implications of the results for future theory development . 
+Conclusion  
+The Theory Coding Scheme is an important methodological innovation, providing a research 
+tool to reliably describe the theoretical base of interventions, inf orm evidence syntheses 
+within literature reviews and meta -analyses, and stimulate the use of empirical data for theory 
+development.   
+ 
+Key words: Theory, behaviour change, interventions  
+ 
+ 3 
+Introduction  
+ There is growing recognition in the discipline of psycho logy, and the broader 
+health services research and public health community (Campbell et al., 2000; Craig et 
+al., 2008 ), that the development and imple mentation of behaviour change 
+technologies are enhanc ed by applying  theory.  Theory provides a common 
+description of what is known within  an organising  system .  Within the behavioural 
+and social sciences, the term “theory” has been defined variously, but definitions tend 
+to share a core set of common ideas, elegantly expressed in the following:  
+“A theory pres ents a systematic way of understanding events or situations.  
+It is a set of concepts, definitions, and propositions that explain or predict 
+these events or situations by illustrating the relationships between variables .” 
+Glanz  and Rimer  (2005, p.4). 
+Applyi ng theory leads both to “a steadily  richer and more potent picture of how things 
+work” (Clarke, 1987, p.35) and to the refinement of the theory from which they 
+derived.   The problem of research that lacks explicit theory is characterised by Clarke 
+as “pie ces of a jigsaw which accumulate in journals ….despite the fact that a real jig-
+saw puzzle can only be made by taking a picture and cutting it up into pieces, not by 
+making pieces and hoping they will form a picture.” (p.35)  
+ Explicit use of theory in desi gning and evaluating interventions has several 
+benefits. First, theory can be used to inform interventions by identifying constructs 
+(key concepts in the theory) that are hypothesised to be  causally related to behaviour 
+and are therefore appropriate target s for the intervention. Changing constructs that 
+cause behaviour will, theoretically, lead to behaviour change (Hardeman et al., 2005). 
+Using theory in this way can confer a range of benefits including potentially stronger 
+effects (Albarracin et al., 2005;  Downing, Jones, Cook, & Bellis, 2006;  Fisher & 
+ 4 
+Fisher, 2000; Gehrman & Hovell, 2003; Kim, Stanton , Li, Dickersin, & Galbraith , 
+1997).  First, b y identifying theoretical constructs to target, theory provides a means 
+for selecting component intervention tec hniques (Wingood & DiClemente, 1996; 
+Michie, Johnston, Francis, Hardeman,  & Eccles,  2008)  and for  refin ing or tailoring 
+intervention techniques ( Noar, Benac, & Harris, 2007 ).  Second, c ollecting empirical 
+data within a theoretical framework facilitates the  accumulation of evidence of 
+effectiveness across different contexts, populations and behaviours.  Third, a s well as 
+using theory to inform intervention development, theory -based interventions can aid 
+understanding of why interventions are effective or ine ffective, thus facilitating  an 
+understanding of mechanisms of change and providing  a basis for refining and 
+developing better theory ( Jemmott & Jemmott, 2000; Michie & Abraham, 2004).  In 
+this way, there is a synergistic cycle  of intervention development an d evaluation.  
+ Despite the apparent advantages of applying theory to interventions, a 
+substantial proportion of studies, identified in reviews, fails to make explicit reference 
+to theory, let alone explicitly apply or test it (see Albarracin et al, 2005 ; Trifiletti, 
+Gielen, Sleet, & Hopkins 2005; Noar & Zimmerman, 2005 ; Dombrowski, Sniehotta , 
+& Avenell, 2007). Studies are  traditionally less likely to be developed within an 
+organising conceptual framework in the behavioural and social sciences than in the 
+biomedical and physical sciences (Clarke, 1987).  Theory is too often used as a „loose 
+framework‟, to which passing reference is made, rather than as an integral part of a 
+rigorous scientific process.  Where a theoretical base for an intervention is stated, 
+there is seldom reference to a method describing how the theory informed the design 
+of the intervention, or how the evaluation tests theory (Rothman, 2004). This may 
+reflect a lack of consideration as to how theory might be used to inform and evaluate 
+the intervention at the planning stage, or poor articulation of these issues at the 
+ 5 
+dissemination stage.  Where theoretically informed interventions have been developed 
+and thoroughly tested, there has been limited consideration of the implications of the 
+findings for theory revision or development (Michie, Sheeran, & Rothman, 2007).  
+  Current practice in systematic reviews of behavioural interventions is to deem 
+an intervention to be theory -based if authors cite  theory -based literature in relation to 
+the inte rvention .  Examples of such reviews in the area of prevention of sexually 
+transmitted infections are Albarracin et al. (2005), Downing et al. (2006), Fisher & 
+Fisher (2000), Jemmott & Jemmott (2000), Kim et al. (1997) and Wingood & 
+DiClemente (1996) and, in the area of smoking , Gehrman  & Hovell (2003).  Other 
+reviews that cross several behavioural domains are Baban & Craciun  (2007 ) and 
+Webb & Sheeran ( 2006 ).  Many of these reviews claim that interventions grounded in 
+theories of behaviour change were more e ffective. However, most of these claims are 
+not backed by strong evidence, and few authors who cite theory as the basis for their 
+interventions explain the method by which this is done.   
+  Frameworks have been developed for designing and evaluating comple x 
+interventions that give theory a central role within the process e.g. UK Medical 
+Research Council´s framework (Campbell et al., 2000; Craig et al., 2008)  and 
+Intervention Mapping (Bartholomew, Parcel, Kok,  & Gottlieb, 2006).  However, they 
+do not give detailed guidan ce as to how to use theory to design interventions, nor how 
+to use evaluations of behaviour change interventions to test and develop theory 
+(Michie , Sheeran, & Rothman, 2007) .  If we are to improve our understanding of how 
+interventions effect change, to develop more effective interventions  and to use 
+empirical evaluation to develop theory, we need to develop a more precise and 
+scientific method for linking behaviour change theory to designing and evaluating 
+intervent ions to change behaviour.  We need a common understanding of what 
+ 6 
+“theory -based” means and a rigorous method for assessing the theoretical base for 
+interventions.   
+ This paper  reports the development of a detailed , objective and reliable 
+method for assess ing the extent to which behavioural interv entions are theory -based, 
+specifically the degree to which intervention development and evaluation  are 
+informed by, and therefore can inform, behaviour change theory.  
+ 
+Method  
+Conceptualisation  
+ The starting point f or the coding frame came from Ellis et al. (2003) who 
+posited that theory -based interventions require the following ; named „modifying 
+factors‟, explanations as to how these factors will bring about change, methods to 
+demonstrate changes in the modifying fa ctors, and demonstration of how those 
+changes contributed to behaviour change. We operationalised these concepts as three 
+categories: whether the relevant theoretical constructs („modifying factors‟) were 
+targeted by intervention techniques, whether these constructs were measured and 
+whether mediation effects were tested.  
+Initial development  
+ An initial coding scheme of 10 items was generated, with two to six response options per 
+item: (1) theory specified in introduction to journal article (2) psychologic al constructs specified 
+in the introduction (3) intervention was generally theory informed (4) intervention focused on 
+either one or more than one specific theory (5) explicit description of how theory -based 
+interventions targeted psychological constructs (6) all theoretical constructs were measured (7) at 
+least one theoretical construct was measured (8) change in any/all theoretical constructs was 
+measured (9) mediation of any/all theoretical constructs was measured (10) findings were 
+ 7 
+explained in relation  to theory , or theories , on which the intervention was based. These 10 items 
+reflected the three categories outlined in the conceptualisation section above. Specifically, items 
+1-5 related to whether the relevant theoretical constructs were targeted by int ervention 
+techniques, item 6 -7 related to whether theoretical constructs were measured and items 8 -10 
+referred to whether mediation effects were tested and how the intervention brought about 
+behaviour change.  
+ The initial coding scheme1 was applied by one of the authors to 29 papers of a 
+systematic review of interventions to increase healthy eating in the general population 
+(Michie, Abraham, Whittington , & McAteer , 2007).  A sub -set of papers was coded 
+by the other author . Following discussions between the  coders, some items were re -
+worded and the response options were simplified to either yes/no or all/some/none. 
+Definitions of theory (or model), theory -relevant construct, predictor and intervention 
+technique were then generated.   
+Refinement  
+ The initial scheme was tested by four independent raters in a series of 13 iterative stages 
+coding papers from  a systematic review of interventions to increase healthy eating in the general 
+population ( Michie, Abraham, Whittington , & McAteer , 2007 ). Ten of these  stage s involved two 
+raters, one involved three and two involved one. The scheme was refined on the  basis of 
+discussion between the authors concerning comprehensiveness, clarity and ease of use, feedback 
+from independent raters, and the inter -rater reliability o f each item. The final modification was 
+made following the comments of an anonymous reviewer, revising  items  12 and 1 5 and adding 
+items 1 3 and 19 . Inter-rater reliability of two independent coders was assessed using Cohen‟s 
+kappa statistic. A Cohen‟s kappa  value between .61 and .80 reflects substantial agreement 
+(Landis & Koch, 1977). An overview of the 1 3 iterative stages is provided in Table 1.  
+ 
+ 8 
+Insert Table 1  here 
+ 
+A glossary of key terms was first introduced at stage 6. The final definitions used as a g uide for 
+coders were:  
+Theory (or Model):  „a set of interrelated concepts, definitions and propositions that present a 
+systematic  view of events or situations by specifying relations among variables, in order to 
+explain  or predict  the events or situations‟ (Glanz and Rimer , 2005 , p.4). Examples provided in 
+the guidance include: Theory of Planned Behaviour, Theory of Reasoned Action, Health Belief 
+Model and Stages of Change/Trans -Theoretical Model . 
+Theory -relevant construct: A construct (a key concept, exclud ing behaviour) within a 
+theory/model upon which the intervention is based.  A „Table of Theories‟ was 
+included in the coding guidance to assist coders in identifying whether a particular 
+construct belongs to the specified theory.  
+Predictor: A construct th at is not explicitly linked to a theory by the authors, but is targeted for 
+intervention (as a means to change behaviour) because it predicts behaviour. Predictors were 
+only coded if the author had presented evidence that the construct predicts/correlates with/causes 
+behaviour. Predictors did not include actual behaviour, self -reported or otherwise (e.g. amount of 
+time spent exercising), or biological factors (e.g., age, gender), or demographic factors (e.g. 
+socio -economic status).  
+Intervention Technique: Strategy used to change behaviour, theory -relevant construct or 
+predictor (e.g., providing information on consequences; prompting specific goal setting; 
+prompting barrier identification; modelling the behaviour; planning social support).  
+ 
+ 
+ 
+ 9 
+Results  
+ The fi nal Theory Coding Scheme comprised 19 items with a clear description 
+of how to code each item2. Each item required a yes/no/don‟t know response  and the 
+coder to identify the supporting evidence. All items showed substantial inter -rater 
+reliability (all κs ≥ .70)  except one sub -item ( 19d, κ =.64) which had a lower , but 
+acceptable  kappa and a high level of agreement between coders (18/19, 95%).  The 
+scheme and kappa values are shown in Table 2. The items are presented within the 
+following six categories of  coded items: reference to underpinning theory (items 1 to 
+3), targeting of relevant theoretical constructs (items 2, 5, 7 -11), using theory to select 
+recipients or tailor interventions (items 4 and 6) , measurement of constructs (item s 12 
+and 13 ), testin g of mediation effects (items 14 -18) and refining theory (item 19 ).  
+Category 1 : Is theory mentioned ? 
+ These items assessed stated or suggested, rather than demonstrated, theoretical 
+base. One item assessed whether theory was mentioned even if the interventi on was 
+not explicitly based on it (item 1). A second item related to whether predictors of the 
+targeted behaviour (item 2) were mentioned (and also targeted) while a third (item 3) 
+assessed whether the intervention was based on a single or multiple theorie s. An 
+intervention based on a number of different theories or a combination of theory and 
+„predictors‟ makes the links between theory and the intervention more complex and, 
+usually, obscure.  This makes theory testing more difficult. Often studies use a wi de 
+variety of behaviour change techniques in the hope that it will change something  but 
+this something is often unspecified and not linked to the theory upon which the 
+intervention is stated to have been based.  
+Category 2 : Are the relevant theoretical cons tructs targeted?  
+ 10 
+ Whether evidence was provided that a targeted theoretical construct predicted 
+behaviour was assessed by item 2 and whether theory or predictors were explicitly 
+used for designing the intervention was assessed by item 5 . Items 7 -11 examine  the 
+extent to which the intervention targets particular theory -relevant constructs. Items 7 
+and 10 reflect the optimal options as each intervention technique is associated with a 
+specific theoretical construct, clarifying the theoretical basis for each be haviour 
+change technique (item 7) or each theoretical construct is associated with a specific 
+technique, facilitating theory testing (item 10).  Items 8, 9 and 11 refer to different, 
+less optimal, ways of mapping (i.e. not one -to-one) between intervention techniques 
+and theoretical constructs/predictors.   
+Category 3: Is theory to select recipients or tailor interventions  
+ Theory may also be used to select participants likely to benefit from the 
+intervention (item 4) or to tailor the intervention to the nee ds of a particular individual 
+(item 6).  
+Category 4 : Are the relevant theoretical constructs measured?   
+ Item 12 assesses whether the relevant theory -based constructs/predictors have 
+been measured.   Item 13  assesses the reliability and validity of measures of relevant 
+constructs/ predictors and of behaviour, as high measurement quality permits more 
+powerful application, testing and refinement of theory.  
+Category 5 : Is theory  tested?  
+ While items 1 -11 concern the extent to which interventions have been based 
+on theory, items 12 -18 concern theory  testing . Items 12 -14 assess either whether 
+theoretical constructs are measured adequately pre- and post -intervention, or whether 
+post-intervention measures are accompanied by satisfactory randomisation 
+procedures. Item  15 assesses  whether the intervention changes the targeted theoretical 
+ 11 
+constructs and  items 16-18 assess whether these changes explain the effect.  Item 16 
+assesses whether constructs have been demonstrated to mediate the effect of the 
+intervention on beha viour and items 17 and 18 assess whether results are discussed in 
+relation to theory and whether support or refutation of the theory is appropriate, given 
+the results.  
+Category 6 : Is theory refined ? 
+ Item 19 assesses whether the results of evaluating theor y-based interventions 
+are used to refine theory . 
+ 
+Overview of Final Scheme  
+ The conceptual underpinnings of Items 7 -11 are shown in Figure 1, and a 
+diagrammatic representation of the coding scheme is shown in Figure 2.  It assesses 
+whether theory is mentio ned (1, 3), how theory can directly  inform an intervention (2, 
+5, 7-11), how theory can influence an intervention indirectly  via the selection of 
+participants (4) and via delivery to different groups of participants (6), how theory 
+explains the effects of the intervention on outcomes (12 -16), the association between 
+outcomes and theory (1 7-18) and  whether theory is refined on the basis of the study 
+outcomes (1 9)  
+Insert Figures 1 & 2 here 
+ 
+Discussion  
+ We have developed a reliable method for assessing the ex tent to which theory 
+has been applied to developing and evaluating interventions to change behaviour.  The 
+Theory Coding Scheme comprises 19 items covering a broad range of areas in which 
+theory can play a role in psychological research. The scale was devel oped through 1 3 
+ 12 
+phases to improve the comprehensiveness, usability, clarity and reliability of the 
+method.  
+ The Theory Coding Scheme has a number of potential benefits and 
+applications. First, it can be used as a measure within reviews and meta -analyses. 
+Specifically, it can provide a means for a more rigorous and systematic examination 
+of the use of theory within intervention research than the approaches adopted in 
+evidence syntheses of intervention effectiveness (e.g.,  Albarracin et al., 2005; Baban 
+& Cr aciun, 2007; Trifiletti et al., 2005; Webb & Sheeran, 2006). Typically such 
+reviews ask the question of whether theory -based interventions are more effective 
+than those that are not based on theory. Unfortunately, they consistently fail to 
+consider exactly  how theory has informed the intervention. This scheme will allow a 
+more fine -grained examination of whether the use of theory can enhance the effects of 
+interventions and how these benefits can be achieved.  
+ Second, it provides a potentially valuable fra mework for describing 
+interventions, and the role that theory has played, to the scientific community. The 
+CONSORT (Consolidated Standards for Reporting Trials) guidelines have been used 
+to improve the way in which studies, particularly their methodologies , are conveyed 
+to readers. Consequently, the methodological quality of randomized controlled trials 
+(RCTs) can be more reliably considered, potentially helping to reduce heterogeneity 
+in effect sizes across similar studies. The Theory Coding Scheme might b e used in a 
+similar way to encourage researchers to articulate their use of theory with greater 
+clarity and depth. Within intervention evaluations, theory can be tested and ultimately  
+refined only if the use of theory is explicit and well reported.  A thi rd use of the 
+scheme is as a framework to inform the design of theory -based interventions.  By 
+highlighting ways in which theory can be used to select, apply and test interventions, 
+ 13 
+the coding frame can encourage more careful consideration of what constitu tes 
+theory -based interventions and how they can be most usefully developed and 
+evaluated.   
+ The original CONSORT guidelines (Begg et al, 1996) were built upon earlier 
+guidelines (The Standards of Reporting Trials Group, 1994; Working Group on 
+Recommendati ons for Reporting of Clinical Trials in the Biomedical Literature, 
+1994).  Similarly, this Theory Coding Scheme represents an initial scheme.  Its 
+usefulness will be determined by its application. The items in categories 2 and 5 
+potentially lend themselves  to forming a quantitative scale; the current coding scheme 
+is a starting point for further conceptual and methodological refinement.   
+ The Theory Coding Scheme can also be applied to assessments of the 
+processes through which theory -informed intervention s change behaviour. Mediation 
+analyses are often conducted to indirectly assess a proposed causal mechanism of 
+change.  Whilst statistical methods of mediation analyses are becoming more 
+powerful and sophisticated e.g. using  bootstrapping (Cerin, Taylor, L eslie, & Owen, 
+2006; Preacher & Hayes, 2004), it should be remembered that finding a statistically 
+significant indirect effect supportive of mediation does not prove causation. One 
+limitation of testing theory by examining mediation is that measuring const ructs 
+might, in itself, bring about  changes in behaviour (e.g., Morwitz & Fitzsimmons, 
+2004 ; Godin , Sheeran , Conner , & Germain , 2008) and thus interfere with the 
+interpretation of  effects . In addition, demonstrating mediation statistically does not 
+demonstrate a causal relationship between the mediator  and the dependent measure; a 
+better approach is to experimentally manipulate the proposed mediator, guided by the 
+theory under test  (Sigall & Mills, 1998). Thus, mediation should not be claimed 
+ 14 
+without appropriate tests, and the possibility of alternative causal explanations should 
+be considered.  
+ A further issue in theory development is what constitutes sufficient evidence 
+to refute  a theory.  In biological sciences, a rule of thumb is that support or refutation 
+requires independent replication in three independent laboratories.  In the behavioural 
+sciences, this is more likely to be seen in laboratory than in applied settings.  For 
+example, within the implementation intention (Gollwitzer, 1993) literature, tests of 
+mechanisms are almost exclusively laboratory -based (see Gollwitzer & Sheeran, 
+2006, for a review of mechan isms). It cannot be assumed that  mechanisms 
+demonstrated in labor atories  operate  in more applied settings.  Addressing these, and 
+other questions concerning the application of theory to interventions, will be helped 
+by a systematic method of assessing the way in which theory has been applied.  This 
+coding scheme is one method; such methods are foundational for developing this area 
+of behavioural science.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15 
+References  
+Albarracin, D., Gillette, J. C. , Earl, A. N., Glasman, L. R., Durantini, M.  R., & 
+Ho, M.  H. (2005). A test of major assumptions about behavi or cha nge: a 
+comprehensive look  at the effects of passive and active HIV -prevention in terventions 
+since the beginning  of the epidemic. Psychological Bulletin, 131,  856- 897.  
+ 
+Baban, A., & C raciun, C. (2007). Changing health -risk behaviors: A review of  
+theory  and evidence -based interventions in health psychology. Journal of Cognitive 
+and Behavioral Psychotherapies , 7, 45-67. 
+ 
+Bartholomew, L. K., Parcel, G. S., Kok, G., & Gottlieb, N. H. (2006).  
+Planning health  promotion programs; an Intervention Mapping approach . San 
+Francisco, CA: Jossey -Bass.  
+ 
+Begg C., Cho , M., Eastwood , S., Horton, R., Moher, D., Olkin, I. , Pitkin, R.,  
+Rennie,  D., Schulz, K. F., Simel, D., & Stroup, D. F. (1996). Improving the quality of 
+reporting of randomized controlled trials. The CONSORT  statement , Journal of the 
+American Medical Association , 276, 637 -9. 
+ 
+Campbell, M., Fitzpatrick, R.,  Haines, A., Kinmonth, A. L., Sandercock, P.  
+Spiegelhalter, D., & Tyrer, P. (2000) . Framework for design and evaluation of  
+complex  interventions to improve health. British Medical Journal , 321,  694-696. 
+ 
+Cerin, E., Taylor, L. M., Leslie, E., & Owen, N. (2006). Small -scale  
+ 16 
+randomized controlled trials need more powerful methods of meditational analyses 
+than the Baron-Kenny method. Journal of Clinical Epidemio logy, 59, 457 -464.  
+ 
+Clarke, D. D.  (1987) . Fundamental problems with fundamental research: A  
+meta --theory for social psychology. Philosophica , 40, 23-61. 
+ 
+Craig, P., Dieppe, P., Macintyre, S., Michie, S., Nazareth, I., & Petticrew, M.  
+(2008) . Developing and evaluating complex interven tions: the new Medical Research 
+council guidance. British Medical Journal , 337 . 
+ 
+Dombrowski, S. U., Sniehotta , F. F., & Avenell, S. (2007) . Towards a  
+cumulative  science of behaviour change: Do current condu ct and reporting o f 
+behavioural  interventions fall short of good practice?  Psychology and Health , 22, 
+869-874. 
+ 
+Downing, J., Jones, L., Cook, P.  A., & Bellis, M. A. (2006) . Prevention of  
+sexually transmitted infections (STIs): a review of review s into the effectiveness of non 
+clinical interventions. Evidence Briefing Update . London, UK: National Institute of 
+Clinical Excellence .  
+ 
+Ellis, S., Barnett -Page, E., Morgan, A., Taylor, L., Walters, R., & Goodrich, J.  
+(2003) . HIV prevention: a review of reviews assessing the ef fectiveness of 
+interventions to  reduce the risk of sexual transmission . London , UK : Health 
+Development Agency . 
+ 
+ 17 
+Fisher, J. D., & Fisher, W. A. (2000) . Theoretical approaches to ind ividual  
+level change in HIV risk behaviour . In Handbook o f HIV prevention, Pert erson and  
+DiClemente. Kluwer Academic/Plenum Publishers, New York.  
+ 
+Gehrman, C. A., & Hovell, M. F. (2003). Protect ing children from  
+environmental  tobacco smoke (ETS) exposure: A critical review. Nicotine & Tobacco 
+Research, 5, 289-301. 
+ 
+  Glanz, K. & Rime r, B.K. (2005). Theory at a Glance: A Guide for Health 
+Promotion Practice  (Second edition). National Cancer Institute, NIH, Public Health 
+Service. U.S. Government Printing Office.  
+ 
+Godin, G., Sheeran, P., Conner, M., Germa in, M. (2008). Asking questions  
+changes behaviour: mere measurement effects on frequency of blood donation. Health  
+Psychology, 27 , 179 -84.  
+ 
+Gollwitzer, P.  M. (1993).  Goal achievement: The role of intentions.  In W. 
+Stroebe  and M. Hewstone (Eds.), European Review of Social Psychology, 4 , 141-185. 
+Chichester, England: Wiley.  
+ 
+Gollwitzer, P.  M., & Sheeran, P. (2006).  Imp lementation intentions and goal  
+achievement: A meta -analysis of effects and processes.  Advances in Experimental  
+Social Psychology , 38, 249 -268.  
+ 
+ Hardeman, W.,  Sutton, S.,  Griffin, S., Johnston, M., White, A., Wareham, N., & 
+ 18 
+Kinmonth , A. L. (2005). A causal modelling approa ch to the development of theory  
+based behavior change programmes for trial evaluation.  Health Education Research,  
+20, 676-687. 
+ 
+Jemmott, J. B., & Jemmott , L. S. (2000). HIV risk red uction behavioral  
+Interventions  with heterosexual adolescents. AIDS, 14 (suppl 2), S40-S52. 
+ 
+Kim, N., Stanton, B., Li, X., Dickersin, K., & Galbraith, J. (1997) .  
+Effectiveness of  the 40 adolescent AIDS -risk reduction intervent ions: A quantitative 
+review. Journal of Adolescent Health, 20,  204-215. 
+ 
+Landis, J. R., & Koch, G. G. (1977). The measur ement of observer agreement  
+for categorical data. Biometrics , 33, 159 -174. 
+ 
+Michie, S . & Abraham, C. (2004) . Identifying  techniques that promote health  
+behaviour change: Evidence based or evidence inspired? Psychology and Health.  19, 
+29-49. 
+ 
+Michie, S., Abraham, C., Whittington, C., & McAteer, J. (2007).  The impact  
+and mechanisms of self -regulation interventions to incre ase healthy eating and 
+physical  activity. Psychology and Health , 22, Suppl 1,  258. 
+ 
+Michie, S., Johnston, M., Francis, J., Hardeman, W. , & Eccles, M. (2008) . 
+From theory to intervention: mapping theoretically derived behavioural determinants 
+ 19 
+to behaviour change techniques. Applied Psychology: an International Review, 57, 
+660-680. 
+Michie, S., Sheeran, P. &  Rothman, A. (2007) . Advancing the Science of 
+Behaviour Change. Invited editorial, Psychology and Health, 22, 249-253. 
+ 
+Morwitz, V. G., & Fitzsimmons, G. J. (2004). The mere -measurement effect: 
+Why does measuring intentions change actual behavior. Journal of Consumer 
+Psychology , 14, 64-73. 
+ 
+  Noar, S. M., & Zimmerman, R. S. (2005). Health Behavior Theory and 
+cumulative knowledge regarding health behaviors: are we moving in th e right 
+direction? Health Education Research: Theory and Practice , 20, 275 -290. 
+ 
+  Noar, S. M., Benac, C. N., & Harris, M. S. (2007). Does tailoring matter? 
+Meta -analytic review of tailored print health behaviour change interventions. 
+Psychological Bulleti n, 133 , 673 -693. 
+ 
+  Preacher, K. J., & Hayes, A. F. (2004).  SPSS and SAS procedures for 
+estimating indirect effects in simple mediation models. Behaviour Research Methods, 
+Instruments & Computers , 36, 717 -731. 
+ 
+  Rothman, A. J. (2004). “Is there nothing m ore practical than a good theory?”: 
+Why innovations and advances in health behavior change will arise if interventions 
+are used to test and refine theory.  International Journal of Behavioral Nutrition and 
+Physical Activity, 1, 11 , 1-7.  
+ 20 
+ 
+Sigall, H., & Mil ls, J. (1998). Measures of independent variables and 
+mediators are useful in social psychology experiments: But are they necessary? 
+Review of Personality and Social Psychology, 2 , 218 -226. 
+ 
+The Standards of Reporting Trials Group  (1994) . A proposal for str uctured 
+reporting of randomized controlled trials. The Standards of Reporting Trials Group. 
+Journal of the American Medical Association ,  272, 1926 -31. 
+ 
+Trifiletti, L. B., Gielen, A. C., Sleet, D. A., & Hopkins, K. (2005). Behavioural 
+and social sciences t heories and models: are they being used in unintentional injury 
+prevention research? Health Educational Research, 20,  298-307. 
+ 
+Webb, T. L., & Sheeran, P. (2006). Does changing behavioral intentions 
+engender behavior change? A meta -analysis of experimental  evidence. Psychological 
+Bulletin , 132, 249 -268. 
+ 
+Wingwood, G. M., & DiClemente, R.  (1996 ). HIV sexual interventions for 
+women: A  review. American Journal of Preventive Medicine, 12 , 209 -217. 
+ 
+Working Group on Recommendations for Repo rting of Clinical Tria ls in the  
+Biomedical Literature (1994). Call for comments on a proposal to improve reporting 
+of clinical trials in the biomedical literature. Working Group on Recommendations for 
+Reporting of Clinical Trials in the Biomedical Literature. Annals of Interna l 
+Medicine , 121, 894 -5. 
+ 21 
+ 
+ 
+ 22 
+Table 1: Overview of Coding Scheme Development  
+Stage  Basis for development  Development  
+1 Need for an initial coding scheme.  Scheme 1 (10 items). Up to 6 response options per item. See text („Initial Development‟) for further det ails. 
+2 Scheme 1 applied to 29 papers by the second 
+author and a sub -set of papers by the first 
+author. Discussion between authors.  Scheme 2 (15 items). Coding response options modified to yes/no/don‟t know for all items except those relating to 
+measurem ent of, and change in, theoretical constructs (which were coded as all/some/none). Items added: 
+Theory/constructs used to select recipients for the intervention; Theory/constructs used to tailor intervention 
+techniques to recipients; item 5 from Scheme 1 s eparated into further items; Support for theory stated with/without 
+appropriate mediation; Results used to refine theory. Concept of targeted predictors is introduced. Some items 
+modified to aid clarity.  
+3 Scheme 2 tested on 9 papers by both authors.  Scheme 3 (16 items). Item linking techniques to constructs separated into 2 items. Greater emphasis at this stage on 
+the explicit use of theory cited within the paper. The term „post -intervention‟ added to the measurement and 
+evaluation items. Theory -relevant  construct is defined.  
+4 Discussion between the authors.  Scheme 4 (19 items). Problematic items omitted/simplified (each item coded as yes/no). The mark scheme is 
+formulated such that there is 1 form for each entry/paper. At this stage, three items (rath er than two) reflected 
+techniques -construct mapping. Items added that require coders to list the constructs a) targeted; b) measured; c) 
+change following intervention.  
+5 Scheme 4 applied to one paper by 1 author.  Scheme 5 (15 items). Items requiring cod ers to list constructs were merged with relevant items.  
+6 Scheme 5 applied to one paper by both 
+authors.  Scheme 6 (15 items). Instructions were included for the first time with a glossary of key terms (theory; theory -
+relevant construct; predictors; inter vention techniques). Additional written information is provided for the three 
+items reflecting the mapping of techniques to constructs. Mediation analysis item separated into multiple sub -items.  
+7 Scheme 6 tested on 2 papers by three raters. 
+Some disagre ement on 5 of the 15 items.  Scheme 7 (15 items). Diagrams added for the three items reflecting the mapping of techniques to constructs, 
+definitions of key terms and item order were modified.  
+8 Scheme 7 tested on 14 papers by two raters. Scheme 8 (15 items). Items refined according to rater feedback and kappa values.  
+ 23 
+Six of the 15 item s yielded kappa <.70.  
+9 Scheme 8 tested on 15 papers by two raters. 
+Two of the 15 items yielded kappa <.70.  Scheme 9 (15 items). Items refined according to rater feedback an d kappa values.  
+10 Scheme 9 tested on 15 papers by two raters. 
+One of the 15 items yielded kappa <.70.  Scheme 10 (15 items). Item refined according to rater feedback and kappa values.  
+11 Scheme 10 tested on 22 papers by two raters. 
+All 15 items were rel iable.  Scheme 11 (15 items). Although scheme 10 was reliable, three items were modified slightly to aid clarity.  
+12 Scheme 11 tested on 22 papers by new rater. 
+All 15 items were reliable. Two items 
+concerning construct -technique mapping 
+needed.  Scheme 11b  (17 items). Two items (kappa >.80) added reflecting the degree to which constructs are targeted by 
+specific techniques.  
+13 Scheme 1 2 tested on 19 papers by two raters.  Scheme 12 (1 9 items). Items 12 and 14d revised, and items 1 3 and 14  added following r eviewer feedback. All 
+kappas of new items were >= .64.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 
+Table 2.Overview of Theory Coding Scheme   
+Item  
+No. and 
+kappa  Item  Description  Yes/ 
+No/ 
+Don’t know  List with location  in paper (i.e. page 
+number)  
+ 
+1 
+(1) Theory/model of 
+behaviour mentioned  
+ Models/theories that specify relations among variables, in 
+order to explain  or predict behaviour (e.g., TPB, SCT, HBM) 
+are mentioned, even if the intervention is not based on this 
+theory    
+2 
+(.77)  Targeted construct 
+mentioned as predictor 
+of behaviour  
+ („Targeted‟ construct refers to a psychological construct that 
+the study intervention is hypothesised to change).  
+Evidence that the psychological construct relates to 
+(correlates/predicts/causes) behaviour should be presented 
+within the introduction or meth od (rather than the 
+Discussion).   Location of evidence that construct relates to 
+behaviour:  
+ 
+ 
+Location that  this predictor is targeted by the 
+intervention:  
+ 
+ 
+3 
+(.70)  Intervention based on 
+single theory  The intervention is based on a single theory (rathe r than a 
+combination of theories or theory + predictors)    
+4 
+(.83)  Theory/ predictors used 
+to select recipients for 
+the intervention  Participants were screened/selected based on achieving a 
+particular score/level on a theory -relevant construct/predictor   Construct (Theory)  
+ Predictor  
+5 
+(.88)  Theory/ predictors used 
+to select/develop 
+intervention techniques  
+ 
+ The intervention is explicitly based on a theory or predictor 
+or combination of theories or predictors   
+ 
+ Theory  Predictor  
+6 
+(.86)  Theory/ predicto rs used 
+to tailor intervention 
+techniques to recipients  The intervention differs for different sub -groups that vary on 
+a psychological construct (e.g., stage of change) or predictor 
+at baseline   
+ 
+ 
+  Construct  Predictor  
+7 
+(1) All intervention 
+techniques a re explicitly Each intervention technique is explicitly linked to at least one 
+theory -relevant construct/predictor.   Construct (list links)  Predictor (list links)  
+ 25 
+linked to at least one 
+theory -relevant 
+construct/ predictor  
+ 
+ 
+ 
+ 
+8 
+(.91)  At least one , but n ot all, 
+of the intervention 
+techniques are explicitly 
+linked to at least one 
+theory -relevant 
+construct/ predictor  
+ 
+ At least one, but not all, of the intervention techniques are 
+explicitly linked to at least one theory -relevant construct/ 
+predictor. 
+ 
+  Construct (list links)  Predictor (list links)  
+9 
+(.74)  Group of techniques are 
+linked to a group of 
+constructs/ predictors  
+ 
+ 
+ 
+ 
+ A cluster of techniques is linked to a cluster of constructs/ 
+predictors.  
+  List clusters of 
+techniques/constructs  List clusters of  
+techniques/predictors  
+10 
+(.80)  All theory -relevant 
+constructs/predictors  are 
+explicitly linked to at 
+least one intervention 
+technique  
+ Every theoretical construct within a stated theory, or every 
+stated predictor (see item 5), is linked to at least one 
+intervention technique.   Construct (list links)  Predictor (list links)  
+11 
+(.90)  At least one , but not all, 
+of the  theory relevant 
+constructs/predictors are 
+explicitly linked to at 
+least one intervention 
+technique  At least one, but not all, of the theore tical constructs within a 
+stated theory or at least one, but not all, of the stated 
+predictors (see item 5) are linked to at least one intervention 
+technique.   Construct (list links)  Predictor (list links)  
+ 26 
+  
+12 
+(1) Theory -relevant 
+constructs/ predictors  
+are measured   a) At least one construct of theory (or predictor) 
+mentioned in relation to the intervention is measured 
+POST -INTERVENTION.  
+b) At least one construct of theory (or predictor) 
+mentioned in relation to the intervention is measured 
+PRE AND POST -INTERVEN TION.  
+  Construct  Predictor  
+13 
+(a=.77)  
+(b=.77)  
+(c=1)  
+(d=.64)  
+(e=.89)  
+(f=.76)  Quality of Measures  a) All of the measures of theory relevant 
+constructs/predictors had some evidence for their 
+reliability  
+b) At least one, but not all, of the measures of theory 
+relevant constructs/predictors had some evidence for 
+their reliability  
+c) All of the measures of theory relevant 
+constructs/predictors have been previously validated  
+d) At least one, but not all, of the measures of theory 
+relevant constructs/predictors have been pre viously 
+validated  
+e) The behaviour measure had some evidence for its 
+reliability  
+f) The behaviour measure has been previously 
+validated  
+  Construct  Predictor  
+14 
+(all=1, 
+except 
+b=.73)  Randomization of 
+participants to condition  a) Do the authors claim randomization?  
+b) Is a method of random allocation to condition 
+described (e.g., random number generator; coin 
+toss)  
+c) Was the success of randomization tested?  
+d) Was the randomization successful (or baseline 
+differences between intervention and control 
+group statistically cont rolled)?  
+    
+15 
+(1) Changes in measured 
+theory -relevant The intervention leads to sig. change in at least one theory -
+relevant construct/predictor (vs. control group) in favour of  Construct  Predictor  
+ 27 
+constructs/ predictor  
+ 
+ 
+ the intervention.  
+16 
+(1 for each 
+sub- item)  Mediational analysis of 
+construct/s / predictors  In addition to 14, do the following effects emerge?:  
+ 
+a) Mediator predicts DV? (or change in mediator leads 
+to change in DV)  
+ 
+b) Mediator predicts DV (when controlling for IV)?  
+ 
+c) Intervention does n ot predict DV (when controlling 
+for mediator)?  
+ 
+d) Mediated effect statistically significant ? 
+  Construct  Predictor  
+17 
+(.72)  Results discussed in 
+relation to theory  
+ Results are discussed in terms of the theoretical basis of the 
+intervention    
+18 
+(.78)  Appropriate support for 
+theory  Support for the theory is based on appropriate mediation OR 
+refutation of the theory is based on obtaining appropriate null 
+effects (i.e. changing behaviour without changing the theory -
+relevant constructs).  
+    
+19 
+(1) Results u sed to refine 
+theory  The authors attempt to refine the theory upon which the 
+intervention was based by either: a) adding or removing 
+constructs to the theory, or b) specifying that the 
+interrelationships between the theoretical constructs should 
+be changed  and spelling out which relationships should be 
+changed   a) Constructs added or removed from theory:  
+ 
+ 
+b) Interrelationships between the theoretical 
+constructs to be changed:  
+ 
+ 
+ 
+ 28 
+ 
+ 29 
+C1 
+C2 T1 
+T2 
+T3 
+T1 C1 
+C2 
+C3 C1 
+C2 T1 
+T2 
+T3 C1 T1 
+T2 
+T3 
+T1 
+T2 C1 
+C2 
+C3 Item 7: Example: All intervention   Item 8: Example: At least one, but   
+techniques (T) are linked to at least   not all, of the intervention techniques  
+one theory -relevant construct/      (T) are linked to at least one theory - 
+predictor (C)      relevant construct/predictor (C)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 9: Example: Group of    Item 10: Exampl e: All constructs  
+techniques (T) are linked to a group   within a stated theory/all predictors  
+of theory -relevant constructs/    (C) are linked to at least one  
+predictors (C)      intervention technique (T)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 11: Example: At least one, but not  
+all, of the constructs within a stated  
+theory/stated predictors (C) are linked to  
+at least one intervention technique (T)  
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 . Conceptual underpinnings of the coding scheme (numbers refer to coding 
+scheme items)  
+ 30 
+Theory/  
+Constructs  
+       1 Intervention  Participants  
+Behaviour  
+2, 3, 5, 7-11, 19 12-16 6 
+17-19 4  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2 . Diagrammatic Representation of Coding Scheme: numbers refer to items  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 31 
+Footnotes  
+ 
+ 1 The references for these pre -coded papers, and their associated cod es, are 
+available upon request.  
+ 2 Available upon request.  
+ 

@@ -1,0 +1,732 @@
+RESEARCH Open Access
+Impact of primary healthcare providers ’
+initial role security and therapeutic
+commitment on implementing brief
+interventions in managing risky alcohol
+consumption: a cluster randomised factorial
+trial
+M. Keurhorst1,2*, P. Anderson3,4, M. Heinen1, Preben Bendtsen5, Begoña Baena6, Krzysztof Brzózka7, Joan Colom6,
+Paolo Deluca8, Colin Drummond8, Eileen Kaner3, Karolina K łoda9, Artur Mierzecki9, Dorothy Newbury-Birch10,
+Katarzyna Okulicz-Kozaryn7, Jorge Palacio-Vieira6, Kathryn Parkinson3, Jillian Reynolds11, Gaby Ronda4, Lidia Segura6,
+Luiza S łodownik7, Fredrik Spak12, Ben van Steenkiste4, Paul Wallace13, Amy Wolstenholme8, Marcin Wojnar14,
+Antoni Gual15, M. Laurant1,16and M. Wensing1,17
+Abstract
+Background: Brief interventions in primary healthcare are cost-effective in reducing drinking problems but poorly
+implemented in routine practice. Although evidence about implementing brief interventions is growing, knowledge
+is limited with regard to impact of initial role security and the rapeutic commitment on brief in tervention implementation.
+Methods: In a cluster randomised factorial trial, 120 primary hea lthcare units (PHCUs) were randomised to eight groups:
+care as usual, training and support, finan cial reimbursement, and the opportunit y to refer patients to an internet-based
+brief intervention (e-BI); paired combinations of these three strategies, and all three strategies combined. To explore the
+impact of initial role security and therapeutic commitment on implementing brief interventions, we performed multilevel
+linear regression analyses ad apted to the factorial design.
+Results: Data from 746 providers from 120 PHCUs were included in the analyses. Baseline role security and therapeutic
+commitment were found not to influence implementation of brief interventions. Furthermore, there were no significant
+interactions between these characteristi cs and allocated implementation groups.
+Conclusions: The extent to which providers changed their brief inte rvention delivery following experience of different
+implementation strategies was not determ ined by their initial attitudes towards alcohol problems. In future research,
+more attention is needed to unravel the ca usal relation between practitioners ’attitudes, their actual behaviour and care
+improvement strategies to enh ance implementation science.
+Trial registration: ClinicalTrials.gov: NCT01501552
+Keywords: Brief interventions, Risky drinking, Primary healthcare, Provider influences, Implementation research
+* Correspondence: Myrna.keurhorst@radboudumc.nl
+1Radboud Institute for Health Sciences, Radboud Center for Quality of
+Healthcare (IQ healthcare), Radboud university medical center, Nijmegen, The
+Netherlands
+2Centre for Nursing Research, Saxion University of Applied Sciences,
+Deventer, Enschede, The Netherlands
+Full list of author information is available at the end of the article
+© 2016 Keurhorst et al. Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.Keurhorst et al. Implementation Science  (2016) 11:96 
+DOI 10.1186/s13012-016-0468-5
+Background
+The World Health Organization Status Report on
+Alcohol and Health documented that the level of alcohol
+consumption in the European Union (EU) is almost
+double the global average, as on average almost 2.5 alco-
+holic drinks (25 g) per capita are consumed every day
+[1]. Alcohol is an attributable cause of more than 200
+three-digit International Classification of Disease (ICD)-
+10 codes [2] and, in the age group of 15 –49 years, it is
+the leading risk factor for the global burden of disease
+[3]. In Europe, one in every seven deaths in men and
+o n ei ne v e r y1 3d e a t h si nw o m e ni nt h eg r o u pa g e d
+15–64 years is due to alcohol consumption [3].
+I naC o c h r a n er e v i e w ,K a n e re ta l .s h o w e dt h a t
+screening and brief interventions (SBI) in primary
+healthcare to detect and intervene in risky alcohol
+consumption are cost-effective in reducing alcohol
+consumption with a mean difference of −38 g/week
+after a year of follow-up. Included studies were per-
+formed in English-speaking countries (UK, USA,
+Canada, Australia) and various European countries.
+No studies were based in transitional or developing
+countries [4]. However, SBI are poorly implemented in
+primary healthcare settings [5 –8]. The reasons for this
+include providers ’lack of knowledge, low role security
+and therapeutic commitment, lack of financial re-
+sources and lack of time [9, 10]. Therapeutic commit-
+ment refers to motivation, task-specific self-esteem
+and work satisfaction towards patients with risky alco-
+hol consumption. Role security refers to skills, know-
+ledge and owning a role of working with risky drinkers
+[11]. Previous research has shown that general practitioners
+(GPs) with greater role security and therapeutic commit-
+ment towards patients with risky alcohol consumption re-
+port being more involved in managing alcohol-related
+problems than others [12, 13]. In due course, there have
+been several studies undertaken on methods to overcome
+these barriers with implement ation strategies to embed SBI
+in routine care [14 –16]. Van Beurden et al. (2012), for
+instance, described that one of the reasons for failing in im-
+proving SBI was sub-optimal implementation of the
+programme [14]. The study of Funk et al. concluded that
+adopting more direct dissem ination approaches for SBI
+evidence-based programmes to GPs is a necessary first step
+for changing practice behaviour [15]. These examples of
+former studies, of which some we conducted on a large
+scale, showed what worked su b-optimally; however, they
+did not show yet what actually did work. Consequently, evi-
+dence for optimally designed implementation strategies for
+a wider uptake of SBI remains inconclusive [17]. To date, it
+is unclear which provider characteristics influence imple-
+mentation of brief interventions for risky alcohol consump-
+tion. More specifically, it remains unclear to what extent
+primary healthcare providers ’role security and therapeuticcommitment impact on the brief intervention implementa-
+tion. A recent survey in eight European countries showed
+that physicians who had received more education on alco-
+hol and who had higher role security and therapeutic com-
+mitment reported managing a higher number of patients
+for alcohol and alcohol problems [10]. If providers ’baseline
+role security and therapeutic commitment are not
+accounted for in implementat ion programmes, interven-
+tions can lead to a deterioration in role security and thera-
+peutic commitment [12]. However, another trial showed a
+lack of improvement in role security and brief intervention
+delivery despite the extended implementation programme
+that included addressing providers ’role security and thera-
+peutic commitment [18]. So far, it still is unclear whether
+positive attitudes are required to improve role security and
+therapeutic commitment for im proving screening and brief
+intervention delivery.
+With more knowledge on the impact of role security
+and therapeutic commitment, one may be able to adapt to
+and take these into account within implementation pro-
+grammes. The Optimizing Delivery of Healthcare Inter-
+ventions (ODHIN; www.odhinproject.eu) trial increases
+our knowledge on the best methods for improving brief
+interventions ’frequency in primary healthcare. This trial
+concerned a multifaceted programme to implement brief
+interventions in routine primary healthcare, using specific
+training and support on how to deal with alcohol-related
+problems, financial reimbursement and the opportunity to
+refer screen-positive patients to an internet-based brief
+intervention (e-BI) as strategies. The trial showed that the
+highest increase in screening and brief intervention activ-
+ity was present in the primary healthcare units (PHCUs)
+that received training and support combined with financial
+reimbursement [19].
+Based on the current evidence base, we hypothesised
+that higher baseline role security and therapeutic
+commitment might positively influence the impact of
+training and support and financial reimbursement on
+screening and brief advice [10, 18]. Therefore, the aim of
+this paper was to evaluate whether providers ’initial role
+security and therapeutic commitment impacted the eight
+strategy types on implementing brief alcohol interven-
+tions in PHCU across five countries in the European
+Union.
+Methods
+This paper builds on the findings from the ODHIN trial,
+which was focused on identifying implementation strategies
+for implementing brief interv entions [19]. Therefore, the
+methods section presents the main key ingredients of the
+ODHIN study. More informat ion can be found in another
+ODHIN paper that presents the trial effects on screening
+and brief intervention activity. CONSORT guidelines were
+followed in reporting the trial [20].Keurhorst et al. Implementation Science  (2016) 11:96 Page 2 of 8
+Study design and participants
+ODHIN was a cluster randomised 2 × 2 × 2 factorial trial
+as described in the study protocol (ClinicalTrials.gov.
+Trial identifier: NCT01501552) [21]. English, Catalan,
+Polish, Swedish and Dutch PHCUs participated and
+combined their data to examine the effect of three differ-
+ent implementation strategies (training and support,
+financial reimbursement and referral opportunities to an
+internet-based brief intervention programme) on screen-
+ing and brief intervention activity for risky drinkers
+identified by screening using the AUDIT-C question-
+naire screening tool [22].
+Implementation strategies
+After formal agreement of the PHCUs to take part in
+the trial, a four-week baseline measurement took place,
+during which no trial interventions were administered.
+After a 2- to 6-week gap, the 12-week implementation
+period occurred with the start date for each country be-
+tween November 2012 and May 2013. All eight alloca-
+tion groups received the same input as controls but with
+additional components added.
+1. Control group: care as usual
+2. Training and support (TS)
+3. Financial reimbursement (FR)
+4. Referral to internet-based brief interventions (e-BI)
+5. TS and FR
+6. TS and e-BI
+7. FR and e-BI
+8. TS, FR and e-BI
+More details about the implementation strategies and
+procedural activities were described in Additional file 1
+[19, 21].
+Measures
+Brief intervention proportions
+Brief intervention proportions were the primary out-
+come of the ODHIN study. These were measured during
+two time frames: during the four-week baseline period
+and during the 12-week implementation period. The
+providers completed paper tally sheets (Catalonia ap-
+plied electronic tally sheets). The tally sheets included
+AUDIT-C questions, AUDIT-C scores and tick boxes to
+indicate the type of intervention (oral advice, an advice
+leaflet, referral to the e-BI programme, or referral for ad-
+vice to another provider in or outside the PHCU) that
+was delivered.
+The brief intervention proportions were calculated as
+a number of AUDIT-C positive patients that received
+one or more of oral advice, an advice leaflet, referral to
+the e-BI programme, or referral for advice to another
+provider in or outside the PHCUs, divided by the totalnumber of adult ( ≥18 years) consultations of the partici-
+pating providers per PHCU. We added up all the patient
+consultations in the 12-week implementation period and
+calculated accordingly the proportion of AUDIT-C posi-
+tive patients that received a brief intervention. Impact of
+the implementation strategies on screening and brief ad-
+vice activity was reported elsewhere [19].
+Role security and therapeutic commitment
+Before starting the baseline measurement of brief inter-
+ventions, providers completed a questionnaire in which
+they provided their demographical features, including
+gender, age and occupation (e.g. medical practitioner,
+nurse, practice assistant).
+Role security and therapeutic commitment were mea-
+sured at baseline by the short version of the Alcohol and
+Alcohol Problems Perception Questionnaire (SAAPPQ),
+translated into the native language of each participating
+country [11]. The SAAPPQ is a validated instrument
+based on factor analysis [11] of the original tool as de-
+veloped and validated by Cartwright [23]. The shortened
+version of the original attitude scale has been demon-
+strated to be as representative and discriminatory as the
+full AAPPQ scale [11]. The SAAPPQ has good test-
+retest reliability and Cronbach ’s alpha in the range of 0.7
+and 0.9 [11]. Furthermore, it has been applied in several
+international contexts and with various disciplines (e.g.
+[24–27]). All participating providers who provided writ-
+ten informed consent were asked to complete the
+SAAPPQ. Role security measures role adequacy, for ex-
+ample “I feel I can appropriately advise my patients
+about drinking and its effects ”, and role legitimacy, for
+example, “I feel I have the right to ask patients questions
+about their drinking when necessary ”. Role security is
+expressed at the emotional level, whereas therapeutic
+commitment measures motivation, for example “pessim-
+ism is the most realistic attitude to take toward
+drinkers ”; task specific self-esteem, for example “all in all
+I am inclined to feel I am a failure with drinkers ”; and
+work satisfaction, for example “in general, it is rewarding
+to work with drinkers ”. Role security includes four items
+on a seven-point Likert scale and summed scores range
+between 4 and 28. Therapeutic commitment includes six
+items on a seven-point Likert scale and summed scores
+range between 6 and 42.
+Sample size and randomisation
+To achieve sufficient statistical power for significant ef-
+fects on intervention proportions, it was estimated that
+120 PHCUs (15 per eight allocation groups, evenly dis-
+tributed between countries) would be needed [21].
+Randomisation took place after formal agreement of
+the PHCUs to take part in the trial. The PHCUs were
+randomly allocated to one of the eight allocated groupsKeurhorst et al. Implementation Science  (2016) 11:96 Page 3 of 8
+by the ODHIN coordinating centre, using computerised
+randomisation, stratified by country (i.e. block random-
+isation), ensuring 15 PHCUs per group (three per group
+in each country) [21].
+Statistical analysis
+Because of the hierarchical structure (providers nested
+within PHCU, nested within country), we performed a
+two-level linear multilevel analysis (mixed model). We
+performed a model with random intercept for countries
+and practices, and other variables such as TS, FR, e-BI,
+and baseline brief intervention proportion fixed. The
+outcome measure was brief intervention proportion
+after the implementation period. Multiple imputation
+was not applied as the percentage of missing cases was
+1.5 % [28].
+When examining the impact of baseline role security
+and therapeutic commitment on the 12-week brief
+intervention proportions, examination of residuals
+found them to be not symmetrically distributed
+around zero, so the data underwent log transform-
+ation, which provided a better fit. Prior to log trans-
+formation, proportions with a value of zero were
+assigned a value of 0.001. Coefficients for the com-
+bined effects of TS + FR and TS + e-BI were the sum
+of the individual coefficients. Since the data were log
+transformed, the contrast coefficients are relative ef-
+fects. The percentage difference in brief intervention
+proportions with each implementation strategy asopposed to without, was calculated with the equation:
+difference (%) = 100 × (exp)2 × coefficient estimate
+from procedure MIXED minus 1. As this approach
+creates some issues with outcomes with a zero value,
+0.001 was added to each proportion. In order to test
+the validity of this assumption, a sensitivity analysis
+was undertaken using the exact proportions but ex-
+cluding those PHCU with an outcome of zero.
+Correlations between the eight variables were tested
+with Pearson ’s correlation test. To test the influence of
+baseline role security and therapeutic commitment on
+the delivered brief interventions, the model was run with
+both provider characteristics, included one by one.
+When both characteristics significantly correlated, which
+was expected as they were included in the same ques-
+tionnaire, they were paired when entered included in the
+statistical model. Furthermore, for both role security and
+therapeutic commitment, we added interaction terms in
+order to identify interactive effects of characteristics with
+the implementation strategies. We considered a pvalue
+<0.05 statistically significant. In case of interaction, sub-
+groups of variables were analysed separately. The statis-
+tical analyses were performed with IBM SPSS v20. The
+datasets are available upon request.
+Results
+Study population
+Figure 1 outlines the flow of participating PHCUs and
+providers throughout the parent trial. The 120 partici-
+pating PHCUs with 746 providers were randomised and
+Fig. 1 Trial flow chartKeurhorst et al. Implementation Science  (2016) 11:96 Page 4 of 8
+included in the analyses. Table 1 shows baseline charac-
+teristics of the participating providers. Almost three
+quarters of the participating providers were women and
+the mean age of all participating providers was 47.0 years
+(SD 9.4). Occupations of participants varied, though
+participants were mainly GPs or nurses. Most partici-
+pating providers were employed in health clinics and
+group practices. The mean number of consulting adult
+patients per month per provider during the baseline
+was 242, but varied greatly between providers with a
+standard deviation of 188. Role security was high at
+baseline, with a score of 21.0 (SD 3.5) within a pos-
+sible range of 4 –28. Therapeutic commitment scored
+on average 27.2 (SD 4.7) within a possible range of 6 –42.
+There were no baseline differences observed between any
+of the eight allocation groups; however, PHCU type, the
+number of registered patients in the PHCU, and the num-
+b e ro fc o n s u l t i n ga d u l tp a t i e n t sp e rp r o v i d e rw e r es i g n i f i -
+cantly correlated with each other (health centres had the
+highest number of registered patients and consultations,
+and solo practices the lowest) (all p< 0.05).Influence of baseline role security and therapeutic
+commitment on implementation
+Baseline role security and therapeutic commitment were
+significantly correlated with a Pearson correlation of
+0.379 ( p< 0.001). This was accounted for in the analyt-
+ical model by adding these as a pair to the statistical
+model. Testing the influence of providers ’role security
+and therapeutic commitment towards dealing with risky
+drinking prior to the trial, that is, their baseline role se-
+curity and therapeutic commitment, taking account for
+the correlation between these characteristics, showed no
+change in coefficients (i.e. not more than 10 % change)
+of impact of the implementation strategies on brief
+intervention implementation (Table 2). Furthermore,
+there were no significant interactions between these
+characteristics and allocated groups nor a difference in
+impact between the provider groups with low (below
+median score) or high levels (above median score).
+Sensitivity analysis suggested the addition of 0.001 to
+the observed outcome of a zero value. In order to test
+the validity of this assumption, a sensitivity analysis was
+undertaken using the exact proportions but excluding
+those PHCU with an outcome of zero.
+Discussion
+The aim of this paper was to evaluate whether providers ’
+initial role security and therapeutic commitment im-
+pacted upon the eight intervention strategies, which
+aimed to promote implementation of brief alcohol inter-
+ventions in PHCU across five countries in the European
+Union. Baseline role security and therapeutic commit-
+ment both appeared to have no influence on implemen-
+tation of brief interventions in this study, by neither
+training and support (TS), financial reimbursement (FR),
+nor the opportunity to refer patients to an internet-
+based brief intervention (e-BI). This may suggest that
+applied implementation strategies overwhelmed attitudes
+to be conditional for improved screening and brief inter-
+vention delivery.
+The results of this study indicate that initial role secur-
+ity and therapeutic commitment will not play a signifi-
+cant role in the implementation process, including the
+FR and TS strategies that were effective in raising brief
+interventions. Factors that actually do play a significant
+role in improvement of brief interventions by FR are still
+unknown. In this study, the financial reimbursement
+scheme differed per country. In Poland and Catalonia,
+providers were reimbursed directly, whereas in Sweden
+and the Netherlands, reimbursement was applied at a
+PHCU level [21]. Nevertheless, in both reimbursement
+schemes, FR could be regarded as an external brief inter-
+vention motivator. We cannot explain the process be-
+hind FR successes on country level, as it could not be
+the country itself causing the effect, because theTable 1 Characteristics of participating providers
+Characteristic All participants ( n= 746)d
+N(%) of women 559 (74.9)
+Mean (SD) age in years 47.0 (9.4)
+Occupation (%)
+-GP 54.7
+-Nurse 37.8
+-Practice assistant 5.1
+-Other 2.3
+Type of PHCUa(%)
+-Solo 26 PHCUs (21.7)
+72 providers (9.7)
+-Duo 13 PHCUs (10.8)
+67 providers (9.0)
+-Group 23 PHCUs (19.2)
+-132 providers (17.7)
+-Health clinic -58 PHCUs (48.3)
+-475 providers (63.7)
+Baseline mean role securityb(SD) 21.0 (3.5)
+Baseline mean therapeutic commitmentc(SD) 27.2 (4.7)
+aPHCU primary healthcare unit. In Poland, providers normally operate as
+single-handed entities working with other providers in one building, three
+providers and their staff working in one building was regarded as one PHCU
+bScore at minimum 4; at maximum 28
+cScore at minimum 6; at maximum 42
+dNo differences in baseline measures. The analyses to check for differences in
+baseline measures between allocation groups took into account the nested
+nature of the dataKeurhorst et al. Implementation Science  (2016) 11:96 Page 5 of 8
+multilevel analysis model accounted for providers nested
+within PHCUs, nested within the country. Reviews sup-
+port the view of these still unexplained processes behind
+FR implementation successes [29]. Therefore, more re-
+search about implementation processes in this context is
+needed, preferably to conduct a meta-analysis to en-
+hance quality of evidence, since besides the ODHIN
+study there are very few studies that tested FR effects on
+alcohol brief intervention delivery. Additionally, it is also
+reported that a pay for performance approach can be
+used to improve the quality of care; however, it is not a
+“magic bullet ”as it works optimally as part of a wider
+implementation strategy programme [30].
+The hypothesis that baseline provider ’s role security
+and therapeutic commitment have a positive impact on
+the number of patients managed for their risky alcohol
+consumption [10, 12, 13] was not confirmed by this
+study. Furthermore, in this study, the training and sup-
+port strategy is both effective for providers with low and
+high baseline role security and therapeutic commitment,
+in contrast to the findings of Anderson et al.
+(2004) where attitudinal levels deteriorated even for
+those with low levels at baseline [12]. Moreover, com-
+pared to the Anderson et al. study [12], role security and
+therapeutic commitment were relatively high in the
+ODHIN study. Having this combined with standard de-
+viations of 3.5 and 4.7 on means of, respectively, 21 and
+27.2 may reduce the likelihood of identifying these vari-
+ables as moderating characteristics. In addition, as prac-
+titioner brief intervention delivery was significantly
+improved in this study, the results question the import-
+ance of role security and therapeutic commitment in the
+implementation process. However, besides possible ceil-
+ing effects of the instrument measuring these attitudinal
+constructs, we must acknowledge that in this study only
+baseline role security and therapeutic commitment was
+included, while these can evolve over time. So, our find-
+ing does not rule out any importance of thesecharacteristics but merely indicate that the extent to
+which providers managed to change their brief interven-
+tion proportions when submitted to different implemen-
+tation strategies was not determined by their initial
+attitudes towards alcohol problems. In future research,
+more attention is needed whether importance of role se-
+curity and therapeutic commitment can be ruled out
+when implementing alcohol brief interventions, as it can
+inform us whether to focus on these or not in imple-
+mentation trajectories.
+The study had strengths and limitations. The imple-
+mentation strategies were applied in all five countries,
+but the specific content was tailored to the country con-
+text. To preserve comparability between countries, we
+formulated minimum requirements that country-specific
+implementation strategies had to meet. For the remain-
+der, countries had flexibility in making the strategies
+compatible with country standards. Therefore, we think
+that these results are valuable for policy makers from
+different European countries, especially with outcomes
+of this process analyses. Another issue that deserves dis-
+cussion is the enrolment rate of 19 %. Only one in five
+practices consented to participate, which may indicate
+that only motivated providers participated. This suggests
+that implementation strategy effects may be lower as re-
+ported in the ODHIN study. A strength was the hier-
+archical structure of individual providers being nested
+within PHCU, and PHCU being nested within country,
+which was taken into account in the analyses. Lastly, the
+five participating countries differ in their organisation of
+primary healthcare and in their burden of alcohol con-
+sumption as well as their drinking patterns. Therefore,
+our findings could be generalised to other western coun-
+tries as well.
+A limitation of the study is the tally sheet to measure
+AUDIT-C outcomes, that may be a source of bias. Pro-
+viders could check boxes for interventions being done,
+without the researchers ’check if the interventionTable 2 Impact of baseline role security and therapeutic commitment on the relative per cent difference in the proportion of
+patients receiving an intervention during the 12-week study period between providers that received the implementation
+component and providers that did not receive the implementation component
+Implementation component Basic model: brief intervention proportion difference
+(95 % CI; pvalue)aBasic + RS + TC: brief intervention proportion difference
+(95 % CI; pvalue)a
+Training and support (TS) 60.4 (14.5 –124.8; 0.007) 62.5 (15.9 –127.9; 0.005)
+Financial reimbursement (FR) 68.8 (20.5 –136.6; 0.003) 67.4 (19.4 –134.7; 0.003)
+e-BI 4.9 ( −25.1–47; 0.78) 5.8 ( −24.5–48.3; 0.741)
+TS plus FR 170.7 (68.7 –334.6; <0.001) 172.0 (69.3 –337; <0.001)
+TS plus e-BI 68.3 (4.1 –172.2; 0.034) 71.9 (6.2 –178.4; 0.028)
+FR plus e-BI 77.1 (10.6 –183.7; 0.018) 77.1 (10.6 –183.7; 0.018)
+TS plus FR plus e-BI 184.1 (59.2 –407.0; 0.001) 187.8 (61.2 –414; <0.001)
+RSrole security; TCtherapeutic commitment
+aAdjusted for baseline brief intervention rates and accounting for providers nested within PHCU nested within countryKeurhorst et al. Implementation Science  (2016) 11:96 Page 6 of 8
+actually was carried out. Besides, the tally sheet already
+included options of interventions, which may have been
+an intervention in itself. Another weakness of the study
+is the lack of results concerning the country-specific ef-
+fects of our implementation strategies, as the study was
+powered on the total of five countries. Consequently, the
+cross-cultural differences between the countries were
+not addressed. However, this was not the primary goal of
+this international study. An ideal study design would be
+a design with sufficient power to assess inter-country
+differences. Furthermore, in order to make the design
+less difficult to interpret, instead of a factorial design, a
+stepped wedge could be selected to assess comparable
+implementation strategies as evaluated in the ODHIN
+study.
+Conclusions
+In this study, providers ’baseline role security and thera-
+peutic commitment had no discernible impact on imple-
+menting brief interventions. The extent to which
+providers managed to change their brief intervention
+proportions when subjected to different implementation
+strategies was not determined by their initial attitudes
+towards alcohol problems. In future research, more at-
+tention is needed to unravel the causal relation between
+practitioners ’attitudes, their actual behaviour and care
+improvement strategies to enhance implementation sci-
+ence, as it can inform us whether to focus on these or
+not in implementation trajectories.
+Additional file
+Additional file 1: Detailed description of applied implementation
+strategies. (PDF 971 kb)
+Abbreviations
+AUDIT-C, alcohol use disorders identification test, comprehensive version;
+e-BI, referral to internet-based brief interventions; EU, European Union; FR,
+financial reimbursement; GP, general practitioner; ICD, International Classification
+of Disease; ODHIN, Optimizing Delivery of Healthcare Interventions; PHCU, primary
+healthcare unit; SAAPPQ, short version of the Alcohol and Alcohol Problems
+Perception questionnaire; SBI, screening and brief interventions; TS, training and
+support
+Acknowledgements
+We thank all participating PHCUs and primary healthcare providers for their
+support with the trial. We thank Steven Teerenstra (Statistician, at the
+department Health Evidence Radboud university medical centre) who
+assisted PA, MK and ML in designing the analysis plan for factorial RCT
+design. We thank Birgit Jansen (research assistant, Scientific Center for
+Quality of Healthcare, Radboud University Medical Center), Paddy Hinssen
+(research assistant, Faculty of Health, Medicine and Life Sciences, Maastricht
+University) and Catharina Linderoth (research assistant, Department of
+Medicine and Health Sciences, Linköping University, Sweden), for executing
+many logistic procedures and gathering the tally sheets. We thank the
+Catalan society of Family and Community Medicine, the Catalan Association
+of Family and Community Nursing and the Alcohol Network of Referents on
+Alcohol (XaROH) of the Programa Beveu Menys, who collaborated in the
+implementation of the trial in Catalonia. We thank Sebastián Calero from the
+Catalan Health Institute ’s Healthcare Issues ’Area of Clinical Development,Carmen Olmos and Manuel Iglesias from the eCAP Functional Competences
+Centre and Manuel Medina, Francesc Fina, Leonardo Méndez and Eduard
+Hermosilla from the Information system for research development in primary
+Healthcare (SIDIAP database) for supporting the Catalan ODHIN team in the
+adaptation of the electronic medical records (eCAP) and in the data
+extraction for the trial. Trudy van der Weijden (Netherlands) was part of the
+ODHIN group, besides authors of this paper.
+The research leading to these results or outcomes has received funding from
+the European Union ’s Seventh Framework Programme for research,
+technological development and demonstration under grant agreement no
+259268 –Optimizing delivery of healthcare intervention (ODHIN). Participant
+organisations in ODHIN can be seen at: www.odhinproject.eu. Radboud
+University Medical Center received co-funding from The Netherlands
+Organisation for Health Research and Development (ZonMW, Prevention
+Program), under Grant Agreement n° 200310017 –ODHIN –Optimizing
+delivery of healthcare interventions in the Netherlands, according Art.II.17 of
+the FP7 EC Grant Agreement. Pomeranian Medical University in Szczecin
+received co-funding regarding presented research from the Polish science
+financial resources in the years 2012 –2014 allocated to conduct the
+international co-funded project ODHIN, with grant agreement number 2304/
+7.PR-COOPERATION/11/2012/2. Colin Drummond is partly funded by the
+National Institute for Health Research (NIHR) Biomedical Research Centre for
+Mental Health at South London and Maudsley NHS Foundation Trust and
+King’s College London and partly funded by the NIHR Collaborations for
+Leadership in Applied Health Research and Care South London at King ’s
+College Hospital NHS Foundation Trust. The views expressed are those of the
+authors and not necessarily those of the NHS, the NIHR, or the Department
+of Health.
+Authors ’contributions
+The final design is the outcome of meeting discussions and written
+comments of all authors. All authors, except PA, were involved in
+implementing the trial in their jurisdictions. MK undertook the analyses and
+wrote the first draft of the manuscript. All other authors revised the
+manuscript critically. All authors read and approved the final manuscript.
+Competing interests
+Professor Bendtsen is partly the owner of an IT-company that distributes the
+alcohol e-BI intervention used in the Swedish part of the ODHIN. Dr. Gual
+reports grants and personal fees from Lundbeck, and D&A Pharma, grants
+from Teva, and personal fees from Abbivie, outside the submitted work.
+Professor Wallace reports personal fees from Lundbeck, Drinkaware and the
+Safe Sensible London Partnership. Professor Wensing is editor-in-chief of
+Implementation Science.
+Author details
+1Radboud Institute for Health Sciences, Radboud Center for Quality of
+Healthcare (IQ healthcare), Radboud university medical center, Nijmegen, The
+Netherlands.2Centre for Nursing Research, Saxion University of Applied
+Sciences, Deventer, Enschede, The Netherlands.3Institute of Health and
+Society, Newcastle University, Newcastle, England, UK.4Department of Family
+Medicine, School CAPHRI, Maastricht University, Maastricht, The Netherlands.
+5Department of Medical Specialist and Department of Medicine and Health
+Sciences, Linköping University, Motala, Sweden.6Program on Substance
+Abuse, Public Health Agency, Government of Catalonia, Barcelona, Spain.
+7State Agency for Prevention of Alcohol-Related Problems, Warsaw, Poland.
+8National Addiction Centre, Institute of Psychiatry, Psychology and
+Neuroscience, King ’s College London, London, UK.9Independent Laboratory
+of Family Physician Education, Pomeranian Medical University in Szczecin,
+Szczecin, Poland.10School of Health & Social Care, University of Teesside,
+Middlesbrough, UK.11Hospital Clínic de Barcelona, Fundació Clínic per a la
+Recerca Biomèdica, Barcelona, Spain.12Department of Social Medicine,
+University of Gothenburg, Gothenburg, Sweden.13Department of Primary
+Care and Population Health, University College London, London, UK.
+14Medical University of Warsaw, Warsaw, Poland.15Hospital Clínic de
+Barcelona, IDIBAPS, Barcelona, Spain.16Faculty of Health and Social Studies,
+HAN University of Applied Sciences, Nijmegen, The Netherlands.
+17Department of General Practice and Health Services Research, University
+Heidelberg Hospital, Heidelberg, Germany.Keurhorst et al. Implementation Science  (2016) 11:96 Page 7 of 8
+Received: 5 November 2015 Accepted: 7 July 2016
+References
+1. World Health Organization. Global status report on alcohol and health
+2014. Geneva: World Health Organization; 2014.
+2. Rehm J, Mathers C, Popova S, Thavorncharoensap M, Teerawattananon Y,
+Patra J. Global burden of disease and injury and economic cost attributable
+to alcohol use and alcohol-use disorders. Lancet. 2009;373:2223 –33.
+3. Lim SS, Vos T, Flaxman AD, Danaei G, Shibuya K, Adair-Rohani H, Amann M,
+Anderson HR, Andrews KG, Aryee M, et al. A comparative risk assessment of
+burden of disease and injury attributable to 67 risk factors and risk factor
+clusters in 21 regions, 1990 –2010: a systematic analysis for the Global
+Burden of Disease Study 2010. Lancet. 2012;380:2224 –60.
+4. Kaner EF, Beyer F, Dickinson HO, Pienaar E, Campbell F, Schlesinger C,
+Heather N, Saunders J, Burnand B. Effectiveness of brief alcohol
+interventions in primary care populations. Cochrane Database Syst Rev.
+2007;2:CD004148.
+5. Anderson P. Overview of interventions to enhance primary-care provider
+management of patients with substance-use disorders. Drug Alcohol Rev.
+2009;28:567 –74.
+6. Aalto M, Pekuri P, Seppa K. Primary health care professionals ’activity in
+intervening in patients ’alcohol drinking: a patient perspective. Drug Alcohol
+Depend. 2002;66:39 –43.
+7. Beich A, Gannik D, Malterud K. Screening and brief intervention for
+excessive alcohol use: qualitative interview study of the experiences of
+general practitioners. BMJ. 2002;325:870.
+8. Roche AM, Freeman T. Brief interventions: good in theory but weak in
+practice. Drug Alcohol Rev. 2004;23:11 –8.
+9. Drummond C, Wolstenholme A, Deluca P, Davey Z, Donoghue K, Elzerbi C,
+Gual A, Robles N, Goos C, Strizek J, et al. Alcohol interventions and
+treatment in Europe. In: Anderson P, Braddick F, Reynolds J, Gual A, editors.
+Alcohol Policy in Europe: Evidence from AMPHORA 2nd ed The AMPHORA
+project. 2013.
+10. Anderson P, Wojnar M, Jakubczyk A, Gual A, Reynolds J, Segura L, Sovinova
+H, Csemy L, Kaner E, Newbury-Birch D, et al. Managing alcohol problems in
+general practice in Europe: results from the European ODHIN survey of
+general practitioners. Alcohol Alcohol. 2014;49:531 –9.
+11. Anderson P, Clement S. The AAPPQ revisited: the measurement of general
+practitioners ’attitudes to alcohol problems. Br J Addict. 1987;82:753 –9.
+12. Anderson P, Kaner E, Wutzke S, Funk M, Heather N, Wensing M, Grol R, Gual
+A, Pas L. Attitudes and managing alcohol problems in general practice: an
+interaction analysis based on findings from a WHO collaborative study.
+Alcohol Alcohol. 2004;39:351 –6.
+13. McCormick KA, Cochran NE, Back AL, Merrill JO, Williams EC, Bradley KA.
+How primary care providers talk to patients about alcohol: a qualitative
+study. J Gen Intern Med. 2006;21:966 –72.
+14. van Beurden I, Anderson P, Akkermans RP, Grol RP, Wensing M, Laurant MG.
+Involvement of general practitioners in managing alcohol problems:
+a randomized controlled trial of a tailored improvement programme.
+Addiction. 2012;107:1601 –11.
+15. Funk M, Wutzke S, Kaner E, Anderson P, Pas L, McCormick R, Gual A, Barfod
+S, Saunders J, WHOBIS Group. A multicountry controlled trial of strategies to
+promote dissemination and implementation of brief alcohol intervention in
+primary health care: findings of a World Health Organization collaborative
+study. J Stud Alcohol. 2005;66:379 –88.
+16. Drevenhorn E, Bengtson A, Nilsson PM, Nyberg P, Kjellgren KI. Consultation
+training of nurses for cardiovascular prevention —a randomized study of
+2 years duration. Blood Press. 2012;21:293 –9.
+17. Nilsen P, Aalto M, Bendtsen P, Seppa K. Effectiveness of strategies to
+implement brief alcohol intervention in primary healthcare. A systematic
+review. Scand J Prim Health Care. 2006;24:5 –15.
+18. Keurhorst M, van Beurden I, Anderson P, Heinen M, Akkermans R, Wensing
+M, Laurant M. GPs' role security and therapeutic commitment in managing
+alcohol problems: a randomised controlled trial of a tailored improvement
+programme. BMC Fam Pract. 2014;15:70.
+19. Anderson P, Bendtsen P, Spak F, Reynolds J, Drummond C, Segura L,
+Keurhorst MN, Palacio-Vieira J, Wojnar M, Parkinson K, et al. Improving the
+delivery of brief interventions for heavy drinking in primary health care:
+outcome results of the ODHIN five country cluster randomized factorial trial.
+Addiction. 2016. Epub ahead of print.20. Schulz KF, Altman DG, Moher D, Group C. CONSORT 2010 Statement:
+updated guidelines for reporting parallel group randomised trials. BMC
+Med. 2010;8:18.
+21. Keurhorst MN, Anderson P, Spak F, Bendtsen P, Segura L, Colom J, Reynolds
+J, Drummond C, Deluca P, van Steenkiste B, et al. Implementing training
+and support, financial reimbursement, and referral to an internet-based brief
+advice program to improve the early identification of hazardous and
+harmful alcohol consumption in primary care (ODHIN): study protocol for a
+cluster randomized factorial trial. Implement Sci. 2013;8:11.
+22. Rubinsky AD, Dawson DA, Williams EC, Kivlahan DR, Bradley KA. AUDIT-C
+scores as a scaled marker of mean daily drinking, alcohol use disorder
+severity, and probability of alcohol dependence in a U.S. general population
+sample of drinkers. Alcohol Clin Exp Res. 2013;37:1380 –90.
+23. Cartwright AJK. The attitudes of helping agents to the alcoholic client: the
+influence of experience, support, training and self-esteem. Br J Addict.
+1980;77:413 –31.
+24. Cund A. Alcohol education revisited: exploring how much time we devote
+to alcohol education in the nursing curriculum. Nurse Educ Pract.
+2013;13:35 –9.
+25. Wilson GB, Lock CA, Heather N, Cassidy P, Christie MM, Kaner EF.
+Intervention against excessive alcohol consumption in primary health care:
+a survey of GPs ’attitudes and practices in England 10 years on. Alcohol
+Alcohol. 2011;46:570 –7.
+26. Iqbal N, McCambridge O, Edgar L, Young C, Shorter GW. Health-care
+professionals ’attitudes across different hospital departments regarding
+alcohol-related presentations. Drug Alcohol Rev. 2015. doi:10.1111/dar.
+12243. [Epub ahead of print].
+27. Neville MW. Pharmacy students ’attitudes about treating patients with
+alcohol addiction after attending a required mutual support group. Am J
+Pharm Educ. 2014;78:39.
+28. Dinh P. Using multiple imputation to estimate cumulative distribution
+functions in longitudinal data analysis with data missing at random. Pharm
+Stat. 2013;12:260 –7.
+29. Scott A, Sivey P, Ait Ouakrim D, Willenberg L, Naccarella L, Furler J, Young D.
+The effect of financial incentives on the quality of health care provided by
+primary care physicians. Cochrane Database Syst Rev. 2011;CD008451.
+30. Roland M, Campbell S. Successes and failures of pay for performance in the
+United Kingdom. N Engl J Med. 2014;370:1944 –9.
+•  We accept pre-submission inquiries  
+  Our selector tool helps you to ﬁnd the most relevant journal
+  We provide round the clock customer support 
+  Convenient online submission
+  Thorough peer review
+  Inclusion in PubMed and all major indexing services 
+  Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submitSubmit your next manuscript to BioMed Central 
+and we will help you at every step:Keurhorst et al. Implementation Science  (2016) 11:96 Page 8 of 8

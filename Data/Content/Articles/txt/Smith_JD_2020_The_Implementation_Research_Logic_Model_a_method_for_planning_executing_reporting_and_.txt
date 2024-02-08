@@ -1,0 +1,1060 @@
+RESEARCH Open Access
+The Implementation Research Logic Model:
+a method for planning, executing,
+reporting, and synthesizing implementation
+projects
+Justin D. Smith1,2*, Dennis H. Li3and Miriam R. Rafferty4
+Abstract
+Background: Numerous models, frameworks, and theories exist for specific aspects of implementation research,
+including for determinants, strategies, and outcomes. However, implementation research projects often fail to
+provide a coherent rationale or justification for how these aspects are selected and tested in relation to one
+another. Despite this need to better specify the conceptual linkages between the core elements involved in
+projects, few tools or methods have been developed to aid in this task. The Implementation Research Logic Model
+(IRLM) was created for this purpose and to enhance the rigor and transparency of describing the often-complex
+processes of improving the adoption of evidence-based interventions in healthcare delivery systems.
+Methods: The IRLM structure and guiding principles were developed through a series of preliminary activities with
+multiple investigators representing diverse implementation research projects in terms of contexts, research designs,
+and implementation strategies being evaluated. The utility of the IRLM was evaluated in the course of a 2-day
+training to over 130 implementation researchers and healthcare delivery system partners.
+Results: Preliminary work with the IRLM produced a core structure and multiple variations for common implementation
+research designs and situations, as well as guiding principles and suggestions for use. Results of the survey indicated a
+high utility of the IRLM for multiple purposes, such as improving rigor and reproducibility of projects; serving as a
+“roadmap ”for how the project is to be carried out; clearly report ing and specifying how the project is to be conducted;
+and understanding the connections between determinants, s trategies, mechanisms, and outcomes for their project.
+(Continued on next page)
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ .
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.* Correspondence: jd.smith@hsc.utah.edu ;jd.smith@northwestern.edu
+1Department of Population Health Sciences, University of Utah School of
+Medicine, Salt Lake City, Utah, USA
+2Center for Prevention Implementation Methodology for Drug Abuse and
+HIV, Department of Psychiatry and Behavioral Sciences, Department of
+Preventive Medicine, Department of Medical Social Sciences, and
+Department of Pediatrics, Northwestern University Feinberg School of
+Medicine, Chicago, Illinois, USA
+Full list of author information is available at the end of the article
+Smith et al. Implementation Science           (2020) 15:84 
+https://doi.org/10.1186/s13012-020-01041-8
+(Continued from previous page)
+Conclusions: The IRLM is a semi-structured, principle-guided t ool designed to improve the specification, rigor,
+reproducibility, and testable causal pathways involved i ni m p l e m e n t a t i o nr e s e a r c hp r o j e c t s .T h eI R L Mc a na l s oa i d
+implementation researchers and implementation partners in the planning and execution of practice change initiatives.
+Adaptation and refinement of the IRLM are ongoing, as is the development of resources for use and applications to
+diverse projects, to address the challenges of this complex scientific field.
+Keywords: Logic models, Program theory, Integration, Study specification
+Background
+In response to a call for addressing noted problems with
+transparency, rigor, openness, and reproducibility in
+biomedical research [ 1], the National Institutes of Health
+issued guidance in 2014 pertai ning to the research it funds
+(https://www.nih.gov/research-tr aining/rigor-r eproducibility ).
+The field of implementation science has similarly recognized
+a need for better specification with similar intent [ 2].
+However, integrating the necessary conceptual elements of
+implementation research, which often involves multiple
+models, frameworks, and theories, is an ongoing challenge.
+A conceptually grounded organizational tool could im-
+prove rigor and reproducibility of implementation research
+while offering additional utility for the field.
+This article describes the development and application
+of the Implementation Research Logic Model (IRLM).
+The IRLM can be used with various types of implemen-
+tation studies and at various stages of research, from
+planning and executing to reporting and synthesizing
+implementation studies. Example IRLMs are provided
+for various common study designs and scenarios, includ-
+ing hybrid designs and studies involving multiple service
+delivery systems [ 3,4]. Last, we describe the preliminary
+use of the IRLM and provide results from a post-
+training evaluation. An earlier version of this work waspresented at the 2018 AcademyHealth/NIH Conference
+on the Science of Dissemination and Implementation in
+Health, and the abstract appeared in the Implementation
+Science [5].
+Specification challenges in implementation research
+Having an imprecise understanding of what was done
+and why during the implementation of a new
+innovation obfuscates identifying the factors respon-
+sible for successful implementation and prevents
+learning from what contributed to failed implementa-
+tion. Thus, improving the specification of phenomena
+in implementation research is necessary to inform our
+understanding of how implementation strategies work,
+for whom, under what determinant conditions, and
+on what implementation and clinical outcomes. One
+challenge is that implementation science uses numer-
+ous models and frameworks (hereafter, “frameworks ”)
+to describe, organize, and aid in understanding the
+complexity of changing practice patterns and integrat-
+ing evidence-based health interventions across systems
+[6]. These frameworks typically address implementa-
+tion determinants, implementation process, or imple-
+mentation evaluation [ 7]. Although many frameworks
+incorporate two or more of these broad purposes, re-
+searchers often find it necessary to use more than
+one to describe the various aspects of an implementa-
+tion research study. The conceptual connections and
+relationships between multiple frameworks are often
+difficult to describe and to link to theory [ 8].
+Similarly, reporting guidelines exist for some of these
+implementation research components, such as strategies
+[9] and outcomes [ 10], as well as for entire studies (i.e.,
+Standards for Reporting Implementation Studies [ 11]);
+however, they generally help describe the individual
+components and not their interactions. To facilitate
+causal modeling [ 12], which can be used to elucidate
+mechanisms of change and the processes involved in
+both successful and unsuccessful implementation re-
+search projects, investigators must clearly define the re-
+lations among variables in ways that are testable with
+research studies [ 13]. Only then can we open the “black
+box”of how specific implementation strategies operate
+to predict outcomes.Contributions to the literature
+/C15Drawing from and integrating existing frameworks, models,
+and theories, the IRLM advances the traditional logic model
+for the requirements of implementation research and
+practice.
+/C15The IRLM provides a means of describing the complex
+relationships between critical elements of implementation
+research and practice in a way that can be used to improve
+the rigor and reproducibility of research and implementation
+practice, and the testing of theory.
+/C15The IRLM offers researchers and partners a useful tool for the
+purposes of planning, executing, reporting, and synthesizing
+processes and findings across the stages of implementation
+projects.Smith et al. Implementation Science           (2020) 15:84 Page 2 of 12
+Logic models
+Logic models, graphic depictions that present the
+shared relationships among various elements of a pro-
+gram or study, have been used for decades in pro-
+gram development and evaluation [ 14]a n da r eo f t e n
+required by funding agencies when proposing studies
+involving implementation [ 15]. Used to develop agree-
+ment among diverse stakeholders of the “what ”and
+the “how”of proposed and ongoing projects, logic
+models have been shown to improve planning by
+highlighting theoretical and practical gaps, support
+the development of meaningful process indicators for
+tracking, and aid in both reproducing successful stud-
+ies and identifying failures of unsuccessful studies
+[16]. They are also useful at other stages of research
+and for program implementation, such as organizing
+a project/grant application/study protocol, presenting
+findings from a completed project, and synthesizing
+t h ef i n d i n g so fm u l t i p l ep r o j e c t s[ 17].
+Logic models can also be used in the context of
+program theory, an explicit statement of how a pro-
+ject/strategy/intervention/program/policy is under-
+stood to contribute to a chain of intermediate results
+that eventually produce the intended/observed im-
+pacts [ 18]. Program theory specifies both a Theory of
+Change (i.e., the central processes or drivers by which
+change comes about following a formal theory or tacit
+understanding) and a Theory of Action (i.e., how pro-
+gram components are constructed to activate the
+Theory of Change) [ 16]. Inherent within program the-
+ory is causal chain modeling. In implementation re-
+search, Fernandez et al. [ 19] applied mapping
+methods to implementation s trategies to postulate the
+ways in which changes to the system affect down-
+stream implementation and clinical outcomes. Their
+work presents an implementation mapping logic
+model based on Proctor et al. [ 20,21], which is
+focused primarily on the selection of implementation
+strategy(s) rather than a complete depiction of the
+conceptual model linking all implementation research
+elements (i.e., determinants, strategies, mechanisms of
+action, implementation outcomes, clinical outcomes)
+in the detailed manner we describe in this article.
+Development of the IRLM
+The IRLM began out of a recognition that implemen-
+tation research presents some unique challenges due
+to the field ’s distinct and still codifying terminology
+[22] and its use of implementation-specific and non-
+specific (borrowed from other fields) theories, models,
+and frameworks [ 7]. The development of the IRLM
+occurred through a series of case applications. This
+began with a collaboration between investigators at
+Northwestern University and the Shirley RyanAbilityLab in which the IRLM was used to study the
+implementation of a new model of patient care in a
+new hospital and in other related projects [ 23]. Next,
+the IRLM was used with three already-funded imple-
+mentation research projects to plan for and describe
+the prospective aspects of the trials, as well as with
+an ongoing randomized roll-out implementation trial
+of the Collaborative Care Model for depression man-
+agement [Smith JD, Fu E, Carroll AJ, Rado J,
+Rosenthal LJ, Atlas JA, Burnett-Zeigler I, Carlo, A,
+Jordan N, Brown CH, Csernansky J: Collaborative care
+for depression management in primary care: a ran-
+domized rollout trial using a type 2 hybrid
+effectiveness-implementation design submitted for
+publication]. It was also applied in the later stages of
+a nearly completed implementation research project
+of a family-based obesity management intervention in
+pediatric primary care to d escribe what had occurred
+over the course of the 3-year trial [ 24]. Last, the
+IRLM was used as a training tool in a 2-day training
+with 63 grantees of NIH-funded planning project
+grants funded as part of the Ending the HIV Epi-
+demic initiative [ 25]. Results from a survey of the
+participants in the training are reported in the “Re-
+sults ”section. From these preliminary activities, we
+identified a number of ways that the IRLM could be
+used, described in the section on “Using the IRLM
+for different purposes and stages of research. ”
+Methods
+The Implementation Research Logic Model
+Structure
+In developing the IRLM, we began with the common
+“pipeline ”logic model format used by AHRQ, CDC,
+NIH, PCORI, and others [ 16]. This structure was chosen
+due to its familiarity with funders, investigators, readers,
+and reviewers. Although a number of characteristics of
+the pipeline logic model can be applied to implementa-
+tion research studies, there is an overall misfit due to
+implementation research ’s focusing on the systems that
+support adoption and delivery of health practices; involv-
+ing multiple levels within one or more systems; and
+having its own unique terminology and frameworks [ 3,
+22,26]. We adapted the typical evaluation logic model
+to integrate existing implementation science frameworks
+as its core elements while keeping to the same aim of
+facilitating causal modeling.
+The most common IRLM format is depicted in Fig. 1.
+Additional File A1is a Fillable PDF version of Fig. 1.I n
+certain situations, it might be preferable to include the
+evidence-based intervention (EBI; defined as a clinical,
+preventive, or educational protocol or a policy, principle,
+or practice whose effects are supported by research [ 27])
+(Fig. 2) to demonstrate alignment of contextual factorsSmith et al. Implementation Science           (2020) 15:84 Page 3 of 12
+(determinants) and strategies with the components and
+characteristics of the clinical intervention/policy/program
+and to disentangle it from the implementation strategies.
+Foremost in these indications are “home-grown ”interven-
+tions, whose components and theory of change may not
+have been previously described, and novel interventions
+that are early in the translational pipeline, which may
+require greater detail for the reader/reviewer. Variantformats are provided as Additional Files A 2to A4for use
+with situations and study designs commonly encountered
+in implementation research, including comparative imple-
+mentation studies (A 2), studies involving multiple service
+contexts (A 3), and implementation optimization designs
+(A4). Further, three illustrative IRLMs are provided, with
+brief descriptions of the projects and the utility of the
+IRLM (A 5,A6and A 7).Fig. 1 Implementation Research Logic Model (IRLM) Standard Form. Notes. Domain names in the determinants section were drawn from the
+Consolidated Framework for Implementation Research. The format of the outcomes column is from Proctor et al. 2011
+Fig. 2 Implementation Research Logic Model (IRLM) Standard Form with Intervention. Notes. Domain names in the determinants section were
+drawn from the Consolidated Framework for Implementation Research. The format of the outcomes column is from Proctor et al. 2011Smith et al. Implementation Science           (2020) 15:84 Page 4 of 12
+Core elements and theory
+The IRLM specifies the relationships between determi-
+nants of implementation, implementation strategies, the
+mechanisms of action resulting from the strategies, and the
+implementation and clinical outcomes affected. These core
+elements are germane to ever y implementation research
+project in some way. Accordingly, the generalized theory of
+the IRLM posits that (1) implementation strategies selected
+for a given EBI are related to implementation determinants
+(context-specific barriers and facilitators), (2) strategies
+work through specific mechan isms of action to change the
+context or the behaviors of those within the context, and
+(3) implementation outcome s are the proximal impacts of
+the strategy and its mechanisms, which then relate to the
+clinical outcomes of the EBI. Articulated in part by others
+[9,12,21,28,29], this causal pathway theory is largely ex-
+p l a n a t o r ya n dd e t a i l st h eT h e o r yo fC h a n g ea n dt h eT h e o r y
+of Action of the implementation strategies in a single
+model. The EBI Theory of Action can also be displayed
+within a modified IRLM (see Additional File A 4). We now
+briefly describe the core elem ents and discuss conceptual
+challenges in how they relate to one another and to the
+overall goals of implem entation research.
+Determinants
+Determinants of implementation are factors that might
+prevent or enable implementation (i.e., barriers and facil-
+itators). Determinants may act as moderators, “effect
+modifiers, ”or mediators, thus indicating that they are
+links in a chain of causal mechanisms [ 12]. Common
+determinant frameworks are the Consolidated Frame-
+work for Implementation Research (CFIR) [ 30] and the
+Theoretical Domains Framework [ 31].
+Implementation strategies
+Implementation strategies are supports, changes to, and
+interventions on the system to increase adoption of EBIs
+into usual care [ 32]. Consideration of determinants is
+commonly used when selecting and tailoring implemen-
+tation strategies [ 28,29,33]. Providing the theoretical or
+conceptual reasoning for strategy selection is recom-
+mended [ 9]. The IRLM can be used to specify the
+proposed relationships between strategies and the other
+elements (determinants, mechanisms, and outcomes)
+and assists with considering, planning, and reporting all
+strategies in place during an implementation research
+project that could contribute to the outcomes and
+resulting changes
+Because implementation res earch occurs within dynamic
+delivery systems with multiple factors that determine suc-
+cess or failure, the field has experienced challenges identify-
+ing consistent links between indi vidual barriers and specific
+strategies to overcome them. For example, the Expert
+Recommendations for Implementing Change (ERIC)compilation of strategies [ 32] was used to determine which
+strategies would best address con textual barriers identified
+by CFIR [ 29]. An online CFIR –ERIC matching process
+completed by implementation r esearchers and practitioners
+resulted in a large degree of heterogeneity and few consist-
+ent relationships between barrier and strategy, meaning the
+relationship is rarely one-to-o n e( e . g . ,as i n g l es t r a t e g yi s
+often is linked to multiple bar riers; more than one strategy
+needed to address a single barr ier). Moreover, when imple-
+mentation outcomes are considered, researchers often find
+that to improve one outcome, more than one contextual
+barrier needs to be addressed, which might in turn require
+one or more strategies.
+Frequently, the reporting of implementation research
+studies focuses on the strategy or strategies that were
+introduced for the research study, without due attention
+to other strategies already used in the system or
+additional supporting strategies that might be needed to
+implement the target strategy. The IRLM allows for the
+comprehensive specification of all introduced and
+present strategies, as well as their changes (adaptations,
+additions, discontinuations) during the project.
+Mechanisms of action
+Mechanisms of action are processes or events through
+which an implementation strategy operates to affect
+desired implementation outcomes [ 12]. The mechanism
+can be a change in a determinant, a proximal implementa-
+tion outcome, an aspect of the implementation strategy
+itself, or a combination of these in a multiple-intervening-
+effect model. An example of a causal process might be
+using training and fidelity monitoring strategies to im-
+prove delivery agents ’knowledge and self-efficacy about
+the EBI in response to knowledge-related barriers in the
+service delivery system. This could result in raising their
+acceptability of the EBI, increase the likelihood of adop-
+tion, improve the fidelity of delivery, and lead to sustain-
+ment. Relatively, few implementation studies formally test
+mechanisms of action, but this area of investigation has
+received significant attention more recently as the neces-
+sity to understand how strategies operate grows in the
+field [ 33–35].
+Outcomes
+Implementation outcomes are the effects of deliberate
+and purposive actions to implement new treatments,
+practices, and services [ 21]. They can be indicators of
+implementation processes, or key intermediate outcomes
+in relation to service, or target clinical outcomes.
+Glasgow et al. [ 36–38] describe the interrelated nature
+of implementation outcomes as occurring in a logical,
+but not necessarily linear, sequence of adoption by a de-
+livery agent, delivery of the innovation with fidelity,
+reach of the innovation to the intended population, andSmith et al. Implementation Science           (2020) 15:84 Page 5 of 12
+sustainment of the innovation over time. The combined
+impact of these nested outcomes, coupled with the size
+of the effect of the EBI, determines the population or
+public health impact of implementation [ 36]. Out-
+comes earlier in the sequenc e can be conceptualized as
+mediators and mechanisms of strategies on later
+implementation outcomes. S pecifying which strategies
+are theoretically intended to affect which outcomes,
+through which mechanisms of action, is crucial for
+improving the rigor and reproducibility of implementa-
+tion research and to testing theory.
+Using the Implementation Research Logic Model
+Guiding principles
+One of the critical insights from our preliminary work
+was that the use of the IRLM should be guided by a set
+of principles rather than governed by rules. These
+principles are intended to be flexible both to allow for
+adaptation to the various types of implementation stud-
+ies and evolution of the IRLM over time and to address
+concerns in the field of implementation science regard-
+ing specification, rigor, reproducibility, and transparency
+of design and process [ 5]. Given this flexibility of use,
+the IRLM will invariably require accompanying text and
+other supporting documents. These are described in the
+section “Use of Supporting Text and Documents. ”
+Principle 1: Strive for comprehensiveness
+Comprehensiveness increases transparency, can improve
+rigor, and allows for a better understanding of alterna-
+tive explanations to the conclusions drawn, particularly
+in the presence of null findings for an experimental design.
+Thus, all relevant determinants , implementation strategies,
+and outcomes should be included in the IRLM.
+Determinants
+Concerning determinants, the valence should be noted
+as being either a barrier, a facilitator, neutral, or variable
+by study unit. This can be achieved by simply adding
+plus (+) or minus ( –) signs for facilitators and barriers,
+respectively, or by using coding systems such as that
+developed by Damschroder et al. [ 39], which indicates
+the relative strength of the determinant on a scale: –2
+(strong negative impact ),–1(weak negative impact ), 0
+(neutral or mixed influence ), 1 ( weak positive impact ),
+and 2 ( strong positive impact ). The use of such a coding
+system could yield better specification compared to
+using study-specific adjectives or changing the name of
+the determinant (e.g., greater relative priority, addresses
+patient needs, good climate for implementation). It is
+critical to include all relevant determinants and not
+simply limit reporting to those that are hypothesized to
+be related to the strategies and outcomes, as there are
+complex interrelationships between determinants.Implementation strategies
+Implementation strategies should be reported in their
+entirety. When using the IRLM for planning a study, it
+is important to list all strategies in the system, including
+those already in use and those to be initiated for the
+purposes of the study, often in the experimental condi-
+tion of the design. Second, strategies should be labeled
+to indicate whether they were (a) in place in the system
+prior to the study, (b) initiated prospectively for the pur-
+poses of the study (particularly for experimental study
+designs), (c) removed as a result of being ineffective or
+onerous, or (d) introduced during the study to address
+an emergent barrier or supplement other strategies
+because of low initial impact. This is relevant when
+using the IRLM for planning, as an ongoing tracking sys-
+tem, for retrospective application to a completed study,
+and in the final reporting of a study. There have been a
+number of processes proposed for tracking the use of
+and adaptations to implementation strategies over time
+[40,41]. Each of these is more detailed than would be
+necessary for the IRLM, but the processes described
+provide a method for accurately tracking the temporal
+aspects of strategy use that fulfill the comprehensiveness
+principle.
+Outcomes
+Although most studies will indicate a primary implementa-
+tion outcome, other outcomes are almost assuredly to be
+measured. Thus, they ought to be included in the IRLM.
+This guidance is given in large part due to the interdepend-
+ence of implementation outcomes, such that adoption
+relates to delivery with fidelity, reach of the intervention,
+and potential for sustainment [ 36]. Similarly, the overall
+public health impact (defined as reach multiplied by the
+effect size of the intervention [ 38]) is inextricably tied to
+adoption, fidelity, acceptability, cost, etc. Although the
+study might justifiably focus on only one or two implemen-
+tation outcomes, the others are nonetheless relevant and
+should be specified and reported. For example, it is import-
+ant to capture potential unintended consequences and
+indicators of adverse effects that could result from the
+implementation of an EBI.
+Principle 2: Indicate key conceptual relationships
+Although the IRLM has a generalized theory (described
+earlier), there is a need to indicate the relationships be-
+tween elements in a manner aligning with the specific
+theory of change for the study. Researchers ought to
+provide some form or notation to indicate these concep-
+tual relationships using color-coding, superscripts,
+arrows, or a combination of the three. Such notations in
+the IRLM facilitate reference in the text to the study
+hypotheses, tests of effects, causal chain modeling, and
+other forms of elaboration (see “Supporting Text andSmith et al. Implementation Science           (2020) 15:84 Page 6 of 12
+Resources ”). We prefer the use of superscripts to color
+or arrows in grant proposals and articles for practical
+purposes, as colors can be difficult to distinguish, and
+arrows can obscure text and contribute to visual convo-
+lution. When presenting the IRLM using presentation
+programs (e.g., PowerPoint, Keynote), colors and arrows
+can be helpful, and animations can make these connec-
+tions dynamic and sequential without adding to visual
+complexity. This principle could also prove useful in
+synthesizing across similar studies to build the science of
+tailored implementation, where strategies are selected
+based on the presence of specific combinations of deter-
+minants. As previously indicated [ 29], there is much
+work to be done in this area given.
+Principle 3: Specify critical study design elements
+This critical element will vary by the study design (e.g.,
+hybrid effectiveness-implementation trial, observational,
+what subsystems are assigned to the strategies). This
+principle includes not only researchers but service
+systems and communities, whose consent is necessary to
+carry out any implementation design [ 3,42,43].
+Primary outcome(s)
+Indicate the primary outcome(s) at each level of the
+study design (i.e., clinician, clinic, organization, county,
+state, nation). The levels should align with the specific
+aims of a grant application or the stated objective of a
+research report. In the case of a process evaluation or an
+observational study including the RE-AIM evaluation
+components [ 38] or the Proctor et al. [ 21] taxonomy of
+implementation outcomes, the primary outcome may be
+the product of the conceptual or theoretical model used
+when apriori outcomes are not clearly indicated. We
+also suggest including downstream health services and
+clinical outcomes even if they are not measured, as these
+are important for understanding the logic of the study
+and the ultimate health-related targets.
+For quasi/experimental designs
+When quasi/experimental designs [ 3,4] are used, the
+independent variable(s) (i.e ., the strategies that are in-
+troduced or manipulated or that otherwise differentiate
+study conditions) should be clearly labeled. This is
+important for internal validity and for differentiating
+conditions in multi-arm studies.
+For comparative implementation trials
+In the context of comparative implementation trials [ 3,4],
+a study of two or more competing implementation strat-
+egies are introduced for the purposes of the study (i.e., the
+comparison is not implementation-as-usual), and there is a
+need to indicate the determinants, strategies, mechanisms,
+and potentially outcomes that differentiate the arms (seeAdditional File A 2). As comparative implementation can
+involve multiple service delivery systems, the determinants,
+mechanisms, and outcomes might also differ, though there
+must be at least one comparable implementation outcome.
+In our preliminary work applying the IRLM to a large-scale
+comparative implementation trial, we found that we
+needed to use an IRLM for each arm of the trial as it was
+n o tp o s s i b l et ou s eas i n g l eI R L Mb e c a u s et h es t r a t e g i e s
+being tested occurred across two delivery systems and
+strategies were very different, by design. This is an example
+of the flexible use of the IRLM.
+For implementation optimization designs
+A number of designs are now available that aim to test
+processes of optimizing implementation. These include
+factorial, Sequential Multiple Assignment Randomized
+Trial (SMART) [ 44], adaptive [ 45], and roll-out imple-
+mentation optimization designs [ 46]. These designs
+allow for (a) building time-varying adaptive implementa-
+tion strategies based on the order in which components
+are presented [ 44], (b) evaluating the additive and com-
+bined effects of multiple strategies [ 44,47], and (c) can
+incorporate data-driven iterative changes to improve
+implementation in successive units [ 45,46]. The IRLM
+in Additional File A 4can be used for such designs.
+Additional specification options
+Users of the IRLM are allowed to specify any number of
+additional elements that may be important to their
+study. For example, one could notate those elements of
+the IRLM that have been or will be measured versus
+those that were based on the researcher ’s prior studies
+or inferred from findings reported in the literature.
+Users can also indicate when implementation strategies
+differ by level or unit within the study. In large multisite
+studies, strategies might not be uniform across all units,
+particularly those strategies that already exist within the
+system. Similarly, there might be a need to increase the
+dose of certain strategies to address the relative
+strengths of different determinants within units.
+Using the IRLM for different purposes and stages of
+research
+Commensurate with logic models more generally, the
+IRLM can be used for planning and organizing a project,
+carrying out a project (as a roadmap), reporting and
+presenting the findings of a completed project, and syn-
+thesizing the findings of multiple projects or of a specific
+area of implementation research, such as what is known
+about how learning collaboratives are effective within
+clinical care settings.Smith et al. Implementation Science           (2020) 15:84 Page 7 of 12
+Planning
+When the IRLM is used for planning, the process of
+populating each of the elements often begins with the
+known parameter(s) of the study. For example, if the
+problem is improving the adoption and reach of a
+specific EBI within a particular clinical setting, the im-
+plementation outcomes and context, as well as the EBI,
+are clearly known. The downstream clinical outcomes of
+the EBI are likely also known. Working from the two
+“bookends ”of the IRLM, the researchers and community
+partners and/or organization stakeholders can begin to
+fill in the implementation strategies that are likely to be
+feasible and effective and then posit conceptually derived
+mechanisms of action. In another example, only the EBI
+and primary clinical outcomes were known. The IRLM
+was useful in considering different scenarios for what
+strategies might be needed and appropriate to test the
+implementation of the EBI in different service delivery
+contexts. The IRLM was a tool for the researchers and
+stakeholders to work through these multiple options.
+Executing
+When we used the IRLM to plan for the execution of
+funded implementation studies, the majority of the pa-
+rameters were already proposed in the grant application.
+However, through completing the IRLM prior to the
+start of the study, we found that a number of important
+contextual factors had not been considered, additional
+implementation strategies were needed to complement
+the primary ones proposed in the grant, and mecha-
+nisms needed to be added and measured. At the time of
+award, mechanisms were not an expected component of
+implementation research projects as they will likely be-
+come in the future.
+Reporting
+For another project, the IRLM was applied retrospect-
+ively to report on the findings and overall logic of the
+study. Because nearly all elements of the IRLM were
+known, we approached completion of the model as a
+means of showing what happened during the study and
+to accurately report the hypothesized relationships that
+we observed. These relationships could be formally
+tested using causal pathway modeling [ 12] or other path
+analysis approaches with one or more intervening
+variables [ 48].
+Synthesizing
+In our preliminary work with the IRLM, we used it in
+each of the first three ways; the fourth (synthesizing) is
+ongoing within the National Cancer Institute ’s Improv-
+ing the Management of symPtoms during And Following
+Cancer Treatment (IMPACT) research consortium. The
+purpose is to draw conclusions for the implementationof an EBI in a particular context (or across contexts) that
+are shared and generalizable to provide a guide for
+future research and implementation.
+Use of supporting text and documents
+While the IRLM provides a good deal of information
+about a project in a single visual, researchers will need
+to convey additional details about an implementation re-
+search study through the use of supporting text, tables,
+and figures in grant applications, reports, and articles.
+Some elements that require elaboration are (a) prelimin-
+ary data on the assessment and valence of implementa-
+tion determinants; (b) operationalization/detailing of the
+implementation strategies being used or observed, using
+established reporting guidelines [ 9] and labeling conven-
+tions [ 32] from the literature; (c) hypothesized or tested
+causal pathways [ 12]; (d) process, service, and clinical
+outcome measures, including the psychometric proper-
+ties, method, and timing of administration, respondents,
+etc.; (e) study procedures, including subject selection, as-
+signment to (or observation of natural) study conditions,
+and assessment throughout the conduct of the study [ 4];
+and (f) the implementation plan or process for following
+established implementation frameworks [ 49–51]. By
+utilizing superscripts, subscripts, and other notations
+within the IRLM, as previously suggested, it is easy to
+refer to (a) hypothesized causal paths in theoretical over-
+views and analytic plan sections, (b) planned measures
+for determinants and outcomes, and (c) specific imple-
+mentation strategies in text, tables, and figures.
+Results
+Evidence of IRLM utility and acceptability
+The IRLM was used as the foundation for a training in
+implementation research methods to a group of 65 plan-
+ning projects awarded under the national Ending the
+HIV Epidemic initiative. One investigator (project dir-
+ector or co-investigator) and one implementation part-
+ner (i.e., a collaborator from a community service
+delivery system) from each project were invited to
+attend a 2-day in-person summit in Chicago, IL, in Oc-
+tober 2019. One hundred thirty-two participants
+attended, representing 63 of the 65 projects. A survey,
+which included demographics and questions pertaining
+to the Ending the HIV Epidemic, was sent to potential
+attendees prior to the summit, to which 129 individ-
+uals—including all 65 project directors, 13 co-
+investigators, and 51 implementation partners (62% Fe-
+male) —responded. Those who indicated an investigator
+role ( n= 78) received additional questions about prior
+implementation research training (e.g., formal course-
+work, workshop, self-taught) and related experiences
+(e.g., involvement in a funded implementation project,
+program implementation, program evaluation, qualitySmith et al. Implementation Science           (2020) 15:84 Page 8 of 12
+improvement) and the stage of their project (i.e., explor-
+ation, preparation, implementation, sustainment [ 50]).
+Approximately 6 weeks after the summit, 89 attendees
+(69%) completed a post-training survey comprising more
+than 40 questions about their overall experience.
+Though the invitation to complete the survey made no
+mention of the IRLM, it included 10 items related to the
+IRLM and one more generally about the logic of imple-
+mentation research, each rated on a 4-point scale (1 =
+not at all ,2= a little ,3= moderately ,4= very much ;
+see Table 1). Forty-two investigators (65% of projects)
+and 24 implementation partners indicated attending the
+training and began and completed the survey (68.2% fe-
+male). Of the 66 respondents who attended the training,
+100% completed all 11 IRLM items, suggesting little po-
+tential response bias.
+Table 1provides the means, standard deviations, and
+percent of respondents endorsing either “moderately ”or
+“very”response options. Results were promising for the
+utility of the IRLM on the majority of the dimensions
+assessed. More than 50% of respondents indicated that the
+IRLM was “moderately ”or“very”helpful on all questions.
+Overall, 77.6% ( M=3 . 1 8 , SD= .827) of respondents indi-
+cated that their knowledge on the logic of implementation
+research had increased either moderately or very much
+after the 2-day training. At the time of the survey, when
+respondents were about 2.5 months into their 1-year plan-
+ning projects, 44.6% indicated that they had already been
+able to complete a full draft of the IRLM.
+Additional analyses using a one-way analysis of variance
+indicated no statistically significant differences inresponses to the IRLM questions between investigators
+and implementation partners. However, three items
+approached significance: planning the project ( F=2 . 4 6 0 , p
+= .055), clearly reporting and specifying how the project is
+to be conducted ( F=2 . 3 2 7 , p= .066), and knowledge on
+the logic of implementation research ( F=2 . 1 0 7 , p=. 0 9 1 ) .
+In each case, scores were higher for the investigators com-
+pared to the implementation partners, suggesting that per-
+haps the knowledge gap in implementation research lay
+more in the academic realm than among community part-
+ners, who may not have a focus on research but whose
+day-to-day roles include the implementation of EBPs in
+the real world. Lastly, analyses using ordinal logistic re-
+gression did not yield any significant relationship between
+responses to the IRLM survey items and prior training ( n
+= 42 investigators who attended the training and com-
+pleted the post-training survey), prior related research ex-
+perience ( n= 42), and project stage of implementation ( n
+= 66). This suggests that the IRLM is a useful tool for both
+investigators and implementers with varying levels of prior
+exposure to implementation research concepts and across
+all stages of implementation research. As a result of this
+training, the IRLM is now a required element in the
+FY2020 Ending the HIV Epidemic Centers for AIDS
+Research/AIDS Research Centers Supplement Announce-
+ment released March 2020 [ 15].
+Resources for using the IRLM
+As the use of the IRLM for different study designs and
+purposes continues to expand and evolve, we envisionTable 1 Survey results
+Question
+To what extent was the Implementation Research Logic Model (IRLM) helpful in … Mean SD % responding either “Moderately ”
+or“Very ”
+improving the rigor and reproducibility 3.05 .885 77.7%
+serving as a “roadmap ”for how the project is to be carried out over time 3.08 .950 74.0%
+clearly reporting and specifying how the project is to be conducted 2.94 .909 67.8%
+understanding the connections between determinants, strategies,
+mechanisms, and outcomes2.92 .957 66.3%
+identifying gaps in the implementation research logic of their project 2.86 1.021 64.2%
+deepening their knowledge of implementation science methods 2.83 .959 62.9%
+planning the project 2.82 1.088 61.3%
+developing consensus and understanding of the project among diverse
+stakeholders involved2.75 1.090 58.8%
+identifying gaps in new research questions or analyses 2.54 1.032 51.3%
+To what extent …
+…were the worksheets provided during the summit helpful in
+completing the IRLM3.02 .886 74.1%
+…has your knowledge on the logic of implementation research increased
+after the two-day training3.18 .827 77.6%Smith et al. Implementation Science           (2020) 15:84 Page 9 of 12
+supporting researchers and other program implemen-
+ters in applying the IRLM to their own contexts. Our
+team at Northwestern University hosts web resources
+on the IRLM that includes completed examples and
+tools to assist users in completing their model, in-
+cluding templates in various formats (Figs. 1and 2,
+Additional Files A 1,A2,A3and A 4and others) a
+Quick Reference Guide (Additional File A 8)a n da
+series of worksheets that p rovide guidance on popu-
+lating the IRLM (Additional File A 9). These will be
+available at https://cepim.northwestern.edu/implementa
+tionresearchlogicmodel/ .
+Discussion
+The IRLM provides a compact visual depiction of an im-
+plementation project and is a useful tool for academic –
+practice collaboration and partnership development.
+Used in conjunction with supporting text, tables, and
+figures to detail each of the primary elements, the IRLM
+has the potential to improve a number of aspects of im-
+plementation research as identified in the results of the
+post-training survey. The usability of the IRLM is high
+for seasoned and novice implementation researchers
+alike, as evidenced by our survey results and preliminary
+work. Its use in the planning, executing, reporting, and
+synthesizing of implementation research could increase
+the rigor and transparency of complex studies that
+ultimately could improve reproducibility —a challenge in
+the field —by offering a common structure to increase
+consistency and a method for more clearly specifying
+links and pathways to test theories.
+Implementation occurs across the gamut of contexts
+and settings. The IRLM can be used when large
+organizational change is being considered, such as a new
+strategic plan with multifaceted strategies and outcomes.
+Within a narrower scope of a single EBI in a specific
+setting, the larger organizational context still ought to be
+included as inner setting determinants (i.e., the impact of
+the organizational initiative on the specific EBI implemen-
+tation project) and as implementation strategies (i.e., the
+specific actions being done to make the organizational
+change a reality that could be leveraged to implement the
+EBI or could affect the success of implementation). The
+IRLM has been used by our team to plan for large sys-
+temic changes and to initiate capacity building strategies
+to address readiness to change (structures, processes, indi-
+viduals) through strategic planning and leadership engage-
+ment at multiple levels in the organization. This aspect of
+the IRLM continues to evolve.
+Among the drawbacks of the IRLM is that it might be
+viewed as a somewhat simplified format. This represents
+the challenges of balancing depth and detail with parsi-
+mony, ease of comprehension, and ease of use. The
+structure of the IRLM may inhibit creative thinking ifapplied too rigidly, which is among the reasons we
+provide numerous examples of different ways to tailor
+the model to the specific needs of different project
+designs and parameters. Relatedly, we encourage users
+to iterate on the design of the IRLM to increase its
+utility.
+Conclusions
+The promise of implementation science lies in the ability
+to conduct rigorous and reproducible research, to clearly
+understand the findings, and to synthesize findings from
+which generalizable conclusions can be drawn and ac-
+tionable recommendations for practice change emerge.
+As scientists and implementers have worked to better
+define the core methods of the field, the need for
+theory-driven, testable integration of the foundational
+elements involved in impactful implementation research
+has become more apparent. The IRLM is a tool that can
+aid the field in addressing this need and moving toward
+the ultimate promise of implementation research to
+improve the provision and quality of healthcare services
+for all people.
+Supplementary information
+Supplementary information accompanies this paper at https://doi.org/10.
+1186/s13012-020-01041-8 .
+Additional file 1. IRLM Fillable PDF form
+Additional file 2. IRLM for Comparative Implementation
+Additional file 3. IRLM for Implementation of an Intervention Across or
+Linking Two Contexts
+Additional file 4. IRLM for an Implementation Optimization Study
+Additional file 5. IRLM example 1: Faith in Action: Clergy and
+Community Health Center Communication Strategies for Ending the
+Epidemic in Mississippi and Arkansas
+Additional file 6. IRLM example 2: Hybrid Type II Effectiveness –
+Implementation Evaluation of a City-Wide HIV System Navigation Inter-
+vention in Chicago, IL
+Additional file 7. IRLM example 3: Implementation, spread, and
+sustainment of Physical Therapy for Mild Parkinson ’s Disease through a
+Regional System of Care
+Additional file 8. IRLM Quick Reference Guide
+Additional file 9. IRLM Worksheets
+Abbreviations
+CFIR: Consolidated Framework for Implementation Research; EBI: Evidence-
+based intervention; ERIC: Expert Recommendations for Implementing
+Change; IRLM: Implementation Research Logic Model
+Acknowledgements
+The authors wish to thank our colleagues who provided input at different
+stages of developing this article and the Implementation Research Logic
+Model, and for providing the examples included in this article: Hendricks
+Brown, Brian Mustanski, Kathryn Macapagal, Nanette Benbow, Lisa
+Hirschhorn, Richard Lieber, Piper Hansen, Leslie O ’Donnell, Allen Heinemann,
+Enola Proctor, Courtney Wolk-Benjamin, Sandra Naoom, Emily Fu, Jeffrey
+Rado, Lisa Rosenthal, Patrick Sullivan, Aaron Siegler, Cady Berkel, Carrie
+Dooyema, Lauren Fiechtner, Jeanne Lindros, Vinny Biggs, Gerri Cannon-
+Smith, Jeremiah Salmon, Sujata Ghosh, Alison Baker, Jillian MacDonald,
+Hector Torres and the Center on Halsted in Chicago, Michelle Smith, ThomasSmith et al. Implementation Science           (2020) 15:84 Page 10 of 12
+Dobbs, and the pastors who work tirelessly to serve their communities in
+Mississippi and Arkansas.
+Authors ’contributions
+JDS conceived of the Implementation Research Logic Model. JDS, MR, and
+DL collaborated in developing the Implementation Research Logic Model as
+presented and in the writing of the manuscript. All authors approved of the
+final version.
+Funding
+This study was supported by grant P30 DA027828 from the National Institute
+on Drug Abuse, awarded to C. Hendricks Brown; grant U18 DP006255 to
+Justin Smith and Cady Berkel; grant R56 HL148192 to Justin Smith; grant UL1
+TR001422 from the National Center for Advancing Translational Sciences to
+Donald Lloyd-Jones; grant R01 MH118213 to Brian Mustanski; grant P30
+AI117943 from the National Institute of Allergy and Infectious Diseases to
+Richard D ’Aquila; grant UM1 CA233035 from the National Cancer Institute to
+David Cella; a grant from the Woman ’s Board of Northwestern Memorial
+Hospital to John Csernansky; grant F32 HS025077 from the Agency for
+Healthcare Research and Quality; grant NIFTI 2016-20178 from the
+Foundation for Physical Therapy; the Shirley Ryan AbilityLab; and by the
+Implementation Research Institute (IRI) at the George Warren Brown School
+of Social Work, Washington University in St. Louis, through grant R25
+MH080916 from the National Institute of Mental Health and the Department
+of Veterans Affairs, Health Services Research & Development Service, and
+Quality Enhancement Research Initiative (QUERI) to Enola Proctor. The
+opinions expressed herein are the views of the authors and do not
+necessarily reflect the official policy or position of the National Institutes of
+Health, the Centers for Disease Control and Prevention, the Agency for
+Healthcare Research and Quality the Department of Veterans Affairs, or any
+other part of the US Department of Health and Human Services.
+Availability of data and materials
+Not applicable.
+Ethics approval and consent to participate
+Not applicable. This study did not involve human subjects.
+Consent for publication
+Not applicable.
+Competing interests
+None declared.
+Author details
+1Department of Population Health Sciences, University of Utah School of
+Medicine, Salt Lake City, Utah, USA.2Center for Prevention Implementation
+Methodology for Drug Abuse and HIV, Department of Psychiatry and
+Behavioral Sciences, Department of Preventive Medicine, Department of
+Medical Social Sciences, and Department of Pediatrics, Northwestern
+University Feinberg School of Medicine, Chicago, Illinois, USA.3Center for
+Prevention Implementation Methodology for Drug Abuse and HIV,
+Department of Psychiatry and Behavioral Sciences, Feinberg School of
+Medicine; Institute for Sexual and Gender Minority Health and Wellbeing,
+Northwestern University Chicago, Chicago, Illinois, USA.4Shirley Ryan
+AbilityLab and Center for Prevention Implementation Methodology for Drug
+Abuse and HIV, Department of Psychiatry and Behavioral Sciences and
+Department of Physical Medicine and Rehabilitation, Northwestern University
+Feinberg School of Medicine, Chicago, Illinois, USA.
+Received: 3 April 2020 Accepted: 3 September 2020
+References
+1. Nosek BA, Alter G, Banks GC, Borsboom D, Bowman SD, Breckler SJ, Buck S,
+Chambers CD, Chin G, Christensen G, et al. Promoting an open research
+culture. Science. 2015;348:1422 –5.
+2. Slaughter SE, Hill JN, Snelgrove-Clarke E. What is the extent and quality of
+documentation and reporting of fidelity to implementation strategies: a
+scoping review. Implement Sci. 2015;10:1 –12.3. Brown CH, Curran G, Palinkas LA, Aarons GA, Wells KB, Jones L, Collins LM,
+Duan N, Mittman BS, Wallace A, et al: An overview of research and
+evaluation designs for dissemination and implementation. Annual Review of
+Public Health 2017, 38:null.
+4. Hwang S, Birken SA, Melvin CL, Rohweder CL, Smith JD: Designs and
+methods for implementation research: advancing the mission of the CTSA
+program. Journal of Clinical and Translational Science 2020:Available online.
+5. Smith JD. An Implementation Research Logic Model: a step toward
+improving scientific rigor, transparency, reproducibility, and specification.
+Implement Sci. 2018;14:S39.
+6. Tabak RG, Khoong EC, Chambers DA, Brownson RC. Bridging research and
+practice: models for dissemination and implementation research. Am J Prev
+Med. 2012;43:337 –50.
+7. Nilsen P. Making sense of implementation theories, models and frameworks.
+Implement Sci. 2015;10:53.
+8. Damschroder LJ. Clarity out of chaos: use of theory in implementation
+research. Psychiatry Res. 2019.
+9. Proctor EK, Powell BJ, McMillen JC. Implementation strategies:
+recommendations for specifying and reporting. Implement Sci. 2013;8.
+10. Kessler RS, Purcell EP, Glasgow RE, Klesges LM, Benkeser RM, Peek CJ. What
+does it mean to “employ ”the RE-AIM model? Evaluation & the Health
+Professions. 2013;36:44 –66.
+11. Pinnock H, Barwick M, Carpenter CR, Eldridge S, Grandes G, Griffiths CJ,
+Rycroft-Malone J, Meissner P, Murray E, Patel A, et al. Standards for
+Reporting Implementation Studies (StaRI): explanation and elaboration
+document. BMJ Open. 2017;7:e013318.
+12. Lewis CC, Klasnja P, Powell BJ, Lyon AR, Tuzzio L, Jones S, Walsh-Bailey
+C, Weiner B. From classification to causality: advancing understanding
+of mechanisms of change in implementation science. Front Public
+Health. 2018;6.
+13. Glanz K, Bishop DB. The role of behavioral science theory in development
+and implementation of public health interventions. Annu Rev Public Health.
+2010;31:399 –418.
+14. WK Kellogg Foundation: Logic model development guide. Battle Creek,
+Michigan: WK Kellogg Foundation; 2004.
+15. CFAR/ARC Ending the HIV Epidemic Supplement Awards [ https://www.
+niaid.nih.gov/research/cfar-arc-ending-hiv-epidemic-supplement-awards ].
+16. Funnell SC, Rogers PJ. Purposeful program theory: effective use of theories
+of change and logic models. San Francisco, CA: John Wiley & Sons; 2011.
+17. Petersen D, Taylor EF, Peikes D. The logic model: the foundation to implement,
+study, and refine patient-centered medical home models (issue brief).
+Mathematica Policy Research: Mathematica Policy Research Reports; 2013.
+18. Davidoff F, Dixon-Woods M, Leviton L, Michie S. Demystifying theory and its
+use in improvement. BMJ Quality &amp; Safety. 2015;24:228 –38.
+19. Fernandez ME, ten Hoor GA, van Lieshout S, Rodriguez SA, Beidas RS, Parcel
+G, Ruiter RAC, Markham CM, Kok G. Implementation mapping: using
+intervention mapping to develop implementation strategies. Front Public
+Health. 2019;7.
+20. Proctor EK, Landsverk J, Aarons G, Chambers D, Glisson C, Mittman B.
+Implementation research in mental health services: an emerging science
+with conceptual, methodological, and training challenges. Admin Pol Ment
+Health. 2009;36.
+21. Proctor EK, Silmere H, Raghavan R, Hovmand P, Aarons G, Bunger A, Griffey
+R, Hensley M. Outcomes for implementation research: conceptual
+distinctions, measurement challenges, and research agenda. Adm Policy
+Ment Health Ment Health Serv Res. 2011;38.
+22. Rabin BA, Brownson RC: Terminology for dissemination and implementation
+research. In Dissemination and implementation research in health:
+translating science to practice. 2 edition. Edited by Brownson RC, Colditz G,
+Proctor EK. New York, NY: Oxford University Press; 2017: 19-45.
+23. Smith JD, Rafferty MR, Heinemann AW, Meachum MK, Villamar JA, Lieber RL,
+Brown CH: Evaluation of the factor structure of implementation research
+measures adapted for a novel context and multiple professional roles. BMC
+Health Serv Res 2020.
+24. Smith JD, Berkel C, Jordan N, Atkins DC, Narayanan SS, Gallo C, Grimm KJ,
+Dishion TJ, Mauricio AM, Rudo-Stern J, et al. An individually tailored family-
+centered intervention for pediatric obesity in primary care: study protocol of
+a randomized type II hybrid implementation-effectiveness trial (Raising
+Healthy Children study). Implement Sci. 2018;13:1 –15.
+25. Fauci AS, Redfield RR, Sigounas G, Weahkee MD, Giroir BP. Ending the HIV
+epidemic: a plan for the United States: Editorial. JAMA. 2019;321:844 –5.Smith et al. Implementation Science           (2020) 15:84 Page 11 of 12
+26. Grimshaw JM, Eccles MP, Lavis JN, Hill SJ, Squires JE. Knowledge translation
+of research findings. Implement Sci. 2012;7:50.
+27. Brown CH, Curran G, Palinkas LA, Aarons GA, Wells KB, Jones L, Collins LM,
+Duan N, Mittman BS, Wallace A, et al. An overview of research and
+evaluation designs for dissemination and implementation. Annu Rev Public
+Health. 2017;38:1 –22.
+28. Krause J, Van Lieshout J, Klomp R, Huntink E, Aakhus E, Flottorp S, Jaeger C,
+Steinhaeuser J, Godycki-Cwirko M, Kowalczyk A, et al. Identifying
+determinants of care for tailoring implementation in chronic diseases: an
+evaluation of different methods. Implement Sci. 2014;9:102.
+29. Waltz TJ, Powell BJ, Fernández ME, Abadie B, Damschroder LJ. Choosing
+implementation strategies to address contextual barriers: diversity in
+recommendations and future directions. Implement Sci. 2019;14:42.
+30. Damschroder LJ, Aron DC, Keith RE, Kirsh SR, Alexander JA, Lowery JC.
+Fostering implementation of health services research findings into practice:
+a consolidated framework for advancing implementation science.
+Implement Sci. 2009;4.
+31. Atkins L, Francis J, Islam R, O ’Connor D, Patey A, Ivers N, Foy R, Duncan EM,
+Colquhoun H, Grimshaw JM, et al. A guide to using the Theoretical
+Domains Framework of behaviour change to investigate implementation
+problems. Implement Sci. 2017;12:77.
+32. Powell BJ, Waltz TJ, Chinman MJ, Damschroder LJ, Smith JL, Matthieu MM,
+Proctor EK, Kirchner JE. A refined compilation of implementation strategies:
+results from the Expert Recommendations for Implementing Change (ERIC)
+project. Implement Sci. 2015;10.
+33. Powell BJ, Fernandez ME, Williams NJ, Aarons GA, Beidas RS, Lewis CC,
+McHugh SM, Weiner BJ. Enhancing the impact of implementation strategies
+in healthcare: a research agenda. Front Public Health. 2019;7.
+34. PAR-19-274: Dissemination and implementation research in health (R01
+Clinical Trial Optional) [ https://grants.nih.gov/grants/guide/pa-files/PAR-1
+9-274.html ].
+35. Edmondson D, Falzon L, Sundquist KJ, Julian J, Meli L, Sumner JA, Kronish
+IM. A systematic review of the inclusion of mechanisms of action in NIH-
+funded intervention trials to improve medication adherence. Behav Res
+Ther. 2018;101:12 –9.
+36. Gaglio B, Shoup JA, Glasgow RE. The RE-AIM framework: a systematic review
+of use over time. Am J Public Health. 2013;103:e38 –46.
+37. Glasgow RE, Harden SM, Gaglio B, Rabin B, Smith ML, Porter GC, Ory MG,
+Estabrooks PA. RE-AIM planning and evaluation framework: adapting to
+new science and practice with a 20-year review. Front Public Health. 2019;7.
+38. Glasgow RE, Vogt TM, Boles SM. Evaluating the public health impact of
+health promotion interventions: the RE-AIM framework. Am J Public Health.
+1999;89:1322 –7.
+39. Damschroder LJ, Reardon CM, Sperber N, Robinson CH, Fickel JJ, Oddone
+EZ. Implementation evaluation of the Telephone Lifestyle Coaching (TLC)
+program: organizational factors associated with successful implementation.
+Transl Behav Med. 2016;7:233 –41.
+40. Bunger AC, Powell BJ, Robertson HA, MacDowell H, Birken SA, Shea C.
+Tracking implementation strategies: a description of a practical approach
+and early findings. Health Research Policy and Systems. 2017;15:15.
+41. Boyd MR, Powell BJ, Endicott D, Lewis CC. A method for tracking
+implementation strategies: an exemplar implementing measurement-based
+care in community behavioral health clinics. Behav Ther. 2018;49:525 –37.
+42. Brown CH, Kellam S, Kaupert S, Muthén B, Wang W, Muthén L, Chamberlain
+P, PoVey C, Cady R, Valente T, et al. Partnerships for the design, conduct,
+and analysis of effectiveness, and implementation research: experiences of
+the Prevention Science and Methodology Group. Adm Policy Ment Health
+Ment Health Serv Res. 2012;39:301 –16.
+43. McNulty M, Smith JD, Villamar J, Burnett-Zeigler I, Vermeer W, Benbow N,
+Gallo C, Wilensky U, Hjorth A, Mustanski B, et al: Implementation research
+methodologies for achieving scientific equity and health equity. In Ethnicity
+& disease, vol. 29. pp. 83-92; 2019:83-92.
+44. Collins LM, Murphy SA, Strecher V. The multiphase optimization strategy (MOST)
+and the sequential multiple assignment randomized trial (SMART): new methods
+for more potent eHealth interventions. Am J Prev Med. 2007;32:S112 –8.
+45. Brown CH, Ten Have TR, Jo B, Dagne G, Wyman PA, Muthén B, Gibbons RD.
+Adaptive designs for randomized trials in public health. Annu Rev Public
+Health. 2009;30:1 –25.
+46. Smith JD: The roll-out implementation optimization design: integrating aims
+of quality improvement and implementation sciences. Submitted for
+publication 2020.47. Dziak JJ, Nahum-Shani I, Collins LM. Multilevel factorial experiments for
+developing behavioral interventions: power, sample size, and resource
+considerations. Psychol Methods. 2012;17:153 –75.
+48. MacKinnon DP, Lockwood CM, Hoffman JM, West SG, Sheets V. A
+comparison of methods to test mediation and other intervening variable
+effects. Psychol Methods. 2002;7:83 –104.
+49. Graham ID, Tetroe J. Planned action theories. In: Straus S, Tetroe J, Graham
+ID, editors. Knowledge translation in health care: Moving from evidence to
+practice. Wiley-Blackwell: Hoboken, NJ; 2009.
+50. Moullin JC, Dickson KS, Stadnick NA, Rabin B, Aarons GA. Systematic review
+of the Exploration, Preparation, Implementation, Sustainment (EPIS)
+framework. Implement Sci. 2019;14:1.
+51. Rycroft-Malone J. The PARIHS framework —a framework for guiding the
+implementation of evidence-based practice. J Nurs Care Qual. 2004;19:
+297–304.
+Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.Smith et al. Implementation Science           (2020) 15:84 Page 12 of 12

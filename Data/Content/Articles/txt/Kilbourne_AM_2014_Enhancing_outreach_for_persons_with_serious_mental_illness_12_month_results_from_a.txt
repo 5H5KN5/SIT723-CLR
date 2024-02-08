@@ -1,0 +1,848 @@
+RESEARCH Open Access
+Enhancing outreach for persons with serious
+mental illness: 12-month results from a cluster
+randomized trial of an adaptive implementation
+strategy
+Amy M Kilbourne1,2*, Daniel Almirall3, David E Goodrich1,2, Zongshan Lai1,2, Kristen M Abraham1,4,
+Kristina M Nord1,2and Nicholas W Bowersox1,2
+Abstract
+Background: Few implementation strategies have been empirically tested for their effectiveness in improving
+uptake of evidence-based treatments or programs. This study compared the effectiveness of an immediate versus
+delayed enhanced implementation strategy (Enhanced Replicating Effective Programs (REP)) for providers at Veterans
+Health Administration (VA) outpatient facilities (sites) on improved uptake of an outreach program (Re-Engage) among
+sites not initially responding to a standard implementation strategy.
+Methods: One mental health provider from each U.S. VA site ( N= 158) was initially given a REP-based package and
+training program in Re-Engage. The Re-Engage program involved giving each site provider a list of patients with
+serious mental illness who had not been seen at their facilit y for at least a year, requesting that providers contact
+these patients, assessing patient clinical status, and wh ere appropriate, facilitating appointments to VA health
+services. At month 6, sites considered non-responsive ( N= 89, total of 3,075 patients), defined as providers updating
+documentation for less than <80% of pa tients on their list, were randomized to two adaptive implementation
+interventions: Enhanced REP (provider coaching; N= 40 sites) for 6 months followed by Standard REP for
+6 months; versus continued Standard REP ( N= 49 sites) for 6 months followed by 6 months of Enhanced REP for
+sites still not responding. Outcomes included patient-level Re-Engage implementation and utilization.
+Results: Patients from sites that were randomized to recei ve Enhanced REP immediately compared to Standard
+REP were more likely to have a completed contact (adjusted OR = 2.13; 95% CI: 1.09 –4.19, P= 0.02). There were
+no differences in patient-level utilizatio n between Enhanced and Standard REP sites.
+Conclusions: Enhanced REP was associated with greater Re-Engage program uptake (completed contacts)
+among sites not responding to a standard implementatio n strategy. Further research is needed to determine
+whether national implementation of Facilitation res ults in tangible changes in patient-level outcomes.
+Trial registration: ISRCTN: ISRCTN21059161
+Keywords: Mental disorders, Implementation science, Population health
+* Correspondence: amykilbo@umich.edu
+1VA Center for Clinical Management Research, VA Ann Arbor Healthcare
+System, 2215 Fuller Road, Mailstop 152, Ann Arbor, MI 48105, USA
+2Department of Psychiatry, University of Michigan Medical School, North
+Campus Research Complex, 2800 Plymouth Road, Building 16, Ann Arbor, MI
+48109-2800, USA
+Full list of author information is available at the end of the articleImplementation
+Science
+© 2014 Kilbourne et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.Kilbourne et al. Implementation Science  (2014) 9:163 
+DOI 10.1186/s13012-014-0163-3
+Background
+There are substantial delays between the time that treat-
+ments are proven effective and when they are routinelyimplemented in practice. This research-to-practice gap
+is especially pertinent to the delivery of treatments for
+persons with serious mental illness (e.g., schizophreniaor related disorders, bipolar disorder), which are associated
+with substantial functiona l impairment, medical burden
+[1-3], health costs [4,5], and premature mortality [6-11].
+There has been growing interest in developing and
+testing implementation strategies that more rapidly and
+effectively translate programs into routine care settings[12]. Implementation strategies are operationalized tech-
+niques based on an underlying framework or theory that
+are designed to enhance the uptake of effective programsacross different health-care settings [13]. A variety of im-
+plementation strategies and supporting frameworks exist
+[14-18], with relative advantage conferred on those thatare (a) theory-based, (b) described in highly specified op-
+erational terms, and (c) applicable across different care
+settings.
+Replicating Effective Programs (REP) is a previously
+operationalized implementation strategy based on the
+Centers for Disease Control and Prevention ’sR e s e a r c h - t o -
+Practice Framework [16,17, 19]. Derived from Social
+Learning Theory [20] and Rogers ’diffusion model [21],
+REP consists of three central operational components:program “packaging ”(i.e., translation and dissemination of
+treatment materials into user-friendly language), struc-
+tured training for providers, and brief technical assistancefor providers focused on the technical aspects of program
+implementation. These three components in combination
+compared to package dissemination alone resulted in im-proved uptake of HIV prevention intervention programs
+in AIDS service organizations [19,22].
+Although REP employs key tactical strategies that can
+promote treatment adoption [19,23], it is likely inadequate
+for more complex programs that involve more than a
+single behavioral intervention or provider. Notably, carefor persons with serious mental illness is often managed
+across different provider and o rganizational boundaries
+that can make implementation challenging [24]. More-
+over, competing demands on providers and the need to
+garner support from multiple levels of providers andleaders require implementation strategies beyond train-
+ing, such as coaching in strategic thinking to enable
+leadership support and adap tation across sites [25-27].
+Hence, REP was recently enhanced to address provider
+and system-level barriers to adoption [16] by including
+additional strategies that engage both service leaders andfrontline providers [28,29]. Enhanced REP includes on-
+going Facilitation based on the Promoting Action on
+Research Implementation in Health Services (PARiHS)framework [23,30-32]. Faci litation is a systematic anditerative process in which t echnical experts promote
+p r o g r a mu p t a k eb yb u i l d i n g relationships with pro-
+viders and working with them to identify and mitigatebarriers to program adoption, often using one-on-one
+consultation by phone [28,33]. Facilitation was chosen
+as additional implementation strategy to REP becauseof its relative feasibility in application across a national
+network of sites, as well as similarity in theoretical
+underpinning to other imple mentation strategies that
+focus on improving the uptake of psychosocial inter-
+ventions [34,35].
+In a previous study, Enhanced REP with added Facili-
+tation compared to Standard REP was associated with
+improved fidelity to an effective mental health collabora-
+tive care program in community-based practices [36].However, this study did not address key questions that
+would inform a larger rollout of Enhanced REP, notably,
+whether adding Facilitation to sites that are initially non-responsive to Standard REP and whether more immedi-
+ate versus delayed implementation of Facilitation lead to
+improved program uptake.
+This current study reports 12-month findings from a
+national cluster randomized intervention study comparing
+two adaptive implementation strategies among sites thatare initially non-responsive to Standard REP: one provid-
+ing Enhanced REP immediately versus another delaying
+the provision of Enhanced REP only for sites that remainnon-responsive 6 months later. The primary outcome was
+uptake of an outreach program for patients with serious
+mental illness (SMI). The program, Re-Engage, involvedmental health providers identifying Veterans with SMI
+who had dropped out of care (i.e., not seen by a provider
+for at least 1 year), documenting their current status, andproviding outreach to assess clinical need and to schedule
+health-care appointments if needed. Developed by the
+Veterans Health Administration (VA), Re-Engage was as-sociated with improved access to care and reduced mor-
+tality in a previous effectiveness trial [37]. Re-Engage
+became a nationally mandated program in the VA in Janu-ary 2012 [38] and hence, provided an ideal opportunity in
+which to compare the effectiveness of Enhanced and
+Standard REP on its uptake and patient outcomes.
+The study ’s primary hypothesis is that among patients
+from non-responsive sites, those from sites randomizedto the adaptive intervention Enhanced REP for 6 months
+followed by Standard REP would be more likely to re-
+ceive Re-Engage program components within 12 monthscompared to those from non-responsive sites random-
+ized to continue Standard REP for 6 months and then
+receiving Enhanced REP after 6 months (for sites thatremain non-responsive). Implementation of Re-Engage
+program components was defined as updated documen-
+tation of patients ’current status in a web-based registry,
+attempts to contact the patient (i.e., attempted contact),Kilbourne et al. Implementation Science  (2014) 9:163 Page 2 of 12
+and successfully contacting the patient (i.e., completed
+contact). Secondary aims of the study included assessing
+differences in patient utilization occurred between theadaptive interventions.
+Methods
+The rationale and protocol for this two-arm cluster ran-
+domized controlled implementation trial has been de-
+scribed elsewhere [39]. This study was reviewed andapproved by the local Institutional Review Board and was
+registered as a clinical trial (Current Controlled Trials
+ISRCTN21059161).
+Setting
+The study included all U.S. VA facilities (sites) that wererequired by the VA National Policy Directive [38] to assign
+a designated VA mental health provider to implement Re-
+Engage, with the adaptive implementation trial focusingon sites that did not initially implement Re-Engage in re-
+sponse to receiving 6 months Standard REP alone.
+Re-Engage treatment program
+Described elsewhere [37,40], Re-Engage is a national
+VA outreach program that consists of risk assessment(i.e., identifying the patients ’current status including
+clinical care needs and current disposition) and outreach
+services (i.e., attempting to contact patients and invitethem back to receive health services). Re-Engage was
+developed by VA Office of Medical Inspector to assist
+patients with a diagnosis of serious mental illness (SMI;schizophrenia or related disorders, or bipolar disorder)
+who had dropped out of care to re-connect to health
+services if needed. In a previous national quality im-provement study, 72% of Veterans with SMI who had
+not been seen in care for at least 1 year returned for VA
+care. The mortality rate of returning patients was sig-nificantly lower than that for patients not returning to
+care (0.5% versus 3.9%; adjusted odds ratio = 5.8; P
+< .001), after demographic and clinical factors were con-trolled for in the analyses [37,40]. As a result, VA leader-
+ship desired to have the Re-Engage program rolled out
+via a National Directive as part of standard care, and thegoal of testing implementation strategies (i.e., Facilitation)
+was to ensure that the program was implemented as
+intended in this national rollout [38].
+Re-Engage target population and site eligibility
+For this study, the unit of the implementation strategyintervention was the site. Initially, the responsibility for
+implementing Re-Engage was the designated mental health
+provider at each eligible VA site (Local Recovery Coordin-ator) [41]. Local Recovery Coordinators are social workers,
+psychologists, nurses, physicians, or marriage and family
+therapists, but at the time of this study, the vast majority(96%) of them were licensed social workers or psycholo-
+gists, and less than 4% were other health professionals
+(two were Physician Assistants and three were Physicians).
+A VA facility (site) was eligible for the current trial if it
+was included in the national VA Re-Engage program.
+VA sites were included in the national Re-Engage pro-gram if they were 1) within the 50 United States or
+Puerto Rico, 2) were required, per VA policy [41], to
+have a Local Recovery Coordinator to implement the na-tional Re-Engage Directive, and 3) had at least one VA
+patient diagnosed with an ICD-9 diagnosis of schizo-
+phrenia or related disorder or bipolar disorder who waslost to care. Lost to care was defined as whether the pa-
+tient had been seen at the facility between fiscal year
+(FY) 2008 –2009 but had no subsequent outpatient visits
+or an inpatient stay of less than 2 days as of January 2012.
+There were a total of 158 sites eligible for Re-Engage, of
+which 139 were medical centers (i.e., with hospital beds)and 19 were community-based outpatient clinics.
+Cluster randomized implementation intervention trial
+procedures
+Re-Engage was implemented based on the following steps.
+First, all eligible sites received Standard REP for 6 monthsto support the implementation of Re-Engage starting
+March 1, 2012, when VA disseminated the National Dir-
+ective [38]. Standard REP included disseminating the listof veterans identified as having dropped out of care along
+with a package that included a web-based clinical registry
+in order to document patients ’current status and their
+attempts to contact the patient, and instructions for
+providing Re-Engage outreach services. The Local Re-
+covery Coordinator at each eligible VA site received alist of names and last known contact information of eli-
+gible veterans from the VA national mental health pro-
+gram office who had dropped out of care and were lastseen at their site. Veterans who were eligible for Re-
+Engage [37,42] and who were on the providers ’list 1
+had at least one diagnosis of schizophrenia or relateddisorder (International Classification of Diseases, Ninth
+Revision, Clinical Modification (ICD-9-CM) codes
+295.0 –295.4; 295.6 –295.9), or bipolar disorder (ICD-9-
+CM codes 296.0 –296.8) recorded in an inpatient or out-
+patient visit in FY 2008 or FY 2009, 2) had not been
+seen in VA care for at least 1 year (i.e., dropped out ofcare: defined as no recorded outpatient visits in the past
+year), 3) had at least one inpatient visit prior to drop
+out, 4) were less than 65 years of age (i.e., less likely tobe in a nursing home or covered by Medicare services),
+and 5) were still alive as of March 2012 based on currently
+available mortality information from the VA BeneficiaryIdentification and Records Locater Subsystem, the Social
+Security Administration Death Master File, and the
+National Death Index [43].Kilbourne et al. Implementation Science  (2014) 9:163 Page 3 of 12
+In addition to the list- and web-based registry, Local
+Recovery Coordinators at each site also received a guide
+describing the Re-Engage program and were providedtraining via conference calls and offered brief technical
+assistance for 6 months [39]. During this period, Local
+Recovery Coordinators were asked to identify and docu-ment their patients ’current disposition based on the
+pre-generated list of those who had dropped out of care.
+Specifically, providers attempted to contact patientsfrom the outreach list and if successfully contacted, as-
+sess their clinical need and schedule a VA appointment
+if the Veteran desired health care.
+Sites with inadequate implementation of Re-Engage
+(i.e., non-responding si tes) as of September 1, 2012were then identified based on a previously established
+eligibility criterion for inadequate implementation of
+Re-Engage and randomized to receive Enhanced REPor continue Standard REP from September 1, 2012
+through February 28, 2013 (see Figure 1). Inadequate
+implementation of Re-Engage was defined as having<80% of patients who were previously identified as lost
+to care and were assigned to the given facility with an
+updated documentation of current clinical status in theweb-based registry. This previously established meas-
+ure is considered a core component of the Re-Engage
+program because it is an indicator of whether the LocalRecovery Coordinator at each site reviewed the list to
+assess clinical status and attempted to locate the patient.
+Figure 1 CONSORT diagram for cluster randomized trial of an adaptive implementation strategy.Kilbourne et al. Implementation Science  (2014) 9:163 Page 4 of 12
+This measure is also most likely impacted by individual
+providers and could be directly addressed through imple-
+mentation interventions. A cut-point of 80% was selectedbecause it is a standard definition used to determine
+adequate adherence to practice guidelines [44]. No dif-
+ferences in site characteristics were observed among theresponding and non-respondin g sites (Table 1). In addition,
+a total of 3,075 patients were identified from the 89 sites
+(mean number of patients per site = 36; SD = 25; range 4to 145 patients). Patients from non-responding sites were
+slightly more likely to be older and have a diagnosis of
+schizophrenia or related disorder (Table 1).
+Randomization procedures
+Sites having successfully implemented Re-Engage byAugust 31, 2012 continued to receive Standard REP(these sites are not part of the present study). Sites that
+had not adequately implemented Re-Engage (i.e., non-
+responding sites) were included in the present studyand were randomized at the regional level by integrated
+service networks. In the VA health-care system, sites res-
+ide within 21 regional VA integrated service networks(VISNs) representing the 50 United States and territories.
+A total of 89 sites (56.3%) from 20 of the 21 VISNs were
+non-responders to Standard REP support to implementRe-Engage (<80% of patients with updated documentation
+of current status). The VISNs of these sites were stratified
+by geographic region and randomized with equal prob-ability to two implementation interventions (Enhanced
+REP or continued Standard REP described below). Among
+the 20 regional networks (VISNs), 9 VISNs that included40 sites were randomized to begin with Enhanced REP
+Table 1 Characteristics of study sites and patients
+All Sites
+(N= 158)Initially responsive
+sites ( N= 69)aInitially non-responsive sites ( N= 89)
+Overall ( N=8 9
+sites)Randomized to
+Enhanced REP(N= 40 sites)Randomized to Standard
+REP (N= 49 sites)
+Site characteristics
+Region N(%) N(%) N(%) N(%) N(%)
+Northeast 41 (25.95) 19 (27.54) 22 (24.72) 12 (30.00) 10 (20.41)Midwest 38 (24.05) 15 (21.74) 23 (25.84) 13 (32.50) 10 (20.41)
+South 45 (28.48) 23 (33.33) 22 (24.72) 8 (20.00) 14 (28.57)
+West 34 (21.52) 12 (17.39) 22 (24.72) 7 (17.50) 15 (30.61)Site provides outpatient care only 19 (12.03) 9 (13.04) 10 (11.24) 4 (10.00) 6 (12.24)Mean total number of patients
+at site as of fiscal year 201240,858 (21,346) 41,943 (22,867) 40,016 (20,179) 41,427 (18,216) 38,865 (21,770)
+Mean number of patients diagnosed
+with serious mental illness lost to care
+on site list17 (6) 17 (6) 17 (7) 17 (6) 17 (7)
+Patient characteristics N= 5,047
+patientsN= 1,972 patients N= 3,075 patients N= 1,543
+patientsN= 1,532 patients
+N(%) N(%) N(%) N(%) N(%)
+Male 4,550 (90.2) 1,768 (89.7) 2,782 (90.5) 1,405 (91.1) 1,377 (89.9)
+Black 886 (17.6) 322 (16.3) 564 (18.3) 329 (21.3) 235 (15.3)*Married 1,363 (27.0) 548 (27.8) 815 (26.5) 405 (26.3) 410 (26.8)Service Connected 1,422 (28.2) 561 (28.5) 861 (28.0) 424 (27.5) 437 (28.5)Homeless 650 (12.9) 227 (11.5) 423 (13.8) 229 (14.8) 194 (12.7)Schizophrenia Diagnosis 2,017 (39.9) 739 (37.5) 1,278 (41.6)* 683 (44.3) 595 (38.8)*Last encounter at Site was
+inpatient247 (4.9) 109 (5.5) 138 (4.5) 69 (4.5) 69 (4.5)
+Mean (SD) Mean (SD) Mean (SD) Mean (SD) Mean (SD)
+Age, mean (SD) 55.1 (14.3) 54.4 (14.3) 55.5 (14.4)* 55.5 (14.1) 55.6 (14.6)
+Number of comorbidities,
+mean (SD)1.4 (1.7) 1.5 (1.7) 1.4 (1.6) 1.4 (1.6) 1.5 (1.7)
+aNon-responsive sites were defined as <80% of patients at the site with an updated documentation of current status; Responsive sites had ≥80% documentation
+of current status, as of March 2012.*Pvalue < 0.05 based on Rao-Scott chi-square test for categorical variables and two-tailed ttest for continuous variables.Kilbourne et al. Implementation Science  (2014) 9:163 Page 5 of 12
+and 11 VISNs that included 49 sites were randomized to
+continue with Standard REP.
+We chose to randomize at the regional network level
+(VISN) and not the site level because VISNs are typically
+authorized to set policies including allocation of clinical
+resources across VA facilities based on their own budget.Moreover, each regional network has a designated men-
+tal health leader who is responsible for monitoring men-
+tal health program activities among the network ’s
+individual sites and who would likely be contacted as
+part of the Facilitation implementation strategy (Table 2).
+Hence, randomization was conducted at the regional net-work level in the event that individual providers interacted
+with VISN-level leadership to garner support for the im-
+plementation of Re-Engage at their site, thereby minimiz-ing potential for contamination across sites.
+After an additional 6 months, sites in VISNs initially
+randomized to receive Standard REP and who were stillnon-responsive (<80% documentation of patients ’currentstatus) received Enhanced REP Facilitation from March 1,
+2013 through August 31, 2013, described below and in
+Figure 1. Sites in VISNs that were initially randomized toreceive Standard REP and metthe implementation bench-
+mark continued to receive Standard REP from March 1,
+2013 through August 31, 2013. Sites in VISNs randomizedto receive Enhanced REP in the first 6 months received
+Standard REP in the latter 6 months regardless of respon-
+siveness. Note that while the two interventions beingcompared are adaptive (Enhanced versus Standard REP),
+the experimental study design is not an adaptive design,
+nor a cross-over design.
+Adaptive implementation strategies
+Adaptive implementation strategy 1: Standard REP ,d e -
+scribed previously [37,42], consists of dissemination of
+a Re-Engage package describing the program ’sc o r ec o m -
+ponents, training the mental health providers implement-ing Re-Engage, and brief technical assistance offered to
+Table 2 Components and timeline of the two adaptive interventions: Enhanced and Standard Replicating Effective
+Programs (REP)
+Time All Sites —Standard REP
+March 1, 2012 Re-Engage package : Implementation guide disseminated to all providers at eligible sites, describing the Re-Engage program, a
+list of frequently asked questions, sample documents for program tasks, program policies, data security, and related research.
+Re-Engage training : Three 1.5-h national conference call trainings of mental health providers on how to conduct
+program. Program materials made available on mental health provider website.
+Technical assistance : Ongoing assistance via 1-h biweekly conference calls led by study staff for mental health providers
+to answer technical questions on Re-Engage program implementation, and study staff were available on an ad hoc basis to
+answer questions from individual providers. Monthly reports were generated to track Re-Engage uptake (% patients withupdated current status documented).
+September 1, 2012 Non-responsive sites (<80% patients with updated documentation of current status) randomized to Enhanced or
+Standard REP
+September 1, 2012 –
+March 1, 2013Enhanced REP Standard REP
+Needs assessment : Facilitators gather information from various sources (monthly evaluation reports,
+regional mental health leadership, mental health providers, VA national mental health leadership) toidentify potential facility-specific barriers and facilitators to implementation.As Described
+Above
+Ongoing support : Weekly phone calls with Facilitators, Technical Assistance staff, and VA national mental
+health leaders. Facilitators maintain open communication with VA leaders regarding implementation
+nationally and at specific sites through these phone calls and email communication. Facilitators alsomaintain ongoing contact with one another through separate weekly meetings.
+Garner local and regional support : Facilitators initiate contact with regional mental health leadership
+affiliated with local sites, providing information regarding Re-Engage program implementation and added
+value. Maintain ongoing contact and request support from regional leadership as indicated.
+Identify barriers/facilitators to Re-Engage implementation : Facilitators and mental health providers
+hold monthly calls for 6 months and collaboratively identify each facility ’s specific challenges (e.g., time,
+resources) to program implementation as well as potential assets (e.g., consistency with other initiatives,
+support from regional leadership).
+Collectively develop action plans : Facilitators assist mental health providers in identifying what specific
+actions they can take to implement program.
+Feedback/link to available resources : Facilitators provide feedback to mental health providers regarding
+implementation and action plan progress. Facilitators refer mental health providers to existing resources,including the Technical Assistance available through Standard REP, existing documents regarding the
+program intervention, facility-level, regional, or national leadership.
+March 1, 2013 –August
+2013Sites randomized to Standard REP who continue non-response receive 6 months of Enhanced REP Facilitation,
+remaining sites continued with Standard REPKilbourne et al. Implementation Science  (2014) 9:163 Page 6 of 12
+mental health providers that was designed to answer ques-
+tions about specific Re-Engage components (Table 2).
+Training and technical assistance was provided throughregularly scheduled national phone calls between March
+2012 and August 2012 by staff members from the investi-
+gator team.
+Adaptive implementation strategy 2: Enhanced REP in-
+cluded the addition of Facilitation, which has been de-
+fined as “a process of interactive problem-solving and
+support that occurs in the context of a recognized need
+for improvement and a supportive interpersonal rela-
+tionship ”[45]. Since Re-Engage was to be implemented
+nationally and is a relatively straightforward treatment
+delivered primarily by one provider at each facility, an
+External Facilitation role was based out of a central co-ordinating center [46]. Facilitation was delivered via tele-
+phone contacts for 6 months by three doctoral-level
+staff members with backgrounds in clinical psychologyor counseling and were trained in the VA ’sB l e n d e dF a c i l i -
+tation Model [47]. Individual semi-structured calls were
+made to the mental health providers at each facility, aswell as to leaders in the facility ’s regional network. Calls
+lasted on average about 30 min and occurred approxi-
+mately one to three times per month for each facility.
+The primary goal of Facilitation was to support the
+implementation of Re-Engage and included the following
+specific components [48] described in Table 2. Facilita-tors first gathered information using various sources to
+better understand the context of individual sites and
+reviewed internal reports generated from the web-basedregistry on Re-Engage implementation. Facilitators then
+scheduled individual calls with site providers to coach
+them on the implementation of Re-Engage. In addition,Facilitators contacted and built relationships with mental
+health leaders from the facility ’s regional VA network to
+promote the Re-Engage program, support implementa-tion, identify potential barriers, and if the site mental
+health provider desired, help resolve barriers to program
+adoption. Finally, Facilitators worked with the site pro-viders on plans to overcome barriers to Re-Engage im-
+plementation and continued to provide feedback.
+Outcomes
+Twelve-month outcomes assessed at the patient level in-
+cluded Re-Engage implementation and utilization of VAhealth-care services. Re-Engage program implementation
+was assessed using the three measures ascertained from
+the web-based registry: updated documentation of pa-tients ’current status, attempted contact of the patient,
+and completed contact. Updated documentation was
+captured by determining whether the providers added incurrent information on the veteran ’s clinical and social
+disposition based on the most recent VA medical record
+entries as well as available information regarding theveteran ’s location and contact information via the inter-
+net. Attempted contacts were also recorded by the pro-
+viders in the registry if they tried calling the veteran,calling his or her next of kin if their contact information
+was available, and if needed, sending a letter to the last
+known address of the veteran. Completed contacts weredefined as documentation in the registry that the veteran
+was successfully reached to determine preference and need
+for services. All three measures involve clinical decision-making because the providers had to review clinical re-
+cords in detail to understand the current disposition of the
+veteran and their relative need for care based on currentsymptoms and health status. As part of these contacts,
+providers were expected to make an immediate assess-
+ment over the phone pertaining to safety, acute symptom-atology, or other clinical issue experienced by the veterans.
+These processes are akin to primary care clinicians review-
+ing medical records prior to a patient ’s visit, and using
+available clinical data on diagnoses and past treatment
+history, determine who needs to be seen sooner rather
+than later.
+Utilization outcomes post-randomization included any
+inpatient or outpatient visit within 12 months of initial
+randomization to Enhanced or Standard REP. Patientutilization data were ascertained from VA inpatient and
+outpatient administrative data available at the national
+level [49] using previously established methods [50,51].These methods allowed the research team to summarize
+the total number of outpatient mental health and general
+medical visits (based on 300 or 500 series VA stop codes,respectively) and any inpatient visit in the VA system. All
+six patient-level outcomes —updated status, attempted
+contact, completed contact, any outpatient, any inpatient,and any outpatient or inpatient visit —are dichotomous,
+i.e.,“yes”versus “no”.
+Analysis of primary and secondary aims
+Descriptive statistics and bivariate analyses were con-
+ducted to compare sites starting on Enhanced versus sitesstarting on Standard REP based on patient- and site-level
+pre-randomization measures. For each outcome, we com-
+pared Enhanced REP versus Standard REP overall and in6-month intervals (to account for immediate versus de-
+layed effect of Enhanced REP) using a three-level mixed
+effects logistic regression model that accounted for theclustering of patients within sites within VISNs [50]. All
+regressions included an intercept, dichotomous indicator
+for Enhanced REP versus Standard REP , and independentrandom intercepts for site and VISN (assumed to follow a
+normal distribution). We further adjusted for the follow-
+inga priori selected list of patient-level pre-randomization
+covariates: patient age, gender, race, VA service connec-
+tion, married, homelessness, schizophrenia or related
+disorders diagnosis, number of medical comorbidityKilbourne et al. Implementation Science  (2014) 9:163 Page 7 of 12
+diagnoses, and whether last encounter was inpatient, as
+well as site-level factors including facility size (measured
+as number of unique patients in FY12), whether the sitewas an outpatient clinic or VA medical center (with at
+l e a s to n ei n p a t i e n tu n i t ) ,t h et o t a ln u m b e ro fp a t i e n t s
+with serious mental illness identified on the list to havedropped out of care (who were last seen at that site).
+The rationale for adjusting for these covariates is based
+on prior data suggesting these factors are associatedwith responsiveness to the Re-Engage program based on
+the original study [37]. For each outcome, we report
+both the crude and covariate-adjusted odds ratios of a“yes”value.
+Power calculations have been described previously [37]
+and were originally based on a two-sample comparisonof facilities within VISNs randomized to Enhanced ver-
+sus Standard REP. Assuming a between-VISN variation
+(ICC = 0.177), and a two-sided, two-sample ttest based
+on a type-I error rate of 5%, we had 80% power to detect
+an effect size of 0.72 (Cohen ’s D). However, the current
+study is a secondary analysis designed to identify poten-tial benefits of Enhanced REP based on multilevel
+models. Notably, sample size calculations were not per-
+formed for patient-level outcomes.
+Results
+By August 2012, 89 sites were identified as having <80%uptake (updated documentation of patients ’current status),
+and these sites were randomized to Enhanced or Standard
+REP. The average percentage of updated documentationacross the initially non-responsive sites ( N= 89) was 24.0%
+(SD = 27.4%), and among the sites initially randomized
+to Standard REP ( N= 49) was 22.6%; (SD: 28.1%) and
+for sites randomized to continuation of Standard REP
+was 25.1% (SD = 27.0%).
+Among sites randomized to Enhanced versus Standard
+REP, there were no significant differences in patient-level
+characteristics with the exception that patients from En-
+hanced REP sites were less likely Black and less likely tohave a diagnosis of schizophrenia or related disorder
+(Table 1).
+Multivariable results after adjusting for additional pa-
+tient and site factors showed that there was a statistically
+significant difference in Re-Engage program uptake when
+Enhanced REP was applied immediately (Table 3). Inparticular, patients from non -responsive sites receiving
+Enhanced REP in the first 6 months of randomization
+compared to Standard REP sites were more likely tohave a completed contact (adjusted OR = 2.13; 95% CI:
+1.09–4.19, P= 0.02). Delayed Enhanced REP was also
+significantly associated with program uptake, where pa-tients from sites that were no longer receiving REP after
+6 months were less likely to have their clinical status up-
+dated compared to sites receiving Enhanced REP overthe 6 –12-month study period (Table 3). Enhanced REP
+was not associated with statistically significant probability
+of Re-Engage program uptake over the 12-month period,although the overall trend was increased program uptake
+(Figure 2).
+Overall, Enhanced REP was not associated with cumula-
+tive differences in utilization after adjustment over the
+12-month period.
+Discussion
+This paper describes to our knowledge one of the first
+trials comparing two adaptive implementation interven-tions. The study tested the effectiveness of immediate
+versus delayed deployment of Facilitation as an adjunct
+to Standard REP on the implementation of a nationalVA program, Re-Engage, which is designed to assist pa-
+tients with serious mental illness who have been lost to
+care return to VA services. We found that among sitesinitially not responding to REP in 6 months, those that
+were randomized at the regional network level to receive
+Enhanced REP immediately (added Facilitation) or 6 monthslater were more likely to adopt Re-Engage. However, the
+cumulative effects of Enhanced REP over the 12-month
+period were not statistically significant.
+To date, this was one of the first studies to employ an
+adaptive implementation intervention. In doing so, we
+were able to use a study design that took advantage ofthe national rollout of a clinical mandate. Although na-
+tional mandates alone are limited in their ability to im-
+plement programs due to their top-down nature [52-54]conducting the present trial in the context of a clinical
+mandate provided additional support for the implementa-
+tion of Re-Engage across sites [42]. Moreover, Re-Engageis one of the first brief interventions to be implemented
+for people with serious mental illness at a national level,
+using national data and web-based reporting registries todocument program uptake and patient status. Ultimately,
+Standard REP and Enhanced REP were well-matched to
+the implementation of Re-Engage because the compo-nents were designed to be employed across multiple sites
+via internet and phone, which enhances the potential for
+scalability. This approach also allowed for the rollout ofimplementation strategies on a national level, thus poten-
+tially saving travel and personnel costs [55-58].
+Nonetheless, we found that Enhanced compared to REP
+did not result in an increased proportion of patients
+returning to care or increased utilization of services
+among those who had dropped out of care. There areseveral reasons for these findings. First, not all patients
+were able to be contacted, and even fewer had a com-
+pleted contact that would have routed them to services. Incontrast, over two thirds of patients in the original study
+[37] were successfully contacted and re-engaged into ser-
+vices. The length of time patients were lost to care wasKilbourne et al. Implementation Science  (2014) 9:163 Page 8 of 12
+longer than in the present study (maximum of 4 years and
+5 months) than the length of time lost to care in the ori-
+ginal assessment (maximum of 3 years). In addition, thetime period for measuring return to care was longer in the
+original study (2 years), while this study only examined 1-
+year utilization outcomes. Perhaps patients who haddropped out of care longer ago were less likely to have
+been found by providers. In addition, historical trends in
+preference for VA care might have changed since the initi-ation of the original effectiveness study (2007 versus
+2012). Perhaps patients who were reached may not have
+desired care at the time of contact or had access to careexternal to the VA.Another reason for the null findings regarding utilization
+may have been due to the randomization at the regional
+network level as opposed to site level. The study was de-signed with the assumption that Facilitation involved con-
+tacts with regional network leadership levels, which would
+have made randomization at the site level vulnerable topotential contamination. Nonetheless, a key component of
+Enhanced REP was the ability to coach individual pro-
+viders in a relatively efficient manner (via phone calls) ra-ther than involving multiple levels of leadership and
+frontline staff to implement quality improvement initia-
+tives, which can be expensive, time-consuming, and oftenrequire buy-in from multiple stakeholders. The centralTable 3 Patient-level response to implementation of Re-Engage program comparing non-responsive sites randomized
+to one of two implementation strategies (Enhanced or Standard Replicating Effective Programs (REP))
+Implementation strategy
+number 1: patients fromnon-responsive sites
+randomized to first receive
+6 months of Enhanced REP(immediate) ( N= 1,543)Implementation strategy
+number 2: patients fromnon-responsive sites
+randomized to first receive
+6 months of Standard REP(delayed) ( N= 1,532)Unadjusted OR
+(95% CI)Adjusted
+OR
+a(95% CI)
+Cumulative outcomes assessed over the 12-month period (August 31, 2012 –August 31, 2013)
+Updated status 848 (54.96%) 613 (40.01%) 1.18 (0.43, 3.28) 1.29 (0.43, 3.90)Attempted contact 694 (44.98%) 491 (32.05%) 1.06 (0.44, 2.59) 1.13 (0.44, 2.93)Completed contact 198 (12.83%) 142 (9.27%) 1.26 (0.72, 2.18) 1.31 (0.70, 2.43)
+Health-care use
+Any outpatient use 358 (23.20%) 382 (24.93%) 0.90 (0.70, 1.16) 0.94 (0.72, 1.22)Any inpatient use 56 (3.63%) 58 (3.79%) 0.97 (0.62, 1.54) 1.00 (0.66, 1.51)
+Any inpatient or outpatient use 361 (23.40%) 383 (25.00%) 0.91 (0.71, 1.17) 0.94 (0.72, 1.23)
+Outcomes in first 6 months of implementation intervention (August 31, 2012 –February 28, 2013)
+Updated status 605 (39.21%) 262 (17.10%) 2.85 (0.99, 8.25) 2.81 (0.93, 8.54)Attempted contact 479 (31.04%) 207 (13.51%) 2.15 (0.81, 5.71) 2.21 (0.80, 6.05)Completed contact 121 (7.84%) 57 (3.72%) 1.94 (1.01, 3.74)* 2.13 (1.09, 4.19)*
+Health-care use
+Any outpatient use: August 31 2012 –
+February 28 2013234 (15.17%) 256 (16.71%) 0.89 (0.69, 1.16) 0.95 (0.73, 1.24)
+Any inpatient use 40 (2.59%) 43 (2.81) 0.89 (0.54, 1.46) 0.89 (0.53, 1.49)
+Any inpatient or outpatient use 237 (15.36%) 257 (16.78%) 0.91 (0.70, 1.17) 0.96 (0.74, 1.25)
+Outcomes in second 6 months of implementation intervention (March 1, 2013 –August 31, 2013)
+Updated status 243 (15.75%) 351 (22.91%) 0.30 (0.11, 0.84)* 0.33 (0.12, 0.91)*Attempted contact 215 (13.93%) 284 (18.54%) 0.39 (0.15, 1.08) 0.43 (0.16, 1.19)Completed contact 77 (4.99%) 85 (5.55%) 0.58 (0.26, 1.30) 0.61 (0.25, 1.49)
+Health-care use
+Any outpatient use: March 1 2013 –August 31
+2013276 (17.89%) 290 (18.93%) 0.96 (0.72, 1.28) 0.99 (0.74, 1.34)
+Any inpatient use 28 (1.81%) 30 (1.96%) 0.92 (0.51, 1.65) 0.99 (0.56, 1.72)
+Any inpatient or outpatient use 278 (18.02%) 291 (18.99%) 0.96 (0.72, 1.28) 0.99 (0.74, 1.33)
+aAdjusted odds ratios (OR) were obtained from multilevel hierarchical logistic regression models after adjusting for the effects of the following co variates: patient
+characteristics (age, gender, race, marital status, VA service connection, homelessness, schizophrenia diagnosis, whether last encounter was in patient, number of
+medical comorbidity diagnoses) and site characteristics (outpatient clinic status, facility size, and total number of patients on the original lis t). These models
+considered patients clustered within sites, and sites are nested within VISNs.*Pvalue < 0.05.Kilbourne et al. Implementation Science  (2014) 9:163 Page 9 of 12
+underpinning of Facilitation is the ability to empower the
+clinicians ultimately responsible for implementing a new
+initiative. Hence, while Facilitation included contacts with
+regional leadership in order to promote Re-Engage, in
+reality, they were primarily focused on addressing con-
+cerns brought up by the individual providers at each site,
+especially regarding lack of time to contact patients and
+difficulty in locating them [58]. Hence, the three-level
+cluster analysis (VISN, site, patient) represented a more
+conservative estimate of effects given more limited power
+with 20 networks. Moreover, while it is possible that effect
+of Facilitation might have been because of increased ad-
+ministrative attention through leadership contacts, much
+of this attention may have occurred prior to when Facilita-
+tion was implemented because the national directive was
+mandated and rolled out to VA regional mental health
+leaders in March 2012, approximately 6 months prior to
+initiation of added Facilitation (August 2012).
+There are limitations to this st udy that warrant consider-
+ation. We were unable to assess utilization of services out-
+side the VA, as VA administrative data do not capture
+other types of services such as state-run, not-for-profit, or
+private community-based clinics or mental health pro-
+grams. Although it would have been scientifically inform-
+ative to have continued Enhanced REP for greater than
+6 months, the rapid implementation of Re-Engage was a
+high priority of VA leaders. Hence, the study was designed
+so that all sites could have access to the potential benefits
+of Enhanced REP in a relatively short period of time. Trans-
+portation costs and the national cohort of VA sites pre-
+cluded our ability to provide in-person REP components(e.g., training) or Enhanced REP Facilitation, which could
+potentially have increased the potential impact of the im-
+plementation strategies [33,59]. The national rollout of the
+Re-Engage clinical program via a VA Directive precluded
+our ability to measure provider behavior or other clinical
+processes of care (e.g., qualitative assessments or taping
+contacts with veterans). Fina lly, the Enhanced REP Facilita-
+tion strategy was mainly focused the adoption of a relatively
+straightforward clinical protocol, whereas a more compre-
+hensive improvement strategy (e.g., systems engineering)
+might be warranted for more complex health services inter-
+ventions involving the adoption of care processes across
+multiple interdisciplinary teams of providers [60,61].
+Conclusions
+Overall, Enhanced REP was associated with greater uptake
+of an outreach program designed for patients with serious
+mental illness among sites initially not responding to a
+standard implementation strategy. Enhanced REP was
+most effective when applied immediately among sites not
+responding to a standard implementation strategy. Further
+research is needed to determine whether national imple-
+mentation of Facilitation results in tangible changes in
+patient-level outcomes including utilization and quality of
+care. Additional analyses regarding relative costs of en-
+hanced implementation strategies are also warranted. Fi-
+nally, adaptive implementation intervention designs may
+hold promise in the more efficient allocation of imple-
+mentation support notably for sites that are not responsive
+to less intensive implementation approaches to facilitate
+the uptake of evidence-based practices.
+Figure 2 Re-Engage program uptake over the 12-month period comparing adaptive implementation strategies (immediate versus
+delayed Enhanced REP).Kilbourne et al. Implementation Science  (2014) 9:163 Page 10 of 12
+Abbreviations
+REP: Replicating Effective Programs framework; PARiHS: Promoting Action on
+Research Implementation in Health Services framework; SMI: Serious mental
+illness; VA: Veterans Health Administration; ICD-9-CM: International Classification
+of Diseases; Ninth Revision: Clinical Modification; VISN: VA integrated
+service network.
+Competing interests
+The authors declare that they have no competing interests.
+Authors ’contributions
+AMK provided funding for the study, developed the implementation
+methods, and drafted the manuscript; DA provided input on the study
+design and feedback on paper drafts; DEG provided the literature and
+relevant background on the implementation model, as well as critically
+reviewed the subsequent drafts; ZL analyzed the data and provided content
+on the methods sections of the paper; KMA implemented the adaptive
+intervention, summarized implementation findings, and reviewed the study
+drafts; KMN reviewed the study drafts and provided components of the
+clinical intervention; and NWB implemented the adaptive intervention and
+reviewed the study drafts. All authors read and approved the final
+manuscript.
+Acknowledgements
+This research was supported by the Department of Veterans Affairs, Veterans
+Health Administration, Health Service Research and Development Service
+(SDR 11 –232). The views expressed in this article are those of the authors
+and do not necessarily represent the views of the VA. We would also like to
+acknowledge the support of the VA Office of the Medical Inspector and the
+Office of Mental Health Services and Mental Health Operations of the
+Veterans Health Administration.
+Author details
+1VA Center for Clinical Management Research, VA Ann Arbor Healthcare
+System, 2215 Fuller Road, Mailstop 152, Ann Arbor, MI 48105, USA.
+2Department of Psychiatry, University of Michigan Medical School, North
+Campus Research Complex, 2800 Plymouth Road, Building 16, Ann Arbor, MI
+48109-2800, USA.3Institute for Social Research, University of Michigan, 426
+Thompson Street, Ann Arbor, MI 48104-2321, USA.4University of Detroit
+Mercy, 4001 West McNichols Road, Detroit, MI 48221-3038, USA.
+Received: 2 July 2014 Accepted: 21 October 2014
+References
+1. Kilbourne AM, Brar JS, Drayer RA, Xu X, Post EP: Cardiovascular disease and
+metabolic risk factors in male patients with schizophrenia, schizoaffective
+disorder, and bipolar disorder. Psychosomatics 2007, 48:412 –417.
+2. Kilbourne AM, Post EP, Bauer MS, Zeber JE, Copeland LA, Good CB, Pincus HA:
+Therapeutic drug and cardiovascular disease risk monitoring in patients
+with bipolar disorder. J Affect Disord 2007, 102:145 –151.
+3. Chwastiak L, Rosenheck R, Leslie D: Impact of medical comorbidity on the
+quality of schizophrenia pharmacotherapy in a national VA sample.
+Med Care 2006, 44:55–61.
+4. Kennedy JL, Altar CA, Taylor DL, Degtiar I, Hornberger JC: The social and
+economic burden of treatment-resistant schizophrenia: a systematic
+literature review. Int Clin Psychopharmacol 2014, 29:63–76.
+5. Dilsaver SC: An estimate of the minimum economic burden of bipolar I
+and II disorders in the United States: 2009. J Affect Disord 2011, 129:79–83.
+6. Copeland LA, Zeber JE, Wang CP, Parchman ML, Lawrence VA, Valenstein M,
+Miller AL: Patterns of primary care and mortality among patients with
+schizophrenia or diabetes: a cluster analysis approach to the retrospective
+study of healthcare utilization. BMC Health Serv Res 2009, 9:127.
+7. Crump C, Winkleby MA, Sundquist K, Sundquist J: Comorbidities and
+mortality in persons with schizophrenia: a Swedish national cohort
+study. Am J Psychiatry 2013, 2013 (170):324 –333.
+8. Kilbourne AM, Ignacio RV, Kim HM, Blow FC: Datapoints: are VA patients
+with serious mental illness dying younger? Psychiatr Serv 2009, 60:589.
+9. Saha S, Chant D, McGrath J: A systematic review of mortality in
+schizophrenia: is the differential mortality gap worsening over time?
+Arch Gen Psychiatry 2007, 64:1123 –1131.10. Copeland LA, Zeber JE, Rosenheck RA, Miller AL: Unforeseen inpatient
+mortality among veterans with schizophrenia. Med Care 2006, 44:110 –116.
+11. Castagnini A, Foldager L, Bertelsen A: Excess mortality of acute and
+transient psychotic disorders: comparison with bipolar affective disorder
+and schizophrenia. Acta Psychiatr Scand 2013, 128:370 –375.
+12. Chambers DA, Azrin ST: Research and services partnerships: partnership: a
+fundamental component of dissemination and implementation research.
+Psychiatr Serv 2013, 64:509 –511.
+13. Curran GM, Bauer M, Mittman B, Pyne JM, Stetler C: Effectiveness-
+implementation hybrid designs: combining elements of clinical
+effectiveness and implementation research to enhance public
+health impact. Med Care 2012, 50:217 –226.
+14. Green LW, Kreuter MW, Deeds SG, Partridge KB: Health Education Planning: a
+Diagnostic Approach. 1st edition. Mountain View, CA: Mayfield Publishing
+Co.; 1980.
+15. Greenhalgh T, Robert G, Macfarlane F, Bate P, Kyriakidou O: Diffusion of
+innovations in service organizations: systematic review and
+recommendations. Milbank Q 2004, 82:581 –629.
+16. Kilbourne AM, Neumann MS, Pincus HA, Bauer MS, Stall R: Implementing
+evidence-based interventions in health care: application of the replicating
+effective programs framework. Implement Sci 2007, 2:42.
+17. Neumann MS, Sogolow ED: Replicating effective programs: HIV/AIDS
+prevention technology transfer. AIDS Educ Prev 2000, 12:35–48.
+18. Stetler CB: Role of the organization in translating research into
+evidence-based practice. Outcomes Manag 2003, 7:97–103. quiz 104 –105.
+19. Kelly JA, Somlai AM, DiFranceisco WJ, Otto-Salaj LL, McAuliffe TL, Hackl KL,
+Heckman TG, Holtgrave DR, Rompa D: Bridging the gap between the science
+and service of HIV prevention: transferring effective research-based HIV
+prevention interventions to community AIDS service providers. Am J Public
+Health 2000, 90:1082 –1088.
+20. Bandura A: Social Learning Theory. Englewood Cliffs, NJ: Prentice Hall; 1977.
+21. Rogers E: Diffusion of Innovations. 5th edition. New York, NY: Free Press; 2003.
+22. Kelly JA, Heckman TG, Stevenson LY, Williams PN, Ertl T, Hays RB, Leonard NR,
+O'Donnell L, Terry MA, Sogolow ED, Neumann MS: Transfer of research-based
+HIV prevention interventions to community service providers: fidelity and
+adaptation. AIDS Educ Prev 2000, 12:87–98.
+23. Kitson A, Harvey G, McCormack B: Enabling the implementation of evidence
+based practice: a conceptual framework. Qual Health Care 1998, 7:149 –158.
+24. Nutting PA, Crabtree BF, Stewart EE, Miller WL, Palmer RF, Stange KC, Jaen
+CR:Effect of facilitation on practice outcomes in the national
+demonstration project model of the patient-centered medical home.
+Ann Fam Med 2010, 8(Suppl 1):S33 –S44. S92.
+25. Shortell SM, Bennett CL, Byck GR: Assessing the impact of continuous
+quality improvement on clinical practice: what it will take to accelerate
+progress. Milbank Q 1998, 76:593 –624. 510.
+26. VanDeusen LC, Engle RL, Holmes SK, Parker VA, Petzel RA, Nealon Seibert M,
+Shwartz M, Sullivan JL: Strengthening organizations to implement
+evidence-based clinical practices. Health Care Manage Rev 2010,
+35:235 –245.
+27. Lukas CV, Holmes SK, Cohen AB, Restuccia J, Cramer IE, Shwartz M, Charns MP:
+Transformational change in health care systems: an organizational model.
+Health Care Manage Rev 2007, 32:309 –320.
+28. Kilbourne AM, Neumann MS, Waxmonsky J, Bauer MS, Kim HM, Pincus HA,
+Thomas M: Public-academic partnerships: evidence-based implementation:
+the role of sustained community-based practice and research partnerships.
+Psychiatr Serv 2012, 63:205 –207.
+29. Zmud RW: An examination of push-pull theory applied to process
+innovation in knowledge work. Manag Sci 1984, 30:727 –738.
+30. Kitson AL, Rycroft-Malone J, Harvey G, McCormack B, Seers K, Titchen A:
+Evaluating the successful implementation of evidence into practice
+using the PARiHS framework: theoretical and practical challenges.
+Implement Sci 2008, 3:1.
+31. Rycroft-Malone J: The PARIHS framework —a framework for guiding the
+implementation of evidence-based practice. J Nurs Care Qual 2004, 19:297 –304.
+32. Stetler CB, Damschroder LJ, Helfrich CD, Hagedorn HJ: A Guide for
+applying a revised version of the PARIHS framework for implementation.
+Implement Sci 2011, 6:99.
+33. Ritchie MJ, Dollar KM, Kearney LK, Kirchner JE: Research and services
+partnerships: responding to needs of clinical operations partners:
+transferring implementation facilitation knowledge and skills. Psychiatr
+Serv 2014, 65:141 –143.Kilbourne et al. Implementation Science  (2014) 9:163 Page 11 of 12
+34. Aarons GA, Green AE, Palinkas LA, Self-Brown S, Whitaker DJ, Lutzker JR, Silovsky
+JF, Hecht DB, Chaffin MJ: Dynamic adaptation process to implement an
+evidence-based child maltreatment intervention. Implement Sci 2012, 7:32.
+35. Wandersman A, Chien VH, Katz J: Toward an evidence-based system for
+innovation support for implementing innovations with quality: tools,training, technical assistance, and quality assurance/quality improvement.
+Am J Community Psychol 2012, 50:445 –459.
+36. Waxmonsky J, Kilbourne AM, Goodrich DE, Nord KM, Lai Z, Laird C, Clogston
+J, Kim HM, Miller C, Bauer MS: Enhanced fidelity to treatment for bipolar
+disorder: results from a randomized controlled implementation trial.Psychiatr Serv 2014, 65:81–90.
+37. Davis CL, Kilbourne AM, Blow FC, Pierce JR, Winkel BM, Huycke E, Langberg
+R, Lyle D, Phillips Y, Visnic S: Reduced mortality among Department of
+Veterans Affairs patients with schizophrenia or bipolar disorder lost tofollow-up and engaged in active outreach to return for care. Am J Public
+Health 2012, 102(Suppl 1):S74 –S79.
+38. Veterans Health Administration: VHA Directive 2012 –002: Re-Engaging Veterans
+with Serious Mental Illness in Treatment. Washington, D.C: Department of
+Veterans Affairs; 2012.
+39. Kilbourne AM, Abraham KM, Goodrich DE, Bowersox NW, Almirall D, Lai Z,
+Nord KM: Cluster randomized adaptive implementation trial comparing a
+standard versus enhanced implementation intervention to improveuptake of an effective re-engagement program for patients with serious
+mental illness. Implement Sci 2013, 8:136.
+40. Veterans Health Administration: Office of the Medical Inspector final report:
+Quality Improvement Assessment: Outreach Services to Schizophrenic andBipolar Patients Lost to Follow-Up Care (2010-D-252). Washington, D.C:
+Department of Veteran Affairs; 2010.
+41. Veterans Health Administration (VHA): VHA Handbook 1160.01: Uniform
+Mental Health Services in VA Medical Centers and Clinics. Washington, D.C:
+Department of Veteran Affairs; 2008.
+42. Goodrich DE, Bowersox NW, Abraham KM, Burk JP, Visnic S, Lai Z, Kilbourne
+AM:Leading from the middle: replication of a re-engagement program
+for veterans with mental disorders lost to follow-up care. Depress Res
+Treat 2012, 2012: 325249.
+43. Arnold N, Sohn MW, Maynard C, Hynes DM: VIReC Technical Report 2: VA-NDI
+Mortality Data Merge Project. Hines, IL: VA Information Resource Center,
+Department of Veterans Affairs; 2006.
+44. Agency for Healthcare Research and Qua lity: methodological considerations
+in generating provider performance score [http://www.ahrq.gov/professionals/
+quality-patient-safety/qualityresources /value/perfscoresmethods/index.html]
+45. Stetler CB, Legro MW, Rycroft-Malone J, Bowman C, Curran G, Guihan M,
+Hagedorn H, Pineros S, Wallace CM: Role of “external facilitation ”in
+implementation of research findings: a qualitative evaluation offacilitation experiences in the V eterans Health Administration.
+Implement Sci 2006, 1:23.
+46. Shortell SM, O'Brien JL, Carman JM, Foster RW, Hughes EF, Boerstler H,
+O'Connor EJ: Assessing the impact of continuous quality improvement/
+total quality management: concept versus implementation.
+Health Serv
+Res1995, 30:377 –401.
+47. Implementation facilitation training manual: using external and internal
+facilitation to improve care in the Veterans Health Administration
+[http://www.queri.research.va.gov/tools/implementation.cfm]
+48. Lukas CV, Meterko MM, Mohr D, Seibert MN, Parlier R, Levesque O, Petzel
+RA:Implementation of a clinical innovation: the case of advanced clinic
+access in the Department of Veterans Affairs. J Ambul Care Manage 2008,
+31:94–108.
+49. Blow FC, McCarthy JF, Valenstein M, Bowersox NW, Visnic S: Care for
+Veterans with Psychosis in the Veterans Health Administration, FY10: 12th
+Annual National Psychosis Registry Report. Ann Arbor, MI: VA Serious Mental
+Illness Treatment Resource and Evaluation Center (SMITREC); 2011.
+50. O'Toole TP, Conde-Martel A, Gibbon JL, Hanusa BH, Fine MJ: Health care of
+homeless veterans. J Gen Intern Med 2003, 18:929 –933.
+51. Perl L: Veterans and Homelessness. Washington, D.C: Congressional Research
+Service; 2009.
+52. Parker LE, de Pillis E, Altschuler A, Rubenstein LV, Meredith LS: Balancing
+participation and expertise: a comparison of locally and centrally
+managed health care quality improvement within primary carepractices. Qual Health Res 2007, 17:1268 –1279.53. Rubenstein LV, Parker LE, Meredith LS, Altschuler A, De Pillis E, Hernandez J,
+Gordon NP: Understanding team-based quality improvement for depression
+in primary care. Health Serv Res 2002, 37:1009 –1029.
+54. Gagliardi AR: “More bang for the buck ”: exploring optimal approaches for
+guideline implementation through interviews with international
+developers. BMC Health Serv Res 2012, 12:404.
+55. Chen EH, Bodenheimer T: Improving population health through team-based
+panel management: comment on “Electronic medical record reminders
+and panel management to improve primary care of elderly patients ”.
+Arch Intern Med 2011, 171:1558 –1559.
+56. Calman NS, Hauser D, Chokshi DA: “Lost to follow-up ”: the public health
+goals of accountable care. Arch Intern Med 2012, 172:584 –586.
+57. Smith TE, Appel A, Donahue SA, Essock SM, Jackson CT, Karpati A, Marsik T,
+Myers RW, Tom L: Use of administrative data to identify potential service
+gaps for individuals with serious mental illness.
+Psychiatr Serv 2011,
+62:1094 –1097.
+58. Kilbourne AM, Goodrich DE, Lai Z, Almirall D, Nord KM, Bowersox NW,
+Abraham KM: Reengaging veterans with serious mental illness into care:
+preliminary results from a national randomized trial. Psychiatr Serv 2014.
+doi: 10.1176/appi.ps.201300497
+59. Kirchner J, Edlund CN, Henderson K, Daily L, Parker LE, Fortney JC: Using a
+multi-level approach to implement a primary care mental health (PCMH)
+program. Fam Syst Health 2010, 28:161 –174.
+60. Bravata DM, Daggett VS, Woodward-Hagg H, Damush T, Plue L, Russell S,
+Allen G, Williams LS, Harezlak J, Chumbler NR: Comparison of two approaches
+to screen for dysphagia among acute ischemic stroke patients: nursing
+admission screening tool versus National Institutes of Health stroke scale.J Rehabil Res Dev 2009, 46:1127 –1134.
+61. Paccagnella A, Mauri A, Spinella N: Quality improvement for integrated
+management of patients with type 2 diabetes (PRIHTA project stage 1).
+Qual Manag Health Care 2012, 21:146 –159.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at 
+www.biomedcentral.com/submitKilbourne et al. Implementation Science  (2014) 9:163 Page 12 of 12

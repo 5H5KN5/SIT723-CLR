@@ -1,0 +1,1176 @@
+DEBATE Open Access
+Towards a comprehensive model for
+understanding adaptations ’impact: the
+model for adaptation design and impact
+(MADI)
+M. Alexis Kirk1*, Julia E. Moore2, Shannon Wiltsey Stirman3and Sarah A. Birken4
+Abstract
+Background: Implementation science is shifting from qualifying adaptations as good or bad towards
+understanding adaptations and their impact. Existing adaptation classification frameworks are largely descriptive
+(e.g., who made the adaptation) and geared towards researchers. They do not help practitioners in decision-making
+around adaptations (e.g., is an adaptation likely to have negative impacts? Should it be pursued?). Moreover, they
+lack constructs to consider “ripple effects ”of adaptations (i.e., both intended and unintended impacts on outcomes,
+recognizing that an adaptation designed to have a positive impact on one outcome may have unintended impacts
+on other outcomes). Finally, they do not specify relationships between adaptations and outcomes, including
+mediating and moderating relationships. The objective of our research was to promote systematic assessment of
+intended and unintended impacts of adaptations by using existing frameworks to create a model that proposes
+relationships among constructs.
+Materials and methods: We reviewed, consolidated, and refined constructs from two adaptation frameworks and
+one intervention-implementation outcome framework. Using the consolidated and refined constructs, we coded
+qualitative descriptions of 14 adaptations made to an existing evidence-based intervention; the 14 adaptations
+were designed in prior research by a stakeholder panel using a modified Delphi approach. Each of the 14
+adaptations had detailed descriptions, including the nature of the adaptation, who made it, and its goal and
+reason. Using coded data, we arranged constructs from existing frameworks into a model, the Model for
+Adaptation Design and Impact (MADI), that identifies adaptation characteristics, their intended and unintended
+impacts (i.e., ripple effects), and potential mediators and moderators of adaptations ’impact on outcomes. We also
+developed a decision aid and website ( MADIguide.org ) to help implementation scientists apply MADI in their work.
+(Continued on next page)
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ .
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.* Correspondence: akirk@unc.edu
+1The Impact Center, Frank Porter Graham Child Development Institute, The
+University of North Carolina at Chapel Hill, 105 Smith Level Road, Chapel Hill,
+NC 27599, USA
+Full list of author information is available at the end of the article
+Kirk et al. Implementation Science           (2020) 15:56 
+https://doi.org/10.1186/s13012-020-01021-y
+(Continued from previous page)
+Results and conclusions: Our model and associated decision aids build on existing frameworks by
+comprehensively characterizing adaptations, proposing how adaptations impact outcomes, and offering practical
+guidance for designing adaptations. MADI encourages researchers to think about potential causal pathways of
+adaptations (e.g., mediators and moderators) and adaptations ’intended and unintended impacts on outcomes.
+MADI encourages practitioners to design adaptations in a way that anticipates intended and unintended impacts
+and leverages best practice from research.
+Keywords: Adaptation, Evidence-based intervention, Implementation outcomes
+Background
+Adaptations, or changes made to programs or interven-
+tions to align them with the context in which they are
+implemented [ 1,4–6], are a reality in implementation.
+Adaptations allow for flexibility in implementation, im-
+proving the fit of an intervention with a new
+organization, population, or context. Adaptation is
+multi-faceted and dynamic; for a single intervention, sev-
+eral adaptations might be made. Adaptations can be
+made to interventions (i.e., the seven P ’s—programs,
+practices, principles, procedures, products, pills, and pol-
+icies [ 7]) and/or to the implementation strategies
+employed to facilitate the implementation of interven-
+tions. Moreover, a single adaptation may affect multiple
+outcomes, in both intended and unintended ways. For
+example, an adaptation intended to increase feasibility
+may have unintended “ripple effects, ”such as decreasing
+fidelity or appropriateness.
+The complex and multi-faceted nature of adaptations
+makes theories, models, and frameworks crucial to pro-
+mote systematic, consistent adaptation descriptions and
+assessments. Although frameworks for adaptation exist
+and provide structure for classifying adaptations, they donot propose interrelationships among constructs or ex-
+planations of potential causal pathways like models and
+theories do [ 11]. The lack of models and theories hin-
+ders researchers from the prospective, predictive think-
+ing needed to systematically test proposed relationships
+among constructs. The limitations of extant theories,
+models, and frameworks and lack of explanations of ad-
+aptations ’influence on outcomes are not surprising
+given that research on adaptation is still relatively young;
+only in recent years has the conversation shifted from fi-
+delity versus adaptation (two opposing concepts) to bal-
+ancing fidelity and adaptation (two complementary
+concepts) [ 4,12–19].
+One of the most comprehensive and most recently up-
+dated adaptation classification frameworks is the Frame-
+work for Reporting Adaptations and Modifications-
+Enhanced (FRAME) by Stirman and colleagues [ 2],
+which helps implementation scientists consistently de-
+scribe the many facets of adaptations. FRAME is an up-
+dated version of Stirman et al. ’s original framework [ 8]
+and includes additional considerations like (1) reason for
+adaptation (e.g., cultural/religious norms, time con-
+straints, access to resources), (2) goal of the adaptation
+(e.g., increase reach, retention, feasibility, improve fit),
+(3) whether the adaptation was proactive or reactive (i.e.,
+made proactively through a planning process that identi-
+fies ways to maximize fit and implementation success or
+made reactively during the course of program imple-
+mentation, often due to unanticipated obstacles and in
+an impromptu manner), and (4) the adaptation ’s rela-
+tionship to core functions (i.e., whether the adaptation
+preserved fidelity to core functions of the original
+intervention).
+Determining adaptations ’impact on outcomes repre-
+sents a high priority objective in research [ 2]. However,
+FRAME does not distinguish among adaptations ’impact
+on implementation outcomes versus adaptations ’impact
+on service or patient outcomes [ 3], and because it mea-
+sures goals for adaptation rather than actual outcomes,
+it does not distinguish between adaptations ’intended
+and unintended impacts (i.e., ripple effects). Similarly,
+process models for adaptation (e.g., [ 10,35]) allow for it-
+erative cycles that consider and measure outcomes, butContributions to the literature
+/C15Adaptation is a reality in implementation; implementers
+must adapt interventions to their context to improve
+intervention-context fit.
+/C15Although frameworks exist for describing adaptations, they
+do not outline potential causal pathways, nor do they
+acknowledge the “ripple effects ”adaptations can have (both
+intended and unintended impacts on outcomes).
+/C15This paper contributes to the gaps in the literature by
+helping researchers and practitioners answer important
+questions around adaptation design (Should I do it? What
+outcomes might it impact, intended or unintended? How
+can I mitigate potential negative impacts?) and
+measurement (Which outcomes are likely to be impacted?
+What might causal pathways look like?).Kirk et al. Implementation Science           (2020) 15:56 Page 2 of 15
+they do not explicitly consider unintended impacts. Spe-
+cifying and measuring a single intended goal of adapta-
+tion might not detect ripple effects of adaptations. We
+argue that systematic consideration of all potential im-
+pacts on a range of implementation and intervention
+outcomes is critical to adaptation.
+The objective of our research was to (1) integrate out-
+comes into existing frameworks to promote a systematic
+assessment of adaptations ’intended and unintended im-
+pact on outcomes (i.e., ripple effects of adaptations), and
+(2) use existing frameworks to create an explanatory
+model that proposes possible interrelationships among
+constructs. By developing a model using existing frame-
+works to outline potential independent variables, media-
+tors, moderators, and specific outcomes, we can move
+beyond the mere description of adaptations. In practice,
+this model can help practitioners think through adapta-
+tions ’influence on a range of outcomes to anticipate the
+intended and unintended impacts of adaptations. In re-
+search, this model can facilitate the systematic investiga-
+tion of relationships between constructs —which
+characteristics of adaptations are predictive of which
+outcomes, under what circumstances, and why.
+Methods
+To develop our model, we selected three frameworks
+from the literature: two adaptation frameworks [ 1,2]
+and one outcome framework [ 3]. We selected FRAME
+[2] as the basis of our model because it is the most com-
+prehensive and most recently updated adaptation classi-
+fication framework. We selected Moore et al. and
+Proctor et al. ’s work to meet our other two objectives:
+integrating implementation and intervention outcomes
+(addressed by Proctor et al.) and laying the foundation
+for investigating causal pathways between adaptation
+and outcomes (addressed by Moore et al. ’s research
+which included explanations of adaptation characteris-
+tics’relationship to outcomes, suggesting potential
+causal pathways) [ 1,3].
+AK, SB, and JM reviewed each framework for overlap-
+ping constructs/redundancies. We found substantial
+overlap between Moore et al. ’s[1] constructs and
+FRAME [ 2]. With overlapping constructs identified, we
+then assessed, based on our own work adapting
+evidence-based practices and programs, whether any of
+the constructs should be consolidated or modified in
+any way. We made modifications to four constructs. See
+Table 1.
+The first construct we modified was FRAME ’s“were
+adaptations planned? ”(which overlapped with Moore ’s
+construct of timing). The literature [ 1,2,13,14,18]
+often uses the terms “planned ”and “proactive ”(as well
+as unplanned and reactive) synonymously. In defining
+these terms, literature [ 1,2,13,14,18] unwittinglysuggests an inextricable link between the impetus for the
+adaptation (i.e., whether the adaptation was proactive,
+meaning the adaptation was made in response to an an-
+ticipated obstacle, or whether the adaptation was react-
+ive, meaning the adaptation was made in response to an
+unanticipated obstacle) and the process of adaptation
+(i.e., how systematic or unsystematic the process was).
+Literature [ 1,2,13,14,18] then implies that unplanned/
+reactive adaptations are more likely to be made using a
+haphazard process and thus more likely to detract from
+intervention core functions, resulting in negative impacts
+on outcomes. This conflation obfuscates the fact that re-
+active adaptations may still be made in a systematic way
+and proactive adaptations can be unsystematic. To ac-
+knowledge the diverse combinations of adaptation char-
+acteristics, we reconceptualized adaptations in terms of
+the degree to which they are systematic/unsystematic
+and proactive/reactive, removing the notion of planned/
+unplanned. This allows us to characterize, at the ex-
+tremes of these continuous constructs, adaptations as
+follows:
+/C15Systematic and proactive: made using a formal
+process that includes consulting data, theory, best
+p r a c t i c e ,a n d / o rs t a k e h o l d e r sa sw e l la s
+considering the impact on outcomes (systematic),
+due to an anticipated obstacle/challenge
+(proactive). Examples of systematic, proactive
+adaptations could include those made using a
+formal process, prior to implementation (during
+planning/preparation/installation) [ 22,23], due to
+anticipated areas of misfit between the
+intervention and context.
+/C15Systematic and reactive: made using a formal
+process that includes consulting data, theory, best
+practice, and/or stakeholders as well as considering
+the impact on outcomes (systematic), due to an
+unanticipated obstacle/challenge (reactive). Examples
+of systematic and reactive adaptations could include
+those brought to light after implementation has begun
+via a quality improvement or Plan-Due-Study-Act
+cycle, but using a systematic process, or those made
+during program delivery by providers/practitioners in
+response to an unanticipated obstacle, but still using a
+systematic process.
+/C15Unsystematic and proactive: made without a formal
+process (unsystematic), due to an anticipated
+obstacle (proactive). Examples of unsystematic,
+proactive adaptations may include those made at the
+individual level by a provider/practitioner prior to
+program delivery to address an anticipated barrier,
+such as patient literacy or language, but without
+consulting data/theory/stakeholders or considering
+the impact on outcomes.Kirk et al. Implementation Science           (2020) 15:56 Page 3 of 15
+Table 1 Constructs from source frameworks, areas of overlap, modifications to existing frameworks, and reason for modifications
+Construct and source framework (Stirman et al.,
+Moore et al., or Proctor et al.)Overlapping constructs Modifications/additions to existing frameworks
+(in bold font)Reason for modifications
+Stirman : When did the modification occur?
+(Stirman)
+Pre-implementation/planning/pilot
+Implementation
+Scale up
+Maintenance/sustainmentNone None N/A
+Stirman : Were adaptations planned?
+Planned/proactive (proactive)
+Planned/reactive (reactive)Moore : Timing
+Whether the adaptation was
+proactive (occurring before
+implementation due to
+anticipated obstacles) or
+reactive (during
+implementation, due to
+unanticipated obstacles)Were adaptations systematic/unsystematic
+and proactive/reactive?
+Systematic and proactive
+Systematic and reactive
+Non-systematic and proactive
+Non-systematic and reactive
+(modification)Revised wording to remove concept of “planned ”and
+replace with concept of “systematic. ”This emphasizes the
+importance of how the adaptation was made (i.e., was it
+done using a systematic process), in addition to whether
+the adaptation was proactive (made due to an anticipated
+obstacle) or reactive (due to unanticipated challenges). This
+distinction is important as the assumption is that reactive
+adaptations are more likely to be non-systematic, impromptu,
+and less likely to be aligned with core functions of the
+intervention. However, our conceptualization allows for an
+understanding that reactive adaptations can still be made in a
+way that is systematic.
+Stirman : Who participated in the
+decision to modify?
+Political leaders, program leader,
+funder, administrator, program
+manager, intervention developer/
+purveyor, researcher, treatment/
+intervention team, individual
+practitioners, community members,
+recipientsNone None N/A
+Stirman : What was modified?
+Content
+Contextual
+Training/evaluation
+Implementation and scale-up activitiesNone None N/A
+Stirman: At what level (for whom/what)
+is the modification made?
+Individual, target intervention
+group, cohort/individuals that share
+a characteristic, individual practitioner,
+clinic/unit level, organization, network
+system/communityNone None N/A
+Stirman : Contextual modifications?
+Format
+Setting
+Personnel
+PopulationNone None N/AKirk et al. Implementation Science           (2020) 15:56 Page 4 of 15
+Table 1 Constructs from source frameworks, areas of overlap, modifications to existing frameworks, and reason for modifications (Continued)
+Construct and source framework (Stirman et al.,
+Moore et al., or Proctor et al.)Overlapping constructs Modifications/additions to existing frameworks
+(in bold font)Reason for modifications
+Stirman : What is the nature of the
+content modification?
+Tailoring/tweaking/refining, changes
+in packaging or materials, adding
+elements, skipping/removing elements,
+shortening/condensing (pacing/timing),
+lengthening/extending (pacing/timing),
+substituting, re-ordering, spreading,
+integrating into another framework,
+integrating into another treatment,
+repeating, loosening, departing
+from intervention followed by
+return to protocol (drift), drift
+without returning to protocolNone None N/A
+Stirman : Relationship to core
+elements/fidelity?
+Fidelity consistent/core elements
+preserved
+Fidelity inconsistent/core elements
+changed
+UnknownMoore: Valence
+Whether the adaptation aligned
+with the program ’s theory/goals
+and thus were likely to have a
+positive/neutral/negative impactAre adaptations aligned with core functions ?
+Fidelity consistent/core functions preserved
+Fidelity inconsistent/core functions changed
+UnknownRemoved references to “core elements ”and instead
+focused on “core functions ”due to recent publications in
+the literature which advocate for use of the term functions
+as it is the functions intervention components serve that is
+often core, not their exact form [ 20,21]
+Stirman : What was the goal? (Stirman)
+Increase reach/engagement
+Increase retention
+Improve feasibility
+Improve fit with recipients
+Address cultural factors
+Improve effectiveness/outcomes
+Reduce cost
+Increase satisfactionMoore: Fit
+Whether the adaptation was
+made for philosophical fit (to
+align with goals of organization
+or culture of target population)
+or logistical fit (to address
+mismatches in capacity, such
+as resources, time)What was the goal?
+Improve likelihood of adoption
+Improve feasibility
+Improve fit with recipients (appropriateness)
+o Address cultural factors
+Increase satisfaction (acceptability)
+Reduce cost
+Increase reach/engagement (penetration)
+Improve fidelity
+Increase retention
+Improve sustainability
+Improve intervention
+effectiveness/outcomes
+No goalAdded in/re-labeled additional mplementation
+outcomes (penetration, fidelity, sustainability, adoption,
+appropriateness, acceptability) to align this construct
+with Proctor ’s framework. Also added in “no goal ”for
+instances where an adaptation was made without a stated
+intended purpose or goal.
+Stirman : Reasons for adaptation?
+Sociopolitical (e.g., existing laws,
+political climate)
+Organization/setting (e.g.,
+available resources, competing
+demands)
+Provider (e.g., race, first spoken
+languages, preferences, clinical
+judgement)
+Recipient (e.g., race, access to
+resources, literacy, motivation/
+readiness)None None N/AKirk et al. Implementation Science           (2020) 15:56 Page 5 of 15
+Table 1 Constructs from source frameworks, areas of overlap, modifications to existing frameworks, and reason for modifications (Continued)
+Construct and source framework (Stirman et al.,
+Moore et al., or Proctor et al.)Overlapping constructs Modifications/additions to existing frameworks
+(in bold font)Reason for modifications
+Proctor : Implementation outcomes
+Acceptability
+Adoption
+Appropriateness
+Cost
+Feasibility
+Fidelity
+Penetration
+SustainabilityNone None N/A
+Proctor : Service/client outcomes (Proctor)
+Service outcomes: efficiency, safety,
+effectiveness, equity, patient-centeredness,
+timeliness
+Client outcomes: satisfaction,
+function, symptomatologyNone Called “intervention outcomes ” Re-labeled to provide an overarching category for both
+service and client outcomes.Kirk et al. Implementation Science           (2020) 15:56 Page 6 of 15
+/C15Unsystematic and reactive: made without a formal
+process (unsystematic), due to an unanticipated
+obstacle (reactive). Examples of unsystematic,
+reactive adaptations could include those made by a
+practitioner/provider improvising during delivery
+because of an unanticipated obstacle, but without
+consulting data/theory/stakeholders or considering
+the impact on outcomes.
+Second, we modified FRAME ’s construct of “relation-
+ship to core elements/fidelity? ”(or valence in Moore ’s
+framework) by removing reference to “core elements ”
+and instead focusing solely on “relationship to core func-
+tions. ”Recent publications [ 20,21] argue for use of the
+term “core functions ”and “forms ”of interventions ra-
+ther than previously used terminology of core compo-
+nents, core elements, and/or active ingredients [ 4,13,
+16,17,24–31]. This nomenclature emphasizes that it is
+the functions that intervention components serve that
+are“core, ”not the exact form that they take, as it is pos-
+sible to have several different forms that serve the same
+function. This modification is largely one of nomencla-
+ture, not a change in the meaning of the construct.
+Third, we added potential goals of adaptation based on
+the literature [ 3] and our experience engaging in adapta-
+tion in the field. Several of our additions overlap with
+Proctor ’s eight implementation outcomes as we often
+see in practice that implementers make adaptations to
+improve sustainability, fidelity, or other implementation
+outcomes. We also added “no goal ”; this response option
+might apply to cases of unsystematic, reactive adapta-
+tions where the change was made without the goal of
+improving an outcome. Additional goals for adaptation
+included the following:
+/C15Improve fidelity: to improve adherence, dose, or
+quality of intervention use (e.g., adding session
+checklists as reminders to improve adherence to
+protocols, adaptations to timing or mode of session
+to improve dose, and additional trainings,
+supervision, or coaching to improve quality).
+/C15Improve sustainability: to improve maintenance or
+institutionalization of the intervention. Whereas
+adaptations to improve feasibility may increase
+initial/early intervention use, adaptations to improve
+sustainability may increase the intervention ’s long-
+term use. For example, an intervention may be
+adapted to be delivered by existing staff to test initial
+feasibility and outcomes of the adapted intervention;
+over time, continuing to deliver the intervention
+along with regular duties may be deemed unsustain-
+able for existing staff. Thus, the organization may
+later decide to further adapt the intervention to be
+delivered by newly hired staff, whose primary dutiesinclude intervention delivery. The initial adaptation
+was to improve feasibility; the second adaptation
+was made to improve sustainability. Timing of adap-
+tations for feasibility vs sustainability may be driven
+by contextual factors; organizations that choose to
+adopt an intervention may adapt for initial feasibility
+early-on and re-adapt for sustainability after evaluat-
+ing initial outcomes. Organizations that are man-
+dated to adopt interventions may adapt for
+sustainability early-on as they know continuing the
+use of the intervention is required.
+/C15Improve likelihood of adoption: to increase the
+likelihood that an intervention will be used at all.
+This is contrasted with adaptations that are made
+to improve feasibility or sustainability once the
+decision has been made to adopt the intervention.
+For example, an intervention that cannot be
+adapted to be used with an organization ’sc u r r e n t
+electronic health record system may be a “non-
+starter ”given the cost of a new electronic health
+record system. Adaptations to make the
+intervention compatible with the current
+electronic health record system are intended to
+improve adoption, not necessarily feasibility or
+sustainability.
+/C15No goal: No intent. Whereas adaptations to improve
+acceptability are made to improve the perception
+that the intervention is agreeable, palatable, or
+satisfactory [ 3], those made with no goal would
+include those where there was no intent behind the
+adaptation (e.g., provider forgot a component or ran
+out of time). In these instances, the modification to
+the intervention was not intentional and had no
+specific goal in mind.
+When considering the goal of the adaptation, an adapta-
+tion may have multiple intended goals. Thus, we encour-
+age implementation scientists to consider the primary
+intention behind the adaptation and select multiple re-
+sponses as needed, knowing that adaptations and the in-
+tent behind them may evolve as organizations and
+practitioners move through the phases of implementation.
+Fourth, intervention outcomes include direct effects of
+the intervention itself. To account for this, we combined
+Proctor ’s client and service outcomes into the broad
+construct “intervention outcomes. ”
+After reviewing constructs for redundancies and modi-
+fying construct definitions, we then used the revised
+constructs to develop our model. To develop our model,
+three authors (SB, AK, JM) coded 14 adaptations to an
+existing evidence-based intervention to improve the
+timeliness of referrals to hospice [ 34]. The evidence-
+based intervention was originally developed and tested
+in a randomized controlled trial to improve theKirk et al. Implementation Science           (2020) 15:56 Page 7 of 15
+timeliness of referrals to hospice for nursing home resi-
+dents [ 34]. As part of a prior research effort [ 32], mem-
+bers of our research team (SB, AK) adapted the
+intervention from use in nursing home settings to use in
+home health settings. To design the adaptations, we en-
+gaged an expert panel comprised of 4 home health and
+hospice practitioners and used a modified Delphi ap-
+proach where the expert panel reviewed the original
+intervention protocol and came to consensus on adapta-
+tions that would be needed to deliver the intervention in
+the new setting (home health). The stakeholder panel
+identified a total of 14 adaptations; major adaptations in-
+cluded changing eligibility criteria to make the interven-
+tion more appropriate for home health patients and
+multiple changes to delivery of the intervention to make
+the intervention more feasible to deliver as part of rou-
+tine care (e.g., adapting who delivered the intervention,
+when, and how). From the modified Delphi discussions,
+we had rich descriptive data for each of the 14 adapta-
+tions, including who made the adaptation, descriptions
+of the adaptation, and the reason and intended goal of
+the adaptation. We used this descriptive data of each of
+the 14 adaptations and coded the data using the con-
+structs from Table 1. Coding included structured re-
+sponses (e.g., selecting what the nature of an adaptation
+was) as well as unstructured responses (reasons why we
+thought an adaptation might impact a certain outcome,
+and expected direction of the effect). SB, AK, and JM in-
+dependently coded all 14 adaptations; afterwards, we
+met as a group to discuss and reconcile any discordantcoding selections and how we might re-arrange con-
+structs into domains to propose causal pathways of ad-
+aptations ’impact.
+Results
+Our revised model, the Model for Adaptation Design
+and Impact (MADI), is presented in Fig. 1. MADI is or-
+ganized into three domains (adaptation characteristics,
+possible mediating or moderating factors, and outcomes)
+and is designed for prospective use (i.e., during the
+process of deciding on and designing adaptations) and/
+or retrospective use (i.e., when adaptations are being im-
+plemented and evaluated).
+Domain 1: adaptation characteristics
+Constructs in domain 1 include (1) what was modified,
+(2) the nature of the adaptation, (3) who participated in
+adaptation decision-making, (4) for whom/what the
+adaptation was made, and (5) when the adaptation oc-
+curred. These constructs help implementers classify
+adaptation attributes, providing an architecture that pro-
+motes consistency in reporting and comparison of find-
+ings across studies, which will help elucidate whether
+patterns emerge across studies. Constructs in domain 1
+can be applied to adaptations made to interventions (i.e.,
+the seven P ’s—programs, practices, principles, proce-
+dures, products, pills, and policies [ 7]) or implementa-
+tion strategies.
+Fig. 1 Model for Adaptation Design and Impact (MADI)Kirk et al. Implementation Science           (2020) 15:56 Page 8 of 15
+Domain 2: possible mediating or moderating factors
+Domain 2 comprises possible mediators or moderators
+of adaptation characteristics ’impact on outcomes, which
+we have categorized as such largely based on the find-
+ings of Moore et al. ’s research. Moore et al. found that
+adaptations that were made systematically/proactively,
+were aligned with core functions, and were made to im-
+prove fit (i.e., had a stated goal/reason beyond logistics
+such as time or convenience) were more likely to incur
+positive impacts on outcomes [ 1]. Specifically, Moore
+et al. ’s research showed that when adaptations were
+made with the goal of improving fit (e.g., to align the
+intervention with values of the target population), they
+were more likely to have a positive impact. Moore et al.
+also found that when adaptations were aligned with core
+functions of the intervention/the intervention ’s theory of
+change, they were more likely to have a positive impact.
+This notion is supported by other literature that recom-
+mends all adaptations align with an intervention ’s core
+functions [ 4,10,13,16,17,24–29,31,33]. Finally,
+Moore found that adaptations that were made pro-
+actively were more likely to have a positive impact and
+more likely to be made with the goal of improving fit.
+Thus, we believe Moore ’s research presents initial em-
+pirical evidence that these constructs (goal of adaptation;
+whether adaptation was systematic; whether adaptation
+was proactive; whether adaptation aligned with core
+functions of intervention/implementation strategy) could
+be important moderators (as they can reverse, enhance,
+or diminish the impact on outcomes) and/or mediators
+(as some explain why an adaptation had certain impacts
+on outcomes). Although we believe the research is still
+too scant to say definitively which constructs are moder-
+ators and which are mediators and what interrelation-
+ships may exist, we suggest the following propositions
+that can be empirically tested in future research. First,
+we propose that alignment with core functions is a po-
+tential mediator of adaptations ’impact on outcomes be-
+cause it preserves the mechanisms of change inherent to
+the intervention (or implementation strategy, depending
+on what is being adapted), thus preserving the link be-
+tween intervention and outcome. We suspect the con-
+structs of systematic, proactive, and goal of adaptation as
+potential moderators because they are aspects of the
+adaptation design and decision-making process that
+break or reverse the relationship between intervention
+and outcome, through relationship to core functions. Re-
+active adaptations are more likely to be made using an
+unsystematic process; an unsystematic process that does
+not consult theory, empirical data, or best practice, or
+anticipate impacts on outcomes, may compromise core
+functions. Similarly, adaptations with no stated goal may
+be less likely to have considered alignment with core
+functions, thus making the adaptation more likely tocompromise outcomes. In short, we believe these con-
+structs point to conditions under which adaptations (ei-
+ther to the intervention or implementation strategy) are
+more likely to have positive impacts on outcomes. Fi-
+nally, the stated goal of the adaptation may also possibly
+be related to moderators of the original intervention it-
+self. For example, an adaptation may be made due to pa-
+tient motivation or comorbidity —these reasons for the
+adaptation may also be moderators of the intervention
+outcomes.
+Domain 3: implementation and intervention outcomes
+(intended and unintended)
+We are ultimately interested in how adaptations impact
+both implementation and intervention outcomes. Thus,
+we included in domain 3 a range of possible implemen-
+tation and intervention outcomes that adaptations could
+impact. In addition, we conceptualized outcomes in do-
+main 3 as both intended and unintended outcomes be-
+cause we know in practice that adaptations may have
+ripple effects from implementation to intervention out-
+comes (e.g., improved acceptability may diminish inter-
+vention effectiveness if the adaptation compromises core
+functions). Thus, when applying constructs in domain 3,
+we encourage implementers to consider both intended
+and unintended impacts.
+Prospective use of MADI
+We designed our model to be applied prospectively
+(during the process of deciding which adaptations to
+make) to avoid unintended impacts and/or retrospect-
+ively (after adaptations have been decided upon) to
+evaluate impacts of adaptations. Prospectively, our
+framework can guide decision-making around the design
+of adaptations and whether an adaptation should be
+made, based on potential impacts. See Fig. 2.
+When using our model prospectively, we recommend
+using constructs in domain 2 as potential criteria in the
+decision-making process. Evidence suggests that non-
+systematic adaptations, those made without a goal in
+mind, and those that compromise core functions are as-
+sociated with negative impact on outcomes [ 1]. Rating
+each potential adaptation using the four constructs in
+domain 2 can guide decision-making about whether to
+move forward with an adaptation as currently designed.
+If an adaptation is non-systematic, not aligned with core
+functions, or made without a clear goal, it may be more
+likely to negatively impact outcomes. In these instances,
+users should monitor outcomes closely and/or consider
+re-designing or abandoning the adaptation [ 35].
+The second decision prompts users to consider each
+adaptation ’s impact on all outcomes in domain 3, both
+intended and unintended. Based on our experience in
+practice, we suspect that adaptations may haveKirk et al. Implementation Science           (2020) 15:56 Page 9 of 15
+unintended negative impacts in addition to the intended,
+positive impact and that, in these instances, there is no a
+priori clear answer about the impact of an adaptation.
+Despite this, we encourage users to engage in a discus-
+sion about the tradeoffs between potential impacts and
+use this discussion to help come to a consensus on
+whether to move forward with an adaptation, re-design
+it, or abandon it. Even if negative impacts are suspected,
+positive impacts on other outcomes may help “balance
+the scales ”(i.e., even if negative impacts are suspect for
+one outcome, positive impacts on another outcome may
+result in a net-positive gain) and/or users may be able to
+develop implementation strategies to offset potential
+negative impacts. For example, if an adaptation designed
+to decrease costs is suspected to have an unintended,
+negative impact on acceptability, implementers may be
+able to “offset ”the unintended negative impacts on ac-
+ceptability by including an implementation strategy to
+increase buy-in as part of the implementation effort. In
+this instance, although an unintended negative impact is
+suspected, implementers may decide to move forward
+with the adaptation because they feel the implementa-
+tion strategy to improve buy-in may be sufficient to
+mitigate unintended negative impacts. Although the suc-
+cess of this mitigation strategy is not guaranteed, imple-
+menters are, at a minimum, aware of the full range of
+impacts and actions they are taking to offset unintended
+impacts and can closely monitor outcomes during im-
+plementation. Thus, although MADI is not a predictivealgorithm supported by empirical evidence, discussions
+guided by MADI can hopefully improve the status quo
+of making adaptations without considering their full
+range of impacts. In short, there may be instances where
+implementers decide to move forward with adaptations,
+despite anticipating negative, unintended impacts. This
+could happen for any number of reasons (e.g., legislative
+or funding requirements, leadership decisions). What-
+ever the reason for moving forward with an adaptation,
+engaging in thoughtful discussion with stakeholders
+about ripple effects can help implementers plan better
+for implementation (e.g., design implementation strat-
+egies to mitigate any negative impacts, anticipate out-
+comes that should be monitored in evaluation),
+hopefully increasing the likelihood of net-positive
+outcomes.
+We recommend users document discussions sur-
+rounding decisions 1 and 2 to help guide the develop-
+ment of research questions and selection of variables to
+monitor in evaluation or other research efforts. We note
+that prospective application may be an iterative process,
+with a first step to decide whether to adapt the interven-
+tion at all or not, a decision point that can be supported
+by other decision aids [ 35]. Once researchers or practi-
+tioners have made the decision to adapt, our framework
+can be applied prospectively to aid in the design of adap-
+tations that minimize negative impacts. For example, in
+a 2019 study [ 32], we adapted an intervention [ 34] de-
+signed to improve the timeliness of referrals to hospice
+Fig. 2 Decision-making guide for prospective use of MADIKirk et al. Implementation Science           (2020) 15:56 Page 10 of 15
+in nursing homes for implementation in home health.
+As part of this effort, we also adapted the intervention
+from a randomized controlled trial model (where research
+staff delivered the intervention) to a practical model
+(where the intervention would be delivered by staff at the
+home health agency). As part of this shift, we adapted sev-
+eral aspects of the delivery of the intervention. Instead of
+research assistants carrying out the main activities of the
+intervention, home health staff would deliver the interven-
+tion as part of regular care. Although adaptations made to
+the delivery of the intervention were designed with the
+goal of improving feasibility and adoption, the adaptations
+also had the potential to compromise fidelity to the core
+functions of the intervention. The potential risk to fidelity
+was an unintended impact that we had to weigh against
+the potential benefit to feasibility and adoption —did the
+adaptations made to improve feasibility and adoption re-
+late to core functions of the intervention and thus risk fi-
+delity and effectiveness? These potential “ripple effects ”of
+our adaptations were discussed and considered proactively
+by our research team before deciding whether to move
+forward with the adaptations. Because we anticipated po-
+tential negative impacts if fidelity were compromised, it
+was an outcome we knew we would have to closely moni-
+tor when testing the adapted intervention; it was an unin-
+tended impact we were aware of and able to monitor in
+evaluation [ 32].
+Finally, although we encourage practitioners to engage in
+adaptation (and apply our model/decision aid) prior to im-
+plementation, as early as the planning/preparation/installa-
+tion phases [ 22,23], we note that MADI can be applied
+throughout implementation an d advocate for continued ap-
+plication, as adaptation is an inherently iterative process.
+Because adaptations are desi gned to improve the fit of the
+intervention with context, adaptation is not a “one and
+done ”process as context is continually changing and out-
+comes are, ideally, continually monitored to inform im-
+provements. The continuous evolution of adaptations as
+implementation progresses is increasingly acknowledged in
+the literature (e.g., [ 36,37]) and underscores the import-
+ance of considering adaptation as an iterative, ongoing
+process. Thus, although implementers may initially use
+MADI in the planning/design phase to proactively and sys-
+tematically design adaptatio ns prior to implementation, we
+encourage continuous use of MADI as implementation
+progresses and teams monitor impacts on outcomes.Retrospective use of MADI
+Users can apply our model as a scaffolding for evaluating
+research questions and/or selecting variables and for
+testing hypotheses and assumptions about causal path-
+ways. See Fig. 3.
+If an intervention has already been adapted and re-
+searchers aim to evaluate impacts of the adapted inter-
+vention, MADI can be used as a discussion guide to help
+determine potential mediators/moderators and which
+array of outcomes may be impacted by which adapta-
+tions. Because adaptations can have ripple effects (i.e.,
+both intended and unintended impacts), using our
+framework to guide discussion can help ensure that out-
+come variables are appropriately selected. For example,
+if researchers are designing an evaluation of an adapted
+intervention, they should first describe the adaptations
+using the constructs from MADI ’s domain 1 (e.g., who
+made the adaptation and when, nature of the adapta-
+tion). These characteristics of adaptations may be used
+as independent variables in evaluation. Second, re-
+searchers could then use constructs in domain 3 to con-
+sider both the intended and unintended impacts of
+adaptations. Traditionally, researchers may choose out-
+come variables to measure in an evaluation based on the
+intended impact of the adaptation; however, this may re-
+sult in a biased selection of outcome variables for re-
+search as it only captures a subset of adaptations ’
+impacts. Our own practice shows us that adaptations
+can have multiple intended and unintended impacts
+(ripple effects); thus, researchers may benefit from a ro-
+bust discussion of each outcome in domain 3 when
+choosing outcome variables to include in evaluation.
+Such discussion may allow for more robust analyses that
+can capture the intended and unintended impacts of ad-
+aptations. Finally, researchers could use constructs in
+domain 2 to determine potential mediators and modera-
+tors to include in evaluation. By noting whether adapta-
+tions align with core functions, were made with an
+intended goal, and were systematic and proactive, re-
+searchers can assess causal pathways of adaptations.
+Discussion
+A primary goal in research on adaptation is building the
+knowledge base on what types of adaptations impact
+which outcomes under which circumstances and why.
+Classification frameworks (e.g., [ 1,2]) help us classify
+Fig. 3 Retrospective application of MADIKirk et al. Implementation Science           (2020) 15:56 Page 11 of 15
+adaptations but do not integrate outcomes, nor do they
+specify interrelationships or potential causal pathways
+among constructs. Similarly, other reviews [ 9]i n v e s t i g a t e
+adaptations, reasons, and outcomes, but do not posit rela-
+tionships among constructs. We integrated and updated
+three existing frameworks by turning these frameworks
+into a model, MADI, which outlines possible interrelation-
+ships for how adaptations influence outcomes.
+Components of MADI
+MADI elaborates on FRAME and other frameworks in
+two ways. First, FRAME alluded to outcomes (the goal
+construct states the intent of the adaptation, which im-
+plicates outcomes). MADI compels users to consider
+how adaptations may influence all outcomes listed in
+our outcome domain and whether those outcomes are
+intended or unintended; we have found in practice that
+adaptations often have unintended ripple effects on mul-
+tiple outcomes, even if they were designed with the in-
+tent of having a positive impact on one outcome in
+particular. Second, MADI arranges constructs from
+FRAME and other frameworks into an explanatory
+model that shows possible interrelationships for how ad-
+aptations influence outcome as MADI elucidates poten-
+tial mediating and moderating relationships for how
+adaptations influence outcomes. In this sense, MADI ad-
+vances the field by moving from a framework (a struc-
+ture or overview of descriptive categories that does not
+provide explanations [ 11]) to an explanatory model that
+proposes explanations of potential mediating and mod-
+erating relationships underlying adaptations ’impact on
+outcomes.
+How MADI advances implementation science
+Our model builds on the existing literature and moves
+the adaptation literature base forward in several ways.
+First, unlike other models which simply categorize adap-
+tations (e.g., FRAME), aid in the decision of whether to
+adapt at all (e.g., [ 35]), or provide guidance on the
+process of adaptation (e.g., [ 5,38]), our model aids in
+the design of adaptations and adaptation-related re-
+search questions, emphasizing the intended and unin-
+tended consequences that adaptations can have, helping
+practitioners minimize negative impacts, and helping re-
+searchers systematically evaluate them. We hope that
+MADI and the accompanying decision aid will encour-
+age practitioners to think about adaptation early and en-
+gage in a systematic decision-making process and that it
+will encourage ongoing adaptation design conversations
+throughout the implementation lifecycle.
+Second, MADI directs attention to potential impacts and
+ripple effects in the adaptation decision-making process.
+This contrasts with current lit erature, which encourages fo-
+cusing on whether core functions are compromised as theprimary (and often singular) criterion for designing poten-
+tial adaptations. We argue that, to achieve desired out-
+comes, in addition to assessing alignment with core
+functions, potential adaptations must avoid compromising
+implementation. Indeed, adapt ations are often proposed to
+facilitate positive impacts on implementation outcomes.
+Adaptations that are made to improve one implementation
+outcome (e.g., acceptability) may compromise another im-
+plementation outcome (e.g., f easibility), which may, in turn,
+compromise the intervention ’s overall impact.
+Finally, we believe that MADI will help implementa-
+tion researchers build and investigate research questions
+using a common taxonomy, which will more quickly
+move the field towards an empirically validated middle-
+range theory of adaptation, as it will allow for common
+nomenclature across studies. We hope researchers will
+use domains from MADI and select constructs to build
+specific theories of change for their interventions and
+adaptations. In this sense, although MADI is a model be-
+cause it highlights potential interrelationships, it can be
+used like a framework to guide research as it provides a
+“menu of constructs ”for researchers to select from when
+building potential causal pathways that can then be em-
+pirically tested through research. MADI will provide re-
+searchers a consistent, systematic way to select and
+describe potential mediators, moderators, and outcomes
+for research studies, which we hope facilitates the testing
+of mechanisms of change underlying adaptations to de-
+velop empirically valid theories of change. The next
+steps are to test hypotheses and pathways, with the goal
+of developing a theory of change related to adaptations.
+To promote dialogue in the field, we have developed a
+website for MADI ( MADIguide.org ). We envision this
+website being a hub for MADI and housing several re-
+sources available to implementation scientists. Specific-
+ally, we have developed a comprehensive MADI
+Application and Discussion guide, which is available on
+the MADIguide.org website. This guide walks re-
+searchers and practitioners through applying MADI in
+their work and includes step-by-step instructions and
+discussion questions, as well as examples of how MADI
+has been applied already in research. We encourage im-
+plementation scientists to visit the MADIguide.org web-
+site to access the MADI Application and Discussion
+guide and other resources.
+Limitations and scope of MADI
+Our model has several limitations. First, although it is
+evidence-informed (i.e., builds on existing, widely ac-
+cepted and adopted frameworks) and was constructed
+using a systematic process (i.e., the coding of adaptation
+data), it has not been empirically tested. This means that
+although we suspect constructs in domain 2 may be im-
+portant mediators or moderators, we have notKirk et al. Implementation Science           (2020) 15:56 Page 12 of 15
+empirically tested this model to validate these relation-
+ships. Moreover, we have not tested whether the out-
+comes in domain 3 are the most common or most
+important outcomes likely to be impacted by adaptation.
+Despite this, we believe that our model is unique in its
+comprehensive nature and, as such, represents an im-
+portant step forward for developing and testing theories
+of adaptation.
+Although we believe MADI adds value to the field, we
+also acknowledge MADI ’s limited scope in comparison
+with the larger adaptation process. MADI is not
+intended to be an adaptation process framework (i.e., a
+framework that outlines step-by-step instructions for the
+full lifecycle of the adaptation process [ 10]), as it does
+not cover all steps in the adaptation process. For ex-
+ample, once an intervention has been selected, adapta-
+tion is a process that generally consists of (1)
+understanding the intervention (identifying its core func-
+tions and forms; reviewing related materials, such as
+protocols or manuals); (2) identifying and consulting
+with experts and stakeholders throughout the adaptation
+process to better understand the new setting where the
+adapted intervention will be implemented and consult-
+ing with original intervention developers as needed to
+seek advice on adaptation; (3) identifying differences be-
+tween the context the intervention was designed for and
+the new context, which will inform potential areas of
+misfit; (4) identifying aspects of the original intervention
+that need to be adapted; (5) designing and specifying ad-
+aptations; (6) conducting any feasibility testing of the
+adapted intervention (pre-testing/pilot testing and mak-
+ing further adaptations if necessary); (7) training staff on
+the adapted intervention; (8) implementing the adapted
+intervention; and (9) evaluating the impact of the
+adapted intervention [ 10].
+In practice, MADI is most applicable in step 5, design-
+ing adaptations. As such, MADI assumes that implemen-
+ters have already completed several important preceding
+steps in the adaptation process, including identifying core
+functions (underlying principles that make the interven-
+tion effective and, thus, should not be adapted [ 21]) and
+forms of the intervention, identifying and consulting with
+relevant stakeholders and experts, identifying context dif-
+ferences, and deciding what needs to be adapted. In re-
+search, MADI is helpful in step 9, designing the evaluation
+of an adapted intervention. When applied in research,
+MADI assumes that prior steps in the adaptation process
+have been completed according to best practice, including
+identifying core functions and forms of the intervention,
+consulting stakeholders and experts, and clearly specifying
+all characteristics of adaptations.
+Whether applying MADI in research or practice, if
+preceding steps in the adaptation process have not been
+completed, we recommend implementation scientistsintegrate other approaches or frameworks into their ef-
+forts to ensure these steps are completed before applying
+MADI. In particular, we underscore the importance of
+identifying core functions and forms of existing inter-
+ventions before engaging in any adaptation efforts. For
+further guidance on identifying core functions and
+forms, a key step in the adaptation process to preserve
+the effectiveness of the original intervention, we recom-
+mend reviewing [ 20,21]. In addition, for implementation
+scientists adapting an existing intervention, it may be
+helpful to pair MADI with an existing adaptation
+process framework to promote a systematic, comprehen-
+sive, evidence-informed approach to adaptation. We rec-
+ommend the scoping review by Escoffery et al. [ 10] for a
+comprehensive listing of adaptation process frameworks
+for adapting public health interventions.
+Conclusion
+Future research is needed to test our model and confirm
+mediating and moderating relationships, as well as im-
+pacts on outcomes. In addition, more applied work is
+needed to assess the relevance and feasibility of using
+MADI to aid in decision-making around adaptation de-
+sign. Finally, although we acknowledge that adaptations
+can be made to interventions or implementation strat-
+egies, our model does not discern different mediating/
+moderating pathways and different impacts on outcomes
+based on what is being adapted (implementation strategy
+or intervention). More research and application of
+MADI is needed to determine whether there are differ-
+ent pathways to outcomes based on what is being
+adapted (i.e., intervention or implementation strategy).
+We hope MADI can serve as a springboard for promot-
+ing systematic discussion among adaptation decision-
+makers and provide scaffolding for building the
+evidence-base around mechanisms of change underlying
+adaptations.
+Abbreviations
+FRAME: Framework for Reporting Adaptations and Modifications-Enhanced;
+IDEA: Iterative Decision-making for Evaluation of Adaptations; MADI: Model
+for Adaptation Design and Impact
+Acknowledgements
+The authors would like to acknowledge Drs. Laura Hanson, Byron Powell,
+and Morris Weinberger, as well as Ms. Franziska Rokoske for their support in
+the early conception of this work. The authors would also like to
+acknowledge Ms. Emily Haines for her contributions to the preparation of
+this manuscript.
+Authors ’contributions
+AK led the conception and design of the work, data analysis and
+interpretation, and drafting of the manuscript. SB made substantial
+contributions to the design of the work, analysis and interpretation of data,
+and substantial revisions to the manuscript. JM made substantial
+contributions to the analysis and interpretation of data and substantial
+revisions to the manuscript. SWS made substantial revisions to the
+manuscript. The authors read and approved the final manuscript.Kirk et al. Implementation Science           (2020) 15:56 Page 13 of 15
+Funding
+Dr. Birken ’s effort was supported by the National Center for Advancing
+Translational Sciences, National Institutes of Health, through grant
+KL2TR002490. The content is solely the responsibility of the authors and
+does not necessarily represent the official views of the NIH. Dr. Kirk ’s effort
+was supported in part by internal funds from RTI International (Research
+Triangle Institute). The content is solely the responsibility of the authors. Dr.
+Stirman ’s effort was supported by funding from the National Institute of
+Mental Health grant R01 MH 106506.
+Availability of data and materials
+The datasets used and/or analyzed during the current study are available
+from the corresponding author on reasonable request.
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1The Impact Center, Frank Porter Graham Child Development Institute, The
+University of North Carolina at Chapel Hill, 105 Smith Level Road, Chapel Hill,
+NC 27599, USA.2The Center for Implementation, 20 Northampton Dr.,
+Toronto, ON M9B 4S6, Canada.3National Center for PTSD and Stanford
+University, 795 Willow Road NC-PTSD, Menlo Park, CA 94024, USA.
+4Department of Implementation Science, Wake Forest School of Medicine,
+475 Vine Street, Winston-Salem, NC 27101, USA.
+Received: 3 March 2020 Accepted: 8 July 2020
+References
+1. Moore JE, Bumbarger BK, Cooper BR. Examining adaptations of evidence-
+based programs in natural contexts. J Prim Prev. 2013;34(3):147 –61.
+2. Stirman SW, Baumann AA, Miller CJ. The FRAME: an expanded framework
+for reporting adaptations and modifications to evidence-based
+interventions. Implement Sci. 2019;14(1):58.
+3. Proctor E, Silmere H, Raghavan R, Hovmand P, Aarons G, Bunger A, et al.
+Outcomes for implementation research: conceptual distinctions,
+measurement challenges, and research agenda. Adm Policy Ment Health
+Ment Health Serv Res. 2011;38(2):65 –76.
+4. Castro FG, Barrera M, Martinez CR. The cultural adaptation of prevention
+interventions: resolving tensions between fidelity and fit. Prev Sci. 2004;5(1):
+41–5.
+5. Lee SJ, Altschul I, Mowbray CT. Using planned adaptation to implement
+evidence-based programs with new populations. Am J Community Psychol.
+2008;41(3-4):290 –303.
+6. Solomon J, Card JJ, Malow RM. Adapting efficacious interventions:
+advancing translational research in HIV prevention. Evaluation & the health
+professions. 2006;29(2):162 –94.
+7. Brown CH, Curran G, Palinkas LA, Aarons GA, Wells KB, Jones L, et al. An
+overview of research and evaluation designs for dissemination and
+implementation. Annu Rev Public Health. 2017;38:1 –22.
+8. Stirman SW, Miller CJ, Toder K, Calloway A. Development of a framework
+and coding system for modifications and adaptations of evidence-based
+interventions. Implement Sci. 2013;8(1):65.
+9. Escoffery C, Lebow-Skelley E, Haardoerfer R, Boing E, Udelson H, Wood R,
+et al. A systematic review of adaptations of evidence-based public health
+interventions globally. Implement Sci. 2018;13(1):125.
+10. Escoffery C, Lebow-Skelley E, Udelson H, Böing EA, Wood R, Fernandez ME,
+et al. A scoping study of frameworks for adapting public health evidence-
+based interventions. Transl Behav Med. 2019;9(1):1 –10.
+11. Nilsen P. Making sense of implementation theories, models and frameworks.
+Implement Sci. 2015;10(1):53.
+12. Allen JD, Linnan LA, Emmons KM, Brownson R, Colditz G, Proctor E. Fidelity
+and its relationship to implementation effectiveness, adaptation, anddissemination. Dissemination and implementation research in health:
+Translating science to practice. 2012:281 –304.
+13. Carvalho ML, Honeycutt S, Escoffery C, Glanz K, Sabbs D, Kegler MC.
+Balancing fidelity and adaptation: implementing evidence-based chronic
+disease prevention programs. J Publ Health Manag Pract. 2013;19(4):
+348 –56.
+14. Lendrum A, Humphrey N, Greenberg M. Implementing for success in
+school-based mental health promotion: the role of quality in resolving the
+tension between fidelity and adaptation. In: Mental Health and Wellbeing
+through Schools. Routledge; 2016. p. 77-87.
+15. Aarons GA, Green AE, Palinkas LA, Self-Brown S, Whitaker DJ, Lutzker JR,
+et al. Dynamic adaptation process to implement an evidence-based child
+maltreatment intervention. Implement Sci. 2012;7(1):1 –9.
+16. Bopp M, Saunders RP, Lattimore D. The tug-of-war: fidelity versus
+adaptation throughout the health promotion program life cycle. J Prim
+Prev. 2013;34(3):193 –207.
+17. Van Daele T, Van Audenhove C, Hermans D, Van den Bergh O, Van den
+Broucke S. Empowerment implementation: enhancing fidelity and adaptation
+in a psycho-educational intervention. Health Promot Int. 2014;29(2):212 –22.
+18. Kemp L. Adaptation and fidelity: a recipe analogy for achieving both in
+population scale implementation. Prev Sci. 2016;17(4):429 –38.
+19. Larsen T, Samdal O. Implementing second step: balancing fidelity and
+program adaptation. J Educ Psychol Consult. 2007;17(1):1 –29.
+20. Jolles MP, Lengnick-Hall R, Mittman BS. Core functions and forms of
+complex health interventions: a patient-centered medical home illustration.
+J Gen Intern Med. 2019;34(6):1032 –8.
+21. Kirk MA, Haines ER, Rokoske FS, Powell BJ, Weinberger M, Hanson LC, Birken
+SA: A case study of a theory-based method for identifying and reporting
+core functions and forms of evidence-based interventions. Translational
+Behavioral Medicine 2019.
+22. Aarons GA, Hurlburt M, Horwitz SM. Advancing a conceptual model of
+evidence-based practice implementation in public service sectors. Adm
+Policy Ment Health Ment Health Serv Res. 2011;38(1):4 –23.
+23. Metz A, Bartley L. Active implementation frameworks for program success.
+Zero to Three. 2012;32(4):11 –8.
+24. Elliott DS, Mihalic S. Issues in disseminating and replicating effective
+prevention programs. Prev Sci. 2004;5(1):47 –53.
+25. Mowbray CT, Holter MC, Teague GB, Bybee D. Fidelity criteria: development,
+measurement, and validation. Am J Eval. 2003;24(3):315 –40.
+26. Schoenwald SK, Hoagwood K. Effectiveness, transportability, and
+dissemination of interventions: what matters when? Psychiatr Serv. 2001;
+52(9):1190 –7.
+27. Botvin GJ. Advancing prevention science and practice: challenges, critical
+issues, and future directions. Prev Sci. 2004;5(1):69 –72.
+28. Morrison DM, Hoppe MJ, Gillmore MR, Kluver C, Higa D, Wells EA.
+Replicating an intervention: the tension between fidelity and adaptation.
+AIDS Education & Prevention. 2009;21(2):128 –40.
+29. Cohen DJ, Crabtree BF, Etz RS, Balasubramanian BA, Donahue KE, Leviton
+LC, et al. Fidelity versus flexibility: translating evidence-based research into
+practice. Am J Prev Med. 2008;35(5):S381 –9.
+30. Blase K, Fixsen D: Core intervention components: identifying and
+operationalizing what makes programs work. ASPE Research Brief. US
+Department of Health and Human Services 2013.
+31. Rabin, B. Fidelity and adaptation for implementation science: how can we
+reconcile the tension?. In .Center for Research in Implementation Science
+and Prevention (CRISP) Seminar Series: University of Colorado Anschutz
+Medical Campus; 2016.
+32. Kirk MA, Hanson LC, Weinberger M, Haines ER, Rokoske FS, Powell BJ, et al.
+Pilot test of an adapted intervention to improve timeliness of referrals to
+hospice and palliative care for eligible home health patients. J Palliat Med.
+2019;22(10):1266 –70.
+33. Marques L, Valentine SE, Kaysen D, Mackintosh M-A, De Silva D, Louise E,
+et al. Provider fidelity and modifications to cognitive processing therapy in
+a diverse community health clinic: associations with clinical change. J
+Consult Clin Psychol. 2019;87(4):357.
+34. Casarett D, Karlawish J, Morales K, Crowley R, Mirsch T, Asch DA. Improving
+the use of hospice services in nursing homes: a randomized controlled trial.
+Jama. 2005;294(2):211 –7.
+35. Miller CJ, Wiltsey-Stirman S, Baumann AA. Iterative decision-making for
+evaluation of adaptations (IDEA): a decision tree for balancing adaptation,
+fidelity, and intervention impact. Journal of Community Psychology. 2020.Kirk et al. Implementation Science           (2020) 15:56 Page 14 of 15
+36. Izumi S, Caron D, Combe A, Archambault P, Shankle N, Michaels L, Dorr D,
+Totten A: Adaptation and fidelity of serious illness care program across
+primary care settings in the US and Canada. In: 12 th Annual Conference on
+the Science of Dissemination and Implementation: 2019: AcademyHealth;
+2019.
+37. Yakovchenko V, Chinman M, Gonzalez R, Park A, Morgan T, Chartier M, Ross
+D, Rogal S: Longitudinal assessment of expert recommendations for
+implementing change (ERIC) strategies in the uptake of evidence-based
+practices for hepatitis c treatment in the veterans administration: year four.
+In: 12 th Annual Conference on the Science of Dissemination and
+Implementation: 2019: AcademyHealth; 2019.
+38. Bartholomew Eldredge L, Highfield L, Hartman M, Mullen P, Leerlooijer J,
+Fernandez M. Using intervention mapping to adapt evidence-based
+interventions. In: Bartholomew Eldredge L, Markham C, Ruiter R, Fernandez
+M, Kok G, Parcel G, editors. Planning health promotion programs: an
+intervention mapping approach. San Francisco, CA: Jossey-Bass; 2016. p.
+597 –649.
+Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.Kirk et al. Implementation Science           (2020) 15:56 Page 15 of 15

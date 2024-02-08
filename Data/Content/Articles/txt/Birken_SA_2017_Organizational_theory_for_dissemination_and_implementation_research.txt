@@ -1,0 +1,1553 @@
+DEBATE Open Access
+Organizational theory for dissemination
+and implementation research
+Sarah A. Birken1*, Alicia C. Bunger2, Byron J. Powell3, Kea Turner4, Alecia S. Clary4, Stacey L. Klaman5, Yan Yu6,
+Daniel J. Whitaker7, Shannon R. Self7, Whitney L. Rostad7, Jenelle R. Shanley Chatham7,8, M. Alexis Kirk4,
+Christopher M. Shea9, Emily Haines4and Bryan J. Weiner10,11
+Abstract
+Background: Even under optimal internal organizational conditions, implementation can be undermined by
+changes in organizations ’external environments, such as fluctuations in funding, adjustments in contracting
+practices, new technology, new legislation, changes in clinical practice guidelines and recommendations, or other
+environmental shifts. Internal organizational conditions are increasingly reflected in implementation frameworks, but
+nuanced explanations of how organizations ’external environments influence implementation success are lacking in
+implementation research. Organizational theories offer implementation researchers a host of existing, highly
+relevant, and heretofore largely untapped explanations of the complex interaction between organizations and their
+environment. In this paper, we demonstrate the utility of organizational theories for implementation research.
+Discussion: We applied four well-known organizational theories (institutional theory, transaction cost economics,
+contingency theories, and resource dependency theory) to published descriptions of efforts to implement SafeCare,
+an evidence-based practice for preventing child abuse and neglect. Transaction cost economics theory explained
+how frequent, uncertain processes for contracting for SafeCare may have generated inefficiencies and thus
+compromised implementation among private child welfare organizations. Institutional theory explained how child
+welfare systems may have been motivated to implement SafeCare because doing so aligned with expectations of
+key stakeholders within child welfare systems ’professional communities. Contingency theories explained how efforts
+such as interagency collaborative teams promoted SafeCare implementation by facilitating adaptation to child
+welfare agencies ’internal and external contexts. Resource dependency theory (RDT) explained how interagency
+relationships, supported by contracts, memoranda of understanding, and negotiations, facilitated SafeCare
+implementation by balancing autonomy and dependence on funding agencies and SafeCare developers.
+Summary: In addition to the retrospective application of organizational theories demonstrated above, we advocate
+for the proactive use of organizational theories to design implementation research. For example, implementation
+strategies should be selected to minimize transaction costs, promote and maintain congruence between
+organizations ’dynamic internal and external contexts over time, and simultaneously attend to organizations ’
+financial needs while preserving their autonomy. We describe implications of applying organizational theory in
+implementation research for implementation strategies, the evaluation of implementation efforts, measurement,
+research design, theory, and practice. We also offer guidance to implementation researchers for applying
+organizational theory.
+Keywords: Organizational theory, External environment, Adoption, Implementation, Sustainment
+* Correspondence: birken@unc.edu
+1Department of Health Policy and Management, Gillings School of Global
+Public Health, The University of North Carolina at Chapel Hill, 1103E
+McGavran-Greenberg, 135 Dauer Drive, Campus Box 7411, Chapel Hill, NC
+27599-7411, USA
+Full list of author information is available at the end of the article
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.Birken et al. Implementation Science  (2017) 12:62 
+DOI 10.1186/s13012-017-0592-x
+Background
+Over the past decade, the field of implementation science
+has grown rapidly, with a devoted international journal,
+new funding mechanisms, and other implementation-
+related initiatives around the world. These investments
+highlight the complexities of making change in real-world
+care settings. We have learned, for example, how strong
+leadership [1, 2], supportive organizational culture and cli-
+mate [3], clinician buy-in and receptivity to change [4],
+and robust consultation and supervision [5, 6] are all crit-
+ical for implementation success.
+Yet, even with optimal internal organizational condi-
+tions, implementation can be undermined by changes in
+organizations ’external environments, such as fluctuations
+in funding, adjustments in contracting practices, new
+technology, new legislation (e.g., requirements set forth in
+the Affordable Care Act), changes in clinical practice
+guidelines and recommendations, or other environmental
+shifts [7 –11]. Internal organizational conditions are in-
+creasingly reflected in implementation frameworks, focus-
+ing on intra-organizational or inner context constructs
+like structure, leadership, and social context. However, nu-
+anced explanations of how organizations ’external envi-
+ronments influence implementation success are generally
+lacking in implementation research [12 –15].
+Organizational theories offe r implementation researchers
+a host of existing, highly relevant, and heretofore largely
+untapped explanations of the complex interaction between
+organizations and their environment. Organizational theor-
+ies describe, explain, and pre dict the complex interaction
+between organizations and their external environments.
+Thus, these theories have potential to explain and ground
+investigations focused on the role of policies, institutions,
+funding fluctuations, contr act design, procurement pro-
+cesses, and workforce dynamics in implementation.
+With roots in management and sociology [16],
+organizational theories have been used to explain phe-
+nomena in the fields of education, human services, public
+management, and health services research [17 –20].
+Organizational sociologists have called for the use of
+organizational theory in research on healthcare organiza-
+tions [21] and for a greater focus on organizations in im-
+plementation science [22]. Yano [22] suggested that
+implementation researchers could leverage organizational
+theory to identify organization-level implementation deter-
+minants; however, Yano ’s primary objective was to advo-
+cate for the use of organization-level implementation
+determinants —not organizational theory —in implementa-
+tion research. With a few notable exceptions [23 –27], the
+application of organizational theory in implementation re-
+search remains limited. To date, organizational theory re-
+mains unfamiliar to many implementation researchers,
+and guidance for applying organizational theory in imple-
+mentation research is lacking. To advance rigorous andtheoretically grounded studies of the influence of outer
+context on implementation, in this paper, we discuss how
+four organizational theories apply to implementation
+research.
+In the “Discussion ”section, we illustrate the use of four
+organizational theories (transaction cost economics, re-
+source dependency theory, institutional theory, and con-
+tingency theories) that we found to be particularly apt for
+retrospectively explaining how and why interactions be-
+tween organizations and their external environments in-
+fluenced the implementation of SafeCare, a program for
+preventing child maltreatment. In the “Summary ”section,
+we describe how organizational theories can be used pro-
+spectively, to inform development and empirical tests of,
+for example, policy and financing strategies.
+Discussion
+SafeCare®
+SafeCare® is an evidence-based behavioral parent training
+model that targets the proximal parenting behaviors that
+lead to the abuse and neglect of children with at-risk (typ-
+ically involved in child welfare or intensive prevention set-
+tings) parents of children 0 to 5 years old [28]. Using a
+structured, behavioral approach, trained SafeCare pro-
+viders deliver in-home parent training in three core con-
+tent areas: home safety, child health, and parent-child
+interactions. The program originated in 1979 in a child
+welfare system in rural southern Illinois as Project 12-
+Ways, which trained parents in up to 12 skill-sets [29]. Be-
+cause of its many components, Project 12-Ways was not
+easily disseminated, and thus, it was not feasible to take
+the program to scale. Accordingly, the program was con-
+densed to three skill-sets and renamed SafeCare. SafeCare
+is typically delivered in 18 weekly sessions (6 sessions per
+module), with sessions averaging 1 hour.
+SafeCare in its current form has been implemented in
+23 US states —6 of which executed statewide or large re-
+gional rollouts —and 6 other countries (Belarus, Spain,
+Israel, England, Australia, and Canada). SafeCare has been
+implemented in a variety of service settings, including
+child welfare, prevention, judicial, and early childhood
+education. Within US child welfare settings, interventions
+may be implemented by public child welfare agencies
+(state- or county-level authorities responsible for child
+safety, permanency, and well-being), by private child wel-
+fare organizations (local private community-based organi-
+zations (CBOs) contracted by public child welfare
+agencies to deliver an array of services to children and
+families), or throughout the entire state or county child
+welfare system (which includes the public agency and its
+network of private organizations) [30, 31]. The complex
+organizational relationships inherent to this public-private
+child welfare system provide an ideal context for applying
+organizational theories to understand the influence of theBirken et al. Implementation Science  (2017) 12:62 Page 2 of 15
+external environment in the implementation of SafeCare.
+The model has been evaluated with various research de-
+signs, including single-case studies, quasi-experimental
+studies, and randomized trials [32]. The largest random-
+ized trial was a statewide trial in the Oklahoma child wel-
+fare system that compared SafeCare to home-based
+services that did not include SafeCare [33]. The findings
+indicated that SafeCare significantly reduced child welfare
+recidivism [33], findings which were consistent across ra-
+cial and ethnic groups, including a subsample ( N=3 5 4 )o f
+American Indians [34]. Finally, other research has demon-
+strated that SafeCare positively impacts parent engage-
+ment and retention in voluntary prevention services [35],
+parent satisfaction, perceived cultural competency of the
+program [33], and caseworker retention [36] compared to
+service as usual in child welfare and prevention systems.
+The National SafeCare Training and Research Center
+(NSTRC) provides a variety of supports to implementing
+agencies to train providers to deliver SafeCare with fidel-
+ity. Providers are typically either bachelor ’s- or master ’s-
+degreed professionals and are employed by an agency that
+contracts with state or county government to deliver child
+welfare or prevention services. In some cases, the pro-
+viders of SafeCare are county or state employees, as states
+have different models for providing services to families, al-
+though the trend is largely toward private CBOs. All agen-
+cies that contract with the NSTRC for SafeCare training
+and implementation support begin the partnership with
+implementation planning discussions about resources, eli-
+gible client populations, and general readiness. Once a
+contract is established for training, NSTRC faculty and
+staff conduct a general readiness process, which includes
+an on-site orientation for trainees, leadership, and relevant
+community partners (e.g., referring agencies, funders) to
+finalize the implementation and training plan. Subse-
+quently, SafeCare providers attend a 4-day training on de-
+livering the SafeCare model to families. Once they begin
+to implement SafeCare, providers receive coaching by
+NSTRC trainers. Coaching consists of fidelity observations
+(primarily through audio recordings), followed by coach-
+ing sessions to discuss positive and corrective feedback
+from a SafeCare coach. The frequency of coaching is
+front-loaded with sessions occurring weekly until the pro-
+vider is certified (i.e., has demonstrated fidelity in three
+sessions in each of the three modules) and then is con-
+ducted monthly [37]. Implementation support also in-
+cludes ongoing team and administrative meetings to
+ensure fidelity, address implementation challenges, and
+optimize sustainment.
+Despite demonstrated effectiveness and available imple-
+mentation supports, challenges have been documented re-
+lated to SafeCare adoption [10] (the decision to use
+SafeCare), implementation [38] (the complex process
+whereby SafeCare use becomes increasingly proficient andconsistent among organizational members), and sustain-
+ment [39–41] (a state in which SafeCare use persists over
+several years without SafeCare developers ’assistance). In
+the sections that follow, we describe challenges associated
+with these three stages of SafeCare life cycle (adoption,
+implementation, and sustainment). The SafeCare studies
+that we cite in this paper were conducted by established
+implementation and intervention scholars, including those
+who have expertise in organizational theory and behavior.
+However, their studies were designed to focus on features
+and processes within internal organizational environments
+(e.g., community development teams, leadership). Thus,
+organizational theories fell outside the scope of the stud-
+ies. In collaboration with SafeCare experts (DJW, SRS,
+WLR, JRSC), we propose in this paper that organizational
+theories can be leveraged to retrospectively explain how
+relationships between organizations and their external en-
+vironments contributed to their success adopting, imple-
+menting, and sustaining SafeCare. Table 1 summarizes the
+main propositions of the four organizational theories that
+we feature in the paper and their application to SafeCare.
+(Note that the organizational theories featured in this
+paper are significantly more complex than we are able to
+include in the table or the descriptions that follow.) In the
+“Summary ”section, we argue that these organizational
+theories offer unique insights into adoption, implementa-
+tion, and sustainment that could advance implementation
+research prospectively .
+Adoption
+Adoption refers to an individual or organizational decision
+to begin using an innovation. In the USA, child welfare
+systems encounter pressure from policymakers and fun-
+ders to address problems with child abuse and neglect. In-
+creasingly, child welfare systems are encouraged to adopt
+and implement evidence-based interventions (EBIs), such
+as SafeCare, to improve child safety, permanency, and
+well-being. Recent trends are for state and county public
+welfare agencies to privatize services by contracting with
+private CBOs to deliver EBIs, including SafeCare, rather
+than adopting the models for use “in-house ”[31]. Trans-
+action cost economics theory and institutional theory, two
+widely used organizational theories, are particularly apt
+for explaining (1) why public child welfare agencies in-
+creasingly contract with CBOs to administer EBIs to pre-
+vent child abuse and neglect, and (2) why the EBI of
+choice was often SafeCare.
+Why did public child welfare agencies contract with CBOs
+to administer EBIs to prevent child abuse and neglect? A
+transaction cost economics explanation
+Ostensibly, public child welfare agencies had the option of
+acting as direct service providers, hiring staff to administer
+SafeCare. Instead, many public child welfare agenciesBirken et al. Implementation Science  (2017) 12:62 Page 3 of 15
+contract with CBOs to administer SafeCare [31]. To im-
+prove efficiency, responsiveness, and flexibility in the ser-
+vices provided, many child welfare agencies in the USA
+have become increasingly privatized by increasing con-
+tracting with private CBOs to deliver core child welfare
+services, such as maltreatment prevention [31, 42, 43].
+Transaction cost economics (TCE) theory explains how
+public child welfare agencies ’decisions to adopt SafeCare
+may be influenced by their ability to “buy”SafeCare by
+contracting with CBOs instead of “making ”SafeCare (i.e.,
+administering it in-house), diminishing the cost of admin-
+istering SafeCare. TCE suggests that costs are driven by
+the transactions required to accomplish tasks. TCE states
+that three factors influence the cost of a transaction and,
+in turn, the “make ”vs.“buy”decision: (1) frequency of the
+transaction, (2) uncertainty of the transaction, and (3)
+asset specificity required for the transaction [44].Transaction frequency refers to how often parties engage
+in a transaction; increased transaction frequency increases
+transaction costs. For example, as described in detail
+below, changes in the procurement process used by public
+child welfare agencies increased the frequency with which
+they had to communicate with CBOs to contract for Safe-
+Care, thus increasing the cost of contracting with CBOs
+for SafeCare. Uncertainty refers to information regarding
+the transaction that is unclear or unknown, thus increas-
+ing transaction costs. This would be the case if child wel-
+fare agencies had little information regarding SafeCare,
+increasing the cost of adoption. Asset specificity refers to
+how specialized resources must be for the transaction to
+transpire; increased asset specificity increases transaction
+costs. For example, staff who are specially trained in Safe-
+Care represent a highly specialized and potentially non-
+transferrable asset, thus increasing the cost associatedTable 1 Organizational theory descriptions and applications to SafeCare
+Theory Main propositions Applications to SafeCare
+Transaction cost economics Transaction costs influence whether an organization
+decides to contract with another organization to
+implement an EBI.
+Decreases in transaction frequency will increase the
+likelihood that organizations will contract with other
+organizations to implement an EBI.
+Past relationships between organizations reduce the
+uncertainty and costs associated with contracting.Adoption:
+Child welfare systems ’decision to contract with CBOs to
+administer EBIs rather than acting as direct EBI providers
+internally was likely influenced by costs.
+The cost of EBI administration is driven by the frequency
+of collaboration between CBOs and child welfare systems
+and the familiarity of child welfare systems with CBOs.
+Institutional theory Organizations implement EBIs that are viewed as
+legitimate by institutions within their environment.
+Organizations adopt certain EBIs in response to coercion
+or strong pressures to comply with rules, mandates, and
+regulations.
+Organizations mimic the behaviors and structures of
+other successful organizations such as adoption of certain
+EBIs.
+Organizations will adopt EBIs that align with professional
+norms.Adoption:
+Child welfare systems ’decision to adopt SafeCare was
+likely influenced by pressure from policymakers to provide
+EBIs, perceptions that SafeCare was viewed as a norm, and
+advocacy from child welfare professional communities for
+use of SafeCare.
+Sustainment:
+Efforts to maintain SafeCare contracts may have coerced
+CBOs to sustain SafeCare by establishing rules, regulations,
+and mandates set forth in contracts.
+The contracts garnered support for SafeCare, creating
+normative pressure on CBOs to sustain SafeCare.
+Contingency theories Organizations ’design decisions are contingent upon the
+organization ’s internal and external contexts.
+Successful EBI implementation is influenced by whether
+the EBI fits with an organization ’s internal context.
+Organizations ’ability to adapt to their external context
+influences successful EBI implementation.Implementation:
+The use of ICTs allowed child welfare systems to respond
+to external contexts such as local client needs.
+Internal context influenced implementation as larger,
+governmental organizations had less flexibility in how
+SafeCare could be implemented.
+Resource dependency
+theoryOrganizations ’design decisions are informed by their
+dependence on other organizations, ability to maintain
+autonomy, and relationships with other organizations.
+Organizations form relationships with other
+organizations to acquire and maintain resources and
+autonomy.Implementation:
+CBOs depended on the organizations that funded them
+and SafeCare developers (for expertise), which lessened
+their autonomy and power.
+CBOs often negotiated the balance of autonomy and
+dependence on other organizations by establishing
+relationships via ICTs, which minimized the resources
+individual CBOs needed to implement SafeCare.
+Sustainment:
+Policymakers could have earmarked funds for contracts
+that would have supported SafeCare to obtain sufficient
+resources for SafeCare sustainment.
+Train-the-trainer models decreased CBOs ’dependence on
+SafeCare developers so that their staff could autonomously
+sustain the practice without.
+CBO community-based organization, EBIevidence-based intervention, ICTinteragency collaborative teamBirken et al. Implementation Science  (2017) 12:62 Page 4 of 15
+with adopting SafeCare. Public agencies might be more
+likely to contract with CBOs to deliver SafeCare when that
+partnership is expected to yield fewer costs than “making ”
+the service in-house. For instance, in the case of SafeCare,
+adopting agencies would need to invest in specialized
+training, materials, and fidelity monitoring to administer
+SafeCare in-house. In addition, an agency might need to
+hire new staff or divert existing staff away from other du-
+ties for SafeCare training and service delivery. The cost of
+investing in these assets that are highly specific to Safe-
+Care and might not transfer to other areas of agency func-
+tioning may make agencies more likely to contract with
+CBOs to deliver SafeCare than “making ”the service in-
+house. Although contracting for services can also be costly
+(e.g., in terms of costs associated with the search for a
+CBO to contract with for SafeCare implementation and
+contract management), contracting could be less expen-
+sive and offer more flexibility to agencies than administer-
+ing SafeCare in-house, facilitating SafeCare adoption.
+Thus, many child welfare agencies contract with CBOs to
+deliver services.
+TCE may explain the stagnation in EBI adoption [45]:
+if the costs of administering SafeCare in-house and con-
+tracting with CBOs to do so are both too high, public
+child welfare agencies may have opted out of adopting
+SafeCare altogether. Indeed, as Willging et al. [10] docu-
+mented, changes in the procurement process used by
+public child welfare agencies increased the transaction
+costs associated with contracting with CBOs for Safe-
+Care, potentially deterring them from adopting SafeCare
+altogether. In the traditional contract bidding system,
+public child welfare agencies were not blinded to bidding
+CBOs. In fact, public child welfare agencies had estab-
+lished relationships with CBOs characterized by rela-
+tively infrequent negotiations and certainty around the
+feasibility of the CBO administering a high-quality EBI.
+Specifically, some CBOs with which public child welfare
+agencies had historically contracted engaged in inter-
+agency collaborations to support the administration of
+SafeCare, an EBI with which CBOs had substantial and
+increasing familiarity. These collaborations decreased
+CBOs ’costs of administering the EBI. Taken together,
+the traditional contract bidding system minimized the
+frequency of transactions between public child welfare
+agencies and CBOs, and it minimized the uncertainty of
+the transactions for EBI contracts. In contrast, a new
+procurement system, Best Value-Performance Informa-
+tion Procurement System (BV-PIPS), introduced a blind
+bidding process that produced substantial uncertainty
+around contracting. This process increased the fre-
+quency of transactions between child welfare systems
+and CBOs due to lack of familiarity, making the cost of
+contracting with CBOs to administer an EBI greater
+than the traditional contract bidding system.Institutional theory explains why SafeCare was often the EBI
+selected to prevent child abuse and neglect among CBOs
+Institutional theory suggests that organizations, including
+the public and private agencies that constitute child wel-
+fare systems, are motivated to align their structures and
+behaviors with the values, norms, and expectations es-
+poused by institutions in their environments (e.g., govern-
+ment, client groups, accrediting bodies), as opposed to
+being primarily motivated by demonstrating superior out-
+comes or performance, to maintain legitimacy [46, 47]. In-
+stitutional theory posits that organizational changes, such
+as the adoption of SafeCare, are a consequence of three
+types of institutional pressures: coercive, mimetic, and
+normative isomorphism. Organizations change as an
+adaptive response to coercion, or strong pressures to com-
+ply with rules, regulations, and mandates. For example, or-
+ganizations adopt new forms, technologies, or behaviors
+to adhere to mandates from government agencies [48, 49].
+This was likely the case for child welfare systems. Policy-
+makers, including state and county administrators in child
+welfare agencies, demand solutions to problems with child
+abuse and neglect; in Oklahoma, for example, policy-
+makers specifically advocated for the use of SafeCare,
+making it the most politically viable mechanism for child
+welfare systems to prevent child abuse and neglect [50].
+Further, federal and state legislators increasingly require
+public child welfare agencies or their contractors to use
+EBIs. In the USA, Washington state legislature passed sev-
+eral bills encouraging the use of EBIs [51, 52], and at the
+federal level, the 2016 Families First Prevention Services
+Act (HR5456; not enacted) [53] would have restricted
+funding to evidence-based child welfare interventions
+only. These efforts represent coercion to adopt SafeCare
+and the handful of other evidence-based child welfare
+interventions.
+It is also likely that SafeCare was often the EBI of choice
+to prevent child abuse and neglect because implementing
+EBIs is increasingly viewed as a norm among child welfare
+systems [53], despite persistent confusion regarding EBIs
+and how to effectively implement them. Institutional the-
+ory posits that, to gain legitimacy and resources, organiza-
+tions mimic the behaviors or structures of other
+successful organizations [54], especially under conditions
+of uncertainty or goal ambiguity. Policymakers in
+Oklahoma reported that they supported SafeCare imple-
+mentation because they viewed its designation as an
+EBI—a designation that was upheld by peer organizations
+as legitimate —as assurance that it might produce favor-
+able outcomes [50]. Further, among the contracted CBOs,
+some engaged in interagency collaborative teams (ICTs)
+to administer SafeCare [55]; among these ICTs, SafeCare
+may have been viewed as the normative EBI for preventing
+child abuse and neglect, representing additional normative
+pressure from CBOs.Birken et al. Implementation Science  (2017) 12:62 Page 5 of 15
+Institutional theory also posits that organizations adapt
+and align with strong professional norms, values, and ex-
+pectations conveyed via formal education, training, licens-
+ing, and accrediting bodies. Few child welfare professionals
+likely undergo formal training i n child welfare interventions
+prior to entering the workforce because they tend to come
+from disciplines outside of social work [56]; however, nor-
+mative pressures are likely salient for the child welfare sys-
+tems targeted for SafeCare given that they rely on workers
+who are professionalized and therefore subject to influence
+from professional organizations and normative pressures of
+the field. Hurlburt et al. found that leadership within child
+welfare systems ’professional communities, including direc-
+tors of community-based provider organizations and local
+foundations, advocated for the use of SafeCare [57].
+Organizational theories ’contribution to understanding
+SafeCare ’s adoption
+The conclusions that authors have drawn regarding
+SafeCare ’s adoption may be enhanced by drawing on
+TCE and institutional theory. For example, Willging et
+al. concluded that a substantial barrier to SafeCare adop-
+tion was the costs of training, materials, fidelity monitor-
+ing, and clinicians ’time away from their clinical duties
+[50]. Viewed through the lens of TCE, these discrete var-
+iables are examples of a host of potential determinants
+of adoption. Training, materials, etc. represent costs as-
+sociated with a broader transaction required to adminis-
+ter SafeCare. Public child welfare agencies minimize and
+address such cost-related barriers to adoption by con-
+tracting with private CBOs to deliver EBIs like SafeCare.
+These barriers are minimized insofar as the transaction
+costs associated with contracting are also minimal. Espe-
+cially within human services, these contracting relation-
+ships are based on familiarity and trust, which serves as
+a safeguard for both the public child welfare agency and
+the private CBOs, reducing the risk (and costs) associ-
+ated with the contract, thus promoting adoption of the
+EBI. BV-PIPS, a blind process, exacerbated uncertainty
+and risks for both the public agency and private CBOs,
+heightening transaction costs, thus disrupting SafeCare ’s
+adoption. In this sense, TCE explains how BV-PIPS dis-
+rupted SafeCare ’s adoption by increasing the contracting
+costs.
+Institutional theory offers another explanation for why
+BV-PIPS had the capacity to disrupt SafeCare ’s adoption
+among the private CBOs. Traditionally, the default EBI
+for public child welfare agencies and CBOs was Safe-
+Care, due to support in the form of coercive pressure
+from policymakers, mimetic pressure in the form of per-
+vasive ICTs around SafeCare, and normative pressure in
+the form of general professional acceptance of SafeCare
+as a viable approach to preventing child abuse and neg-
+lect. In contrast, BV-PIPS allowed bidders greater choiceof EBIs. In fact, Willging et al. found that many CBOs
+bidding under BV-PIPS did not propose to use SafeCare
+[10], and many proposed using interventions that were
+not evidence-based; this may speak to the limits of insti-
+tutional pressure to adopt EBIs in the face of the more
+substantial transaction costs associated with contracting
+under BV-PIPS.
+Implementation
+Implementation refers to the complex process whereby
+targeted organizational members ’use of an innovation
+such as SafeCare becomes increasingly proficient and con-
+sistent. Child welfare systems that adopted SafeCare faced
+conditions that may have limited the proficiency and
+consistency of SafeCare use. Specifically, the CBOs
+contracted to administer SafeCare exhibited unique local
+needs including varying cultures and client demographics.
+CBOs also had limited time, staff, funding, and other re-
+sources available to implement SafeCare. To address these
+potential barriers to implementation, some CBOs engaged
+in ICTs. ICTs were formed with an explicit goal of devel-
+oping locally based SafeCare trainers. The SafeCare devel-
+opers (NSTRC) trained an initial group of 12 staff from
+several different local organizations; those staff members
+were trained to a high degree of expertise, and eventually,
+the best performers were trained as SafeCare trainers.
+Subsequently, the local SafeCare trainers trained other
+members of other organizations and conducted coaching
+and implementation support [55]. The following sections
+will apply two additional organizational theories —contin-
+gency theories and resource dependency theory
+(RDT) —to explain how ICTs addressed local CBO needs
+and minimized CBOs ’resource constraints, thereby facili-
+tating SafeCare implementation.
+How did ICTs address local CBO needs, thereby facilitating
+SafeCare implementation? A contingency theories
+perspective
+ICTs ’ability to address local CBO needs, thereby facilitating
+SafeCare implementation, may be explained using contin-
+gency theories. Contingency theories are a class of behav-
+ioral theories that state, in essence, that optimal structure
+and leadership is contingent upon an organization ’si n t e r n a l
+and external contexts: An organization that is effective and
+efficient under some conditions may not be successful in
+others [58, 59]. One of implementation science ’sp r e m i s e s
+is analogous to the premise of contingency theories: context
+has critical implications for implementation. As such, con-
+tingency theories offer a well- established framework for
+conceptualizing the centrality of context, which implemen-
+tation science deems of utmost importance.
+Contingency theories suggest that best practices are con-
+tingent upon an organization ’s internal and external con-
+texts. Internal context is defined by factors that influenceBirken et al. Implementation Science  (2017) 12:62 Page 6 of 15
+work activities from within an organization. Organizations
+that implemented SafeCare represented a diverse array of
+internal contexts, ranging from those found in government
+bureaucracies to foundations to small non-profits. Internal
+context affected stakeholders ’ability to make the changes
+necessary to implement SafeCare. For example, one CBO
+attempting to implement SafeCare was part of a large
+county health and human services agency. The agency ’s
+multiple layers of bureaucracy limited the organization ’s
+flexibility to take advantage of o pportunities that might have
+facilitated SafeCare implementation. As described above, in-
+ternal context also factored into the fit between SafeCare
+and CBOs ’existing processes; implementation was facili-
+tated to the extent that SafeCare fit with an organization ’s
+internal context [2] (e.g., was able to be integrated into a
+CBO ’s electronic referral system; did not compete with
+existing programs). Contingency theories suggest that ICTs
+may have decreased uncertainty associated with resource
+constraints, thereby facilitating SafeCare implementation.
+External context is defined by factors that exist outside
+and are not under the control of the organization, but
+which influence the organization ’s structure and develop-
+ment. In some settings, ICTs allowed for tailoring SafeCare
+to the external context in which implementing organiza-
+tions existed. For instance, among Latino populations in
+Southern California, ICTs implementing SafeCare were
+flexible enough to ensure fidelity to core SafeCare modules
+while translating SafeCare into Spanish and addressing
+other fundamental cultural diff erences (e.g., addition of in-
+formation regarding home remedies that are common
+among Latino subcultures). In socially disadvantaged set-
+tings, ICTs also facilitated the tailoring of SafeCare to CBOs
+serving clients whose basic need s (e.g., food, shelter) super-
+seded the needs that SafeCare addresses; in these settings,
+ICTs allowed the CBOs ’providers to prioritize meeting cli-
+ents’basic needs before initiating SafeCare [60].
+Drawing on RDT to understand how CBOs ’external
+relationships facilitated SafeCare implementation
+CBOs that implemented SafeCare depend on critical fi-
+nancial and human resources to support full implementa-
+tion of the model. In particular, CBOs depended on the
+public child welfare agencies (and, in turn, counties and
+states) for the majority of financing to implement and de-
+liver SafeCare. However, financing might have been low
+due, in part, to CBOs ’incentive to submit bids that are
+low enough to compete with the many other bids submit-
+ted. Also, not every CBO that bid on the contract was go-
+ing to receive an award, heightening competition, and
+financial uncertainty for the CBOs that depended on these
+contracts. To buffer against the limited resources, and im-
+prove the chances that they would secure and maintain
+the contract, a small group of CBOs that were competing
+for the same bid collaborated with one another. Throughthis collaboration, the CBOs agreed that whichever orga-
+nizations won the bid would pool the financial and other
+resources with the rest of the small group. Thus, the risk
+and rewards were shared among collaborative group
+members, and by doing so, additional CBOs implemented
+SafeCare beyond those that were contracted to do so.
+Thus, this collaborative agreement among CBOs helped
+to minimize resource constraints, and facilitated SafeCare
+implementation. However, although these CBOs imple-
+mented SafeCare, this collaborative arrangement came at
+the expense of the autonomy CBOs required to maintain
+relevance to local needs [2].
+The emergence of this collaborative arrangement,
+which facilitated SafeCare implementation can be ex-
+plained by RDT. Given the criticality of resources
+for organizational functioning, RDT suggests that the
+availability and access to resources (located in the
+external organizational environment) influences
+organizational behavior. Thus, organizational leaders
+make decisions to balance three competing needs:
+(1) dependence on others for resources, (2) mainten-
+ance of autonomy, and (3) the establishment of rela-
+tionships [61]. Specifically, organizations develop
+partnerships, alliances, and other types of relation-
+ships to secure needed resources [62, 63]. However,
+these relationships create dependence —for instance,
+heavy fiscal dependence among private CBOs on the
+public child welfare agency —which can lead to a
+lack of certainty, predict ability, and power among
+the local organizations especially amidst fluctuations
+in funding and procurement/allocation processes.
+To counteract the consequences of dependence, or-
+ganizations seek autonomy by attempting to control
+resources and environments [64]. Organizations exert
+control of their environment by placing their mem-
+bers on a board of directors, forming joint ventures
+or merging with or acquiring another organization,
+joining action sets of groups of organizations who
+m a k eac o l l e c t i v er e s p o n s et oe x t e r n a lc o n s t r a i n t s ,o r
+engaging in other types of collaborative relationships.
+In the case of SafeCare, the interdependence associ-
+ated with collaborative partnerships among CBOs
+(ICTs) may have been offset by the control that they
+gained over the financial resources available, their de-
+creased dependence on the public child welfare
+agency, and reduced risks associated with the finan-
+cial insecurity imposed by the new contracting proce-
+dures. Organizations that maintain autonomy are well
+positioned to influence their environments and main-
+tain control over resources [61]. In fact, these admin-
+istrative collaborations among competing CBOs,
+especially among those with a long history of trust
+and working together, are a strategy for adapting to
+or pushing back against competition [65, 66].Birken et al. Implementation Science  (2017) 12:62 Page 7 of 15
+Organizational theories ’contribution to understanding
+SafeCare ’s implementation
+Viewed through the lens of contingency theories and
+RDT, the conclusions about SafeCare ’s implementation
+may be enhanced and synthesized across studies. Safe-
+Care researchers noted how their implementation study
+findings may have had limited generalizability to diverse
+contexts because some CBOs prioritized interventions
+that addressed client crises over using SafeCare [1] or
+used ICTs [57] to address local needs shaped by unique
+client demographics (i.e., American Indians in Oklahoma
+vs. Latinos in Southern California) [34], and competing
+child welfare programs [67]. Instead of conceptualizing
+these unique characteristics of diverse study contexts as
+limiting generalizability, contingency theories and RDT
+reframe these study “limitations ”as strategic responses
+that align organizations with the external context. In the
+case of SafeCare, the use and effectiveness of ICTs for
+addressing barriers to implementation is explained by
+contingency theories, which suggest that active efforts
+are needed to address potential barriers to implementa-
+tion due to idiosyncrasies associated with organizations ’
+internal and external contexts. The importance of inter-
+agency relationships for securing stable resources for im-
+plementation is explained by RDT, which suggests that
+interagency relationships, facilitated by trust, memo-
+randa of understanding, and negotiations, were critical
+for CBOs attempting to balance dependence on funding
+agencies and SafeCare developers [57] with the auton-
+omy they need to best implement SafeCare.
+Linking SafeCare study results to organizational theory
+would allow authors to more explicitly contribute to
+generalizable knowledge regarding SafeCare implementa-
+tion and, more broadly, to other EBIs. In essence, ICT was
+one approach to tailoring SafeCare to the local context
+and maintaining the autonomy needed to implement Safe-
+Care in a way that was locally relevant in the face of de-
+pendence on funding agencies and SafeCare developers.
+In this way, findings regarding SafeCare ’s implementation
+can be extrapolated to the implementation of any number
+of EBIs in any number of organizational contexts.
+Sustainment
+Sustainment refers to the continuous use of an
+innovation, as intended, over time [40, 41]. In a study of
+11 sites that implemented SafeCare, Willging et al. [50]
+found three levels of sustainment: (1) full sustainment (7
+sites), with certified providers maintaining active Safe-
+Care caseloads and regularly convened SafeCare teams
+(range of years sustained: 2 –10); (2) partial sustainment
+(1 site), where certified providers used SafeCare in their
+active caseloads but did not regularly meet in SafeCare
+teams (years sustained: 4); and (3) not sustained (3 sites),
+where certified providers did not use SafeCare at thetime of the study (range of years sustained: 1.5 –2.3). In-
+stitutional theory and resource dependency theory help
+to explain variation in SafeCare sustainment across sites.
+Willging et al. found that SafeCare sustainment was lim-
+ited, in part, by policymakers who invested insufficient ef-
+fort to develop the contracts necessary to sustain SafeCare
+[50]. Efforts to develop and maintain contracts have two
+functions. The first function can be explained with institu-
+tional theory : Efforts to maintain SafeCare contracts may
+have coerced CBOs to sustain SafeCare by establishing
+rules, regulations, and mandates set forth in contracts.
+The contracts also garnered support for SafeCare, creating
+normative pressure on CBOs to sustain SafeCare; in sites
+where SafeCare was not the assumed approach to prevent-
+ing child abuse and neglect among child welfare social
+workers responsible for submitting referrals, SafeCare was
+not sustained. The second function can be explained with
+RDT: In essence, contracts confer the resources, including
+organizational relationships, needed for SafeCare sustain-
+ment. Indeed, policymakers could earmark funds for con-
+tracts that would support SafeCare and partner with
+collaborators to obtain sufficient resources for SafeCare
+sustainment [50].
+Outside of contracts, Willging et al. also identified the
+train-the-trainer model associated with SafeCare as influ-
+ential in its sustainment [50]. The benefits of the train-
+the-trainer model to SafeCare ’ss u s t a i n m e n tc a nb e
+explained with RDT: The train-the-trainer model de-
+creased CBOs ’dependence on SafeCare developers so that
+their staff could more autonomously sustain the practice,
+relying on and paying NSTRC less to sustain SafeCare.
+Organizational theories ’contribution to understanding
+SafeCare ’s sustainment
+The conclusions that authors have drawn regarding Safe-
+Care ’s sustainment may be enhanced using the lens of the
+organizational theories described above. Authors have iden-
+tified several specific determinants of SafeCare sustainment
+including the presence of champions, advocacy from pol-
+icymakers, and relationships forged by policymakers. The
+mechanisms underlying these determinants can be ex-
+plained with organizational the ories, promoting their rele-
+vance for other EBIs; inst ead of encouraging future
+research to identify “strategies to promote congruence of
+leadership, mission and vision ”[50], organizational theories
+suggest constructs that under lie the variables that authors
+have proposed as determinants of sustainment. Specifically,
+institutional theory suggests that organizations can harness
+coercive pressure (e.g., Oklahoma policymakers ’advocacy
+for SafeCare), mimetic pressure (e.g., champions for Safe-
+Care), and normative pressure to sustain EBI use. RDT sug-
+gests that the relationships forged by policymakers that
+promoted SafeCare sustainment were a manifestation of or-
+ganizations ’balance of dependence and autonomy toBirken et al. Implementation Science  (2017) 12:62 Page 8 of 15
+control the resources necessary for SafeCare use. In this
+sense, organizational theories are able to generalize deter-
+minants specific to a particular intervention (e.g., SafeCare)
+in a particular setting (e.g., Oklahoma), promoting the
+ability to predict determinants of sustainment in other
+contexts.
+Summary
+This paper has demonstrated the application of four
+well-known organizational theories to retrospectively ex-
+plain the implementation of SafeCare. More generally,
+this paper demonstrates the utility of organizational the-
+ory for explaining the influence of the complex inter-
+action between organizations and their environment on
+implementation. Such explanations are largely lacking in
+extant implementation studies. There are a few notable
+exceptions. For example, studies have found institutional
+theory useful for explaining how an organization ’s exter-
+nal environment influences the integration of evidence
+into practice [23] and which intervention components
+are most likely to be sustained [24]. TCE has been used
+to explain how organizational networks form [25] and
+why organizations engaged in pay-for-performance may
+“game ”the system, inflating performance scores to
+maximize payment [26]. Shortell used institutional the-
+ory and TCE theory to understand the development and
+evaluation of accountable care organizations [27]. Invok-
+ing organizational theory more frequently to explain the
+influence of organizations ’interactions with their envir-
+onment on implementation has the potential to advance
+knowledge in the field. For example, if transaction costs
+are found to influence organizations ’approaches to im-
+plementation, then implementation research and strat-
+egies can be designed to account for transaction costs.
+Prospective application of organizational theory to
+implementation research
+Although most of this paper has addressed retrospective
+applications of organizational theory, organizational theor-
+ies may also be used prospectively in implementation re-
+search. Table 2 displays applications of TCE, institutional
+theory, contingency theories, and RDT, as well as examples
+of hypothetical applications of these theories to SafeCare.
+Broadly, TCE helps to anticipate whether innovations
+will be implemented in-house or if implementation will
+be outsourced, which is especially applicable for studying
+implementation of EBIs within the public sector, since
+public agencies are encouraged to outsource services to
+private contractors. TCE suggests that implementation
+strategies should seek to minimize transaction costs. For
+example, TCE suggests that electronic handoffs of pa-
+tient information among providers, such as the trans-
+mission of survivorship care plans among providers via
+electronic health records, will promote implementation[68]. TCE may also be helpful for informing how public
+agencies and other service funders design their procure-
+ment processes and contracts for EBIs.
+Institutional theory suggests that an organization will
+implement an innovation when it is in congruence with
+the values, norms, and expectations espoused by institu-
+tions in an organization ’s environment. Implementation
+strategies should either seek to influence the values,
+norms, and expectations of institutions within an organi-
+zation ’s environment or adapt the innovation to con-
+verge with institutional values, norms, and expectations
+to the extent possible with minimal compromise of fidel-
+ity to the intent of the innovation. This may involve, for
+example, framing an innovation using language that is
+likely to be perceived as aligned with institutions ’values,
+norms, and expectations.
+Contingency theories suggest that implementation opti-
+mally involves adaptation to organizations ’internal con-
+texts (e.g., organizational capacity, mission and values,
+culture) and external contexts (e.g., patient needs, political
+environment, geographic locations) and to changes in
+those contexts over time. This suggests that innovations
+should be developed with a dynamic approach to imple-
+mentation in mind. A common elements approach to im-
+plementation would potentially be most successful:
+implementing common techniques across EBI models
+would allow clinicians greater flexibility to meet diverse
+client needs and organizations more flexibility in training
+their workers [69, 70]. To optimize intervention delivery,
+scholars have advocated for efforts to systematically adapt
+interventions to the varied and unique contexts in which
+they are disseminated [71]. Evidence regarding successful
+adaptation of promising interventions to a variety of set-
+tings continues to accumulate. For example, a diabetes
+care quality improvement initiative was originally success-
+fully launched in an insured (health maintenance
+organization) setting and later adapted to meet the needs
+of federally qualified health centers [72].
+RDT suggests that organizations will weigh the re-
+sources to be gained against the autonomy to be lost from
+innovation implementation. To the extent that organiza-
+tions can use strategies to tip the balance in their favor,
+implementation may be more successful. This is the con-
+tention of the “systems ”thinking/change perspective [73],
+which asserts that successful implementation is a function
+of the control key stakeholders have over resources. Em-
+pirical evidence supports this hypothesis. For example, au-
+tonomy was found to be a key determinant of the
+implementation of an intervention to promote effective
+pain management in older people [74].
+Our paper has several limitations. First, the organizational
+theories that we have described in this paper themselves
+have limitations. Perrow critiqued TCE ’s neglect of power
+relations. Indeed, in some cases, organizational theories ’Birken et al. Implementation Science  (2017) 12:62 Page 9 of 15
+propositions sometimes contradict each other [75]. For ex-
+ample, TCE may predict that an organization will fail to
+adopt an EBI due to excessive transaction costs, whereas in-
+stitutional theory may predict that the organization will
+adopt the EBI to gain legitimacy, despite high transaction
+costs. Underlying these differences is divergence in the the-
+ories ’paradigms. TCE, contingency theories, and RDT ’sp a r -
+adigms are rooted in economics, which values rationality to
+explain organizational outcomes. In contrast, institutional
+theory takes a more sociological view and emphasizes the
+role of social forces, relationships, and norms in explaining
+organizational outcomes. Also, in contrast to frameworks,
+which are often intended to be comprehensive of determi-
+nants of implementation, theories tend to focus on a limited
+group of constructs about which specific causal relation-
+ships are proposed [76]. Further, in this paper, we have
+applied organizational theories to understanding macro-
+organizational relationships (i.e., relationships between orga-
+nizations and their external environments). These theories
+may also be useful for understanding micro-organizational
+relationships, i.e., how factors within organizations (e.g., cul-
+ture, climate, leadership) influ ence implementation. Theor-
+ies in the field of organizational behavior may also be useful
+for understanding micro-organizational relationships. As an
+example, researchers have extended theories about
+organizational citizenship behavior to implementation sci-
+ence by developing an implemen tation citizenship behaviorscale, which assesses employee behaviors that go beyond
+what is required to implement EBIs. Additionally, Aarons
+and colleagues have used leadership and strategic climate
+theories to derive an implementation leadership scale,
+allowing researchers to examine the impact of strategic
+leadership on organizational context for implementation.
+Health psychologists have increasingly applied behavior
+change theories to explain the behavior of individuals in-
+cluding providers and patients. For example, Karvinen et al.
+used the theory of planned behavior to understand exercise
+among endometrial cancer survivors [77]. Research that at-
+tempts to demonstrate causal relationships between deter-
+minants at multiple levels of the ecological framework and
+implementation may benefit from applying theories in sev-
+eral of these fields.
+Second, in this paper, we have presented four
+organizational theories that may be useful in implementa-
+t i o nr e s e a r c hb e c a u s et h e yw e r ep a r t i c u l a r l ya p tf o re x p l a i n -
+ing SafeCare ’s adoption, implementation, and sustainment.
+Other organizational theories that may be useful in imple-
+mentation research include pop ulation ecology of organiza-
+tions, agency theory, and exchange theory. For example,
+population ecology suggests that an organization ’s adaptive
+need for reliability and accountability to survive predisposes
+it to inertia and resistance to the change required to imple-
+ment innovations [78]. Principal-agent and stewardship
+theories might be useful for investigating the influence ofTable 2 Prospective application of organizational theory to SafeCare©
+Organizational theories Prospective application Hypothetical prospective application to SafeCare
+Transaction cost economics —explains how
+organizations decide whether to “make ”a good
+or service internally or “buy”(i.e., acquire
+externally) a needed good or service.Implementation may be outsourced if doing so
+is more efficient than implementing in-house.
+Implementation strategies should be selected to
+minimize transaction costs, which are positively
+associated with transaction frequency and un-
+certainty and asset specificity and likely nega-
+tively associated with implementation.Bidding processes that minimize the frequency
+and uncertainty of the transactions required for
+SafeCare contracting will promote
+implementation by allowing organizations to
+commit resources to implementation instead of
+transaction costs.
+Institutional theory —explains how organizations
+are motivated to align their structures and
+behaviors with the values, norms, and
+expectations espoused by institutions in their
+environments (e.g., government, client groups,
+accrediting bodies), as opposed to being
+primarily motivated by demonstrating superior
+outcomes or performance, to maintain
+legitimacy.Implementation is likely to be influenced by
+coercive, normative, mimetic pressures from
+institutions within an organization ’s
+environment. Implementation strategies should
+seek congruence with the values, norms, and
+expectations of relevant institutions in the
+implementing organization ’s environment.Staying attuned to the priorities of institutions in
+organizations ’environments will promote
+SafeCare implementation directly (e.g.,
+institutions advocating for SafeCare
+implementation) and indirectly (e.g.,
+organizations perceive institutions as approving
+of SafeCare implementation).
+Contingency theories —explain how
+organizations ’actions are contingent upon an
+organization ’s internal and external contexts,
+which influence the organizations ’structure and
+development.Organizations ’structure is a critical determinant
+of implementation, and organizations ’structure
+continuously changes in response to dynamic
+internal and external contexts. Implementation
+strategies should be regularly revisited to
+address organizations ’dynamic internal and
+external contexts.Designing SafeCare explicitly for adaptation will
+promote implementation by allowing
+organizations to accommodate their unique and
+dynamic internal and external contexts.
+Resource dependency theory —explains how
+organizations structure themselves and
+associate with each other in order to acquire
+and maintain autonomy and the resources
+necessary to survive.Implementation will be impeded to the extent
+that it limits organizations ’ability to acquire
+resources or maintain autonomy.
+Implementation strategies should address
+potential constraints of implementation on
+resource acquisition or autonomy.Organizations will forge relationships to
+implement SafeCare insofar as doing so will
+yield resources that are worth more than the
+related decrease in autonomy.Birken et al. Implementation Science  (2017) 12:62 Page 10 of 15
+approaches for managing contractual relationship for im-
+plementation given the trend toward privatization and con-
+tracting in health and human services [79].
+Third, in this paper, we apply organizational theory in a
+qualitative fashion; this diver ges from the largely quantita-
+tive application of organizational theory in other areas of
+health services research (e.g., [80]). Our retrospective, quali-
+tative application of organizational theory provides an ex-
+planation for SafeCare implementation; however, we do not
+test hypotheses derived from TCE, RDT, institutional the-
+ory, or contingency theories. In contrast, quantitative ap-
+proaches or deliberately design ed qualitative studies might
+be more conducive to testing hypotheses derived from the
+application of these four theories to implementation.
+Despite these limitations, our paper has important im-
+plications for implementation strategies, the evaluation
+of implementation efforts, measurement, research de-
+sign, theory, and practice.
+Implementation strategies consist of practical ap-
+proaches to promote EBI adoption, implementation, and
+sustainability [81]. Domains of implementation strategies
+include planning, education, financing, restructuring,
+quality management, and attending to the policy context
+[82]. Applying organizational theory to implementation
+strategies helps to explain why these strategies promote
+implementation and may promote more effective strategy
+selection. For example, TCE suggests that quality manage-
+ment may promote implementation by decreasing trans-
+action costs associated with desired behaviors. TCE also
+encourages implementation practitioners to account for
+the transaction costs associated with a given strategy; the
+transaction costs associated with resource-intensive re-
+structuring, for example, may outweigh its potential bene-
+fits to implementation. Institutional theory suggests that
+some strategies may have objective benefits to implemen-
+tation as well as conferring legitimacy on the organization
+implementing the EBI. For example, the legitimacy associ-
+ated with engaging in quality management, regardless of
+its objective benefits, may be sufficient to use such a strat-
+egy. Contingency theories suggest that strategies are not
+one-size-fits-all —organizations must select and tailor
+strategies to their internal and external contexts —ap e r -
+spective that has been advocated to promote implementa-
+tion strategies ’effectiveness [83]. RDT suggests that some
+strategies may be successful in promoting implementation
+by maintaining a balance between autonomy and depend-
+ence on others. For example, education of staff may act as
+a mechanism for gaining autonomy from EBI experts.
+Organizational leaders may benefitting from select imple-
+mentation strategies with a desired balance between au-
+tonomy and dependence on other organizations in mind.
+Organizational theory also has implications for imple-
+mentation evaluation. Increasingly, theory-driven evalu-
+ation (e.g., [84]), such as process analyses and N-of-1trials, complement traditional randomized controlled tri-
+als of implementation outcomes by suggesting mecha-
+nisms underlying the relationship between an EBI and its
+outcomes [85]. Organizational theory suggests that trans-
+action costs; needs for autonomy, resources, and legitim-
+acy; and internal or external contexts may drive EBI
+outcomes. Drawing on organizational theories in imple-
+mentation research will require development of measures
+such as institutional pressures (coercive, normative, and
+mimetic) [46, 47]; resource complexity, availability, and
+stability that influence organizational dependence/auton-
+omy (e.g., [86]); and the uncertainty, asset specificity, and
+transaction costs (e.g., [87]) associated with organizational
+“make vs. buy ”decisions. These and other constructs
+characterizing the external organizational environment
+have been somewhat absent in prior implementation stud-
+ies [88] and limited in the larger organizational literature
+as well [87] due to definitional ambiguity and imprecision
+[89]. Clear definitions to guide measurement development
+will be critical, as well as examination of the merits of
+using objective versus perceived measures of the context
+[90]. Although objective measures are generally preferred,
+organizational leaders make decisions based on how they
+perceive the context, and therefore, perceptual or self-
+report measures might also be valid [91]. Finally, scholars
+will need to carefully consider the unit of analysis, for in-
+stance, whether the institutional or resource environments
+can be captured via aggregated organizational reports.
+Implementation researchers who use the lens of
+organizational theory will likely need to adjust their ap-
+proach to design. Applying organizational theory often
+(but not exclusively, in the case of RDT, for example)
+implies analysis at the organizational level. Particularly
+for quantitative studies, such as experiments or quasi-
+experiments, recruiting a number of organizations to
+achieve sufficient power may be challenging. In contrast
+to studies at the provider or individual level, in which
+participants may be difficult to recruit but are plentiful,
+organizations both are often difficult to recruit and are
+scarce, relative to individuals. For observational, qualita-
+tive studies, relatively small numbers of organizations
+may be sufficient to achieve study objectives. However,
+organizational policies and the process of consenting an
+organization can make study recruitment challenging.
+For example, recruiting organizations requires an agent
+of the organization —typically a top leader —to consent
+on behalf of the organization; in many cases,
+organizational research requires the participation of em-
+ployees whose responses are aggregated to the
+organizational level, and organizational consent does not
+imply employees ’consent [92]. Research at the
+organizational level may also require longer study pe-
+riods since organizational change, including success or
+failure outcomes, is often slow [78]. We recommend thatBirken et al. Implementation Science  (2017) 12:62 Page 11 of 15
+implementation researchers who wish to incorporate
+organizational theory into their work collaborate with
+researchers who have expertise in organizational theory
+and research (often found in the fields of sociology, pub-
+lic administration, political science, and management).
+Implementation researchers who would like to apply
+organizational theory may find useful introductory texts
+on organizational theory [16, 93] and conferences that
+feature studies that incorporate organizational theory,
+such as the Association for Research on Nonprofit Orga-
+nizations and Voluntary Action [94], the Health Care
+Division of the Academy of Management [95], and the
+Organizational Theory in Health Care Association [96].
+We also recommend that implementation research
+training programs, including doctoral programs and
+postdoctoral training programs such as the Training In-
+stitute on Dissemination and Implementation Research
+in Health and the Implementation Research Institute, in-
+corporate formal training in organizational theory. Other
+fields ’(e.g., public administration [97 –99]) success in-
+corporating organizational theory suggests that doing so
+is feasible. Indeed, establishing common ground in
+organizational theory may serve to promote collabora-
+tions with these fields, which are currently lacking [100].
+Our paper also suggests implications for theory. Broadly
+speaking, organizational theories propose specific mani-
+festations of organizations ’efforts to survive [78]: To sur-
+vive, organizations minimize costs; adhere to values,
+norms, and expectations of institutions within their envir-
+onment; develop characteristics that differentiate them to
+compete with others; and acquire resources and auton-
+omy. Organizations implement innovations to survive —to
+comply with accrediting bodies [101], to respond to
+changing patient needs [102], to offer appealing services
+in-house [103]. In this sense, implementation may be a de-
+terminant of organizational survival; to the extent that
+implementing an innovation does not promote survival,
+implementation is unlikely to occur. Additionally, examin-
+ing the barriers to implementation offers an opportunity
+to investigate overlap across theories and to advance the-
+ories that specify and explain cross-level influences (e.g.,
+influences that span across organizational environment,
+organizational behavior, and provider behavior).
+Our paper also suggests that key organizational theor-
+ies should be incorporated into implementation frame-
+works. Developers of the Consolidated Framework for
+Implementation Research (CFIR) did not draw upon the
+kinds of classic organizational theories that we advocate
+for implementation research, but the CFIR includes con-
+structs that relate to some key organizational theory
+constructs [12]. For example, the CFIR ’s cosmopolitan-
+ism domain (i.e., the extent to which an organization is
+networked with others) suggests the importance of inter-
+agency relationships. RDT provides a rationale forincluding this construct: Organizations with stronger
+networks may facilitate implementation by increasing ac-
+cess to resources including information, influence, and
+funding [62]. Drawing on organizational theory, we can
+further specify and expand upon constructs included in
+implementation frameworks.
+Finally, the application of organizational theories to im-
+plementation has practical implications. Organizational
+theories suggest that managers should be aware of influ-
+ences from the external environment that may influence
+adoption, implementation, and sustainment. TCE, for ex-
+ample, suggests that having established relationships with
+external organizations that influence implementation may
+promote implementation success. Institutional theory sug-
+gests that gaining legitimacy —regardless of whether it im-
+proves performance —may drive adoption decisions. In
+some cases, the drive to gain legitimacy may undermine
+the objectives of an implementation effort; organizational
+leaders may superficially implement an EBI, without
+effecting change, to conform to institutional pressures.
+Contingency theories suggest that successful implementa-
+tion will likely require adaptation of an intervention to the
+manager ’s unique organizational context. RDT suggests
+that threats to maintaining autonomy or resources
+represent threats to implementation and sustainment.
+Organizational theory also encourages a skepticism of
+practice trends. In response to practice trends, researchers
+often assess strategies for accommodating these trends. In
+contrast, organization theory can help to alert practi-
+tioners and researchers to potential negative consequences
+of practice trends. For example, institutional theory sug-
+gests that following practice trends may confer legitimacy
+but not necessarily performance improvement.
+Conclusions
+Organizational theories offer implementation researchers
+a host of existing, highly relevant, and heretofore largely
+untapped explanations of the complex interaction be-
+tween organizations and their environment. Researchers
+and practitioners may benefit from the insights into im-
+plementation that organization theories offer.
+Abbreviations
+BV-PIPS: Best Value-Performance Information Procurement System;
+CBO: Community-based organization; CFIR: Consolidated Framework for
+Implementation Research; EBI: Evidence-based intervention; ICT: Interagency
+collaborative team; NSTRC: National SafeCare Training and Research Center;
+RDT: Resource dependency theory; TCE: Transaction cost economics
+Acknowledgements
+None.
+Funding
+Ms. Clary ’s work on this manuscript was supported by the National Cancer
+Institute at the National Institutes of Health (R25CA116339).
+Availability of data and materials
+Data abstracted for this review as a supporting file.Birken et al. Implementation Science  (2017) 12:62 Page 12 of 15
+Authors ’contributions
+All authors made significant contribu tions to the manuscript. All authors
+drafted and critically revised the manuscript for important intellectual
+content and have read and gave final approval of the version of the
+manuscript submitted for publication.
+Competing interests
+The authors declare that they have no competing interests.
+Consent for publication
+Individual data were not included in this study.
+Ethics approval and consent to participate
+Human subjects were not included in this study.
+Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Author details
+1Department of Health Policy and Management, Gillings School of Global
+Public Health, The University of North Carolina at Chapel Hill, 1103E
+McGavran-Greenberg, 135 Dauer Drive, Campus Box 7411, Chapel Hill, NC
+27599-7411, USA.2College of Social Work, The Ohio State University, 1947
+College Road, Columbus, OH 43210, USA.3Department of Health Policy and
+Management, Gillings School of Global Public Health, The University of North
+Carolina at Chapel Hill, 1105C McGavran-Greenberg, 135 Dauer Drive,
+Campus Box 7411, Chapel Hill, NC 27599-7411, USA.4Department of Health
+Policy and Management, Gillings School of Global Public Health, The
+University of North Carolina at Chapel Hill, 1107C McGavran-Greenberg, 135
+Dauer Drive, Campus Box 7411, Chapel Hill, NC 27599-7411, USA.
+5Department of Maternal and Child Health, The University of North Carolina
+at Chapel Hill, 401 Rosenau Hall, Campus Box 7445, Chapel Hill, NC
+27599-7445, USA.6Department of Family Medicine, University of Calgary, 8th
+Floor, Sheldon M. Chumir Health Centre, 1213 - 4 Street SW, Calgary, Alberta
+T2R 0X7, Canada.7School of Public Health, Georgia State University, PO Box
+3995, Atlanta, GA 30302-3995, USA.8National SafeCare Training and Research
+Center, Mark Chaffin Center for Healthy Development, PO Box 3995, Atlanta,
+GA 30302-3995, USA.9Department of Health Policy and Management,
+Gillings School of Global Public Health, The University of North Carolina at
+Chapel Hill, 1104F McGavran-Greenberg, 135 Dauer Drive, Campus Box 7411,
+Chapel Hill, NC 27599-7411, USA.10Department of Global Health, University
+of Washington, Box 357965, Seattle, WA 98195-7965, USA.11Department of
+Health Services, University of Washington, Box 357965, Seattle, WA
+98195-7965, USA.
+Received: 18 January 2017 Accepted: 4 May 2017
+References
+1. Aarons GA, Fettes DL, Sommerfeld DH, Palinkas LA. Mixed methods for
+implementation research: application to evidence-based practice
+implementation and staff turnover in community-based organizations
+providing child welfare services. Child Maltreat. 2012;17:67 –79.
+2. Aarons GA, Ehrhart MG, Farahnak LR, Sklar M. Aligning leadership across
+systems and organizations to develop a strategic climate for evidence-
+based practice implementation. Annu Rev Public Health. 2014;35:255 –74.
+3. Williams NJ, Glisson C, Hemmelgarn A, Green P. Mechanisms of change in
+the ARC organizational strategy: increasing mental health clinicians ’EBP
+adoption through improved organizational culture and capacity. Adm
+Policy Ment Health. 2016;44:269 –83.
+4. Aarons GA, Sommerfeld DH. Leadership, innovation climate, and attitudes
+toward evidence-based practice during a statewide implementation. J Am
+Acad Child Adolesc Psychiatry. 2012;51:423 –31.
+5. Beidas RS, Edmunds JM, Marcus SC, Kendall PC. Training and consultation to
+promote implementation of an empirically supported treatment: a
+randomized trial. Psychiatr Serv. 2012;63:660 –5.
+6. Birken SA, Lee SY, Weiner BJ, Chin MH, Schaefer CT. Improving the
+effectiveness of health care innovation implementation: middle managers
+as change agents. Med Care Res Rev. 2013;70:29 –45.7. Cabana MD, Rand CS, Powe NR, Wu AW, Wilson MH, Abboud PA, Rubin HR.
+Why don ’t physicians follow clinical practice guidelines? A framework for
+improvement. JAMA. 1999;282:1458 –65.
+8. Hamilton A, Mittman B, Eccles A, Hutchinson C, Wyatt G. Conceptualizing
+and measuring external context in implementation science: studying the
+impacts of regulatory, fiscal, technological and social change. Implement
+Sci. 2015;10:A72.
+9. Shediac-Rizkallah MC, Bone LR. Planning for the sustainability of
+community-based health programs: conceptual frameworks and future
+directions for research, practice and policy. Health Educ Res. 1998;13:87 –108.
+1 0 . W i l l g i n gC E ,A a r o n sG A ,T r o t tE M ,G r e e nA E ,F i n nN ,E h r h a r tM G ,H e c h t
+DB. Contracting and procurement for evidence-based interventions in
+public-sector human services: a case study. Adm Policy Ment Health.
+2016;43:675 –92.
+11. Wiltsey Stirman S, Kimberly J, Cook N, Calloway A, Castro F, Charns M. The
+sustainability of new programs and innovations: a review of the empirical
+literature and recommendations for future research. Implement Sci. 2012;7:17.
+12. Damschroder LJ, Aron DC, Keith RE, Kirsh SR, Alexander JA, Lowery JC.
+Fostering implementation of health services research findings into practice:
+a consolidated framework for advancing implementation science.
+Implement Sci. 2009;4:50.
+13. Powell BJ, Beidas RS, Rubin RM, Stewart RE, Wolk CB, Matlin SL, Weaver S,
+Hurford MO, Evans AC, Hadley TR, Mandell DS. Applying the policy ecology
+framework to Philadelphia ’s behavioral health transformation efforts. Adm
+Policy Ment Health. 2016;43:909 –26.
+14. Raghavan R, Bright CL, Shadoin AL. Toward a policy ecology of
+implementation of evidence-based practices in public mental health
+settings. Implement Sci. 2008;3:26.
+15. Raghavan R, Inkelas M, Franke T, Halfon N. Administrative barriers to the
+adoption of high-quality mental health services for children in foster care: a
+national study. Adm Policy Ment Health. 2007;34:191 –201.
+16. Daft R. Organization theory and design. 8th ed. Mason: Thomson/South-
+Western; 2004.
+17. Bonner M, Koch T, Langmeyer D. Organizational theory applied to school
+reform: a critical analysis. Sch Psychol Int. 2004;25:455 –71.
+18. Forrester JP, Adams GB. Budgetary reform through organizational learning
+toward an organizational theory of budgeting. Adm Soc. 1997;28:466 –88.
+19. Hunter DE. Using a theory of change approach to build organizational
+strength, capacity and sustainability with not-for-profit organizations in the
+human services sector. Eval Program Plann. 2006;29:193 –200.
+20. Payne J, Leiter J. Structuring agency: examining healthcare management in
+the USA and Australia using organizational theory. J Health Organ Manag.
+2013;27:106 –26.
+21. Flood AB, Fennel ML. Through the lenses of organizational sociology: the
+role of organizational theory and research in conceptualizing and
+examining our health care system. J Health Soc Beh. 1995;Spec No:154-69.
+22. Yano EM. The role of organizational research in implementing evidence-
+based practice: QUERI Series. Implement Sci. 2008;3:29.
+23. Novotná G, Dobbins M, Henderson J. Institutionalization of evidence-
+informed practices in healthcare settings. Implement Sci. 2012;7:1.
+24. Clauser SB, Johnson MR, O'Brien DM, Beveridge JM, Fennell ML, Kaluzny AD.
+Improving clinical research and cancer c are delivery in community settings:
+evaluating the NCI community cancer centers program. Implement Sci. 2009;4:1.
+25. Shearer JC, Dion M, Lavis JN. Exchanging and using research evidence in
+health policy networks: a statistical network analysis. Implement Sci. 2014;9:1.
+26. Borghi J, Mayumana I, Mashasi I, Binyaruka P, Patouillard E, Njau I, Maestad
+O, Abdulla S, Mamdani M. Protocol for the evaluation of a pay for
+performance programme in Pwani region in Tanzania: a controlled before
+and after study. Implement Sci. 2013;8:1.
+27. Shortell SM. Applying organization theory to understanding the adoption
+and implementation of accountable care organizations: commentary. Med
+Care Res Rev. 2016;73:694 –702.
+28. Lutzker JR, Chaffin M. Safecare®: an evidence-based constantly dynamic
+model to prevent child maltreatment. World Perspectives on Child Abuse.
+10th ed. Aurora: The International Society for the Prevention of Child Abuse
+and Neglect; 2012. p. 93-6.
+29. Lutzker JR, Frame RE, Rice JM. Project 12-Ways: an ecobehavioral approach
+to the treatment and prevention of child abuse and neglect. Educ Treat
+Child. 1982;5:141 –55.
+30. McBeath B, Collins-Camargo C, Chuang E, Wells R, Bunger AC, Jolles MP.
+New directions for research on the organizational and institutional contextBirken et al. Implementation Science  (2017) 12:62 Page 13 of 15
+of child welfare agencies: introduction to the symposium on “The
+Organizational and Managerial Context of Private Child Welfare Agencies ”.
+Child Youth Serv Rev. 2014;38:83 –92.
+31. Collins-Camargo C, McBeath B, Ensign K. Privatization and performance-
+based contracting in child welfare: recent trends and implications for social
+service administrators. Adm Soc Work. 2011;35:494 –516.
+32. Self-Brown S, Whitaker D, Berliner L, Kolko D. Disseminating child
+maltreatment interventions: research on implementing evidence-based
+programs. Child Maltreat. 2012;17:5 –10.
+33. Chaffin M, Hecht D, Bard D, Silovsky JF, Beasley WH. A statewide trial of the
+SafeCare home-based services model with parents in Child Protective
+Services. Pediatrics. 2012;129:509 –15.
+34. Chaffin M, Bard D, Bigfoot DS, Maher EJ. Is a structured, manualized,
+evidence-based treatment protocol culturally competent and equivalently
+effective among American Indian parents in child welfare? Child Maltreat.
+2012;17:242 –52.
+35. Damashek A, Doughty D, Ware L, Silovsky J. Predictors of client
+engagement and attrition in home-based child maltreatment prevention
+services. Child Maltreat. 2011;16:9 –20.
+36. Aarons GA, Sommerfeld DH, Hecht DB, Silovsky JF, Chaffin MJ. The impact of
+evidence-based practice implementation and fidelity monitoring on staff
+turnover: evidence for a protective effect. J Consult Clin Psychol. 2009;77:270.
+37. The California Evidence-Based Clearinghouse for Child Welfare: information
+and resources for child welfare professionals. http://www.cebc4cw.org/
+program/safecare/detailed. Accessed 12 Jan 2017.
+38. Klein KJ, Sorra JS. The challenge of innovation implementation. Acad
+Manage Rev. 1996;21:1055 –80.
+39. Aarons GA. Transformational and transactional leadership: association with
+attitudes toward evidence-based practice. Psychiatr Serv. 2006;57:1162 –9.
+40. Aarons GA, Palinkas LA. Implementation of evidence-based practice in child
+welfare: service provider perspectives. Adm Policy Ment Health. 2007;34:411 –9.
+41. Greenhalgh T, Robert G, Macfarlane F, Bate P, Kyriakidou O. Diffusion of
+innovations in service organizations: systematic review and
+recommendations. Milbank Q. 2004;82:581 –629.
+42. McBeath B, Collins-Camargo C, Chuang E. The role of the private sector in
+child welfare: historical reflections and a contemporary snapshot based on
+the National Survey of Private Child and Family Serving Agencies. J Publ
+Child Welfare. 2012;6:459 –81.
+43. Bunger AC, Collins-Camargo C, McBeath B, Chuang E, Pérez-Jolles M, Wells
+R. Collaboration, competition, and co-opetition: interorganizational
+dynamics between private child welfare agencies and child serving sectors.
+Child Youth Serv Rev. 2014;38:113 –22.
+44. Williamson OE. The economics of organization: the transaction cost
+approach. Am J Sociol. 1981;87:548 –77.
+45. Bruns EJ, Kerns SE, Pullmann MD, Hensley SW, Lutterman T, Hoagwood KE.
+Research, data, and evidence-based treatment use in state behavioral health
+systems, 2001 –2012. Psychiatr Serv. 2016;5:496 –503.
+46. Powell WW, DiMaggio PJ. The new institutionalism in organizational
+analysis. Chicago: University of Chicago Press; 2012.
+47. DiMaggio PJ, Powell WW. The iron cage revisited —institutional
+isomorphism and collective rationality in organizational fields. (Reprinted
+from the American Sociological Association 1983;48:147-60). Stamford: Jai
+Press; 2000;17:143-66.
+48. Guo C, Acar M. Understanding collaboration among nonprofit
+organizations: combining resource dependency, institutional, and network
+perspectives. Nonprofit Volunt Sect Q. 2005;34:340 –61.
+49. Garrow EE. Receipt of government revenue among nonprofit human
+service organizations. J Public Adm Res Theory. 2011;21:445 –71.
+50. Willging CE, Green AE, Gunderson L, Chaffin M, Aarons GA. From a “perfect
+storm ”to“smooth sailing ”: policymaker perspectives on implementation
+and sustainment of an evidence-based practice in two states. Child
+Maltreat. 2015;20:24 –36.
+51. Elizabeth Cady Stanton Pregnant and Parenting Student Services Act of
+2007, HR 1088, 110th Congress (2007-2008).
+52. 21st Century Readiness Act, HR 2536, 112th Congress (2011-2012).
+53. Family First Prevention Service Act of 2016, HR 5456, 114th Congress (2015-2016).
+54. Galaskiewicz J, Wasserman S. Mimetic processes within an
+interorganizational field: an empirical test. Adm Sci Q. 1989;34:454 –79.
+55. Chaffin M, Hecht D, Aarons G, Fettes D, Hurlburt M, Ledesma K. EBT fidelity
+trajectories across training cohorts using the interagency collaborative team
+strategy. Adm Policy Ment Health. 2016;43:144 –56.56. Barth RP, Lloyd EC, Christ SL, Chapman MV, Dickinson NS. Child welfare
+worker characteristics and job satisfaction: a national study. Soc Work. 2008;
+53:199 –209.
+57. Hurlburt M, Aarons GA, Fettes D, Willging C, Gunderson L, Chaffin MJ.
+Interagency collaborative team model for capacity building to scale-up
+evidence-based practice. Child Youth Serv Rev. 2014;39:160 –8.
+58. Donaldson L. The normal science of structural contingency theory. In: Clegg
+SR, Hardy C, editors. Handbook of organizational studies. Thousand Oaks:
+Sage; 1997. p. 57 –76.
+59. Donaldson L. The contingency theory of organizations. Thousand Oaks:
+Sage; 2001. p. 245 –89.
+60. Willging CE, Trott EM, Fettes D, Gunderson L, Green AE, Hurlburt MS, Aarons
+GA. Research-supported intervention and discretion among frontline
+workers implementing home visitation services. Res Soc Work Pract. 2015:
+1049731515601897.
+61. Aldrich H. Organizations an d environments. Englewood C liffs: Prentice-Hall; 1979.
+62. Pfeffer J, Salancik G. The external control of organizations: a resource
+dependence perspective. New York: Harper & Row; 1978.
+63. Ulrich D, Barney JB. Perspectives in organizations: resource dependence,
+efficiency, and population. Acad Manage Rev. 1984;9:471 –81.
+64. Pfeffer J. New directions for organization theory: problems and prospects.
+Oxford: Oxford University Press; 1997.
+65. Fligstein N. Markets as politics: a political-cultural approach to market
+institutions. Am Sociol Rev. 1996;61:656 –73.
+66. Bunger AC. Administrative coordination in non-profit human service
+delivery networks: the role of competition and trust. Nonprofit Volunt Sect
+Q. 2013;42:1155 –75.
+67. Whitaker DJ, Ryan KA, Wild RC, Self-Brown S, Lutzker JR, Shanley JR, Edwards
+AM, McFry EA, Moseley CN, Hodges AE. Initial implementation indicators
+from a statewide rollout of SafeCare within a child welfare system. Child
+Maltreat. 2012;17:96 –101.
+6 8 . G a r c i aS ,K i r c h e rS ,O d e nM ,V e n e r u s oA ,M c C o yJ ,P e a r m a nT ,P e n e d o
+F. Survivorship care planning in a comprehensive cancer center using
+an implementation framework. J Community Support Oncol. 2016;14:
+192–9.
+69. Barth RP, Lee BR, Lindsey MA, Collins KS, Strieder F, Chorpita BF, Becker KD,
+Sparks JA. Evidence-based practice at a crossroads: the emergence of
+common elements and factors. Res Soc Work Pract. 2012;22:108 –19.
+70. Chorpita BF, Becker KD, Daleiden EL, Hamilton JD. Understanding the
+common elements of evidence-based practice. J Am Acad Child Adolesc
+Psychiatry. 2007;46:647 –52.
+71. Chambers DA, Norton WE. The adaptome: advancing the science of
+intervention adaptation. Am J Prev Med. 2016;51:S124 –31.
+72. Gold R, Muench J, Hill C, Turner A, Mital M, Milano C, Shah A, Nelson C,
+DeVoe JE, Nichols GA. Collaborative development of a randomized study to
+adapt a diabetes quality improvement initiative for federally qualified health
+centers. J Health Care Poor Underserved. 2012;23:236 –46.
+73. Kitson AL. The need for systems change: reflections on knowledge
+translation and organizational change. J Adv Nurs. 2009;65:217 –28.
+74. Brown D, McCormack BG. Developing the practice context to enable more
+effective pain management with older people: an action research approach.
+Implement Sci. 2011;6:9.
+75. Perrow C. Complex organizations: a critical essay. New York: Random House; 1986.
+76. Sutton RI, Staw BM. What theory is not. Adm Sci Q. 1995;40:371 –84.
+77. Karvinen KH, Courneya KS, Campbell KL, Pearcey RG, Dundas G, Capstick V,
+Tonkin KS. Correlates of exercise motivation and behavior in a population-
+based sample of endometrial cancer survivors: an application of the Theory
+of Planned Behavior. Int J Behav Nutr Phys Act. 2007;4:21.
+78. Hannan MT, Freeman JH. The population ecology of organizations. Am J
+Sociol. 1977;83:929 –84.
+79. Van Slyke DM. Agents or stewards: using theory to understand the
+government-non-profit social service contracting relationship. J Public Adm
+Res Theory. 2007;17:157 –87.
+80. Yeager VA, Zhang Y, Diana ML. Analyzing determinants of hospitals ’
+accountable care organization participation: a resource dependency theory
+perspective. Med Care Res Rev. 2015;72:687 –706.
+81. Proctor EK, Powell BJ, McMillen JC. Implem entation strategies: recommendations
+for specifying and reporting. Implement Sci. 2013;8:1.
+82. Powell BJ, McMillen JC, Proctor EK, Carpenter CR, Griffey RT, Bunger AC,
+Glass JE, York JL. A compilation of strategies for implementing clinical
+innovations in health and mental health. Med Care Res Rev. 2012;69:123 –57.Birken et al. Implementation Science  (2017) 12:62 Page 14 of 15
+83. Powell BJ, Waltz TJ, Chinman MJ, Damschroder LJ, Smith JL, Matthieu MM,
+Proctor EK, Kirchner JE. A refined compilation of implementation strategies:
+results from the Expert Recommendations for Implementing Change (ERIC)
+project. Implement Sci. 2015;10:1.
+84. Chandler CI, DiLiberto D, Nayiga S, Taaka L, Nabirye C, Kayendeke M,
+Hutchinson E, Kizito J, Maiteki-Sebuguzi C, Kamya MR. The PROCESS study: a
+protocol to evaluate the implementation, mechanisms of effect and context
+of an intervention to enhance public health centres in Tororo, Uganda.
+Implement Sci. 2013;8:1.
+85. Craig P, Dieppe P, Macintyre S, Michie S, Nazareth I, Petticrew M. Developing
+and evaluating complex interventions: the new Medical Research Council
+guidance. BMJ. 2008;337:a1655.
+86. Sharfman MP, Dean JW. Conceptualizing and measuring the organizational
+environment: a multidimensional approach. J Manag. 1991;17:681 –700.
+87. Shelanski HA, Klein PG. Empirical research in transaction cost economics: a
+review and assessment. J Law Econ Org. 1995;11:335 –61.
+88. Chaudoir SR, Dugan AG, Barr CH. Measuring factors affecting implementation
+of health innovations: a systematic review of structural, organizational,
+provider, patient, and innovation level measures. Implement Sci. 2013;8:1.
+89. Larsen KR, Voronovich ZA, Cook PF, Pedro LW. Addicted to constructs:
+science in reverse? Addiction. 2013;108:1532 –3.
+90. Martinez RG, Lewis CC, Weiner BJ. Instrumentation issues in implementation
+science. Implement Sci. 2014;9:1.
+91. Smircich L, Stubbart C. Strategic management in an enacted world. Acad
+Manage Rev. 1985;10:724 –36.
+92. Brewerton PM, Millward L. Organizational research methods: a guide for
+students and researchers. 1st ed. London: SAGE Publications Ltd; 2001.
+93. Scott WR, Davis GF. Organizations and organizing: rational, natural, and
+open systems perspectives. 7th ed. Upper Saddle River: Prentice Hall; 2007.
+94. Association for Research on Nonprofit Organizations and Voluntary Action
+(ARNOVA). Website: http://www.arnova.org. Accessed 20 Apr 2017.
+95. Academy of Management, Healthcare Division. Website: http://aom.org/
+Divisions-and-Interest-Groups/Health-Care-Management/Health-Care-
+Management.aspx. Accessed 20 Apr 2017.
+96. Organization Theory in Health Care Association. Website: http://www.ot-hc.
+org . Accessed 20 Apr 2017.
+97. Pressman JL, Wildavsky A. Implementation: how great expectations in
+Washington are dashed in Oakland …. 3rd ed. Berkeley: University of
+California Press; 1984.
+98. Provan KG, Milward HB. Institutional-level norms and organizational
+involvement in a service-implementation network. J-PART. 1991;1:391 –417.
+99. O ’Toole LJ. Interorganizational policy studies: lessons drawn from
+implementation research. J-PART. 1993;3:232 –51.
+100. Roll S, Moulton S, Sandfort J. A comparative analysis of two streams of
+implementation research. J Public Nonprofit Affairs. 2017;3:3 –22.
+101. Birken SA, Mayer DK, Weiner BJ. Survivorship care plans: prevalence and
+barriers to use. J Cancer Educ. 2013;28:290 –6.
+102. Krall E, Close J, Parker J, Sudak M, Lampert S, Colonnelli K. Innovation pilot
+study: Acute Care for Elderly (ACE) unit —promoting patient-centric care.
+HERD: Health Environments Research & Design Journal. 2012;5:90 –8.
+103. Yu J, Chen R, Tsai Y. Health care industry, customer orientation and
+organizational innovation: a survey of Chinese hospital professionals.
+Chinese Management Studies. 2013;7:215 –29.
+•  We accept pre-submission inquiries  
+  Our selector tool helps you to ﬁnd the most relevant journal
+  We provide round the clock customer support 
+  Convenient online submission
+  Thorough peer review
+  Inclusion in PubMed and all major indexing services 
+  Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submitSubmit your next manuscript to BioMed Central 
+and we will help you at every step:Birken et al. Implementation Science  (2017) 12:62 Page 15 of 15

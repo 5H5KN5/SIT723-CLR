@@ -1,0 +1,1161 @@
+RESEARCH Open Access
+I-RREACH: an engagement and assessment tool
+for improving implementation readiness of
+researchers, organizations and communities in
+complex interventions
+Marion Maar1*, Karen Yeates2, Marcia Barron3, Diane Hua4, Peter Liu5, Margaret Moy Lum-Kwong6, Nancy Perkins4,
+Jessica Sleeth2, Joshua Tobe7, Mary Jo Wabano8, Pamela Williamson9and Sheldon W Tobe1,4
+Abstract
+Background: Non-communicable chronic diseases are the leading causes of mortality globally, and nearly 80% of
+these deaths occur in low- and middle-income countries (LM ICs). In high-income countries (HICs), inequitable
+distribution of resources affects poorer and otherwis e disadvantaged groups inclu ding Aboriginal peoples.
+Cardiovascular mortality in high-income countries has recently begun to fall; however, these improvements are not
+realized among citizens in LMICs or those subgroups in high-income countries who are disadvantaged in the social
+determinants of health including Aboriginal people. It is critical to develop multi-faceted, affordable and realistic
+health interventions in collaboration with groups who experience health inequalities. Based on community-based
+participatory research (CBPR), we aimed to develop implementation tools to guide complex interventions to ensure
+that health gains can be realized in low-resource environments.
+Methods: We developed the I-RREACH (Intervention and Res earch Readiness Engage ment and Assessment of
+Community Health Care) tool to guide im plementation of interventions in low -resource environm ents. We employed
+CBPR and a consensus methodology to (1) develop the theoretical basis of the tool and (2) to identify key implementation
+factor domains; then, we (3) collected participant eval uation data to validate the tool during implementation.
+Results: The I-RREACH tool was successfully developed using a community-based consensu s method and is rooted in
+participatory principles, equalizing the importance of the k nowledge and perspectives of researchers and community
+stakeholders while encouraging respectful dialogue. The I-RR EACH tool consists of three phases: fact finding, stakeholder
+dialogue and community member/patient dialogue. The evaluation for our first implementation of I-RREACH by
+participants was overwhelmingly positive, with 95% or more of participants indicating comfort with and support
+for the process and the dialogue it creates.
+Conclusions: The I-RREACH tool was designed to (1) pinpoint key domains required for dialogue between the
+community and the research team to facilitate implementatio n of complex health interventions and research projects
+and (2) to identify existing strengths and areas requiring further development for effective implementation. I-RREACH has
+been found to be easily adaptable to diverse geographical and cultural settings and can be further adapted to other
+complex interventions. Further research should include the potential use of the I-RREACH tool in the development of
+blue prints for scale-up of successful interventions, particularly in low-resource environments.
+Keywords: Complex intervention, Community-based participatory research, Methodology, RCT, Implementation tool,
+International health, Aboriginal health, LMIC, Canada, Tanzania
+* Correspondence: mmaar@nosm.ca
+1Faculty of Medicine, Northern Ontario School of Medicine, Laurentian
+University, Sudbury, ON, Canada
+Full list of author information is available at the end of the articleImplementation
+Science
+© 2015 Maar et al.; licensee BioMed Central. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain
+Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article,
+unless otherwise stated.Maar et al. Implementation Science  (2015) 10:64 
+DOI 10.1186/s13012-015-0257-6
+Background
+Non-communicable chronic diseases such as cardiovas-
+cular disease (CVD), cancers, diabetes and chronic lung
+diseases are the leading causes of mortality globally, ac-
+counting for approximately two thirds of annual deaths.
+Nearly 80% of these deaths occur in low- and middle-
+income countries (LMIC) [1]. In high-income countries
+(HIC), inequitable distributions of resources affect
+poorer and otherwise disadvantaged groups including
+Aboriginal peoples [2,3]. Furthermore, LMICs are faced
+with large competing burdens of communicable diseases
+and fragmented, poorly-resourced health care systems
+that result in significant challenges in managing the
+complexities of multiple risk factors that attribute to
+chronic non-communicable diseases.
+Among chronic diseases, cardiovascular disease is the
+number one cause of mortality worldwide. However, car-
+diovascular mortality in high-income countries has
+recently begun to fall which can be attributed to both
+advances in treatment as well as control of risk factors
+using evidence-based management models [4,5]. Making
+these advances accessible to all should be a priority glo-
+bally. While HICs are effectively reducing cardiovascular
+mortality [6], the gains are not realized among citizens
+in LMICs nor in those subgroups in HICs who are dis-
+advantaged in the social determinants of health (SDOH)
+such as Aboriginal people [1]. As chronic diseases such
+as hypertension and diabetes continue to rise in LMICs
+and Aboriginal populations in Canada, it is critical to
+develop multi-faceted, affordable and realistic health in-
+terventions informed by an understanding of local
+SDOH in order to ameliorate them and improve health
+equity [1,7].
+Barriers to CVD and hypertension treatment in LMICs and
+Aboriginal communities
+The availability of clinical practice guidelines for cardio-
+vascular disease is necessary but not sufficient alone to
+bring about significant improvements in cardiovascular
+health. Risk factor reduction is complex and requires
+lifestyle modifications, behaviour changes and pharma-
+cologic therapy. Health care policies may actually con-
+tribute additional barriers to evidence-based care and
+changes to health systems, and these policies may be
+required to improve the prevention and management of
+chronic diseases [8].
+Facing the mounting burden of CVD and related com-
+plications, LMICs and Aboriginal populations often lack
+the financial means and/or geographically accessible ser-
+vices for diagnosis, treatment and management options,
+leading to increased rates of morbidity and mortality [1].
+In Canada for example, studies show that death rates
+from circulatory system diseases among Aboriginal people
+are significantly elevated compared with non-Aboriginalpeople [9]. Hypertension, one of the major risk factors for
+CVD, is highly prevalent and has no noticeable symptoms;
+therefore, it is too often undiagnosed and goes untreated in
+low-resource and low access health care environments
+where the focus is on other more urgent or competing
+medical problems. A recent systematic review in Canadian
+Aboriginal communities found an average prevalence for
+hypertension of 23.5% [10]. High rates of undiagnosed
+hypertension [11] were also linked to elevated rates of
+chronic kidney disease [12]. Barriers to care include lower
+access to renal dialysis and transplantation [13].
+Although geographically and culturally quite dissimilar
+to Canadian Aboriginal populations, resource-poor
+African countries such as Tanzania struggle with similar
+predicaments. While there are no national data sets on
+the rates of hypertension, current evidence points to
+higher hypertension prevalence with dramatically lower
+treatment and control rates [14] associated with higher
+stroke rates [15]. Compared to rural and remote
+Canadian communities, the lower access to hypertension
+management in Tanzania is due, in large part, to financial
+resource constraints limiting numbers of adequately
+trained health care providers, diagnosis and treatment as
+well as a lack of infrastructure connecting patients, their
+medical records and their health care providers [16].
+DREAM-GLOBAL: a community-based hypertension
+intervention for LMIC and Aboriginal communities
+DREAM-GLOBAL (Diagnosing hypeRtension-Engaging
+Action and Management in Getting LOwer Bp in
+Aboriginal and LMIC) is a research project designed
+to increase our knowledge of how to develop and
+implement affordable, evidence-based, guidelines-driven
+hypertension management interventions at the patient,
+provider and community level in LMICs (Tanzania) and
+Aboriginal communities in Canada by leveraging in-
+novative technologies, health services and research
+methodology. The project is informed by the Canadian
+Hypertension Education Program (CHEP) clinical prac-
+tice guidelines drawing on evidence for high blood pres-
+sure prevention through dietary sodium restriction,
+blood pressure measurement, education interventions for
+health care providers and patients, inter-professional
+care, health systems and community-based interventions
+including automated reminder systems [17,18]. It com-
+bines a multilayered approach including many elements
+of the chronic care management model, as well as task
+shifting from health care providers (HCP) to community
+health resource and community health workers. The pro-
+ject also facilitates self-management support, decision
+support, delivery system design, clinical information sys-
+tems, while building on existing capacity in health care
+organizations and community resources [19]. DREAM –
+GLOBAL uses a randomized controlled trial (RCT) [20]Maar et al. Implementation Science  (2015) 10:64 Page 2 of 13
+design to test the effectiveness of a mobile health strategy
+using cell phone-based short message service (SMS) tech-
+nologies to facilitate blood pressure measurements and
+feedback between patient and provider through the local
+existing mobile phone network. The flow diagram in
+Figure 1 displays the planned progression of participants
+through the trial. The study is a complex intervention
+leading to changes in the behaviour of patients, providers
+and local systems. It is implemented using a collaborative
+community-based participatory approach.
+Informing complex interventions through
+community-based participatory research
+The components of the DREAM-GLOBAL intervention
+are evidence-based, but we recognize that interventions
+can easily fall short of achieving the intended outcomes
+due to ineffective implementation and delivery in their
+‘real life ’application within the health care system. In
+particular, low-resource environments are strongly af-
+fected by implementation issues. This phenomenon,
+known as the implementation gap, is linked to the lack
+of understanding of the multifarious factors that may
+impact on the effectiveness of an intervention when im-
+plemented at the community or population level [21].Confounding factors include the uniqueness of local
+power structures, health systems, community organizations
+and human actors making standardization unrealistic.
+There is an increasing acknowledgement that to meas-
+ure the degree of effectiveness of an intervention in real
+clinical practice, an RCT must be pragmatic, maximizing
+external validity (generalizability) while trying to pre-
+serve internal validity (reliability and accuracy) [22]. A
+traditional RCT design does not offer an analysis of the
+multiple factors that impact on outcomes nor how or
+why the observed impact occurred [23]. Leykum and
+colleagues argue that this leads to a profound dilemma:
+“How do we design interventional trials that are
+generalizable, but also have enough flexibility to be
+meaningful and more likely to be successful locally? ”
+[24] Research leading to a better understanding of key
+implementation factors and the mechanism by which
+these influence outcomes are needed to guide imple-
+mentation strategies for intervention trials as well as
+proven interventions in diverse environments.
+Given the rising rates of CVD in disadvantaged popu-
+lations, it is essential to study the implementation factors
+of CVD interventions in low-resource environments
+where they are urgently needed rather than extrapolating
+Figure 1 DREAM-GLOBAL consort diagram.Maar et al. Implementation Science  (2015) 10:64 Page 3 of 13
+from high-income settings [21] The DREAM-GLOBAL
+intervention trial is planned for diverse communities in
+Tanzania and Aboriginal communities in Canada, and
+we therefore explored these key implementation issues
+through participatory research prior to rolling out the
+study. Our objective was to use the information gathered
+to develop an implementation tool to guide the process
+of identifying key implementation issues related to
+people, community, health systems, culture and relation-
+ships that are likely to differ between settings. As each
+of these factors introduces complexity, our goal was to
+design the implementation tool to be easily adaptable to
+various health care environments and health issues in a
+variety of communities globally.
+Using community-based participatory research (CBPR),
+we aimed to develop a tool to guide dialogue between re-
+searchers and communities on key aspects of researcher,
+community, system functionality and readiness. We report
+on (1) the theoretical underpinnings of this tool, (2) the
+key domains of complexity and issues and how these are
+uncovered by this tool, and (3) the evaluation feedback
+from stakeholders during the testing of the tool.
+Methodology
+Our methodology for the development of the tool con-
+sisted of a three-pronged CBPR approach: We employed
+a consensus method to (1) develop the theoretical basis
+of the tool and (2) to identify key implementation factor
+domains; then, (3) we evaluated the tool.
+A community-based participatory research approach
+CBPR is not a research methodology but rather a value-
+based approach to inquiry. It has been defined as “a col-
+laborative research approach that is designed to ensure
+and establish structures for participation by communi-
+ties affected by the issue being studied, representatives
+of organizations, and researchers in all aspects of the re-
+search process to improve health and well-being through
+taking action, including social change ”[25]. Israel and
+colleagues articulate several key principles that define
+CBPR. These principles include notions such as recog-
+nizing the community as a unit of identity, building on
+community strengths, collaboration in all phases of
+the research, integration of research and action based
+on co-learning and knowledge sharing to address in-
+equalities [26].
+Translational and intervention research in low-
+resource environments frequently has a distinct cross-
+cultural aspect, with much of the scientific evidence
+provided by cultural outsiders. Rivkin and co-workers
+argue that this can pose challenges for intervention sci-
+ence as health concepts used in scientific research may
+not translate or have different meanings in culturally
+diverse partner communities [27]. Trickett and othershave further elaborated that “culture pervades all aspects
+of community interventions ”and community collabor-
+ation are fundamental to the success of complex inter-
+ventions [28]. Warry noted that collaborative research in
+these settings requires researchers to relinquish control
+over the research process in order to strengthen their
+explanations [29].
+In this study, the CBPR approach formally began when
+community stakeholders interested in exploring the
+implementation of DREAM-GLOBAL were invited to
+share their perspective on the development of an imple-
+mentation tool based on their lived experience within
+partner communities using a consensus method.
+Indigenous consensus method approach to the
+development of the theoretical basis and domains of the
+implementation tool
+A consensus method informed by Indigenous values [30]
+and CBPR principles was used to initiate a dialogue
+involving academic researchers and community stake-
+holders addressing potential implementation issues for
+DREAM-GLOBAL. Community stakeholders consisted
+of people with lived experience and close connections in
+the targeted partner communities. They included health
+care workers and administrators, community-based re-
+searchers, health champions and those who were or had
+family affected by hypertension.
+The Indigenous consensus method that we employed
+differs from traditional academic consensus methods
+such as the Delphi method [31] as it does not privilege
+the perspective of academic experts. Instead, the
+process invites cultural va lues and knowledge gained
+from the lived experience of participants, by eliciting
+the perspectives of those wh o are eventually affected
+by the intervention such as community members and
+local communities of practice. The consensus process
+is completed once the nexus between community,
+academic and practice-based knowledge manifests,
+which in this case was achie ved after three consensus
+cycles (see Table 1).
+First consensus cycle
+Based on the academic research team ’s past experience
+(i.e. their practice-based knowledge) in implementing
+interventions in a wide range of community settings, an
+initial set of key factors that were reasoned to impact
+implementation was created in order to provide dis-
+cussion materials for the first meeting with community
+collaborators. These factors included the following:
+(1) community engagement; (2) local health care delivery
+system; (3) patient self- management; (4) health policy;
+(5) available infrastructure, including information and
+communication technology; and (6) historical, social and
+cultural issues. These domains were then refined andMaar et al. Implementation Science  (2015) 10:64 Page 4 of 13
+theoretically contextualized within the literature on com-
+munity readiness assessment [32-34] to develop the first
+list of draft domains and proposed approach to assessing
+readiness.
+The first consensus cycle to elicit community feedback
+on the draft domains and research approach was then
+initiated. In Canada, it took the form of a workshop
+meeting involving a group of invited stakeholders from
+Aboriginal communities interested in exploring the im-
+plementation of the project in their community in dia-
+logue with Aboriginal health and clinical researchers. In
+Tanzania, the workshop included community members,
+local community researchers and academic researchers.
+The dialogue was a rich exchange of lived and technical
+experience in both the Canadian and Tanzanian envi-
+ronments. Participants provided feedback on imple-
+mentation factors and the conceptual framework of
+implementation readiness a ssessment. Aboriginal and
+Tanzanian stakeholders provided significant direction
+for revisions to the theoretical orientation of the frame-
+work and commented on the relative importance of the
+draft domains.
+Second consensus cycle
+The second loop was designed to validate key implemen-
+tation issues and a revised theoretical framework (based
+on feedback from the first cycle) through member
+checking with additional stakeholders during various
+community meetings at sites in Canada and Tanzania.
+The researchers gathered detailed feedback on the re-
+vised tool, its implementation, as well as culturally com-
+petent phrasing of questions and probes.
+Third consensus cycle
+The third feedback loop was designed to gain a final
+member check on the key issues, domains, questions,
+probes and implementation process of the tool. The
+focus in this round was to include members of the
+community health care staff in Canada and Tanzania.
+This cycle provided only minor feedback on phrasing.However, the name of the implementation tool was de-
+veloped during this final round.
+Participant feedback on the I-RREACH tool
+The finalized I-RREACH (Intervention and Research
+Readiness Engagement and Assessment of Community
+Health Care) tool is an implementation tool that in-
+cludes a community fact sheet, an interview, and focus
+group guide designed to elicit information on key factors
+that may impact the implementation of the intervention.
+It was implemented during visits to participating com-
+munities in Canada and Tanzania. At the end of each
+interview and focus group, participants were asked to
+complete a short anonymous evaluation form rating
+their immediate experience with the I-RREACH process.
+The evaluation tool was designed to gather information
+on a five-point scale on how participants perceived the
+following: (1) the clarity of questions, (2) rapport and
+understanding between re searcher and themselves,
+(3) improvements in understanding of the interven-
+tion and implementation issues, (4) cultural safety,
+(5) I-RREACH process as a facilitation tool for know-
+ledge exchange for implementation of the intervention
+and (6) any comments or additional suggestions for
+improvements. The evaluation form is provided in
+Table 2. It is scaled to indicate high levels of satisfac-
+tion when participants either “agree ”or “strongly
+agree ”with the provided statements. It can be easily
+adapted to I-RREACH evaluations by researchers who
+wish to use this tool in the future. To summarize the
+data, we tallied up scores for each of the five scored
+domains and thematically summarized the short re-
+sponses and suggestions for improvements. While any
+dissatisfaction is reason for concern that researchers
+may need to explore, we deemed the I-RREACH tool
+to be acceptable from the participants ’perspective if
+at least 85% of scores were in the combined “agree ”
+and “strongly agree ”categories and no major concerns
+were raised in the open-ended question component of
+the questionnaire.Table 1 Participatory consensus cycles employed in the development of I-RREACH
+Consensus cycle Canada Tanzania Theoretical frameworks tested Theoretical perspectives
+identified as relevant
+Cycle 1: discussion
+of draft conceptsJuly 2012, DREAM-GLOBAL
+annual meeting; facilitated
+stakeholder discussionMarch 2013, group of
+16 community-based
+researchersResearchers ’practice-based
+knowledge, Community
+Readiness AssessmentCBPR, Indigenous approaches
+to research, empowerment
+approaches
+Cycle 2: Discussions with key
+stakeholders during
+community-based
+engagement visitsNovember 2013, group
+of 11 community-based
+researchersCBPR, Indigenous approaches
+to research, empowerment
+approachesCBPR, Indigenous approaches
+to research, empowerment
+approaches, practice-based
+knowledge
+Cycle 3 Invitation to Aboriginal
+community health staff
+for written feedback on
+draft toolNovember 2013, key
+informant community
+researchersCommunity-based collaborators ’
+practice-based knowledge.None identified, consensus
+on applicable theoretic
+frameworks was achieved at
+the end of cycle 3Maar et al. Implementation Science  (2015) 10:64 Page 5 of 13
+Ethics review
+In line with the community-based participatory nature
+of the development of the I-RREACH tool, the study
+protocol was submitted for academic ethics review and
+community-based REB review (in Canada). Members of
+the research team also sought formal approval by deci-
+sion makers in each of the participating communities
+after local, in-person presentations. Academic and
+governmental ethics approv als include the following:
+The National Institute for Medical Research in Dar es
+Salaam, Tanzania (approved March 19, 2014); Queen ’s
+University Health Scienc es and Affiliated Teaching
+Hospitals Research Ethics Board, Kingston, Ontario
+(DMED-1603-13 approved June 21, 2013); and Sunnybrook
+Health Sciences Centre Research Ethics Board, Toronto,
+Ontario, (#182-2013, approved May 31, 2013). Community-
+based ethics review in Aboriginal communities included
+The Cree Board of Health and Social Services of James Bay,
+Ontario (approved September 11, 2013) and Manitoulin
+Anishinaabek Research Re view Committee (MARRC)
+Ontario (approved October 7, 2013). The study was
+also formally approved by decision making bodies in
+all participating communities through Village Councils
+approvals in Tanzania and Band Councils Resolutions in
+First Nations in Canada.
+Results
+In this section, we present (1) the theoretical basis of the
+I-RREACH tool and its implementation; (2) the three
+components of I-RREACH, its information domains aswell as the finalized version of the I-RREACH tool tai-
+lored to DREAM-GLOBAL; and (3) participant evalua-
+tions of I-RREACH during implementation.
+Resolving theoretical dissonance through consensus cycles
+Results of the first consensus cycle
+The Community Readiness Assessment (CRA) approach
+was first explored by the academic researchers as a lens
+to guide the development of the implementation tool.
+CRAs presuppose that the locus of change is solidly an-
+chored within the community, with researchers assessing
+how much the community has “to be moved though
+stages of change ”based on the transtheoretical model of
+change [33]. Further, the CRA emphasizes a predomin-
+antly quantitative approach that leads to ranking of com-
+munities (based on scores from ratings scales) with
+respect to their research readiness measured by parame-
+ters designated by the researchers. During the first con-
+sensus cycle however, stakeholders strongly advocated
+for a need to incorporate a community empowering
+CBPR approach as well as respect and understanding for
+Indigenous and community research values into the de-
+sign of the implementation tool. CRA was seen as dis-
+sonant with the aspirations of community stakeholders,
+because it ignores potential capacity gaps and changes
+required in the academic research team, health systems
+and policies that may be essential to make an interven-
+tion work in a given community. Community stake-
+holders therefore strongly rejected the CRA approach
+for DREAM-GLOBAL, as they perceived it and its useTable 2 Participant evaluation form for the I-RREACH tool
+DREAM-GLOBAL: Intervention and Research Readiness Engagement and Assessment of Community Health Care (I-RREACH) feedback form
+for participants
+Your feedback would be appreciated regarding the focus group/interview sessions for the I-RREACH project of the DREAM-GLOBAL Study.
+This feedback is very important for future planning and use of this tool and process in other communities. We would appreciate you
+taking the time to complete this evaluation form and returning it at the end of the meeting.
+Content evaluation (check one only)
+Strongly disagree Disagree Neutral Agree Strongly agree
+1. The questions asked were clear and made sense to me.
+2. I think the researcher understood my perspective (two-way exchange
+of information).
+3. After attending this focus group/interview, I have a better understanding
+of the DREAM-GLOBAL project goals and how it can be implemented.
+Cultural safety evaluation (check one only)
+4. I felt comfortable with what we discussed during the focus group/interview.
+Please Explain:
+5. The focus group/interview was a good way to exchange information and
+ideas related to the project.
+Please Explain:
+6. What did you like best about the session?
+7. Is there anything you think we should change?Maar et al. Implementation Science  (2015) 10:64 Page 6 of 13
+of rankings as unrealistic and paternalistic. While it is
+important as it has been argued in the CRA approach
+that communities pull together in the development of
+interventions [35], our CBPR showed that this is just
+one of many key issues that relates to effective imple-
+mentation. Our new understandings of the multiple fac-
+tors that may impact on implementation in communities
+in low-resource environments were incorporated into
+our implementation tool.
+Another theme which emerged during the first con-
+sensus cycle was that Aboriginal and Tanzanian research
+participants preferred to move away from disempower-
+ing outsider-based assessments of communities centered
+on what outside experts deemed as important towards a
+dialogue and knowledge exchange to co-create a shared
+understanding of implementation issues in Aboriginal
+and Tanzanian communities.
+Results of the second and third consensus cycles
+Based on community feedback in the first consensus
+cycle, a new goal was articulated to develop a qualitative
+implementation tool with the following characteristics:
+(1) to employ the principles of CBPR and affirming
+practice-based knowledge and Indigenous lived experi-
+ence; (2) to enhance bidirectional learning between re-
+searcher and community stakeholders as well as their
+collective understandings of the individual, social and
+organizational determinants that may affect the inter-
+vention; (3) to identify existing strengths and empower-
+ing approaches that may support implementation; as
+well as (4) to recognize areas where additional assistance
+may be required by researchers, communities and sys-
+tems to enable effective implementation.
+The consensus dialogue provided the impetus for a
+substantial theoretical shift of the tool from its first iter-
+ation as a researcher-driven, unidirectional assessment
+of community capacity to its final version as a collabora-
+tive, knowledge exchange and dialogue tool. As a result,
+alternative theoretical models had to be explored as the
+basis for the implementation tool and newly adjusted
+theoretical underpinnings incorporated into the tool
+were shared during the second feedback loop (see
+Table 1). The relevance of the CBPR and affirmation of
+collaboration in all aspects of implementation, as well as
+the need for capacity building with communities and
+academic researchers was confirmed. Minor adjustments
+were made and specific questions in each domain were
+developed for different audiences in the community.
+An interview guide for health care providers was de-
+veloped with a complementary focus group tool for
+community members as wel l as a fact-finding sheet
+designed to gather community specific information
+and contacts. The name of the tool was then changed
+from a ‘Community Readiness Assessment Tool ’to theIntervention and Research Readiness, Engagement and
+Assessment of Community Health Care Tool (I-RREACH)
+to reflect the commitment to a participatory approach and
+bidirectional knowledge exchange.
+Components and information domains of the finalized
+I-RREACH tool
+The information gathering and dialogue tool we devel-
+oped consists of three stages: (1) a community profile
+section with a fact table which can be populated through
+various fact-finding activities, (2) an interview guide to
+help facilitate the discussion and understanding of stra-
+tegic topics with key stakeholders in the community and
+( 3 )af o c u sg r o u pg u i d et ol e a dad i a l o g u eo nc o m m u n i t y -
+centered issues.
+I-RREACH phase 1: community profile (fact table)
+This section of the I-RREACH tool is designed to be
+employed at the start of the engagement phase. This sec-
+tion gathers relevant community profile information to
+determine if a specific community has the basic charac-
+teristics that would enable implementation of the
+intervention. Information gathering is focused on the
+community, relevant governance, health care staff, struc-
+ture and programs, infrastructure and technology as well
+as resources. This data may be found in publically avail-
+able records and during initial contacts with the com-
+munity. When this part of the I-RREACH tool is used, it
+may not be clear yet if the implementation will occur, ei-
+ther because the community has not yet fully affirmed
+interest or because certain characteristics identified in
+the community profile may exclude the community from
+participation. For example, in the DREAM-GLOBAL
+study, cell phones are used to send educational SMS text
+messages to patients and lack of cell phone coverage
+would therefore disqualify a community from participa-
+tion. Other studies may require specific health care cap-
+acities or community demographics, all of which would
+be identified during this early data collection phase.
+I-RREACH phase 2: key informant perspective
+(interview guide)
+During this phase of I-RREACH, a dialogue with key
+stakeholders is established. We learned that key stake-
+holders should be identified early on in collaboration
+with the local contacts. Key stakeholders generally are
+individuals who could have a negative or positive effect
+on the implementation of the intervention. Many of
+these key stakeholders may be affected by the interven-
+tion through training, changes in practice or additional
+responsibilities. Others may be decision makers, health
+champions or people personally affected by the health
+issue or they may wield influence in the community.
+The discussion sessions with key stakeholders in thisMaar et al. Implementation Science  (2015) 10:64 Page 7 of 13
+phase builds on the information gathered in the com-
+munity profile but elicits the more practical and
+community-specific knowledge that is needed for effect-
+ive implementation from an operational perspective.
+The interview phase also allows stakeholders to learn
+about the intervention and reflect on their expectations
+and level comfort with the project. The interview do-
+mains cover characteristics of local leadership, descrip-
+tions of services, access and awareness of relevant
+community programs, local understanding of the health
+issues, resources and planning, the perceived fit be-
+tween the intervention and community goals and finally
+the requirements and preparedness of researchers and
+community to conduct collaborative research and im-
+plementation of the intervention. Interviewers should
+continually probe for information that would lead them
+to a higher level of understanding of the role of polit-
+ics, policy and resource allocation on the health issue
+in question; the cultural context and community life;
+local interaction of medical traditions; oppressive hege-
+monic experiences in the community with health ser-
+vices or research; and community expectations related
+to the research and the academic team.
+I-RREACH phase 3: community members perspective
+(focus group guide)
+The focus group discussions with community members
+cover similar issues as the topics discussed in the previ-
+ous phase; however, the guide is designed to elicit the
+lived experience of those who are expected to be the
+main recipients of the intervention. The discussion
+framework explores the qualities of community life and
+history and how the health issue is culturally situated,
+such as the intertwining of health and social issues as
+well as expectations of community members. Providing
+a safe environment to exchange information about the
+intervention and inviting reflection on community mem-
+bers ’expectations and level comfort with the initiative
+and research team ’s readiness to work with the commu-
+nity is an important requirement in this phase.
+The domains of information covered in each of the
+I-RREACH phases are summarized in Table 3. Using
+the identified key domains, a comprehensive tool was
+developed to gather information and initiate dialogue.
+The complete tool adapted to the hypertension manage-
+ment intervention in Aboriginal communities in Canada
+and rural villages in Tanzania as part of the DREAM-
+GLOBAL RCT is provided in Additional file 1. The
+tool can be easily adapted to support implementation
+of interventions for other health issues in various
+environments.
+Gathering information on key implementation domains
+from different sources as suggested in the I-RREACH tool
+allows for rigorous data collect ion, including identification,triangulation and member chec king of implementation is-
+sues. The collected information helps implementation
+teams to build on existing community strengths and antici-
+pate and ameliorate barriers to program implementation.
+The rich qualitative data from key informants as well as
+the lived experience of community members allows re-
+searchers to gain a deeper understanding of practical im-
+plementation aspects and community expectations. This,
+in turn, allows researchers to reduce their knowledge gaps
+and respond to local needs more effectively. Further, by en-
+gaging in meaningful dialogue, it is hoped that unexpected
+miscommunications or errors made along the way will be
+similarly communicated within the team of academic and
+community members for quick resolution.
+Evaluation results of the I-RREACH tool
+The I-RREACH tool was implemented during commu-
+nity visits in five Aboriginal Communities in Canada and
+in two communities in Tanzania. A total of 135 infor-
+mants participated in twelve focus groups and seven in-
+terviews in Canada and Tanzania. Modest incentives
+were provided for participants and included a catered
+meal and small monetary compensation in recognition
+of participant ’s time and incurred expenses. Translators
+were present as required. An interactive education ses-
+sion on hypertension tailored to the audience was of-
+fered prior to the focus groups.
+After their participation in I-RREACH focus group or
+interview sessions, 83 participants completed an evalu-
+ation of the I-RREACH session. When asked to assess
+the content of the I-RREACH dialogue, most of these
+participants (98.8%) agreed or strongly agreed that the
+interview and focus group questions were clear, helped
+the researcher to understand their perspective (90.4%)
+and enhanced their understanding of the project
+(95.2%). From the perspective of cultural safety, 95.2%
+agreed or strongly agreed that they felt comfortable with
+the I-RREACH sessions and 97.6 % agreed or strongly
+agreed that the I-RREACH sessions were a good way to
+exchange ideas between the research team and the com-
+munity stakeholders. Table 4 provides the evaluation
+tool and a summary of the relative scoring completed by
+participants in this study.
+Based on an analysis of the written answers to open-
+ended questions in the evaluation, we also learned that
+the vast majority of participants were comfortable with
+what was discussed during the focus group sessions and
+also why people felt this way. The most common expla-
+nations provided included that they enjoyed learning
+about high blood pressure and its management and they
+appreciated the positive and respectful demeanor of the
+presenting research team members. This underscores
+the value of including engaging education activities
+in community visits. Many participants stated that theMaar et al. Implementation Science  (2015) 10:64 Page 8 of 13
+informal atmosphere made them feel comfortable and at
+ease. Many appreciated the opportunity to share their
+views and experiences of high blood pressure with
+others and to listen to others ’perspectives in the friendly
+and empowering atmosphere.
+Most participants indicated that no changes for
+I-RREACH were needed; however, based on the contentanalysis of the open-ended questions, some stressed the
+importance of ongoing close contact between the re-
+search team and participants, requirements for training
+opportunities for staff and support for potential partici-
+pants who struggle with healthy lifestyles due to difficult
+economic circumstances. Their recommendations are in
+line with the CBPR approach.Table 3 I-RREACH components with listing of respective information domains
+Information Domain (Phase 1) (Phase 2) (Phase 3)
+Community profile tool
+(document and internet based)Key informant perspective
+(interview guide)Community members perspective
+(focus group guide)
+Basic community descriptions Demographic information n/a n/a
+Leadership Basic contact information Formal and informal leadership;
+economic and political structuresn/a
+Community programs Contact information, addresses,
+organizational informationDescription of activities, quality,
+cultural relevance, integration
+of services, community awareness
+and access; interacting medical
+traditionsLived experience of the health issues
+in the community, cultural context,
+program quality, perspectives on
+self-management, cultural perspectives;
+interacting medical traditions
+Local understanding of the
+health issuen/a Perceived importance and
+quality of local health data on
+the issuePathways to access to health
+information
+Resources and planning Basic descriptions of funders
+and initiativesImplications of funding streams
+and planned initiativesn/a
+Perceived fit of the intervention
+with community objectivesn/a Past experiences with similar
+interventions, potential
+challenges and facilitatorsContext of culture and community,
+challenges and facilitators; medical
+traditions
+Infrastructure and technology Basic descriptions Community comfort, use of
+technology, barriersCommunity comfort, level of use in
+the community and with different
+groups
+Readiness for community-based
+researchn/a Quality of community experience
+with research; community
+expectations; competency and
+learning requirements for
+researchersQuality of community experience
+with research; commu nity expectations;
+competency and learning requirements
+for researchers; experience of past
+oppression
+Table 4 Participant evaluation tool for I-RREACH with tallies of scores and percentages of participants choosing each score
+Participant evaluation of I-RREACH
+Content evaluation
+Strongly disagree Disagree Neutral Agree Strongly agree
+1. The questions asked were clear and made sense to me. 0 0 1 32 50
+0.0% 0.0% 1.2% 38.6% 60.2%
+2. I think the researcher understood my perspective. 1 2 4 38 37
+1.2% 2.4% 4.8% 45.8% 44.6%
+3. After attending this focus group/interview, do you have a better understanding
+of the DREAM-GLOBAL project and how it can be implemented?01 3 3 9 4 0
+0.0% 1.2% 3.6% 47.0% 48.2%
+Cultural safety evaluation
+4. I felt comfortable with what we discussed during the focus group/interview. 0 2 2 29 50
+0.0% 2.4% 2.4% 34.9% 60.2%
+5. The focus group/interview was a good way to exchange information and ideas
+related to the project.10 1 4 3 3 8
+1.2% 0.0% 1.2% 51.8% 45.8%Maar et al. Implementation Science  (2015) 10:64 Page 9 of 13
+Discussion
+A focus on exchange of practical and technical knowledge
+According to Buchannan [36], the most widely shared
+definitions of theory in health sciences are still based on
+the positivist ideas that a theory should be testable and
+generalizable. While this positivist model is adequate to
+explain and predict biological aspects of health prob-
+lems, the complexity of human practices and actions
+and variability in the characteristics of health care set-
+tings makes a natural sciences model much less appro-
+priate for health care research.
+Researching not only ifbut also how an intervention
+has an impact on change on the other hand provides
+more useful knowledge and allows weak links in the
+causal chain to be strengthened during the implementa-
+tion. The UK ’s Medical Research Council ’s guidelines
+[37] for developing and evaluating randomized con-
+trolled trials for complex interventions emphasize the
+importance of understanding how and why an interven-
+tion works.
+“The rationale for a complex intervention, i.e. what
+changes are expected, and how change is to be achieved,
+may not be clear at the outset. If so, a vitally important
+early task is to develop a theoretical understanding
+of the likely process of change, by drawing on exist-
+ing evidence and theory, supplemented if necessary
+by new primary research, for example interviews with
+stakeholders ”[23].
+Similarly, Green argues that theory in health research
+should not be considered as “offering universal explana-
+tions or predictions, but rather as enhancing under-
+standing of complex situations. Such understanding will
+inevitably need to be sensitive to specific contextual fac-
+tors, and would necessarily draw on the experience of
+practitioners and communities ”[38]. The notion of
+practice-based knowledge (or praxis) focuses on what we
+have learned through experience on how to move from
+theoretical knowledge to practice at the point of inter-
+vention [39]. Aristotle is credited with advancing the
+idea of praxis as knowledge which is based on experi-
+ences with social and historical relationships which cor-
+respond to “what we might call wisdom today ”[36].
+The notions of praxis and importance of community-
+held wisdom for implementation of a complex inter-
+vention became important theoretical underpinnings
+contributing to the development of the I-RREACH
+tool, as the team drew on researcher and community
+stakeholder experience to recognize the domains that
+may impact on the effectiveness of interventions in
+Aboriginal and Tanzanian communities. Furthermore,
+community stakeholders firmly emphasized the need for
+bidirectional learning, dialogue and ongoing reflection
+related to project implementation, which will provide
+ongoing information to the research team on how theintervention is working or why it is not. Similarly,
+Leykum and colleagues have advocated for the inte-
+gration of local sensibilities and ongoing reflection into
+pragmatic research design [24]. Based on our experience
+thus far with DREAM-GLOBAL, practical reasoning can
+provide a critical lens to focus our inquiry to recognize
+and respond to insights based on the unique community
+and organizational context, circumstances and challenges
+as well as historical and cultural dimension that may
+affect the intervention.
+In order to establish good working relationships, it is
+essential that university and community-based collabora-
+tors have an in-depth understanding of one another ’s
+needs, resources and expectations related to research
+and action. Jacklin and Kinoshameg have argued that in
+order to be successful i n CBPR, researchers “must un-
+learn the expert role they have been entrenched in ”
+[40] and the I-RREACH tool can facilitate this process.
+Furthermore, implementation researchers require educa-
+tion not only by listening during the CBPR process but also
+more formally by learning about topics such as community
+history and cultural safety in research [41]. Therefore,
+research teams should also learn about and critically reflect
+on broader origins of ill health in their partner communi-
+ties through the implementation process.
+The need for critical reflection on social realities of
+partner communities
+In Canada, there is considerable evidence that govern-
+mental assimilation policies, residential schools and
+forced changes of lifestyle imposed on Aboriginal people
+have resulted in much of the disease burden and health
+inequities in Aboriginal communities seen today [42-44].
+In the past, these forms of oppression were touted as be-
+ing in the best interest of Aboriginal people. Aboriginal
+perspectives were marginalized and negative outcomes
+were frequently associated with change imposed by
+outsiders. Given this negative impact of colonialism,
+Aboriginal communities often refuse standardized solu-
+tions offered or imposed by outsiders, and researchers
+must be cognizant of these historic facts. However, the
+consequences of a colonial legacy are often difficult
+to understand for researchers and representatives of
+governmental institutions, who are typically deeply
+entrenched in their own worldviews. Canadian Indigenous
+scholar Willie Ermine aptly observes that
+“One of the festering irritants for Indigenous peoples,
+in their encounter with the West, is the brick wall
+of a deeply embedded belief and practice of Western
+universality. Central to the issue of universality is the
+dissemination of a singular world consciousness, a
+monoculture with a claim to one model of humanity
+and one model of society ”[45].Maar et al. Implementation Science  (2015) 10:64 Page 10 of 13
+The community stakeholders ’insistence in this study
+on focusing on a range of factors that may affect the
+outcomes of interventions beyond the community ’s dir-
+ect control was based on their practice-based knowledge
+as well as an understanding of the hegemony that
+Ermine describes. The unique influences that underlie
+health care barriers and disparities in Indigenous com-
+munities are complex and include key factors such as
+socioeconomic status, racism, cultural and communica-
+tion differences, rural location [46] as well as related lack
+of resources for services and lack of incentives for pro-
+viders to practice in rural areas. This perspective is also
+supported outside of the Indigenous health literature.
+For example, the notion that an intervention is af-
+fected by many factors beyond the control of the
+community is described by Tee and colleagues. They
+argue that even a strongly supported intervention
+within a health system can be seriously affected by
+“political, financial, educational, cultural, logistic, an-
+thropological, and emotional ”barriers [47]. Trickett
+and co-workers emphasize the importance of influence of
+culture, the state, policies and ideologies on community
+interventions [28].
+The situation in communities in low-income countries
+is similar as shown in a recent systematic review indicat-
+ing that health equity initiatives face potential barriers
+from a host of challenges in LMICs, including potential
+resistance from influential actors whose interests or
+values could be challenged by the intervention and social
+processes that exclude special interest groups such as
+rural communities from decision making or intended
+benefits of the intervention [48]. The review indicates
+that “politics, process and power must be integrated into
+the study of health policies and the practice of health
+system development ”. Conversely, research in South
+Africa shows the positive impact of meaningfully involv-
+ing local people including Community Health Workers
+(CHW) in community-based initiatives designed to
+develop interventions for hypertension [49].
+Finally, our evaluation data supports the theoretical
+framework and provides preliminary support for the
+validity of the I-RREACH tool as an appropriate imple-
+mentation tool from the perspective of community
+stakeholders. The evaluation data also provided import-
+ant feedback to the research team on the effectiveness of
+their approach and their own increasing level of cultural
+competence and safety. We therefore recommend that
+the evaluation form be used whenever the I-RREACH
+tool or an adapted version of it is used. Participants
+should be provided with several minutes to fill out the
+form (see Table 2) anonymously and to return forms in
+blank envelopes in order to reduce the social desirability
+bias. If participants ’literacy is not sufficient to fill out
+the form, community helpers are needed to help fill outthe forms based on the verbal feedback of each partici-
+pant (as our team did in Tanzania).
+Limitations
+The I-RREACH tool has been successfully used to sup-
+port the implementation of the DREAM-GLOBAL prag-
+matic RCT and the related health services changes with
+formal positive feedback from participants as described
+in this paper. The DREAM-GLOBAL study is still in its
+implementation phase, and comprehensive data on re-
+cruitment and retention of participating communities,
+providers and patients is not yet available. Additional
+time and research is required (1) to conduct a detailed
+process evaluation to inform best practices for the
+implementation of the tool; (2) to document how the
+I-RREACH tool and process enabled understanding
+of implementation issues that can foster effective relation-
+ships between researchers and community stakeholders
+throughout the span of a project ; and (3) to analyse the
+specific collaborative, CBPR and inter-professional skills
+required of the research team members to successfully im-
+plement I-RREACH.
+Conclusion
+The I-RREACH tool was designed to (1) pinpoint key
+domains required for dialogue between the community
+and the research team to facilitate implementation of
+complex health interventions and research projects and
+(2) to identify existing strengths and areas requiring further
+development for effective implementation. I-RREACH has
+been found to be easily adaptable to diverse geographical
+and cultural settings and can be further adapted to other
+complex interventions. Further research should include the
+potential use of the I-RREACH tool in the development of
+blue prints for scale up of successful interventions, particu-
+larly in low-resource environments. Methodological re-
+search is also needed on the ongoing requirements for
+sustainable community engagement in the implementation
+of interventions, the CBPR skills and other training re-
+quired of the academic team as well as the role of ongoing
+mindful reflection as a method of inquiry in implementa-
+tion research when the I-RREACH approach is applied to
+implementation research.
+Additional file
+Additional file 1: I-RREACH TOOL: Intervention and Research
+Readiness Engagement and Assessment of Community Health Care.
+A tool for improving implementation readiness of researchers, organizations
+and communities in a complex interventions of hypertension management
+in the First Nations, Inuit and LMIC home care.
+Competing interests
+The authors declare that they have no competing interests.Maar et al. Implementation Science  (2015) 10:64 Page 11 of 13
+Authors ’contributions
+MM drafted the paper in collaboration with ST and KY. MM and MB drafted
+the evaluation tool as well as updates of the I-RREACH tool after each of the
+consultation cycles in collaboration with ST and KY. All authors contributed
+to the design of the project, critically reviewed early drafts and approved the
+final version of the paper.
+Acknowledgements
+The authors would like to thank health care staff and leadership of both
+countries for their contributions to this participatory study. In Canada, these
+include the following: Aundeck Omni Kaning First Nation, Cree Nation of
+Chisasibi, Eel River Bar First Nation, M ’Chigeeng First Nation, Noojmowin Teg
+Health Centre, Sheshegwaning First Nation, and Wikwemikong Unceded
+Indian Reserve. In Tanzania, they include Kisiki and Lambo villages in the Hai
+district. The project is funded by the Canadian Institutes of Health Research,
+Grand Challenges Canada and the Global Alliance for Chronic Diseases. We
+thank Lisa Boesch for helping with the preparation of the manuscript. We
+thank Drs. Alison Hamilton, Bev Holmes and Alison Hutchinson for their
+insightful and constructive review and comments on our draft manuscript.
+Author details
+1Faculty of Medicine, Northern Ontario School of Medicine, Laurentian
+University, Sudbury, ON, Canada.2Department of Medicine, Queens
+University, Kingston, ON, Canada.3Riverstone Research Consulting, Guelph,
+ON, Canada.4Department of Nephrology, Sunnybrook Health Sciences
+Centre, Sunnybrook Research Institute, University of Toronto, Toronto, ON,
+Canada.5University of Ottawa Heart Institute, Ottawa, ON, Canada.
+6Department of Research, Advocacy and Health Promotion, Heart and Stroke
+Foundation of Ontario, Toronto, ON, Canada.7Department of Medicine,
+Western University, London, ON, Canada.8Wikwemikong Health Centre,
+Wikwemikong, ON, Canada.9Noojmowin Teg Health Centre, Little Current,
+ON, Canada.
+Received: 23 September 2014 Accepted: 24 April 2015
+References
+1. World Health Organization. Global status report on noncommunicable
+diseases 2010. Geneva; 2011. [http://whqlibdoc.who.int/publications/2011/
+9789240686458_eng.pdf?ua=1]
+2. Tjepkema M. The health of the off-reserve aboriginal population. Health
+Rep. 2002;13(Suppl):1 –17 [http://www.statcan.gc.ca/pub/82-003-s/2002001/
+pdf/82-003-s2002004-eng.pdf].
+3. Dinca-Panaitescu M, Dinca-Panaitescu S, Raphael D, Bryant T, Pilkington B,
+Daiski I. The dynamics of the relationship between diabetes incidence and
+low income: longitudinal results from Canada ’s National Population Health
+Survey. Maturitas. 2012;72(3):229 –35.
+4. Wijeysundera HC, Machado M, Farahati F, Wang X, Witteman W, van der
+Velde G, et al. Association of temporal trends in risk factors and treatment
+uptake with coronary heart disease mortality, 1994-2005. JAMA.
+2010;303:1841 –7.
+5. McAlister FA, Wilkins K, Joffres M, Leenen FH, Fodor G, Gee M, et al.
+Changes in the rates of awareness, treatment and control of hypertension
+in Canada over the past two decades. CMAJ. 2011;183:1007 –13.
+6. Mathers CD, Loncar D. Projections of global mortality and burden of disease
+from 2002 to 2030. PLoS Med. 2006;3(11), e442.
+7. King M. Chronic diseases and mortality in Canadian Aboriginal peoples:
+learning from the knowledge. Chronic Dis Can. 2010;31(1):2 –3.
+8. Tobe SW, Stone JA, Brouwers M, Bhattacharyya O, Walker KM, Dawes M,
+et al. Harmonization of guidelines for the prevention and treatment of
+cardiovascular disease: the C-CHANGE Initiative. CMAJ. 2011;183(15):e1135 –50.
+9. Tjepkema M, Wilkins R, Senécal S, Guimond E, Penney C. Mortality of urban
+Aboriginal adults in Canada, 1991 –2001. Chronic Dis Can. 2010;31(1):4 –21.
+10. Foulds HJA, Warburton DER. The blood pressure and hypertension
+experience among North American Indigenous populations. J Hypertens.
+2014;32(4):724 –34.
+11. Bruce SG, Riediger ND, Zacharias JM, Young TK. Obesity and obesity-related
+comorbidities in a Canadian First Nation population. Prev Chronic Dis.
+2011;8(1):a03.
+12. Yeates K, Tonelli M. Chronic kidney disease among Aboriginal people living
+in Canada. Clin Nephrol. 2010;74 Suppl 1:S57 –60.13. Yeates K. Health disparities in renal disease in Canada. Semin Nephrol.
+2010;30(1):12 –8.
+14. Edwards R, Unwin N, Mugusi F, Whiting D, Rashid S, Kissima J, et al.
+Hypertension prevalence and care in an urban and rural area of Tanzania.
+J Hypertens. 2000;18(2):145 –52.
+15. Walker R, Whiting D, Unwin N, Mugusi F, Swai M, Aris E, et al. Stroke
+incidence in rural and urban Tanzania: a prospective, community-based
+study. Lancet Neurol. 2010;9(8):786 –92.
+16. Kilonzo KG, Ghosh S, Temu SA, Maro V, Callegari J, Carter M, et al. Outcome
+of acute peritoneal dialysis in northern Tanzania. Perit Dial Int.
+2012;32(3):261 –6.
+17. Tobe SW, Touyz RM, Campbell NR. The Canadian hypertension education
+program - a unique Canadian knowledge translation program. Can J Cardiol.
+2007;23(7):551 –5.
+18. Glynn LG, Murphy AW, Smith SM, Schroeder K, Fahey T. Interventions used
+to improve control of blood pressure in patients with hypertension.
+Cochrane Database Syst Rev. 2010;3, CD005182.
+1 9 . C o l e m a nK ,A u s t i nB T ,B r a c hC ,W a g n e rE H .E v i d e n c eo nt h e
+chronic care model in the new millennium. Health Aff (Millwood).
+2009;28(1):75 –85.
+20. Tobe SW, Yeates KE, Campbell NR, Liu P. Detecting and treating high blood
+pressure in Aboriginal population and low and middle income countries
+(DREAM-GLOBAL). ClinicalTrials.gov registration: NCT02111226. 2014
+21. Haines A, Kuruvilla S, Borchert M. Bridging the implementation gap
+between knowledge and action for health. Bull World Health Organ.
+2004;82(10):724 –31.
+22. Godwin M, Ruhland L, Casson I, MacDonald S, Delva D, Birtwhistle R, et al.
+Pragmatic controlled clinical trials in primary care: the struggle between
+external and internal validity. BMC Med Res Methodol. 2003;3:28.
+23. Craig P, Dieppe P, Macintyre S, Michie S, Nazareth I, Petticrew M.
+Developing and evaluating complex interventions: new guidance.
+Medical Research Council. [http://www.mrc.ac.uk/documents/pdf/
+complex-interventions-guidance/]
+24. Leykum LK, Pugh JA, Lanham HJ, Harm on J, McDaniel Jr RR. Implementation
+research design: integrati ng participatory action research into randomized
+controlled trials. Implement Sci. 2009;4:69.
+25. Viswanathan M, Ammerman A, Eng E, Gartlehner G, Lohr KN, Griffith D, et al.
+Community-based participatory research: assessing the evidence. Rockville, MD:
+Agency for Healthcare Research and Quality; 2004. http://www.ahcpr.gov/
+downloads/pub/evidence/pdf/cbpr/cbpr.pdf.
+26. Israel BA, Schulz AJ, Parker EA, Becker AB. Review of community-based
+research: assessing partnership approaches to improve public health. Annu
+Rev Public Health. 1998;19:173 –202.
+27. Rivkin I, Trimble J, Lopez EDS, Johnson S, Orr E, Allen J. Disseminating
+research in rural Yup ’ik communities: challenges and ethical considerations
+in moving from discovery to intervention development. Int J Circumpolar
+Health. 2013;72:1 –8.
+28. Trickett EJ, Beehler S, Deutsch C, Green LW, Hawe P, McLeroy K, et al.
+Advancing the science of community-level interventions. Am J Public
+Health. 2011;101(8):1410 –9.
+29. Warry W. Doing unto others: applied anthropology, collaborative research
+and Native self-determination. Culture. 1990;10(1):61 –73.
+30. Maar M, Seymour A, Sanderson B, Boesch L. Reaching agreement for
+an Aboriginal e-health research ag enda: the Aboriginal telehealth
+knowledge circle consensus method. Rural Remote Health.
+2010;10(1):1299.
+31. Fink A, Kosecoff J, Chassin M, Brook RH. Consensus methods: characteristics
+and guidelines for use. Am J Public Health. 1984;74(9):979 –83.
+32. Kelly K, Edwards R, Comello MLG, Plested BA, Jumper-Thurman P, Slater M.
+The community readiness model: a complementary approach to social
+marketing. Mark Theory. 2003;3(4):411 –26.
+33. Edwards RW, Jumper-Thurman P, Plested BA, Oetting ER, Swanson L.
+Community readiness: research to practice. J Community Psychol.
+2000;28(3):291 –307.
+34. Plested BA, Edwards RW, Jumper-Thu rman P. Community readiness: a handbook
+for successful change. Fort Collins: Tri-Ethnic Center for Prevention Research;
+2006. http://www.nami.org/Content/NavigationMenu/NAMI_Center_for_
+Excellence/Tools_for_Excellence/CommunityReadinessHandbook.pdf.
+35. Plested BA, Jumper-Thurman P, Edwards RW, Oetting ER. Community
+readiness: a tool for effective community-based prevention. Prevention
+Researcher. 1998;5(2):5 –7.Maar et al. Implementation Science  (2015) 10:64 Page 12 of 13
+36. Buchanan DR. Reflections on the relationship between theory and practice.
+Health Educ Res. 1994;9(3):273 –83.
+37. Craig P, Dieppe P, Macintyre S, Michie S, Nazareth I, Petticrew M.
+Developing and evaluating complex interventions: the new Medical
+Research Council guidance. BMJ. 2008;337:a1655.
+38. Green J. The role of theory in evidence-based health promotion practice.
+Health Educ Res. 2000;15(2):125 –9.
+39. Warry W. The eleventh thesis: applied anthropology as praxis. Hum Organ.
+1992;51(2):155 –63.
+40. Jacklin K, Kinoshameg P. Developing a participatory Aboriginal health
+research project: “Only if it ’s going to mean something ”. J Empir Res Hum
+Res Ethics. 2008;3(2):53 –67.
+41. Maar MA, Lightfoot NE, Sutherland ME, Strasser RP, Wilson KJ, Lidstone-
+Jones CM, et al. Thinking outside the box: Aboriginal peoples ’suggestions
+for conducting health studies with aboriginal communities. Public Health.
+2011;125(11):747 –53.
+42. Waldram JB, Herring DA, Young TK. Aboriginal health in Canada historical,
+cultural and epidemiological perspectives. 2nd ed. Toronto: University of
+Toronto Press; 2006. p. 48 –172.
+43. Royal Commission on Aboriginal Peoples. Report of the Royal Commission
+on Aboriginal Peoples. Ottawa: The Commission; 1996.
+44. First Nations Information Governance Centre (FNIGC). First Nations Regional
+Health Survey (RHS) 2008/10: national report on adults, youth and children
+living in First Nations communities. Ottawa: FNIGC; 2012.
+45. Ermine W. The ethical space of engagement. Indigenous Law J. 2007;6(1)
+46. Marrone S. Understanding barriers to health care: a review of disparities in
+health care services among indigenous populations. Int J Circumpolar
+Health. 2007;66(3):188 –98.
+47. Tee A, Calzavacca P, Licari E, Goldsmith D, Bellemo R. Bench-to-bedside
+review: the MET syndrome –the challenges of researching and adopting
+medical emergency teams. Crit Care. 2008;12(1):205.
+48. Gilson L, Raphaely N. The terrain of health policy analysis in low and middle
+income countries: a review of published literature 1994 –2007. Health Policy
+Plan. 2008;23(5):294 –307.
+49. Bradley HA, Puoane T. Prevention of hypertension and diabetes in an urban
+setting in South Africa: participatory action research with community health
+workers. Ethn Dis. 2007;17(1):49 –54.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at 
+www.biomedcentral.com/submitMaar et al. Implementation Science  (2015) 10:64 Page 13 of 13

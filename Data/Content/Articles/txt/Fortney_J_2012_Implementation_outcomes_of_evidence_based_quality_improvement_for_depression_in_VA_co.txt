@@ -1,0 +1,784 @@
+RESEARCH Open Access
+Implementation outcomes of evidence-based
+quality improvement for depression in VAcommunity based outpatient clinics
+John Fortney1,2,3*, Mark Enderle4,9, Skye McDougall5, Jeff Clothier3,10, Jay Otero6, Lisa Altman7,8and
+Geoff Curran1,2,3
+Abstract
+Background: Collaborative-care management is an evidence-based practice for improving depression outcomes in
+primary care. The Department of Veterans Affairs (VA) has mandated the implementation of collaborative-care
+management in its satellite clinics, known as Community Based Outpatient Clinics (CBOCs). However, theorganizational characteristics of CBOCs present added challenges to implementation. The objective of this studywas to evaluate the effectiveness of evidence-based quality improvement (EBQI) as a strategy to facilitate theadoption of collaborative-care management in CBOCs.
+Methods: This nonrandomized, small-scale, multisite evaluation of EBQI was conducted at three VA Medical
+Centers and 11 of their affiliated CBOCs. The Plan phase of the EBQI process involved the localized tailoring of the
+collaborative-care management program to each CBOC. Researchers ensured that the adaptations were evidencebased. Clinical and administrative staff were responsible for adapting the collaborative-care management programfor local needs, priorities, preferences and resources. Plan-Do-Study-Act cycles were used to refine the programover time. The evaluation was based on the RE-AIM (Reach, Effectiveness, Adoption, Implementation, Maintenance)
+Framework and used data from multiple sources: administrative records, web-based decision-support systems,
+surveys, and key-informant interviews.
+Results: Adoption: 69.0% (58/84) of primary care providers referred patients to the program. Reach: 9.0% (298/3,296)
+of primary care patients diagnosed with depression who were not already receiving specialty care were enrolled in
+the program. Fidelity: During baseline care manager encounters, education/activation was provided to 100% (298/
+298) of patients, barriers were assessed and addressed for 100% (298/298) of patients, and depression severity was
+monitored for 100% (298/298) of patients. Less than half (42.5%, 681/1603) of follow-up encounters during the
+acute stage were completed within the timeframe specified. During the acute phase of treatment for all trials, thePatient Health Questionnaire (PHQ9) symptom-monitoring tool was used at 100% (681/681) of completed follow-up encounters, and self-management goals were discussed during 15.3% (104/681) of completed follow-upencounters. During the acute phase of treatment for pharmacotherapy and combination trials, medicationadherence was assessed at 99.1% (575/580) of completed follow-up encounters, and side effects were assessed at92.4% (536/580) of completed follow-up encounters. During the acute phase of treatment for psychotherapy andcombination trials, counseling session adherence was assessed at 83.3% (239/287) of completed follow-up
+encounters. Effectiveness: 18.8% (56/298) of enrolled patients remitted (symptom free) and another 22.1% (66/298)
+responded to treatment (50% reduction in symptom severity). Maintenance: 91.9% (10/11) of the CBOCs chose to
+sustain the program after research funds were withdrawn.
+* Correspondence: John.Fortney@va.gov
+1Health Services Research and Development, Central Arkansas Veterans
+Healthcare System, North Little Rock, AR, USA
+Full list of author information is available at the end of the articleFortney et al .Implementation Science 2012, 7:30
+http://www.implementationscience.com/content/7/1/30
+Implementation
+Science
+© 2012 Fortney et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in
+any medium, provided the original work is properly cited.
+Conclusions: Provider adoption was good, although reach into the target population was relatively low. Fidelity
+and maintenance were excellent, and clinical outcomes were comparable to those in randomized controlled trials.
+Despite the organizational barriers, these findings suggest that EBQI is an effective facilitation strategy for CBOCs.
+Trial registration: Clinical trial # NCT00317018.
+Introduction
+Collaborative-care management (CCM) is an evidence-
+based practice that involves a multidisciplinary depres-sion care team (e.g., primary care providers, nurse care
+managers, pharmacists, psychologists, psychiatrists) pro-
+viding guideline-concordant depression treatment in theprimary care setting. Numerous effectiveness studieshave demonstrated that CCM improves outcomes forprimary care patients treated for depression [1-10]. TheCCM model has been rolled out nationally in the UnitedStates by the Department of Veterans Affairs (VA) Med-ical Centers as part of the Primary Care/Mental Health
+Integration Initiative [11].
+More recently, the VA has encouraged the implemen-
+tation of CCM in its Community Based Outpatient
+Clinics (CBOCs), where 64% of veterans receive theircare [12], and mandated implementation in those cate-gorized as large (5,000-10,000 patients) and very large (>10,000 patients). Veterans treated at CBOCs have simi-lar demographic characteristics as veterans treated at
+VA Medical Centers (VAMCs) [13]. All CBOCs provide
+primary care services, and most large and very largeCBOCs also provide specialty mental health services.However, veterans treated in CBOCs have significantlyfewer mental health visits than do veterans treated atVAMCs [14]. Twenty-six per cent of CBOCs are private
+clinical organizations contracting with the VA to pro-vide primary care services to veterans [12]. Veterans
+treated in contract CBOCs have significantly fewer men-
+tal health visits than do veterans treated in VA-staffed(i.e., owned and operated) CBOCs [15]. While CCM
+could potentially address this disparity, there are numer-ous barriers to implementin gac o m p l e xc l i n i c a lp r o -
+gram like CCM in small contract CBOCs.
+The organizational characteristics of contract CBOCs
+present added challenges to the implementation of
+CCM. For example, contract CBOCs receive capitated
+payments (a fixed amount per enrollee to cover adefined scope of services) from the VA and, thus, mustconsider the financial risk associated with depressionquality-improvement efforts. As a result, contractCBOCs may be less willing to comply with VA quality-improvement initiatives compared to VA-staffed clinics,unless these initiatives are embedded into their legal
+contracts. In addition, the majority of contract CBOCs
+do not have on-site psychiatrists, and because half of
+contract CBOCs are located in rural areas, [16]recruiting psychiatrists to small contract CBOCs is typi-cally not feasible. A previous randomized trial documen-ted that the CCM model can be adapted usingtelemedicine technologies to effectively improve out-
+comes for patients treated in CBOCs without on-sitepsychiatrists [17]. While there is good evidence that tel-emedicine-based CCM improves outcomes in contractCBOCs, no implementation strategy is known to beeffective for this type of organizational context.
+The overall goal of our research was to facilitate the
+adoption of telemedicine-based CCM in contractCBOCs. The Promoting Action on Research in Health
+Services (PARiHS) framework proposes that successful
+adoption of an evidence-based practice depends on (1)evidence, (2) context, and (3) facilitation [18]. Evidenceincludes results from randomized trials, as well as anec-dotal evidence from clinical experience [19,20]. Contextincludes both factors internal to the organization, suchas culture, climate, and capacity, [21-29] as well asexternal forces, such as mandates and performance mea-
+sures. Facilitation typically involves an integrated set of
+implementation strategies to promote adoption. In this
+study, we used a facilitation method known as evidence-based quality improvement (EBQI). EBQI has been usedsuccessfully to implement CCM in VA Medical Centers[30]. Our specific objective was to test the feasibility ofEBQI as an implementation strategy for telemedicine-based CCM in contract CBOCs. Results should inform
+efforts to roll out complex evidence-based practices to
+small satellite clinics of integrated healthcare systems.
+EBQI was developed by Rubenstein and colleagues
+based on the findings of the Mental Health AwarenessProject, which compared two quality-improvement stra-tegies for depression in pri mary care [31,32]. Clinics
+were randomized to either a top-down centralized qual-ity-improvement model or a bottom-up locally driven
+quality-improvement model [32] The top-down
+approach involved centralized experts implementingdepression evidence-based practices, with some input
+from local primary care staff. The bottom-up approachinvolved local clinical staff implementing depression evi-dence-based practices, with some input from experts.The bottom-up quality-improvement teams had boththe best and worst outcomes in terms of fidelity to the
+evidence base [32]. This fin ding suggests that the bot-
+tom-up approach has the best potential for quality
+improvement but is subject to substantial variationFortney et al .Implementation Science 2012, 7:30
+http://www.implementationscience.com/content/7/1/30Page 2 of 15
+depending on local climate, culture, and capacity [32].
+These findings are consiste nt with two well-designed
+implementation studies that found that traditional con-tinuous quality-improvement models do not improvedepression outcomes [33,34]. Qualitative analyses of theMental Health Awareness Project also indicated that the
+top-down approach was more efficient, but the project
+failed to attain buy-in from local clinicians and adminis-trators [35]. In contrast, the bottom-up quality-improve-ment approach promoted customization and buy-in butwas perceived to be overly time-consuming and ineffi-cient ( e.g., reinventing the wheel) [35]. Based on these
+findings, the EBQI model was developed, which involvesboth centralized strategic decision making and local tac-
+tical decision making [35]. There is a growing consensus
+among implementation experts [36-38] and frontlineclinicians and managers [32,35,39] that quality-improve-ment strategies that incorporate both top-down and bot-tom-up approaches hold the most promise for sustainedimplementation of evidence-based practices.
+In EBQI, both researchers (clinical experts, implementa-
+tion experts) and local staff participate fully in the quality-
+improvement process, with th e researchers facilitating
+rather than dictating implementation efforts [32,35,39].
+Thus, EBQI is intended to foster a researcher/clinicianpartnership that promotes buy-in from leadership [40,41].Lack of support from leadership has been shown to be oneof the most important barriers to the implementation ofthe CCM [42]. While emphasizing the involvement of out-side experts and empirical evidence, EBQI stresses that an
+organization ’s own healthcare professionals and staff are
+best positioned to improve the ir systems [40]. Clinicians
+and administrators contribute the local knowledge needed
+to tailor the evidence-based practice for their own particu-lar needs and organizational capabilities. Researchers con-tribute knowledge of the evidence base; ensure fidelity tothe evidence base; and supply materials, procedures, andtools needed for successful implementation. In addition to
+providing expertise, researchers in the EBQI model also
+facilitate problem solving and provide ongoing technicalsupport for developing data collection/analysis tools, infor-matics, and training materials. EBQI also emphasizes con-tinuously revising the adapte de v i d e n c e - b a s e dp r a c t i c e
+based on feedback during Plan-Do-Study-Act cycles and,thus, should lead to adapted evidence-based practices thatare robust, user friendly, and feasible to deploy in real-
+world practice settings. The primary objective of this
+research was to test the feasibility of EBQI as a facilitationstrategy for implementing telemedicine-based CCM incontract CBOCs.
+Methods
+This nonrandomized, small-scale, multisite evaluation ofEBQI was conducted at three VAMCs and theiraffiliated CBOCs located in two regional Veterans Inte-grated Service Networks (VISNs) in the United States.The VAMCs participating in the implementation werechosen based on their number of affiliated contractCBOCs, their willingness to participate, and their poten-tial for success as perceived by VISN leadership. The
+three VAMCs were affiliated with 11 contract CBOCs.
+Implementation strategy
+Each of the three VAMCs had an EBQI team comprised
+of stakeholders from mental health, primary care, andthe CBOCs, as well as the principal investigator. Therewere no EBQI meetings involving team members frommultiple sites, although the principal investigator shared
+solutions and tools across sites to increase implementa-
+tion efficiency. Two of the VAMCs chose to have thetelemedicine-based CCM program operated by ( i.e.,
+administratively housed in) Mental Health, and the thirdchose to have the program operated by Primary Care.Especially important for this EBQI process was theinvolvement and buy-in from leadership. Conceptualmodels of implementation and theories of organizational
+change strongly emphasize the importance of buy-in
+from leadership [20,36,43]. Therefore, we designed ourEBQI process to engage and leverage clinic leadership.However, personnel from the contract CBOCs could notparticipate in the EBQI process directly because contractCBOCs were not under the purview of an InstitutionalReview Board and, therefore, could not be directlyengaged in research. Instead, the CBOC liaison at the
+VAMC represented the view of CBOC stakeholders.
+The initial Plan phase of the EBQI process involved
+the localized tailoring of t he telemedicine-based CCM
+model to each VAMC and their CBOCs. Planning was
+based on the Steps and Decisions Guide for Implement-
+ing Depression CCM Models , which was developed spe-
+cifically for the study [44]. The CCM experts utilizedtheir experience implementing depression research pro-
+tocols and their knowledge of the depression and qual-
+ity-improvement literature t o ensure the adaptations to
+the telemedicine-based CCM model were evidencebased. The chiefs of mental health/primary care, depres-sion nurse care managers, other clinical leaders at theVAMC, and the CBOC liaison s were responsible for
+championing the implementation of the program andadapting the telemedicine-based CCM for local needs,
+priorities, preferences, and resources (within the fidelity
+parameters defined by the CCM experts). For example,
+each EBQI team developed unique criteria and methodsfor identifying which patients were ineligible due to sub-stance dependence. In addition, particular attention wasdevoted to aligning the telemedicine-based CCM pro-gram with the VA depression performance measures.Performance measures are reported by the VA CentralFortney et al .Implementation Science 2012, 7:30
+http://www.implementationscience.com/content/7/1/30Page 3 of 15
+Office on a quarterly basis and determine the salary
+bonuses of VAMC Directors.
+The Do phase at each of the VAMCs involved the
+initial launch of the program, following a site visit fromthe depression care manager at the CBOC considered tohave the highest chances for success. Beginning with
+just one site allowed us to identify and resolve any
+unforeseen problems before launching the program atother CBOCs. It also allowed us to share any short-termsuccess experienced by this CBOC with the clinicians atother CBOCs in order to promote provider adoption.Subsequent Do phases involved the launches of the pro-gram at the other CBOCs. The Study phase includedmonthly EBQI conference calls with each site that dis-
+cussed the implementation efforts. These calls were
+informed by the data from the Net Decision SupportSystem (NetDSS) depression care manager workloadreports that provided information about patient enroll-ment and fidelity to the care manager protocol (seedescription below), as well as anecdotal experiences ofthe care managers and their psychiatrist supervisors.Any implementation problem s were discussed during
+the monthly conference calls and/or via email with thestakeholders. The Act phases of the EBQI processinvolved the refinement of t he adapted telemedicine-
+based CCM program based on the implementationexperiences and data collection described above as thePlan-Do-Study-Act cycle was repeated.
+Training and decision-support tools
+The implementation experts also developed training anddecision-support tools to p romote fidelity to the evi-
+dence base. Depression care managers were trainedusing the VA Mental Health QUERI Depression Care
+Manager Training Manual , which was specifically devel-
+oped for the study. A PowerPoint (Microsoft Corpora-tion, Redmond, WA, USA) slide set was also developedto facilitate face-to-face training of the depression care
+managers. In addition, a web-based decision-support
+system (NetDSS) and a NetDSS User ’s Guide were speci-
+fically developed for the study to promote care managerfidelity [45]. Difficulty with information technology isone of the most commonly reported barriers to CCMadoption, [42] especially information technology sup-porting symptom monitoring [46]. NetDSS is based on ahighly structured interven tion protocol used for a pre-
+vious effectiveness study of telemedicine-based CCM[19]. NetDSS provides context-specific decision supportin real time during patient encounters by guiding caremanagers through an evidence-based encounter usingself-scoring instruments, scripts, and clinical algorithmsto identify new medication trials or counseling trials,treatment phases, and outcome milestones, such astreatment response ( i.e., 50% reduction in symptomseverity), remission (i.e ., symptom free), and relapse.
+NetDSS is self-documenting and automatically generatesa progress note at the end of the encounter, which wascopied and pasted into the electronic health record.NetDSS functionality is divid ed into five categories: (1)
+panel management, (2) trial management, (3) clinical
+decision support, (4) progress note generator, and (5)
+workload/outcomes report g enerator. NetDSS was con-
+tinuously revised based on feedback from the depressionnurse care managers as part of the Plan-Do-Study-Actprocess. The NetDSS workload reports were used toprovide fidelity and outcomes data to the EBQI teamsfor the Plan-Do-Study-Act process.
+Evaluation
+The evaluation was based on the RE-AIM (Reach, Effec-tiveness, Adoption, Implementation, Maintenance) Fra-mework [47-50]. Reach represents the absolute number/
+proportion of eligible/targe ted patients who receive the
+evidence-based practice [47]. Adoption represents the
+absolute number/proportion of staff who use the evi-dence-based practice [47]. Implementation represents
+the fidelity of the evidence-based practice as implemen-ted in routine care [47]. Effectiveness represents the clin-
+ical impact (on patient outcomes) of the evidence-basedpractice as implemented in routine care settings [49].Maintenance represents the degree to which the imple-
+mentation of the evidence-based practice is sustained[47]. To have an impact on health at the populationlevel, an intervention must be adopted by providers,
+reach a large proportion of the targeted patient popula-
+tion, be implemented with fidelity, effectively improve
+outcomes, and be maintained after research funds are
+withdrawn. In addition, we measured implementationcosts.
+Adoption
+To measure adoption, data were extracted from the
+Medical SAS Datasets at the A ustin Information Tech-
+nology Center. The post-period was defined as the 12
+months after each CBOC start date (defined as the datethe first patient was enrolle d in the telemedicine-based
+CCM program), which ranged from April 2006 to Feb-ruary 2008. The number of primary care providers ateach CBOC was determined from the SAS MedicalDatasets using unique provider IDs for all types of pri-
+mary care providers ( e.g., general internist, advance
+practice nurse). The number of primary care providers
+referring a patient to a depression care manager duringthe 12-month post-period was identified from NetDSS.T h ea d o p t i o nr a t ef o re a c hC B O Cw a sd e f i n e da st h etotal number of primary care providers referring apatient to the depression care manager (identified fromNetDSS) during the 12-month period divided by theFortney et al .Implementation Science 2012, 7:30
+http://www.implementationscience.com/content/7/1/30Page 4 of 15
+total number of primary care providers seeing patients
+during the 12-month period (identified from SAS Medi-cal Datasets).
+Reach
+To measure reach, data were extracted from the SAS
+Medical Datasets at the Austin Information Technology
+Center for the 12-month post-period. Index visits forpatients during the 12-month post-period were definedas the first primary care encounter at the CBOC with adepression diagnosis. Patients were excluded if they hada specialty mental health vi sit or a diagnosis of bipolar
+disorder or schizophrenia during the six months priorto the CBOC start date or if the index visit was a speci-
+alty mental health encounter. The number of patients
+referred to the depression care manager during the 12-month post-period was identified from NetDSS. Reachduring the 12-month post-period at each CBOC wasdefined as the total number of patients referred to thedepression care manager (identified from NetDSS)divided by the total number of patients with a depres-sion diagnosis who were not already receiving specialty
+care (identified in the SAS Medical Datasets).
+Implementation/fidelity
+To measure fidelity, data were extracted from NetDSS for
+the 12-month post-period. NetDSS automatically collectsdata about whether care-manager modules were com-pleted during care-manager encounters. Fidelity duringthe acute and continuation phases of treatment was
+reported in aggregate using the NetDSS outcomes reports
+routine. For the first encounter during the acute phase oftreatment, the fidelity measures included the proportion ofpatients receiving education /activation, barrier assess-
+ment/resolution, and Patie nt Health Questionnaire
+(PHQ9) depression symptom monitoring. For follow-upencounters during the acute phase of treatment, fidelitymeasures included the proportion of encounters where
+self-management goals were discussed, depression symp-
+toms were monitored, medication adherence and side-effects were assessed (for pharmacotherapy and combina-tion pharmacotherapy/psychotherapy trials only), andcounseling adherence was assessed (for psychotherapy andcombination trials only). In addition, NetDSS reports whatportion of follow-up encounters were completed withinthe prespecified timeframe: every two weeks in the acute
+phase for pharmacotherap y and combination pharma-
+cotherapy/psychotherapy trials, every four weeks for
+watchful waiting and psychotherapy-only trials, and everyfour weeks for all trials in the continuation phase.
+Effectiveness
+To measure effectiveness, data were extracted from theNetDSS final disposition codes for patients enrolledduring the 12-month post-period. Final dispositioncodes were as follows: 1 = remitted and completed thecontinuation, 2 = responded (> 50% reduction in PHQ9score) and completed the continuation phase withoutrelapsing, 3 = unable to complete baseline assessment orlost to follow-up, 4 = disenrolled at patient ’sr e q u e s t ,5
+= disenrolled at provider ’s request, 6 = became ineligible
+(e.g., entered a nursing home or moved away), and 7 =
+referred to a higher level of care ( e.g., specialty mental
+health) due to lack of response or detection of complexpsychiatric comorbidities.
+Maintenance
+Maintenance represents the sustainability of the teleme-
+dicine-based CCM program and the extent to which it
+has been institutionaliz ed into the organization ’s prac-
+tices and policies. Maintenance was measured using twocomplementary instruments approximately a year afterthe last CBOC enrolled its first patient into the teleme-dicine-based CCM program, when research funds wereno longer supporting the salary of clinical personnel.The Level of Use interview [51] measured sustained use
+of the program, and the Level of Institutionalization sur-
+vey [52] measured the degree to which the program wasinstitutionalized within the organization. Level of Usewas measured using key infor mant interviews with the
+Medical Directors of each of the 11 CBOCs and theChief of Mental Health or Chief of Primary Care at theVAMC (depending on which service line operated theprogram). Using a structured interview guide and induc-
+tive questioning, the Level of Use framework classified
+the CBOCs into eight ranked levels of adoption accord-ing to their adoption behaviors. The first three levelsdistinguish between stages of nonuse (nonuse, orienta-tion, and preparation). The next five levels distinguishbetween stages of use (mechanical, routine, refinement,integration, renewal), and these distinctions are madebased on the type of adaptations or refinements that are
+being made to the innovation. Level of Institutionaliza-
+tion was measured via telephone survey of the Chief ofMental Health or Chief of Primary Care at the VAMC(depending on which service line operated the program).Institutionalization impli es that the organization has
+modified itself to incorporate the innovation and thatthe innovation has ceased to become novel and hasbeen embedded in standard operating procedures. The
+Level of Institutionalization instrument measures an
+innovation ’s institutionalization among four subsystems:
+production, maintenance, su pportive, and managerial.
+The production subsystem is responsible for delivering
+clinical services; to be insti tutionalized, the innovation
+must be integrated with other routine clinical services.The maintenance subsystem represents personnel; to beinstitutionalized, the innovation must be supported byFortney et al .Implementation Science 2012, 7:30
+http://www.implementationscience.com/content/7/1/30Page 5 of 15
+permanent employees. The supportive subsystem repre-
+sents external organizationa l forces; to be institutiona-
+l i z e d ,t h ei n n o v a t i o nm u s th a v eas t a b l es o u r c eo ffunding and permanent office space. The managerialsubsystem represents the executive and supervisoryfunctions; to be institutio nalized, the innovation must
+be assigned to a specific service, staff must have writtenjob descriptions, and performance measures and pro-gress reports must be required. For each subsystem, theLevel of Institutionalizatio n survey asks the respondent
+about the degree to which the organization has institu-
+tionalized the innovation ( e.g., supported by permanent
+employees), and the responses are averaged to calculatean overall mean for each subsystem. The Level of Insti-
+tutionalization instrument has three levels for each sub-
+system: low institutionalization (mean score ≤2),
+moderate institutionalization (2 < mean score ≤3) and
+high institutionalization (mean score > 3).
+Pre-implementation planning and fixed implementation
+costs
+Pre-implementation planning costs represent the cost
+that a VAMC would incur to implement a telemedicine-
+based CCM model in CBOCs. The total cost of attend-ing EBQI meetings was calculated by multiplying thenumber of meetings each EBQI member attended bytheir hourly wage estimated from their grade and step(or nurse level). The total cost of implementation activ-ities between EBQI meetings was calculated by multiply-ing the estimated hours per month devoted to
+implementation activities by the hourly wage estimated
+from grade and step (or nurse level). Fixed implementa-tion costs represent the one-time cost of implementingtelemedicine-based CCM, including the development oftheVA Mental Health QUERI Depression Care Manager
+Training Manual , NetDSS (web-based decision support
+system), and the NetDSS User ’sG u i d e . These costs were
+calculated by estimating the number of hours worked
+on each of these activities and from final budget expen-
+ditures. These fixed costs would not be incurred forVAMCs implementing the telemedicine-based CCMmodel in CBOCs in the future.
+The research was approved by the Institutional Review
+Boards of the Central Arkansas Veterans HealthcareSystem, the Greater Los Angeles Healthcare System, andthe Loma Linda Healthcare System.
+Results
+Characteristics of contract community based outpatient
+clinics
+The characteristics of the 11 participating CBOCs are
+presented in Table 1. During the 12-month post-period,42,330 unique patients were treated at the 11 CBOCs.The number of patients ranged from 1,325 to 7,411across the CBOCs, placing the clinics in the small (<1,500 patients), medium (1,500-5,000 patients), andlarge (5,000-10,000 patients) categories. On average, thepercent of patients diagnosed with depression (but with-out a specialty mental health visit or a diagnosis of bipo-lar disorder or schizophrenia) ranged from 4.5% to
+12.3%, with an average of 7.8% across the CBOCs.
+Among this group of patients eligible for depressioncare management (n = 3,296), the number of depres-sion-related primary care encounters per patient duringthe 12-month post-period ranged from 1.1 to 1.8, withan average of 1.3 (standard deviation [SD] = 0.6), whichwas about two-thirds of the total number of primarycare encounters. Also among this group, the number of
+depression-related specialty mental health visits during
+the 12-month post-period ranged from 0.3 to 1.4, with
+an average of 0.5 (SD = 1.8), which accounted for abouthalf of the total number of specialty mental health visits.
+Evidence-based quality-improvement process
+An average of 11.7 (range = 9-14) staff members partici-pated in at least one EBQI meeting at each of the
+affiliated VAMCs, but only 4.7 (range = 3-6) partici-
+pated in five or more EBQI meetings on average. Theduration of the EBQI process averaged 21.3 months(range = 16-25) across the three VAMCs, and the aver-age number of EBQI meetings was 13.7 (range = 13-15).Of those participating in five or more meetings, theaverage number of hours per month spent on imple-mentation efforts was 13.3 (range = 5.5-19.6). Of the
+EBQI team members, the depression nurse care man-
+agers spent the most hours per month on implementa-tion efforts (mean = 28.7, range = 16-45).
+Collaborative-care management program structure
+All three VAMCs chose to include one depression nursecare manager available by telephone and one supervisingtele-psychiatrist on the CCM team. The two programs
+that were operated by Mental Health were able to
+obtain psychiatric supervision for the depression caremanagers more easily than the site operated by PrimaryCare. Other types of providers ( e.g., pharmacists, psy-
+chotherapists) were not included on any of the CCMteams. Each VAMC chose to pilot the telemedicine-based CCM program at one CBOC first and then spreadthe program to other CBOCs affiliated with the VAMC.
+All three VAMCs chose to enroll only patients who
+were referred to the care manager by their primary careprovider. In contrast, none of the VAMCs chose to tar-get all patients screening positive for depression, or allpatients diagnosed with depression, or all patients initi-ating antidepressant treatment. However, all threeVAMCs did choose to use an existing Depression CaseFinder to identify patients targeted by VA depressionFortney et al .Implementation Science 2012, 7:30
+http://www.implementationscience.com/content/7/1/30Page 6 of 15
+performance measures ( e.g., those with a new diagnosis
+and a new antidepressant prescription) and to request
+consults (i.e ., provider referrals) to the program for
+these patients. In addition, care manager clinic codes,
+diagnoses, and Current Procedural Terminology (CPT)codes were chosen to ensure that care manager encoun-ters contributed to the VA depression follow-up visitperformance measure. All three VAMCs chose toexclude patients with serious mental illnesses, as well aspatients already receiving (or eventually referred) to spe-
+cialty mental health. However, in actuality, care man-
+agers sometimes continued to provide care managementto patients referred to their supervising tele-psychiatristfor ongoing care. Care management activities at allthree VAMCs included education/activation, barrierassessment/resolution, symptom monitoring, medicationadherence monitoring, side-effects monitoring, and self-management. All of the VAMCs chose to exclude brief
+counseling as a care manager activity to maximize the
+caseload capacity of the care manager. None of theVAMCs developed formal guidelines ( e.g., decisionnodes) for referring patients from the telemedicine-based CCM program to specialty mental health ( i.e., to
+a higher level of care), but rather, this decision was leftto the discretion of the care manager ’s supervising tele-
+psychiatrist.
+Adoption
+There were 84 primary care providers who diagnosedone or more patients with depression at the implemen-tation CBOCs during the 12-month post-period.
+Approximately 69.0% (58/84) of these providers referred
+at least one patient to the depression care manager.Adoption rates ranged across CBOCs from a low of33.3% to a high of 100% (see Figure 1).
+Reach
+There were 3,296 patients diagnosed with depression(but without a prior specialty mental health visit or a
+diagnosis of bipolar disorder or schizophrenia) at imple-
+mentation CBOCs during the 12-month post-period.Nine percent (298/3296) of these patients had anTable 1 Patterns of depression treatment during the 12-month post-implementation period by study site
+Facility Unique
+number of
+patientsUnique number of
+patients diagnosed
+with depressionMean primary
+care visits per
+patientMean primary care
+visits for depression
+per patientMean specialty
+mental health visits
+per patientMean specialty mental
+health visits for
+depression per patient
+VAMCA
+CBOC
+13474 243
+(7.0%)2.0 1.2 0.8 0.4
+CBOC21968 112
+(5.7%)1.9 1.3 1.2 0.8
+CBOC34534 487
+(10.7%)1.7 1.3 0.8 0.3
+CBOC41325 163
+(12.3%)2.1 1.8 1.8 1.4
+VAMCB
+CBOC
+54545 203
+(4.5%)1.9 1.2 1.6 0.4
+CBOC65341 431
+(8.1%)1.7 1.2 1.1 0.6
+CBOC77411 673
+(9.1%)1.6 1.3 0.8 0.4
+CBOC82374 162
+(6.8%)1.8 1.3 2.0 0.9
+CBOC93642 182
+(5.0%)1.8 1.1 0.9 0.5
+VAMCC
+CBOC
+103252 279
+(8.6%)2.0 1.3 1.1 0.6
+CBOC114464 361
+(8.1%)2.4 1.4 1.0 0.6
+Total 42,330 3,296
+(7.8%)1.9
+(SD = 1.2)1.3
+(SD = 0.6)1.1
+(SD = 4.7)0.5
+(SD = 1.8)
+VAMC = Department of Veterans Affairs Medical Center; CBOC = Community Based Outpatient Clinic; SD= standard deviation.
+VA= Department of Veterans Affairs; CBOC = Community Based Outpatient Clinic.Fortney et al .Implementation Science 2012, 7:30
+http://www.implementationscience.com/content/7/1/30Page 7 of 15
+encounter with a depression care manager. Reach ran-
+ged across CBOCs from a low of 1.1% to a high of
+49.1% (see Figure 2).
+Implementation/fidelity
+For most domains, fidelity to the care manager protocol
+was excellent for the 298 pat ients who had encounters
+with a depression care manager. Patient education/activa-
+tion and barriers assessment/resolution were provided at
+100% (298/298) of baseline encounters ( i.e., the first care
+manager encounter). Likewise, the PHQ9 depression
+symptom-monitoring tool was used to assess depression
+severity at 100% (298/298) of baseline encounters. The
+298 patients had 368 treatment trials in the acute phase.
+Almost half (48.4%, 178/368) of the acute phase trials
+were pharmacotherapy only, 28.8% (106/368) were com-
+bination pharmacotherapy/psychotherapy, 6.3% (23/368)were psychotherapy only, and 16.6% (61/368) were
+watchful waiting. Less than half (42.5%, 681/1603) of fol-
+low-up encounters during the acute stage were com-
+pleted within the timeframe specified in the acute phase
+of treatment ( i.e., within two or four weeks, depending
+on the trial type). During the acute phase of treatment
+for all trials, the PHQ9 symptom-monitoring tool was
+used at 100% (681/681) of completed follow-up encoun-
+ters, and self-management goals were discussed during
+15.3% (104/681) of completed follow-up encounters.
+During the acute phase of treatment for pharmacother-
+apy and combination trials, medication adherence was
+assessed at 99.1% (575/580) of completed follow-up
+encounters, and side effects were assessed at 92.4% (536/
+580) of completed follow-up encounters. During the
+acute phase of treatment for psychotherapy and combi-
+nation trials, counseling-session adherence was assessed
+Figure 1 Percentage of providers referring to the depression care manager . To measure adoption, data were extracted from the Medical
+SAS Datasets at the Austin Information Technology Center. The post-period was defined as the 12 months after each CBOC start date (defined
+as the date the first patient was enrolled in the telemedicine-based CCM program), which ranged from April 2006 to February 2008. The number
+of primary care providers at each CBOC was determined from the SAS Medical Datasets using unique provider IDs for all types of primary care
+providers ( e.g., general internist, advance practice nurse). The number of primary care providers referring a patient to a depression care manager
+during the 12-month post-period was identified from NetDSS. The adoption rate for each CBOC was defined as the total number of primary care
+providers referring a patient to the depression care manager (identified from NetDSS) during the 12-month period divided by the total number
+of primary care providers seeing patients during the 12-month period (identified from SAS Medical Datasets).Fortney et al .Implementation Science 2012, 7:30
+http://www.implementationscience.com/content/7/1/30Page 8 of 15
+at 83.3% (239/287) of completed follow-up encounters.
+During the continuation phase of treatment, 54.6% (189/
+346) of follow-up encounters were completed within the
+prespecified timeframe ( i.e., within four weeks).
+Effectiveness
+Depression care managers enrolled 298 patients into the
+telemedicine-based CCM program. Of these, 7.4% (22/
+298) could not be reached for a baseline evaluation and
+another 8.7% (26/298) were lost to follow-up. In addition,
+9.7% (29/298) were disenrolled at the patient ’s request and
+0.3% (1/298) were disenrolled at the primary care provi-
+der ’s request. Another 7.7% (23/298) became ineligible ( e.
+g., moved out of area), and 24.2% (72/298) were referred
+to a higher level of care ( e.g., referred to specialty mental
+health). Overall, 18.8% (56/298) remitted (symptom free)
+and completed the continuation phase of treatment and
+another 22.1% (66/298) responded to treatment and com-
+pleted the continuation phase without relapsing. Thus,
+40.9% (122/298) of enrolled patients had positiveoutcomes because they either remitted or responded and
+completed without relapsing. Examining outcomes for
+completers only (n = 194), 34.0% (66/194) responded to
+treatment and completed, 28.8% (56/194) remitted and
+completed (62.8% positive outcomes, 122/194), and 37.1%
+(72/194) were referred to a higher level of care.
+Maintenance
+There was variation across the 11 CBOCs on the Level
+of Use instrument. One (9.1%) CBOC was classified as a
+nonuser (level 1), two (18.2%) were classified as
+mechanical users (level 3), one (9.1%) was classified as a
+refinement user (level 6), and seven (63.6%) were classi-
+fied as integrated users (level 7) (see Figure 3). Level of
+Institutionalization was mostly in the high to moderate
+range across all three VAMCs (see Figure 4).
+Pre-implementation planning costs and fixed costs
+The total cost of attending EBQI meetings was $8,270.90.
+The total costs for the time spent on implementation
+Figure 2 Percentage of patients referred to the depression care manager . To measure reach, data were extracted from the SAS Medical
+Datasets at the Austin Information Technology Center for the 12-month post-period. Index visits for patients during the 12-month post-period
+were defined as the first primary care encounter at the CBOC with a depression diagnosis. Patients were excluded if they had a specialty mental
+health visit or a diagnosis of bipolar disorder or schizophrenia during the six months prior to the CBOC start date or if the index visit was a
+specialty mental health encounter. The number of patients referred to the depression care manager during the 12-month post-period was
+identified from NetDSS. Reach during the 12-month post-period at each CBOC was defined as the total number of patients referred to the
+depression care manager (identified from NetDSS) divided by the total number of patients with a depression diagnosis who were not already
+receiving specialty care (identified in the SAS Medical Datasets).Fortney et al .Implementation Science 2012, 7:30
+http://www.implementationscience.com/content/7/1/30Page 9 of 15
+between EBQI meetings was $84,483.45. The total pre-
+implementation planning co sts across all three VAMCs
+were estimated to be $92,753.79. Dividing total pre-imple-
+mentation planning costs by the 3,296 patients diagnosed
+with depression at implementation CBOCs and targeted
+by the telemedicine-based CCM program during the 12-
+month post-period yields a total pre-implementation plan-
+ning cost per targeted patient of $28.14. Dividing total
+pre-implementation planning costs by the 298 patients
+enrolled in the telemedicine-based CCM program during
+the 12-month post-period yields a total pre-implementa-
+tion planning cost per patient reached of $311.25. The
+fixed cost for developing the Mental Health QUERI
+Depression Care Manager Training Manual was $17,182.
+The fixed cost of developing NetDSS was $100,370. The
+fixed cost for developing the NetDSS User ’sG u i d e was
+$12,391. The total fixed costs were $129,943.
+Discussion
+The telemedicine-based CCM program had an excellent
+adoption rate by primary care providers (69%), althoughreach into the target patient population was relatively
+low overall (9%). The low proportion of targeted
+patients reached by the program is somewhat difficult to
+interpret, as it is not clear what proportion of patients
+with depression would have benefited clinically from
+depression care management. Moreover, because the
+EBQI teams specifically chose to target those patients
+whose primary care providers thought would benefit
+from the telemedicine-based CCM program, it made it
+impossible to identify in a systematic manner what the
+true denominator was for the reach evaluation. Presum-
+ably, many of the patients diagnosed with depression
+(used as the dominator for the reach evaluation) were in
+remission or stable on medications during the time per-
+iod and would not have benefited clinically from the
+program. Of those enrolled in the telemedicine-based
+CCM program, fidelity to the care manager protocol
+was excellent. The high level of fidelity can be attribu-
+ted, in large part, to the use of the NetDSS care man-
+ager decision support system. NetDSS workload/
+outcomes reports were discussed at EBQI team meetings
+Figure 3 Level of use of telemedicine-based collaborative-care management . The Level of Use interview measured sustained use of the
+program and was administered approximately a year after the last CBOC enrolled its first patient into the telemedicine-based CCM program,
+when research funds were no longer supporting the salary of clinical personnel. Level of Use was measured using key informant interviews with
+the Medical Directors of each of the 11 CBOCs and the Chief of Mental Health or Chief of Primary Care at the VAMC (depending on which
+service line operated the program). Using a structured interview guide and inductive questioning, the Level of Use framework classified the
+CBOCs into eight ranked levels of adoption according to their adoption behaviors. The first three levels distinguish between stages of nonuse
+(nonuse, orientation, and preparation). The next five levels distinguish between stages of use (mechanical, routine, refinement, integration,
+renewal), and these distinctions are made based on the type of adaptations or refinements that are being made to the innovation.Fortney et al .Implementation Science 2012, 7:30
+http://www.implementationscience.com/content/7/1/30Page 10 of 15
+and used to address problems with care manager fide-
+lity. The biggest problems with fidelity were completing
+assessments within the prespecified timeframe and care
+manager activities that were not required to be com-
+pleted by NetDSS ( i.e., the optional self-management
+planning). In addition, the clinical outcomes of enrolled
+patients were comparable to intervention patients in a
+prior randomized effectiveness study of telemedicine-
+based CCM [19]. Of those enrolled, 18.8% completed
+the continuation phase in remission and another 22.1%
+responded to treatment and completed the continuation
+phase without relapsing. Thus, from an intent-to-treat
+perspective, 40.9% of patients enrolled in telemedicine-
+based CCM had positive outcomes, which is somewhat
+higher than the 12-month intent-to-treat response rate
+(36%) reported in a previous randomized effectiveness
+trial of telemedicine-based CCM that enrolled patientsscreening positive for depression [19]. A previous study
+has demonstrated that patients referred to CCM by
+their primary care provider as part of routine care
+experience greater symptom improvement than those
+randomized to CCM after being enrolled in a research
+study using traditional recruitment methods [53]. For
+those completing the telemedicine-based CCM program,
+65.8% either remitted or responded without relapsing.
+Importantly, the telemedicine-based CCM programs
+continued to be used in a sustained manner after
+research funds were withdrawn. Likewise, the telemedi-
+cine-based CCM programs became institutionalized into
+the operations of the affiliated VAMCs.
+Based on these findings, we conclude that EBQI is a
+feasible facilitation strategy for contract CBOCs. This
+finding is significant because there were many barriers
+to adoption in contract CBOCs, and these results are a
+Figure 4 Level of institutionalization of telemedicine-based collaborative care management . Level of Institutionalization survey measured
+the degree to which the program was institutionalized within the organization. Level of Institutionalization was measured via telephone survey
+of the Chief of Mental Health or Chief of Primary Care at the VAMC (depending on which service line operated the program). Institutionalization
+implies that the organization has modified itself to incorporate the innovation and that the innovation has ceased to become novel and has
+been embedded in standard operating procedures. The Level of Institutionalization instrument measures an innovation ’s institutionalization
+among four subsystems: production, maintenance, supportive, and managerial. The production subsystem is responsible for delivering clinical
+services; to be institutionalized, the innovation must be integrated with other routine clinical services. The maintenance subsystem represents
+personnel; to be institutionalized, the innovation must be supported by permanent employees. The supportive subsystem represents external
+organizational forces; to be institutionalized, the innovation must have a stable source of funding and permanent office space. The managerial
+subsystem represents the executive and supervisory functions; to be institutionalized, the innovation must be assigned to a specific service, staff
+must have written job descriptions, and performance measures and progress reports must be required. For each subsystem, the Level of
+Institutionalization survey asks the respondent about the degree to which the organization has institutionalized the innovation ( e.g., supported
+by permanent employees), and the responses are averaged to calculate an overall mean for each subsystem. The Level of Institutionalization
+instrument has three levels for each subsystem: low institutionalization (mean score ≤2), moderate institutionalization (2 < mean score ≤3) and
+high institutionalization (mean score > 3).Fortney et al .Implementation Science 2012, 7:30
+http://www.implementationscience.com/content/7/1/30Page 11 of 15
+testament to the strength of this particular facilitation
+method. Rogers has argued that innovation complexity isa barrier to diffusion, [54,55] and telemedicine-basedCCM is a multifaceted intervention that involves a multi-disciplinary care team and, thus, is relatively complex toput into practice. Rogers also argued that incompatibility
+can be a barrier to adoption, [54,55] and telemedicine-
+based CCM was not compatible with traditional referral-based treatment patterns of d epression treatment in the
+VA. Because the VA is an integrated system of care,referrals from primary care to specialty mental healthcare are common, even for mild to moderate depression.Because CCM encourages a more integrated approach tocare, it was somewhat disruptive to put into practice.
+However, there was anecdotal evidence that implement-
+ing telemedicine-based CCM in CBOCs was less disrup-tive than implementing practice-based CCM in parentVAMCs. This may have been due to the long travel dis-tance to specialty mental he althcare for CBOC patients,
+which may have resulted in the CBOC providers beingless reliant on referrals than primary care providers atparent VAMCs. The EBQI process also overcame other
+barriers to diffusion identified by Rogers, especially trial-
+ability [54,55]. Trialability is the degree to which an inno-vation can be tested on a limited basis and was a barrierto the adoption because patients can remain in care man-agement for 6 to 12 months. Piloting telemedicine-basedCCM in the Do phase facilitated the ability to “test drive”
+the intervention.
+As discussed in the PARiHS framework, context is
+also an important factor to the adoption of evidence-based practices [20]. With respect to external contextualfactors, the sustained implem entation of telemedicine-
+based CCM was facilitated by the VA ’s national Primary
+Care/Mental Health Integration Initiative, which concur-rently promoted the implementation of CCM models.Even though CCM implementation was only mandatedfor the one large CBOC in our sample, the implementa-
+tion of the telemedicine-based CCM program was highly
+compatible [54,55] with the existing priorities of the VACentral Office. In contrast to the favorable external con-text of implementing telemedicine-based CCM, theinternal context of contract CBOCs was a barrier toimplementation. Contract CBOCs are likely to have verydifferent organizational cultures and climates thanVAMCs and VA-staffed CBOCs. Likewise, because con-
+tract CBOCs receive capitated payments, they have a
+financial incentive to minimize costs, including bothpatient care expenses and the investment of slackresources in quality-improvement efforts. Althoughempirical evidence indicates that telemedicine-basedCCM does not increase primary care visits or costs [54],the additional cost of collaborating clinically with anoff-site care team may have been a concern of theprimary care providers. This concern may have led tofewer referrals, thereby cont ributing to the low level of
+reach into the target population.
+It is also important to note that the EBQI implemen-
+tation strategy was relatively resource intensive. Ignoringthe fixed cost of developing the training materials and
+decision support system, the pre-implementation plan-
+ning cost per patient reached was $311. It required thecommitment of a large number of busy administratorsand clinicians, as well as the involvement of implemen-tation researchers. Therefore, the EBQI implementationstrategy used in this study is probably not particularlyscalable. However, assuming that the sites included inthis study are generalizable to other CBOCs, it is prob-
+ably not necessary to repeat our relatively resource-
+intensive adaption process to spread the telemedicine-based CCM to other sites [55]. Presumably, much of thespread to other CBOCs could be more standardizedthan it was in this study. A more scalable ( i.e., less
+intensive) EBQI strategy could also be employed to sup-port spread, perhaps involving larger groups of CBOCsin the Plan-Do-Study-Act cycles.
+An important limitation of this study is that VAMCs
+were chosen based on their willingness to participate
+and their potential for success as perceived by VISN lea-dership. While the results from these implementationsites may not be generalizable to all VAMCs, it is advi-sable to initially choose sites that are committed toimplementation for small-scale, multisite evaluation stu-dies. Similar to an efficacy study, the purpose of small-
+scale, multisite evaluation is to determine whether
+implementation strategies can work under favorable cir-cumstances [56]. Generaliz ability of sites becomes a
+more critical issue for region-wide demonstration stu-dies, where the purpose is to determine whether promis-ing implementation strategies are effective under a widerange of contexts [56]. A second limitation was that wedid not have the resources to collect qualitative data
+about provider adoption and patient reach. Qualitative
+data obtained from key informant interviews with front-line providers would have helped us better interpret ourquantitative findings about adoption and reach. Anotherlimitation of the study was that, due to lack of Institu-tional Review Board oversight at contract CBOCs, on-site providers and administrators could not be engagedin research and, therefore, could not participate directly
+in the EBQI process. This was an artificial barrier to
+implementation that we encountered in the context ofconducting research that would not be an issue outsidethis context. Finally, this f easibility study had no com-
+parison group that used an alternative implementationstrategy, and thus, we only demonstrated that EBQI canbe successful in this context, not that it was more effec-tive than other implementation strategies.
+Fortney et al .Implementation Science 2012, 7:30
+http://www.implementationscience.com/content/7/1/30Page 12 of 15
+The major strength of the evaluation component of
+the study was the integratio n of clinical information
+obtained from administrative data and the decision sup-
+port system (NetDSS) to measure adoption, reach,implementation/fidelity, an d effectiveness. Likewise,
+another strength was measuring maintenance by inte-
+grating quantitative and qual itative data obtained from
+the Level of Institutionalization survey and the Level of
+Use structured key-informant interviews. The majorstrength of the implementation component of the studywas development and refinement of the decision supportsystem (NetDSS), which substantially enhanced caremanager fidelity. The use of NetDSS has spread to non-study sites at one of the regional VISNs and is now
+being used for other mental health disorders. Based on
+the results of a previous effectiveness study and theimplementation tools developed for this study, telemedi-cine-based CCM is now listed on the National Registryof Evidence-based Programs and Practices (NREPP), aservice of the Substance Abuse and Mental Health Ser-vices Administration (SAMHSA). NREPP is a searchabledatabase of interventions, and SAMHSA has developed
+this resource to help agencies and organizations imple-
+ment evidence-based mental health practices in theircommunities.
+Conclusions
+The results of this study suggest that EBQI can be usedsuccessfully to implement a complex disruptive inter-vention (telemedicine-based CCM) with fidelity, despite
+the organizational barriers in contract CBOCs. The suc-
+cess of the EBQI process was likely due to the partner-ship between clinical leaders and researchers. Theresearchers were able to develop evidence-based trainingmaterials and decision-support tools that seemed to pro-mote fidelity and effectiveness. In turn, the clinical lea-ders were able to align the telemedicine-based CCMprogram with the needs of CBOC staff and patients,
+which seemed to promote adoption, reach, and mainte-
+nance. Given that EBQI is resource intensive, it may bea particularly appropriate facilitation strategy during theearly stages of an implementation initiative when a rela-tively small number of sites are committed to successfulimplementation.
+Acknowledgements
+We would like to thank the depression care managers who participated inthis study: William Raney, Susan Lyrla, and Sue Donovan. We would also like
+to thank Cheryl Hardcastle, Kathy Henderson, Amanda Lunsford, Michael
+McCarther, Debbie Mittman, Lisa Rubenstein, Barbara Simon, Susan Vivell,and James Williams for their important contributions to the study.This research was supported by VA Quality Enhancement Research Initiative(QUERI) IMV 04-360 grant to Drs. Fortney (PI), Enderle (Co-PI), and McDougall(Co-PI); the VA HSR&D Center for Mental Health and Outcomes Research; theVA South Central Mental Illness Research Education and Clinical Center; and
+the VA HSR&D Center for the Study of Healthcare Provider Behavior.Author details
+1Health Services Research and Development, Central Arkansas Veterans
+Healthcare System, North Little Rock, AR, USA.2South Central Mental Illness
+Research Education and Clinical Center, Central Arkansas Veterans Healthcare
+System, North Little Rock, AR, USA.3Department of Psychiatry, University of
+Arkansas for Medical Sciences, Little Rock, AR, USA.4Office of Quality and
+Safety, Department of Veterans Affairs, Washington, DC, USA.5Desert Pacific
+Healthcare Network (VISN 22), Long Beach, CA, USA.6Behavioral Medicine
+Service, VA Loma Linda Healthcare System, Loma Linda, CA, USA.7Primary/
+Ambulatory Care, Greater Los Angeles Healthcare System, Los Angeles, CA,USA.
+8Department of Medicine, University of California, Los Angeles, CA, USA.
+9At the time the study was conducted, Dr. Enderle was affiliated with the
+South Central Veterans Healthcare Network (VISN 16.10At the time the study
+was conducted, Dr. Clothier was affiliated with the Mental Health Service,
+Central Arkansas Healthcare System.
+Authors ’contributions
+JF obtained funding and contributed to study conceptualization and study
+design, acquisition of data, statistical analysis, interpretation of data, anddrafting of the manuscript. ME and SM obtained funding, contributed to
+study conceptualization and study design, and critically revised the
+manuscript for important intellectual content. JC, JO, and LA supervised theclinical team, provided administrative leadership, and critically revised themanuscript for important intellectual content. GC helped with studyconceptualization and study design, collection of Level of Use data fromkey-informant interviews, interpretation of data, drafting of manuscript, andcritical revision of the manuscript for important intellectual content. All
+authors read and approved the final manuscript.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 30 July 2011 Accepted: 11 April 2012 Published: 11 April 2012
+References
+1. Katon W, Von Korff M, Lin E, Simon G, Walker E, Unützer J, et al:Stepped
+collaborative care for primary care patients with persistent symptoms of
+depression: a randomized trial. Arch Gen Psychiatry 1999, 56(12) :1109-1115.
+2. Katon W, Robinson P, Von Korff M, Lin E, Bush T, Ludman E, et al:A
+multifaceted intervention to improve treatment of depression in primarycare. Arch Gen Psychiatry 1996, 53(10) :924-932.
+3. Simon GE, VonKorff M, Rutter C, Wagner E: Randomised trial of
+monitoring, feedback, and management of care by telephone toimprove treatment of depression in primary care. Br Med J 2000,
+320(7234) :550-554.
+4. Rost K, Nutting P, Smith J, Werner J, Duan N: Improving depression
+outcomes in community primary care practice: a randomized trial of theQuEST intervention. J Gen Intern Med 2001, 16(3) :143-149.
+5. Wells KB, Sherbourne C, Schoenbaum M, Duan N, Meredith L, Unützer J,
+et al:Impact of disseminating quality improvement programs for
+depression in managed primary care: a randomized controlled trial. J
+Am Med Assoc 2000, 283(2) :212-220.
+6. Finley PR, Rens HR, Pont JM, Gess SL, Louie C, Bull SA, et al:Impact of
+collaborative care model upon depression in primary care: a
+randomized controlled trial. Pharmacotherapy 2003, 23:1175-1185.
+7. Adler DA, Bungay KM, Wilson IB, Pei Y, Supran S, Peckham E, et al:The
+impact of a pharmacist intervention on 6-month outcomes in depressed
+primary care patients. Gen Hosp Psychiatry 2004, 26(3) :199-209.
+8. Unützer J, Katon W, Callahan CM, Williams JW Jr, Hunkeler E, Harpole L,
+et al:Collaborative care management of late-life depression in the
+primary care setting: a randomized controlled trial. J Am Med Assoc 2002,
+288(22) :2836-2845.
+9. Hedrick SC, Chaney EF, Felker B, Liu CF, Hasenberg N, Heagerty P, et al:
+Effectiveness of collaborative care depression treatment in Veteran ’s
+Affairs primary care. J Gen Intern Med 2003, 18(1) :9-16.
+10. Badamgarav E, Weingarten SR, Henning JM, Knight K, Hasselblad V, Gano A
+Jr,et al:Effectiveness of disease management programs in depression: a
+systematic review. Am J Psychiatry 2003, 160(12) :2080-2090.
+11. Post EP, Metzger M, Dumas P, Lehmann L: Integrating mental health into
+primary care within the Veterans Health Administration. Fam Syst Health
+2010, 28(2) :83-90.Fortney et al .Implementation Science 2012, 7:30
+http://www.implementationscience.com/content/7/1/30Page 13 of 15
+12. Panangala SV, Mendez BHP: Veterans Health Administration: Community-
+Based Outpatient Clinics. Congressional Research Service 2010, R41044, Ref
+Type: Report.
+13. Fortney JC, Borowsky SJ, Hedeen AN, Maciejewski ML, Chapko MK: VA
+community-based outpatient clinics: access and utilization performance
+measures. Med Care 2002, 40(7) :561-569.
+14. Maciejewski ML, Perkins M, Li YF, Chapko M, Fortney JC, Liu CF: Utilization
+and expenditures of Veterans obtaining primary care in community
+clinics and VA medical centers: an observational cohort study. BMC
+Health Serv Res 2007, 7:56.
+15. Liu CF, Chapko MK, Perkins MW, Fortney J, Maciejewski ML: The impact of
+contract primary care on health care expenditures and quality of care.Med Care Res Rev 2008, 65(3) :300-314.
+16. Chapko M, Borowsky S, Fortney J, Hedeen A, Hoegle M, Maciejewski M,
+et al:Evaluation of the Department of Veterans Affairs Community-Based
+Outpatient Clinics. Med Care 2002, 40(7) :555-560.
+17. Fortney J, Pyne JM, Edlund MJ, Williams DK, Robinson DE, Mittal D, et al:A
+randomized trial of telemedicine-based collaborative care fordepression. J Gen Intern Med 2007, 22(8) :1086-1093.
+18. Kitson A, Harvey G, McCormack B: Enabling the implementation of
+evidence based practice: a conceptual framework. Qual Health Care 1998,
+7(3):149-158.
+19. Greenhalgh T: Intuition and evidence-uneasy bedfellows? Br J Gen Pract
+2002, 52:395-400.
+20. Haynes RB: What kind of evidence is it that Evidence-Based Medicine
+advocates want health care providers and consumers to pay attentionto?BMC Health Serv Res 2002, 2:3.
+21. Parker LE, Fickel JJ, Yano EM, Simon C, Bonner LM, Ritchie MJ, et al:
+Organizational context and adoption of new clinical practices 2009, Ref Type:
+Unpublished Work.
+22. Steckler A, Goodman RM, Kegler MC: Mobilizing organizations for health
+enhancement: Theories of organizational change. InHealth Behavior and
+Health Education: Theory, Research and Practice. Edited by: Glanz K, Rimmer
+BK, Lewis FM. San Francisco, CA: Jossey-Bass; 2002:335-360.
+23. Glisson C, Green P: The effects of organizational culture and climate on
+the access to mental health care in child welfare and juvenile justicesystems. Administration and Policy in Mental Health and Mental Health
+Services Research 2006, 33(4) :433-448.
+24. Owen RR, Hudson T, Thrush C, Thapa P, Armitage T, Landes RD: The
+effectiveness of guideline implementation strategies on improvingantipsychotic medication management for schizophrenia. Med Care 2008,
+46(7) :686-691.
+25. Glisson C: The organizational context of children ’s mental health
+services. Clin
+ Child Fam Psychol Rev 2002, 5(4):233-253.
+26. Glisson C, James LR: The cross-level effects of culture and climate in
+human service teams. J Organ Behav 2002, 23:767-794.
+27. Schutte K, Yano EM, Kilbourne AM, Wickrama B, Kirchner JE, Humphreys K:
+Organizational contexts of primary care approaches for managingproblem drinking. J Subst Abuse Treat 2009, 36(4) :435-445, Epub 2008 Nov
+12.
+28. Rubenstein LV, Chaney EF, Ober S, Felker B, Sherman SE, Lanto A, et al:
+Using evidence-based quality improvement methods for translatingdepression collaborative care research into practice. Family, Systems &
+Health 2010, 28(2) :91-113.
+29. Rost KM, Duan N, Rubenstein LV, Ford DE, Sherbourne CD, Meredith LS,
+et al:The Quality Improvement for Depression collaboration: general
+analytic strategies for a coordinated study of quality improvement indepression care. Gen Hosp Psychiatry 2001, 23(5) :239-253.
+30. Rubenstein LV, Parker LE, Meredith LS, Altschuler A, de Pillis E, Hernandez J,
+et al:Understanding Team-based Quality Improvement for Depression in
+Primary Care. Health Serv Res 2002, 37(4) :1009-1029.
+31. Goldberg HI, Wagner EH, Fihn SD, Martin DP, Horowitz CR, Christensen DB,
+et al:A randomized controlled trial of CQI teams and academic
+detailing: can they alter compliance with guidelines? Jt Comm J Qual
+Improv 1998, 24(3) :130-142.
+32. Solberg LI, Fischer LR, Wei F, Rush WA, Conboy KS, Davis TF, et al:A CQI
+intervention to change the care of depression: a controlled study. Eff
+Clin Pract 2001, 4(6):239-249.
+33. Parker LE, de Pillis E, Altschuler A, Rubenstein LV, Meredith LS: Balancing
+participation and expertise: A comparison of locally and centrallymanaged health care quality improvement within primary carepractices. Qual Health Res 2007, 17(9) :1268-1279.
+34. Greenhalgh T, Robert G, Macfarlane F, Bate P, Kyriakidou O: Diffusion of
+innovations in service organizations: systematic review andrecommendations. Milbank Q 2004, 82(4) :581-629.
+35. Ginsburg LR, Lewis S, Zackheim L, Casebeer A: Revisiting interaction in
+knowledge translation. Implementation Science 2007, 2:34.
+36. Stange KC, Goodwin MA, Zyzanski SJ, Dietrich AJ: Sustainability of a
+practice-individualized preventive service delivery intervention. Am J Prev
+Med 2003, 25:296-300.
+37. Parker LE, Kirchner JE, Bonner LM, Fickel JJ, Ritchie MJ, Simons CE, et al:
+Creating a quality-improvement dialogue: utilizing knowledge fromfrontline
+staff, managers, and experts to foster health care quality
+improvement. Qual Health Res 2009, 19(2) :229-242.
+38. Rubenstein LV, Mittman BS, Yano EM, Mulrow CD: From understanding
+health care provider behavior to improving health care: the QUERIframework for quality improvement. Quality Enhancement Research
+Initiative. Med Care 2000, 38(6 Suppl 1):I129-I141.
+39. Mendel P, Meredith LS, Schoenbaum M, Sherbourne CD, Wells KB:
+Interventions in organizational and community context: a framework for
+building evidence on dissemination and implementation in healthservices research. Admin Policy Ment Health 2008, 35(1-2) :21-37.
+40. Meredith LS, Mendel P, Pearson M, Wu S, Joyce G, Straus JB, et al:
+Implementation and maintenance of quality improvement for treating
+depression in primary care. Psychiatr Serv 2006, 57(1) :48-55.
+41. Rogers EM: Diffusion of Innovations. New York, NY: The Free Press, A
+Division of Simon & Schuster, Inc.;, 5 2003.
+42. Fortney JC, Pyne JM, Smith JL, Curran GM, Otero JM, Enderle MA, et al:
+Steps for implementing collaborative care programs for depression.
+Popul Health Manag 2009, 12(2) :69-79.
+43. Fortney JC, Pyne JM, Steven CA, Williams JS, Hedrick RG, Lunsford AK, et al:
+A web-based clinical decision support system for depression caremanagement. Am J Manag Care 2010, 16(11) :849-854.
+44. Franx G, Meeuwissen JA, Sinnema H, Spijker J, Huyser J, Wensing M, et al:
+Quality improvement in depression care in the Netherlands: thedepression breakthrough collaborative. A quality improvement report.International Journal of Integrated Care 2009, 9:e84.
+45. Glasgow RE, Vogt TM, Boles SM: Evaluating the public health impact of
+health promotion interventions: the RE-AIM framework. Am J Public
+Health 1999, 89(9) :1322-1327.
+46. Glasgow RE, McKay HG, Piette JD, Reynolds KD: The RE-AIM framework for
+evaluating interventions: what can it tell us about approaches tochronic illness management? Patient Educ Couns 2001, 44(2) :119-127.
+47. Glasgow RE: Translating research to practice: lessons learned, areas for
+improvement, and future directions. Diab Care 2003, 26(8) :2451-2456.
+48. Glasgow RE, Lictenstein E, Marcus AC: Why don ’t we see more translation
+of health promotion research to practice? Rethinking the efficacy-to-effectiveness transition. Am J Public Health 2003, 93(8) :1261-1267.
+49. Hall G, Loucks S, Rutherford W, Newlove B: Levels of use of the
+innovation: a framework for analyzing innovation adoption. J Teach Educ
+1975, 26(1) :52-56.
+50. Goodman RM, McLeroy KR: Development of level of institutionalization
+scales for health promotion programs. Health Educ Q 1993, 20(2) :161-179.
+51. Chaney EF, Rubenstein LV, Liu CF, Yano EM, Bolkan C, Lee M, et al:
+Implementing
+collaborative care for depression treatment in primary
+care: a cluster randomized evaluation of a quality improvement practice
+redesign. Implement Sci 2011, 6:121.
+52. Rogers EM: Diffusion of Innovations. New York: The Free Press, A Divison
+of Simon & Schuster, Inc.;, 3 1983.
+53. Rogers EM: Diffusion of Innovations. 4 edition. New York, NY: The Free Press;
+1995.
+54. Fortney JC, Maciejewski M, Tripathi S, Deen TL, Pyne JM: A budget impact
+analysis of telemedicine-based collaborative care for depression. Med
+Care .
+55. Smith JL, Williams JW Jr, Owen RR, Rubenstein LV, Chaney E: Developing a
+national dissemination plan for collaborative care for depression: QUERI
+series. Implement Sci 2008, 3:59.
+56. Stetler CB, Mittman BS, Francis J: Overview of the VA Quality
+Enhancement Research Initiative (QUERI) and QUERI theme articles:
+QUERI Series. Implement Sci 2008, 3(8):1-9.Fortney et al .Implementation Science 2012, 7:30
+http://www.implementationscience.com/content/7/1/30Page 14 of 15
+doi:10.1186/1748-5908-7-30
+Cite this article as: Fortney et al.:Implementation outcomes of
+evidence-based quality improvement for depression in VA communitybased outpatient clinics. Implementation Science 2012 7:30.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at 
+www.biomedcentral.com/submitFortney et al .Implementation Science 2012, 7:30
+http://www.implementationscience.com/content/7/1/30Page 15 of 15

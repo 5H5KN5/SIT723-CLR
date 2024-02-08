@@ -1,0 +1,660 @@
+Health Psychology
+Using Decision Analysis for Intervention Value Efficiency to Select
+Optimized Interventions in the Multiphase Optimization Strategy
+Jillian C. Strayhorn, Charles M. Cleland, David J. Vanness, Leo Wilton, Marya Gwadz, and Linda M. Collins
+Online First Publication, August 3, 2023. https://dx.doi.org/10.1037/hea0001318
+CITATION
+Strayhorn, J. C., Cleland, C. M., Vanness, D. J., Wilton, L., Gwadz, M., & Collins, L. M. (2023, August 3). Using Decision
+Analysis for Intervention Value Efficiency to Select Optimized Interventions in the Multiphase Optimization Strategy.
+Health Psychology
+. Advance online publication. https://dx.doi.org/10.1037/hea0001318
+Using Decision Analysis for Intervention Value Ef ﬁciency to Select Optimized
+Interventions in the Multiphase Optimization Strategy
+Jillian C. Strayhorn1, Charles M. Cleland2, David J. Vanness3, Leo Wilton4, 5,
+Marya Gwadz6, and Linda M. Collins7
+1Department of Social and Behavioral Sciences, School of Global Public Health, New York University
+2Department of Population Health, New York University Grossman School of Medicine
+3Department of Health Policy and Administration, Pennsylvania State University
+4Department of Human Development, State University of New York at Binghamton
+5Faculty of Humanities, University of Johannesburg
+6New York University Silver School of Social Work
+7Department of Social and Behavioral Sciences, New York University School of Global Public Health
+Objective: Optimizing multicomponent behavioral and biobehavioral interventions presents a complex deci-
+sion problem. To arrive at an intervention that is both effective and readily implementable, it may be nec-essary to weigh effectiveness against implementability when deciding which components to select for
+inclusion. Different components may have differential effectiveness on an array of outcome variables.
+Moreover, different decision-makers will approach this problem with different objectives and preferences.
+Recent advances in decision-making methodology in the multiphase optimization strategy (MOST) have
+opened new possibilities for intervention scientists to optimize interventions based on a wide variety of deci-sion-maker preferences, including those that involve multiple outcome variables. In this study, we introduce
+decision analysis for intervention value ef ﬁciency (DAIVE), a decision-making framework for use in MOST
+that incorporates these new decision-making methods. We apply DAIVE to select optimized interventionsbased on empirical data from a factorial optimization trial. Method: We de ﬁne various sets of hypothetical
+decision-maker preferences, and we apply DAIVE to identify optimized interventions appropriate to each
+case. Results: We demonstrate how DAIVE can be used to make decisions about the composition of opti-
+mized interventions and how the choice of optimized intervention can differ according to decision-maker
+preferences and objectives. Conclusions: We offer recommendations for intervention scientists who want
+to apply DAIVE to select optimized interventions based on data from their own factorial optimization trials.
+Public Signi ﬁcance Statement
+The multiphase optimization strategy (MOST) has been applied across a wide variety of public healthcontexts (smoking, HIV, cancer, substance misuse, and so on) to advance behavioral and biobehavioral
+interventions capable of public health impact. Novel decision-making methods for use in MOST open
+new possibilities for intervention optimization, including optimization based on the strategic consider-
+ation of (a) effectiveness on multiple valued outcome variables and/or (b) opportunity costs. We high-
+light these new possibilities using an empirical example from HIV care.
+Jillian C. Strayhorn https://orcid.org/0000-0003-3502-9623
+This methodological paper uses data from the Heart to Heart II optimiza-
+tion trial (trial registration: ClinicalTrials.gov Identi ﬁer NCT02801747).
+Code is available in the online supplemental materials . Inquiries about data
+and materials may be directed to the corresponding author.
+This work was supported by NIDA: F31DA052140 (PI: Jillian C. Strayhorn)
+and R01DA040480 (Co-PIs: Marya Gwadz and Linda M. Collins). The authors
+have no con ﬂicts of interest to report.
+Jillian C. Strayhorn served as lead for funding acquisition, soft ware,
+visualization, and writing –original draft. Charles M. Cleland served as
+lead for data curation and served in a supporting role for conceptualiza-
+tion and funding acquisition. Leo Wilton served in a supporting role
+for conceptualization and funding acquisition. Marya Gwadz served aslead for funding acquisition and project admini stration and served in asupporting role for conceptualization. Linda M. Collins served as lead
+for funding acquisition. Jillian Strayhorn, David J. Vanness, and Linda
+M. Collins contributed equally to conceptualization. Jillian Strayhorn,
+Charles M. Cleland, David J. Vanness, and Linda M. Collins contributedequally to methodology. Jillian Strayhorn, Charles M. Cleland, David
+J. Vanness, Leo Wilton, Marya Gwadz, and Linda M. Collins contributed
+equally to writing –review and editing. Jillian Strayhorn and Charles
+M. Cleland contributed equally to formal analysis. Charles M. Cleland,
+Leo Wilton, Marya Gwadz, and Linda M. Collins contributed equally toinvestigation. Marya Gwadz and Linda M. Collins contributed equally to
+supervision.
+Correspondence concerning this article should be addressed to Jillian
+C. Strayhorn, Department of Social and Behavioral Sciences, School of
+Global Public Health, New York University, 708 Broadway, New York,New York 10003, United States. Email: jcs9972@nyu.edu
+Health Psychology
+© 2023 American Psychological Association
+ISSN: 0278-6133 https://doi.org/10.1037/hea0001318
+1This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+Keywords: intervention optimization, decision analysis, program effectiveness, ef ﬁciency, HIV care
+continuum
+Supplemental materials: https://doi.org/10.1037/hea0001318.supp
+Behavioral and biobehavioral interventions often contain multi-
+ple intervention components, each hypothesized to contributein some way to the success of the intervention. For example, anintervention to move individuals along the HIV care continuumcould include components like HIV health education; motiva-tional interviewing; skill building to promote treatment adherenceskills and habits; peer mentorship; focused support groups; andassistance with accessing the healthcare and social service systems(Gwadz et al., 2017 ). Selecting components that are effective
+in producing the desired outcomes is challenging —especially
+when the goal is to advance an intervention that will be notonly effective but also readily implementable. One way to makeeventual implementability more likely is to keep the interventionas straightforward to implement and affordable as possible.Intervention scientists can facilitate this by making strategic deci-sions about intervention components and including only thosefor which the effect, exerted directly or through interaction withother components, is expected to justify the cost in money, time,or another limited resource.
+There can be various forms of this sort of strategic decision-
+making. In this article, we focus on decision-making based onempirical information about intervention components. Notably,when promising intervention components are combined as a pack-age a priori and then evaluated together as a complete package,for example, via a two-arm randomized control trial (RCT; a “treat-
+ment package strategy ”;Kazdin, 1979 ), the effects of the compo-
+nents that make up that package are not estimated empirically. Asa result, the evaluation of a complete treatment package cannot
+directly inform modi ﬁcations to the interventions for better afford-
+ability, scalability, or ef ﬁciency in resource use. There have been
+calls in a variety of disciplines for the use of alternative approachesthat enable more nuanced decision-making about intervention com-ponents (e.g., Collins et al., 2005 ;Kazdin, 2000 ;West & Aiken,
+1997 ), with particular emphasis on research designs that employ ran-
+domization in empirically estimating component effects, such thateffect estimates can then be weighed against cost(s), for example,via linear programming or other methods from operations research(e.g., Yates, 1980 ).
+The general category of multiple-arm comparative experiments
+(Collins et al., 2009 ,2014 ) offers one approach to empirically esti-
+mating component effects. In the prototypical multiple-arm compar-ative experiment, there is one experimental arm corresponding toeach individual component and one more arm for a suitable controlcondition. A simple effect for each component is typically estimatedby comparing the mean outcome for the component arm to the meanoutcome for the control arm. Alternatively, when the effectiveness ofa complete treatment package has already been established, armsmay be selected differently. For example, in a dismantling treatmentdesign ( Kazdin, 1979 ;Nezu & Perri, 1989 ) one arm usually receives
+the full treatment package while others receive versions of the pack-age that have been “dismantled, ”with one or more components
+removed. Comparing mean outcomes for arms in a dismantling treat-ment design enables investigation of whether there appears to be asigniﬁcant difference between the full package and the dismantled
+version(s).
+In this article, we use a different approach to assessing the contri-
+butions of intervention components. Speci ﬁcally, we take an inter-
+vention optimization perspective, de ﬁned in terms of the multiphase
+optimization strategy (MOST; Collins, 2018 ). In MOST, intervention
+optimization is a process of identifying, from a set of candidate inter-vention components, the combination that is best expected to demon-strate intervention EASE in a subsequent con ﬁrmatory study because it
+strategically balances Effectiveness with Affordability (the extent to
+which the intervention is deliverable within a speci ﬁed budget),
+Scalability (the extent to which the intervention is implementable
+without modi ﬁcation in a given setting), and/or Efﬁciency (the extent
+to which the intervention contains only components that are suf ﬁ-
+ciently active in producing the desired effects). MOST consists ofmultiple phases of research, and identifying the optimized interven-tion (composed of some combination of candidate components) isdone in an optimization phase that precedes a subsequent evaluationphase. Key challenges of the optimization phase are (a) to assess,using a rigorous optimization trial, the individual and combined per-formance of components and (b) to make decisions about which pack-age of components to advance further (i.e., for evaluation, frequentlyin an RCT).
+One popular optimization trial design is the 2
+kfactorial experi-
+ment (e.g., Piper et al., 2016 ;Spring et al., 2020 ;Wyrick et al.,
+2014 ), also widely used in agriculture and engineering
+(Montgomery, 2020 ). In a full 2kfactorial optimization trial, candi-
+date intervention components are operationalized as ktwo-level fac-
+tors (e.g., with levels “off”vs.“on,”indicating presence vs. absence
+in the package), and there are 2kexperimental conditions, one for
+each combination of factor levels. Effects for the kfactors are esti-
+mated and interpreted differently than in a multiple-arm comparativeexperiment; a main effect for a given factor (vs. a simple effect) isestimated by comparing the mean outcome for conditions withone level of that factor to the mean outcome for conditions withthe other level of that factor, collapsing across the levels of theremaining factors ( Montgomery, 2020 ). The main effect, therefore,
+quanti ﬁes the average effect of the factor overall levels of the remain-
+ing factors. A two-way interaction indicates that the main effect forone factor differs depending on the level of a second factor, a three-way interaction indicates that a two-way interaction effect differsdepending on the level of a third factor, and so on. In a full 2
+kfacto-
+rial experiment, kmain effects on a given outcome can be estimated,
+as well as 2k−k−1 interaction effects.
+However, the great advantage of the 2kfactorial experiment —
+namely, the wealth of empirical information generated, includingboth main and interaction effects —also presents challenges for
+decision-making about the composition of the optimized interven-tion, since the empirical information about effectiveness has to beconsolidated, along with any information about additional EASE cri-
+teria ( Affordability ,Scalability ,Efﬁciency ), to arrive at an optimized
+intervention. When there are kfactors representing candidate com-
+ponents, there are 2
+kalternatives for the optimized interventionSTRAYHORN ET AL. 2This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+(e.g., when k=5, 2k=32 alternative versions of the intervention,
+each consisting of some combination of components). There is aneed for methods to guide decision-making based on the empiricalresults of a factorial optimization trial ( Collins et al., 2021 ).
+Methods for Decision-Making Based on Factorial
+Optimization Trial Results
+The initial approach for decision-making about which compo-
+nents merit inclusion in an optimized intervention in MOST was acomponent screening approach ( Collins, 2018 ;Collins et al., 2014 ),
+which typically relied on hypothesis testing about main and/or inter-action effects to inform the screening process. However, recentadvances in methods for decision-making in MOST suggest an alter-native posterior expected value approach, which makes use of meth-ods from Bayesian decision science ( Savage, 1972 ) and multicriteria
+decision analysis (MCDA; e.g., Keeney & Raiffa, 1976 ;Thokala
+et al., 2016 ). Notably, the posterior expected value approach does
+not rely on hypothesis testing or an analogous approach to explicitlyconsidering statistical signi ﬁcance, but rather bases the selection of
+an optimized intervention on comparisons among the posteriorexpected values of all alternative interventions under consideration.As described more in the “Method ”section, this is consistent with
+precedents in the decision science literature (e.g., Claxton, 1999 ).
+In extensive Monte Carlo simulation ( Strayhorn et al., 2023 ), a
+posterior expected value approach outperformed a componentscreening approach, identifying superior optimized interventionson average.
+Moreover, a posterior expected value approach to selecting opti-
+mized interventions responds to two key limitations of the initial
+component screening approach ( Collins et al., 2021 ). First, a compo-
+nent screening approach was limited to cases in which costs could beconsidered in terms of a strict upper limit, usually a limit on afford-ability. Certainly, component costs can have implications in terms ofaffordability: that is, when components are selected and combined,the resulting intervention may be unaffordable to deliver. However,component costs can also have implications in terms of opportunitycosts ( Russell, 1992 ): that is, when components are selected and
+combined, the resulting intervention may require the use of resourcesthat could have been allocated elsewhere, such as to other useful pro-grams. Given opportunity costs there might be good reason to selectone less costly intervention over another more costly intervention,even if both of those interventions are affordable. Unlike the initialcomponent screening approach, a posterior expected value approachcan readily be used to make decisions when the optimization objec-tive acknowledges opportunity costs.
+Second, the initial component screening approach was limited to
+cases with a single outcome of interest. In many behavioral healthareas, multiple outcome measures are necessary to capture the primaryareas of importance to intervention scientists. In HIV care continuuminterventions, for example, successful health promotion depends onindividual behavior change in various domains ( Gwadz et al.,
+2017 ). Assessing the success of an intervention, therefore, fre-
+quently involves measuring change in more than one outcome.Decision-makers may also have preferences about the outcomesof interest that place more importance on some outcomes thanothers. In these cases, in particular, different degrees of interven-tion success on different outcomes may need to be weighedcarefully.When there are multiple outcome variables of interest, determin-
+ing which components have individual and/or combined effects thatjustify their costs becomes considerably more challenging. A partic-ular intervention component may improve some outcome variablesand, at the same time, have no effect or even undesirable effectson other outcome variables. Moreover, when combined, compo-nents may interact in ways that complicate their patterns of effectsfurther. Components may interact synergistically, such that theircombined effect on an outcome is better than the sum of their indi-vidual effects, or antagonistically, such that their combined effect onan outcome is worse than the sum of their individual effects. A par-ticular combination of components may act synergistically on oneoutcome but antagonistically on another. Such complexities in opti-mization trial results can produce tradeoffs among outcomes, forexample, such that choosing one alternative intervention overanother requires trading change in one outcome for change in
+another outcome. A posterior expected value approach can also read-
+ily be used to make decisions based on multiple outcome variables.
+The Present Study
+In this article, we present decision analysis for intervention value
+efﬁciency (DAIVE), a strategy for optimization decision-making
+that uses a posterior expected value approach. We apply DAIVEto select optimized interventions in an empirical example fromHIV care, using data from the Heart to Heart 2 study (HTH2;Gwadz et al., 2017 ), in which a factorial optimization trial was
+conducted with the goal of optimizing an intervention to moveindividuals along the HIV care continuum. To highlight the newpossibilities for optimization that DAIVE makes available, we dem-onstrate DAIVE in 12 decision-making scenarios, each involving (a)
+one of three different optimization objectives and (b) one of four
+ways of de ﬁning the value of alternative interventions. The three
+optimization objectives incorporate either (a) no resource consider-ations, (b) ef ﬁciency considerations only, or (c) ef ﬁciency and
+affordability considerations. With the different ways of de ﬁning
+the value of alternative interventions, we consider decision-makingbased on one of the three outcome variables (described below) andbased on all three outcome variables. We apply DAIVE to identifypossible optimized interventions in the resulting 12 scenarios, andwe show how different optimized interventions may be appropriatefor different scenarios. We conclude by considering implications forintervention optimization and offering recommendations for inter-vention scientists using MOST who choose to apply DAIVE toselect optimized interventions using their own optimization trialdata.
+Method
+Transparency and Openness
+We use data from HTH2 ( Gwadz et al., 2017 ) to illustrate the use of
+DAIVE to identify optimized interventions in a variety of decision-making scenarios. Here, we describe our methods in two parts: meth-ods of relevance to (a) the source of our empirical data, HTH2 and (b)to our applications of DAIVE to data from the HTH2 optimizationtrial. Data were analyzed using R Version 4.0.3 (R Core Team,
+2021 ). The HTH2 optimization trial was preregistered on
+ClinicalTrials.gov (NCT02801747) and approved by the NYUIRB. Code is available in the online supplemental material A .SELECTING OPTIMIZED INTERVENTIONS IN MOST 3This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+Inquiries about data and materials may be directed to the correspond-
+ing author.
+The Empirical Illustration: HTH2
+The Goal of HTH2 and the Intervention Components of
+Interest
+The goal of the HTH2 optimization trial was to identify the com-
+bination of candidate intervention components that, while remain-ing affordable and ef ﬁcient, best promoted important health
+outcomes for individuals living with HIV and experiencing barriersto engagement in HIV treatment. The optimization trial involved512 African American, Black, and/or Latinx people living withHIV who were, at trial enrollment, neither suf ﬁciently engaged in
+HIV primary care at recommended levels (assessed from medicalrecords and quanti ﬁed in terms of time without a visit or number
+of missed visits) nor reliably taking HIV antiretroviral therapy(ART) to the point of achieving viral suppression. For additional eli-gibility criteria in HTH2, we refer readers to Gwadz et al. (2017) .
+The research team identi ﬁedﬁve experimental intervention compo-
+nents of interest and operationalized the components as two-levelfactors ( Table 1 ). Justi ﬁcation for the selection of experimental com-
+ponents and the de ﬁnition of factor levels is also provided in Gwadz
+et al. (2017) . An additional component was included but not exper-
+imentally manipulated; instead, it was provided to all HTH2 partic-ipants. This component provided standard HIV treatment education,consistent with the recommendations of the U.S. Department ofHealth and Human Services ( Gwadz et al., 2017 ), and will not be
+discussed further.
+Experimental Design
+The HTH2 trial used a 25−1fractional factorial design to esti-
+mate individual and combined effects of the factors representingtheﬁve experimental intervention components ( Gwadz et al.,
+2017 ). The potential advantages of the fractional factorial design
+are well documented (e.g., Collins et al., 2009 ). HTH2 ’s frac-
+tional factorial design yields estimates of ﬁve main effects, one
+for each factor, and 10 two-way interaction effects on eachoutcome of interest. These effects are then used to estimate
+expected outcomes ( ˆYs) for each of the 2
+5=32 combinations
+of factor levels.
+Measurement of the Empirical Outcomes in HTH2
+For the purposes of this study, we selected three outcome vari-
+ables of interest from HTH2: (a) HIV viral load ( VL), (b) a generic
+preference-based measure of health-related quality of life ( QOL ),
+and (c) engagement in HIV primary care ( Care). Outcome 1, VL,
+a continuous, log10-transformed variable, was assessed at a com-mercial laboratory using a blood specimen provided by the partici-pant ( Gwadz et al., 2017 ) both at screening and at two follow-up
+assessments that took place within a 1-year period. Outcome 2,QOL , was measured using the six-dimensional health state classi-
+ﬁcation, SF-6D ( Brazier & Roberts, 2004 ), derived from the
+Short-Form 12 Health Survey (SF-12). The SF-6D, which coversa range of general health functioning and health-related QOL
+domains, strategically incorporates general population preferencesfor different states of health and can be interpreted in quality-adjusted life year (QALY) units (with one QALY representing oneadditional year of life in good health). QOL was measured at base-
+line and at three follow-ups that took place within a 1-year period.Outcome 3, Care , was measured using the following interview ques-
+tion:“In the past year, have you received care from a health care pro-
+vider who specializes in treating HIV? ”Participants who answered
+“yes”to this item in any follow-up interview were considered
+engaged in HIV care.
+Measurement of Cost in HTH2
+In the present study, we focus on the monetary costs (in U.S. dol-
+lars, 2019) required to deliver each alternative intervention, perperson, from the perspective of the service provider. Each factor
+level in HTH2 was associated with a certain delivery cost(Table 1 ). Because costs were in this case additive, the per-person
+delivery cost for a speci ﬁc alternative intervention was equal to the
+sum of the costs of the factor levels making up that intervention,plus the cost of the constant component ($181.51). Total deliverycosts for the alternative interventions ranged from $484.24 per
+Table 1Experimental Components, Factor Levels, and Costs
+Component Brief descriptionFactor levels (and per-
+person delivery costs)
+Motivational interviewing
+sessionsFour counseling sessions, approximately 60 –90 min each,
+addressing health beliefs and emotions that serve as barriers to
+HIV care, barriers to ART, and barriers to treatment adherenceON ( MI; $461.98)/OFF
+Focused support groups Six group sessions over 4 months, aimed at increasing social
+support and reducing stigmaON ( SG; $502.35)/OFF
+Peer mentorship Regular interactions with a peer mentor/health coach over
+4 monthsON ( PM; $510.86)/OFF
+Preadherence skill building Individualized sessions following the HRSA guidelines aimed
+at promoting ART adherence and building habitsON ( SB; $245.02)/OFF
+Navigation Individualized menu of activities following HRSA guidelines,
+aimed at facilitating participants ’use of health and social
+services by identifying and circumventing structural barriers,
+called navigationLonger ( NL; $439.52)/
+Shorter ( NS; $302.73)
+Note. ART=antiretroviral therapy; HRSA =Health Resources and Services Administration.STRAYHORN ET AL. 4This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+person (the “minimal intervention, ”consisting of the shorter dura-
+tion of navigation) to $2,341.24 per person (the “complete inter-
+vention, ”consisting of motivational interviewing, skill-building,
+peer mentoring, focused support groups, and the longer durationof navigation).
+Applying DAIVE to Data From HTH2
+DAIVE uses a posterior expected value approach ( Strayhorn et al.,
+2023), which consists of the following steps. The starting point is the
+data obtained in the factorial optimiz ation trial on each outcome variable
+to be used in decision-making. Data on each empirical outcome are ana-lyzed using Bayesian factorial analysis of variance. This approach pro-duces a posterior distribution corresponding to each main effect andinteraction effect to be estimated. These are then used to obtain posteriordistributions for the expected outcomes, or ˆYs, on each outcome variable
+for each alternative intervention under consideration.
+When there are multiple empirical outcomes that decision-makers
+care about, a value function is used to combine the outcomes, yield-ing a posterior distribution for the expected value of each alternativeintervention. The value function re ﬂects decision-maker preferences
+about the variables of interest (i.e., which outcomes are important —
+and how important, relative to one another). As will be illustratedbelow, different value functions offer different ways of de ﬁning
+the value of the alternative interventions under consideration (i.e.,what is the most-preferred outcome or combination of outcomesfor the interventions?).
+Finally, selection of optimized interventions is based on com-
+parisons among (a) the expected values associated with eachalternative intervention and, when called for by the optimization
+objective, (b) the costs associated with each alternative interven-
+tion. This selection step relies on point estimates for expected val-ues, as consistent with precedents in the decision science literature,in which there are, in the words of Claxton (1999) ,“conceptually
+separate steps ”:ﬁrst, selecting an alternative to proceed with,
+given available evidence and second, determining whether moreevidence is needed about the performance of that alternative. Theﬁrst step “should be based only on the mean net bene ﬁts irrespec-
+tive of whether differences are statistically signi ﬁcant”(Claxton,
+1999 , p. 341); the second, based on the degree of uncertainty
+around that alternative (and possibly others). The challenges wefocus on in this article —that is, applying DAIVE to select an opti-
+mized intervention —fall within the ﬁrst of these conceptually sep-
+arate steps. In MOST, selection of an optimized intervention isfollowed by deliberation about whether the optimized interventionis promising enough to justify further evaluation ( Collins, 2018 ),
+as consistent with the second step; we return to this in the“Discussion ”section.
+We estimated expected outcomes in HTH2 using the brms pack-
+age (Bürkner, 2021 ). As detailed further in the online supplemental
+material A , we estimated main and interaction effects on VLat
+follow-up using Bayesian regression, equipped with the brms defaultpriors, controlling for (a) VLat screening and (b) the number of days
+that elapsed between the baseline and follow-up assessments. Weestimated main and interaction effects on QOL using Bayesian
+mixed effects regression, also equipped with brms default priors,that incorporated repeated measures of QOL . As a result, the main
+and interaction effects estimated can be interpreted as effects onaverage QOL over 1 year of follow-up. We estimated main andinteraction effects on Care using Bayesian logistic regression
+(again equipped with brms default priors), controlling for VLat
+screening. (See online supplemental material A for more informa-
+tion about these analyses, including code.) We de ﬁned three optimi-
+zation objectives ( Figure 1 ) that required different approaches to
+handling cost and four value functions (described later in this sec-
+tion) that re ﬂected different ways decision-makers may de ﬁne
+value in terms of these outcome variables of interest.
+Three Optimization Objectives
+Optimization objective 1 is met by identifying the intervention
+that maximizes the value function, with no consideration of costs(i.e., with no restrictive limit on affordability and no acknowledg-ment of opportunity costs). Optimization objective 2 is met byidentifying and then selecting from the set of “value-ef ﬁcient”inter-
+ventions. To de ﬁne value ef ﬁciency, it is ﬁrst necessary to de ﬁne
+dominance. One intervention dominates a second intervention iftheﬁrst has higher expected value and lower costs than the second
+(Drummond et al., 2015 ). The set of nondominated interventions
+is value-ef ﬁcient in the economic sense that it is not possible to
+achieve a more highly valued outcome without expending additionalresources (see, e.g., Varian, 2010 ). Once a set of value-ef ﬁcient
+interventions is identi ﬁed under Optimization objective 2, the next
+step involves selecting the most-preferred intervention fromamong the set. Selection of the most preferred intervention fromamong the set of value-ef ﬁcient interventions involves systematic
+consideration of each value-ef ﬁcient intervention, from least costly
+to most costly, with consideration of opportunity costs. Finally,Optimization objective 3 is met by identifying and then selectingfrom the set of value-ef ﬁcient interventions that are also affordable
+in the sense that they cost less than a hypothetical $1,500 program-speciﬁc budget. Again, the next step involves selecting the most-
+preferred intervention from among the set, with consideration ofopportunity costs.Figure 1
+Optimization Objectives and Scenarios of Interest
+Note.V L =HIV viral load outcome; QOL =generic preference-based mea-
+sure of health-related quality of life; Care =engagement in HIV primary care
+outcome.SELECTING OPTIMIZED INTERVENTIONS IN MOST 5This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+Four Ways of De ﬁning the Value of the Alternative
+Interventions
+For the purposes of this study, we de ﬁned four multiattribute
+value functions based on simple weighted sums that used differentsets of weights: three that assigned positive weight to only one out-come and zero to the others (value functions a through c) and onethat assigned positive weight to all three outcomes of interest(value function d). Each of these multiattribute value functionsshows how much performance on one outcome a decision-makeris willing to trade for reduced performance on another outcome.The simple weighted sum is just one of many possible value func-tions that can be used in DAIVE. We selected the weighted sumfor its (a) widespread use in MCDA ( Thokala et al., 2016 ); (b)
+ease of use and straightforward interpretation, relative to alterna-tives; and (c) potential generalizability to various contexts.
+With value functions a through c, we imagined that the decision-
+makers were interested in basing their selection of an optimizedintervention on a single primary outcome from among the threeoutcome variables. As described further below, we rescaled theoutcomes such that they were all on similar 0-to-1 scales wherea higher score was better. With value function a, the primary out-come was VL, so all weight was given to outcome VL:V=Y
+VL.
+With value function b, all weight was given to QOL :V=YQOL.
+With value function c, all weight was given to Care :V=YCare.
+These value functions re ﬂect the decision-maker preference that a
+higher value inte rvention is one that is associated with a better
+expected mean outcome (better VL, better QOL , or better Care ,
+respectively) —and with no willingness to trade performance on
+that outcome for performance on another outcome.
+With value function d, we imagined that decision-makers wanted to
+base decision-making on all three outcome variables —and that, of the
+three outcome variables, VLwas deemed most important, followed by
+QOL,f o l l o w e db y Care. There are many alternative strategies for
+picking outcome weights; for this study, we chose a swing weighting
+exercise (described in the online supplemental material B ), which
+gave us value function d: V = 0 .6(VL)+0.3(SF6D) +0.1(Care).
+Value function d represents the decision-maker preference that ahigher value intervention is one with a better li near combination
+of expected mean outcomes.
+Estimating Expected Value With the Four Value Functions
+True mean outcomes for the 32 alternative interventions under
+consideration are, of course, unknown. However, collecting data D(as collected in a factorial optimization trial) and applying astatistical model with effect parameters θ(such as a set of general-
+ized linear models for the outcomes incorporating identi ﬁable
+main and interaction effects θ
+j) yields estimates for these mean out-
+comes. We used Markov chain Monte Carlo (MCMC) to obtainsamples m=1…Mfrom the parameter posterior u
+j[m]/differenceP(uj|D)
+for each outcome j. Then for each parameter posterior sample
+draw for each outcome, we calculated the conditional mean
+outcome ˆYij(uj[m]); rescaled the conditional mean outcomes via the
+swing weighting exercise; applied the given scenario ’s value func-
+tion to the vector of conditional mean outcomes; and took theaverage to obtain the expected value of alternative intervention i:
+E[V(ˆY
+i,v)]=1
+M/summationdisplayM
+m=1V(ˆYi1(u1[m]),... ˆYiJ(uJ[m])).Results
+Table 2 provides costs and expected values for the 32 alternative
+interventions with value functions a through d. Decision-makingunder the different optimization objectives, then, is based on resultsinTable 2 , as follows.
+Optimization Objective 1: Identify the Intervention That
+Maximizes the Value Function
+With Optimization objective 1, selection of an optimized inter-
+vention is based on a comparison of expected values for the 32 alter-native interventions. With value functions b and d, the interventionthat maximizes the value function is the one that contains all compo-nents at the higher levels ( MI, SB, PM, SG, NL , i.e., the “complete
+intervention ”), whereas a suggests including only motivational inter-
+viewing, skill-building, peer mentoring, and the longer duration ofnavigation ( MI, SB, PM, NL ), and c suggests an intervention that
+contains only peer mentoring and the shorter duration of navigation(PM, NS ). Thus, the four different value functions yield three differ-
+ent optimized interventions under Optimization objective 1.
+Optimization Objective 2: Identify and Select From the
+Set of Value-Ef ﬁcient Interventions
+With Optimization objective 2, selection of an optimized inter-
+vention is based on a comparison of the expected values and costsassociated with the subset of alternative interventions that arevalue ef ﬁcient, relative to the full set of alternatives, with all alterna-
+tive interventions assumed to be affordable. Consider Scenario 2a, in
+which the decision-maker has selected VLas the primary outcome
+and used value function a to estimate expected values. Figure 2
+shows a plot of costs versus expected values for this scenario. Ascan be seen in the zoomed-in region of the plot, each point representsan alternative intervention containing some combination of factorlevels. The intervention including motivational interviewing, skill-building, peer mentoring, and the longer navigation ( MI, SB, PM,
+NL), which maximizes the value function in this scenario (as in
+Scenario 1a), is highlighted.
+Figure 3 plots cost versus expected value for Scenarios 2a through
+2d; the value-ef ﬁcient interventions in each scenario are identi ﬁed
+and connected with a solid line. Together, the identi ﬁed interventions
+in each plot make up the plot ’s“value ef ﬁciency frontier, ”which can
+be observed as a sort of “boundary ”in the plotted points. By de ﬁnition,
+the value ef ﬁciency frontier begins with th e least expensive alterna-
+tive—in this case, the intervention tha t includes only the shorter dura-
+tion of navigation ( NS)—and ends with the interv ention that maximizes
+the value function. Any additional alte rnatives on the frontier are those
+that are not dominated by any other intervention. Figure 3 illustrates
+how the frontier of ef ﬁciency can be very different in both shape and
+composition when different de ﬁnitions of value are used.
+To see how the frontier of ef ﬁciency can be helpful in decision-
+making, consider Scenario 2a again, starting with that least-expensive alternative, which includes the shorter duration of naviga-tion ( NS). Next, move up the solid line to the next intervention,
+which includes the longer duration of navigation ( NL). This inter-
+vention produces an improvement in value, relative to the least-expensive alternative, and the incremental cost of the improvementis reﬂected in the slope of the line segment connecting the twoSTRAYHORN ET AL. 6This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+dots (the dot for NSand the dot for NL). In this case, the shallow
+slope of this line re ﬂects that the increase in cost is modest. Now
+compare this slope to that of the next segment, the one representingthe improvement in value and increase in cost associated with mov-ing to the intervention consisting of motivational interviewing andthe longer duration of navigation ( MI, NL ). This slope is steeper,
+reﬂecting that the increase in value is relatively costlier (similar to
+the colloquial expression referring to the price of a consumer itemunder consideration as “steep”). The online supplemental material
+Bcontains several worked examples that illustrate the computations
+in more detail.
+The decision-maker can work up or down the value ef ﬁciency fron-
+tier to decide which intervention offers the best balance of expectedvalue and cost, with consideration of opportunity costs. If a line seg-ment on the frontier is suf ﬁciently steep, that suggests that the small
+increase in expected value for one alternative versus another comesat a large increase in cost —and perhaps, that those additional resources
+would be better devoted elsewhere. In Scenario 2a, for example, theremay be a reason to choose an alternative other than the one that max-imizes the value function, given opportunity costs.Optimization Objective 3: Identify and Select From the
+Set of Value-Ef ﬁcient Interventions That Can Be
+Delivered for Less Than $1,500 Per Person
+With Optimization objective 3, decision-making involves a compar-
+ison of costs and expected values for alternative interventions that arevalue-ef ﬁcient relative only to the other affordable alternatives, with
+affordability this time de ﬁned as costing less than $1,500
+per person in delivery costs. Figure 4 shows plotted costs versus
+expected values for four more scenarios (3a through 3d, withObjective 3 and value functions a through d, respectively). Inthese plots, interventions that fall within the shaded region areunaffordable and therefore eliminated from consideration. As before,the value ef ﬁciency frontier is indicated by connecting the value-
+efﬁcient alternatives with a solid line. Comparison of Figures 2
+and3shows that eliminating unaffordable alternatives from consid-
+eration can change the shape and composition of the frontier of ef ﬁ-
+ciency. The differences are particularly striking when the b and dvalue functions are used. Now that the “complete ”intervention is
+unaffordable, the frontier in Scenario 3b adds a new interventionTable 2Costs and Expected Values (With 95% Credible Intervals) for the 32 Alternative Interventions With Value Functions a Through d
+Intervention Cost ($)aV=VL bV=QOL cV=CaredV=0.6*VL+
+0.3*QOL + 0.1* Care
+EV Lower, upper EV Lower, upper EV Lower, upper EV Lower, upper
+NS 484 0.438 [0.214, 0.660] 0.417 [0.221, 0.609] 0.809 [0.516, 0.963] 0.476 [0.329, 0.621]
+MI, NS 946 0.391 [0.179, 0.606] 0.498 [0.306, 0.686] 0.739 [0.484, 0.910] 0.464 [0.324, 0.603]
+SG, NS 987 0.606 [0.381, 0.829] 0.269 [0.075, 0.461] 0.808 [0.558, 0.956] 0.531 [0.385, 0.676]MI, SG, NS 1,449 0.530 [0.307, 0.749] 0.450 [0.256, 0.649] 0.828 [0.567, 0.961] 0.542 [0.397, 0.685]PM, NS 995 0.283 [0.079, 0.490] 0.403 [0.212, 0.587] 0.941 [0.798, 0.999] 0.396 [0.263, 0.529]
+MI, PM, NS 1,457 0.368 [0.160, 0.578] 0.600 [0.411, 0.788] 0.929 [0.794, 0.989] 0.502 [0.367, 0.639]
+SG, PM, NS 1,497 0.407 [0.190, 0.619] 0.351 [0.163, 0.531] 0.791 [0.480, 0.959] 0.436 [0.294, 0.575]MI, SG, PM, NS 1,959 0.462 [0.256, 0.666] 0.647 [0.470, 0.827] 0.819 [0.583, 0.958] 0.559 [0.425, 0.691]SB, NS 729 0.374 [0.164, 0.579] 0.553 [0.389, 0.715] 0.796 [0.600, 0.933] 0.476 [0.342, 0.608]
+MI, SB, NS 1,191 0.257 [0.039, 0.475] 0.479 [0.298, 0.670] 0.478 [0.033, 0.809] 0.348 [0.203, 0.496]
+SB, SG, NS 1,231 0.628 [0.403, 0.851] 0.507 [0.309, 0.700] 0.825 [0.546, 0.961] 0.616 [0.469, 0.761]MI, SB, SG, NS 1,694 0.481 [0.233, 0.731] 0.533 [0.327, 0.742] 0.727 [0.452, 0.916] 0.525 [0.364, 0.687]SB, PM, NS 1,240 0.404 [0.188, 0.621] 0.507 [0.328, 0.694] 0.906 [0.727, 0.986] 0.493 [0.354, 0.633]
+MI, SB, PM, NS 1,702 0.417 [0.203, 0.632] 0.549 [0.361, 0.742] 0.755 [0.494, 0.932] 0.496 [0.355, 0.637]
+SB, PM, SG, NS 1,742 0.613 [0.383, 0.842] 0.558 [0.366, 0.763] 0.712 [0.437, 0.899] 0.608 [0.459, 0.757]MI, SB, PM, SG, NS 2,204 0.597 [0.364, 0.833] 0.700 [0.507, 0.897] 0.542 [0.106, 0.848] 0.621 [0.414, 0.643]NL 621 0.551 [0.378, 0.726] 0.399 [0.240, 0.560] 0.740 [0.531, 0.896] 0.529 [0.414, 0.643]
+MI, NL 1,083 0.628 [0.411, 0.849] 0.505 [0.318, 0.689] 0.705 [0.344, 0.918] 0.601 [0.457, 0.745]
+SG, NL 1,123 0.530 [0.325, 0.735] 0.218 [0.041, 0.396] 0.842 [0.602, 0.963] 0.475 [0.341, 0.608]MI, SG, NL 1,585 0.578 [0.377, 0.778] 0.424 [0.249, 0.599] 0.895 [0.725, 0.984] 0.570 [0.440, 0.700]PM, NL 1,132 0.452 [0.232, 0.671] 0.410 [0.224, 0.599] 0.893 [0.701, 0.983] 0.491 [0.350, 0.632]
+MI, PM, NL 1,594 0.660 [0.434, 0.885] 0.631 [0.435, 0.822] 0.880 [0.672, 0.984] 0.677 [0.531, 0.823]
+SG, PM, NL 1,634 0.386 [0.184, 0.588] 0.325 [0.144, 0.511] 0.766 [0.54, 0.919] 0.413 [0.280, 0.545]MI, SG, PM, NL 2,096 0.565 [0.344, 0.787] 0.647 [0.463, 0.829] 0.839 [0.591, 0.963] 0.621 [0.478, 0.764]SB, NL 866 0.441 [0.234, 0.647] 0.590 [0.409, 0.775] 0.784 [0.475, 0.945] 0.525 [0.389, 0.660]
+MI, SB, NL 1,328 0.447 [0.243, 0.650] 0.541 [0.361, 0.720] 0.607 [0.335, 0.824] 0.493 [0.359, 0.627]
+SB, SG, NL 1,368 0.505 [0.304, 0.703] 0.513 [0.336, 0.681] 0.901 [0.732, 0.988] 0.554 [0.424, 0.618]MI, SB, SG, NL 1,830 0.481 [0.258, 0.706] 0.563 [0.379, 0.763] 0.883 [0.677, 0.981] 0.553 [0.409, 0.697]SB, PM, NL 1,376 0.526 [0.283, 0.768] 0.570 [0.372, 0.780] 0.857 [0.618, 0.983] 0.578 [0.421, 0.734]
+MI, SB, PM, NL 1,838 0.662 [0.426, 0.897] 0.637 [0.436, 0.837] 0.727 [0.36, 0.931] 0.663 [0.508, 0.816]
+SB, PM, SG, NL 1,879 0.545 [0.323, 0.768] 0.589 [0.392, 0.781] 0.754 [0.414, 0.941] 0.582 [0.436, 0.729]MI, SB, PM, SG, NL 2,341 0.652 [0.361, 0.948] 0.754 [0.522, 0.989] 0.706 [0.35, 0.936] 0.689 [0.500, 0.875]
+Note. Costs (in US dollars, 2019) are rounded to the nearest dollar. “EV”=expected value as estimated using a given value function ( “V”);“Lower ”=lower
+bound of a given 95% credible interval; “Upper ”=upper bound of a given 95% credible interval; VL =HIV viral load outcome; QOL =generic preference-
+based measure of health-related quality of life; Care =engagement in HIV primary care outcome; MI =motivational interviewing is set to “On”;S B=skill-
+building is set to “On”;P M=peer mentoring is set to “On”;S G=support groups is set to “On”;N L=navigation is set to its longer duration; NS =navigation is
+set to its shorter duration.SELECTING OPTIMIZED INTERVENTIONS IN MOST
+7This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+consisting of motivational interviewing, peer mentoring, and the
+shorter duration of navigation ( MI, PM, NS ) into consideration.
+The frontier in Scenario 3d, similarly, adds a new alternative consist-ing of skill-building, support groups, and the shorter duration of nav-igation ( SB, SG, NS ). In each of these scenarios, the intervention
+added moved onto the frontier of ef ﬁciency, and therefore into con-
+sideration, only after the interventions deemed unaffordable wereremoved as alternatives.
+Discussion
+In MOST, the optimized intervention is one that, relative to the alter-
+natives under consideration, is expected to best accomplish interven-tion EASE , balancing effectiveness with affordability, scalability,
+and/or ef ﬁciency criteria. The meaning assigned to the EASE criteria
+will vary according to decision-makers ’objectives and prefer-
+ences—and, accordingly, so too may the choice of optimized interven-
+tion. One advantage of a posterior expected value approach to selectingan optimized intervention is the ability to ﬂexibly accommodate a vari-
+ety of optimization objectives and decision-maker preferences, includ-ing preferences about more than one outcome variable. In this article,we illustrate the use of DAIVE to select optimized interventions basedon empirical data from an optimization trial ( Gwadz et al., 2017 ), andwe show how the choice of optimized intervention can vary with dif-
+ferent optimization objectives and different value functions re ﬂecting
+decision-maker preferences about outcome variables.
+With Optimization objective 1, the goal was to identify the inter-
+vention that maximized the value function. Notably, in this empiricalillustration, optimization based on different selected primary out-come variables resulted in different optimized interventions. Whywere there such differences in the selection of an optimizedintervention with different single outcome value functions? InHTH2, the experimental factors had different patterns of effects,including main effects and interaction effects, on different outcomevariables. In optimization trials in which the experimental factorshave more similar effects on different outcome variables, more con-sistency in decision-making across analogous scenarios would beexpected. Still, this empirical example demonstrates that tradeoffsin performance on different outcomes are possible and perhaps thenorm in actual applications of intervention optimization. DAIVEoffers a framework for making decisions consistent with decision-maker preferences when such tradeoffs occur.
+Optimization objectives 2 and 3 incorporated the concept of inter-
+vention value ef ﬁciency —and the idea that any intervention that
+falls on the value ef ﬁciency frontier could be a contender for the opti-
+mized intervention, depending on opportunity costs. With theseFigure 2
+Per Person Delivery Costs Versus Expected Values for the 32 Alternative Interventions in One Scenario
+Note. Each dot represents an alternative intervention. MIindicates that motivational interviewing is set to “On”;SB, that skill-building is set to “On”;PM, that
+peer mentoring is set to “On”; and SG, that support groups is set to “On.”NLindicates that navigation is set to its longer duration; NS, that navigation is set to its
+shorter duration. The intervention that maximizes this value function ( MI, SB, PM, NL ) is highlighted with a box. See the online article for the color version of
+thisﬁgure.STRAYHORN ET AL. 8This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+optimization objectives, the goal was to identify and select from the set
+of value-ef ﬁcient interventions, without or with a restrictive budget
+limit de ﬁning affordability, respectively. In some cases (3b and 3d),
+redeﬁning affordability meant that a previously dominated intervention
+became value-ef ﬁcient when the intervention that dominated was
+deemed unaffordable.
+Consider again the results in Scenario 3d, with the multiple out-
+comes value function. Scenario 3d illustrates one reason why,when it is necessary to make changes in response to reductions inimplementation resources, it is often a good idea to base the changeson intervention optimization. Suppose a decision-maker had used theresults shown in Figure 2 to select an intervention based on Scenario
+2d, selecting the alternative consisting of motivational interviewing,peer mentoring, and the longer duration of navigation ( MI, PM, NL ).
+Now suppose the decision-maker learns that the relevant budget foreventual implementation of the intervention has been cut; as a result,this alternative, along with all others costing more than $1,500, is offthe table. It might be tempting for the decision-maker to simply selecta reduced intervention consisting of a subset of the originally selectedalternative. In fact, this would not necessarily be a bad strategy in thiscase; Figure 4 shows that removing peer mentoring would produce an
+intervention ( MI, NL ) that is value-ef ﬁcient. However, Figure 4 also
+shows that, although it is a bit counterintuitive, a better alternativemight be an entirely different intervention, made up of skill-building,support groups, and the shorter duration of navigation ( SB, SG, NS ).
+This alternative costs more but is within the budget limit, and it isexpected to deliver more in terms of expected value. Moreover, with-out the information from the optimization trial, the ad hoc modi ﬁca-
+tion of the intervention that was initially chosen in an effort to achieveaffordability could easily have been counterproductive. For example,the ad hoc elimination of motivational interviewing, instead of peermentoring, would result in an intervention that is not
+value-ef ﬁcient—and probably no type of ad hoc modi ﬁcation
+would suggest the intervention made up of skill-building, support
+groups, and the shorter duration of navigation ( SB, SG, NS ).
+Still, though we argue that this new alternative ( SB, SG, NS )
+should be considered value-ef ﬁcient under this sort of affordability
+limit, and with value ef ﬁciency de ﬁn e ds t r i c t l yi nt e r m so ft h e
+available resources, the ﬁnding also remains that there would at
+least theoretically be less steepness in other choices (e.g., that alter-native consisting of motivational interviewing, peer mentoring, andthe longer duration of navigation) if they were affordable. This maysuggest that the strict budget of $1,500 per person should be renego-tiated. In the present empirical illustration, the case for budget rene-gotiation is particularly strong, given that the cutoff was selectedarbitrarily, for illustration purposes. Of course, we recognize thatin practice, intervention scientists may not have any direct involve-ment in the negotiation of budget allocations. In cases likeScenario 3d, best practice may involve reporting not only the selec-tion of an optimized intervention, given the strict upper limit onaffordability, but also a full set of alternatives so they will be avail-able should consideration be given to increasing the budget.
+Choosing Outcome Weights for Use in the Selection of an
+Optimized Intervention
+In the present study, we used a simple weighted sum value func-
+tion that incorporated hypothetical preferences about three outcomevariables of interest. If we had used different weights, re ﬂecting dif-
+ferent degrees of relative importance in outcome variables, we wouldhave likely obtained different results. This is appropriate; in differentscenarios, different interventions may be better contenders for theFigure 3
+Per Person Delivery Costs Versus Expected Values for the 32 Alternative Interventions in Four Scenarios
+Note. Each scenario uses a different de ﬁnition of value. Each dot represents an alternative intervention. MIindicates that motivational interviewing is set to
+“On”;SB, that skill-building is set to “On”;PM, that peer mentoring is set to “On”; and SG, that support groups is set to “On.”NLindicates that navigation is set
+to its longer duration; NS, that navigation is set to its shorter duration. MI, SB, PM, SG , and NLare the “complete intervention. ”NSis the “minimal interven-
+tion.”In a given scenario, the value ef ﬁciency frontier is highlighted with a solid line; each intervention on this line is value ef ﬁcient.SELECTING OPTIMIZED INTERVENTIONS IN MOST 9This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+optimized intervention. In practice, we recommend that outcome
+variable weights be chosen a priori, for example, via a preliminaryswing weighting exercise. However, the systematic variation ofweights can also be a useful exercise. For example, even whendecision-makers have decided upon a set of outcome weights, itcan be bene ﬁcial for decision-makers to also (a) observe the results
+in the single primary outcomes cases, (b) check whether decisionsare robust to small changes in weights, and/or (c) consider alternativeplausible sets of weights, such as the equal-weight case in whicheach outcome is given the same weight. Such exercises may beparticularly useful in helping to establish consensus about how theoutcome variables are to be weighted when more than one decision-maker must work together to arrive at a single optimized intervention.
+Choosing Costs for Use in the Selection of an Optimized
+Intervention
+In this illustration of DAIVE, we incorporated information about
+the per-person delivery costs associated with each alternative inter-vention (from the perspective of the service provider), and weused this information to make ef ﬁciency and affordability determi-
+nations. Other costs or resource considerations could also be usedfor these purposes, as applicable, depending on decision-makers ’
+priorities. For example, in some cases, time may be a more relevantconstraint than monetary cost, whether in terms of opportunity costs,such that the interventions that are value ef ﬁcient in their use of the
+available time are compared; or a strict upper limit; or both.Choosing costs for optimization purposes is a matter of de ﬁning
+the metric(s) of most relevance to determining which interventioncomponents are worth advancing further.Additional cost-related analyses can also be conducted with the
+results of a factorial optimization trial, including more formal cost-effectiveness analysis. The opportunity costs we consider in the pre-sent illustration do form the basis of traditional bene ﬁt-cost and cost-
+effectiveness analysis ( Danzon et al., 2018 ), and optimization objec-
+tives including opportunity costs can be considered a form ofprovider-perspective cost-effectiveness analysis. This is differentfrom societal or healthcare sector bene ﬁt–cost or cost-effectiveness
+analysis, which includes the resource consequences of downstreameffects associated with changed behavior, modi ﬁed course of dis-
+ease, etc. ( Neumann et al., 2016 ). The cost-related determinations
+we make in the present illustration are not intended to replaceother forms of economic analysis that take other perspectives; rather,they can be considered complementary.
+Progressing to Next Steps in MOST
+As noted previously, the optimization phase in MOST is followed
+by an evaluation phase in which the selected optimized interventionis evaluated further. Of course, it makes sense to proceed with eval-uation only if there is suf ﬁcient evidence that the selected optimized
+will be worth additional experimentation. Once an optimized inter-vention is selected, intervention scientists may want to consider notonly the magnitude of the expected outcome(s) associated with theoptimized intervention but also the uncertainty around those out-comes (e.g., in the form of a credible interval). If the selection ofan optimized intervention was based on expected value estimates,then those estimates can also be converted back to individual out-comes —that is, on the original outcome metrics —for ease of inter-
+pretation. One of the advantages of DAIVE ’s Bayesian paradigm isFigure 4
+Per Person Delivery Costs Versus Expected Values for the 32 Alternative Interventions in Four Scenarios, With an Upper Limit onAffordability ($1,500)
+Note. Each scenario uses a different de ﬁnition of value. Each dot represents an alternative intervention. MIindicates that motivational interviewing is set to
+“On”;SB, that skill-building is set to “On”;PM, that peer mentoring is set to “On”; and SG, that support groups is set to “On.”NLindicates that navigation is set
+to its longer duration; NS, that navigation is set to its shorter duration. MI, SB, PM, SG , and NLare the “complete intervention. ”NSis the “minimal interven-
+tion.”With a restrictive affordability limit of $1,500 per person, interventions that fall within the gray shading are unaffordable and removed from consi der-
+ation. In a given scenario, the value ef ﬁciency frontier is highlighted with a solid line; each intervention on this line is value ef ﬁcient.STRAYHORN ET AL. 10This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+the opportunity to make probabilistic statements about point esti-
+mates that communicate uncertainty in a way that may be readilyinterpretable by, and helpful for, decision-makers; investigatinghow decision-makers should approach the consideration of uncer-tainty in progressing from the optimization phase to the evaluationphase is an important future direction. One possibility involvesusing value of information analysis (e.g., Wilson, 2015 ) to investigate
+whether narrowing the uncertainty around one or more point esti-mates—that is, for one optimized intervention or maybe for multiple
+interventions on a value ef ﬁciency frontier —is worth the additional
+research resources.
+Limitations and Additional Future Directions
+We consider decision-making based on the results of the HTH2
+optimization trial in a variety of realistic scenarios, but we do notselect a single, de ﬁnitive optimized intervention in any of these sce-
+narios. In practice, selecting a single optimized intervention wouldrequire more careful elicitation of the preferences of all involveddecision-makers. There are many well-established methods for pref-erence elicitation (e.g., de Bekker-Grob et al., 2012 ;Louviere, 2008 ;
+Salloum et al., 2017 ). As noted above, in optimization phase
+decision-making there may be good reason to both establish prefer-ences a priori and carefully vary outcome variables and outcome
+weights, for example, to explore the robustness of the decisions
+that result. Future work could inform best practices in this area.Moreover, in practice decisions may have to be made by multipledecision-makers, some (or all) of whom may have different prefer-ences about the outcome variables of interest. In such cases, theremay be a need not only to elicit preferences but also to come to a con-sensus, such that a single value function can be agreed upon.
+For this study, we assumed decision-makers were members of the
+research team who conducted the optimization trial and were respon-sible for selecting an optimized intervention to advance further. Wealso assumed that it was the decision-maker ’s preferences in a given
+scenario that informed the optimization objective and value func-tion. In some cases, it may also be worth systematically elicitingand incorporating preferences from additional interested parties,including payors, policymakers, intervention implementers and par-ticipants, and so on. It may sometimes be worth more directly includ-ing some additional interested parties in the selection of anoptimized intervention; incorporating methods from the stakeholderengagement literature (e.g., Byrne, 2019 ;Salloum et al., 2017 )i sa n
+intriguing area for future research.
+References
+Brazier, J. E., & Roberts, J. (2004). The estimation of a preference-based
+measure of health from the SF-12. Medical Care ,42(9), 851 –859.
+https://doi.org/10.1097/01.mlr.0000135827.18610.0d
+Bürkner, P. (2021). Bayesian item response modeling in R with brms and
+Stan. Journal of Statistical Software ,100(5), 1 –54.https://doi.org/10
+.18637/jss.v100.i05
+Byrne, M. (2019). Increasing the impact of behavior change intervention
+research: Is there a role for stakeholder engagement? Health Psychology ,
+38(4), 290 –296. https://doi.org/10.1037/hea0000723
+Claxton, K. (1999). The irrelevance of inference: A decision-making
+approach to the stochastic evaluation of health care technologies.
+Journal of Health Economics ,18(3), 341 –364. https://doi.org/https://doi
+.org/10.1016/S0167-6296(98)00039-3Collins, L. M. (2018). Optimization of behavioral, biobehavioral, and bio-
+medical interventions: The multiphase optimization strategy (MOST) .
+Springer.
+Collins, L. M., Dziak, J. J., & Li, R. (2009). Design of experiments with mul-
+tiple independent variables: A resource management perspective on com-plete and reduced factorial designs. Psychological Methods ,14(3), 202 –
+224. https://doi.org/10.1037/a0015826
+Collins, L. M., Murphy, S. A., & Nair, V. N. (2005). A strategy for optimizing
+and evaluating behavioral interventions. Annals of Behavioral Medicine ,
+30(1), 65 –73.https://doi.org/10.1207/s15324796abm3001_8
+Collins, L. M., Strayhorn, J. C., & Vanness, D. J. (2021). One view of the
+next decade of research on behavioral and biobehavioral approaches tocancer prevention and control: Intervention optimization. Translational
+Behavioral Medicine ,11(11), 1998 –2008. https://doi.org/10.1093/tbm/
+ibab087
+Collins, L. M., Trail, J. B., Kugler, K. C., Baker, T. B., Piper, M. E., &
+Mermelstein, R. J. (2014). Evaluating individual intervention components:Making decisions based on the results of a factorial screening experiment.
+Translational Behavioral Medicine ,4(3), 238 –251. https://doi.org/10
+.1007/s13142-013-0239-7
+Danzon, P. M., Drummond, M. F., Towse, A., & Pauly, M. V. (2018).
+Objectives, budgets, thresholds, and opportunity costs —A health econom-
+ics approach: An ISPOR special task force report [4]. Value in Health ,
+21(2), 140 –145. https://doi.org/10.1016/j.jval.2017.12.008
+de Bekker-Grob, E. W., Ryan, M., & Gerard, K. (2012). Discrete choice
+experiments in health economics: A review of the literature. Health
+Economics ,21(2), 145
+–172. https://doi.org/10.1002/hec.1697
+Drummond, M. F., Sculpher, M. J., Claxton, K., Stoddart, G. L., & Torrance,
+G. W. (2015). Methods for the economic evaluation of health care pro-
+grammes . OUP.
+Ellman, T. M., Alemayehu, B., Abrams, E. J., Arpadi, S., Howard, A. A., &
+El-Sadr, W. M. (2017). Selecting a viral load threshold for routine moni-
+toring in resource-limited settings: Optimizing individual health and pop-
+ulation impact. Journal of the International AIDS Society ,20(Suppl 7),
+Article e25007. https://doi.org/10.1002/jia2.25007
+Gwadz, M. V., Collins, L. M., Cleland, C. M., Leonard, N. R., Wilton, L.,
+Gandhi, M., Scott Braithwaite, R., Perlman, D. C., Kutnick, A., &
+Ritchie, A. S. (2017). Using the multiphase optimization strategy (MOST)
+to optimize an HIV care continuum intervention for vulnerable populations:A study protocol. BMC Public Health ,17(1), Article 383. https://doi.org/10
+.1186/s12889-017-4279-7
+Kazdin, A. E. (1979). Therapy outcome questions requiring control of
+credibility and treatment-generated expectancies. Behavior Therapy ,10(1),
+81–93.https://doi.org/10.1016/S0005-7894(79)80011-8
+Kazdin, A. E. (2000). Developing a research agenda for child and adolescent
+psychiatry. Archives of General Psychiatry ,57(9), 829 –835. https://
+doi.org/10.1001/archpsyc.57.9.829
+Keeney, R. L., & Raiffa, H. (1976). Decisions with multiple objectives:
+Preferences and value tradeoffs . Cambridge University Press.
+Louviere, J. J. (2008). Modeling the choices of individual decision-makers
+by combining ef ﬁcient choice experiment designs with extra preference
+information. Journal of Choice Modelling ,1(1), 128 –163. https://
+doi.org/10.1016/S1755-5345(13)70025-3
+Montgomery, D. C. (2020). Design and analysis of experiments (10th
+ed.). Wiley.
+Neumann, P. J., Sanders, G. D., Russell, L. B., Siegel, J. E., & Ganiats, T. G.
+(2016). Cost-effectiveness in health and medicine . Oxford University
+Press.
+Nezu, A. M., & Perri, M. G. (1989). Social problem-solving therapy for uni-
+polar depression: An initial dismantling investigation. Journal of
+Consulting and Clinical Psychology ,57(3), 408 –413. https://doi.org/10
+.1037/0022-006X.57.3.408SELECTING OPTIMIZED INTERVENTIONS IN MOST
+11This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+Phelps, C. E. (2019). A new method to determine the optimal willingness to
+pay in cost-effectiveness analysis. Value in Health ,22(7), 785 –791.
+https://doi.org/10.1016/j.jval.2019.03.003
+Piper, M. E., Fiore, M. C., Smith, S. S., Fraser, D., Bolt, D. M., Collins, L.
+M., Mermelstein, R., Schlam, T. R., Cook, J. W., Jorenby, D. E., Loh,
+W.-Y., & Baker, T. B. (2016). Identifying effective intervention compo-
+nents for smoking cessation: A factorial screening experiment. Addiction ,
+111(1), 129 –141. https://doi.org/10.1111/add.13162
+R Core Team. (2021). R: A language and environment for statistical comput-
+ing. R Foundation for Statistical Computing. https://www.R-project.org/
+Russell, L. B. (1992). Opportunity costs in modern medicine. Health Affairs ,
+11(2), 162 –169. https://doi.org/10.1377/hlthaff.11.2.162
+Salloum, R. G., Shenkman, E. A., Louviere, J. J., & Chambers, D. A. (2017).
+Application of discrete choice experiments to enhance stakeholder engage-
+ment as a strategy for advancing implementation: A systematic review.
+Implementation Science ,12(1), Article 140. https://doi.org/10.1186/
+s13012-017-0675-8
+Savage, L. J. (1972). The foundations of statistics . Courier Corporation.
+Spring, B., Pfammatter, A. F., Marchese, S. H., Stump, T., Pellegrini, C.,
+McFadden, H. G., Hedeker, D., Siddique, J., Jordan, N., & Collins, L.M. (2020). A factorial experiment to optimize remotely delivered behavio-
+ral treatment for obesity: Results of the Opt-IN study. Obesity ,28(9),
+1652–1662. https://doi.org/https://doi.org/10.1002/oby.22915
+Strayhorn, J. C., Collins, L. M., & Vanness, D. J. (2023). A posterior
+expected value approach to decision-making in the multiphase optimiza-tion strategy for intervention science. Psychol Methods . Advance online
+publication. https://doi.org/10.1037/met0000569
+Thokala, P., Devlin, N., Marsh, K., Baltussen, R., Boysen, M., Kalo, Z.,
+Longrenn, T., Mussen, F., Peacock, S., Watkins, J., & Ijzerman, M.
+(2016). Multiple criteria decision analysis for health care decision mak-ing—An introduction: Report 1 of the ISPOR MCDA Emerging Good
+Practices Task Force. Value in Health ,19(1), 1 –13.https://doi.org/10
+.1016/j.jval.2015.12.003Vanness, D. J., Lomas, J., & Ahn, H. (2021). A health opportunity cost
+threshold for cost-effectiveness analysis in the United States. Annals of
+Internal Medicine ,174(1), 25 –32.https://doi.org/10.7326/M20-1392
+Varian, H. R. (2010). Intermediate microeconomics: A modern approach .
+W.W. Norton.
+von Winterfeldt, D., & Edwards, W. (1986). Decision analysis and behavio-
+ral research . Cambridge University Press.
+West, S. G., & Aiken, L. S. (1997). Toward understanding individual effects
+in multicomponent prevention programs: Design and analysis strategies.In K. J. Bryant, M. Windle, & S. G. West (Eds.), The science of prevention:
+Methodological advances from alcohol and substance abuse research(pp. 167 –209). American Psychological Association. https://doi.org/10
+.1037/10222-006
+Wilson, E. C. F. (2015). A practical guide to value of information analysis.
+PharmacoEconomics ,33(2), 105 –121. https://doi.org/10.1007/s40273-
+014-0219-x
+World Health Organization, Regional Of ﬁce for South-East Asia. (2021).
+Ending AIDS as a public health threat in the South-East Asia Region:Progress, challenges and the way forward .https://apps.who.int/iris/
+handle/10665/344736
+Wyrick, D. L., Rulison, K. L., Fearnow-Kenney, M., Milroy, J. J., & Collins,
+L. M. (2014). Moving beyond the treatment package approach todeveloping behavioral interventions: Addressing questions that arose
+during an application of the multiphase optimization strategy (MOST).
+Translational Behavioral Medicine ,4(3), 252 –259. https://doi.org/10
+.1007/s13142-013-0247-7
+Yates, B. T. (1980). Improving effectiveness and reducing costs in mental
+health . Thomas.
+Received May 6, 2022
+Revision received April 17, 2023
+Accepted June 8, 2023 ▪STRAYHORN ET AL. 12This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.

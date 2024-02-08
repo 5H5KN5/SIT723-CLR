@@ -1,0 +1,845 @@
+Person-Specific Dose-Finding for a Digital Messaging 
+Intervention to Promote Physical Activity
+Sarah Hojjatinia1, Sahar Hojjatinia1, Constantino M. Lagoa1, Deborah Brunke-Reese2, 
+David E. Conroy2,3
+1School of Electrical Engineering & Computer Science, The Pennsylvania State University
+2Department of Kinesiology, The Pennsylvania State University
+3Department of Preventive Medicine, Northwestern University
+Abstract
+OBJECTIVE: Digital messaging is an established method for promoting physical activity. 
+Systematic approaches for dose-finding have not been widely used in behavioral intervention 
+development. We apply system identification tools from control systems engineering to estimate 
+dynamical models and inform decision rules for digital messaging intervention to promote 
+physical activity.
+METHODS: Insufficiently-active emerging and young adults (n = 45) wore an activity monitor 
+that recorded minute-level step counts and heart rate, and received 0–6 digital messages daily on 
+their smartphone for six months. Messages were drawn from three content libraries (move more, 
+sit less, inspirational quotes). Location recordings via location services in the user’s smartphone 
+were used to lookup weather indices at the time and place of message delivery. Following 
+system identification, responses to each message type were simulated under different conditions. 
+Response features were extracted to summarize dynamic processes.
+RESULTS: A generic model based on composite data was conservative and did not capture 
+the heterogeneous responses evident in person-specific models. No messages were uniformly 
+ineffective but responses to specific message content in different contexts varied between people. 
+Exterior temperature at the time of message receipt moderated the size of some message effects.
+CONCLUSIONS: A generic model of message effects on physical activity can provide the initial 
+evidence for context-sensitive decision rules in a just-in-time adaptive intervention, but it is likely 
+to be error-prone and inefficient. As individual data accumulates, person-specific models can 
+be estimated to optimize treatment and evolve as people are exposed to new environments and 
+accumulate new experiences.
+Correspondence concerning this article should be addressed to David Conroy, 266 Rec Hall, The Pennsylvania State University, 
+University Park, PA 16802. conroy@psu.edu.
+Sarah Hojjatinia is now at Advanced Safety & User Experience, Aptiv.
+Sarah and Sahar Hojjatinia contributed to formal analysis, software, writing portions of the original draft, and reviewing and editing 
+the paper. Constantino Lagoa contributed to conceptualization, formal analysis, funding acquisition, methodology, supervision, and 
+reviewing and editing the paper. Deborah Brunke-Reese contributed to investigation, project administration, and reviewing and editing 
+the paper. David Conroy contributed to conceptualization, funding acquisition, methodology, project administration, supervision, 
+writing a portion of the original draft, and reviewing and editing the paper.
+Trial registration: Clinicaltrials.gov  Identifier NCT03907683 .
+HHS Public Access
+Author manuscript
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Published in final edited form as:
+Health Psychol . 2021 August ; 40(8): 502–512. doi:10.1037/hea0001117.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Keywords
+mobile health; precision medicine; prevention; social ecology; patient-specific computational 
+modeling
+Physical activity is a widely recommended behavior across the lifespan because it reduces 
+risk for chronic diseases and improves well-being but only 1 in 3 adults achieves the 
+recommended level of physical activity ( Bennie et al., 2019 ). Over 95% of emerging 
+and young adults have smartphones that afford new possibilities for promoting physical 
+activity during the transition into adulthood ( Pew Research Center, 2019 ). Digital messages 
+via text messages or notifications have become a popular mode for motivating physical 
+activity ( Smith et al., 2020 ). The timing and frequency of messages varies considerably 
+between interventions but dosing parameters have typically been constant for all participants 
+receiving the intervention. We recently proposed that the optimal dosing of digital messages 
+for physical activity promotion may be person-specific ( Conroy et al., 2020 ). In this paper, 
+we apply methods from control systems engineering to address the challenge of person­
+specific dose-finding for a digital messaging intervention.
+Physical Activity Promotion
+Physical activity has been called the “best buy” in public health because of its multi­
+system benefits for health ( Powell et al., 2011 ). The World Health Organization and the 
+United States Department of Health and Human Services have issued guidelines for health­
+enhancing physical activity ( Bull et al., 2020 ; U.S. Department of Health and Human 
+Services, 2018 ). Both guidelines recommend accumulating at least 150 minutes/week 
+of moderate-intensity or 75 minutes/week of vigorous-intensity physical activity (or an 
+equivalent combination). Yet most American adults, including emerging and young adults, 
+fail to achieve this recommended level of aerobic physical activity ( Bennie et al., 2019 ).
+Inactivity during the transition into adulthood is a particular concern because physical 
+inactivity tracks across the lifespan. Although the biggest decreases occur in adolescence 
+and midlife, emerging and young adulthood represent a time of increased independence and 
+identity exploration that can have lasting effects on physical activity in adulthood ( Nelson 
+et al., 2008 ). Promoting physical activity during this period, when contextual cues are 
+frequently disrupted, can promote long-term health outcomes. For example, the CARDIA 
+study found that young adults who engage in regular physical activity are more likely to 
+have a low risk profile (i.e., no cardiovascular events) 20 years later ( Liu et al., 2012 ).
+Unfortunately, this segment of the population often eludes the reach of traditional health 
+care interventions because they feel healthy, have not developed chronic conditions that 
+would require care, and do not see physicians regularly for preventive care ( Dietz, 2017 ; 
+Monaghan, 2014 ). One way to reach them may be through the digital environment. Over 
+95% of emerging and young adults in the United States have smartphones ( Pew Research 
+Center, 2019 ). Wearable activity trackers, smartphone applications, and text messages 
+produce small-to-moderate effects on physical activity ( Armanasco et al., 2017 ; Laranjo 
+et al., 2020 ; Smith et al., 2020 ).Hojjatinia et al. Page 2
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Consumer-grade activity trackers have popularized the step count as a physical activity index 
+over the intensity-specific activity durations noted in guidelines. Bassett argued that steps 
+are “intuitive and readily interpretable to the layperson…measured easily and accurately…
+[and] objective” ( Bassett et al., 2017 , p. 1306). Although a consensus evidence-based goal 
+for daily step counts has not been established for adults ( Tudor-Locke et al., 2011 ), there 
+is clear evidence that daily step counts are linearly and inversely associated with risk for 
+mortality and cardiovascular disease ( Hall et al., 2020 ; Kraus et al., 2019 ; Saint-Maurice et 
+al., 2020 ). Yet little is known about the optimal dosing of digital messaging interventions for 
+increasing step counts. For example, it is unclear if messages to “move more” or “sit less” 
+are more effective, or if the same dose should be delivered on weekends and weekdays.
+Dose-Finding Methods in Early Stage Intervention Development
+Behavioral interventions are complex and development can proceed more efficiently using 
+a phased approach. The Obesity-Related Behavioral Intervention Trials framework was 
+modeled on the drug development pipeline ( Czajkowski et al., 2015 ). Dose-finding is a key 
+task during early-phase intervention development. With a digital messaging intervention, 
+delivering too few messages can compromise behavior change but delivering too many 
+messages may be disruptive and threaten user engagement. Although dose-finding methods 
+are well-established and widely used in drug development, dose-finding has not been 
+approached as systematically in developing behavioral interventions, and particularly digital 
+health interventions ( McVay et al., 2019 ; Towner et al., 2020 ; V oils et al., 2014 ).
+Given the low risk for harm from digital messages that promote physical activity, our focus 
+was on identifying the minimally-effective dose. Dosing is often described in terms of the 
+duration, frequency, and amount of treatment ( V oils et al., 2012 ). For digital messaging, 
+doses can represent the number of messages sent, the content of those messages, and the 
+timing of the messages. An optimized digital messaging dose will deliver the right content 
+at the right time in the fewest number of messages needed to achieve a behavioral goal. 
+Determining how to tailor message content and timing to achieve this goal is challenging 
+because behavior is multiply determined and the contexts in which behavior unfolds are 
+dynamic. Computational modeling of dynamic systems via system identification can be 
+useful for determining how to tailor message content and timing ( Conroy et al., 2020 ).
+We have previously shown that it is possible to apply system identification tools from 
+control systems engineering to develop person-specific dynamic models of behavioral 
+responses to digital messages ( Ashour et al., 2016 ; Conroy et al., 2019 ). In this context, 
+the focus is on both how the dynamics of behavior unfold in the presence or absence 
+of micro-interventions, and how that knowledge can inform the selection and timing of 
+interventions to attain behavioral goals ( Albertos & Mareels, 2010 ). Continuous streams 
+of physical activity data can be modeled as a function of recent behavior and message 
+content, and model coefficients can be used to simulate expected changes in future behavior 
+if different types of messages were delivered following recent behavior. When dynamics 
+differ during clearly-defined periods – such as on weekends versus weekdays – piecewise 
+dynamic models can be estimated to characterize complementary behavioral systems.Hojjatinia et al. Page 3
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+In this paper, we extend this approach in two important ways. First, we simulate responses 
+to different message types under different conditions and, for the first time, extract features 
+of those responses to compare person-specific models with a generic model based on 
+composite data from the sample as a whole. Second, we enrich the dynamic model of 
+physical activity by using momentary weather conditions as inputs to improve predictions 
+of behavioral responses. Adults frequently describe poor weather as a barrier to exercise 
+(Salmon et al., 2003 ). Our recent scoping review indicated that device-measured physical 
+activity has an inverted-U shaped association with temperature and a negative association 
+with precipitation ( Turrisi et al., 2021 ). We hypothesized that the effects of digital messages 
+would vary as a function of momentary temperature and precipitation indices, with the 
+greatest effects observed during dry conditions with moderate temperatures.
+The Present Study
+The Physical Activity Guidelines for Americans assert that, “adults should move more and 
+sit less throughout the day [and] some physical activity is better than none” ( Piercy et 
+al., 2018 , p. 2025). Translating that recommendation into action is an ongoing challenge. 
+Technology provides a means of promoting physical activity during the transition into 
+adulthood but little is known about the optimal dosing of a messaging-based intervention. 
+In this study, we applied system identification tools to determine the optimal dosing for 
+a context-specific, just-in-time digital messaging intervention to promote physical activity. 
+For six months, insufficiently-active emerging and young adults wore a consumer-grade 
+smartwatch and received randomly-assigned intervention messages (Random AIM) in this 
+trial. The number, timing and content of messages varied randomly. Location data at 
+the time of message receipt and acknowledgement was used to lookup current weather 
+conditions to enrich model predictions. The primary purpose of this study was to identify 
+and characterize the heterogeneity of dynamical models of physical activity responses to 
+digital messages. A second purpose was to determine whether person-specific dosing of 
+digital messages may be warranted by comparing the performance to a generic dynamical 
+model based on composite data from the entire sample to person-specific dynamical 
+models. A third purpose was to extend and enrich the model by accounting for varying 
+environmental conditions at the time of message receipt.
+Methods
+Participants
+Emerging and young adults were recruited using fliers and online advertisements from 
+April 2019 to July 2020. Eligible participants were 18–29 years of age, ambulatory, free 
+of functional activity limitations, free of visual impairment that would interfere with 
+smartphone use, had verbal and written fluency in English and were capable of giving 
+informed consent. Participants also needed to own a smartphone using the iOS (v10 or 
+later) or Android (v7 or later) operating system. Participants were excluded if self-reported 
+physical activity levels were greater than 90 minutes of moderate or higher physical activity 
+per week, if unable to be physically active or with medical contraindications for physical 
+activity, if pregnant or had a prior diagnosis of cancer, cardiovascular disease, diabetes, or Hojjatinia et al. Page 4
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+metabolic disorder. Participants completed a telephone screening with a researcher followed 
+by a 1-week ambulatory monitoring period wearing an Actigraph wGT3X-BT activity 
+monitor. Participants were excluded if the device recorded the equivalent of more than 150 
+total minutes of moderate-intensity or greater physical activity based on five or more days 
+with 10+ hours of monitor wear time during the 1-week monitoring period.
+The World Health Organization declared the COVID-19 pandemic on March 11, 2020. 
+Stay-at-home orders associated with the pandemic reduced physical activity levels ( Pépin 
+et al., 2020 ; Tison et al., 2020 ). To prevent confounding of message and pandemic effects, 
+analyses were restricted to participants who completed 6 months of data collection prior to 
+the pandemic declaration (n = 45).
+Measures
+During the first laboratory visit, participants self-reported demographic characteristics 
+including age, ethnicity, race, sex, educational attainment, employment status and 
+occupation. Research staff measured height and weight in duplicate using a wall-mounted 
+stadiometer and a digital scale upon removal of the participant’s shoes.
+Actigraph wGT3XP-BT activity monitors were worn at the waist over the midline of 
+the dominant thigh to assess the duration of moderate-to-vigorous intensity physical 
+activity during the secondary screening process (without providing behavioral feedback that 
+could elicit reactivity). This device and placement are widely-used as a gold-standard for 
+ambulatory physical activity assessment. Established cutpoints were used to classify minutes 
+as moderate (1952–5724 counts/min) and vigorous (>5724 counts/min) physical activity 
+(Freedson et al., 1998 ).
+The Fitbit Versa/Versa Lite smartwatch, a widely-available consumer-grade monitor that 
+could be used to scale an intervention later in development, was worn on the non-dominant 
+wrist to track step counts during the 6-month intervention period. This device recorded 
+minute-level step counts and heart rate (in 5-minute moving averages). Fitbit devices have 
+demonstrated accuracy for step counting that is comparable to research-grade Actigraph 
+monitors and suitable for use in adults without mobility limitations ( Feehan et al., 2018 ; 
+Imboden et al., 2018 ).
+Protocol
+The protocol and compensation schedule are summarized in Figure S1 (available online). 
+All procedures were approved by the Institutional Review Board at The Pennsylvania State 
+University (Study#00009455).
+Screening & Lab Visit #1.— Prospective participants provided verbal consent (day 0) and 
+completed a telephone screening interview to determine eligibility. Provisionally-eligible 
+participants were scheduled for a laboratory visit to complete screening. During that first lab 
+visit (day 1), the researcher described the study and participants provided written informed 
+consent. The researcher provided the participant with an Actigraph wGT3X-BT activity 
+monitor and instructions to wear it at their waist on an elastic waistband over the midline of 
+their dominant leg for the next week during waking hours for a minimum of 10 hours/day, Hojjatinia et al. Page 5
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+and to remove it when bathing or swimming. The researcher provided a paper wear log and 
+asked participants to record times when they placed the device each morning, removed the 
+device in the evening, and removed or re-placed the device during the day.
+Lab visit #2.— During the second lab visit (day 9), the researcher collected the activity 
+monitor and wear log, downloaded data, reviewed non-wear classifications from the 
+“Troiano 2007” algorithm in the ActiLife v.6.13.4 software and determined eligibility. 
+The researcher described the second phase of the study and participants provided written 
+informed consent to enroll. The researcher then assisted the participant with installing 
+the Random AIM (custom-designed for this study) and Fitbit mobile applications on her 
+or his smartphone, registered the participant on the backend system, confirmed Random 
+AIM functionality with a test message, provided the participant with a Fitbit Versa/Versa 
+Lite smartwatch, and assisted participants in authorizing Fitbit to share their data via 
+Fitabase. The researcher asked the participant to identify separate Do Not Disturb periods 
+for weekdays and weekends (<14 hours to provide at least a 10-hour messaging window), 
+and informed participant that these times could be changed at any point by contacting the 
+researcher.
+Intervention period.— For the next 6 months, the Random AIM app delivered 0–6 
+messages/day as notifications via the operating system. The number, timing, and content of 
+messages were determined at random each night with the constraints that no message could 
+be delivered within 15 min of the previous message or within the Do Not Disturb window 
+for that day. Messages were drawn from three content libraries: move more (108 messages), 
+sit less (108 messages), and inspirational quotes (54 messages). Half of the messages 
+were accompanied by a stock photography image corresponding to message content (i.e., 
+physical activity for move more messages, standing for sit less images, scenic landscapes 
+for inspirational quotes). Notifications with each message were available for viewing and 
+acknowledgement for 30 minutes after which time they disappeared and were recorded as 
+received but not acknowledged.
+For each message, the backend system recorded the time that the message was sent 
+from the server to the mobile app, delivered and displayed on the participant’s device, 
+and acknowledged by the participant (three separate timestamps). The mobile app used 
+location services within the operating system to record latitude and longitude coordinates 
+each time a message was received and acknowledged. The timestamped location data at 
+display and acknowledgement were used to lookup location-specific momentary weather 
+indices via the AccuWeather Current Conditions application programming interface 
+(AccuWeather, n.d. ). Weather indices are recorded approximately hourly but are rarely 
+available immediately so, 3 hours after message receipt, the server looked up location­
+specific weather indices using the Historical Current Conditions (past 6 hours) application 
+programming interface. Recorded weather indices included temperature (Fahrenheit), dew 
+point (Fahrenheit), relative humidity (%), Real Feel temperature (Fahrenheit), apparent 
+temperature (Fahrenheit), wind chill temperature (Fahrenheit), wet bulb temperature 
+(Fahrenheit), wind direction (degrees), wind direction (English), wind speed (miles/hour), 
+wind gust speed (miles/hour), UV index, cloud cover, past-hour precipitation (liquid Hojjatinia et al. Page 6
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+equivalent, inches), and past 3-hour precipitation (liquid equivalent, inches). The researcher 
+monitored the backend dashboards for both the Random AIM and Fitbit apps daily to detect 
+compliance problems. A researcher contacted participants via telephone or email anytime 
+3 consecutive days without Fitbit heart rate data (suggesting device non-wear) or 3 days 
+without acknowledging Random AIM messages were observed.
+Lab visit #3.— The researcher scheduled a final lab visit (day 190) after participants 
+completed the 6-month intervention period to assist the participant with removing the study 
+apps.
+Data Analysis
+Pre-processing.— Four data tables were combined to model physical activity dynamics 
+following messages: person-level availability for messages, minute-level physical activity, 
+minute-level heart rate, and messages with weather indices at the time of delivery and 
+receipt. Timestamps were harmonized in four source data files and the files were merged. 
+Physical activity and heart rate data were truncated to the period from one hour before the 
+messaging availability window started to one hour after it ended to ensure sufficient activity 
+data when messages were sent early or late in the day. Activity data was separated for 
+weekdays and weekends, and classified as missing if zero steps were recorded and heart rate 
+data was not available for a minute epoch. Minutes with missing heart rate and zero step 
+counts were not included in the model (weekends: 15% missing, weekdays: 13% missing). 
+Messages scheduled and sent from the server that were not received and displayed on a 
+participant’s device were excluded from the model because future intervention decisions will 
+be made without regard to whether a message will be read or not. The available and valid 
+minute-level physical activity data was aggregated into sums for each 15-minute epochs. 
+Message and weather data were merged with those 15-minute epochs. Days were treated as 
+independent and message effects on physical activity were not modeled across days.
+System identification.— The Python programming language was used to implement the 
+system identification algorithms used to identify the models ( Van Rossum & Drake, 2009 ). 
+Building on prior work, physical activity was modeled as a switched system with separate 
+models to reflect the different amount and patterns of physical activity on weekdays and 
+weekends ( Conroy et al., 2019 ; Phatak et al., 2018 ). The first stage of analyses was based on 
+a linear regression model with multiple variables and noise of the form
+ykd=a0+∑
+i= 15
+aiykd−id+∑
+j= 13
+   ∑
+i= 05
+bijujkd−id+εkd (1)
+where y(kd) is the system output at time kd which is the step counts for the 15-minute 
+epoch at time kd, uj(kd − id) are the inputs for the three message types (move more, sit 
+less, inspirational quotes) at time kd − id(0 [message not sent], 1 [message sent]), d is 
+the sampling time, ε(kd) is noise at time kd, and a0,ai,bij are the unknown coefficients 
+of the model. To manage the trade-off between model complexity and size of the model 
+error, model order was constrained to 5 which means that the last five epochs were used in 
+predicting the next epoch.Hojjatinia et al. Page 7
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+In the second stage of analyses, a linear parameter-varying (LPV) system was modeled. 
+This LPV model described how the dynamics of behavioral responses to messages varied 
+as a function of time-varying parameters. In this study, the time-varying parameter was 
+temperature. The LPV model with noise is of the form
+ykd=a0pkd+∑
+i= 15
+aipkdykd−id+∑
+j= 13
+   ∑
+i= 05
+bijpkdujkd−id
++εkd(2)
+where a0(p(kd)),ai(p(kd)),bij(p(kd)) are the unknown functions in the model that vary with 
+parameter p at time kd. In this work, the parameter p is considered to be temperature 
+and the coefficients a0(p(kd)),ai(p(kd)),bij(p(kd)) are considered to be quadratic function of 
+parameter p at time kd. A quadratic function was selected based on evidence that physical 
+activity has an inverted-U relation with temperature ( Turrisi et al., 2021 ).
+Models from both stages of analyses were used to simulate responses to each message 
+type. Impulse responses represent expected step count changes during each 15-minute epoch 
+following receipt of each message type (compared to expected step counts had a message 
+not been received). Cumulative step responses represent the total expected effect of each 
+type of individual message. Error bounds were estimated for each response curve to indicate 
+whether effects exceeded the threshold of noise in the model. Full details on estimation and 
+optimization methods are provided in a Supplemental File.
+Seven features were extracted to describe person-specific impulse response and cumulative 
+response curves ( Conroy et al., 2019 ). Initial delay  describes the delay between message 
+delivery and the first effects (non-zero impulse response) of the message. Peak magnitude 
+describes the absolute value of the maximum change in step count during any individual 
+epoch following message receipt. Peak delay  describes the latency between message receipt 
+and achieving peak response magnitude. These first peak features indicate how quickly 
+messages have their largest instantaneous effect on behavior. Steady state  describes the 
+expected overall effect (step count change) of a single message and was defined as the 
+value when the cumulative response curve becomes stable. Rise time  describes the time 
+required for physical activity responses to progress from 10% to 90% of the expected 
+total response (steady state). Settling time  describes the duration between message receipt 
+and cumulative responses achieving ±5% of their steady state. Steady state, rise time, and 
+settling time indicate the overall effect of a single message, how quickly that effect emerges, 
+and how much time is required to achieve most of the effect. Effective time  describes the 
+duration that the expected overall effect of a single message is expected to exceed the 
+cumulative threshold for noise (i.e., outside the error margin). This feature indicates the time 
+that a message is expected to be actively influencing behavior in the face of progressively 
+accumulating noise which adds uncertainty to long-term prediction of behavior change.
+Results
+Participant flow in the Random AIM trial is summarized in Figure S2. Approximately 45% 
+of interested participants qualified and enrolled. The analytic sample (n = 45) was mostly Hojjatinia et al. Page 8
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+women (n=30 [67%]) who identified as White (n=29 [64%]) and not Hispanic or Latino 
+(n=43 [96%]). The sample included participants who identified as Asian (n=10 [22%]), 
+African-American (n=4 [9%]) and two or more races (n=2 [4%]). The mean age was 24.4 
+years (SD = 3.1, range = 18 – 29) and participants’ highest level of education included no 
+college education (15.9%), some college (22.7%), bachelor’s degree (34.1%), and graduate 
+or professional degrees (27.3%).
+Message Delivery
+For the 45 participants in the analytic sample, a total of 24,123 messages were scheduled on 
+the server (M = 3.05 messages/person/day, SD = 0.16). Of the scheduled messages, 96.0% 
+were received and displayed on the mobile device with the total of 23,149 messages (M = 
+2.92 messages/person/day, SD = 0.33), and 78.2% were acknowledged within 30 minutes of 
+receipt (M = 2.38 messages/person/day, SD = 0.33). The mean latency of acknowledgements 
+was 00:05:26 ( SD = 00:20:46). Received messages were distributed between “move more” 
+(n=9093 [39%]), “sit less” (n=9363 [40%]), and “inspirational quotes” (n=4693 [20%]) 
+message libraries. A total of 20,735 of the messages were available with corresponding 
+data from the physical activity monitoring device, with a similar distribution of messages 
+between “move more” (n=8161 [39%]), “sit less” (n=8351 [40%]), and “inspirational 
+quotes” (n=4223 [20%]) in the received messages.
+Most messages were delivered on weekdays (72%). The average Do Not Disturb window for 
+participants spanned from 19:50 (95% CI = 16:30–23:10) to 09:20 (95% CI = 06:40–12:00) 
+for weekdays and 20:30 (95% CI = 18:00–23:00) to 10:10 (95% CI = 08:00–12:20) for 
+weekends. Acknowledged messages were distributed across the day so messages provided 
+suitable coverage during waking hours outside the Do Not Disturb window (Figure S3, 
+top row). Messages were distributed across all four seasons (Figure S3, bottom row). Due 
+to the 6-month protocol duration, no participant was sampled in more than three seasons. 
+Weather conditions at the time of message acknowledgement varied considerably. When 
+weather indices at message acknowledgement were aggregated within person, the average 
+temperature was 62°F (SD = 15, 95% CI = 31–92°F), and an average of 8.3% of the 
+messages were received after measurable past-hour precipitation (SD = 2.2, 95% CI = 3.9–
+12.7). Based on the limited proportion of messages sent during moments with measurable 
+precipitation, precipitation models were excluded from this study.
+System Identification
+Do person-specific models match a generic model?— Two dynamical models of 
+physical activity were estimated for each person based on their recent physical activity and 
+the types of messages received on weekdays and weekends. The simulated impulse response 
+and cumulative step response curves for two participants can be seen in Figures S4–S5.
+For the participant in Figure S4, the steady state of physical activity responses differed 
+from weekdays to weekends and as a function of the type of message sent. On weekdays, a 
+single “sit less” message would be expected to lead to 87 more steps than if he or she did 
+not receive the message, but “move more” and “quotes” messages were expected to reduce 
+step counts. In contrast, on weekends, “sit less,” “move more” and “quotes” messages were Hojjatinia et al. Page 9
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+expected to lead to 133, 183, and 65 more steps, respectively, than if he or she did not 
+receive the message.
+For the participant in Figure S5, the steady state of physical activity responses also differed 
+from weekdays to weekends and as a function of message type, but the pattern was different 
+from the previous participant. On weekdays, “move more” and “sit less” messages were 
+expected to lead to 136 and 132 more steps, respectively, than if he or she did not receive 
+the message, but “quotes” messages were not expected to lead to non-trivial changes in step 
+counts. On weekends, “quotes” messages were expected to lead to 166 more steps than if he 
+or she did not receive the message, but neither “move more” nor “sit less” messages were 
+expected to lead to non-trivial changes in step counts.
+As a contrast to these person-specific models, a generic model was estimated using 
+composite data from all eligible participants. Figure S6 presents the impulse (left panel) 
+and cumulative response (right panel) curves for weekdays and weekends. On weekdays, “sit 
+less” messages would be expected to lead to 25 more steps than if the message was not sent 
+but neither “move more” nor “quotes” messages would be expected to change behavior. On 
+weekends, “move more,” and “sit less” messages would be expected to lead to 46 and 53 
+more steps, respectively, than if the message was not sent; however, “quotes” messages were 
+not expected to lead to non-trivial changes in step counts.
+Table 1 compares the features of the simulated responses to messages on weekdays and 
+weekends based on the person-specific models and the generic model. The initial delay of 
+responses was zero in all models so this feature excluded from the table. Three observations 
+can be made based on the remaining features. First, response features in the person-specific 
+models vary considerably. Peak response magnitudes in a single 15-minute epoch ranged 
+from quite small (<10 step increase) to quite large (~200 step change). Some people are 
+expected to have immediate peak responses to messages but others are expected to have 
+quite delayed peak responses to messages (60 min). Cumulative responses to messages 
+varied considerably with greater responses evident on weekends than weekdays. The 
+“average” participant would be expected to increase their activity slightly following most 
+messages but individual responses varied. Some participants would be expected to increase 
+and others would be expected to decrease activity following messages. The latency of 
+total effects was highly variable as indicated by the range of settling time, rise time, and 
+effective time in the person-specific models. Second, no single message type appeared to 
+be uniformly ineffective. As illustrated by Figures S4–S5, participants exhibited differential 
+responsivity to messages both as a function of message content and whether that content 
+was sent on a weekday or weekend. Third, the generic model features were within the 
+range of features from the person-specific models for 81% (29/36) of the features. Peak 
+magnitude estimates from the generic model were especially conservative, account for 5 of 
+the 7 out-of-range values. In general, features from the generic model failed to address the 
+heterogeneity of responses observed in the person-specific models.
+Do person-specific responses to messages vary as a function of 
+temperature?— Building on the heterogeneity of responses in our initial models, we 
+sought to determine whether participants’ responses also varied under time-varying Hojjatinia et al. Page 10
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+environmental conditions (specifically, temperature at the time of message receipt). Figures 
+S7–S8 present cumulative response curves from person-specific models of two participants’ 
+weekday (top row) and weekend (bottom row) responses to three message types: “move 
+more” (left panel), “sit less” (center panel) and “quotes” (right panel). These figures 
+represent data for the same participants shown in Figures S4–S5, respectively. The range 
+of temperatures plotted approximates the 95% confidence interval for observed temperatures 
+during the 6-month study (36°F to 90°F for the participant enrolled from June to December; 
+23°F to 72°F for the participant enrolled from August to February).
+For the participant depicted in Figure S7 (cf. Figure S4), the effects of “move more” 
+messages on weekdays were trivial regardless of temperature but, on weekends, “move 
+more” message effects on physical activity increased monotonically with the temperature. 
+On a hot weekend day (90°F), a single “move more” message would be expected to lead 
+to more than 500 additional steps compared to what would be expected if the message 
+was not sent. On a cold day (≤63°F), “move more” messages had little to no effect on 
+this participant’s physical activity. “Sit less” messages exhibited a different pattern. On 
+weekdays, “sit less” message effects increased monotonically with temperature. A single 
+“sit less” message on a hot day (90°F) would be expected to lead to nearly 300 more 
+steps compared to what would be expected if the message was not sent, but effects were 
+progressively smaller as temperatures dropped. On weekends, “sit less” messages would be 
+expected to have their greatest effect (>300 step increases) for this participant during more 
+extreme – hot or cold – conditions.
+For the participant depicted in Figure S8 (cf. Figure S5), message effects consistently 
+varied as a function of message type, timing, and temperature. Of note, temperature-related 
+differences in effects were not consistently monotonic. The largest effects of “move more” 
+messages would be expected on weekdays with extreme temperatures (hot or cold). On 
+weekdays, the largest effects of “sit less” and “quotes” messages would be expected at 
+times with warmer temperatures. On weekends, “sit less” and “quotes” messages would 
+be expected to have their greatest impact on physical activity at moderate temperatures. 
+Surprisingly, “sit less” messages were expected to decrease physical activity by over 300 
+steps at extremely cold moments on weekends.
+Figure S9 (cf. Figure S6) presents the corresponding cumulative response curves from a 
+generic model based on composite data from all participants. The generic model simulation 
+implies smaller expected effects than the person-specific models, particularly on weekdays. 
+Overall, the generic model implied that most message types sent under most conditions 
+would have little to no effect on participants’ behavior. The effects of “sit less” message 
+increased monotonically as a function of temperature on both weekdays and weekends, 
+though the gradient of effects between message types was minimal. “Move more” messages 
+had limited effects (~70 step increase) under most conditions with the exception being on 
+hot (90°F) weekends. Surprisingly, the generic model implied that “quotes” messages on hot 
+(90°F) days would lead to the largest expected effects of all message types on weekdays.Hojjatinia et al. Page 11
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Discussion
+This research applied an engineering-inspired approach to determine the optimal dose for 
+a digital messaging intervention. The approach extends the toolkit for dose-finding in 
+behavioral intervention development ( McVay et al., 2019 ; Towner et al., 2020 ; V oils et 
+al., 2014 ). It extended our prior work on dynamical modeling of physical activity and the 
+effects of digital messages by obtaining a larger sample with a longer time series enriched 
+by data on current weather conditions at the participant’s location when they receive a 
+message ( Ashour et al., 2016 ; Conroy et al., 2019 ). A heterogeneous suite of person-specific 
+models of individual participant’s responses to messages under different conditions were 
+estimated along with a generic model based on composite data. The heterogeneity of 
+responses was notable considering that the sample was delimited to a narrow age range of 
+adults who were verified as insufficiently active. Rather than comparing model coefficients 
+directly, expected behavioral responses were simulated for different types of messages under 
+different conditions and key features of those responses were compared.
+These dynamical models provide an evidence-based foundation for future work developing 
+algorithms that are optimized to achieve behavior change goals with the smallest number of 
+messages possible. Such algorithms represent the decisions rules that determine dosing in a 
+just-in-time adaptive intervention as an optimization problem to be solved ( Nahum-Shani et 
+al., 2018 ). By applying the computational model at prespecified decision points to simulate 
+the expected responses to a variety of intervention options at that decision point, these 
+algorithms can determine which message type would yield the greatest benefit under current 
+conditions and, if the expected effect of a particular message type exceeds the threshold 
+for a minimally-effective dose, trigger delivery of that message. These results provide new 
+insights for dose-finding with digital messaging interventions to promote physical activity.
+First, based on the heterogeneity of person-specific models, person-specific decision rules 
+would appear to be superior to a generic decision rule for optimizing dosing. Features of 
+impulse responses (peak magnitude, peak delay) in the generic model were consistently 
+dampened in comparison to the mean of person-specific model features. Some features 
+of the generic cumulative response curves (steady state, settling time) approximated the 
+mean of person-specific cumulative response curves, but those estimates were fixed and 
+failed to account for the tremendous variation in individual responses. This insensitivity 
+of the generic model to individual differences could result in counter-productive treatment 
+decisions if decision rules were based on that model. For example, the generic model 
+implied a small but uniform positive effect of the “move more” and “sit less” messages. In 
+contrast, the person-specific models revealed that approximately one in three participants 
+would be expected to reduce their physical activity following one of these messages 
+(see Supplementary Tables 1–2). Decision rules should be designed to accommodate this 
+heterogeneity because group-level models are unlikely to generalize to individual-level 
+processes ( Molenaar, 2004 ). If not, treatment decisions will be error-prone (selecting the 
+wrong message content for delivery or sending messages at the wrong moments) and 
+inefficient (sending too many messages to achieve a goal). These characteristics could 
+jeopardize engagement and efficacy. Thus, findings point to the promise of using a small 
+data paradigm for dose-finding ( Hekler et al., 2019 ).Hojjatinia et al. Page 12
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Second, although clearly sub-optimal, the generic model may still serve an important role 
+in developing person-specific decision rules. Person-specific decision rules are developed 
+based on person-specific models, and person-specific models can only be estimated when 
+sufficient time-series data are available. Such time series are not immediately available when 
+onboarding new users. One solution is to use the generic model of group-level physical 
+activity dynamics to generate an initial decision rule (i.e., warm-start optimization). This 
+initial generic decision rule could be replaced by progressively more refined person-specific 
+decision rules as information accumulates for an individual. In this way, the intervention 
+could be doubly adaptive – first adapting individual intervention decisions (i.e., whether to 
+send a message and which message to send at each decision point) and second adapting 
+individual decision rules as individual data accumulates and person-specific models are 
+refined ( Conroy et al., 2020 ; Wongvibulsin et al., 2020 ).
+Third, this study revealed that real-time temperatures provide a potentially-valuable tailoring 
+variable for decision rules in a digital messaging tool for promoting physical activity. 
+Temperature exhibits one of the clearest relations between the natural environment and 
+device-measured physical activity but research has been observational and largely based 
+on aggregated temperature data over time ( Turrisi et al., 2021 ). In behavioral intervention 
+research, perceived weather has been identified as a barrier to physical activity ( Salmon 
+et al., 2003 ). Temperatures also appear to function as an operating condition for physical 
+activity interventions. Prior work supported this proposition at the daily time scale but used 
+average daily temperature readings from a single (fixed) weather station in Chicago ( Welch 
+et al., 2018 ). To accommodate human mobility patterns and weather dynamics from hour to 
+hour, the present study extended that support using momentary GPS coordinates to lookup 
+temperature indices recorded (or forecast) for the users’ actual location.
+The dose-finding approach described here complements methods like the microrandomized 
+trial which has been used to develop evidence-based decision rules for just-in-time adaptive 
+interventions ( Klasnja et al., 2015 ). For example, the microrandomized trial design was 
+used to develop a decision rule for the HeartSteps intervention ( Klasnja et al., 2018 ) and 
+that approach is currently being extended using reinforcement learning techniques to adapt 
+the decision rule as data accumulates ( Liao et al., 2020 ). System identification techniques 
+used here can also be extended to design effective controllers (decision rules) that maximize 
+the probability of achieving a desired goal while avoiding unsafe or ineffective operating 
+regions.
+One of the differentiating features of the system identification approach applied in this study 
+involved its flexibility in accommodating smaller streams of data. Although reinforcement 
+learning algorithms can be applied to adapt individual’s intervention in real time, they still 
+face many challenges such as a need for accommodating noisy data, learning quickly, and 
+accommodating model mis-specification ( Liao et al., 2020 ). On the other hand, system 
+identification techniques can operate well in the presence of uncertainty and noisy datasets.
+The expected effects reported here may seem modest in relation to normative daily step 
+counts but keep in mind that these estimates are specific to individual digital messages 
+and messaging interventions can send multiple messages each day. Additionally, behavioral Hojjatinia et al. Page 13
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+interventions for physical activity rarely involve single components and there may be 
+additional effects from and interactions with other components (e.g., behavioral feedback, 
+goal setting, social support; Conroy et al., 2014 ; Michie et al., 2009 ). Decisions about 
+whether to include digital messaging components with person-specific decision rules can 
+be informed by factorial experiments to optimize treatment packages for different target 
+populations, goals, and resource constraints ( Collins, 2018 ).
+Limitations
+One limitation of this approach is that the person-specific models are opaque input-output 
+models that do not reveal the mechanism(s) of behavior change. System identification has 
+been applied to test social-cognitive models on slower (e.g., daily) time scales ( Freigoun et 
+al., 2017 ; Hekler et al., 2013 ; Phatak et al., 2018 ; Riley et al., 2016 ). Few health behavior 
+theories articulate dynamic processes clearly ( Riley et al., 2011 ) but obtaining intensive 
+self-reports of motivational targets following message delivery may be disruptive. It may be 
+possible to code messages within each content library based on their social-cognitive targets 
+to identify which targeted messages affect behavior. Elaborating the number of message 
+categories will reduce the data available to model the effects of each message and the risk 
+of overfitting models will increase when model coefficients are based on smaller datasets. 
+For that reason, caution is warranted in interpreting findings from contexts with fewer 
+observations (e.g., extreme temperatures on weekend days); predicted effects under those 
+conditions will be more uncertain.
+Second, these models are based on a limited number of people’s historical responses to 
+messages in a finite range of environmental conditions and locations. More representative 
+samples with respect to people, environmental conditions, and geographic locations may 
+reveal even more heterogeneous responses. If future contexts differ from those tested or 
+assumptions of stationarity are violated, decisions based on these models may not be 
+optimal. Nesselroade and Molennar (2010)  “conceive[d] of each person as a system of 
+interacting dynamic processes, the unfolding of which produces an individual life trajectory 
+in a high-dimensional psychological space” (p. 36). Assuming that people (i.e., systems) 
+are constantly developing and adapting to environmental exposures and accumulated 
+experiences (a core assumption of developmental system theory; Ford & Lerner, 1992 ), 
+periodic model adaptations based on accumulating data may prove valuable in future work 
+because people who learn can benefit from decision rules that learn and adapt with them.
+These results provide an empirical strategy for iteratively-refining person-specific models. 
+Such models can inform the design of person-specific decision rules but it is not 
+yet clear whether person-specific decision rules are superior to simpler rules based on 
+random selections or ad hoc decision parameters (with or without contextual information). 
+Comparative effectiveness and cost-benefit studies are needed to answer those questions.
+Conclusions
+Digital messaging is an established tool for promoting physical activity ( Smith et al., 2020 ). 
+Historically, dosing parameters have been determined by experts’ domain knowledge or 
+user preferences. Efforts to amplify effects using a range of personalization strategies have Hojjatinia et al. Page 14
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+not been successful ( Armanasco et al., 2017 ). This study provided an approach for person­
+specific dose-finding with a digital messaging intervention. This approach incorporates 
+contextual data (recent behavior, day-of-week, weather conditions) and historical responses 
+to different treatments (i.e., message types) to inform future decisions about treatment 
+(i.e., whether or not to send a message and which message to send). Dose-finding is 
+an important task for early-phase behavioral intervention development ( Czajkowski et al., 
+2015 ). The challenge of dose-finding for complex behaviors that are multiply-determined 
+and possibly regulated idiographically is substantial. Similar to the generic model estimated 
+in this study, this study provides a starting point. The next steps in developing this method 
+involve translating the generic model into a warm-start controller and developing methods 
+for periodically updating that decision rule based on incoming data. That work is underway.
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+The project described was supported by the National Heart, Lung, and Blood Institute of the National Institutes 
+of Health (NIH) through Grant R01 HL142732 and the National Science Foundation (NSF) through Grant 
+ECCS-1808266. The content is solely the responsibility of the authors and does not necessarily represent the 
+official views of the NIH or the NSF. The authors declare that there are no competing interests. We thank 
+West Arete for their creativity in developing the mobile app and backend system that enabled intervention 
+delivery and data collection despite every effort of the iOS and Android operating systems to foil that effort. 
+We thank AccuWeather for providing access to location-specific momentary weather indices via their application 
+programming interfaces.
+References
+AccuWeather. (n.d.). AccuWeather APIs | Current Conditions API. Retrieved January 1, 2021, from 
+https://developer.accuweather.com/accuweather-current-conditions-api/apis
+Albertos P, & Mareels I (2010). Feedback and control for everyone. Springer-Verlag. 
+10.1007/978-3-642-03446-6
+Armanasco AA, Miller YD, Fjeldsoe BS, & Marshall AL (2017). Preventive health behavior change 
+text message interventions: A meta-analysis. American Journal of Preventive Medicine, 52(3), 391–
+402. 10.1016/j.amepre.2016.10.042 [PubMed: 28073656] 
+Ashour M, Bekiroglu K, Yang CH, Lagoa C, Conroy D, Smyth J, & Lanza S (2016). On 
+the mathematical modeling of the effect of treatment on human physical activity. 2016 IEEE 
+Conference on Control Applications (CCA), 1084–1091. 10.1109/CCA.2016.7587951
+Bassett DR, Toth LP, LaMunion SR, & Crouter SE (2017). Step counting: A review of measurement 
+considerations and health-related applications. Sports Medicine (Auckland, N.Z.), 47(7), 1303–
+1315. 10.1007/s40279-016-0663-1
+Bennie JA, De Cocker K, Teychenne MJ, Brown WJ, & Biddle SJH (2019). The epidemiology of 
+aerobic physical activity and muscle-strengthening activity guideline adherence among 383,928 
+U.S. adults. International Journal of Behavioral Nutrition and Physical Activity, 16(1), 34. 10.1186/
+s12966-019-0797-2
+Bull FC, Al-Ansari SS, Biddle S, Borodulin K, Buman MP, Cardon G, Carty C, Chaput J-P, Chastin 
+S, Chou R, Dempsey PC, DiPietro L, Ekelund U, Firth J, Friedenreich CM, Garcia L, Gichu M, 
+Jago R, Katzmarzyk PT, … Willumsen JF (2020). World Health Organization 2020 guidelines on 
+physical activity and sedentary behaviour. British Journal of Sports Medicine, 54(24), 1451–1462. 
+10.1136/bjsports-2020-102955 [PubMed: 33239350] Hojjatinia et al. Page 15
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Collins LM (2018). Optimization of Behavioral, Biobehavioral, and Biomedical Interventions: 
+The Multiphase Optimization Strategy (MOST). Springer International Publishing. 
+10.1007/978-3-319-72206-1
+Conroy DE, Hojjatinia S, Lagoa CM, Yang C-H, Lanza ST, & Smyth JM (2019). Personalized models 
+of physical activity responses to text message micro-interventions: A proof-of-concept application 
+of control systems engineering methods. Psychology of Sport and Exercise, 41, 172–180. 10.1016/
+j.psychsport.2018.06.011 [PubMed: 30853855] 
+Conroy DE, Lagoa CM, Hekler EB, & Rivera DE (2020). Engineering person-specific behavioral 
+interventions to promote physical activity. Exercise and Sport Sciences Reviews, 48(4), 170–179. 
+10.1249/JES.0000000000000232 [PubMed: 32658043] 
+Conroy DE, Yang C-H, & Maher JP (2014). Behavior change techniques in top-ranked 
+physical activity apps. American Journal of Preventive Medicine, 46(6), 649–652. 10.1016/
+j.amepre.2014.01.010 [PubMed: 24842742] 
+Czajkowski SM, Powell LH, Adler N, Naar-King S, Reynolds KD, Hunter CM, Laraia B, Olster DH, 
+Perna FM, Peterson JC, Epel E, Boyington JE, & Charlson ME (2015). From ideas to efficacy: 
+The ORBIT model for developing behavioral treatments for chronic diseases. Health Psychology, 
+34(10), 971–982. 10.1037/hea0000161 [PubMed: 25642841] 
+Dietz WH (2017). Obesity and excessive weight gain in young adults: New targets for prevention. 
+JAMA, 318(3), 241–242. 10.1001/jama.2017.6119 [PubMed: 28719674] 
+Feehan LM, Geldman J, Sayre EC, Park C, Ezzat AM, Yoo JY , Hamilton CB, & Li LC (2018). 
+Accuracy of Fitbit devices: Systematic review and narrative syntheses of quantitative data. JMIR 
+MHealth and UHealth, 6(8), e10527. 10.2196/10527 [PubMed: 30093371] 
+Ford DH, & Lerner RM (1992). Developmental systems theory: An integrative approach. Sage.
+Freedson PS, Melanson E, & Sirard J (1998). Calibration of the Computer Science and Applications, 
+Inc. Accelerometer. Medicine and Science in Sports and Exercise, 30(5), 777–781. [PubMed: 
+9588623] 
+Freigoun MT, Martín CA, Magann AB, Rivera DE, Phatak SS, Korinek EV , & Hekler EB (2017). 
+System identification of Just Walk: A behavioral mHealth intervention for promoting physical 
+activity. 2017 American Control Conference (ACC), 116–121. 10.23919/ACC.2017.7962940
+Hall KS, Hyde ET, Bassett DR, Carlson SA, Carnethon MR, Ekelund U, Evenson KR, Galuska 
+DA, Kraus WE, Lee I-M, Matthews CE, Omura JD, Paluch AE, Thomas WI, & Fulton JE 
+(2020). Systematic review of the prospective association of daily step counts with risk of 
+mortality, cardiovascular disease, and dysglycemia. International Journal of Behavioral Nutrition 
+and Physical Activity, 17(1), 78. 10.1186/s12966-020-00978-9
+Hekler EB, Buman MP, Poothakandiyil N, Rivera DE, Dzierzewski JM, Morgan AA, McCrae CS, 
+Roberts BL, Marsiske M, & Giacobbi PR (2013). Exploring behavioral markers of long-term 
+physical activity maintenance: A case study of system identification modeling within a behavioral 
+intervention. Health Education & Behavior, 40(1 Suppl), 51S–62S. 10.1177/1090198113496787 
+[PubMed: 24084400] 
+Hekler EB, Klasnja P, Chevance G, Golaszewski NM, Lewis D, & Sim I (2019). Why we need a small 
+data paradigm. BMC Medicine, 17(1), 133. 10.1186/s12916-019-1366-x [PubMed: 31311528] 
+Imboden MT, Nelson MB, Kaminsky LA, & Montoye AH (2018). Comparison of four Fitbit and 
+Jawbone activity monitors with a research-grade ActiGraph accelerometer for estimating physical 
+activity and energy expenditure. British Journal of Sports Medicine, 52(13), 844–850. 10.1136/
+bjsports-2016-096990 [PubMed: 28483930] 
+Klasnja P, Hekler EB, Shiffman S, Boruvka A, Almirall D, Tewari A, & Murphy SA 
+(2015). Microrandomized trials: An experimental design for developing just-in-time adaptive 
+interventions. Health Psychology, 34 Suppl, 1220–1228. 10.1037/hea0000305
+Klasnja P, Smith S, Seewald NJ, Lee A, Hall K, Luers B, Hekler EB, & Murphy SA (2018). Efficacy 
+of contextually tailored suggestions for physical activity: A micro-randomized optimization trial of 
+HeartSteps. Annals of Behavioral Medicine, 53(6), 573–582. 10.1093/abm/kay067
+Kraus WE, Janz KF, Powell KE, Campbell WW, Jakicic JM, Troiano RP, Sprow K, Torres A, Piercy 
+KL, & 2018 Physical Activity Guidelines Advisory Committee. (2019). Daily step counts for Hojjatinia et al. Page 16
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+measuring physical activity exposure and its relation to health. Medicine and Science in Sports and 
+Exercise, 51(6), 1206–1212. 10.1249/MSS.0000000000001932 [PubMed: 31095077] 
+Laranjo L, Ding D, Heleno B, Kocaballi B, Quiroz JC, Tong HL, Chahwan B, Neves AL, Gabarron 
+E, Dao KP, Rodrigues D, Neves GC, Antunes ML, Coiera E, & Bates DW (2020). Do smartphone 
+applications and activity trackers increase physical activity in adults? Systematic review, meta­
+analysis and metaregression. British Journal of Sports Medicine. 10.1136/bjsports-2020-102892
+Liao P, Greenewald K, Klasnja P, & Murphy S (2020). Personalized HeartSteps: A reinforcement 
+learning algorithm for optimizing physical activity. Proceedings of the ACM on Interactive, 
+Mobile, Wearable and Ubiquitous Technologies, 4(1), 18:1–18:22. 10.1145/3381007
+Liu K, Daviglus ML, Loria CM, Colangelo LA, Spring B, Moller AC, & Lloyd-Jones DM 
+(2012). Healthy lifestyle through young adulthood and the presence of low cardiovascular 
+disease risk profile in middle age: The Coronary Artery Risk Development in (Young) Adults 
+(CARDIA) study. Circulation, 125(8), 996–1004. 10.1161/CIRCULATIONAHA.111.060681 
+[PubMed: 22291127] 
+McVay MA, Bennett GG, Steinberg D, & V oils CI (2019). Dose-response research in digital health 
+interventions: Concepts, considerations, and challenges. Health Psychology, 38(12), 1168–1174. 
+10.1037/hea0000805 [PubMed: 31580127] 
+Michie S, Abraham C, Whittington C, McAteer J, & Gupta S (2009). Effective techniques in healthy 
+eating and physical activity interventions: A meta-regression. Health Psychology, 28(6), 690–701. 
+10.1037/a0016136 [PubMed: 19916637] 
+Molenaar PCM (2004). A manifesto on psychology as idiographic science: Bringing the person 
+back into scientific psychology, this time forever. Measurement: Interdisciplinary Research and 
+Perspectives, 2(4), 201–218. 10.1207/s15366359mea0204_1
+Monaghan M (2014). The Affordable Care Act and implications for young adult health. Translational 
+Behavioral Medicine, 4(2), 170–174. 10.1007/s13142-013-0245-9 [PubMed: 24904700] 
+Nahum-Shani I, Smith SN, Spring BJ, Collins LM, Witkiewitz K, Tewari A, & Murphy SA 
+(2018). Just-in-time adaptive interventions (JITAIs) in mobile health: Key components and design 
+principles for ongoing health behavior support. Annals of Behavioral Medicine, 52(6), 446–462. 
+10.1007/s12160-016-9830-8 [PubMed: 27663578] 
+Nelson MC, Story M, Larson NI, Neumark-Sztainer D, & Lytle LA (2008). Emerging adulthood 
+and college-aged youth: An overlooked age for weight-related behavior change. Obesity, 16(10), 
+2205–2211. 10.1038/oby.2008.365 [PubMed: 18719665] 
+Nesselroade JR, Molenaar PCM, Lerner RM, Lamb ME, & Freund AM (2010). Emphasizing 
+intraindividual variability in the study of development over the life span. In The Handbook of Life­
+Span Development (V ol. 1, pp. 30–54). John Wiley & Sons. 10.1002/9780470880166.hlsd001002
+Pépin JL, Bruno RM, Yang R-Y , Vercamer V , Jouhaud P, Escourrou P, & Boutouyrie P (2020). 
+Wearable activity trackers for monitoring adherence to home confinement during the COVID-19 
+pandemic worldwide: Data aggregation and analysis. Journal of Medical Internet Research, 22(6), 
+e19787. 10.2196/19787 [PubMed: 32501803] 
+Pew Research Center. (2019). Mobile fact sheet. Author. https://www.pewresearch.org/internet/fact­
+sheet/mobile/
+Phatak SS, Freigoun MT, Martín CA, Rivera DE, Korinek EV , Adams MA, Buman MP, Klasnja P, 
+& Hekler EB (2018). Modeling individual differences: A case study of the application of system 
+identification for personalizing a physical activity intervention. Journal of Biomedical Informatics, 
+79, 82–97. 10.1016/j.jbi.2018.01.010 [PubMed: 29409750] 
+Piercy KL, Troiano RP, Ballard RM, Carlson SA, Fulton JE, Galuska DA, George SM, & Olson RD 
+(2018). The Physical Activity Guidelines for Americans. JAMA, 320(19), 2020–2028. 10.1001/
+jama.2018.14854 [PubMed: 30418471] 
+Powell KE, Paluch AE, & Blair SN (2011). Physical activity for health: What kind? How much? 
+How intense? On top of what? Annual Review of Public Health, 32, 349–365. 10.1146/annurev­
+publhealth-031210-101151
+Riley WT, Martin CA, Rivera DE, Hekler EB, Adams MA, Buman MP, Pavel M, & King AC 
+(2016). Development of a dynamic computational model of social cognitive theory. Translational 
+Behavioral Medicine, 6(4), 483–495. 10.1007/s13142-015-0356-6 [PubMed: 27848208] Hojjatinia et al. Page 17
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Riley WT, Rivera DE, Atienza AA, Nilsen W, Allison SM, & Mermelstein R (2011). Health behavior 
+models in the age of mobile interventions: Are our theories up to the task? Translational 
+Behavioral Medicine, 1(1), 53–71. 10.1007/s13142-011-0021-7 [PubMed: 21796270] 
+Saint-Maurice PF, Troiano RP, Bassett DR, Graubard BI, Carlson SA, Shiroma EJ, Fulton JE, & 
+Matthews CE (2020). Association of daily step count and step intensity with mortality among us 
+adults. JAMA, 323(12), 1151–1160. 10.1001/jama.2020.1382 [PubMed: 32207799] 
+Salmon J, Owen N, Crawford D, Bauman A, & Sallis JF (2003). Physical activity and sedentary 
+behavior: A population-based study of barriers, enjoyment, and preference. Health Psychology, 
+22(2), 178–188. 10.1037//0278-6133.22.2.178 [PubMed: 12683738] 
+Smith DM, Duque L, Huffman JC, Healy BC, & Celano CM (2020). Text message interventions 
+for physical activity: A systematic review and meta-analysis. American Journal of Preventive 
+Medicine, 58(1), 142–151. 10.1016/j.amepre.2019.08.014 [PubMed: 31759805] 
+Tison GH, Avram R, Kuhar P, Abreau S, Marcus GM, Pletcher MJ, & Olgin JE (2020). Worldwide 
+effect of COVID-19 on physical activity: A descriptive study. Annals of Internal Medicine, 173(9), 
+767–770. 10.7326/M20-2665 [PubMed: 32598162] 
+Towner EK, Idalski Carcone A, Ghosh S, Ondersma S, & Stylianou M (2020). Adapting 
+pharmacological dose-finding designs for early phase behavioral intervention development 
+research. Health Psychology. 10.1037/hea0001024
+Tudor-Locke C, Craig CL, Brown WJ, Clemes SA, De Cocker K, Giles-Corti B, Hatano Y , Inoue S, 
+Matsudo SM, Mutrie N, Oppert J-M, Rowe DA, Schmidt MD, Schofield GM, Spence JC, Teixeira 
+PJ, Tully MA, & Blair SN (2011). How many steps/day are enough? For adults. International 
+Journal of Behavioral Nutrition and Physical Activity, 8, 79. 10.1186/1479-5868-8-79
+Turrisi TB, Bittel KM, West AB, Hojjatinia S, Hojjatinia S, Mama SK, Lagoa CM, & Conroy DE 
+(2021). Seasons, weather, and device-measured movement behaviors: A scoping review from 2006 
+to 2020. International Journal of Behavioral Nutrition and Physical Activity, 18(1), 24. 10.1186/
+s12966-021-01091-1
+U.S. Department of Health and Human Services. (2018). 2018 Physical Activity Guidelines for 
+Americans (2nd edition) (p. 118). U.S. Department of Health and Human Services. https://
+health.gov/paguidelines/second-edition/pdf/Physical_Activity_Guidelines_2nd_edition.pdf
+Van Rossum G, & Drake FL (2009). Python 3 Reference Manual. CreateSpace.
+V oils CI, Chang Y , Crandell J, Leeman J, Sandelowski M, & Maciejewski ML (2012). Informing 
+the dosing of interventions in randomized trials. Contemporary Clinical Trials, 33(6), 1225–1230. 
+10.1016/j.cct.2012.07.011 [PubMed: 22841930] 
+V oils CI, King HA, Maciejewski ML, Allen KD, Yancy WS, & Shaffer JA (2014). Approaches for 
+informing optimal dose of behavioral interventions. Annals of Behavioral Medicine, 48(3), 392–
+401. 10.1007/s12160-014-9618-7 [PubMed: 24722964] 
+Welch WA, Spring B, Phillips SM, & Siddique J (2018). Moderating effects of weather-related factors 
+on a physical activity intervention. American Journal of Preventive Medicine, 54(5), e83–e89. 
+10.1016/j.amepre.2018.01.025 [PubMed: 29551330] 
+Wongvibulsin S, Martin SS, Saria S, Zeger SL, & Murphy SA (2020). An individualized, data-driven 
+digital approach for precision behavior change. American Journal of Lifestyle Medicine, 14(3), 
+289–293. 10.1177/1559827619843489 [PubMed: 32477031] Hojjatinia et al. Page 18
+Health Psychol . Author manuscript; available in PMC 2022 August 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptHojjatinia et al. Page 19Table 1.
+Features of step and impulse responses in the distribution of person-specific models and a generic model.
+Response Feature Type of messagesPerson-Specific Models Generic Model
+Weekday Weekend
+Weekday Weekend M (SD) Range M (SD) Range
+Peak Magnitude
+Move more 35.40 (17.91) (8.07, 92.98) 50.94 (22.50) (14.17, 105.45) 6.1 8.8
+Sit less 33.95 (19.11) (7.91, 108.3) 48.52 (20.74) (8.94, 106.42) 7.8 9.05
+Inspirational quotes 49.22 (22.45) (17.66, 110.59) 65.60 (36.50) (19.67, 197.33) 9.84 8.67
+Peak Delay
+Move more 28.33 (23.11) (0, 60) 27.66 (22.82) (0, 60) 0 15
+Sit less 25 (24.77) (0, 60) 29.33 (21.91) (0, 60) 0 60
+Inspirational quotes 26.33 (22.42) (0, 60) 25.33 (23.89) (0, 60) 0 30
+Steady State
+Move more 17.26 (93.42) (−263.45, 239.68) 47.88 (164.97) (−338.48, 445.79) 7.61 45.83
+Sit less 30.62 (91.29) (−221.58, 319.36) 54.41 (163.73) (−287.12, 504.76) 25.18 53.37
+Inspirational quotes 20.85 (115.49) (−186.37, 267.67) −11.54 (224.35) (−467.42, 550.72) 11.11 −18.09
+Settling Time
+Move more 138.33 (44.75) (75, 300) 167.33 (53.22) (75, 330) 60 150
+Sit less 140.66 (63.01) (45, 360) 163.66 (53.01) (75, 315) 135 165
+Inspirational quotes 126.66 (44.60) (75, 285) 157.33 (63.93) (60, 360) 60 195
+Rise Time
+Move more 62 (42.85) (0, 150) 80.66 (59.16) (0, 210) 15 120
+Sit less 64 (48.75) (0, 225) 95 (57.56) (0, 255) 90 135
+Inspirational quotes 63 (38.85) (0, 165) 79.33 (52.51) (0, 195) 15 105
+Effective Time
+Move more 175.66 (238.53) (15, 600) 154 (228.70) (15, 600) 30 240
+Sit less 129.66 (202.69) (15, 600) 225.33 (256.52) (15, 600) 240 315
+Inspirational quotes 224.66 (263.51) (15, 600) 231 (266.25) (15, 600) 45 15
+Health Psychol . Author manuscript; available in PMC 2022 August 01.

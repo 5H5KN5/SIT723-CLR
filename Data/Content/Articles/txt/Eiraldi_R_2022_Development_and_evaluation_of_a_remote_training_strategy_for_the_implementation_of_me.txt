@@ -1,0 +1,1471 @@
+Eiraldi  et al. Pilot and Feasibility Studies           (2022) 8:128  
+https://doi.org/10.1186/s40814-022-01082-4
+STUDY PROTOCOL
+Development and evaluation of a remote 
+training strategy for the implementation 
+of mental health evidence -based practices 
+in rural schools: pilot study protocol
+Ricardo Eiraldi1,2*  , Barry L. McCurdy3, Muniya S. Khanna4, Jessica Goldstein1, Rachel Comly1, 
+Jennifer Francisco5, Laura E. Rutherford5, Tara Wilson1, Kathryn Henson1, Thomas Farmer6 and Abbas F. Jawad1,2 
+Abstract 
+Background: An increasing number of schools in rural settings are implementing multi-tier positive behavioral 
+interventions and supports (PBIS) to address school-climate problems. PBIS can be used to provide the framework 
+for the implementation of evidence-based practices (EBPs) to address children’s mental health concerns. Given the 
+large service disparities for children in rural areas, offering EBPs through PBIS can improve access and lead to better 
+long-term outcomes. A key challenge is that school personnel need technical assistance in order to implement EBPs 
+with fidelity and clinical effectiveness. Providing ongoing on-site support is not feasible or sustainable in the majority 
+of rural schools, due to their remote physical location. For this reason, remote training technology has been recom-
+mended for providing technical assistance to behavioral health staff (BHS) in under-served rural communities.
+Objectives: The purpose of this study is to use the user-centered design, guided by an iterative process (rapid 
+prototyping), to develop and evaluate the appropriateness, feasibility, acceptability, usability, and preliminary student 
+outcomes of two online training strategies for the implementation of EBPs at PBIS Tier 2.
+Methods: The study will employ a pragmatic design comprised of a mixed-methods approach for the development 
+of the training platform, and a hybrid type 2, pilot randomized controlled trial to examine the implementation and 
+student outcomes of two training strategies: Remote Video vs. Remote Video plus Coaching.
+Discussion: There is a clear need for well-designed remote training studies focused on training in non-traditional set -
+tings. Given the lack of well-trained mental health professionals in rural settings and the stark disparities in access to 
+services, the development and pilot-testing of a remote training strategy for BHS in under-served rural schools could 
+have a significant public health impact.
+Ethics and dissemination: The project was reviewed and approved by the institutional review board. Results will 
+be submitted to ClinicalTrials.gov  and disseminated to community partners and participants, peer-reviewed journals, 
+and academic conferences.
+Trial registration: ClinicialTrials.gov, NCT05034198 and NCT05039164
+© The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/. The Creative Commons Public Domain Dedication waiver (http:// creat iveco  
+mmons. org/ publi cdoma in/ zero/1. 0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.Open Access
+*Correspondence:  eiraldi@upenn.edu
+1 Roberts Center for Pediatric Research, Children’s Hospital of Philadelphia, 
+2716 South Street, Room 8293, Philadelphia, PA 19146-2305, USA
+Full list of author information is available at the end of the article
+Page 2 of 19 Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+Background
+Eighty-four percent of Mental Health Professional Short -
+age areas in the USA are located in rural and frontier 
+areas [1]. Children and adolescents in rural settings are 
+less likely to receive services compared to their urban 
+and suburban counterparts and even fewer are likely to 
+receive evidence-based care [2, 3]. Schools have become 
+more involved in the delivery of mental health services 
+and hold great potential for increasing access for chil -
+dren and adolescents. Innovations in training and service 
+delivery are needed to improve mental health care qual -
+ity and availability in rural schools [4]. Evidence-based 
+practices (EBPs) can be incorporated into school-wide 
+multi-tiered systems that are currently being used to 
+improve school climate and safety. School-wide positive 
+behavioral interventions and supports (PBIS), a service-
+delivery framework based on the public health model, is 
+one example [5, 6]. A growing number of schools in rural 
+areas are employing PBIS [7–10]. Given the large ser -
+vice disparities for children in rural areas, offering EBPs 
+through PBIS can improve access and lead to better long-
+term outcomes [11]. Our research team has used PBIS 
+to incorporate EBPs at Tier 2 for children with, or at risk 
+for, mental health disorders in urban schools [12–14]. We 
+have demonstrated that school personnel, with or with -
+out prior mental health training, can implement Tier 2 
+interventions with fidelity and clinical effectiveness (i.e., 
+child symptom improvement) if given adequate techni -
+cal assistance (i.e., training support) [12, 13, 15, 16]. In 
+urban and suburban schools, this training can be pro -
+vided to school staff on site. However, providing on-site 
+training is not feasible or sustainable in the majority of 
+rural schools, due to their remote physical location. For 
+this reason, remote training technology has been recom -
+mended for the training of behavioral health staff (BHS) 
+in under-served rural communities [17, 18].
+Remote training technology offers the potential to pro -
+vide training for behavioral health staff in rural schools. 
+Based on our reading of the relevant literature and our 
+collective experience developing programs in the school 
+setting, we propose that the development of a training 
+strategy for BHS in rural school settings ought to (a) use 
+a participatory design with school personnel, (b) employ 
+web-based training technologies, (c) include a training 
+system for BHS to enhance knowledge and skill needed 
+for implementation, and (d) incorporate implementer 
+and school context factors to increase perceived feasibil -
+ity, appropriateness and acceptability by stakeholders.We will involve school BHS in the development of the 
+training strategy using the user-centered design approach 
+[19] guided by an iterative development framework. The 
+iterative framework, rapid prototyping, originally used 
+for software development [20, 21], is based on a cyclic 
+process of analyzing data from users in order to improve 
+successive prototypes. Applied to this project, prototyp -
+ing will involve the creation of “low fidelity” versions of 
+the training platform that contains key functions of inter -
+est in order to test a concept, and facilitate rapid evalu -
+ation and feedback [19]. Following the evaluation of the 
+early prototypes, a fully functional “high fidelity” pro -
+totype is created that is more similar to the final prod -
+uct and that offers fully interactive content [22]. Rigor is 
+achieved in this process through the systematic, repeti -
+tive, and recursive nature of the qualitative and quantita -
+tive data analysis from user feedback.
+Carefully considering the perspectives of BHS in 
+the development of the training strategy might make 
+it more likely that they will participate in the training 
+and that they continue using EBPs with students in the 
+future. User-centered design, also known as participa -
+tory design, is an approach to product development that 
+has increasingly been used for the development of psy -
+chosocial interventions [19, 23]. We will work with stake -
+holders to ensure that the training strategy is easy to use 
+and understand by school behavioral health staff, that is 
+acceptable for the school context, and that is appropriate 
+for their needs [24].
+Advantages of web-based remote training include flex -
+ibility, accessibility, cost-efficiency, potential for both 
+didactic and interactive learning, and consistency in 
+quality [17, 25]. Remote online training allows for syn -
+chronous (i.e., interactive) supervision and feedback 
+from a supervisor anywhere in the country. This allows 
+for the trainee to be able to receive ongoing consultation 
+or supervision on site without the time and cost of travel 
+[25–27]. Advantages to training and consultation using 
+an online strategy include the potential for (a) self-paced 
+learning, (b) trainee competency and adherence checks, 
+and importantly, (c) the resources/time benefits of 24-h 
+and in-school/in-home access to learning and treatment 
+materials.
+Remote technology-enhanced programs have been 
+found to be acceptable and feasible in community set -
+tings [28, 29]. For example, a study testing the effective -
+ness of consultation via video for improving teacher 
+behavior management found that perceived acceptability Keywords: Rural schools, User-centered design, Positive behavioral interventions and supports, Mental health 
+evidence-based practices, Tier 2
+Page 3 of 19
+ Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+ 
+of consultation by teachers increased from “acceptable” 
+at baseline to “highly acceptable” at post-consultation 
+[30]. Another study, conducted with teachers in rural 
+schools, showed teleconsultation to be feasible, accept -
+able, and effective at improving teacher classroom behav -
+ior management [31]. A systematic review of studies 
+using teleconsultation in schools showed teleconsultation 
+to be an effective service delivery method [32].
+Studies suggest that technology-based training meth -
+ods, particularly when developed using the latest mul -
+timedia and interactive design formats, may be more 
+effective than manuals alone and as effective as face-to-
+face training workshops in disseminating EBPs to com -
+munity mental health professionals [17, 24, 29, 33]. Our 
+online strategy differs in a number of ways from the 
+consultation approach used in previous studies. We will 
+offer protected access to asynchronous training materi -
+als such as training video “modules” that include didactic 
+content, audio and visual examples, as well as treatment 
+materials and resources, all of which can be viewed at the 
+trainee’s individual pace and convenience. The study will 
+also examine the potential added benefit of offering syn -
+chronous consultation by expert consultants to the train -
+ing package.
+Initial training workshops and ongoing consultation 
+with BHS are key strategies for implementing EBPs in 
+schools. Multicomponent training strategies for men -
+tal health therapists, comprised of an initial workshop 
+followed by ongoing consultation, have been found to 
+be more effective than a single workshop for enhanc -
+ing therapist clinical skills and knowledge, treatment 
+adherence, and clinical outcomes [34–36]. The literature 
+has shown that an initial training workshop is a neces -
+sary training component. However, for the rural school 
+context, it is not known whether providing additional 
+interactive consultation would be necessary if BHS are 
+instead provided with step-by-step instructions on how 
+to implement EBPs via asynchronous video. With an 
+asynchronous video strategy, BHS could also be pro -
+vided intervention materials (e.g., intervention manuals) 
+that can be downloaded on demand. Training via asyn -
+chronous video would be more feasible for busy BHS and 
+potentially less expensive than attending pre-scheduled 
+ongoing synchronous consultation. In this study, we will 
+fill a void in the literature by examining the amount and 
+type of resources needed by BHS in rural schools in order 
+to implement mental health EBPs with fidelity and clini -
+cal effectiveness. Also, the results of the present study 
+will inform the composition of the training strategy used 
+in a future larger study in rural schools.
+Proctor and colleagues propose that the perceived 
+appropriateness, feasibility, and acceptability of a 
+health innovation are key to its implementation success [37, 38]. Appropriateness refers to the perceived fit, rel -
+evance, or compatibility of the innovation for a specific 
+setting [37, 39]. Feasibility refers to the extent to which 
+an innovation can be successfully used in a particular 
+setting [37, 39]. Acceptability refers to the perception 
+among EBP implementers as to whether the innova -
+tion is agreeable, palatable, or satisfactory [37, 39]. A 
+nested confirmatory factor analysis provided evidence 
+of structural validity for measuring these constructs, 
+with the three-factor model (appropriateness, feasi -
+bility, acceptability) yielding acceptable model fit and 
+high-scale reliability [40]. We will use these meas -
+ures in the study. We will also measure usability of 
+the training strategy [41]. Usability, which is defined 
+as the degree to which a program can be used easily, 
+efficiently, with satisfaction, and low user burden by a 
+particular stakeholder [42], is a key outcome of user-
+centered design [19]. Of particular importance for this 
+study is that appropriateness, feasibility, acceptability, 
+and usability are mutable factors that can be used in 
+an iterative manner with key stakeholders to guide the 
+development and refinement of a health innovation [37, 
+43]. We will measure these four constructs to guide the 
+development and implementation of the remote train -
+ing strategies.
+Development and evaluation of remote training strategies
+In the current pilot study, we will develop, revise, and 
+evaluate asynchronous video modules for use in rural 
+schools. Following the development of the training mod -
+ules, we will conduct a pilot study to examine implemen -
+tation and child outcomes of two training strategies for 
+BHS: (a) initial training workshop followed by asynchro -
+nous didactic video training (Remote Video) and (b) ini -
+tial training workshop followed by asynchronous didactic 
+video plus synchronous video coaching (Remote Video 
+plus Coaching). At the conclusion of the study, we will 
+submit a fully powered, Hybrid Type 3 R01 grant pro -
+posal to examine implementation outcomes (adoption, 
+penetration, fidelity, cost) of the remote training platform 
+with a larger sample of rural schools.
+Objectives/aims
+The primary aims of the study are:
+• To obtain input from school stakeholders about bar -
+riers and facilitators of remote online training by 
+employing a user-centered research approach
+• To use user-centered design guided by an iterative 
+rapid prototyping approach to develop asynchronous 
+video modules based on preliminary studies and aim 
+1 data
+Page 4 of 19 Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+• To conduct a pilot trial of Remote Video vs. Remote 
+Video plus Coaching
+Method
+The present protocol has been registered within Clini -
+calTrials.gov (registration numbers NCT05034198 and 
+NCT05039164). The final study report will be prepared 
+in accordance with the reporting guidance provided 
+in the CONSORT extension for reporting pilot rand -
+omized controlled trials.
+Design
+The study will employ a pragmatic design comprised 
+of a mixed-method approach for aims 1 and 2 and a 
+2-arm, pilot randomized controlled trial, with a type 2 
+hybrid design [44] for aim 3. Aims 1 and 2 will be com -
+pleted during years 1 and 2 and aim 3 during years 3–5 
+of the study.
+Randomization
+We will invite 100 schools to participate and we esti -
+mate that approximately 30 schools (30%) will agree 
+to participate in the initial interview with BHS (aim 
+1). The 30 participating schools will be included in 
+the training strategy development (aAim 2). We will 
+assign 16 schools to participate in the hybrid pilot trial 
+(aim 3). After receiving school consent to participate, 
+schools will be stratified based on geographic location 
+and a computer-generated randomization list will be 
+prepared to randomize the 16 schools in a 1:1 ratio to 
+either Remote Video or Remote Video plus Consulta -
+tion (8 schools/arm).
+Study flowchart
+Figure 1  illustrates the study flowchart.
+Inclusion criteria
+Any rural school, designated by the US Census Bureau, 
+with a PBIS program that is implementing Tier 1 with 
+fidelity, with or without a functioning Tier 2. Imple -
+menting Tier 1 with fidelity is required because Tier 1 
+is foundational for the development of mental health 
+interventions at the advanced tiers of support [45]. Any 
+BHS (e.g., school counselor, school social worker) or 
+teacher, with or without experience implementing Tier 
+2 interventions, based at a school implementing PBIS, 
+would be eligible for inclusion in the study.
+For aim 3, inclusion of students to receive a Tier 2 
+intervention is as follows:• Attending one of the participating schools
+• Being in grades 4–8
+• Identified by the Tier 2 team as not responding to 
+Tier 1 intervention, thus needing Tier 2 support
+• Scoring > 1 SD above the mean on the Emotional 
+Symptoms or Conduct Problems scales of the 
+Strengths and Difficulties Questionnaire (SDQ) 
+[46] completed by a parent or a teacher
+Exclusion criteria
+School staff from schools not implementing PBIS will not 
+be included in the study, nor will students who do not 
+meet inclusion criteria. Students with a history of intel -
+lectual disability or serious developmental delays accord -
+ing to school records will not be included.
+Measures
+Participant burden for parents and teachers is mini -
+mal. BHS will be asked to complete more measures (see 
+Table  1) than parents and teachers, but measures are 
+typically brief. Measures that require more time (e.g., 
+qualitative interviews) are used less often. We will use 
+REDCap, secure email, and regular mail for data collec -
+tion. Qualitative interviews will be conducted over the 
+phone.
+Tier 2 interventions
+None of the schools will have any significant prior expe -
+rience implementing mental health EBPs at Tier 2. 
+Research consultants, supervised by licensed clinical 
+psychologists, will provide technical assistance support 
+to members of the Tier 2 team (i.e., BHS). In previous 
+studies conducted by our team [16, 48, 55], school per -
+sonnel expressed a desire to receive technical assistance 
+for the implementation of EBPs for the most common 
+mental health difficulties. As such, we will support BHS 
+as they implement interventions for externalizing and 
+anxiety problems, which are among the most common 
+mental health problems in schools [56]. The three EBPs 
+that schools will use during the pilot trial are the Cop -
+ing Power Program (CPP) [57] for externalizing behavior 
+disorders, CBT for Anxiety Treatment in Schools (CATS) 
+[58] for anxiety disorders, and Check-in/Check-out 
+(CICO) [59] for externalizing disorders. CPP and CATS 
+will be implemented in a group format during a lunch 
+period with students of similar developmental level (e.g., 
+4th and 5th or 7th and 8th grade together). We limit par -
+ticipation to students in grades 4–8 because the group 
+EBPs are appropriate for this age group. Tier 2 imple -
+menters could opt to use CICO for individual students 
+who present with externalizing problems.
+Page 5 of 19
+ Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+ 
+The CPP intervention consists of twelve 45-min ses -
+sions. It teaches anger management skills, perspective 
+taking, and problem solving. This intervention has been 
+found to be effective at reducing aggressive behavior, 
+covert delinquent behavior, and substance abuse among 
+aggressive boys, with gains maintained at 1-year follow-
+up [60]. Growth curve analyses showed that CPP had 
+linear effects for 3 years after intervention on reduc -
+tions in aggressive behavior and academic behavior 
+problems [61].
+The CATS intervention is an adaptation of Friends for 
+Life (FRIENDS) [62]. It teaches children how to recog -
+nize feelings of anxiety and physical reactions to anxi -
+ety, clarify thoughts and feelings in anxiety-provoking situations, develop a coping plan, evaluate their own per -
+formance, and provide self-reinforcement. The adapted 
+protocol retains the core elements of evidence-based 
+CBT for anxiety and the FRIENDS group format. Adapta -
+tion decisions for FRIENDS were based on our collective 
+experience with the protocol, two previous implemen -
+tation studies [13, 15], and focus groups and qualitative 
+interviews with stakeholders. The adapted intervention 
+is a briefer (8-session) and more feasible, engaging, and 
+relevant for students in under-resourced schools than the 
+original FRIENDS.
+The CICO intervention is a targeted, individually 
+administered, Tier 2 intervention for students at risk 
+of developing externalizing mental health disorders 
+Fig. 1 Study flowchart
+Page 6 of 19 Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+Table 1 Measures by variable/construct, measure characteristics, timepoint, method, informant, and time burden
+Variable/construct Measure Measure characteristics Timepoint Method Informant Time
+Aim 1
+ Barriers and facilitators Interview guide # 1 A semi-structured qualitative interview 
+will be conducted with BHS to elicit 
+views about perceived barriers and 
+facilitators to participation in consulta-
+tion sessions and conducting groups 
+with students (e.g., What would 
+make it difficult for you to participate 
+in consultation sessions and conduct 
+groups with students? Now, please tell 
+me what would make it easier for you 
+to participate in remote training, receive 
+consultation remotely or conduct groups 
+with students?)Pre-trial Coding Behavioral health staff 20 min
+Aim 2
+ Assess prototype Interview guide # 2 The interview includes a description 
+of the first platform prototype; it will 
+describe each training and consulta-
+tion component. BHS will be asked 
+whether the different components 
+of the training and consultation and 
+group implementation would be 
+feasible (e.g., We’re interested in your 
+thoughts about how feasible it would 
+be to use remote video technology in 
+your school) and acceptable (e.g., We’re 
+interested in your thoughts about how 
+acceptable the remote video technology 
+is) using a 5-point scale [46]. They will 
+also be asked why the component is 
+or is not feasible/acceptable; whether 
+they would be willing to participate in 
+remote consultation.Pre-trial Coding Behavioral health staff 30 min
+Page 7 of 19
+ Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+ 
+Table 1 (continued)
+Variable/construct Measure Measure characteristics Timepoint Method Informant Time
+ Assess prototypes Surveys # 1–3 The surveys include the Intervention 
+Appropriateness Measure [IAM], the 
+Acceptability of Intervention Measure 
+[AIM], and the Feasibility of Interven-
+tion Measure [FIM] [40]. The measures 
+are comprised of 4 items, each rated 
+on a 5-point scale (1=completely 
+disagree to 5=completely agree). Scale 
+refinement based on measure-specific 
+CFAs and Cronbach alphas using 
+vignette data produced 4-item scales 
+(α’s from 0.85 to 0.91). A three-factor 
+CFA exhibited acceptable fit (CFI = 
+0.96, RMSEA = 0.08) and high factor 
+loadings (0.75 to 0.89), indicating 
+structural validity. ANOVA showed 
+significant main effects, indicating 
+known-groups validity. Test-retest 
+reliability coefficients ranged from 0.73 
+to 0.88. Regression analysis indicated 
+each measure was sensitive to change 
+in both directions [40].
+Survey # 3 will also include the Inter -
+vention Usability Scale (IUS), an adapta-
+tion of the System Usability Scale (SUS) 
+[41]. The SUS is a widely used scale for 
+assessing usability of digital products. 
+We adapted the SUS for the evaluation 
+of instructional videos.
+Respondents will also be asked to 
+provide comments to explain their 
+answers (e.g., “please comment on the 
+video about using remote consultation 
+technology”).Pre-trial Rating scale and coding Behavioral health staff 30 min
+Pre-trial activities
+ Tier 2 screening Strengths and Difficulties Question-
+naire (SDQ) [46] with Impact Supple -
+ment [47]The SDQ is a 25-item, 3-point scale 
+(0 = not true; 2 = certainly true) 
+questionnaire used to assess the psy-
+chological adjustment of children and 
+youth, ages 4–17.Pre-treatment Rating scale Parents/teachers 5 min
+Aim 3: implementation trial
+ Implementation measures
+Page 8 of 19 Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+Table 1 (continued)
+Variable/construct Measure Measure characteristics Timepoint Method Informant Time
+  Content fidelity of group CBT Coping Power and CATS Content Fidel-
+ity Checklist (CFC) [48]The CFC reflects each activity com-
+ponent of the session agenda of the 
+treatment protocols. Raters use a yes/
+no response scale to indicate whether 
+or not the implementer covered a 
+particular component as captured in 
+audio recordings of the group sessions.Ongoing Coding Research staff 40 min
+  Content fidelity of CI/CO Check-In/Check-Out Fidelity Checklist 
+[49–51]The Check-In/Check-Out Fidelity 
+Checklist is a 9-10-item checklist used 
+by Tier 2 implementers during morn-
+ing check-in and afternoon check-
+out rated as either occurring or not 
+occurring.Weekly Coding Research staff 10 min
+  Adoption Adoption Inventory (AI) The AI is an Excel track sheet listing the 
+number of times each intervention is 
+used per school, per conditionOngoing Coding Research staff 1 min
+  Dosage Dosage Inventory (DI) The DI is an Excel track sheet exported 
+from the project website listing the 
+number of times and length of time 
+each video module is accessed by BHS 
+in each conditionOngoing Digital Research staff 5 min
+  Penetration Penetration Inventory (PI) The PI is an Excel track sheet listing 
+EBP penetration at the student level 
+(students receiving EBPs at Tier 2)Ongoing Coding Research staff 1 min
+ Student outcome measures
+  Mental health symptoms Behavior Assessment System for Chil-
+dren -  3rd Edition (BASC-3) [52]Parents will complete either the web-
+based or paper and pencil version of 
+the BASC-3. The BASC-3 is a 138-item, 
+4-point, Likert-type (1= never, 2= some -
+times, 3= often, 4= almost always) rat -
+ing scale for assessing parental report 
+of child mental health functioning, 
+standardized for ages 2.5 to 18 years. 
+The BASC-3 has excellent psychometric 
+properties. The BASC-3 (Aggression, 
+Conduct Problems, and Anxiety scales) 
+will be used for children being consid-
+ered for Tier 2 and administered at pre- 
+and post-treatment for children who 
+participate in CPP , CATS, or CICO.Pre/post-treatment Rating scale Parent 20 min
+Page 9 of 19
+ Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+ 
+Table 1 (continued)
+Variable/construct Measure Measure characteristics Timepoint Method Informant Time
+  Student academic engagement Engagement versus Disaffection with 
+Learning - Teacher Report (EvsD-
+Teacher) [53, 54].The EvsD will be completed by 
+teachers for all students receiving Tier 
+2 interventions. This is a 20-item, four-
+point (1 = not at all true; 4 = very true) 
+instrument with four sub-scales: (a) 
+Behavioral Engagement, (b) Emotional 
+Engagement, (c) Behavioral Disaffection, 
+and (d) Emotional Disaffection. Internal 
+consistency for students in grades 3–6 
+was .81–.87 for the four subscales. We 
+will use the average score for each of 
+the four scales at pre- and post-partici-
+pation in CPP , CATS, or CICO.Pre/Post-treatment Rating scale Teacher 10 min
+  Perception of training support Qualitative Interview Guide # 3 Semi-structured qualitative interviews 
+are conducted with Tier 2 implement -
+ers and administrators in each condi-
+tion to elicit views and perspectives 
+about the perceived feasibility, accept -
+ability, appropriateness, and usability of 
+the training support they received.Post-trial Coding Behavioral health 
+staff/administrators30 min
+Page 10 of 19 Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+[63]. The CICO intervention is designed to provide 
+immediate feedback (i.e., at the end of each class 
+period) to students, based on the use of a daily report 
+card. This feedback is developmentally sensitive [63]. 
+Implementers meet individually with students for 
+a brief “check-in” in the morning and a brief “check-
+out” in the afternoon. Research on the use of CICO 
+has shown it to be effective in reducing externalizing 
+problems with elementary school students [63, 64]. 
+The CICO intervention will be offered to individual 
+students for a variable length of time, depending on 
+need. Each school will be instructed to select CICO 
+and one of the two CBT protocols for use during the 
+pilot trial.
+Training strategy development
+We will use evaluative and iterative strategies [65] to 
+ensure that the remote training strategy is a good fit with 
+the rural school context. Given that the training strategies 
+will be used in schools with specific culture and adminis -
+trative requirements, and by BHS who might have opin -
+ions and attitudes about receiving remote training and 
+consultation, we will use a participatory approach to 
+assess barriers and facilitators to participation in remote 
+training (see Fig. 2).
+Aim 1: Initial stakeholder input
+Thirty BHS (school counselors or school social work -
+ers; one per school) will participate in a semi-structured 
+interview (interview guide # 1) of perceived barriers to 
+and facilitators of participation in consultation sessions 
+and conducting groups with students (e.g., What would 
+make it difficult for you to participate in consultation 
+sessions and conduct interventions with students? Now, 
+please tell me what would make it easier for you to par -
+ticipate in remote training, receive consultation remotely 
+or conduct groups with students?)
+Aim 2: Remote training strategy development
+After analyzing the results of the first wave of inter -
+views, we will use a second semi-structured interview 
+containing descriptions of training modules, consulta -
+tion components, and potential EBPs and ask the same 
+30 BHS to evaluate them (BHS interview guide # 2). 
+The second semi-structured interview will include a 
+description of the first remote training prototype; it will 
+describe each training and consultation component, a 
+rationale for the need for each component, a descrip -
+tion of EBPs that will be offered (e.g., CPP) and proce -
+dures (e.g., steps needed to implement the component) 
+and approximate time required for training modules, 
+consultation sessions, and intervention implementation. 
+Participants will be asked to evaluate, using a 5-point scale, the feasibility and acceptability of different com -
+ponents of the training and consultation and interven -
+tion implementation. They will also be asked why the 
+component is or is not feasible/acceptable [66] and 
+whether they would be willing to participate in remote 
+consultation. After analyzing the second set of inter -
+views, we will revise the description of the remote train -
+ing strategy and ask the 30 BHS to complete three brief 
+questionnaires about the perceived appropriateness, 
+feasibility, and acceptability [40] of the revised, second 
+prototype (BHS survey # 1).
+Following the stakeholder’s evaluation of the second 
+prototype, we will develop the actual training modules 
+(third prototype). These will be a set of asynchronous 
+(non-interactive) training videos. The development of 
+the modules will be based on the training literature, 
+our preliminary studies, and evaluation of the previous 
+prototypes.
+Asynchronous video components
+Mental health trainers with expertise in the treatment of 
+externalizing and internalizing behavior disorders will 
+video-record the training modules and produce them 
+using lecture capture technology (i.e., showing speaker 
+and PowerPoint slides on a split screen). When appro -
+priate, training modules will include both didactic and 
+active learning activities such as role-plays and behav -
+ior rehearsals by project staff, showing select sections of 
+video-recorded sessions with students, and demonstra -
+tion of techniques [35, 67].
+Video modules will address both (a) specific inter -
+ventions (i.e., CPP , CICO, CATS) and (b) general sup -
+port for the implementation of EBPs. Modules about 
+specific interventions will include a brief discussion 
+of the theoretical background of the particular EBP , 
+its development (theoretical rationale, key compo -
+nents, efficacy/effectiveness findings), and a detailed 
+review of the group sessions (content, structure, pro -
+cess, implementation challenges). General modules 
+might include (a) use of remote consultation technol -
+ogy; (b) description of consultation procedures; (c) 
+instruments and use of data; (d) incorporating EBPs 
+into PBIS [68]; (e) screening; (f) group behavior man -
+agement; and (g) implementation barriers. Some vid -
+eos (e.g., instruments and use of data) will be relatively 
+brief, while other videos (e.g., CATS) will be longer in 
+order to provide step-by-step instruction on how to 
+implement the intervention.
+Video evaluations by school behavioral health staff
+The 30 BHS from aim 1 will be asked to review and eval -
+uate the asynchronous video modules by connecting to a 
+project website. Immediately after BHS watch the videos, 
+Page 11 of 19
+ Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+ 
+they will be asked to complete four brief surveys regard -
+ing the appropriateness, feasibility, acceptability [40], 
+and usability [19] of each training module and provide 
+comments about each (e.g., Please comment on the video 
+about using the remote consultation technology. What 
+worked? What did not work? What changes do you sug -
+gest?) (BHS survey # 2). Following a review of the ques -
+tionnaires, further revisions will be made to the training 
+modules (e.g., videos, manuals) and consultation proce -
+dures (fourth prototype).
+If, at the end of the second mini-trial, we conclude that 
+the training and procedures are not yet ready for the pilot 
+trial, an additional iteration of the training strategy will 
+be conducted in two additional schools following pro -
+cedures similar to those described above. If no further iterations are necessary, we will proceed to the rand -
+omized pilot trial.
+Aim 3: Hybrid type 2 pilot trial
+All activities related to the training of school person -
+nel and implementation of EBPs for aim 3 are guided by 
+the Interactive System Framework for Dissemination & 
+Implementation (ISF) [69] (see Fig.  3). ISF is intended to 
+be a “heuristic for understanding key systems, key func -
+tions, and key relationships relevant to the dissemination 
+and implementation process” (p. 179) [69]. ISF is com -
+posed of three interrelated systems: Synthesis and Trans -
+lation System (STS), Support System (SS), and Delivery 
+System (DS). The function of STS is to distill informa -
+tion innovations and prepare them for implementation 
+by service providers. SS supports the work of those who 
+Fig. 2 Development and evaluation of remote training platform
+Page 12 of 19 Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+put the innovation into practice. The primary function of 
+DS is the implementation of innovations in “real world” 
+settings [69, 70]. We will use all three systems because 
+they provide a roadmap for distilling information about 
+the implementation of EBPs in schools, training of 
+school personnel, and implementation of EBPs by school 
+personnel.We will conduct the pilot trial in 16 schools (8 per 
+arm). It is estimated that a total of 48 behavioral health 
+staff (3 staff per school — 24 per arm) and 208 students 
+(13 students per school — 104 per arm) will participate 
+in this pilot study. We expect that each school will have 
+one staff member with prior mental health training 
+(e.g., school counselor). This person will be expected 
+Fig. 3 Interactive systems framework for dissemination and implementation
+Page 13 of 19
+ Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+ 
+to implement one of the group-EBPs. The two other 
+staff members will be tasked with implementing the 
+individualized CICO intervention, as this interven -
+tion can be implemented by school staff without prior 
+mental health training [49, 51]. We estimate that each 
+BHS will conduct one CPP or CATS group with 5–6 
+students of similar developmental level (e.g., a group 
+of 4th and 5th graders; 40 students total) and that each 
+school staff in CICO will implement the intervention 
+with 4 individual students of any school grade (64 stu -
+dents total).
+Study conditions
+The study conditions will be (a) Remote Video and (b) 
+Remote Video plus Coaching. School staff assigned to 
+Remote Video will participate in an initial synchronous 
+training workshop followed by asynchronous video train -
+ing. They will also be given copies of the intervention 
+manuals and other related material. School staff assigned 
+to Remote Video plus Coaching will participate in an 
+initial synchronous training workshop followed by asyn -
+chronous video plus synchronous coaching via Webex.
+Initial training
+Research consultants will conduct a synchronous train -
+ing workshop in August of each year via a video-con -
+ferencing platform (Webex) for all school personnel 
+involved in CATS, CPP , and CICO. Tier 2 implement -
+ers will be instructed on the use of data to identify and 
+assign students at risk for behavioral and emotional dis -
+orders into Tier 2. The Tier 2 implementers will also be 
+taught a competency framework for mental health and 
+PBIS [71, 72], strategies for enhancing school personnel 
+knowledge of mental health “warning signs” among stu -
+dents through in-service training, and how to access the 
+online materials. The training related to “warning signs” 
+will be conducted in order to help teachers identify stu -
+dents who could benefit from the interventions.
+Tier 2 implementers will be instructed to use training 
+manuals and adherence checklists for Tier 2. The Tier 2 
+team will be trained on the use of a mental health screen -
+ing instrument (SDQ) [47] and a multi-axial parent rating 
+scale (Behavioral Assessment System for Children, Third 
+Edition (BASC-3) [52]) and other instruments used in the 
+study. Implementers will be introduced to a competency 
+model for CBT [73]. They will also learn about how to 
+deal with implementation barriers (e.g., scheduling ses -
+sions, conducting exposure tasks) [74]. Training content 
+and procedures will be based on adult learning character -
+istics (e.g., propensity to learn from experience, capacity 
+to reflect on performance and apply knowledge, and self-
+motivation) [33, 75].Guided video
+Following the initial training workshop and after 
+implementers have identified students for interven -
+tions, Tier 2 implementers will be given access to the 
+training videos developed for aim 2. The videos will 
+be made available through a website that has the abil -
+ity to measure how many times each video has been 
+accessed by the Tier 2 implementer and for how long. 
+Each participant will be given access to the videos that 
+correspond to the interventions that they plan to use. 
+All Tier 2 implementers will be given access to videos 
+that address general topics (e.g., how to use data to 
+identify students for participation; dealing with imple -
+mentation barriers).
+Coaching
+Research team consultants will provide synchronous con -
+sultation to BHS using Webex. The consultation will have 
+two main components: (a) session preparation (CPP/
+CATS) or review and planning (CICO) and (b) coaching.
+Session preparation for CPP and CATS will consist 
+of (a) discussing referrals to the groups; (b) conducting 
+a step-by-step walkthrough of the session objectives; 
+(c) reviewing the CBT principles behind the treatment 
+components for that session; (d) encouraging adherence 
+and the use of active learning strategies; (e) problem-
+solving barriers to implementation and helping BHS 
+reflect on past challenges (e.g., attendance problems, 
+organizational barriers, materials/resources) in order to 
+successfully implement the next session with appropri -
+ate adaptations as needed; and (f) enhancing BHS’s use 
+of empathy and positive reinforcement through mod -
+eling. These procedures have been successfully used 
+by our team in previous school-based projects [12, 15, 
+48]. Research consultants for CICO will (a) review 
+main components of the interventions with the school’s 
+CICO coordinator and data analyst and (b) plan ongoing 
+implementation.
+Coaching for CPP and CATS will consist of (a) goal 
+setting [76], (b) self-reflection [77], and (c) performance 
+feedback [78]. Participants will be told that they are 
+expected to reach an 80% fidelity level when implement -
+ing the intervention. They will also learn that fidelity is 
+set at 80% because the intervention would be more likely 
+to be effective compared to a lower fidelity level [76]. 
+Then, BHS will be asked to reflect on the previous ses -
+sion (e.g., How do you think you did during the last CPP/
+CATS session or CICO case? What do you think went 
+right? What do you think did not go well?) . The consult -
+ant will provide BHS with approximate fidelity data for 
+the previous CPP/CATS session or CICO case and note 
+whether the fidelity threshold was achieved. Finally, the 
+Page 14 of 19 Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+consultant will use audio clips from the previous ses -
+sion to encourage discussion about how the BHS han -
+dled student behavior in session, including the overall 
+level of participation and enthusiasm, and disruptive or 
+withdrawn behavior. The audio clips will be housed on 
+a project website. Fidelity data will be provided to BHS 
+regarding content fidelity (i.e., the material the BHS was 
+supposed to cover in session). All consultation proce -
+dures will be detailed in a consultation manual. Coach -
+ing for CICO will consist of (a) providing performance 
+feedback to the CICO coordinator and data analyst 
+about their program (e.g., use of data to refer students 
+to CICO, student progress monitoring) and (b) problem-
+solving implementation barriers.
+Data collection
+Information about measures is shown in Table  1. The 
+Tier 2 team will identify students for Tier 2 using the 
+Strengths and Difficulties Questionnaire SDQ [46] com -
+pleted by parents and teachers. As part of this process 
+and depending on the need for services, the Tier 2 team 
+might target certain grades/classes to screen students for 
+mental health concerns. The cut-off score level for the 
+SDQ is appropriate for identifying students at risk for a 
+behavioral/mental health disorder [46].
+During the training of BHS, we will collect data how 
+many times during the training period BHS use the 
+interventions that they have been trained on (adop -
+tion), and how many times and for how long video 
+modules are accessed (training dosage). After post-
+intervention data are collected on students, BHS will 
+participate in a survey and semi-structured interview 
+to assess perceived acceptability (AIM) [40], feasibil -
+ity (FIM) [40], appropriateness (IAM) [40], and usabil -
+ity [41] of the training and consultation procedures, 
+and to gather their opinions about the support they 
+received. Regarding the specific interventions, we will 
+collect data on content fidelity [48] on an ongoing 
+basis. Content fidelity is defined as the extent to which 
+the prescribed components of the intervention are 
+implemented.
+We will also measure how many students are served per 
+condition (penetration) [79], and pre- to post-changes in 
+student mental health symptoms, as reported by parents 
+(BASC-3) [52] and students (The Behavior and Feeling 
+Survey-Youth Self Report) [80], and academic engage -
+ment (EvsD) [53], as reported by teachers.
+Statistical analysis plan
+The statistical analysis plan (SAP) will be updated and 
+finalized before the data base lock. The SAP will provide 
+comprehensive descriptive information of the statisti -
+cal analysis plan, including approaches for summarizing primary and secondary endpoints at baseline and post-
+treatment. All statistical analyses will be performed using 
+SAS® [81], version 9.4 or higher.
+Data analyses by aim
+Aim 1: To obtain input from school stakeholders about 
+barriers and facilitators of remote online training by 
+employing a user-centered research approach.
+Research question # 1: What are the barriers to and 
+facilitators of remote online training in participant 
+schools?
+We will import transcripts of semi-structured inter -
+view # 1 into NVivo for data management and analyses. 
+Analyses will be guided by an integrated approach [82] 
+that includes identification of a priori attributes of inter -
+est (i.e., constructs important to consider in the devel -
+opment of the remote training strategy), and modified 
+grounded theory, which provides a rigorous, systematic 
+approach to identifying emergent codes and themes.
+Aim 2: To use user-centered design, guided by an itera -
+tive rapid prototyping approach, to develop asynchro -
+nous video modules based on preliminary studies and 
+aim 1 data.
+Hypothesis # 1: The final training video prototypes will 
+be rated as feasible, acceptable, appropriate, and usable.
+We will import transcripts of semi-structured interview 
+# 2 into NVivo for data management and analyses. We will 
+use mixed methods to integrate the quantitative and quali -
+tative data. Consistent with Palinkas and colleagues [83], 
+we will utilize the following design: the structure of the 
+design is convergent (we will gather data from 5-point rat -
+ing scales [AIM, IAM, FIM, usability] and qualitative data 
+[i.e., semi-structured interviews, written answers] simul -
+taneously and weigh them equally) and the function is of 
+complementarity (to elaborate upon the quantitative find -
+ings to understand the process of implementation of remote 
+consultation as experienced by stakeholders) [83, 84]. We 
+will use the quantitative data to identify patterns in the 
+qualitative data. To do this, we will enter quantitative find -
+ings into NVivo as attributes of each participant and these 
+quantitative attributes will be used to categorize and com -
+pare important themes among subgroups.
+Aim 3: To conduct a pilot trial of Remote Video vs. 
+Remote Video plus Coaching.
+The purpose of the pilot study is to examine “the real 
+world” implementation of EBPs to students in the school 
+setting. Our primary goal is to gather key measures to 
+produce estimates related to implementation and stu -
+dent outcomes for the Remote Video condition and the 
+Remote Video plus Consultation condition. Our research 
+questions guiding our statistical analyses are:
+Research question # 1: Will Tier 2 implementers 
+assigned to Remote Video differ from those assigned to 
+Page 15 of 19
+ Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+ 
+Remote Video plus Coaching on implementation out -
+comes (i.e., adoption, number of times and length of time 
+accessing video modules; perceived feasibility, appropri -
+ateness, acceptability and usability of training strategy)?
+Sub-aim 3a: To identify confounder variables asso -
+ciated with the two conditions regarding the use of the 
+EBPs (CPP , CATS, CICO).
+Research question # 2: Will students who receive Tier 
+2 support provided by Tier 2 BHS assigned to Remote 
+Video differ from those assigned to Remote Video plus 
+Coaching on student outcomes (i.e., penetration, mental 
+health symptoms, academic engagement)?
+Sub-aim 3b: To identify confounder variables associ -
+ated with pre- to post-changes in student outcomes by 
+the two conditions.
+Sub-aim 3c: Estimate fidelity of CPP , CATS, and CICO 
+by the two conditions.
+Research question # 3: Will Remote Video plus Coach -
+ing be associated with higher fidelity compared to 
+Remote Video?
+The primary endpoints related to school staff imple -
+menting the interventions are measures of number of 
+interventions per condition (adoption) [85], perceived 
+feasibility of intervention (FIM) [40], intervention 
+appropriateness (IAM) [40], acceptability of interven -
+tion (AIM) [40], usability [41], and intervention con -
+tent fidelity [86]. Primary endpoints related to student 
+outcomes are number of students eligible for inter -
+ventions who use interventions, divided by the total 
+number of students eligible for interventions (pen -
+etration) [79], and pre- to post-changes in student 
+mental health symptoms (measured by BASC-3) [52], 
+which include Aggression, Conduct Problems and 
+Anxiety, and level of Academic engagement measured 
+by the Behavioral Engagement, Emotional Engage -
+ment, Behavioral Disaffection and Emotional Disaf -
+fection subscales of EvsD [53].
+Prior to the statistical comparison between groups 
+(Remote Video and Remote Video plus Coaching), all 
+pertinent variables collected for the pilot study will be 
+presented as mean, standard deviation, median, mini -
+mum, maximum, and the 95% confidence intervals for 
+continuous variables, while frequencies and proportions 
+will be used for categorical variables. Presentation of 
+summary statistics will be listed by study condition, geo -
+graphic location, schools, and EBP (CPP , CATS, CICO). 
+BHS and student characteristics (demographics and 
+other potential confounders) will be compared between 
+the two groups using the two independent samples t-test 
+or the non-parametric Wilcoxon signed rank test to iden -
+tify pre-treatment differences between the two groups. If 
+the two groups are found to be statistically different in a 
+pre-measured outcome, the pre-measurement(s) will be included in the subsequent analyses as a covariate using 
+analysis of covariance (ANCOVA). The chi-squared test 
+and Fisher’s exact test will be utilized for comparing the 
+two conditions regarding categorical variables.
+Intent‑to‑treat analysis
+Data will be analyzed using an intent-to-treat (ITT) 
+approach, wherein each participant (BHS or student) 
+will be kept in the arm to which the school was rand -
+omized, regardless of treatment received. In addition to 
+creating pre/post-change scores and analyzing the data 
+using t-tests (or the Wilcoxon signed rank test). For 
+the purpose of generating statistical estimates for the 
+anticipated larger scale study, we will explore the mar -
+ginal models using the generalized estimating equations 
+(GEE) [87, 88], for analyzing the pre- and post-repeated-
+measures endpoints related to student academic engage -
+ment and mental health symptoms. GEE will produce 
+robust estimates that adjust for the clustering of stu -
+dents within schools. GEE will include study condition 
+(Remote Video or Remote Video plus Coaching), time 
+of measurement (pre/post), and arm ×  time interaction 
+effects. This modeling approach will allow us to com -
+pare pre- to post-changes and the extent to which these 
+changes differ across study arms. The nested nature of 
+students within school/BHS will be explored by includ -
+ing schools as a covariate.
+For the mixed-methods analyses for aim 3 (survey and 
+semi-structured interview data about perceived appro -
+priateness, feasibility, and acceptability of the training 
+and consultation procedures, and BHS’s opinions about 
+the support they received), we will use the same data ana -
+lytic approach described in aims 1 and 2.
+Sample size considerations
+This pilot study is designed to generate preliminary data 
+to support a future larger scale hybrid type 3 study and 
+is not powered to find statistically significant effect sizes. 
+Based on our experience, a convenience sample size of 30 
+BHS will allow us to address aim 1 and aim 2. Forty-eight 
+BHS and 209 students will participate in the pilot trial 
+(aAim 3). The proposed pilot study aims to collect data 
+and estimate effect sizes measuring the effect of Remote 
+Video when compared to the Remote Video plus Coach -
+ing. Based on data obtained from our recently completely 
+NIH-funded study [12, 48], we estimated that 24 BHS in 
+the Remote Video condition and 24 BHS in the Remote 
+Video plus Coaching condition produce a two-sided 95% 
+confidence interval (95% CL) in mean differences in con -
+tent fidelity equal to a mean difference ± 4.7, assuming 
+that the estimated standard deviation for each condition 
+is equal to 16. We anticipate that a total of 178 evalu -
+able students will participate in the study, 89 students 
+Page 16 of 19 Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+in Remote Video and 89 students in Remote Video plus 
+Coaching. A two-sided 95% confidence interval for mean 
+differences in pre-post changes in student mental health 
+symptoms and academic engagement between the two 
+conditions will be estimated as mean difference ± 1.2 
+4. We assumed that the estimated standard deviation in 
+each condition will be 8. Sample size justification was 
+reported using PASS 13 software [89].
+Discussion
+There are relatively few studies that evaluate online deliv -
+ery of training in mental health. The prior research on 
+online approaches for training and consultation with 
+community providers has primarily been conducted 
+in the context of large implementation trials [35]. This 
+methodology typically precludes random assignment to 
+condition and limits opportunities to develop training 
+programs that fit into the existing context. An interactive 
+process involving the user-centered design can increase 
+buy-in, and enhance the fit, sustainability, and effective -
+ness of a training program for underserved populations 
+[90, 91]. And, although research exists on remote train -
+ing of non-specialist staff in traditional mental health 
+and medical settings [92], few studies have systematically 
+evaluated remote mental health training of school-based 
+mental health staff. Additionally, a significant shortcom -
+ing is that most remote training studies have not attended 
+to implementation issues and typically have not included 
+an implementation framework [93]. In one review of the 
+literature, only 5% of remote training studies mentioned 
+any theoretical approach to implementation [94]. There 
+is a clear need for well-designed remote training studies 
+focused on training in non-traditional settings.
+Innovation
+Our study is innovative in four areas:
+• It incorporates mental health EBPs into an exist -
+ing school-wide service delivery approach in rural 
+schools, thereby improving feasibility. This is very 
+innovative in the rural school context;
+• It develops a remote training strategy using a collabo -
+rative, iterative approach (user-centered design and 
+rapid prototyping), increasing both feasibility and 
+buy-in;
+• It employs “gold-standard” training methods, which 
+should lead to better child outcomes; and
+• To our knowledge, this is the first study that proposes 
+to test the efficacy of two remote training strategies 
+for mental health in rural schools.Scientific rigor and reproducibility
+We use rigorous methods to compare outcomes, using 
+measures with strong psychometric properties, multi -
+ple data collection strategies (surveys, interviews, inde -
+pendent coding), quantitative and qualitative data, and 
+sound analytical methods. All phases of the study are 
+carefully described in order to enable replication of 
+methods [95, 96].
+Public health impact
+Given the lack of well-trained mental health profession -
+als in rural settings and the stark disparities in access to 
+services, the development and pilot-testing of remote 
+training strategies for BHS in under-served rural schools 
+could lead to significant public health impact. We believe 
+that this study will make significant contributions to the 
+fields of school mental health, and services and imple -
+mentation research in rural areas.
+Potential problems and alternate solutions
+Some school personnel might not be able to handle the 
+expectations placed on them with regard to study partici -
+pation. For example, some school staff might not be able 
+to keep up with uploading audio-recordings from the stu -
+dent intervention sessions so that consultants can review 
+the recordings in time for the next consultation session. 
+Our research team has successfully obtained this type of 
+data in previous studies; we will monitor this closely and 
+provide support as needed.
+The turnover rate among teaching staff and principals 
+is relatively high in rural schools. This could affect the 
+work of the Tier 2 implementers. However, most turno -
+ver takes place during the summer months and not dur -
+ing the academic year. As such, we will be able to address 
+this problem by thoroughly training new school person -
+nel at the beginning of each academic year and providing 
+consultation support according to the training manual.
+There could be a lag in the identification of students 
+for Tier 2 or in obtaining parent consent to let the stu -
+dents participate in a Tier 2 group. We will work closely 
+with the Tier 2 BHS to identify students for Tier 2. We 
+will remind Tier 2 BHS to get parents to complete meas -
+ures and to get parent permissions for members of the 
+research team to contact them in order to seek informed 
+consent.
+It could be a challenge to enroll students and collect 
+measures remotely. We will work closely with the schools 
+if we encounter problems in this area.
+Page 17 of 19
+ Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+ 
+Limitations
+The current study will not be able to obtain implementa -
+tion or effectiveness data on students who need individ -
+ualized supports (Tier 3). Collecting these types of data 
+would be beyond the scope of the current study. Results 
+may not generalize to non-rural schools because of the 
+unique characteristics (e.g., remote physical location, lim -
+ited resources) of rural schools. However, results should 
+generalize to any rural school district in the country.
+Acknowledgements
+Not applicable.
+Authors’ contributions
+RE conceived the study, drafted the manuscript, and approved all edits. 
+BLM, MSK, and AFJ collaborated on the design of the study. AFJ prepared all 
+quantitative analyses. RE prepared the qualitative analyses. JG serves as the 
+project coordinator and IRB regulatory. RE, MSK, BLM, LER, RC, JF, TW, and KH 
+contributed to the development of training materials. JF, KH, and TW will con-
+duct the training with school personnel. RC is a qualitative data specialist. TF is 
+a consultant on this project. All authors reviewed and edited the manuscript. 
+The final version of the manuscript was vetted and approved by all authors.
+Funding
+The study is being funded by the Agency for Health Care Research and 
+Quality (AHRQ), Award Number 1R18HS027755 to Eiraldi, R. (PI). The con-
+tent is solely the responsibility of the authors and does not represent the 
+views of AHRQ.
+Availability of data and materials
+Not applicable.
+Declarations
+Ethics approval and consent to participate
+This study was approved by Children’s Hospital of Philadelphia, IRB # 
+20-017895. All participants will be asked to give verbal consent to participate.
+Consent for publication
+Consent to publish does not apply to this manuscript. The manuscript does 
+not contain any individual person’s data in any form.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1 Roberts Center for Pediatric Research, Children’s Hospital of Philadelphia, 
+2716 South Street, Room 8293, Philadelphia, PA 19146-2305, USA. 2 Depart -
+ment of Pediatrics, University of Pennsylvania Perelman School of Medicine, 
+Philadelphia, PA, USA. 3 School of Professional and Applied Psychology, Phila-
+delphia College of Osteopathic Medicine, Philadelphia, USA. 4 OCD and Anxi-
+ety Institute, Plymouth Meeting, PA, USA. 5 Devereux Center for Effective 
+Schools, King of Prussia, PA, USA. 6 School of Education, University of Pitts-
+burgh, Pittsburgh, PA, USA. 
+Received: 16 September 2021   Accepted: 1 June 2022
+References
+ 1. Smalley KB, Yancey CT, Warren JC, Naufel K, Ryan R, Pugh JL. Rural mental 
+health and psychological treatment: a review for practitioners. J Clin 
+Psychol. 2010;66(5):479–89. https:// doi. org/ 10. 1002/ jclp. 20688.
+ 2. Wagenfeld MO. A snapshot of rural and frontier America. In: Stamm BH, 
+editor. Rural behavioral health care: an interdisciplinary guide. Washing-
+ton: Am Psychol Assoc; 2003. p. 33–40. 3. Anderson NJ, Neuwirth SJ, Lenardson JD, Hartley D. Patterns of care for 
+rural and urban children with mental health problems. 2013. Working 
+Paper # 49. https:// chron icleo fsoci alcha nge. org/ report/ patte rns-  of- care- 
+for- rural- and- urban-  child renwi th- mental- health- probl ems .
+ 4. Owens JS, Watabe Y, Michael KD. Culturally responsive school mental 
+health in rural communities. In: Clauss-Ehlers CS, Serpell Z, Weist MD, edi-
+tors. Handbook of culturally responsive school mental health: advancing 
+research, training, practice, and policy. New York: Springer; 2013. p. 31–42.
+ 5. Sugai G, Horner R. The evolution of discipline practices: school-wide 
+positive behavior supports. Child Fam Beh Therapy. 2002;24:23–50. 
+https:// doi. org/ 10. 1300/ J019v 24n01_ 03.
+ 6. Horner RH, Sugai G, Smolkowski K, et al. A randomized, wait-list 
+controlled effectiveness trial assessing school-wide positive behavior 
+support in elementary schools. J Posit Behav Interv. 2009;11(3):133–44. 
+https:// doi. org/ 10. 1177/ 10983 00709 332067.
+ 7. Cavanaugh B, Swan M. Building SWPBIS capacity in rural schools through 
+building-based coaching: early findings from a district-based model. 
+Rural Sp Edu Quart. 2015;34(4):29–39. https:// doi. org/ 10. 1177/ 87568 
+70515 03400 404.
+ 8. Fitzgerald CB, Geraci LM, Swanson M. Scaling up in rural schools using 
+positive behavioral interventions and supports. Rural Sp Edu Quart. 
+2014;33(1). https:// doi. org/ 10. 1177/ 87568 70514 03300 104.
+ 9. McCrary D, Lechtenberger D, Wang E. The effect of schoolwide positive 
+behavioral supports on children in impoverished rural community 
+schools. Prev Sch Fail. 2012;56(1):1–7. https:// doi. org/ 10. 1080/ 10459 88X. 
+2010. 548417.
+ 10. Steed EA, Pomerleau T, Muscott H, Rohde L. Program-wide positive 
+behavioral interventions and supports in rural preschools. Rural Sp Edu 
+Quart. 2013;32(1):38–46. https:// doi. org/ 10. 1177/ 87568 70513 03200 106.
+ 11. Elias MJ, Zins JE, Graczyk PA, Weissberg RP . Implementation, sustainability, 
+and scaling up of social-emotional and academic innovations in public 
+schools. Sch Psychol Rev. 2003;32(3):303–19. https:// doi. org/ 10. 1080/ 
+02796 015. 2003. 12086 200.
+ 12. Eiraldi R, Mautone JA, Khanna MS, et al. Group CBT for externalizing disorders 
+in urban schools: effect of training strategy on treatment fidelity and patient 
+outcomes. Behav Ther. 2018. https:// doi. org/ 10. 1016/j. beth. 2018. 01. 001.
+ 13. Eiraldi R, McCurdy B, Khanna M, et al. A cluster randomized trial to evalu-
+ate external support for the implementation of positive behavioral inter -
+ventions and supports by school personnel. Implement Sci. 2014;9(12). 
+https:// doi. org/ 10. 1186/ 1748- 5908-9- 12.
+ 14. Garbacz AS, Watkins ND, Diaz Y, Barnabas ERJ, Schwartz B, Eiraldi R. Using 
+conjoint behavioral consultation to implement evidence-based practices 
+for students in low-income urban schools. J Educ Psychol Consult. 
+2016;61(3):198–210. https:// doi. org/ 10. 1080/ 10459 88X. 2016. 12610 78.
+ 15. Eiraldi R, Power TJ, Schwartz BS, et al. Examining effectiveness of group 
+cognitive-behavioral therapy for externalizing and internalizing disorders 
+in urban schools. Behav Modif. 2016. https:// doi. org/ 10. 1177/ 01454 45516 
+631093.
+ 16. Eiraldi R, McCurdy B, Schwartz B, et al. Pilot study for the fidelity, 
+acceptability and effectiveness of a PBIS program plus mental health 
+supports in under-resourced urban schools. Psychol Sch. 2019:1–16. 
+https:// doi. org/ 10. 1002/ pits. 22272.
+ 17. Khanna MS, Kendall PC. Bringing technology to training: Web-based 
+therapist training to promote the development of competent 
+cognitive-behavioral therapists. Cogn Behav Pract. 2015;22(3):291–301. 
+https:// doi. org/ 10. 1016/j. cbpra. 2015. 02. 002.
+ 18. Riding-Malon R, Werth JL. Psychological practice in rural settings: at the cut -
+ting edge. Prof Psychol. 2014;45(2):85–91. https:// doi. org/ 10. 1037/ a0036 172.
+ 19. Lyon AR, Koerner K. User-centered design for psychosocial interven-
+tion development and implementation. Clin Psychol (New York). 
+2016;23(2):180–200. https:// doi. org/ 10. 1111/ cpsp. 12154.
+ 20. Larman C, Basili VR. Iterative and incremental development: a brief his-
+tory. Computer. 2003;36:47–56.
+ 21. Wilson J, Rosenberg D. Rapid prototyping for user interface design. In: 
+Helander M, editor. Handbook of human-computer interaction.  North-
+Holland: Elsevier; 1988. p. 859–75.
+ 22. Maguire M. Methods to support human-centred design. Inter J Human-
+Comp St. 2001;55:587–634. https:// doi. org/ 10. 1006/ ijhc. 2001. 0503.
+ 23. Mohr DC, Lyon AR, Lattie EG, et al. Accelerating digital mental health 
+research from early design and creation to successful implementation and 
+Page 18 of 19 Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+sustainment. J Med Internet Res. 2017;19(5):e153. https:// doi. org/ 10. 2196/  
+jmir. 7725.
+ 24. Kobak KA, Craske MG, Rose RD, et al. Web-based therapist training on 
+cognitive behavior therapy for anxiety disorders: a pilot study. Psychother. 
+2013;50(2):235–47. https:// doi. org/ 10. 1037/ a0030 568.
+ 25. Barnett JE. Utilizing technological innovations to enhance psycho -
+therapy supervision, training, and outcomes. Psychother. 2011;48:103–8 
+http:// psycn et. apa. org/ doi/ 10. 1037/ a0023 381.
+ 26. Abbass A, Arthey S, Elliott J, et al. Web-conference supervision for 
+advanced psychotherapy training: a practical guide. Psychother. 
+2011;48(2):109–18. https:// doi. org/ 10. 1037/ a0022 427.
+ 27. Weisz JR. Agenda for child and adolescent psychotherapy research: 
+on the need to put science into practice. Arch Gen Psychiatry. 
+2000;57(9):837–8. https:// doi. org/ 10. 1001/ archp syc. 57.9. 837.
+ 28. Cohen J, Mannarino AP . Disseminating and implementing trauma-
+focused CBT in community settings. Trauma Viol Ab. 2008;9(4):214–26. 
+https:// doi. org/ 10. 1177/ 15248 38008 324336.
+ 29. Cully JA, Curry AD, Ryan SR, et al. Development of a computer-aided train-
+ing program for brief cognitive-behavioral therapy in primary care. Acad 
+Psychiatry. 2013;37(2):120–4. https:// doi. org/ 10. 1176/ appi. ap. 11040 078.
+ 30. Fischer AJ, Dart EH, Leblanc H, et al. An investigation of the acceptability of 
+videoconferencing within a school-based behavioral consultation frame -
+work. Psychol Sch. 2017;53(3):240–52. https:// doi. org/ 10. 1002/ pits. 21.
+ 31. Bice-Urbach BJ, Kratochwill TR. Teleconsultation: The use of technology 
+to improve evidence-based practices in rural communities. J Sch Psychol. 
+2016;56:27–43. https:// doi. org/ 10. 1016/j. jsp. 2016. 02. 001.
+ 32. King HC, Bloomfield BS, Wu S, et al. A systematic review of school 
+teleconsultation: implications for research and practice. Sch Psychol Rev. 
+2021. https:// doi. org/ 10. 1080/ 23729 66X. 2021. 18944 78.
+ 33. Rakovshik SG, McManus F, Westbrook D, Kholmogorova AB, et al. Rand-
+omized trial comparing internet-based training in cognitive behavioural 
+therapy theory, assessment and formulation to delayed-training control. 
+Behav Res Ther. 2013;51:231–9. https:// doi. org/ 10. 1016/j. brat. 2013. 01. 009.
+ 34. Herschell AD, Kolko DJ, Baumann BL, Davis AC. The role of therapist 
+training in the implementation of psychosocial treatments: a review and 
+critique with recommendations. Clin Psychol Rev. 2010;30(4):448–66. 
+https:// doi. org/ 10. 1016/j. cpr. 2010. 02. 005.
+ 35. Beidas RS, Kendall PC. Training therapists in evidence-based practice: 
+a critical review of studies from a systems-contextual perspective. Clin 
+Psychol Sci Pract. 2010;17(1):1–30. https:// doi. org/ 10. 1111/j. 1468- 2850. 
+2009. 01187. x3.
+ 36. Webster-Stratton CH, Reid MJ, Marsenich L. Improving therapist fidelity 
+during implementation of evidence-based practices: incredible years 
+program. Psychiatr Serv. 2014;65(6):789–95. https:// doi. org/ 10. 1176/ appi. 
+ps. 20120 0177.
+ 37. Proctor E, Silmere H, Raghavan R, et al. Outcomes for implementation 
+research: conceptual distinctions, measurement challenges, and research 
+agenda. Admin Pol Ment Health. 2011;38(2):65–76. https:// doi. org/ 10. 
+1007/ s10488- 010- 0319-7.
+ 38. Lewis CC, Proctor EK, Brownson RC. Measurement issues in dissemination 
+and implementation research. In: Brownson RC, Colditz GA, Proctor EK, 
+editors. Dissemination and implementation research in health. 2nd ed: 
+Oxford University Press; 2018. p. 229–44. chap 14.
+ 39. Lewis CC, Fischer S, Weiner BJ, Stanick C, Kim M, Martinez RG. Outcomes 
+for implementation science: an enhanced systematic review of instru-
+ments using evidence-based rating criteria. Implement Sci. 2015;10:155. 
+https:// doi. org/ 10. 1186/ s13012- 015- 0342-x.
+ 40. Weiner BJ, Lewis CC, Stanick C, et al. Psychometric assessment of three 
+newly developed implementation outcome measures. Implement Sci. 
+2017;12:108. https:// doi. org/ 10. 1186/ s13012- 017- 0635-3.
+ 41. Brooke J. SUS: a quick and dirty usability scale. Usab Eval Indust. 
+1995;189(194):4–7.
+ 42. Lyon AR, Munson SA, Renn BN, et al. Use of human-centered design 
+to improve implementation of evidence-based psychotherapies in 
+low-resource communities: protocol for studies applying a framework to 
+assess usability. JMIR Res Protoc. 2019;8:e14990 https:// www. resea rchpr 
+otoco ls. org/ 2019/ 10/ e14990.
+ 43. Bowen DJ, Kreuter M, Spring B, et al. How we design feasibility studies. Am J 
+Prev Med. 2009;36(5):452–7. https:// doi. org/ 10. 1016/j. amepre. 2009. 02. 002.
+ 44. Curran GM, Bauer M, Mittman B, et al. Effectiveness-implementation 
+hybrid designs: combining elements of clinical effectiveness and implementation research to enhance public health impact. Med Care. 
+2012;50(3):217–26. https:// doi. org/ 10. 1097/ MLR. 0b013 e3182 408812.
+ 45. Hawken LS, Adolphson SL, Macleod S, et al. Secondary-tier interven-
+tions and supports. In: Saylor W, et al., editors. Handbook of positive 
+behavior support: Springer; 2009. p. 395–420. https:// doi. org/ 10. 1007/ 
+978-0- 387- 09632-2.
+ 46. Goodman R, Ford T, Simmons H, et al. Using the Strengths and Difficulties 
+Questionnaire (SDQ) to screen for child psychiatric disorders in a com-
+munity sample. Br J Psychiatry. 2000;177:534–9. https:// doi. org/ 10. 1192/ 
+bjp. 177.6. 534.
+ 47. Stone LL, Otten R, Engels RCME, et al. Psychometric properties of the 
+parent and teacher versions of the Strengths and Difficulties Ques-
+tionnaire for 4- to 12-year-olds: a review. Clin Child Fam Psychol Rev. 
+2010;13(3):254–74. https:// doi. org/ 10. 1007/ s10567- 010- 0071-2.
+ 48. Eiraldi R, Khanna M, Jawad AF, et al. Implementation of targeted mental 
+health interventions in urban schools: preliminary findings on the impact 
+of training strategy on program fidelity. Evid Based Pract Child Adolesc 
+Ment Health. 2020;5:437–51. https:// doi. org/ 10. 1080/ 23794 925. 2020. 
+17840 56.
+ 49. Todd AW, Campbell AL, Meyer GB, et al. The effects of a targeted interven-
+tion to reduce problem behaviors. J Pos Behav Interv. 2008;10(1):46–55. 
+https:// doi. org/ 10. 1177/ 10983 00707 311369.
+ 50. Hawken LH, Homer RH. Evaluation of a targeted intervention within a 
+schoolwide system of behavior support. J Behav Educ. 2003;12(3):225–40. 
+https:// doi. org/ 10. 1023/A: 10255 1241.
+ 51. Filter KJ, McKenna MK, Benedict EA, et al. Check in/Check out: a post-hoc 
+evaluation of an efficient, secondary-level targeted intervention for 
+reducing problem behaviors in schools. Educ Treat Child. 2007;30(1):69–
+84. https:// doi. org/ 10. 1353/ etc. 2007. 0000.
+ 52. Reynolds CR, Kamphaus RW. Manual for the behavior assessment system 
+for children - third Ed (BASC-3). San Antonio: Pearson Psych Corp; 2015.
+ 53. Skinner EA, Kindermann TA, Furrer CJ. A Motivational perspective on 
+engagement and disaffection: conceptualization and assessment 
+of children’s behavioral and emotional participation in academic 
+activities in the classroom. Educ Psychol Meas. 2009;69(3):493–525. 
+https:// doi. org/ 10. 1177/ 00131 64408 323233.
+ 54. Skinner E, Furrer C, Marchand G, et al. Engagement and disaffection in 
+the classroom: part of a larger motivational dynamic? J Educ Psychol. 
+2008;100(4):765–81. https:// doi. org/ 10. 1037/ a0012 840.
+ 55. Eiraldi R, McCurdy BL, Khanna MS, et al. Study protocol: cluster rand-
+omized trial of consultation strategies for the sustainment of mental 
+health interventions in under-resourced urban schools: rationale, design, 
+and methods. BMC Psychol. 2022;10(1):24. https:// doi. org/ 10. 1186/ 
+s40359- 022- 00733-8.
+ 56. Foster S, Rollefson M, Doksum T, et al. School mental health services in 
+the United States, 2002-2003. Rockville: Center for Mental Health Services, 
+Substance Abuse and Mental Health Administration; 2005.
+ 57. Lochman JE, Wells KC, Lenhart L. Coping power child group program: 
+facilitator guide. New York: Oxford University Press; 2008.
+ 58. Khanna MS, Eiraldi R, Schwartz B, et al. CBT for anxiety treatment in 
+schools. Unpublished; 2016.
+ 59. Crone DA, Hawken LS, Horner RH. Responding to problem behavior in 
+schools: the behavior education program. 2nd ed. New York: Guilford; 
+2010.
+ 60. Lochman JE, Wells KC. The coping power program for preadolescent 
+aggressive boys and their parents: outcome effects at the 1-year follow-
+up. J Consult Clin Psychol. 2004;72(4):571–8. https:// doi. org/ 10. 1037/ 
+0022- 006X. 72.4. 571.
+ 61. Ellis ML, Lindsey MA, Barker ED, et al. Predictors of engagement in a 
+school-based family preventive intervention for youth experiencing 
+behavioral difficulties. Prev Sci. 2013;14(5):457–67. https:// doi. org/ 10. 
+1007/ s11121- 012- 0319-9.
+ 62. Barrett P . Friends for life: group leaders’ manual for children. Australia: 
+Pathways Health and Research Centre; 2008.
+ 63. Hawken LS, MacLeod KS, Rawlings L. Effects of the behavior educa-
+tion program (BEP) on office discipline referrals of elementary school 
+students. J Posit Behav Interv. 2007;9(2):94–101. https:// doi. org/ 10. 1177/ 
+10983 00707 00900 20601.
+ 64. McCurdy BL, Kunsch C, Reibstein S. Secondary prevention in the urban 
+school: implementing the behavior education program. Prev Sch Fail. 
+2007;51(3):12–9. https:// doi. org/ 10. 3200/ PSFL. 51.3. 12- 19 Spring.
+Page 19 of 19
+ Eiraldi et al. Pilot and Feasibility Studies           (2022) 8:128 
+ 
+•
+ fast, convenient online submission
+ •
+  thorough peer review by experienced researchers in your ﬁeld
+• 
+ rapid publication on acceptance
+• 
+ support for research data, including large and complex data types
+•
+  gold Open Access which fosters wider collaboration and increased citations 
+ maximum visibility for your research: over 100M website views per year •
+  At BMC, research is always in progress.
+Learn more biomedcentral.com/submissionsReady to submit y our researc h Ready to submit y our researc h  ?  Choose BMC and benefit fr om: ?  Choose BMC and benefit fr om: 
+ 65. Kirchner JE, Waltz TJ, Powell BJ, et al. Implementation strategies. In: Brow-
+son RC, Colditz GA, Proctor EK, editors. Dissemination and implementa-
+tion research in health: translating science to practice. 2nd ed. New York: 
+Oxford University Press; 2018.
+ 66. Kern L, Evans SW, Lewis TJ. Description of an iterative process for 
+intervention development. Educ Treat Child. 2011;34(4):593–617. 
+https:// doi. org/ 10. 1353/ etc. 2011. 0037.
+ 67. Kolb DA. Experiential learning: experience as the source of learning and 
+development. Upper Saddle River: Prentice-Hall; 1984.
+ 68. Barrett S, Eber L, Weist M. Advancing education effectiveness: intercon-
+necting school mental health and school-wide positive behavior support. 
+2013. http:// www. pbis. org/ common/ cms/ files/ pbisr  esour  ces/ Final- 
+Monog  raph. pdf .
+ 69. Wandersman A, Duffy J, Flashpohler P , et al. Bridging the gap between 
+prevention research and practice: the interactive systems framework for 
+dissemination and implementation. Am J Community Psychol. 2008;41(3-
+4):171–81. https:// doi. org/ 10. 1007/ s10464- 008- 9174-z.
+ 70. Wandersman A, Chien VH, Katz J. Toward an evidence-based system for 
+innovation support for implementing innovations with quality: tools, 
+training, technical assistance, and quality assurance/quality improve -
+ment. Am J Community Psychol. 2012;50(3-4). https:// doi. org/ 10. 1007/ 
+s10464- 012- 9509-7.
+ 71. American Psychological Association. Guidelines for clinical supervi-
+sion in health service psychology. Am Psychol. 2015;70(1):33–46. 
+https:// doi. org/ 10. 1037/ a0038 112.
+ 72. Lewis TJ, Barrett S, Sugai G, et al. Blueprint for school-wide positive 
+behavior support training and professional development (Ver 3). Eugene: 
+University of Oregon, Center for Positive Behavioral Interventions and 
+Supports; 2010.
+ 73. Sburlati ES, Scheniering CA, Lyneham HJ, et al. A model of therapist 
+competencies for the empirically supported cognitive behavioral 
+treatment of child and adolescent anxiety and depressive disorders. 
+Clin Child Fam Psychol Rev. 2011;14(1):89–109. https:// doi. org/ 10. 1007/ 
+s10567- 011- 0083-6.
+ 74. Beidas RS, Kendall PC. Training therapists in evidence-based practice: 
+a critical review of studies from a systems-contextual perspective. Clin 
+Psychol Sci Pract. 2010;17(1):1–30. https:// doi. org/ 10. 1111/j. 1468- 2850. 
+2009. 01187.x.
+ 75. Merriam S. The changing landscape of adult learning theory. In: Com-
+ings J, Garner B, Smith C, editors. Review of adult learning and literacy: 
+connecting research, policy and practice. Mahwah: Lawrence Erlbaum 
+Associates; 2004. p. 199–220.
+ 76. Locke EA, Latham GP . Building a practically useful theory of goal setting 
+and task motivation: a 35-year odyssey. Am Psychol. 2002;57(9):705. 
+https:// doi. org/ 10. 1037/ 0003- 066X. 57.9. 705.
+ 77. Denton CA, Hasbrouck J. A description of instructional coaching and its 
+relationship to consultation. J Educ Psychol Consult. 2009;19:150–75. 
+https:// doi. org/ 10. 1080/ 10474 41080 24632 96.
+ 78. Kluger AN, DeNisi A. The effects of feedback interventions on perfor -
+mance: a historical review, a meta-analysis, and a preliminary feedback 
+intervention theory. Psychol Bull. 1996;119(2):254–84. https:// doi. org/ 10. 
+1037/ 0033- 2909. 119.2. 254.
+ 79. Stiles PG, Boothroyd RA, Snyder K, et al. Service penetration by persons 
+with severe mental illness. How should it be measured? J Behav Health 
+Serv Res. 2002;29(2):198. https:// doi. org/ 10. 1007/ BF022 87706.
+ 80. Weisz JR, Vaughn-Coaxum RA, Evans SC, et al. Efficient monitoring 
+of treatment response during youth psychotherapy: the Behavior 
+and Feelings Survey. J Clin Child Adolesc Psychol. 2020;49(6):737–51. 
+https:// doi. org/ 10. 1080/ 15374 416. 2018. 15479 73.
+ 81. SAS/STAT® 9.2 User’s guide. SAS Institute Inc.; 2002-2008.
+ 82. Bradley EH, Curry LA, Devers KJ. Qualitative data analysis for health 
+services research: developing taxonomy, themes, and theory. Health 
+Serv Res. 2007;42(4):1758–72. https:// doi. org/ 10. 1111/j. 1475- 6773. 2006. 
+00684.x.
+ 83. Palinkas LA, Aarons GA, Horwitz S, et al. Mixed method designs in 
+implementation research. Admin Pol Ment Health. 2011;38(1):44–53. 
+https:// doi. org/ 10. 1007/ s10488- 010- 0314-z.
+ 84. Palinkas LA, Horwitz SM, Chamberlain P , et al. Mixed-methods designs in 
+mental health services research: a review. Psychiatr Serv. 2011;62(3):255–
+63. https:// doi. org/ 10. 1176/ appi. ps. 62.3. 255. 85. Rye CB, Kimberly JR. The adoption of innovations by provider organizations 
+in health care. Med Care Res Rev. 2007;64(3):235–78. https:// doi. org/ 10. 1177/  
+10775 58707 299865.
+ 86. Schoenwald SK, Garland AF, Chapman JE, et al. Toward the effective 
+and efficient measurement of implementation fidelity. Admin Pol Ment 
+Health. 2011;38(1):32–43. https:// doi. org/ 10. 1007/ s10488- 010- 0321-0.
+ 87. Zeger SL, Liang KY. Longitudinal data analysis for discrete and continuous 
+outcomes. Biometrics. 1986;42(1):121–30. https:// doi. org/ 10. 2307/ 25312 48.
+ 88. Liang KW, Zeger SL. Longitudinal data analyses using generalized linear 
+models. Biometrika. 1986;73:13–22. https:// doi. org/ 10. 1093/ biomet/ 73.1. 13.
+ 89. Power Analysis and Sample Size Software. NCSS, LLC; 2014. ncss. com/ 
+softw are/ pass .
+ 90. Damschroder LJ, Aron DC, Keith RE, et al. Fostering implementation of 
+health services research findings into practice: a consolidated frame -
+work for advancing implementation science. Implement Sci. 2009;4:50. 
+https:// doi. org/ 10. 1186/ 1748- 5908-4- 50.
+ 91. Davidson TM, Ruggiero KJ, Egede LE. Promoting reach, dissemination, 
+and engagement of technologies for addressing mental health care 
+disparities among underserved populations. Clin Psychol. 2019;26(1):1–3 
+http:// dx. doi. org. proxy. libra ry. upenn. edu/ 10. 1111/ cpsp. 12273.
+ 92. Caulfield A, Vatansever D, Lambert G, et al. WHO guidance on mental 
+health training: a systematic review of the progress for non-specialist 
+health workers. BMJ Open. 2019;9:e024059. https:// doi. org/ 10. 1136/ 
+bmjop en- 2018- 024059.
+ 93. Wade V, Gray L, Carati C. Theoretical frameworks in telemedicine research. 
+J Telemed Telecare. 2017;23(1):181–7. https:// doi. org/ 10. 1177/ 13576 
+33X15 626650.
+ 94. Whitten P , Johannessen LK, Soerensen T, et al. A systematic review of 
+research methodology in telemedicine studies. J Telemed Telecare. 
+2007;13(5):230–5. https:// doi. org/ 10. 1258/ 13576 33077 81458 976.
+ 95. Collins FS, Tabak LA. Policy: NIH plans to enhance reproducibility. Nature. 
+2014;505(7485):612–3. https:// doi. org/ 10. 1038/ 50561 2a.
+ 96. National Institutes of Health. Reproducibility standards. 2014. https://  
+www. nih. gov/ resea rch- train ing/ rigor- repro ducib ility/ princ iples-  guide  
+lines repor  ting- precl inical- resea rch
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub -
+lished maps and institutional affiliations.

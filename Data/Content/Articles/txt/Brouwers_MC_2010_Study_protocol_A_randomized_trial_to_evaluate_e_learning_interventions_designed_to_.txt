@@ -1,0 +1,234 @@
+Implementation
+ScienceBrouwers et al.  Implementation Science  2010, 5:29
+http://www.implementationsc ience.com/content/5/1/29
+Open Access STUDY PROTOCOL
+BioMed Central© 2010 Brouwers et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestri cted use, distributi on, and reproductio n in
+any medium, provided the original work is properly cited.Study protocolA randomized trial to evaluate e-learning 
+interventions designed to improve learner's 
+performance, satisfaction, and self-efficacy with 
+the AGREE II
+Melissa C Brouwers*1, Julie Makarski2 and Anthony J Levinson3
+Abstract
+Background: Practice guidelines (PGs) are syst ematically developed statements in tended to assist in patient, 
+practitioner, and policy decisions. The AGREE II is the revi sed and updated standard tool for guideline development, 
+reporting and evaluation. It is comp rised of 23 items and a user's Manual. The AGREE II is ready for use.
+Objectives: To develop, execute, and evaluate the impact of tw o internet-based educational interventions designed 
+to accelerate the capacity of stakeholders to use the AGREE II:  a multimedia didactic tutorial with a virtual coach, and a 
+higher intensity training program including both the didactic  tutorial and an interactive practice exercise component.
+Methods: Participants (clinicians, developers, and policy makers) will be randomly assigned to one of three conditions. 
+Condition one, didactic tutorial -- participants will go through the on-line AGREE II tutorial supported by a virtual coach 
+and review of the AGREE II prior to appraising the test PG. Condition two, tutorial + practice -- following the multimedia 
+didactic tutorial with a virtual coach, participants will revi ew the on-line AGREE II independently and use it to appraise 
+a practice PG. Upon entering their AGREE II score for the prac tice PG, participants will be given immediate feedback on 
+how their score compares to expert norms. If their score falls  outside a predefined range, the participant will receive a 
+series of hints to guide the appraisal process. Participan ts will receive an overall summary of their performance 
+appraising the PG compar ed to expert norms. Condition three, control arm -- participants will receive a PDF copy of the 
+AGREE II for review and to appraise the test PG on-line. All pa rticipants will then rate one of ten test PGs with the AGREE 
+II. The outcomes of interest are learners' performance, sa tisfaction, self-efficacy, mental effort, and time-on-task; 
+comparisons will be made across each of the test groups.
+Discussion: Our research will test innovative educational interventions of various intensities and instructional design 
+to promote the adoption of AGREE II and to identify those strategies that are most effective for training. The results will facilitate international capacity to apply the AGREE II ac curately and with confidence and to enhance the overall 
+guideline enterprise.
+Introduction
+Evidence-based practice guidelines (PGs) are systemati-
+cally developed statements aimed at assisting cliniciansand patients to make decisions about appropriate healthcare for specific clinical circumstances [1] and to informdecisions made by health care policy makers and clinicalmanagers [2,3]. In systematic reviews, guidelines haveb e e n  s h o w n  t o  h a v e  a  m o d e s t  i m p a c t  o n  b e h a v i o r  [ 4 ] .
+However, the potential benefits of their application areonly as good as the guidelines  themselves [5-7]. To enable
+differentiation between PGs of varying quality and toadvance the PG enterprise, the AGREE (Appraisal ofGuideline Research and Evaluation) collaboration wasestablished to facilitate the development of a generici n s t r u m e n t  t o  a s s e s s  t h e  p r o c e s s  o f  P G  d e v e l o p m e n t .Using rigorous methodologies of measurement construc-tion [8], the AGREE collaboration produced the original
+* Correspondence: mbrouwer@mcmaster.ca
+1 McMaster University, Department of Oncology and Department of Clinical 
+Epidemiology, McMaster University, Hamilton, Ontario, Canada
+Full list of author information is available at the end of the article
+Brouwers et al.  Implementation Science  2010, 5:29
+http://www.implementationsc ience.com/content/5/1/29Page 2 of 6
+AGREE Instrument released in 2003 [[9]; http://
+www.agreetrust.org ].
+As with any new development tool, it was recognized
+that on-going methodological refinement of the AGREEinstrument was required. This led to the establishment ofa second international group of researchers, the AGREENext Steps Consortium. The consortium undertook aprogram of research with the objectives of strengtheningthe measurement properties of the instrument, refiningsome of the items, systematically exploring its utilityacross stakeholders, and improving the supporting docu-mentation to help users implement the instrument withmore confidence. The results of these efforts are theAGREE II [[10-12]; http://www.agreetrust.org
+]. The
+AGREE II consists of 23 items grouped into the six origi-nal domains: scope and purpose, stakeholder involve-ment, rigour of development, clarity of presentation,applicability, and editorial independence. Compared tothe original AGREE instrument, approximately one-halfof the items have been modified, domain structures havebeen altered, and an extensive restructuring of the sup-porting documentation, the user's manual, was under-taken. A new seven-point response scale has also beenintroduced, replacing the original four-point scale. TheAGREE II was released at the Guidelines InternationalNetwork Fall 2009 Colloquium and is ready for use.
+Diffusion of the original instrument attests to its wide
+coverage and acceptance but also highlights the complex-ity of successfully facilitating the uptake of the revisedversion. In conducting an analysis of the ISI Web of Sci-ence (unpublished), we found 139 citations of the originalAGREE paper between its publication in 2003 andDecember 2008, with numbers increasing every year.Lead authors represented 23 different countries and pub-lications appeared in 95 different peer-reviewed journals-- both specialist and generalist publications. The cita-tions represented a wide spectrum of diseases and disci-plines, including cancer, cardiology, diabetes, dentistry,psychiatry, and occupational medicine.
+We anticipate the demand for the AGREE II will be as
+high. We are promoting the AGREE II to a broad constit-uency and the dissemination plan is international infocus. The target audience includes a variety of stake-holder groups (clinicians, re searchers, policy makers, PG
+developers, system leaders) and, within groups, a range ofexperience with PGs and the AGREE enterprise ( i.e.,
+from novice to expert). Thus, the internet is a keymedium for our knowledge translation and exchange(KTE) strategy. However, dissemination alone, even witha primed and interested audience, is not sufficient tomaximize the application and use of the AGREE II.
+Thus, we wish to explore educational interventions and
+leverage technical platforms to accelerate the process. E-learning (internet-based trai ning) provides a potentiallyeffective, standardized, and cost-efficient model for train-
+ing in the use of AGREE II. A recent meta-analysis andsystematic review of 201 studies by Cook et al. showed
+large effect sizes for internet-based instruction (clinicaland methodological content areas) with health-profes-sion learners [13]. Most of the studies considered knowl-edge outcomes and found evidence of a substantialbenefit. Those studies reporting a skills outcome, how-ever, also found a very large effect size for e-learninginterventions. The findings held true in subgroup analy-ses comparing different learner types, contexts, topicsand outcomes. Thus, e-learning appears to be a promis-ing, effective, practical, and efficient KTE technique toc o n s i d e r  i n  o u r  c o n t e x t ,  a n d  w e  w i l l  t e s t  t w o  i n t e r v e n -tions aimed at facilitating the application of the AGREEII.
+Key evidence-based principles exist that underpin the
+development of technical training and multimedia learn-ing to which we will adhere. The Instructional SystemsDevelopment framework, including the ADDIE (analysis,design, development, implementation, and evaluation)model of instructional development will serve as oura p p r o a c h  i n  t h e  d e s i g n  a n d  r e f i n e m e n t  s t a g e s  o f  o u rintervention [14]. The work by Clark et al. will inform the
+structure and specific content types that will be incorpo-rated [15-18]. Narration choices, contiguous labeling, andthe use of graphics will follow the principles of multime-dia learning [17,19]. Principl es derived from cognitive
+load theory will also be taken into consideration in thedesign of the educational interventions [16,20].
+In a meta-analysis and systematic review of instruc-
+tional design variations in web-based learning, Cook et
+al. found that increased interactivity, practice exercises,
+repetition, and feedback were associated with improvedlearning outcomes [13]. However, while the evidence baseunderpinning the efficacy and design principles of inter-net-based training materials are well established, thereremain questions regarding the optimal application ofthese principles for particular interventions. For example,both worked examples (demonstrations) and practiceexercises with feedback have been shown to be effectivetraining methods [17]. Yet some evidence suggests thatnovice learners may benefit more from worked examples,and expert learners more from practice [16,18]. More-over, many recommended instructional design interven-tions such as interactivity, practice exercises, orr epe t i t i o n  m a y  t a k e  l o n g e r  t o  d ev e l o p ,  a n d  a l s o  t a k e  u pmore of the learners' time, potentially leading to less effi-cient training. In developing an optimal on-line trainingintervention for the AGREE II, we also aim to study someof these key instructional design variables and time-on-task.
+Our research objectives are: to design and refine an on-
+line AGREE II training program comprised of a multime-
+Brouwers et al.  Implementation Science  2010, 5:29
+http://www.implementationsc ience.com/content/5/1/29Page 3 of 6
+dia didactic overview tutorial; to design and refine an on-
+line, interactive AGREE II training program, comprisedof the overview tutorial plus an interactive practice exer-cise with feedback module; to compare the two interven-tions against a standard control (access to static PDFversion of the user's manual) and to evaluate learners'performance (distance function to experts, pass/fail rate),satisfaction, self-efficacy, mental effort, and time-on-taskwith the AGREE II; and to compare how previous experi-ence with PGs and the AGREE II influence these effects.
+Two core research questions are considered: Compared
+to the passive learning of the materials, does an on-linetraining program, with or without a practice exercise,improve learners' performance and increase learners' sat-isfaction and self-efficacy/-confidence with the AGREE IIand AGREE II user's manual? Are there differences acrossthe outcome measures between the two educationalintervention groups? Are these differences influenced bylearners' experiences with PGs or the AGREE II?
+Methods
+This study is funded by the Canadian Institutes of HealthResearch and has received ethics approval from the Ham-ilton Health Sciences/Faculty of Health SciencesResearch Board Ethics approval (REB #09-398; Hamilton,Ontario, Canada).
+Study design
+A single factorial design with three levels of educationalintervention is proposed. The levels are:
+Didactic tutorial
+Participants assigned to this training program conditionwill receive access to a password-protected website. Theywill receive a brief (five-minute) multimedia didactictutorial with an overview of the AGREE II conducted by a'virtual coach' or avatar. The tutorial is under programc o n t r o l  wi t h  f o r c ed  l i n ea r  p r o gr es s i o n  i n  seq u e n c e  wi t hthe screens advancing automatically, although the partici-pant may pause the tutorial at any time. Following thetutorial, the participant is granted access to the AGREE IIu s e r ' s  m a n u a l  a n d  i s  i n s t r u c t e d  t o  r e v i e w  t h e  m a n u a lbefore proceeding to the test PG.
+Tutorial with practice exercise
+Participants assigned to this training condition willreceive access to a password-protected website. They willbe provided with the same didactic tutorial as the previ-ous condition before being granted access to the user'sm a n u a l  a s  a b o v e .  T h e y  w i l l  t h e n  b e  p r e s e n t e d  w i t h  apractice PG to appraise using the AGREE II training tooland will be asked to answer each AGREE II item in turn.Upon entering their AGREE II score, participants will begiven immediate feedback on how their score comparesto the mean of four experts. If their score falls outside apredefined range, participants will receive formative
+feedback to guide the appraisal process. At the conclusionof their review, participants will receive an overall sum-mary of their performance in appraising the practice PGcompared to expert norms before proceeding to the testPG.
+Passive learning
+Participants assigned to the passive learning will receivestatic PDF copies of the AGREE II for review before pro-ceeding to the test PG. Passive learning participants willserve as our control group.
+Sample Size
+The primary analysis involves one-way analysis of vari-ance (ANOVA) comparisons of the AGREE II perfor-mance score profiles of the three study group participantswith the performance score profiles of AGREE II experts.This will be measured by the sum of squared deviations(SS) distance function. To avoid untenable assumptionsregarding the relative size of the intermediate groupmean, we simplify calculations by focusing on the powerfor testing differences in mean SS between the passivelearning condition and either of the intervention groups,which represents a strong a priori comparison of the least
+and most effective interventions. Previous research hasfound the effect size of e-learning in comparison to nointervention to be large ranging from 1.13 to 1.50 [16-18].Our intent is to estimate a more conservative effect size.Thus, with 20 participants per group, a one-sided test willhave at least 80% power to detect an advantage of as littleas ± 0.79 standard deviations for either of the interven-tion groups compared to the passive learning group. Toaccount for potential missing data, we will include up to25 participants per group for a total of 75 participants inthe study.
+Materials and instruments
+Guidelines
+Eleven PGs have been selected from the National Guide-
+lines Clearinghouse http://www.guidelines.gov , CMA
+Infobase http://www.cma.ca/index.cfm/ci_id/54316/
+la_id/1.htm , and Guidelines International Network http:/
+/www.g-i-n.net/  directories for this study. One PG will
+serve as the practice PG for those assigned to the tutorial
++ practice exercise condition, and ten will serve as the test
+PGs in the study. Criteria for the PG search included:English-language PGs, PGs produced from 2002 onward,PGs with core text of 50 pages or less, and PGs targetingone of three clinical areas: cancer (n = 4), cardiovasculardisease (n = 4), and critical care (n = 2). From the eligiblecandidates, and to choose a sample of ten test PGs, weselected PGs that reflected a range of quality on theRigour of Development domain of AGREE II. Althoughwe are not interested in the differences in PG topic as a
+Brouwers et al.  Implementation Science  2010, 5:29
+http://www.implementationsc ience.com/content/5/1/29Page 4 of 6
+primary factor, we want variability in clinical topic to
+make our findings more generalizeable.
+AGREE II
+The AGREE II consists of survey items and a user's man-ual.
+Items
+The AGREE II consists of 23 items grouped into sixdomains: scope and purpose, stakeholder involvement,rigour of development, clarity of presentation, applicabil-ity, and editorial independence. Items are answered usinga seven-point response scale (strongly disagree-stronglyagree). Standardized domain scores for PGs are calcu-lated by summing scores across the appraisers and stan-dardizing them as a percentage of the possible maximumscore a PG can achieve per domain. This method enablesthe construction of a performance score profile permit-ting direct comparisons across the domains or items. TheAGREE II concludes with two global measures answeredusing a seven-point scale: on e targeting overall quality
+and the second targeting intention to use the PG.
+User's manual
+The AGREE II also comprises supporting documenta-tion, referred to as the AGREE II user's manual. Theuser's manual provides details for each of the 23 items,including: explicit descriptors for the different levels onthe seven-point rating scale; a description that defineseach concept underlying the item and specific examples;direction on common places to look for the informationand common terms or labels that represent to the con-cept(s); and guidance on how to rate the item, includingspecific criteria and considerations.
+Learners' scale
+In addition to the primary outcome of accuracy on thePG rating scale using AGREE II, secondary measures willalso be collected: learner satisfaction, self-efficacy, mentaleffort, time-on-task, learner satisfaction, and self-efficacywith the training intervention will be measured using aseven-point scale. Mental effort will be measured on aseven-point scale, using self-report, and correlated withperformance outcome to determine the cognitive effi-ciency metric [16]. Self-reported time-on-task related tothe training time will be collected and checked againstserver logs. A time efficiency metric will also be deter-mined, correlating time-on-task with performance out-come.
+AGREE II experience scale
+The Experience Scale, used originally with the AGREENext Steps Project, will be modified and applied here.This scale asks participants about their experience in thePG enterprise (as developers, evaluators of PGs) and theirexperiences using the AGREE II tool (to facilitate devel-opment, reporting, and evaluation of PGs).
+Expert norms
+Expert norms will be compared to participants' AGREE IIperformance score profiles. Expert norms will be derivedby members of the AGREE Next Steps research team who
+will appraise the PGs used in this study (n = 10). Meanstandardized scores will be used to construct the expertperformance score profiles.
+Participants and procedures
+Seventy-five participants will be recruited to participatein this study. Participants will reflect the range of poten-tial PG and AGREE II users: clinicians, developers, andresearchers, administrators, and policy makers. Becausewe found no differences in patterns of evaluation amonguser stakeholder group in the development work leadingup to the release of the AGREE II [[10], http://
+www.agreetrust.org ], we have not included stakeholders
+as a variable of interest.
+P a r t i c i p a n t s  w i l l  b e  r e c r u i t e d  f r o m  v a r i o u s  s o u r c e s ,
+including: methodologists, clinicians, administrators, andpolicy makers involved in formal PG development pro-grams; first authors of published PGs in the NationalGuideline Clearinghouse, CMA Infobase, and GuidelinesInternational Network directories; professional directo-ries and professional associations reflecting differentstakeholder groups; clinical and health service researchertrainees; and the Guideline International Network com-munity. A strong list of international collaborators willassist in our recruitment efforts. Candidate participantswill be e-mailed a letter of invitation to participate in thisstudy. After screening for their eligibility, participants willbe randomly assigned by the research coordinator using acomputer-generated randomization sequence to one ofthe three educational intervention groups. They willreceive access to an individualized password-protectedweb-based study platform. There, participants will partic-ipate in the intervention to which they were assigned,complete an evaluation of one of the ten test PGs usingthe AGREE II, and complete a series the post-testLearner's Scales. Participants will be blinded to the otherconditions.
+Analyses
+Performance -- distance function
+Our primary outcome for performance will be a measure
+of distance in AGREE II item and domain rating profilesof the participants versus rating profiles of experts. Thedistance function will be calculated as the sum of thesquared deviations (SS) between expert scores and par-ticipant's scores, summed over AGREE II items (SSi) and,alternatively, domains (SSd). Such a measure offers a pre-cise and integrated summary of similarity over the wholeprofile of responses, and it provides a standard quadraticweighting of errors, consistent with other widely usedm e a s u r e s  o f  a g r e e m e n t ,  s u c h  a s  w e i g h t e d  k a p p a .  S i n c ethe SS is typically skewed, we will use its square root inanalysis. A series of one-way ANOVA tests will then beconducted to examine differences in distance function asa function of educational intervention.
+Brouwers et al.  Implementation Science  2010, 5:29
+http://www.implementationsc ience.com/content/5/1/29Page 5 of 6
+Performance -- pass/fail
+A pass/fail algorithm has been designed and pilot tested
+to categorize AGREE II users as meeting minimum per-formance competencies with the tool. This algorithm hasbeen pilot tested and refined and is currently used by theCapacity Enhancement Program of the Canadian Part-nership Against Cancer (CPAC) to hire appraisers to par-ticipate in the evaluation of more than 800 cancer PGsusing the AGREE II. The pass/fail algorithm will be usedto compare competency rates across the educational
+intervention using X
+2 statistics.
+Learner's scales
+A series of one-way ANOVA tests will be conducted to
+examine differences in participants' satisfaction, self-effi-cacy, cognitive effort, and time-on-task scores as a func-tion of educational intervention.
+Test guideline ratings -- AGREE II scores
+For exploratory purposes, a series of one-way ANOVAtests will be conducted to examine differences in partici-pants' standardized AGREE II domain scores on the testPGs as a function of educational intervention.
+Guideline and AGREE II experience
+For exploratory purposes, measures of PG and AGREE IIExperience captured at time one will be used a covariatein the analyses proposed above.
+Discussion
+This project represents one of two initiatives of theAGREE A3 Consortium. We hope to complete this initia-tive in 2010. Our study findings will better inform KTEinitiatives related to PG standards and evaluation, as wellas the literature on instructional design and optimaltraining program design to balance learning and perfor-mance outcomes with time efficiency. In particular, ourstudy will help determine the effectiveness and efficiencyof practice exercises related to guideline review training,as well as learner satisfaction with web-based learning inthis context.
+Competing interests
+The authors declare that they have no competing interests.
+Authors' contributions
+MCB conceived of the concept and design  of the originally funded proposal,
+drafted and revised this manuscript, and has given final approval for the manu-
+script to be published.JM contributed to the design of the originally funded proposal, contributed
+substantially to the revisions of the manu script, and has given final approval for
+the manuscript to be publis hed. AJL contributed to the design of the originally
+funded proposal, contributed substantially to the revisions of the manuscript,
+and has given final approval for the manuscript to be published.
+Acknowledgements
+The authors wish to acknowledge the contributions of the members of AGREE 
+A3 Team who have participated in the AGREE A3 Project. This study is funded 
+by the Canadian Institutes of Health Re search and has received ethics approval 
+from the Hamilton Health Sciences/Faculty of Health Sciences Research Board 
+Ethics approval (REB #09-398; Hamilton, Ontario, Canada).Author Details
+1McMaster University, Department of Oncology and Department of Clinical 
+Epidemiology, McMaster University, Hamilton, Ontario, Canada, 2McMaster 
+University, Department of Oncology, Hamilton, Ontario, Canada and 
+3McMaster University, Division of e-Le arning Innovation, Hamilton, Ontario, 
+Canada
+References
+1. Committee to Advise the Public He alth Service on Cl inical Practice 
+Guidelines, Institute of Medicine: Clinical practice guidelines: directions for a 
+new program  Edited by: Field MJ, Lohr KN. Washington: National Academy 
+Press; 1990. 
+2. Browman GP, Snider A, Ellis P: Negotiating for change. The healthcare 
+manager as catalyst for evidence-based practice: changing the healthcare environment and sharing experience .  Healthc Pap  2003, 
+3:10-22. Transferring knowledge and effecting change in working 
+healthcare environments: Response to seven commentaries . Healthc 
+Pap. 2003; 3:66-71
+3. Browman GP, Brouwers M, Fervers B, Sawka C: Population-based cancer 
+control and the role of guidelines - Towards a "systems" approach .  In 
+Cancer Control  Edited by: Elwood JE, Sutcliff e SB. Oxford: Oxford University 
+Press; 2010:469. 
+4. Francke A, Smit M, de Veer A, Mistiaen P: Factors influencing the 
+implementation of clinical guidelines for health care professionals: A systematic meta-review .  BMC Medical Informatics and Decision Making  
+2008, 8:38.
+5. Grimshaw JM, Thomas RE, MacLennan G, Fraser C, Ramsay CR, Vale L, 
+Whitty P, Eccles MP, Matowe L, Shirran L,  et al. : Effectiveness and 
+efficiency of guideline dissemination and implementation strategies .  
+Health Technol Assess  2004, 8:iii-iv. 1-72
+6. Cabana M, Rand CS, Powe NR, Wu AW, Wilson MH, Abboud PAC,  et al. : Why 
+don't physicians follow clin ical practice guidelines?   JAMA  1999, 
+282: 1458-65.
+7. Schünemann HJ, Fretheim A, Oxman AD: Improving the use of research 
+evidence in guideline development: 13. Applicability, transferability and adaptation .  Health Res Policy Syst  2006, 4:25.
+8. Streiner DL, Norman GR: Health Measurement Scales. A practical guide to 
+their development and use  3rd edition. Oxford: Oxford University Press; 
+2003. 
+9. Cluzeau F, Burgers J, Brouwers M, Grol R, Makela M, Littlejohns P, 
+Grimshaw J, Hunt C, for the AGREE Collaboration: Development and 
+validation of an international appraisal instrument for assessing the quality of clinical practice guidelines: the AGREE project .  Qual Safe 
+Health Care  2003, 12:18-23.
+10. Brouwers M, Kho ME, Browman GP, Cluzeau F, Feder G, Fervers B, Hanna S, 
+Makarski J, on behalf of the AGREE Next Steps Consortium: AGREE II: 
+Advancing guideline development, reporting and evaluation in 
+healthcare .  CMAJ   in press.
+11. Brouwers MC, Kho ME, Browman GP, Burgers J, Cluzeau F, Feder G, Fervers 
+B, Graham ID, Hanna SE, Makarski J, on behalf of the AGREE Next Steps Consortium: Performance, Usefulness and Areas for Improvement: 
+Development Steps Towards the AGREE II - Part 1 .  CMAJ   in press.
+12. Brouwers MC, Kho ME, Browman GP, Burgers J, Cluzeau F, Feder G, Fervers 
+B, Graham ID, Hanna SE, Makarski J, on behalf of the AGREE Next Steps Consortium: Validity assessment of items and tools to support 
+application: Development steps towards the AGREE II - Part 2 .  CMAJ   in 
+press.
+13. Cook DA, Levinson AJ, Garside S, Dupras DM, Erwin PJ, Montori VM: 
+Internet-based learning in the health professions: a meta-analysis .  
+JAMA  2008, 300: 1181-96.
+14. Dick W, Carey L, Carey JO: The Systematic Desi gn of Instruction  Boston: 
+Pearson; 2005. 
+15. Clark RC: Developing Technical Training  San Francisco: John Wiley & Sons; 
+2008. 
+16. Clark RC, Nguyen F, Sweller J: Efficiency in Learning  San Francisco: John 
+Wiley & Sons; 2006. 
+17. Clark RC, Mayer RE: E-Learning and the Scie nce of Instruction  San Francisco: 
+Pfeiffer; 2007. Received: 22 January 2010 Accepted: 19 April 2010 
+Published: 19 April 2010
+This article is available from: http://www.implementationscience.com/content/5/1/29© 2010 Brouwers et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons. org/licenses/by/2.0 ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. Implementation Science  2010, 5:29
+Brouwers et al.  Implementation Science  2010, 5:29
+http://www.implementationsc ience.com/content/5/1/29Page 6 of 6
+18. Clark RC: Building Expertise  Silver Spring: International Society for 
+Performance Improvement; 2003. 
+19. Mayer RE: Multimedia Learning  New York: Cambridge University Press; 
+2001. 
+20. van Merriënboer JJG, Sweller J: Cognitive load theory in health 
+professional education: design principles and strategies .  Medical 
+Education  2010, 44:85-93.
+doi: 10.1186/1748-5908-5-29
+Cite this article as: Brouwers et al. , A randomized trial to evaluate e-learning 
+interventions designed to improve lear ner's performance, satisfaction, and 
+self-efficacy with the AGREE II Implementation Science  2010, 5:29

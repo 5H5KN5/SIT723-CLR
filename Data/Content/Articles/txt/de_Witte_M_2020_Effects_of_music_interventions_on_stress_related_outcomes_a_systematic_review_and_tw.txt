@@ -1,0 +1,1637 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rhpr20
+Health Psychology Review
+ISSN: 1743-7199 (Print) 1743-7202 (Online) Journal homepage: https://www.tandfonline.com/loi/rhpr20
+Effects of music interventions on stress-related
+outcomes: a systematic review and two meta-
+analyses
+Martina de Witte, Anouk Spruit, Susan van Hooren, Xavier Moonen & Geert-
+Jan Stams
+To cite this article:  Martina de Witte, Anouk Spruit, Susan van Hooren, Xavier Moonen
+& Geert-Jan Stams (2020) Effects of music interventions on stress-related outcomes: a
+systematic review and two meta-analyses, Health Psychology Review, 14:2, 294-324, DOI:
+10.1080/17437199.2019.1627897
+To link to this article:  https://doi.org/10.1080/17437199.2019.1627897
+© 2019 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+View supplementary material 
+Published online: 15 Jul 2019.
+ Submit your article to this journal 
+Article views: 118400
+ View related articles 
+View Crossmark data
+ Citing articles: 137 View citing articles 
+
+ORIGINAL ARTICLES
+Eﬀects of music interventions on stress-related outcomes:
+a systematic review and two meta-analyses
+Martina de Wittea,b,c, Anouk Spruitd, Susan van Hoorenc,e,f, Xavier Moonend,eand
+Geert-Jan Stamsd
+aHAN University of Applied Sciences, Nijmegen, The Netherlands;bStevig, Expert Treatment Centre for People with
+Mild Intellectual Disabilities and Psychiatric and Behavioral Disorders, Gennep, The Netherlands;cKenVaK, Research
+Centre for the Arts Therapies, Heerlen, The Netherlands;dResearch Institute of Child Development and Education,
+University of Amsterdam, Amsterdam, The Netherlands;eFaculty of Healthcare, Zuyd University of Applied Sciences,
+Heerlen, The Netherlands;fFaculty of Psychology and Educational Sciences, Open University, Heerlen, The
+Netherlands
+ABSTRACT
+Music interventions are used for stress reduction in a variety of settings
+because of the positive e ﬀects of music listening on both physiological
+arousal (e.g., heart rate, blood pressure, and hormonal levels) andpsychological stress experiences (e.g., restlessness, anxiety, andnervousness). To summarize the growing body of empirical research,
+two multilevel meta-analyses of 104 RCTs, containing 327 e ﬀect sizes
+and 9,617 participants, were performed to assess the strength of theeﬀects of music interventions on both physiological and psychological
+stress-related outcomes, and to test the potential moderators of the
+intervention e ﬀects. Results showed that music interventions had an
+overall signi ﬁcant e ﬀect on stress reduction in both physiological ( d
+= .380) and psychological ( d= .545) outcomes. Further, moderator
+analyses showed that the type of outcome assessment moderated the
+eﬀects of music interventions on stress-related outcomes. Larger e ﬀects
+were found on heart rate ( d= .456), compared to blood pressure ( d
+=.343) and hormone levels ( d= .349). Implications for stress-reducing
+music interventions are discussed.ARTICLE HISTORY
+Received 18 September 2018
+Accepted 3 June 2019
+KEYWORDS
+Music interventions; music
+therapy; arousal; stress; state
+anxiety; multilevel meta-analysis
+Introduction
+Stress is believed to be one of the major factors negatively a ﬀecting our health. High stress levels
+have shown to be strongly associated with many physical and emotional problems, such as cardio-
+vascular disease, chronic pain, anxiety disorders, depression, burnout, and addictions (AmericanPsychological Association [APA], 2017 ; Australian Psychological Society [APS], 2015 ; Casey, 2017 ;
+Howe, Chang, & Johnson, 2013 ; McEwen & Gianaros, 2010 ). Furthermore, there is a strong relationship
+between these stress-related health problems and higher absenteeism at work (UK Health and SafetyExecutive, 2016 ). To cope with stressors, millions of people around the world use tranquilising medi-
+cation, which is associated with numerous contraindications and negative side eﬀ ects (e.g., Bandelow
+et al., 2015 ; Olfson, King, & Schoenbaum, 2015 ; Puetz, Youngstedt, & Herring, 2015 ). Because of the
+diﬃculty of reducing or preventing stress without any professional support and the great demand for
+© 2019 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License ( http://
+creativecommons.org/licenses/by-nc-nd/4.0/ ), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the
+original work is properly cited, and is not altered, transformed, or built upon in any way.CONTACT Martina de Witte martina.dewitte@han.nl
+Supplemental data for this article can be accessed at https://doi.org/10.1080/17437199.2019.1627897 .HEALTH PSYCHOLOGY REVIEW
+2020, VOL. 14, NO. 2, 294 –324
+https://doi.org/10.1080/17437199.2019.1627897
+nonpharmacological stress reduction interventions, the relevance of the development of cost-e ﬀective
+interventions for stress reduction is high (Casey, 2017 ; Holahan, Moos, Holahan, Brennan, & Schutte,
+2005 ; Howe et al., 2013 ; McEwen & Gianaros, 2010 ; World Health Organization [WHO], 2010 ).
+Music listening and music making have been associated with a broad range of positive out-
+comes in the domains of health and well-being (Juslin & Västfjäll, 2008;K o e l s c h ,2012, 2015;
+Thaut & Hoemberg, 2014 ; Zatorre, 2015). The most widely studied e ﬀects of music are the
+calming and stress reducing e ﬀects (Chanda & Levitin, 2013; Gillen, Biley, & Allen, 2008; Juslin &
+Västfjäll, 2008 ;K o e l s c h , 2015). For decades, music has been used as an intervention for stress
+reduction, such as music activities (like singing or music making), music listening for a certain
+patient group ( ‘music as medicine ’), and live music therapy o ﬀered by music therapists (Bradt,
+Dileo, & Shim, 2013b ;G o l de ta l . ,2011).
+In order to integrate the available knowledge on the eﬀ ects of music interventions on stress, the
+present study is a systematic review and meta-analysis of experimental studies testing the e ﬀects of
+music interventions on both physiological and psychological stress-related outcomes in clinical,
+medical and work- or study-related settings.
+The stress system
+The stress system can be considered as a highly important and preserved system in human beings. In
+physiology and medicine, the general deﬁ nition of stress is introduced by Selye ( 1956 ):‘Stress is a
+general activation reaction to a stimulus that could mean both a challenge (in a positive way) and
+a threat (in a negative sense)’ (p. 32). Aldwin ( 2007 ) emphasized the negative part and de ﬁned
+stress as the quality of an experience, produced through a person-environment transaction that,
+through either overarousal or underarousal, results in psychological or physiological distress
+(Aldwin, 2007 ; Riley & Park, 2015 ). The responses to stress can be categorised as physiological
+arousal and emotional responses (e.g., Aldwin, 2007 ; Li & Goldsmith, 2012 ; Pelletier, 2004 ). Together,
+the underlying systems of these responses regulate stress and a ﬀect each other during stress (e.g.,
+Linnemann, Strahler, & Nater, 2017 ; McEwen & Gianaros, 2010 ).
+The physiological response to stress implies the activation of the hypothalamic-pituitary adrenal
+(HPA) axis and, because of a release of adrenalin and noradrenalin, increased activity of the sympath-etic nervous system resulting in increased physiological arousal, such as heartrate, blood pressure,
+and cardiac output (Bally, Campbell, Chesnick, & Tranmer, 2003 ; McCance,Forshee, & Shelby, 2006 ;
+Pfaﬀ , Martin, & Ribeiro, 2007 ). In a parallel process, involving the hypothalamus and the adrenal
+glands, cortisol is released. The emotional response to stress can be described as emotional statesof subjective worry, such as state anxiety, restlessness or nervousness (Akin & Iskender, 2011 ;
+Cohen, Kamarck, & Mermelstein, 1983 ; Pittman & Kridli, 2011 ; Pritchard, 2009 ).State anxiety has
+been deﬁ ned as an emotional response to an individual’ s perception of a stressful experience (e.g.,
+Hook, Songwathana, & Petpichetchian, 2008 ; Koelsch, Fuermetz, et al., 2011a ; Ng et al., 2016 ;
+Zhang et al., 2014 ). Therefore, state anxiety was operationalised for several decades as one of the
+psychological stress-related outcomes (Koelsch, Fuermetz, et al., 2011a ; Lazarus, 1966 ; Pelletier,
+2004 ). It is assumed that both the physiological and the emotional responses of stress may be
+reduced by music (Bradt & Dileo, 2014 ; Dileo & Bradt, 2007 ; Pelletier, 2004 ).
+Eﬀects of music on stress
+Recent neuroscienti ﬁc studies provide insights into how music interventions may lead to stress
+reduction and increased well-being. Firstly, music seems to be able to decrease physiological
+arousal , which is increased during stress. Music listening, and music making/singing, have been
+associated with decreases of physiological arousal, shown by reduction of cortisol levels or decreasein heart rate and blood pressure (Hodges, 2011 ; Koelsch et al., 2016 ; Kreutz, Murcia, & Bongard, 2012 ;
+Leardi et al., 2007 ; Linnemann, Ditzen, Strahler, Doerr, & Nater, 2015 ; Nilsson, 2009 ; Sokhadze, 2007 ).HEALTH PSYCHOLOGY REVIEW 295
+These three outcomes have been identi ﬁed in neurobiology as distinct stress biomarkers (Cacioppo,
+Tassinary, & Berntson, 2007 ; Pfaﬀet al., 2007 ).
+Music may also aﬀ ect stress-related emotional states , such as subjective worry, anxiety, restless-
+ness or nervousness (Akin & Iskender, 2011; Cohen et al., 1983; Pittman & Kridli, 2011; Pritchard,
+2009). This is because music can modulate activity in brain structures that are known to be crucially
+involved in emotional processes. Recent neuroimaging studies on music and emotion showed that
+music may strongly in ﬂuence the amygdala, a part of the limbic system, which is a section of the
+brain that plays a crucial role in the regulation of emotional processes by releasing endorphins.
+These neurotransmitters play an important role in enhancing a sense of well-being (Blood &
+Zatorre, 2001;H o d g e s , 2011; Koelsch, 2015; Koelsch, Siebel, & Fritz, 2011b ;L e v i t i n ,2009 ;M o o r e ,
+2013; Thaut & Wheeler, 2010; Uhlig, Jaschke, & Scherder, 2013; Zatorre, 2015 ).
+The systematic review of Moore ( 2013 ) on the neurological e ﬀects of music on emotional pro-
+cesses indicated that musical improvisation and music listening could deactivate the amygdala,
+which may decrease the intensity of stress-related emotional states and psychophysiologicalarousal. This in turn has been shown to evoke feelings of pleasure and happiness (Blood &
+Zatorre, 2001 ; Koelsch et al., 2016 ; Koelsch, O ﬀermanns, & Franzke, 2010 ; Limb & Braun, 2008 ). The
+(cognitive) behavioural framework is consistent with this and takes into account that music can
+serve as a distractor, diverting attention from a stressful event to something more pleasant, which
+reduces stress levels (Sendelbach, Halm, Doran, Miller, & Gaillard, 2006 ; Vaajoki, Kankkunen, Pietilä,
+& Vehviläinen-Julkunen, 2011 ).
+Many studies on the eﬀ ects of music considered state anxiety to be a stress-related emotional
+state, examining relationships between state anxiety outcomes and physiological stress-related out-
+comes (e.g., Hook et al., 2008 ; Koelsch, Fuermetz, et al., 2011a ; Ng et al., 2016 ; Zhang et al., 2014 ).
+Although the terms state anxiety and stress are used interchangeably in the psychology literature,
+diﬀerent self-reporting questionnaires are used. It is therefore necessary to examine whether
+music has the same e ﬀects on stress and state anxiety.
+Music interventions
+Music interventions can be regarded as purposeful musical exercises or methods in which music lis-
+tening, music making, or singing is central. In both literature and practice there is a distinction
+between music interventions o ﬀered by a music therapist and music interventions o ﬀered by
+other healthcare professionals or without any support. First, music interventions can be de ﬁned as
+purposeful music activities if they concern listening to prerecorded music oﬀ ered by medical or
+healthcare professionals, if the intervention is self-administered by the patient ( ‘music as medicine ’),
+or if it concerns music making or singing without the involvement of a music therapist or a thera-
+peutic context (American Music Therapy Association, 2019 ). Second, music interventions as a part
+ofmusic therapy are oﬀered by trained music therapists and are characterised by the presence of
+a therapeutic process and the use of personal music experiences (Bradt & Dileo, 2014 ; Bradt et al.,
+2013b ; Dileo, 2006 ; Gold et al., 2011 ; Kamioka et al., 2014 ). Music interventions in the practice of
+music therapy may concern music listening or music playing, but may also include composing, song-
+writing, or interacting with music (Leubner & Hinterberger, 2017 ).
+It is assumed that speci ﬁc characteristics of the music may have an impact on the stress-reducing
+eﬀects of music interventions (e.g., Bradt & Dileo, 2014 ; Bradt, Dileo, & Potvin, 2013a ; Pittman & Kridli,
+2011 ).Music tempo can be considered as one of the most important moderators of music-related
+arousal and relaxation. Music with a slow tempo (60 –80 bpm), for example meditative music, has
+often been associated with reductions in heart rate, resulting in greater relaxation (e.g., Bernardi,Porta, & Sleight, 2006 ; Bringman, Giesecke, Thörne, & Bringman, 2009 ; Chlan, 2000 ; Hilz et al., 2014 ;
+Nomura, Yoshimura, & Kurosawa, 2013 ). The use of instrumental music , instead of music with lyrics ,
+would often lead to greater e ﬀects of music interventions on stress reduction. Several studies
+reported that music containing lyrics may be more distracting and activating instead of calming296 M .D EW I T T EE TA L .
+(Good et al., 2000 ; Halpern & Savary, 1985 ). However, Koelsch et al. ( 2011a ) reported that the use of
+music with lyrics may reinforce the positive e ﬀects of music interventions on stress reduction through
+the possible comforting eﬀ ects of the lyrics. Another component of music interventions for stress
+reduction is the way the music is played (live music or prerecorded music). Music therapy consists
+mainly of live music interventions, which are assumed be more e ﬀective than ‘music as medicine ’
+interventions because music therapists individualise their interventions to meet patients ’speciﬁc
+needs (Bradt & Dileo, 2014 ; Dileo, 1999 ,2006 ). Notably, some studies measured di ﬀerences in
+stress responses between participants receiving live music and those receiving prerecorded music,with live music appearing to be the most stress-reducing (e.g., Arnon et al., 2006 ; Bailey, 1983 ;
+Baker, 2001 ).
+Many studies examining the e ﬀects of music interventions on stress-related outcomes in speci ﬁc
+patient groups or settings have been published, such as cancer patients (Bradt, Dileo, Grocke, &
+Magill, 2011 ), coronary heart disease patients (Bradt et al., 2013a ), and patients undergoing endo-
+scopic procedures (Rudin, Kiss, Wetz, & Sottile, 2007 ). Several studies reported positive e ﬀects of
+music-listening on stress-related outcomes. In medical settings, listening to tranquilising musicbefore, during, and after medical procedures has been reported to correlate with lower cortisol
+levels, associated with the reduction of stress and/or anxiety (e.g., Chanda & Levitin, 2013 ;
+Kamioka et al., 2014 ; Koelsch et al., 2016 ; Linnemann et al., 2015 ; Nilsson, 2008 ). However, the strength
+of the e ﬀect di ﬀers both within and between studies, and the particular impact of potential modera-
+tors –such as patient/client, setting, measurement and intervention characteristics –is largely
+unknown.
+Rationale for the present study
+The present study consists of two multilevel meta-analyses on the e ﬀects of music interventions on
+both physiological stress-related arousal (e.g., blood pressure, heart rate, hormone levels) andpsychological stress-related experiences (e.g., state anxiety, restlessness or nervousness) in various
+populations and settings, and is a replication of the meta-analysis by Pelletier ( 2004 ), who reviewed
+22 quantitative studies examining the eﬀ ects of music interventions on stress reduction. Pelletier ’s
+(2004 ) meta-analysis showed that music alone and music-assisted relaxation signi ﬁcantly reduced
+stress-related arousal, with an overall medium-to-large eﬀ ect size of d= .67, moderated by study
+characteristics, such as age, type of stress, musical preference and type of intervention. An important
+diﬀerence with the present study is that Pelletier included only studies in which the intervention con-
+sisted of listening to prerecorded music, often combined with relaxation techniques, whereas studieswith live music interventions were excluded. Besides, studies examining music therapy for stress
+reduction were not included. The quality of the included studies was not assessed. Therefore, it is
+not clear whether the methodology of the studies did inﬂ uence Pelletier ’s overall e ﬀects. In addition,
+we assume that the study quality of comparable studies has increased over the last 15 years.
+In the last decade, music interventions were increasingly developed and used to reduce stress in a
+variety of settings (Chanda & Levitin, 2013 ; Heiderscheit, Chlan, & Donley, 2011 ; Koelsch, 2015 ; Uhlig
+et al., 2013 ), and to support physical and psychological health by creating an environment that stimu-
+lates relaxation and stress reduction (Bradt & Dileo, 2014 ; Kamioka et al., 2014 ; Koelsch & Stegemann,
+2012 ; Nilsson, 2008 ). Therefore, it is timely to replicate the meta-analysis by Pelletier ( 2004 ) by using
+new multilevel meta-analytic techniques that enable moderator analyses of both within and between
+study di ﬀerences in outcomes, thus preventing loss of information and increasing statistical power
+(Assink & Wibbelink, 2016 ).
+The present meta-analytic study includes all randomized controlled trials (RCTs) on the e ﬀects of
+music interventions on stress-related outcomes in adults, who are not suﬀering from dementia,
+that have been published. The ﬁrst aim of this study is to examine whether, and the degree to
+which, music interventions are e ﬀective in reducing stress. The second aim is to examine possible
+moderator e ﬀects of study, sample and intervention characteristics, which may in ﬂuence the strengthHEALTH PSYCHOLOGY REVIEW 297
+of the e ﬀects of music interventions on stress-related outcomes. The results of this meta-analysis may
+be used to increase the e ﬀects of music interventions on stress by examining the conditions under
+which music interventions have the largest eﬀ ects on both physiological and psychosocial dimen-
+sions of coping and stress.
+Methods
+Inclusion criteria
+For the current meta-analysis, multiple inclusion criteria were applied. Firstly, only RCTs that exam-
+ined the e ﬀect of music interventions on the experience of stress and/or (state) anxiety were
+included. Outcome measures related to quality of life (QoL) or pain were excluded, because theseoutcomes can be a response to stress, but are not measuring the primary stress-related outcomemeasures, upon which the present study is focused. The physiological eﬀ ects of stress had to be
+measured by heart rate, blood pressure and hormone levels. Psychological eﬀ ects of stress had to
+be measured by self-report instruments aiming at ‘stress ’or‘state anxiety ’. Secondly, studies includ-
+ing participants younger than 18 years of age or examining people with dementia were excluded.
+Although many studies reported cognitive and emotional bene ﬁts in dementia patients when they
+were singing or when they were listening to familiar songs (Särkämö et al., 2008 ,2014 ), such
+ﬁndings are not directly related to ‘stress reduction ’. Moreover, the regular stress measurement
+instruments, which are also used in the included RCTs of the present study, are not used in
+studies in which people with dementia are being examined.
+Selection of studies
+We conducted a computer-based search of the psychological and medical electronic literature data-
+bases, including Medline, Academic Search Complete, Cochrane Library, Web of Science, Wiley
+Online Library, SpringerLink, PubMed, PiCarta, Academic Search Premier, ScienceDirect, PsychINFOand Google Scholar. Pelletier ’s meta-analysis ( 2004 ) can be seen as the starting point of current
+meta-analysis because Pelletier also included all kinds of settings and patient groups. All RCTs avail-able until November 2017 that were in line with the inclusion criteria were included in this meta-analysis. The electronic databases were searched using the following English search string:
+(music*) AND (stress* OR anxiety* OR arousal) AND ( ‘randomized controlled trial ’OR‘randomised
+controlled trial ’OR RCT). Furthermore, reference sections of review- and meta-analytic articles
+about the e ﬀect of music interventions on stress-related outcomes were inspected for qualifying
+studies. The initial search resulted in 2679 studies. Finally, 104 studies met all the inclusion criteria
+(Figure 1 ). An overview of the included studies and their main characteristics are presented in
+Table A1 (See Appendix 1 ).
+Coding and moderators
+The included studies were coded by the ﬁrst author using a coding sheet according to the guidelines
+of Lipsey and Wilson ( 2001 ).Stress can be considered as the dependent variable and was coded into
+physiological orpsychological stress-related outcomes, resulting in two meta-analyses. For each meta-
+analysis, various factors with a potential moderating eﬀ ect on the relation between music interven-
+tions and stress were identi ﬁed. These moderators were divided into outcome-, study-, sample-, and
+intervention characteristics.
+Regarding the stress-rel ated outcomes, three di ﬀerent physiological outcome measures were
+coded: heart rate, blood pressure and hormone levels.T h e s ea r et h r e ed i ﬀerent biomarkers and
+each biomarker must be measured diﬀ erently (Cacioppo et al., 2007;P f a ﬀet al., 2007 ). Regarding
+the psychological stress-rela ted outcomes, it was coded whether the outcomes were assessed by298 M .D EW I T T EE TA L .
+means of questionnaires measuring stress orstate anxiety. For measuring stress, the self-report
+questionnaires Perceived Stress Scale (PSS; Cohen et al., 1983) and the Visual Analogue Scale
+Stress (VAS-S) are widely used and 19% of the included studies measuring psychological
+stress-related outcomes have app lied them. State anxiety is measured in multiple studies by the
+state version of the Spielberger State-Trait Anx iety Inventory (STAI-S; Spielberger, Gorsuch,
+Lushene, Vagg, & Jacobs, 1983 ), and is used in 59% of the included studies assessing psychologicalFigure 1. Flow chart of the search results.HEALTH PSYCHOLOGY REVIEW 299
+stress-related outcomes ( k= 76). Notably, despite the positive psychometric features of the STAI-S,
+the measures have been criticised for their inabi lity to adequately discriminate between the symp-
+toms of anxiety and depression (Caci, Bayle, Dossios, Robert, & Boyer, 2003; Grös, Antony, Simms, &
+McCabe, 2007).
+We coded whether the study quality was strong, moderate orweak with the ‘Quality Assessment
+Tool for Quantitative Studies ’(Eﬀective Public Health Practice Project [EPHPP], 2009 ). This tool
+assesses the quality of a study by providing a comprehensive and structured assessment of the
+concept of study quality (Armijo-Olivo, Stiles, Hagen, Biondo, & Cummings, 2012 ). The EPHPP has
+been reported to have content and construct validity (Jackson & Waters, 2005 ; Thomas, Ciliska,
+Dobbins, & Micucci, 2004 ). Low-quality studies negatively a ﬀect the internal (causal conclusion) val-
+idity, which can lead to a biased estimation of the overall eﬀ ect estimate (Higgins & Green, 2011 ; Zeng
+et al., 2015 ). Regarding the setting in which the study was conducted, we coded whether the study
+was conducted in a polyclinic medical setting ,pre-, during or after medical surgery , or whether it was a
+so-called nonmedical setting (e.g., work-related settings, research among students at universities or
+musical activities to improve health in chronical patients). Further, we coded whether the study
+was conducted in a Western country (European countries, Australia, USA, Canada, New Zealand) or
+in a non-Western country (mainly Asiatic countries). The cultural environment has been shown to
+inﬂuence the way people respond to and cope with stress (Lonner, 2007 ; Tweed, White, &
+Lehman, 2004 ), which could inﬂuence the e ﬀect of music on stress. The type of control condition
+was coded as care as usual (CAU) or another intervention. Di ﬀerent control conditions can lead to
+diﬀerent e ﬀect sizes and recognising this is crucial for drawing accurate conclusions about treatment
+eﬃcacy (Finney, 2000 ; Karlsson & Bergmark, 2015 ).
+Several sample characteristics were also code d, such as the percentage of men in each study.
+There are indications men and women tend to react di ﬀerently to stress, both psychologically
+and physiologically, leading to substantiated gender di ﬀerences in measured stress levels (Galana-
+kis, Stalikas, Kallia, Karagianni, & Karela, 2009; Kajantie & Phillips, 2006 ;V e r m a ,B a l h a r a ,&G u p t a ,
+2011). We also coded the average age of the samples per study because research on occupational
+stress shows the existence of several signi ﬁcant diﬀe rences in stress levels between diﬀ erent ages
+(Galanakis et al., 2009 ).
+Finally, we coded six music intervention characteristics. First, according to Bradt and Dileo ( 2014 ),
+we coded whether the music intervention was o ﬀered in the context of music therapy by a trained
+music therapist, or whether the music intervention was o ﬀered by a healthcare professional, the
+researcher, or by the patient himself, as a music activity (Dileo, 2006 ; Dileo & Bradt, 2007 ; Kamioka
+et al., 2014 ; Leubner & Hinterberger, 2017 ). Second, we coded whether the music intervention
+involved live music orprerecorded music, because di ﬀerences in e ﬀects on stress-related outcomes
+were found (e.g., Arnon et al., 2006 ; Bailey, 1983 ; Baker, 2001 ). Third, regarding the selection of
+music, it was coded whether the music was self-selected by the participants and based on own pre-
+ference (bringing their own music) or whether the music was pre-selected by the researcher or the
+(music) therapist. Some researchers have advised to allow participants choose the music themselves,
+because this may have a greater stress reducing impact ( Juslin, Liljeström, Västfjäll, Barradas, & Silva,
+2008 ), but this does not always mean that participants could bring their own music. On the other
+hand, the pre-selected music (by the researchers) is mostly based on the musical characteristics
+related to classical and soothing music, which are assumed to positively a ﬀect relaxation and
+stress reduction (Burns et al., 2002 ; Labbé, Schmidt, Babin, & Pharr, 2007 ). Fourth, we coded
+whether the music intervention concerned the music tempo of 60 –80 bpm, or whether no speci ﬁc
+music tempo was mentioned in the study. Fifth, it was coded whether the music contained lyrics
+or whether the music was purely instrumental. Lastly, we coded the number of music interventionsessions. The number of interventions is positively correlated to improvements in many outcomes
+including the regulation of stress and anxiety (Cassileth, Vickers, & Magill, 2003 ; Gold, Solli, Krüger,
+& Lie, 2009 ; Robb, Carpenter, & Burns, 2011 ).300 M .D EW I T T EE TA L .
+Calculation and analyses
+Data analysis was performed by the ﬁrst and second author. The eﬀ ect sizes were transformed into
+Cohen ’sdby use of Wilson ’s(2013 ) calculator and Lipsey and Wilson ’s(2001 ) formulae. Negative
+eﬀect sizes indicate that music interventions had a negative eﬀ ect on stress-related outcomes.
+Most d-values were calculated based on reported means and standard deviations. To correct for pre-
+treatment di ﬀerences, pretest e ﬀects were subtracted from posttest e ﬀects. The e ﬀect size was coded
+as zero when a study mentioned that an e ﬀect was not signi ﬁcant without providing any statistics
+(Lipsey & Wilson, 2001 ). For both meta-analyses, the continuous moderators (age of the participants,
+gender of the participants, duration of the music intervention and frequency of the music interven-
+tion) were centred on their means. For categorical variables, dichotomous dummy variables werecreated. Extreme outliers in e ﬀect sizes were identi ﬁed using box plots (Tabachnik & Fidell, 2013 ),
+and were winsorized (i.e., replaced by the highest or lowest acceptable score falling within thenormal range) for both meta-analyses. Standard errors were estimated using Lipsey and Wilson ’s
+(2001 ) formulae.
+In almost all the studies it was possible to calculate more than one eﬀ ect size as most studies
+reported on multiple stress-related outcome variables, multiple scales or measurement instruments.It is possible that the e ﬀect sizes from the same study are more alike than e ﬀect sizes from other
+studies. The assumption of independent eﬀ ect sizes underlying traditional meta-analytic methods
+was therefore violated (Hox, 2010 ; Lipsey & Wilson, 2001 ). In line with recently conducted meta-ana-
+lyses, we applied a multilevel approach in both meta-analyses in order to deal with the interdepen-
+dency of e ﬀect sizes (Assink et al., 2015 ; Cheung, 2014 ; Houben, Van Den Noortgate, & Kuppens, 2015 ;
+Spruit, Assink, van Vugt, van der Put, & Stams, 2016 ; ter Beek et al., 2018 ).
+A three-level meta-analytic model was used to calculate the combined e ﬀect sizes and to
+perform the moderator analyses. Three sources of variance were modelled, including the sampling
+variance for each e ﬀect sizes (level-one), the variance between eﬀ ect sizes within studies (level-
+two), and the variance between studies (level-three) (Assink & Wibbelink, 2016). The meta-analysis
+was
+conducted in R (version 3.4.3) with the metafor package, employing a multilevel random
+eﬀects model (Houben et al., 2015; Van den Bussche, Van den Noortgate, & Reynvoet, 2009 ;V i e c h t -
+bauer, 2010 ). This model is adequate and often used for multilevel meta-analyses and is, in general,
+superior to the ﬁxed-e ﬀects approaches used in traditional meta-analyses (Van Den Noortgate &
+Onghena, 2003). We used likelihood ratio tests to compare the deviance scores of the full model
+and the models without variance parameters on level two or three to determine if the level-twoand -three variances were signi ﬁcant, indicating heterogeneity of e ﬀect sizes. A heterogeneous
+eﬀect size distribution indicates that the e ﬀect sizes cannot be treated as estimates of a
+common overall e ﬀect size. In that case, we conducted moderator analyses, because the di ﬀerences
+among e ﬀect sizes may be explained by outcome, study, sample, and/or intervention
+characteristics.
+Publication bias
+A common problem in conducting a meta-analysis is that studies with nonsigni ﬁcant or nega-
+tive results are less likely to be published than studies with positive and signi ﬁcant results. The
+studies included in this meta-analysis may therefore not be an adequate representation of all
+studies that have been conducted. This phenomenon is called the ‘ﬁle drawer problem ’
+(Rosenthal, 1995).
+In order to check the presence of publication bias in the current meta-analysis, a trim and ﬁll pro-
+cedure was performed (Duval & Tweedie, 2000a ,2000b ) by testing the asymmetry of the funnel plot
+according to Egger ’s method (Egger, Davey Smith, Schneider, & Minder, 1997 ). In case of publication
+bias, the funnel plot of the distribution of eﬀ ect sizes is asymmetric, resulting in a signiﬁ cant Egger’s
+test. If Egger ’s method indicates publication bias, a trim and ﬁll procedure is required. We tested ifHEALTH PSYCHOLOGY REVIEW 301
+eﬀect sizes were missing on the left side of the distribution, since publication bias would only be likely
+to occur in the case of nonsigni ﬁcant or unfavourable (i.e., negative) results. In case of left-sided
+funnel plot asymmetry, we imputed estimations of eﬀ ect sizes of missing studies through trim and
+ﬁll analyses, and subsequently computed an overall e ﬀect size that would take the inﬂ uence of pub-
+lication bias into account (Duval & Tweedie, 2000b ), providing an estimate of the degree to which
+publication bias might have a ﬀected the overall mean e ﬀect size.
+Results
+This meta-analytic review included 104 RCTs (all non-overlapping samples) with a total of N= 9.617
+participants of whom n= 4.838 participated in a music intervention group or music therapy group,
+and n= 4.779 constituting the comparison group. Table A1 shows an overview of the most important
+characteristics of the included studies (see Appendix 1 ).Table 1 shows the overall e ﬀects of music
+interventions on both physiological stress-related outcomes and psychological stress-related
+outcomes.
+Eﬀect of music interventions on physiological stress-related outcomes
+The meta-analysis on the e ﬀect of music interventions on physiological stress-related outcomes con-
+tained 61 independent studies ( s), from which 197 e ﬀect sizes ( k) were denied, and a total sample of
+N= 3.188 participants, of which n=1.624 participants in the music intervention groups, and n=1.564
+participants in the comparison groups.
+Overall e ﬀect on physiological stress-related outcomes
+As i g n i ﬁcant small-to-medium e ﬀect ( d= 0.380, p≤.001) of music interventions on physiological
+stress-related outcomes (heart rate, blood pressu re, stress-related hormones) was found, indicat-
+ing that music interventions reduced physiological stress symptoms. According to the trim-and-
+ﬁll plot, the presence of publication bias was unlikely, as there were no imputed e ﬀect sizes on the
+left side of the funnel (see Figure A1 ,Appendix 2 ). The likelihood ratio test showed that signi ﬁcant
+variance was present at the between-study level ( level 3) and the within studies level (level 2). In
+cases of heterogeneous e ﬀect size distributions, moderator analyses are advised to assess
+whether the variance between the e ﬀect sizes can be explained by moderators. Therefore, we
+conducted moderator analyses on type of outco m e ,s t u d y ,s a m p l e ,a n dm u s i ci n t e r v e n t i o n
+characteristics to examine the e ﬀect of music intervention on ph ysiological stress-related
+outcomes.
+Results of moderator analyses on physiological stress-related outcomes
+The moderator analyses of the physiological stress-related outcomes were justi ﬁed by signiﬁ cant
+overall heterogeneity for all moderator variables, including the variables with missing values. Theresults of these moderator analyses are presented in Table 2 .
+Table 1. Overall e ﬀects of music interventions on physiological and psychological stress-related outcomes.
+Outcome skMean
+d 95% CI P σ2
+level2 σ2level3% Var.
+level 1% Var.
+level 2% Var.
+level 3
+Physiological
+outcomes61 197 0.380 0.296 –0.465 <.001*** 0.024*** 0.076*** 32.44 16.09 51.47
+Psychological
+outcomes79 130 0.545 0.432 –0.657 <.001*** 0.119*** 0.128*** 15.38 40.76 43.87
+Note: s= number of studies; k= number of e ﬀect sizes; CI = con ﬁdence interval; Mean d= mean e ﬀect size (d ); CI = con ﬁdence
+interval; % Var = percentage of variance explained; σ2level2= variance between e ﬀect sizes within the same study; σ2level3= var-
+iance between studies.302 M .D EW I T T EE TA L .
+Outcome characteristics. We found a signi ﬁcant moderating eﬀ ect ( p≤.05) on the di ﬀerent types of
+physiological stress-related outcomes (heart rate, blood pressure or stress-related hormones). The
+strongest e ﬀects of music interventions on the physiological stress-related outcomes were measured
+by heart rate ( d= 0.456 )compared to blood pressure ( d=0.343) and hormone levels ( d= 0.349).
+Study characteristics. No signi ﬁcant moderating e ﬀects of study characteristics were found. More
+speciﬁcally, the type of setting (nonmedical settings, pre- or postmedical surgery or during
+medical procedures), the continent where the study was conducted (Western or non-Westerncountries), and the quality of the study (weak, moderate or strong) showed no signi ﬁcant moderating
+eﬀects. The continent where the study had been carried out showed a trend ( p= 0.089), indicatingTable 2. Moderator e ﬀects of music interventions on physiological stress-related outcomes.
+Moderator variables sK β₀(mean d) t0 β₁ t1 F(df1, df2)
+Outcome characteristics 61 197 F(2, 193) = 3.581*
+Bloodpressure (RC) 47 104 0.343 7.141***
+Hormones 13 22 0.349 3.949*** 0.006 0.067
+Heart rate 53 70 0.456 8.944*** 0.113 2.617
+Study characteristics
+Setting 61 197 F(2, 194) = 1.099
+Surgery (RC) 27 110 0.393 6.370***
+Nonmedical 10 20 0.523 4.299*** 0.130 0.953
+Polyclinical procedures 24 67 0.320 4.677*** −0.073 −0.794
+Continent 61 197 F(1, 195) = 2.914
+Western (RC) 30 108 0.306 5.097***
+Non-Western 31 89 0.450 7.659*** 0.143 1.707
+Study quality 61 197 F(2, 194) = 0.586
+Strong (RC) 28 92 0.405 6.413***
+Moderate 20 52 0.313 4.052*** −0.093 −0.928
+Weak 13 53 0.426 4.596*** 0.021 0.190
+Intervention characteristicsType of music intervention 61 197 F(1, 195) = 0.094
+Music activity (RC) 54 183 0.379 8.346***
+Music therapy 7 14 0.423 2.931** 0.046 0.307
+Type of control condition 61 197 F(1, 195) = 2.784
+CAU (RC) 46 130 0.417 8.641***
+Other intervention 18 67 0.284 3.948*** −0.133 −1.668
+Music selection 61 197 F(1, 195) = 1.040
+Own preference (RC) 24 90 0.329 4.985***Selection by researcher/therapist 37 107 0.415 7.580*** 0.087 1.020
+Music induction 61 197 F(1, 195) = 1.065
+Prerecorded music (RC) 54 184 0.367 8.287***Live music 7 13 0.525 3.571*** 0.159 1.032
+Music style 58 186 F(1, 184) = 1.336
+Relaxation (RC) 46 152 0.393 8.689***
+Own choice 12 34 0.285 3.417*** −0.109 −1.156
+Music with lyrics 61 197 F(2, 194) = 0.560
+No (RC) 47 143 0.372 7.488***
+Yes 2 6 0.189 0.789 −0.183 −0.747
+Both 12 48 0.446 4.604*** 0.074 0.678
+Music tempo 61 197 F(1, 195) = 0.304
+60–80 beats p/m (RC) 36 130 0.361 6.449***
+No speciﬁ c tempo 25 67 0.409 6.029*** 0.049 0.551
+Frequency 60 193 F(1, 195) = 0.091
+One session (RC) 49 146 0.375 8.003***
+More sessions 11 47 0.402 4.845*** 0.027 0.301
+Duration (continuous) 49 161 0.318 8.215*** 0.003 1.479 F(1, 159) = 2.187
+Sample characteristicsProportion of males (continuous) 55 181 0.366 7.871*** −0.094 −0.549 F(1, 179) = 0.301
+Age (continuous) 55 182 0.386 8.228*** −0.001 −0.223 F(1, 180) = 0.050
+Note: s=number
+of independent studies; k= number of e ﬀect sizes; β₀= intercept/mean e ﬀect size ( d);t0=d iﬀerence in mean d
+with zero; β= estimated regression coe ﬃcient; t1=d iﬀerence in mean dwith reference category; F(df1,d f2) = omnibus test; (RC)
+= reference category. * p< .05, ** p< .01, *** p< .001.HEALTH PSYCHOLOGY REVIEW 303
+that non-Western studies yielded larger eﬀ ects on physiological stress-related outcomes than studies
+conducted in Western countries.
+Sample characteristics. The age and gender of the samples did not have a moderating eﬀ ect on the
+physiological stress symptoms.
+Intervention characteristics. No signi ﬁcant moderating e ﬀect was found in the type of intervention
+(music therapy or music intervention), type of control condition (CAU or another intervention), music
+induction (prerecorded music or live music), music style (predetermined relaxing music or patient
+preferred music), music tempo (60 –80 bpm or another tempo), or the use of music with lyrics in con-
+trast to the use of purely instrumental music.
+Eﬀect of music interventions on psychological stress-related outcomes
+The meta-analysis on the e ﬀect of music interventions on physiological stress-related outcomes con-
+tained 79 independent studies ( s), from which 130 e ﬀect sizes ( k) were denied, and a total sample of
+N= 6.800 participants, of which n=3.373 participants in the music intervention groups and n=3.427
+participants in the comparison groups.
+Overall e ﬀect on psychological stress-related outcomes
+A signiﬁ cant medium-to-large e ﬀect ( d=0.545, p≤.001) of music interventions on psychological
+stress-related outcomes was found, indicating that music interventions reduced psychological
+stress-related symptoms (state anxiety, nervousness, restlessness, and feelings of worry). The trim-and-ﬁll plot did not show lack of e ﬀect sizes on the left side of the funnel (see Figure A2 ,Appendix
+2), therefore publication bias was unlikely. The likelihood ratio test showed that signi ﬁcant variance
+was present at the between (level 3) and within (level 2) study level. Moderator analyses on type ofoutcome, study, sample, and music intervention characteristics were conducted to examine the eﬀ ect
+of music intervention on psychological stress-related outcomes.
+Results of moderator analyses on psychological stress-related outcomes
+The moderator analyses of the psychological stress-related outcomes were justi ﬁed by signiﬁ cant
+overall heterogeneity for all moderator variables, including the variables with missing values. Theresults of these moderator analyses are presented in Table 3 .
+Outcome characteristic. The type of psychological outcome (stress- or state anxiety) did not mod-
+erate the e ﬀect of music interventions on psychological stress-related outcomes.
+Study characteristics. No signi ﬁcant moderating e ﬀects were found in the study characteristics.
+More speci ﬁcally, the continent where the study was conducted, type of setting, and quality of the
+study, did not moderate the e ﬀect of the music intervention on physiological stress-related
+outcomes.
+Sample characteristics. No moderating e ﬀects of the age and gender composition of the samples
+were found.
+Intervention characteristics. We found no signi ﬁcant moderating e ﬀects of the intervention charac-
+teristics, which included the type of intervention (music therapy or music intervention), music induc-tion (prerecorded music or live music), music style (predetermined relaxing music or self-selected
+music by the patient), and the use of music with lyrics in contrast to the use of purely instrumental
+music. The music tempo showed a trend ( p= .064), indicating that music with 60 –80 bpm yielded
+larger e ﬀects than music with another or unspeci ﬁed tempo. Another trend concerned the type of304 M .D EW I T T EE TA L .
+control condition ( p= .097). If a non-established intervention aimed at stress reduction was used as a
+control condition, e ﬀects were somewhat larger than if the control condition concerned CAU (i.e.,
+regular medical care). Finally, the number of interventions showed a trend ( p= .078) indicating
+that one single session generated larger e ﬀects than two or more sessions.
+Discussion
+Overall e ﬀects
+By conducting two separate multilevel meta-analyses, the current study aimed to assess the strength
+of the e ﬀect of music interventions on both physiological and psychological stress-related outcomes.Table 3. Moderator e ﬀects of music interventions on psychological stress-related outcome.
+Moderator variables sk β₀(mean d) t0 β₁ t1 F(df1, df2)
+Outcome characteristics 79 130 F(1, 128) = 0.118
+State anxiety (RC) 70 101 0.553 9.008***
+Stress 19 29 0.512 4.592*** −0.041 −0.344
+Study characteristicsSetting 79 130 F(2, 127) = 2.353
+Surgery (RC) 23 51 0.669 6.808***Nonmedical 12 19 0.694 4.553*** 0.025 0.137
+Polyclinic procedures 44 60 0.433 5.707*** −0.236 −1.897
+Continent 79 130 F(1, 128) = 0.765
+Western (RC) 40 70 0.496 6.206***
+Non-Western 39 60 0.596 7.318*** 0.100 0.874
+Study quality 79 130 F(2, 127) = 1.573
+Strong (RC) 42 71 0.628 8.175***Moderate 21 28 0.387 3.423*** −0.240 −1.757
+Weak 16 31 0.518 4.142*** −0.110 −0.749
+Intervention characteristicsType of music intervention 79 130 F(1, 128) = 0.013
+Music intervention (RC) 67 110 0.548 8.838***Music therapy 12 20 0.529 3.539*** −0.019 −0.115
+Type of control condition 79 130 F(1, 128) = 2.795
+Other intervention (RC) 23 35 0.592 9.252***Care as usual 63 95 0.402 3.900*** −0.190 −1.672
+Music selection 79 130 F(1, 128) = 0.953
+Own preference (RC) 30 62 0.611 6.911***Selection by researcher/therapist 49 68 0.498 6.709*** −0.113 −0.976
+Music induction 79 130 F(1, 128) = 0.385
+Prerecorded music (RC) 66 109 0.560 8.991***
+Live music 13 21 0.464 3.269** −0.096 −0.621
+Music style 71 120 F(1, 118) = 0.512
+Own preference (RC) 34 47 0.521 5.655***
+Relaxation 37 73 0.609 7.296*** 0.089 0.716
+Music with lyrics 79 130 F(2, 127) = 0.872
+No (RC) 52 81 0.556 7.891***Yes 5 8 0.264 1.186 −0.292 −1.257
+Both 22 41 0.581 5.471*** 0.026 0.201
+Music tempo 79 130 F(1, 128) = 3.132
+60–80 beats p/m (RC) 49 82 0.625 8.789***
+No speciﬁ c tempo 30 48 0.413 4.578*** −0.212 −1.871 F(1, 128) = 3.156
+Frequency intervention 79 130
+One session (RC) 61 90 0.601 9.316***
+More than
+one session 18 40 0.379 3.487*** −0.222 −1.776
+Duration (continuous) 65 109 0.547 8.662*** 0.001 0.547 F(1, 107) = 0.299
+Sample characteristics
+Proportion of males (continuous) 78 129 0.549 9.480*** 0.017 0.061 F(1, 127) = 0.004
+Age (continuous) 73 123 0.537 9.023*** 0.003 0.629 F(1, 121) = 0.395
+Note: s= number of independent studies; k= number of e ﬀect sizes; β₀= intercept/mean e ﬀect size ( d);t0=d iﬀerence in mean d
+with zero; β= estimated regression coe ﬃcient; t1=d iﬀerence in mean dwith reference category; F(df1,d f2) = omnibus test; (RC)
+= reference category. * p< .05, ** p< .01, *** p< .001.HEALTH PSYCHOLOGY REVIEW 305
+Furthermore, the study aimed to examine which outcome, study, sample or intervention character-
+istics moderated the strength of the eﬀ ect on physiological and psychological stress-related out-
+comes. Overall, we found a signiﬁ cant small-to-medium e ﬀect of music interventions on
+physiological stress-related outcomes ( d= .380) and a medium e ﬀect of music interventions on
+psychological stress-related outcomes ( d=.545), indicating that music intervention groups
+beneﬁted more than the comparison groups. We conclude that music interventions are eﬀ ective
+in reducing physiological and psychological stress-related symptoms in di ﬀerent kinds of settings
+(mental healthcare, polyclinic medical settings, during medical surgery and in daily life situations).There were no indications of publication bias.
+The overall ﬁndings of the current study are consistent with ﬁndings of previous meta-analyses
+(Bradt & Dileo, 2014 ; Bradt et al., 2013a ; Bradt et al., 2013b ; Bradt et al., 2011 ; Gillen et al., 2008 ;
+Kim, Evangelista, & Park, 2015 ; Pelletier, 2004 ; Rudin et al., 2007 ). There is a growing body of evidence
+that music interventions yield positive, moderate eﬀ ects on stress reduction. Considering the
+demands of today ’s society, the need for stress reduction interventions are large. Millions of
+people around the world use tranquilising medications, such as tricyclic antidepressants and benzo-
+diazepines, to cope with life stressors or anxiety (e.g., Bandelow et al., 2015 ; Olfson et al., 2015 ; Puetz
+et al., 2015 ). Not only do these types of medication have considerable negative side eﬀ ects, including
+substance dependence and abuse, research also indicates that the eﬀ ects of pharmacological treat-
+ment on stress-related problems are not much larger than the eﬀ ects of music interventions found in
+the current meta-analytic study (Olfson et al., 2015 ). Besides, a common argument for starting
+pharmacological treatment instead of psychological treatment for stress reduction is that itseﬀects occur immediately or faster (Bandelow et al., 2015 ; Fedoro ﬀ& Taylor, 2001 ). However, the
+results of this meta-analysis were based on mainly short-term music interventions, most of the
+time on a single occasion, having a direct stress reducing eﬀ ect in various contexts. The current
+study therefore indicates the relevance of brief music interventions for stress reduction in all kindsof settings. Also, our search revealed that the eﬀ ects of long-term music interventions have been
+seldom examined.
+Psychological e ﬀects of music
+Results of our meta-analysis show a medium e ﬀect of music interventions on psychological stress-
+related outcomes, including emotional states of subjective worry, state anxiety, restlessness and ner-vousness. Music not only reduces physiological arousal , but also a ﬀects emotional states. This may be
+attributed to the e ﬀect of music on brain areas, such as the amygdala, which are responsible for
+emotional processes. A related explanation for the positive eﬀ ects of music interventions on psycho-
+logical stress-related outcomes concerns the positive inﬂ uence of listening to pleasant music on
+emotional valence, which can be explained by the degree of attraction that an individual feelstowards a speci ﬁc object or event (Jäncke, 2008 ; Juslin & Västfjäll, 2008 ). Music experienced as plea-
+sant increases the intensity of emotional valence (the felt happiness), which has a stress-reducing
+eﬀect (Jiang, Rickson, & Jiang, 2016 ; Rohner & Miller, 1980 ; Sandstrom & Russo, 2010 ; Witvliet &
+Vrana, 2007 ). An increased dopamine activity in the mesolimbic reward brain system has been
+shown to be associated with these feelings of happiness in response to high-valence music (e.g.,Blood & Zatorre, 2001 ; Salimpoor et al., 2013 ; Salimpoor, Benovoy, Larcher, Dagher, & Zatorre,
+2011 ; Zatorre, 2015 ).
+Another explanation for the positive e ﬀect of music interventions on psychological stress-related
+outcomes may be that listening to music can provide ‘distraction ’from stress-increasing thoughts or
+feelings (Bernatzky, Presch, Anderson, & Panksepp, 2011 ; Chanda & Levitin, 2013 ). Indeed, the ben-
+eﬁcial property of music to distract people from aversive states has been supported by short-term
+music interventions for acute stress reduction (Fancourt, Ockelford, & Belai, 2014 ; Linnemann et al.,
+2015 ). These ﬁndings are therefore in line with the current meta-analysis, which primarily included
+studies involving short-term music interventions.306 M .D EW I T T EE TA L .
+Music listening in the presence of others may strengthen the stress-reducing eﬀ ect of the music
+intervention, which is believed to be caused by increased emotional well-being (Juslin et al., 2008 ),
+and increased feelings of social cohesion (Boer & Abubakar, 2014 ; Linnemann, Strahler, & Nater,
+2016 ; Pearce, Launay, & Dunbar, 2015 ). There is also empirical evidence showing that people synchro-
+nise in movement (auditory-motor synchronisation) with each other when engaging in music therapy
+group interventions, which evokes positive feelings of togetherness and bonding, and decreases
+stress levels (Linnemann et al., 2016 ; Tarr, Launay, & Dunbar, 2014 ). Group music-making or
+singing together may result in social bonding, which may be explained by the release of the neuro-
+transmitters endorphin and oxytocin (e.g., Dunbar, Kaskatis, MacDonald, & Barra, 2012 ; Freeman, 2000 ;
+Tarr et al., 2014 ; Weinstein, Launay, Pearce, Dunbar, & Stewart, 2016 ). These neurotransmitters play a
+role in the defensive response to stress (Amir, Brown, & Amit, 1980 ; Dief, Sivukhina, & Jirikowski, 2018 ;
+Myint, Jayakumar, Hoe, Kanthimathi, & Lam, 2017 ). It should be noted that nearly all studies included
+in our meta-analysis examined participants listening to music alone (e.g., by using headphones),because most studies examined ‘music as medicine ’instead of music therapy, which is applied by
+a music therapist, and can be delivered both in a group and individual format.
+Eﬀect moderating variables
+Results indicate that moderating variables may explain di ﬀerences in the strength of the e ﬀect sizes.
+Signiﬁcant stronger moderating e ﬀects were found in studies in which physiological arousal, as a
+result of stress, was measured by heart rate, compared to studies in which physiological arousal
+was measured by blood pressure or stress-related hormone levels. These results are consistent
+with the large body of knowledge concerning the immediate eﬀ ects of psychological stress on the
+sympathetic responses in the autonomic nervous system, meaning increases of heart rate and
+decreases of heart rate variability (Chandola, Heraclides, & Kumari, 2010 ; Föhr et al., 2017 ). The
+results are also in line with the assumption that music with a slow steady rhythm provides stress
+reduction by altering inherent body rhythms, such as heart rate (Thaut & Hoemberg, 2014 ; Thaut,
+Kenyon, Schauer, & McIntosh, 1999 ).
+None of the other possible moderators of interventions eﬀ ects proved to be signi ﬁcant, but results
+showed some noteworthy trends of the intervention characteristics. First, the music tempo seemed to
+inﬂuence the strength of the e ﬀect of music interventions on the psychological stress-related out-
+comes. Larger e ﬀect sizes were found in music with a tempo of 60– 80 bpm, where tempo represents
+slow and soothing music. This corresponds with previous research, which suggests that music with a
+slow tempo can be considered to be one of the most signi ﬁcant determinants of audio-related e ﬀects
+on stress reduction (Bernardi et al., 2006 ; Björkman, Karlsson, Lundberg, & Frisman, 2013 ; Iwanaga,
+Kobayashi, & Kawasaki, 2005 ; Jiang et al., 2016 ; Nilsson, 2008 ; ). Second, the frequency of the
+music intervention sessions did moderate the eﬀ ect of music interventions on the psychological
+stress-related outcomes, indicating that only one session is needed for achieving eﬀ ects on stress
+reduction. This is in line with previous research, which implies that music has an immediate positiveeﬀect on stress reduction (e.g., Koelsch, 2015 ; Zatorre, 2015 ). However, Leubner and Hinterberger’ s
+(2017 ) review of the e ﬀectiveness of music interventions on depression showed that more than
+one session yielded larger e ﬀects (at least, within the ﬁrst 6 weeks of treatment).
+Contrary to our expectations, we did not ﬁnd a signiﬁ cant moderating e ﬀect of some intervention
+characteristics. Firstly, type of intervention did not moderate the eﬀ ects on physiological stress-
+related outcomes. Studies in which music therapy is oﬀered (by a trained therapist) did not yield
+signi 
+ﬁcantly larger e ﬀect sizes than studies in which music interventions were o ﬀered as so-called
+purposeful music activities (by the researcher, healthcare professionals or self-administered by the
+patient) .However, Dileo ( 2006 ) stated that music therapy is more eﬀ ective than ‘music as medicine ’
+interventions and attributed this di ﬀerence to the fact that music therapists individualise their inter-
+ventions to meet patients ’speciﬁc needs (Bradt & Dileo, 2014 ; Dileo, 1999 ,2006 ). A possible expla-
+nation for di ﬀerent ﬁndings of Dileo ’s review ( 2006 ) compared to the current meta-analytic reviewHEALTH PSYCHOLOGY REVIEW 307
+is that, in the past 14 years, the number of RCTs examining the e ﬀects of ‘music as medicine ’inter-
+ventions has grown substantially, and with that, both the associated research methods and interven-
+tion protocols were improved. However, experimental research on the eﬀ ects of music therapy is still
+in its infancy, while considerable diversity is evident in the interventions that have been examined sofar. Secondly, results show that the way the music was selected did not inﬂ uence the e ﬀect of music
+interventions on stress-related outcomes, while many previous studies report that self-selected music
+is the most e ﬀective in terms of stress reduction (e.g., Jiang et al., 2016 ; Jiang, Zhou, Rickson, & Jiang,
+2013 ; Juslin et al., 2008 ). A possible explanation is that the term ‘self-selected music ’is used di ﬀerently
+in studies included in this meta-analytic review. The term ‘self-selected music ’was both used when
+the patient brings their own favourite music and when the patient could choose the music from a
+pre-selected list of musical styles (e.g., Bradt & Dileo, 2014 ; Cepeda, Carr, Lau, & Alvarez, 2006 ;
+Helsing, Västfjäll, Bjälkebring, Juslin, & Hartig, 2016 ; Lee, Chung, Chan, & Chan, 2005 ; Nilsson,
+2008 ). Notably, where self-selected music also means that patients have to choose their music
+from a preselected list, the researcher can preselect only music with speci ﬁc characteristics (nonlyrical
+music with a tempo of 60– 80 bpm and a sound intensity level of 60 dB) which contributes to a stron-
+ger eﬀect on physiological stress-related outcomes (Bernardi et al., 2006 ; Björkman et al., 2013 ; Dileo,
+2007; Gan, Lim, & Haw, 2016 ; Good et al., 2000 ). Besides, previous research shows that listening to
+soothing music, pre-selected by the researcher, lowers the stress-levels signi ﬁcantly in contrast to
+energetic up-tempo music (Iwanaga et al., 2005 ; Jiang et al., 2013 ; Sandstrom & Russo, 2010 ). This
+diﬀers from the ﬁndings of many studies, which attribute these positive eﬀ ects to the ability of par-
+ticipants to self-select music (Juslin et al., 2008 ). However, this often means that the participants can
+choose one of the researcher ’s pre-selected playlists instead of actually bringing their own music.
+Because of the uncertainty about what the e ﬀect actually causes, in the present study we coded
+‘own preference ’when patients could bring their own music, and ‘selecti on
+ by researcher/therapist ’
+when patients had to choose the music what was pre-selected by the researcher or therapist.
+Results showed no moderating e ﬀect for the settings in which the music intervention was con-
+ducted (nonmedical, surgery, polyclinic procedures), which might indicate that the e ﬀects of music
+interventions do not depend on the type of setting. This is in line with the assumption that stress is
+a general activation response to any stimulus that could mean both a threat and a challenge, result-ing in heightened arousal of the autonomic nervous system (Pfa ﬀet al., 2007;S e l y e ,1976 ,1973).
+Also, neurological evidence provides insight in to the positive e ﬀects of music on the stress
+response with respect to arousal regulation, and these e ﬀects appear to be independent of
+context or setting (e.g., Casey, 2017; Koelsch, 2015 ;K o e l s c he ta l . , 2016; Linnemann et al., 2015;
+Thaut & Hoemberg, 2014).
+Limitations of the present study
+The current study has some limitations that need to be mentioned. Firstly, we operationalised theconcept of stress in terms of physiological and psychological outcomes, which resulted in two
+meta-analyses. Because the moderator analyses were performed on both psychological and physio-
+logical data, the impression can be that it concerns two independent outcomes, while the outcomesalways a ﬀect and strengthen each other during stress. This is because the underlying systems of the
+physiological and psychological responses are both, and mostly at the same time, responsible for theexperience of stress (e.g., Linnemann et al., 2017 ; McEwen & Gianaros, 2010 ). Secondly, some cat-
+egories of relevant variables included in the moderator analyses contained only a few eﬀ ect sizes,
+which reduces statistical power and sets limits to the generalizability of the study ﬁndings. This
+especially may be the case for the moderators music induction (prerecorded music vs. live music)
+and music style (relaxation vs. own choice) in the meta-analysis of the physiological stress-related out-
+comes and the moderators music tempo (60–80 bpm vs. another tempo), and the frequency of the
+intervention (a single session vs. more than one session) in the meta-analysis of the psychologicalstress-related outcomes.308 M .D EW I T T EE TA L .
+Implications for research and practice
+Despite the limitations, this study has important implications for future research and the practical use
+of music interventions in stress reduction. First and foremost, this meta-analytic study indicates that
+music interventions can be e ﬀective in the reduction of stress. Many people suﬀ er from stress-related
+symptoms, both in their daily lives and in speci ﬁc settings (e.g., medical settings, mental health care
+settings, work-related settings). Considering the fact that music interventions are very easy and inex-
+pensive to integrate in both daily lives and in medical settings, it is important to recognise the eﬀectsof music interventions. Another implication is that future research should focus on the speci ﬁc
+characteristics of the music intervention on stress reduction, for example, the music tempo, thestyle of the music, the use of live music or prerecorded music, the way the music is selected, orthe frequency of the music intervention sessions.
+The vast body of neurological evidence regarding the inﬂ uence of music on arousal, stress and
+emotional processes is still growing, but the speci ﬁc practical implications have not yet been
+suﬃciently investigated. In included RCTs, music interventions are still considered like one and the
+same, while the speci ﬁc characteristics of music show di ﬀerent e ﬀects, such as the music tempo
+(60–80 bpm). To identify the most eﬀ ective music intervention for stress reduction, it is important
+that the possible moderators of the music interventions be better tested. Therefore, it is rec-
+ommended for future trials to describe all aspects of the music intervention, with both the speci ﬁc
+characteristics involved in these two meta-analyses as well as the musical characteristics, such as
+timbre, melodic and harmonic aspects, and rhythmic accentuation. These characteristics were not
+reported in the included RCTs, but can nonetheless moderate the eﬀ ects of music interventions
+on stress reduction (e.g., Leubner & Hinterberger, 2017 ; Moore, 2013 ; Thaut & Hoemberg, 2014 ).
+There are many RCTs examining the e ﬀect of music as medicine interventions , but there is de ﬁnitely
+a lack of RCTs examining the e ﬀect of music therapy interventions on stress-related outcomes, and it is
+therefore impossible to establish at this time whether these interventions are more eﬀ ective than the
+‘music as medicine ’interventions. Although the use of prerecorded music may be preferred by
+researchers as a standardised stimulus, it is recommended to also develop speci ﬁcmusic therapy pro-
+tocols that will adhere to the research standards of RCTs.
+The relationship between the frequency/duration of the music intervention and the eﬀ ects on
+stress reduction is unclear. Future research should examine this topic, because apart from the
+musical characteristics, such as the music style and music tempo, these general characteristics ofthe music intervention may also moderate the e ﬀects on stress reduction. It seems that the
+inﬂuence of the music selection method on the eﬀ ects of the music intervention is interpreted
+diﬀerently. In new trials, we strongly recommend reporting clearly if the researcher/therapist did
+choose the music of the intervention, or if the participants had to choose one of the researchers ’
+or therapists ’pre-selected music playlists, or if the participants brought their own music. Finally,
+it is recommended to compare the e ﬀects of music (therapy) interventions on stress-related out-
+comes
+with pharmacological treatment, but also with other experiential interventions, such as
+yoga or mindfulness.
+Summary
+The current meta-analytic review provides high-level evidence that music interventions can beeﬀective in reducing stress and provides justi ﬁcation for the increasing use of music interventions
+for stress reduction in both medical and mental health care practice. Considering the low costsand lack of side eﬀ ects of music interventions, the moderate tranquilising eﬀ ects of music are very
+signiﬁ cant for the prevention and treatment of stress-related problems. However, the development
+of music (therapy) intervention protocols are necessary to set up more robust research into theeﬀects of music interventions, and to gain more insight into the eﬀ ect moderating characteristics
+of music intervention for stress reduction.HEALTH PSYCHOLOGY REVIEW 309
+Disclosure statement
+No potential con ﬂict of interest was reported by the authors.
+Funding
+This work was supported by Nederlandse Organisatie voor Wetenschappelijk Onderzoek: [grant number 023.007.068].
+References
+Akin, A., & Iskender, M. ( 2011 ). Internet addiction and depression, anxiety and stress. International Online Journal of
+Educational Sciences ,3, 138 –148. Retrieved from http://mts.iojes.net/
+Aldwin, C. M. ( 2007 ).Stress, coping, and development: An integrative perspective (2nd ed.). New York, NY: Guilford Press.
+American Music Therapy Association. ( 2019 ).What is music therapy? Retrieved from https://www.musictherapy.org/
+about/musictherapy
+American Psychological Association. ( 2017 ).Stress in America: Coping with change . Retrieved from https://www.apa.org/
+news/press/releases/stress/2016/coping-with-change.pdf
+Amir, S., Brown, Z. W., & Amit, Z. ( 1980 ). The role of endorphins in stress: Evidence and speculations. Neuroscience &
+Biobehavioral Reviews ,4,7 7 –86.
+Armijo-Olivo, S., Stiles, C. R., Hagen, N. A., Biondo, P. D., & Cummings, G. G. ( 2012 ). Assessment of study quality for sys-
+tematic reviews: A comparison of the Cochrane collaboration risk of bias tool and the e ﬀective public health practice
+project quality assessment tool. Journal of Evaluation in Clinical Practice ,18,1 2–18.doi:10.1111/j.1365-2753.2010.
+01516.x
+Arnon, S., Shapsa, A., Forman, L., Regev, R., Bauer, S., Litmanovitz, I., & Dol ﬁn, T. ( 2006 ). Live music is bene ﬁcial to preterm
+infants in the neonatal intensive care unit environment. Birth (berkeley, Calif ) ,33, 131– 136. doi:10.1111/j.0730 –7659.
+2006.00090.x
+Assink, M., van der Put, C. E., Hoeve, M., de Vries, S. L., Stams, G. J. J., & Oort, F. J. ( 2015 ). Risk factors for persistent delin-
+quent behavior among juveniles: A meta-analytic review. Clinical Psychology Review ,42,4 7 –61.doi:10.1016/j. cpr.2015.
+08.002
+Assink, M., & Wibbelink, C. J. M. ( 2016 ). Fitting three-level meta-analytic models in R: A step-by-step tutorial. The
+Quantitative Methods for Psychology, 12, 154 –174. doi:10.20982/tqmp.12.3.p154
+Australian Psychological Society. ( 2015 ).Stress & wellbeing: How Australians are coping with life: The ﬁndings of the
+Australian Psychologic
+al Society Stress and wellbeing in Australia survey 2015. Retrieved from https://www.headsup.
+org.au/docs/default-source/default-document-library/stress-and-wellbeing-in-australia-report.pdf
+Bailey, L. M. ( 1983 ). The e ﬀects of live music versus tape-recorded music on hospitalized cancer patients. Music Therapy ,3,
+17–28.doi:10.1093/mt/3.1.17
+Baker, F. ( 2001 ). The e ﬀects of live, taped, and no music on people experiencing posttraumatic amnesia. Journal of Music
+Therapy ,38, 170 –192. doi:10.1093/jmt/38.3.170
+Bally, K., Campbell, D., Chesnick, K., & Tranmer, J. ( 2003 ). Eﬀ ects of patient-controlled music therapy during coronary
+angiography on procedural pain and anxiety distress syndrome. Critical Care Nurse ,23,5 0 –58.
+Bandelow, B., Reitt, M., Röver, C., Michaelis, S., Görlich, Y., & Wedekind, D. ( 2015 ). Eﬃ cacy of treatments for anxiety dis-
+orders: A meta-analysis. International Clinical Psychopharmacology ,30, 183 –192. doi:10.1097/YIC.0000000000000078
+Bernardi, L., Porta, C., & Sleight, P. ( 2006 ). Cardiovascular, cerebrovascular, and respiratory changes induced by di ﬀerent
+types of music in musicians and nonmusicians: The importance of silence. Heart ,92, 445 –452. doi:10.1136/hrt.2005.
+064600
+Bernatzky, G., Presch, M., Anderson, M., & Panksepp, J. ( 2011 ). Emotional foundations of music as a non-pharmacological
+pain management tool in modern medicine. Neuroscience & Biobehavioral Reviews, 35, 1989 –1999. doi:10.1016/j.
+neubiorev.2011.06.005
+Björkman, I., Karlsson, F., Lundberg, A., & Frisman, G. H. ( 2013 ). Gender di ﬀerences when using sedative music during
+colonoscopy. Gastroenterology Nursing ,36,1 4 –20.doi:10.1097/SGA.0b013e31827c4c80
+Blood, A. J., & Zatorre, R. J. ( 2001 ). Intensely pleasurable responses to music correlate with activity in brain regions impli-
+cated in reward and emotion. Proceedings of the National Academy of Sciences ,98,11818 –11823. doi:10.1073 /pnas.
+191355898
+Boer, D., & Abubakar, A. ( 2014 ). Music listening in families and peer groups: Bene ﬁts for young people ’s social cohesion
+and emotional well-being across four cultures. Frontiers in Psychology ,5, 392. doi:10.3389/fpsyg.2014.00392
+Bradt, J., & Dileo, C. ( 2014 ). Music interventions for mechanically ventilated patients. Cochrane Database of Systematic
+Reviews ,2014 (12), 1– 73.doi:10.1002/14651858.CD006902.pub3
+Bradt, J., Dileo, C., Grocke, D., & Magill, L. ( 2011 ). Music interventions for improving psychological and physical outcomes
+in cancer patients. Cochrane Database of Systematic Reviews ,2011 (8), 1– 172. doi:10.1002/14651858.CD006911.pub3310 M .D EW I T T EE TA L .
+Bradt, J., Dileo, C., & Potvin, N. ( 2013a ). Music for stress and anxiety reduction in coronary heart disease patients. Cochrane
+Database of Systematic Reviews ,2013(12), 1– 106.
+Bradt, J., Dileo, C., & Shim, M. ( 2013b ). Music interventions for preoperative anxiety. Cochrane Database of Systematic
+Reviews ,2013 (6), 1– 84.
+Bringman, H., Giesecke, K., Thörne, A., & Bringman, S. ( 2009 ). Relaxing music as pre-medication before surgery: A random-
+ised controlled trial. Acta Anaesthesiologica Scandinavica ,53, 759 –764.
+Burns, J. L., Labbé, E., Arke, B., Capeless, K., Cooksey, B., Steadman, A., & Gonzales, C. ( 2002 ). The e ﬀects of di ﬀerent types of
+music on perceived and physiological measures of stress. Journal of Music Therapy ,39, 101 –116. doi:10.1093/jmt/39.2.
+101
+Caci, H., Bayle, F. J., Dossios, C., Robert, P., & Boyer, P. ( 2003 ). The Spielberger trait anxiety inventory measures more than
+anxiety. European Psychiatry ,18, 394 –400. doi:10.1016/j.eurpsy.2003.05.003
+Cacioppo, J. T., Tassinary, L. G., & Berntson, G. (Eds.). ( 2007 ).Handbook of psychophysiology . Cambridge: Cambridge
+University Press.
+Casey, G. ( 2017 ). Stress and disease. Kai Tiaki Nursing New Zealand ,23(6), 20– 24. Retrieved from https://www.highbeam.
+com/doc/1G1-498996813.html
+Cassileth, B. R., Vickers, A. J., & Magill, L. A. ( 2003 ). Music therapy for mood disturbance during hospitalization for auto-
+logous stem cell transplantation: A randomized controlled trial. Cancer ,98, 2723 –2729. doi:10.1002/cncr.11842
+Cepeda, M. S., Carr, D. B., Lau, J., & Alvarez, H. ( 2006 ). Music for pain relief. Cochrane Database of Systematic Reviews ,2006
+(2), 1– 4.doi:10.1002/14651858.CD004843.pub2
+Chanda, M. L., & Levitin, D. J. ( 2013 ). The neurochemistry of music. Trends in Cognitive Sciences ,17, 179 –193. doi:10.10 16/j.
+tics.2013.02.00
+7
+Chandola, T., Heraclides, A., & Kumari, M. ( 2010 ). Psychophysiological biomarkers of workplace stressors. Neuroscience &
+Biobehavioral Reviews ,35,5 1 –57.doi:10.1016/j.neubiorev.2009.11.005
+Cheung, M. W. L. ( 2014 ). Modeling dependent e ﬀect sizes with three-level meta-analyses: A structural equation modeling
+approach. Psychological Methods ,19, 211 –229. doi:10.1037/a0032968
+Chlan, L. L. ( 2000 ). Music therapy as a nursing intervention for patients supported by mechanical ventilation. AACN
+Advanced Critical Care ,11, 128 –138. doi:10.1097/00044067-200002000-00014
+Cohen, S., Kamarck, T., & Mermelstein, R. ( 1983 ). A global measure of perceived stress. Journal of Health and Social
+Behavior ,24, 385 –396. doi:10.2307/2136404
+Dief, A. E., Sivukhina, E. V., & Jirikowski, G. F. ( 2018 ). Oxytocin and stress response. Open Journal of Endocrine and Metabolic
+Diseases ,8,9 3 –104. doi:10.4236/ojemd.2018.83010
+Dileo, C. ( 2006 ). Eﬀects of music and music therapy on medical patients: A meta-analysis of the research and implications
+for the future. Journal of The Society for Integrative Oncology ,4,6 7 –70.doi:10.2310/7200.2006.002
+Dileo, C., & Bradt, J. ( 2007 ). Music therapy: Applications to stress management. In P. Lehrer & R. Woolfolk (Eds.), Principles
+and practice of stress management (3rd ed, pp. 519 –544). New York, NY: Guilford Press.
+Dunbar, R. I., Kaskatis, K., MacDonald, I., & Barra, V. ( 2012 ). Performance of music elevates pain threshold and positive
+aﬀect: Implications for the evolutionary function of music. Evolutionary Psychology ,10, 688– 702. doi:10.1177%
+2F147470491201000403
+Duval, S., & Tweedie, R. ( 2000a ). A nonparametric ‘trim and ﬁll’method of accounting for publication bias in meta-analysis.
+Journal of the American Statistical Association ,95,8 9 –99.doi:10.2307/2669529
+Duval, S., & Tweedie, R. ( 2000b ). Trim and ﬁll: A simple funnel-plot based method of testing and adjusting for publication
+bias in meta-analysis. Biometrics ,56, 455 –463. doi:10.1111/j.0006-341X.2000.00455.x
+Eﬀective Public Health Practice Project. ( 2009 ).Quality assessment tool for quantitative studies . Retrieved from http://www.
+ephpp.ca/tools.html
+Egger, M., Davey Smith, G., Schneider, M., & Minder, C. E. ( 1997 ). Bias in meta-analysis detected by a simple, graphical test.
+British Medical Journal ,315, 629 –634. doi:10.1136/bmj.316.7129.469
+Fancourt, D., Ockelford, A., & Belai, A. ( 2014 ). The psychoneuroimmunological e ﬀects of music: A systematic review and a
+new model. Brain, Behavior, and Immunity ,36,1 5–26.doi:10.1016/j.bbi.2013.10.014
+Fedoro ﬀ, I. C., & Taylor, S. ( 2001 ). Psychological and pharmacological treatments of social phobia: A meta-analysis. Journal
+of Clinical Psychopharmacology ,21, 311 –324. doi:10.1097/00004714 –200106000– 00011
+Finney, J. ( 2000 ). Limitations in using existing alcohol treatment trials to develop practice guidelines. Addiction ,95, 1491 –
+1500. doi:10.1046/j.1360-0443.2000.951014914.x
+Föhr, T., Tolvanen, A., Myllymäki, T., Järvelä-Reijonen, E., Peuhkuri, K., Rantala, S., …Puttonen, S. ( 2017 ). Physical activity,
+heart rate variability-based stress and recovery, and subjective stress during a 9-month study period. Scandinavian
+Journal of Medicine & Science in Sports ,27, 612 –621. doi:10.1111/sms.12683
+Freeman, W. J., III. ( 2000 ). A neurobiological role of music in social bonding. In N. Wallin, B. Merkur, & S. Brown (Eds.), The
+origins of
+music (pp. 411 –424). Cambridge, MA: MIT Press.
+Galanakis, M., Stalikas, A., Kallia, H., Karagianni, C., & Karela, C. ( 2009 ). Gender di ﬀerences in experiencing occupational
+stress: The role of age, education and marital status. Stress & Health ,25, 397 –404. doi:10.1002/smi.1248
+Gan, S. K. E., Lim, K. M. J., & Haw, Y. X. ( 2016 ). The relaxation e ﬀects of stimulative and sedative music on mathematics
+anxiety: A perception to physiology model. Psychology of Music ,44, 730 –741. doi:10.1177/0305735615590430HEALTH PSYCHOLOGY REVIEW 311
+Gillen, E., Biley, F., & Allen, D. ( 2008 ). Eﬀects of music listening on adult patients ’pre-procedural state anxiety in hospital.
+International Journal of Evidence-Based Healthcare ,6,2 4 –49.doi:10.1111/j.1744 –1609.2007.00097.x
+Gold, C., Erkkila, J., Bonde, L. O., Trondalen, G., Maratos, A., & Crawford, M. J. ( 2011 ). Music therapy or music medicine?
+Psychotherapy and Psychosomatics ,80, 304 –304. doi:10.1159/000323166
+Gold, C., Solli, H. P., Krüger, V., & Lie, S. A. ( 2009 ). Dose-response relationship in music therapy for people with serious
+mental disorders: Systematic review and meta-analysis. Clinical Psychology Review ,29, 193 –207. doi:10.1016/j.cpr.
+2009.01.001
+Good, M., Picot, B. L., Salem, S. G., Chin, C. C., Picot, S. F., & Lane, D. ( 2000 ). Cultural di ﬀerences in music chosen for pain
+relief. Journal of Holistic Nursing ,18, 245 –260. doi:10.1177/089801010001800306
+Grös, D. F., Antony, M. M., Simms, L. J., & McCabe, R. E. ( 2007 ). Psychometric properties of the state-trait inventory for
+cognitive and somatic anxiety (STICSA): Comparison to the state-trait anxiety inventory (STAI). Psychological
+Assessment ,19, 369 –381. doi:10.1037/1040-3590.19.4.369
+Halpern, S., & Savary, L. ( 1985 ).Sound health: Music and sounds that make us whole . San Francisco, CA: Harper & Row.
+Heiderscheit, A., Chlan, L., & Donley, K. ( 2011 ). Instituting a music listening intervention for critically ill patients receiving
+mechanical ventilation: Exemplars from two patient cases. Music and Medicine ,3, 239 –245. doi:10.1177/
+1943862111410981
+Helsing, M., Västfjäll, D., Bjälkebring, P., Juslin, P., & Hartig, T. ( 2016 ). An experimental ﬁeld study of the e ﬀects of listening
+to self-selected music on emotions, stress, and cortisol levels. Music and Medicine ,8, 187 –198.
+Higgins, J., & Green, S. (Eds.). ( 2011 ).Cochrane handbook for systematic reviews of interventions: Version 5.1.0 [updated
+March 2011]. Chichester: Wiley-Blackwell.
+Hilz, M. J., Stadler, P., Gryc, T., Nath, J., Habib-Romstoeck, L., Stemper, B., …Koehn, J. (2014 ). Music induces di ﬀerent
+cardiac autonomic arousal e ﬀects in young and older persons. Autonomic Neuroscience ,183,8 3 –93.doi:10.1016/j.
+autneu.2014.02.004
+Hodges, D. A. ( 2011 ). Psychophysiological measures. In P. N. Juslin & J. Sloboda (Eds.), Handbook of music and emotion (pp.
+279–311). Oxford: Oxford University Press.
+Holahan, C. J., Moos, R. H., Holahan, C. K., Brennan, P. L., & Schutte, K. K. ( 2005 ). Stress generation, avoidance coping, and
+depressive symptoms: A 10-year model. Journal of Consulting and Clinical Psychology ,73, 658– 666. doi:10.1037/0022-
+006X.73.4.658
+Hook, L., Songwathana, P., & Petpichetchian, W. ( 2008 ). Music therapy with female surgical patients: Eﬀ ect on anxiety and
+pain. Paciﬁc Rim International Journal of Nursing Research ,12, 259 –271. Retrieved from https://tci-thaijo.org/index.php/
+PRIJNR/article/view/5863/5067
+Houben, M., Van Den Noortgate, W., & Kuppens, P. ( 2015 ). The relation between shortterm emotion dynamics and
+psychological well-being: A meta-analysis. Psychological Bulletin ,141, 901 –930. doi:10.1037/a0038822
+Howe, M., Chang, C. H., & Johnson, R. E. ( 2013 ). Understanding a ﬀect, stress, and well-being within a self-regulation frame-
+work. In P. L. Perrewé, C. C. Rosen, & J. R. B. Halbesleben (Eds.), The role of emotion and emotion regulation in job stress
+and wellbeing (pp. 1– 34). Bingley: Emerald.
+Hox, J. ( 2010 ).Multilevel analysis: Techniques and applications . New York, NY: Routledge.
+Iwanaga, M., Kobayashi, A., & Kawasaki, C. ( 2005 ). Heart rate variability with repetitive exposure to music. Biological
+Psychology ,70,6 1 –66.doi:10.1016/j.biopsycho.2004.11.015
+Jackson, N., & Waters, E. ( 2005 ). Criteria for the systematic review of health promotion and public health interventions.
+Health Promotion International ,20, 367 –374. doi:10.1093/heapro/dai022
+Jäncke, L. ( 2008 ).Music, memory and emotion. Journal of Biology ,7, 21. doi:10.1186/jbiol82
+Jiang, J., Rickson, D., & Jiang, C. ( 2016 ). The mechanism of music for reducing psychological stress: Music preference as a
+mediator. The Arts in Psychotherapy ,48,6 2–68.doi:10.1016/j.aip.2016.02.002
+Jiang, J., Zhou, L., Rickson, D., & Jiang, C. ( 2013 ). The e ﬀects of sedative and stimulative music on stress reduction depend
+on music preference. The Arts in Psychotherapy ,40, 201 –205. doi:10.1016/j.aip.2013.02.002
+Juslin, P. N., Liljeström, S., Västfjäll, D., Barradas, G., & Silva, A. ( 2008 ). An experience sampling study of emotional reactions
+to music. Emotion ,8, 668 –683. doi:10.1037/a0013505
+Juslin, P. N., & Västfjäll, D. ( 2008 ). Emotional responses to music: The need to consider underlying mechanisms. Behavioral
+and Brain Sciences ,31, 559 –575. doi:10.1017/S0140525X08005293
+Kajantie, E., & Phillips, D. I. ( 2006 ). The e ﬀects of sex and hormonal status on the physiological response to acute psycho-
+social stress. Psychoneuroendocrinology ,31, 151 –178. doi:10.1016/j.psyneuen.2005.07.002
+Kamioka, H., Tsutani, K., Yamada, M., Park, H., Okuizumi, H., Tsuruoka, K., …Abe, T. ( 2014 ). Eﬀectiveness of music therapy:
+A summary of systematic reviews based on randomised controlled trials of music interventions. Patient Preference and
+Adherence ,8, 727 –754. doi:10.2147/PPA.S61340
+Karlsson, P., & Bergmark, A. ( 2015 ). Compared with what? An analysis of control-group types in Cochrane and Campbell
+reviews of psychosocial treatment e ﬃcacy with substance use disorders. Addiction ,110, 420 –428. doi:10.1111/add.
+12799
+Kim, Y., Evangelista, L. S., & Park, Y. G. ( 2015 ). Anxiolytic e ﬀects of music interventions in patients receiving incenter hemo-
+dialysis: A
+systematic review and meta-analysis. Nephrology Nursing Journal ,42, 339 –347. doi:10.1037/1099-9809.11.3.
+187312 M .D EW I T T EE TA L .
+Koelsch, S. ( 2012 ).Brain and music . Oxford: John Wiley.
+Koelsch, S. ( 2015 ). Music-evoked emotions: Principles, brain correlates, and implications for therapy. Annals of the
+New York Academy of Sciences ,1337 , 193 –201. doi:10.1111/nyas.12684
+Koelsch, S., Boehlig, A., Hohenadel, M., Nitsche, I., Bauer, K., & Sack, U. ( 2016 ). The impact of acute stress on hormones and
+cytokines, and how their recovery is a ﬀected by music-evoked mood. Scienti ﬁc Reports ,6, 23008. doi:10.1038/
+srep23008
+Koelsch, S., Fuermetz, J., Sack, U., Bauer, K., Hohenadel, M., Wiegel, M., …Heinke, W. ( 2011a ). Eﬀects of music listening on
+cortisol levels and propofol consumption during spinal anesthesia. Frontiers in Psychology ,2, 58.
+Koelsch, S., Oﬀ ermanns, K., & Franzke, P. ( 2010 ). Music in the treatment of a ﬀective disorders: An exploratory investigation
+of a new method for music-therapeutic research. Music Perception ,27, 307 –316. doi:10.1525/mp.2010.27.4.307
+Koelsch, S., Siebel, W., & Fritz, T. ( 2011b ). Functional neuroimaging. In P. N. Juslin & J. Sloboda (Eds.), Handbook of music
+and emotion (pp. 313 –345). Oxford: Oxford University Press.
+Koelsch, S., & Stegemann, T. ( 2012 ). The brain and positive biological e ﬀects in healthy and clinical populations. In R. A. R.
+MacDonald, D. Kreutz, & L. Mitchell (Eds.), Music, health, and wellbeing (pp. 436 –456). doi:10.1016/j.plrev.2011.04.003
+Kreutz, G., Murcia, C. Q., & Bongard, S. ( 2012 ). Psychoneuroendocrine research on music and health: An overview. In
+R. A. R. MacDonald, D. Kreutz, & L. Mitchell (Eds.), Music, health, and wellbeing (pp. 457– 476). Oxford: Oxford
+University Press.
+Labbé, E., Schmidt, N., Babin, J., & Pharr, M. ( 2007 ). Coping with stress: The e ﬀectiveness of di ﬀerent types of music.
+Applied Psychophysiology & Biofeedback ,32, 163 –168. doi:10.1007/s10484-007-9043-9
+Lazarus, R. S. ( 1966 ).Psychologica l stress and the coping process . New York, NY: McGraw-Hill.
+Leardi, S., Pietroletti, R., Angeloni, G., Necozione, S., Ranalletta, G., & Del Gusto, B. ( 2007 ). Randomised clinical trial exam-
+ining the e ﬀect of music therapy in stress response to day surgery. British Journal of Surgery ,94, 943 –947. doi:10.1002/
+bjs.5914
+Lee, O. K. A., Chung, Y. F. L., Chan, M. F., & Chan, W. M. ( 2005 ). Music and its e ﬀect on the physiological responses and
+anxiety levels of patients receiving mechanical ventilation: A pilot study. Journal of Clinical Nursing ,14, 609 –620.
+doi:10.1111/j.1365 –2702.2004.01103.x
+Leubner, D., & Hinterberger, T. ( 2017 ). Reviewing the e ﬀectiveness of music interventions in treating depression. Frontiers
+in Psychology ,8, 1109. doi:10.3389/fpsyg.2017.01109
+Levitin, D. J. ( 2009 ). The Neural Correlates of Temporal Structure in Music. Music and Medicine ,1(1), 9– 13.
+Li, A. W., & Goldsmith, C.-A. W. ( 2012 ). The e ﬀects of yoga on anxiety and stress. Alternative Medicine Review ,17(1), 21– 35.
+Retrieved from http://archive.foundationalmedicinereview.com/publications/17/1/21.pdf
+Limb, C. L., & Braun, A. R. ( 2008 ). Neural substrates of spontaneous musical performance: An fMRI study of jazz improvisa-
+tion. PLoS One ,3,1–9.doi:10.1371/journal.pone.0001679
+Linnemann, A., Ditzen, B., Strahler, J., Doerr, J. M., & Nater, U. M. ( 2015 ). Music listening as a means of stress reduction in
+daily life. Psychoneuroendocrinology ,60,8 2 –90.doi:10.1016/j.psyneuen.2015.06.008
+Linnemann, A., Strahler, J., & Nater, U. M. ( 2016 ). The stress-reducing e ﬀect of music listening varies depending on the
+social context. Psychoneuroendocrinology ,72,9 7 –105. doi:10.1016/j.psyneuen.2016.06.003
+Linnemann, A., Strahler, J., & Nater, U. M. ( 2017 ).Assessing the e ﬀects of music listening on psychobiological stress in daily
+life.Journal of Visualized Experiments ,120, e54920. doi:10.3791/54920
+Lipsey, M. W., & Wilson, D. B. ( 2001 ).Practical meta-analysis . Thousand Oaks, CA: Sage.
+Lonner, W. J. ( 2007 ). Foreword. In P. T. Wong & L. C. Wong (Eds.), Handbook of multicultural perspectives on stress and
+coping (pp. v –vii). New York, NY: Springer.
+McCance, K. L., Forshee, B., & Shelby, J. ( 2006 ). Stress and disease. In K. L. McCance & S. E. Huether (Eds.), Pathophysiology:
+The biologic basis for disease in adults and children (5th ed., pp. 311 –332). St. Louis, MO: Elsevier.
+McEwen, B. S., & Gianaros, P. J. ( 2010 ). Central role of the brain in stress and adaptation: Links to socioeconomic status,
+health, and disease. Annals of The New York Academy of Sciences ,1186 , 190 –222. doi:10.1111/j.1749-6632.2009.05331.x
+Moore, K. S. ( 2013 ). A systematic review on the neural e ﬀects of music on emotion regulation: Implications for music
+therapy practice. Journal of Music Therapy ,50, 198 –242. doi:10.1093/jmt/50.3.198
+Dileo, C. ( 1999 ).Music therapy and medicine: Theoretical and clinical applications. Silver Spring: American Music Therapy
+Association.
+Myint, K., Jayakumar, R., Hoe, S. Z., Kanthimathi, M. S., & Lam, S. K. ( 2017 ). Cortisol, β-endorphin and oxidative stress
+markers in healthy medical students in response to examination stress. Biomedical Research ,28, 3774 –3779.
+Ng, M. Y., Karimzad, Y., Menezes, R. J., Wintersperger, B. J., Li, Q., Forero, J., …Nguyen, E. T. ( 2016 ). Randomized controlled
+trial of relaxation music to reduce heart rate in patients undergoing cardiac CT. European Radiology ,26, 3635 –3642.
+doi:10.1007/s00330-016-4215-8
+Nilsson, U. ( 2008 ). The anxiety and pain reducing e ﬀects of music interventions: A systematic review. AORN Journal ,87,
+780–807. doi:10.1016/j.aorn.2007.09.013
+Nilsson, U. ( 2009 ). The e ﬀectof music intervention in stress response to cardiac surgery in a randomized clinical trial.
+Heart & Lung ,38, 201 –207. doi:10.1016/j.hrtlng.2008.07.008HEALTH PSYCHOLOGY REVIEW 313
+Nomura, S., Yoshimura, K., & Kurosawa, Y. ( 2013 ). A pilot study on the e ﬀect of music-heart beat feedback system on
+human heart activity. Journal of Medical Informatics & Technologies ,22, 251– 256. Retrieved from http://jmit.us.edu.
+pl/cms/jmitjrn/22/14_Nomura_3.pdf
+Olfson, M., King, M., & Schoenbaum, M. ( 2015 ). Benzodiazepine use in the United States. JAMA Psychiatry ,72, 136 –142.
+doi:10.1001/jamapsychiatry.2014.1763
+Pearce, E., Launay, J., & Dunbar, R. I. ( 2015 ). The ice-breaker e ﬀect: Singing mediates fast social bonding. Royal Society
+Open Science ,2, 150221. doi:10.1098/rsos.150221
+Pelletier, C. ( 2004 ). The e ﬀect of music on decreasing arousal due to stress: A meta-analysis. Journal of Music Therapy ,41,
+192–214. doi:10.1093/jmt/41.3.192
+Pfaﬀ, D. W., Martin, E. M., & Ribeiro, A. C. ( 2007 ). Relations between mechanisms of CNS arousal and mechanisms of stress.
+Stress ,10, 316 –325. doi:10.1080/10253890701638030
+Pittman, S., & Kridli, S. ( 2011 ). Music intervention and preoperational anxiety: An integrative review. International Nursing
+Review ,58, 157 –163. doi:10.1111/j.1466 –7657.2011.00888.x
+Pritchard, M. J. ( 2009 ). Identifying and assessing anxiety in pre-operative patients. Nursing Standard ,23,3 5 –40.doi:10.
+7748/ns2009.08.23.51.35.c7222
+Puetz, T. W., Youngstedt, S. D., & Herring, M. P. ( 2015 ). Eﬀects of pharmacotherapy on combat-related PTSD, anxiety, and
+depression: A systematic review and meta-regression analysis. PloS One, 10,1 –18.doi:10.1371/journal.pone.0126529
+Riley, K. E., & Park, C. L. ( 2015 ). How does yoga reduce stress? A systematic review of mechanisms of change and guide to
+future inquiry. Health Psychology Review ,9,379–396. doi:10. 1080/17437199.2014.981778
+Robb, S. L., Carpenter, J. S., & Burns, D. S. ( 2011 ). Reporting guidelines for music-based interventions. Journal of Health
+Psychology ,16, 342 –352. doi:10.1177/1359105310385750
+Rohner, S. J., & Miller, R. ( 1980 ). Degrees of familiar and a ﬀective music and their e ﬀects on state anxiety. Journal of Music
+Therapy ,17,2 –15.doi:10.1093/jmt/17.1.2
+Rosenthal, R. ( 1995 ). Writing meta-analytic reviews. Psychological Bulletin ,118, 183 –192. doi:10.1037/0033-2909.118.2.183
+Rudin, D., Kiss, A., Wetz, R. V., & Sottile, V. M. ( 2007 ). Music in the endoscopy suite: A meta-analysis of randomised con-
+trolled studies. Endoscopy ,39, 507 –510. doi:10.1055/s-2007-966362
+Salimpoor, V. N., Benovoy, M., Larcher, K., Dagher, A., & Zatorre, R. J. ( 2011 ). Anatomically distinct dopamine release during
+anticipation and experience of peak emotion to music. Nature Neuroscience ,14, 257 –262. doi:10.1038/nn.2726
+Salimpoor, V. N., van den Bosch, I., Kovacevic, N., McIntosh, A. R., Dagher, A., & Zatorre, R. J. ( 2013 ). Interactions between
+the nucleus accumbens and auditory cortices predict music reward value. Science ,340, 216– 219. doi:10.1126/science.
+1232437
+Sandstrom, G. M., & Russo, F. A. ( 2010 ). Music hath charms: The e ﬀects of valence and arousal on recovery following an
+acute stressor. Music and Medicine ,2, 137 –143. doi:10.1177/1943862110371486
+Särkämö, T., Tervaniemi, M., Laitinen, S., Forsblom, A., Soinila, S., Mikkonen, M., …Hietanen, M. ( 2008 ). Music listening
+enhances cognitive recovery and mood after middle cerebral artery stroke. Brain ,131, 866– 876. doi:10.1093 /brain/
+awn013
+Särkämö
+, T., Tervaniemi, M., Laitinen, S., Numminen, A., Kurki, M., Johnson, J. K., & Rantanen, P. ( 2014 ). Cognitive,
+emotional, and social bene ﬁts of regular musical activities in early dementia: Randomized controlled study. The
+Gerontologist, 54, 634 –650. doi:10.1093/geront/gnt100
+Selye, H. ( 1956 ).The stress of life . New York, NY: McGraw-Hill.
+Selye, H. ( 1973 ). The evolution of the stress concept: The originator of the concept traces its development from the dis-
+covery in 1936 of the alarm reaction to modern therapeutic applications of syntoxic and catatoxic hormones. American
+Scientist ,61, 692 –699. Retrieved from https://www.jstor.org/stable/27844072
+Selye, H. ( 1976 ). The stress concept. Canadian Medical Association Journal ,115, 718. Retrieved from https://www.ncbi.nlm.
+nih.gov/pmc/articles/PMC1878840/
+Sendelbach, S. E., Halm, M. A., Doran, K. A., Miller, E. H., & Gaillard, P. ( 2006 ). Eﬀects of music therapy on physiological and
+psychological outcomes for patients undergoing cardiac surgery. The Journal of Cardiovascular Nursing ,21, 194 –200.
+doi:10.1097/00005082-200605000-00007
+Sokhadze, E. M. ( 2007 ). Eﬀects of music on the recovery of autonomic and electrocortical activity after stress induced by
+aversive visual stimuli. Applied Psychophysiology and Biofeedback ,32,3 1–50.doi:10.1007/s10484-007-9033-y
+Spielberger, C. D., Gorsuch, R. L., Lushene, R., Vagg, P. R., & Jacobs, G. A. ( 1983 ).Manual for the state-trait anxiety inventory .
+Palo Alto, CA: Consulting Psychologists Press.
+Spruit, A., Assink, M., van Vugt, E., van der Put, C., & Stams, G. J. ( 2016 ). The e ﬀects of physical activity interventions on
+psychosocial outcomes in adolescents: A meta-analytic review. Clinical Psychology Review ,45,5 6 –71.doi:10.1016/j.cpr.
+2016.03.006
+Tabachnik, B. G., & Fidell, L. S. ( 2013 ).Using multivariate statistics (6th ed.). Boston, MA: Allyn & Bacon.
+Tarr, B., Launay, J., & Dunbar, R. I. ( 2014 ). Music and social bonding: Self-other merging and neurohormonal mechanisms.
+Frontiers in Psychology, 5, 1096. doi:10.3389/fpsyg.2014.01096
+terBeek,
+E., Spruit, A., Kuiper, C. H. Z., van der Rijken, R. E. A., Hendriks, J., & Stams, G. J. J. M. ( 2018 ). Treatment e ﬀect on
+recidivism for juveniles who have sexually o ﬀended: A multilevel meta-analysis. Journal of Abnormal Child Psychology ,
+46, 543 –556. doi:10.1007/s10802-017-0308-3314 M .D EW I T T EE TA L .
+Thaut, M. H., & Hoemberg, V. ( 2014 ).Handbook of neurologic music therapy . Oxford: Oxford University Press.
+Thaut, M. H., Kenyon, G. P., Schauer, M. L., & McIntosh, G. C. ( 1999 ). The connection between rhythmicity and brain func-
+tion. IEEE Engineering in Medicine and Biology Magazine ,18, 101 –108. doi:10.1109/51.752991
+Thaut, M. H., & Wheeler, B. L. ( 2010 ). Music therapy. In P. Juslin & J. Slodoba (Eds.), Handbook on music and emotions:
+Theory, research, applications (pp. 819 –848). Oxford: Oxford University Press.
+Thomas, B. H., Ciliska, D., Dobbins, M., & Micucci, S. ( 2004 ). A process for systematically reviewing the literature: Providing
+the research evidence for public health nursing interventions. Worldviews on Evidence-Based Nursing ,1, 176 –184.
+doi:10.1111/j.1524-475X.2004.04006.x
+Tweed, R. G., White, K., & Lehman, D. R. ( 2004 ). Culture, stress, and coping: Internally- and externally- targeted control
+strategies of European Canadians, East Asian Canadians, and Japanese. Journal of Cross-Cultural Psychology ,35,
+652–668. doi:10.1177/0022022104270109
+Uhlig, S., Jaschke, A., & Scherder, E. ( 2013 ). Eﬀects of music on emotion regulation: A systematic literature review. In G.
+Luck & O. Brabant (Eds.), The 3rd international conference on music & emotion . Jyväskylä. Retrieved from https://jyx.jyu.
+ﬁ/handle/123456789/41628
+UK Health and Safety Executive. ( 2016 ).Work related stress, anxiety and depression in Great Britain 2016. Retrieved from
+http://www.hse.gov.uk/statistics/causdis/stress.pdf
+Vaajoki, A., Kankkunen, P., Pietilä, A. M., & Vehviläinen-Julkunen, K. ( 2011 ). Music as a nursing intervention: Eﬀ ects of music
+listening on blood pressure, heart rate, and respiratory rate in abdominal surgery patients. Nursing & Health Sciences ,
+13, 412 –418. doi:10.1111/j.1442-2018.2011.00633.x
+Van den Bussche, E., Van den Noortgate, W., & Reynvoet, B. ( 2009 ). Mechanisms of masked priming: A meta-analysis.
+Psychological Bulletin ,135(3), 452 –477. doi:10.1037/a0015329
+Van Den Noortgate, W., & Onghena, P. ( 2003 ). Estimating the mean e ﬀect size in meta-analysis: Bias, precision, and mean
+squared error of di ﬀerent weighting methods. Behavior Research Methods, Instruments, & Computers ,35, 504 –511.
+doi:10.3758/BF03195529
+Verma, R.,
+Balhara, Y. P. S., & Gupta, C. S. ( 2011 ). Gender di ﬀerences in stress response: Role of developmental and bio-
+logical determinants. Industrial Psychiatry Journal ,20,4 –10.doi:10.4103/0972-6748.98407
+Viechtbauer, W. ( 2010 ). Conducting meta-analyses in R with the metafor package. Journal of Statistical Software ,36,1 –48.
+doi:10.18637/jss.v036.i03
+Weinstein, D., Launay, J., Pearce, E., Dunbar, R. I., & Stewart, L. ( 2016 ). Group music performance causes elevated pain
+thresholds and social bonding in small and large groups of singers. Evolution and Human Behaviour: Oﬃ cial Journal
+of the Human Behavior and Evolution Society ,37, 152 –158. doi:10.1016/j.evolhumbehav.2015.10.002
+Wilson, D. B. ( 2013 ).Practical meta-analysis eﬀ ect size calculator . Retrieved from http://www.campbellcollaboration.org/
+escalc/html/Eﬀ ectSizeCalculator-Home.php
+Witvliet, C., & Vrana, S. ( 2007 ). Play it again Sam: Repeated exposure to emotionally evocative music polarises liking and
+smiling responses, and in ﬂuences other a ﬀective reports, facial EMG, and heart rate. Cognition and Emotion ,21,3 –25.
+doi:10.1080/02699930601000672
+World Health Organization. ( 2010 ).Global health diplomacy: Negotiating health in the 21st century . Retrieved from http://
+www.who.int/dg/speeches/2008/20081021/en/
+Zatorre, R. J. ( 2015 ). Musical pleasure and reward: Mechanisms and dysfunction. Annals of the New York Academy of
+Sciences ,1337 , 202 –211. doi:10.1111/nyas.12677
+Zeng, X., Zhang, Y., Kwong, J. S., Zhang, C., Li, S., Sun, F., …Du, L. ( 2015 ). The methodological quality assessment tools for
+preclinical and clinical studies, systematic review and meta-analysis, and clinical practice guideline: A systematic
+review. Journal of Evidence-Based Medicine ,8,2–10.doi:10.1111/jebm.12141
+Zhang, Z. S., Wang, X. L., Xu, C. L., Zhang, C., Cao, Z., Xu, W. D., …Sun, Y. H. ( 2014 ). Music reduces panic: An initial study of
+listening to preferred music improves male patient discomfort and anxiety during ﬂexible cystoscop y.Journal of
+Endourology ,28, 739 –744. doi:10.1089/end.2013.0705
+Studies included in the meta-analyses
+Aba, Y. A., Avci, D., Guzel, Y., Ozcelik, S. K., & Gurtekin, B. (2017). E ﬀect of music therapy on the anxiety levels and preg-
+nancy rate of women undergoing in vitro fertilization-embryo transfer: A randomized controlled trial. Applied Nursing
+Research ,36,1 9 –24.doi:10.1016/j.apnr.2017.05.005
+Alam, M., Roongpisuthipong, W., Kim, N. A., Goyal, A., Swary, J. H., Brindise, R. T., …Yoo, S. (2016). Utility of recorded
+guided imagery and relaxing music in reducing patient pain and anxiety, and surgeon anxiety, during cutaneous sur-gical procedures: A single-blinded randomized controlled trial. Journal of the American Academy of Dermatology, 75,
+585–589. doi:10.1016/j.jaad.2016.02
+Ames, N., Shuford, R., Yang, L., Moriyama, B., Frey, M., Wilson, F., …Wallen, G. R. (2017). Music listening among postopera-
+tive patients in the intensive care unit: A randomized controlled trial with mixed-methods analysis. Integrative
+Medicine Insights ,12,1 –13.doi:10.1177/1178633717716455HEALTH PSYCHOLOGY REVIEW 315
+Angioli, R., Nardone, C. D. C., Plotti, F., Cafà, E. V., Dugo, N., Damiani, P., …Terranova, C. (2014). Use of music to reduce
+anxiety during o ﬃce hysteroscopy: Prospective randomized trial. Journal of Minimally Invasive Gynecology, 21, 454 –
+459. doi:j.jmig.2013.07.020
+Bally, K., Campbell, D., Chesnick, K., & Tranmer, J. (2003). Eﬀ ects of patient-controlled music therapy during coronary
+angiography on procedural pain and anxiety distress syndrome. Critical Care Nurse ,23,5 0 –58.
+Bauer, C. L., Victorson, D., Rosenbloom S., Barocas, J., & Silver, R. K. (2010). Alleviating distress during antepartum hospi-
+talization: A randomized controlled trial of music and recreation therapy. Journal of Women ’s Health ,19, 523 –531.
+doi:10.1089/jwh.2008.1344
+Beck, B. D., Hansen, Å. M., & Gold, C. (2015). Coping with work-related stress through guided imagery and music (GIM):
+Randomized controlled trial. Journal of Music Therapy ,52, 323 –352. doi:10.1093/jmt/thv011
+Bekiro ğlu, T., Ovayolu, N., Ergün, Y., & Ekerbiçer, H. Ç. (2013). Eﬀ ect of Turkish classical music on blood pressure: A ran-
+domized controlled trial in hypertensive elderly patients. Complementary Therapies in Medicine ,21, 147 –154. doi:10.
+1016/j.ctim.2013.03.005
+Bringman, H., Giesecke, K., Thörne, A., & Bringman, S. (2009). Relaxing music as pre-medication before surgery: A random-
+ised controlled trial. Acta Anaesthesiologica Scandinavica ,53, 759 –764. doi:10.1111/j.1399 –6576.2009.01969.x
+Buﬀum, M. D., Sasso, C., Sands, L. P., Lanier, E., Yellen, M., & Hayes, A. (2006). A music intervention to reduce anxiety before
+vascular angiography procedures. Journal of Vascular Nursing ,24,6 8 –73.doi:10.1016/j.jvn.2006.04.001
+Bulfone, T., Quattrin, R., Zanotti, R., Regattin, L., & Brusaferro, S. (2009). Eﬀ ectiveness of music therapy for anxiety reduction
+in women with breast cancer in chemotherapy treatment. Holistic Nursing Practice ,23, 238 –242. doi:10.1097/HNP.
+0b013e3181aeceee
+Camara, J. G., Ruszkowski, J. M., & Worak, S. R. (2008). The e ﬀect of live classical piano music on the vital signs of patients
+undergoing ophthalmic surgery. The Medscape Journal of Medicine ,10, 149. Retrieved from https://www.ncbi.nlm.nih.
+gov/pmc/articles/PMC2491669/
+Chan, M. F., Wong, O. C., Chan, H. L., Fong, M. C., Lai, S. Y., Lo, C. W., …Leung, S. K. (2006). Eﬀ ects of music on patients
+undergoing a C-clamp procedure after percutaneous coronary interventions. Journal of Advanced Nursing ,53, 669 –
+679. doi:10.1111/j.1365 –2648.2006.03773.x
+Chen, X., Seth, R. K., Rao, V. S., Huang, J. J., & Adelman, R. A. (2012). Eﬀ ects of music therapy on intravitreal injections: A
+randomized clinical trial. Journal of Ocular Pharmacology and Therapeutics ,28, 414 –419. doi:10.1089/jop.2011.0257
+Cutshall, S. M., Anderson, P. G., Prinsen, S. K., Wentworth, L. J., Brekke, K. M., Li, Z., …Bauer, B. A. (2011). Eﬀ ect of the com-
+bination of music and nature sounds on pain and anxiety in cardiac surgical patients: A randomized study. Alternative
+Therapies in Health and Medicine, 17, 16 –23.
+Chang, Y. H., Oh, T. H., Lee, J. W., Park, S. C., Seo, I. Y., Jeong, H. J., & Kwon, W. A. (2015). Listening to music during trans-
+rectal ultrasound-guided prostate biopsy decreases anxiety, pain and dissatisfaction in patients: A pilot randomized
+controlled trial. Urologia Internationalis, 94, 337 –341. doi:10.1159/000368420
+Chang, H. C., Yu, C. H., Chen, S. Y., & Chen, C. H. (2015). The e ﬀects of music listening on psychosocial stress and maternal-
+fetal attachment during pregnancy. Complementary Therapies in Medicine ,23, 509 –515. doi:10.1016/j.ctim.2015.05.002
+Chang, M. Y., Chen, C. H., & Huang, K. F. (2008). Eﬀ ects of music therapy on psychological health of women during preg-
+nancy. Journal of Clinical Nursing ,17, 2580 –2587. doi:10.1111/j.1365 –2702.2007.02064.x
+de la Torre-Luque, A., Caparros-Gonzalez, R. A., Bastard, T., Vico, F. J., & Buela-Casal, G. (2017a). Acute stress recovery
+through listening to Melomics relaxing music: A randomized controlled trial. Nordic Journal of Music Therapy ,26,
+124–141. doi:10.1080/08098131.2015.1131186
+de la Torre-Luque, A., Díaz-Piedra, C., & Buela-Casal, G. (2017b). Eﬀ ects of preferred relaxing music after acute stress
+exposure: A randomized controlled trial. Psychology of Music ,6, 795 –813. doi:10.1177/0305735617689953
+DeMarco, J., Alexander, J. L., Nehrenz, G., & Gallagher, L. (2012). The bene ﬁt of music for the reduction of stress and
+anxiety in patients undergoing elective cosmetic surgery. Music and Medicine ,4,4 4 –48. doi:10.117 7/
+19438621
+11424416
+Di Nasso, L., Nizzardo, A., Pace, R., Pierleoni, F., Pagavino, G., & Giuliani, V. (2016). Clinical research: In ﬂuences of 432 hz
+music on the perception of anxiety during endodontic treatment: A randomized controlled clinical trial. Journal of
+Endodontics ,42, 1338 –1343. doi:10.1016/j.joen.2016.05.015
+Doğan, M. V., & Şenturan, L. (2012). The e ﬀect of music therapy on the level of anxiety in the patients undergoing cor-
+onary angiography. Open Journal of Nursing ,2, 165 –169. doi:10.4236/ojn.2012.23025
+Doro, C. A., Neto, J. Z., Doro, M. P., & Cunha, R. (2017). Music therapy improves the mood of patients undergoing hema-
+topoietic stem cells transplantation (controlled randomized study). Supportive Care in Cancer ,25, 1013 –1018. doi:10.
+1007/s00520 –016–3529 –z
+Drzymalski, D. M., Tsen, L. C., Palanisamy, A., Zhou, J., Huang, C. C., & Kodali, B. S. (2017). A randomized controlled trial of
+music use during epidural catheter placement on laboring parturient anxiety, pain, and satisfaction. Anesthesia &
+Analgesia ,124, 542 –547. doi:10.1213/ANE.0000000000001656
+El-Hassan, H., McKeown, K., & Muller, A. F. (2009). Clinical trial: Music reduces anxiety levels in patients attending for endo-
+scopy. Alimentary Pharmacology & Therapeutics ,30, 718 –724. doi:10.1111/j.1365 –2036.2009.04091.x316 M .D EW I T T EE TA L .
+Ghetti, C. M. (2013). E ﬀect of music therapy with emotional-approach coping on preprocedural anxiety in cardiac cathe-
+terization: A randomized controlled trial. Journal of Music Therapy ,50,9 3 –122. doi:10.1093/jmt/50.2.93
+Ghezeljeh, T. N., Ardebili, F. M., Ra ﬁi, F., & Haghani, H. (2017). The e ﬀects of patient-preferred music on anticipatory
+anxiety, post-procedural burn pain and relaxation level. European Journal of Integrative Medicine ,9, 141 –147.
+doi:10.1016/j.eujim.2016.12.004
+Gómez-Urquiza, J. L., Hueso-Montoro, C., Urquiza-Olmo, J., Ibarrondo-Crespo, R., González-Jiménez, E., & Schmidt-Riovalle,
+J. (2016). A randomized controlled trial of the e ﬀect of a photographic display with and without music on pre-oper-
+ative anxiety. Journal of Advanced Nursing ,72, 1666. doi:10.1111/jan.12937
+Graversen, M., & Sommer, T. (2013). Perioperative music may reduce pain and fatigue in patients undergoing laparo-
+scopic cholecystectomy. Acta Anaesthesiologica Scandinavica ,57, 1010 –1016. doi:10.1111/aas.12100
+Groener, J. B., Neus, I., Kopf, S., Hartmann, M., Schanz, J., Kliemank, E., …Nawroth, P. P. (2015). Group singing as a therapy
+during diabetes training: A randomized controlled pilot study. Experimental and Clinical Endocrinology & Diabetes ,123,
+617–621. doi:10.1055/s-0035-1555941
+Gupta, U., & Gupta, B. S. (2015). Psychophysiological reactions to music in male coronary patients and healthy controls.
+Psychology of Music ,43, 736 –755. doi:10.1177/0305735614536754
+Hamel, W. J. (2001). The e ﬀects of music intervention on anxiety in the patient waiting for cardiac catheterization.
+Intensive and Critical Care Nursing ,17, 279 –285. doi:10.1054/iccn.2001.1594
+Hamidi, N., & Ozturk, E. (2017). The e ﬀect of listening to music during percutaneous nephrostomy tube placement on
+pain, anxiety, and success rate of procedure: A randomized prospective study. Journal of Endourology ,31, 457 –460.
+doi:10.1089/end.2016.0843
+Hammer, S. H. (1996). The e ﬀects of guided imagery through music on state and trait anxiety . Journal of Music Therapy ,33,
+47–70.doi:10.1093/jmt/33.1.47
+Han, L., Li, J. P., Sit, J. W., Chung, L., Jiao, Z. Y., & Ma, W. G. (2010). Eﬀ ects of music intervention on physiological stress
+response and anxiety level of mechanically ventilated patients in China: A randomised controlled trial. Journal of
+Clinical Nursing ,19,978–987. doi:10.1111 /j.1365-2702.2009.02845.x
+Hayes, A., Bu ﬀum, M., Lanier, E., Rodahl, E., & Sasso, C. (2003). A music intervention to reduce anxiety prior to gastroin-
+testinal procedures. Gastroenterology Nursing ,26, 145 –149. doi:10.1097/00001610-200307000-00002
+Horne-Thomson, A., & Grocke, D. (2008). The e ﬀect of music therapy on anxiety in patients who are terminally ill. Journal
+of Palliative Medicine ,11, 582 –590. doi:10.1089/jpm.2007.0193
+Hook, L., Songwathana, P., & Petpichetchian, W. (2008). Music therapy with female surgical patients: Eﬀ ect on anxiety and
+pain. Paciﬁc Rim International Journal of Nursing Research, 12, 259 –271. Retrieved from https://scinapse.io/papers/
+1564375600
+Hsu, K. C., Chen, L. F., & Hsiep, P. H. (2016). Eﬀ ect of music intervention on burn patients ’pain and anxiety during dressing
+changes. Burns ,42, 1789 –1796. doi:10.1016/j.burns.2016.05.006
+Jeppesen, E., Pedersen, C. M., Larsen, K. R., Rehl, A., Bartholdy, K., Walsted, E. S., & Backer, V. (2016). Music does not alter
+anxiety in patients with suspected lung cancer undergoing bronchoscopy: A randomised controlled trial. European
+Clinical Respiratory Journal ,3, 33472. doi:10.1038/eye.2016.16010.3402/ecrj.v3.33472
+Jiménez-Jiménez, M., García-Escalona, A., Martín-López, A., De Vera-Vera, R., & De Haro, J. (2013). Intraoperative stress and
+anxiety reduction with music therapy: A controlled randomized clinical trial of e ﬃcacy and safety. Journal of Vascular
+Nursing ,31, 101 –106. doi:10.1016/j.jvn.2012.10.002
+Johnson, B., Raymond, S., & Goss, J. (2012). Perioperative music or headsets to decrease anxiety. Journal of PeriAnesthesia
+Nursing ,27, 146 –154. doi:10.1016/j.jopan.2012.03.001
+Kahloul, M., Mhamdi, S., Nakhli, M. S., Sfeyhi, A. N., Azzaza, M., Chaouch, A., & Naija, W. (2017). Eﬀ ects of music therapy
+under general anesthesia in patients undergoing abdominal surgery. Libyan Journal of Medicine ,12, 1260886.
+doi:10.1080/19932820.2017.1260886
+Kar, S. K., Ganguly, T., Roy, S. S., & Goswami, A. (2015). Eﬀ ect of Indian classical music (Raga therapy) on fentanyl, vecur-
+onium, propofol requirements and cortisol levels in cardiopulmonary bypass. Journal of Anesthesia & Critical Care ,2,
+00047. doi:10.154 06/jaccoa.2015.0 2.00047
+Kahloul, M., Mhamdi, S., Nakhli, M. S., Sfeyhi, A. N., Azzaza, M., Chaouch, A., & Naija, W. (2017). Eﬀ ects of music therapy
+under general anesthesia in patients undergoing abdominal surgery. Libyan Journal of Medicine ,12, 1260886.
+doi:10.1080/19932820.2017.1260886
+Ko, C. H., Chen, Y. Y., Wu, K. T., Wang, S. C., Yang, J. F., Lin, Y. Y., …Hsieh, M. H. (2017). Eﬀ ect of music on level of anxiety in
+patients undergoing colonoscopy without sedation. Journal of the Chinese Medical Association ,80, 154 –160. doi:10.
+1016/j.jcma.2016.08.010
+Kunikullaya, K. U., Goturu, J., Muradi, V., Hukkeri, P. A., Kunnavil, R., Doreswamy, V., …Murthy, N. S. (2015). Music versus
+lifestyle on the autonomic nervous system of prehypertensives and hypertensives: A randomized control trial.
+Complementary Therapies in Medicine ,23, 733 –740. doi:10.1016/j.ctim.2015.08.003
+Kushnir, J., Friedman, A., Ehrenfeld, M., & Kushnir, T. (2012). Coping with preoperative anxiety in cesarean section:
+Physiological, cognitive, and emotional e ﬀects of listening to favorite music. Birth ,39, 121 –127. doi:10.1111/j.1523 –
+536X.2012.00532.xHEALTH PSYCHOLOGY REVIEW 317
+Lai, H. L., & Li, Y. M. (2011). The e ﬀect of music on biochemical markers and self-perceived stress among ﬁrst-line nurses: A
+randomized controlled crossover trial. Journal of Advanced Nursing ,67, 2414 –2424. doi:10.1111/j.1365 –2648.2011.
+05670.x
+Lai, H. L., Hwang, M. J., Chen, C. J., Chang, K. F., Peng, T. C., & Chang, F. M. (2008). Randomised controlled trial of music on
+state anxiety and physiological indices in patients undergoing root canal treatment. Journal of Clinical Nursing ,17,
+2654 –2660. doi:10.1111/j.1365 –2702.2008.02350.x
+Lai, H. L., Liao, K. W., Huang, C. Y., Chen, P. W., & Peng, T. C. (2013). E ﬀects of music on immunity and physiological
+responses in healthcare workers: A randomized controlled trial. Stress and Health ,29,9 1 –98.doi:10.1002/smi.2429
+Latha, R., Srikanth, S., Sairaman, H., & Dity, N. R. E. (2014). Eﬀ ect of music on heart rate variability and stress in medical
+students. International Journal of Clinical and Experimental Physiology ,1, 131 –134. doi:10.4103/2348 –8093.137409
+Leardi, S., Pietroletti, R., Angeloni, G., Necozione, S., Ranalletta, G., & Del Gusto, B. (2007). Randomized clinical trial exam-
+ining the e ﬀect of music therapy in stress response to day surgery. British Journal of Surgery ,94, 943 –947. doi:10.1002/
+bjs.5914
+Lee, K. C., Chao, Y. H., Yiin, J. J., Chiang, P. Y., & Chao, Y. F. (2011). Eﬀ ectiveness of di ﬀerent music-playing devices for redu-
+cing preoperative anxiety: A clinical control study. International Journal of Nursing Studies ,48, 1180 –1187. doi:10.1016/
+j.ijnurstu.2011.04.001
+Lee, K. S., Jeong, H. C., Yim, J. E., & Jeon, M. Y. (2016). Eﬀ ects of music therapy on the cardiovascular and autonomic
+nervous system in stress-induced university students: A randomized controlled trial. The Journal of Alternative and
+Complementary Medicine ,22,5 9 –65.doi:10.1089/acm.2015.0079
+Lee, C. H., Lee, C. Y., Hsu, M. Y., Lai, C. L., Sung, Y. H., Lin, C. Y., & Lin, L. Y. (2017). E ﬀects of music intervention on state
+anxiety and physiological indices in patients undergoing mechanical ventilation in the intensive care unit: A random-
+ized controlled trial. Biological Research for Nursing ,19, 137 –144. doi:10.1177/1099800416669601
+Lee, W.
+L., Sung, H. C., Liu, S. H., & Chang, S. M. (2017). Meditative music listening to reduce state anxiety in patients during
+the uptake phase before positron emission tomography (PET) scans. The British Journal of Radiology ,90, 20160466.
+doi:10.1259/bjr.20160466
+Lee, W., Wu, P., Lee, M., Ho, L., & Shih, W. (2017). Music listening alleviates anxiety and physiological responses in patients
+receiving spinal anesthesia. Complementary Therapies in Medicine ,31,8 –13.doi:10.1016/j.ctim.2016.12.006
+Lin, M. F., Hsieh, Y. J., Hsu, Y. Y., Fetzer, S., & Hsu, M. C. (2011). A randomised controlled trial of the e ﬀect of music therapy
+and verbal relaxation on chemotherapy-induced anxiety. Journal of Clinical Nursing ,20, 988 –999. doi:10.1111/j.1365 –
+2702.2010.03525.x
+Lin, Y. J., Lu, K. C., Chen, C. M., & Chang, C. C. (2012). The e ﬀects of music as therapy on the overall well-being of elderly
+patients on maintenance hemodialysis. Biological Research for Nursing, 14, 277 –285. doi:10.1177/1099800411413259
+López-Cepero Andrada, J. M., Amaya Vidal, A., Castro Aguilar-Tablada, T., García Reina, I., Silva, L., Ruiz Guinaldo, A., …
+Benítez Roldán, A. (2004). Anxiety during the performance of colonoscopies: Modi ﬁcation using music therapy.
+European Journal of Gastroenterology & Hepatology ,16, 1381 –1386. doi:10.1097/00042737-200412000-00024
+Mahdipour Raberi, R., & Nematollahi, M. (2012). The e ﬀect of the music listening and the intensive care unit visit program
+on the anxiety, stress and depression levels of the heart surgery patients candidates. Journal of Critical Care Nursing ,5,
+e7060. Retrieved from http://www.sid.ir/En/Journal/ViewPaper.aspx?ID=286132
+Mandel, S. E., Hanser, S. B., Secic, M., & Davis, B. A. (2007). Eﬀ ects of music therapy on health-related outcomes in cardiac
+rehabilitation: A randomized controlled trial. Journal of Music Therapy ,44, 176 –197. doi:10.1093/jmt/44.3.176
+Menegazzi, J. J., Paris, P. M., Kersteen, C. H., Flynn, B., & Trautman, D. E. (1991). A randomized, controlled trial of the use of
+music during laceration repair. Annals of Emergency Medicine ,20, 348 –350. doi:10.1016/S0196-0644(05)81652-X
+Miyata, K., Odanaka, H., Nitta, Y., Shimoji, S., Kanehira, T., Kawanami, M., & Fujisawa, T. (2016). Music before dental surgery
+suppresses sympathetic activity derived from preoperative anxiety: A randomized controlled trial. JDR Clinical &
+Translational Research ,1, 153 –162. doi:10.1177/2380084416650613
+Ng, M. Y., Karimzad, Y., Menezes, R. J., Wintersperger, B. J., Li, Q., Forero, J., …Nguyen, E. T. (2016). Randomized controlled
+trial of relaxation music to reduce heart rate in patients undergoing cardiac CT. European Radiology ,26, 3635 –3642.
+doi:10.10 07/s00330-016-
+4215-8
+Ni, C. H., Tsai, W. H., Lee, L. M., Kao, C. C., & Chen, Y. C. (2012). Minimising preoperative anxiety with music for day surgery
+patients: A randomised clinical trial. Journal of Clinical Nursing ,21, 620 –625. doi:10.1111/j.1365-2702.2010.03466.x
+Nilsson, U. (2009). The e ﬀect of music intervention in stress response to cardiac surgery in a randomized clinical trial.
+Heart & Lung ,38, 201 –207. doi:10.1016/j.hrtlng.2008.07.008
+Nilsson, U., Unosson, M., & Rawal, N. (2005). Stress reduction and analgesia in patients exposed to calming music post-
+operatively: A randomized controlled trial. European Journal of Anaesthesiology ,22,9 6 –102. doi:10.1017/
+S0265021505000189
+O’Callaghan, C., Sproston, M., Wilkinson, K., Willis, D., Milner, A., Grocke, D., & Wheeler, G. (2012). Eﬀ ect of self-selected
+music on adults ’anxiety and subjective experiences during initial radiotherapy treatment: A randomised controlled
+trial and qualitative research. Journal of Medical Imaging and Radiation Oncology ,56, 473 –477. doi:10.1111/j.1754 –
+9485.2012.02395.x318 M .D EW I T T EE TA L .
+Padam, A., Sharma, N., Sastri, O. S., Mahajan, S., Sharma, R., & Sharma, D. (2017). E ﬀect of listening to Vedic chants and
+Indian classical instrumental music on patients undergoing upper gastrointestinal endoscopy: A randomized
+control trial. Indian Journal of Psychiatry ,59, 214 –218. doi:10.4103/psychiatry.IndianJPsychiatry_314_16
+Pothoulaki, M., MacDonald, R. A. R., Flowers, P., Stamataki, E., Filiopoulos, V., Stamatiadis, D., & Stathakis, C. P. (2008). An
+investigation of the e ﬀects of music on anxiety and pain perception in patients undergoing haemodialysis treatment.
+Journal of Health Psychology, 13, 912 –920. doi:10.1177/1359105308095065
+Radstaak, M., Geurts, S. A., Brosschot, J. F., & Kompier, M. A. (2014). Music and psychophysiological recovery from stress.
+Psychosomatic Medicine ,76, 529 –537. doi:10.1097/PSY.0000000000000094
+Romito, F., Lagattolla, F., Costanzo, C., Giotta, F., & Mattioli, V. (2013). Music therapy and emotional expression during che-
+motherapy: How do breast cancer patients feel? European Journal of Integrative Medicine ,5, 438 –442. doi:10.1016/j.
+eujim.2013.04.001
+Ripley, L., Christopoulos, G., Michael, T. T., Alomar, M., Rangan, B. V., Roesle, M., …Brilakis, E. S. (2014). Randomized con-
+trolled trial on the impact of music therapy during cardiac catheterization on reactive hyperemia index and patient
+satisfaction: The Functional change in Endothelium after cardiac Catheterization, with and without Music Therapy
+(FEAT) study. The Journal of Invasive Cardiology ,26, 437 –442. Retrieved from https://www.invasivecardiology.com/
+articles/randomized-controlled-trial-impact-music-therapy-during-cardiac-catheterization-reactive
+Salehi, B., Salehi, M., Nsirnia, K., Soltani, P., Adalatnaghad, M., Kalantari, N., …Moghaddam, S. (2016). The e ﬀects of
+selected relaxing music on anxiety and depression during hemodialysis: A randomized crossover controlled clinical
+trial study. The Arts in Psychotherapy ,48,7 6 –80.doi:10.1016/j.aip.2016.03.003
+Sanal, A. M., & Gorsev, S. (2014). Psychological and physiological e ﬀects of singing in a choir. Psychology of Music ,42, 420 –
+429. doi:10.1177/0305735613477181
+Sendelbach, S. E., Halm, M. A., Doran, K. A., Miller, E. H., & Gaillard, P. (2006). Eﬀ ects of music therapy on physiological and
+psychological outcomes for patients undergoing cardiac surgery. Journal of Cardiovascular Nursing ,21, 194 –200.
+doi:10.1097/00005082-200605000-00007
+Shabanloei, R., Golchin, M., Esfahani, A., Dolatkhah, R., & Rasoulian, M. (2010). E ﬀects of music therapy on pain and anxiety in
+patients undergoing bone marrow biopsy and aspiration. AORN Journal ,91,7 4 6 –751. doi:10.1016/j.aorn.2010.04.001
+Shin, H. S., & Kim, J. H. (2011). Music therapy on anxiety, stress and maternal-fetal attachment in pregnant women during
+transvaginal ultrasound. Asian Nursing Research ,5,1 9 –27.doi:10.1016/S1976-1317(11)60010-8
+Simavli, S., Kaygusuz, I., Gumus, I., Usluogullar ı, B., Yildirim, M., & Kafali, H. (2014). Eﬀ ect of music therapy during vaginal delivery
+on postpartum pain relief and mental health. Journal of A ﬀective Disorders ,156, 194– 199. doi:10.1016/j.jad.2013.12.027
+Smith, M. (2008). The e ﬀects of a single music relaxation session on state anxiety levels of adults in a workplace environ-
+ment. The Australian Journal of Music Therapy ,19,4 5 –66. Retrieved from https://www.austmta.org.au/journal/article/
+eﬀects-single-music-relaxation-session-state-anxiety-levels-adults-workplace
+Solomon, E. R., & Ridgeway, B. (2016). Interventions to decrease pain and anxiety in patients undergoing urodynamic
+testing: A randomized controlled trial. Neurourology & Urodynamics, 35, 975. doi:10.1002/nau.22840
+Soo, M. S., Jarosz, J. A., Wren, A. A., Soo, A. E., Mowery, Y. M., Johnson, K. S., …Shelby, R. A. (2016). Imaging-guided core-
+needle breast biopsy: Impact of meditation and music interventions on patient anxiety, pain, and fatigue. Journal of
+the American College of Radiology ,13, 526 –534. doi:10.1016/j.jacr.2015.12.004
+Stein, T. R., Olivo, E. L., Grand, S. H., Namerow, P. B., Costa, J., & Oz, M. C. (2010). A pilot study to assess the e ﬀects of a
+guided imagery audiotape intervention on psychological outcomes in patients undergoing coronary artery bypass
+graft surgery. Holistic Nursing Practice ,24, 213 –222. doi:10.1097/HNP.0b013e3181e90303
+Su, C. P., Lai, H. L., Chang, E. T., Yiin, L. M., Perng, S. J., & Chen, P. W. (2013). A randomized controlled trial of the e ﬀects of
+listening to non-commercial music on quality of nocturnal sleep and relaxation indices in patients in medical intensivecare unit. Journal of Advanced Nursing, 69, 1377 –1389. doi:10.1111/j.1365 –2648.2012.06130.x
+Tabrizi, E. M., Sahraei, H., Rad, S. M., Hajizadeh, E., & Lak, M. (2012). The e ﬀect of music on the level of cortisol, blood
+glucose and physiological variables in patients undergoing spinal anesthesia. EXCLI Journal ,11, 556– 565. doi:10.
+17877/DE290R-10357
+Tan, Y. Z., Ozdemir, S., Temiz, A., & Celik, F. (2015). The e ﬀect of relaxing music on heart rate and heart rate variability
+during ECG GATED-myocardial perfusion scintigraphy. Complementary Therapies in Clinical Practice ,21, 137 –140.
+doi:10.10 16/j.ctcp.201 
+4.12.003
+Thoma, M. V., Zemp, M., Kreienbühl, L., Hofer, D., Schmidlin, P. R., Attin, T., …Nater, U. M. (2015). Eﬀ ects of music listening
+on pre-treatment anxiety and stress levels in a dental hygiene recall population. International Journal of Behavioral
+Medicine ,22, 498 –505. doi:10.1007/s12529-014-9439-x
+Toker, E., & Kömürcü, N. (2017). E ﬀect of Turkish classical music on prenatal anxiety and satisfaction: A randomized con-
+trolled trial in pregnant women with pre-eclampsia. Complementary Therapies in Medicine ,30,1–9.doi:10.1016/j.ctim.
+2016.11.005
+Triller, N., Er žen, D., Duh, Š., Primo žič, M. P., & Ko šnik, M. (2006). Music during bronchoscopic examination: The physio-
+logical e ﬀects. Respiration ,73,9 5–99.doi:10.1159/000089818
+Uedo, N., Ishikawa, H., Morimoto, K., Ishihara, R., Narahara, H., Akedo, I., …Fukuda, S. (2004). Reduction in salivary cortisol
+level by music therapy during colonoscopic examination. Hepato-gastroenterology, 51, 451 –453. Retrieved from
+https://europepmc.org/abstract/med/15086180HEALTH PSYCHOLOGY REVIEW 319
+Vachiramon, V., Sobanko, J. F., Rattanaumpawan, P., & Miller, C. J. (2013). Music reduces patient anxiety during Mohs
+surgery: An open-label randomized controlled trial. Dermatologic Surgery ,39, 298 –305. doi:10.1111/dsu.12047
+Vickers, A. (2003). Music therapy for mood disturbance during hospitalization for autologous stem cell transplantation: A
+randomized controlled trial. Cancer ,98, 2723 –2729. doi:10.1097/10.1002/cncr.11842
+Voss, J. A., Good, M., Yates, B., Baun, M. M., Thompson, A., & Hertzog, M. (2004). Sedative music reduces anxiety and pain
+during chair rest after open-heart surgery. Pain,112, 197 –203. doi:10.1016/j.pain.2004.08.020
+Wang, Y., Tang, H., Guo, Q., Liu, J., Liu, X., Luo, J., & Yang, W. (2015). Eﬀ ects of intravenous patient-controlled sufentanil
+analgesia and music therapy on pain and hemodynamics after surgery for lung cancer: A randomized parallel study.
+The Journal of Alternative and Complementary Medicine ,21, 667 –672. doi:10.1089/acm.2014.0310
+Warth, M., Kessler, J., Hillecke, T. K., & Bardenheuer, H. J. (2016). Trajectories of terminally ill patients ’cardiovascular
+response to receptive music therapy in palliative care. Journal of Pain and Symptom Management, 52, 196 –204.
+doi:10.1016/j.jpainsymman.2016.01.008
+White, J. M. (1992). Music therapy: An intervention to reduce anxiety in the myocardial infarction patient. Clinical Nurse
+Specialist ,6,5 8 –63. Retrieved from https://europepmc.org/abstract/med/1617576
+Wiwatwongwana, D., Vichitvejpaisal, P., Thaikruea, L., Klaphajone, J., Tantong, A., & Wiwatwongwana, A. (2016). The e ﬀect
+of music with and without binaural beat audio on operative anxiety in patients undergoing cataract surgery: A ran-
+domized controlled trial. Eye,30, 1407 –1414. doi:10.1038/eye.2016.160
+Yeo, J. K., Cho, D. Y., Oh, M. M., Park, S. S., & Park, M. G. (2013). Listening to music during cystoscopy decreases anxiety,
+pain, and dissatisfaction in patients: A pilot randomized controlled trial. Journal of Endourology ,27, 459 –462. doi:10.
+1089/end.2012.0222
+Zengin, S., Kabul, S., Al, B., Sarcan, E., Do ğan, M., & Yildirim, C. (2013). Eﬀ ects of music therapy on pain and anxiety in
+patients undergoing port catheter placement procedure. Complementary Therapies in Medicine, 21, 689 –696. doi:10.
+1016/j.ctim.2013.08.017
+Zhang, Z. S., Wang, X. L., Xu, C. L., Zhang, C., Cao, Z., Xu, W. D., …Sun, Y. H. (2014). Music reduces panic: An initial study of
+listening to preferred music improves male patient discomfort and anxiety during ﬂexible cystoscopy. Journal of
+Endourology ,28, 739 –744. doi:10.10 89/end.2013.07 05
+Appendices
+Appendix 1
+Table A1. Characteristics of included studies.
+Authors Year NImpact
+factorStudy
+qualityType of
+measuresType of
+outcome
+(s)Physiological
+measureType
+setting Intervention
+Aba et al. 2017 186 1.379 Strong psych Anxiety – Med-
+procMA
+Allen et al. 2000 40 4.58 Strong phys Stress BP, HR Surgery MA
+Ames et al. 2017 41 – Strong psych Anxiety – Surgery MA
+Angioli et al. 2014 372 1.283 Moderate phys,
+psychStress,
+AnxietyBP, HR Med-
+procMA
+Bally et al. 2003 107 1.326 Strong psych Anxiety – Med-
+procMA
+Bauer et al. 2010 80 2.05 Strong psych Stress – Med-
+procMT
+Beck et al. 2015 20 0.8 Weak phys,
+psychStress Horm Non-
+medMT
+Bekiroglu et al. 2013 60 1.935 Moderate phys Stress BP Med-
+procMA
+Bringman et al. 2009 326 2.322 Moderate phys,
+psychStress,
+AnxietyBP, HR Surgery MA
+Buﬀum et al. 2006 170 0.524 Weak phys,
+psychStress,
+AnxietyBP, HR Surgery MA
+Bulfone et al. 2009 60 0.659 Moderate psych Anxiety – Med-
+procMA
+Camara et al. 2008 203 1.17 Weak phys Stress BP, HR Surgery MA
+Cassileth et al. 2003 62 6.072 Moderate psych Anxiety – Med-
+procMT
+(Continued )320 M .D EW I T T EE TA L .
+Table A1. Continued.
+Authors Year NImpact
+factorStudy
+qualityType of
+measuresType of
+outcome
+(s)Physiological
+measureType
+setting Intervention
+Chan et al. 2006 43 1.197 Weak phys Stress BP, HR Med-
+procMA
+Chen et al. 2012 73 1.754 Strong psych Anxiety – Med-
+procMA
+Cutshall et al. 2011 100 1.243 Weak phys,
+psychStress BP, HR Surgery MA
+Chang et al. 2015 76 1.426 Weak phys Stress BP, HR Med-
+procMA
+Chang Yu, Chen &
+Chen2015 296 1.545 Strong psych Stress – Med-
+procMA
+Chang et al. 2008 236 1.255 Strong psych Stress – Med-
+procMA
+De la Torre-Luque
+et al.2017a 21 1.296 Strong phys,
+psychStress,
+AnxietyHR Non-
+medMA
+De la Torre-Luque
+et al.2017b 58 1.394 Strong phys,
+psychStress,
+AnxietyHR Non-
+medMA
+DeMarco et al. 2012 26 – Moderate phys,
+psychStress,
+AnxietyBP, HR Surgery MA
+Di Nasso et al. 2016 100 2.807 Moderate phys Stress BP, HR Med-
+procMA
+Doğan & Şenturan 2012 200 – Strong psych Anxiety – Med-
+procMA
+Doro et al. 2016 100 2.698 Moderate psych Anxiety – Med-
+procMT
+Drzymalski et al. 2017 99 3.14 Moderate phys Stress BP, HR Med-
+procMA
+El-Hassan et al. 2009 180 5.727 Weak psych Anxiety – Med-
+procMA
+Elliott 1994 38 1.657 Strong phys,
+psychStress,
+AnxietyBP, HR Med-
+procMA
+Ghetti 2013
+23 1.185 Moderate phys,
+psychStress,
+AnxietyBP, HR Med-
+procMT
+Ghezeljeh et al. 2017 92 0.801 Strong psych Anxiety – Med-
+procMA
+Gomez-Urquiza
+et al.2016 120 1.998 Moderate phys,
+psychStress,
+AnxietyBP, HR Surgery MA
+Graversen &
+Sommer2013 75 2.232 Weak phys Stress Horm Surgery MA
+Groener et al. 2015 35 1.555 Moderate psych Stress – Med-
+procMA
+Gupta & Gupta 2015 60 1.9 Strong phys,
+psychStress,
+AnxietyBP, HR Non-
+medMA
+Guzetta 1989 53 1.657 Strong phys Stress HR Med-
+procMA
+Hamel 2001 101 1.326 Strong phys,
+psychStress,
+AnxietyBP, HR Med-
+procMA
+Hammer 1996 16 1 Strong psych Anxiety – Non-
+medMT
+Hamidi & Ozturk 2017 100 2.27 Strong phys,
+psychStress,
+AnxietyBP, HR Med-
+procMA
+Han et al. 2010 137 1.255 Strong phys,
+psychStress,
+AnxietyBP, HR Surgery MA
+Horne-Thomson &
+Grocke2008 25 2.023 Moderate phys Stress HR Non-
+medMT
+Hook et al. 2008 110 – Strong psych Anxiety – Surgery MA
+Hsu et al. 2016 70 2.056 Moderate psych Anxiety – Med-
+procMA
+Hayes et al. 2003 198 0.671 Weak psych Anxiety – Med-
+procMA
+(Continued )HEALTH PSYCHOLOGY REVIEW 321
+Table A1. Continued.
+Authors Year NImpact
+factorStudy
+qualityType of
+measuresType of
+outcome
+(s)Physiological
+measureType
+setting Intervention
+Jeppesen et al. 2016 143 – Moderate psych Anxiety – Surgery MA
+Jiménez-Jiménez
+et al.2013 40 0.211 Strong phys Stress BP, HR, Horm Surgery MA
+Johnson et al. 2012 119 0.662 Strong psych Anxiety – Surgery MA
+Kar et al. 2015 34 – Moderate phys Stress Horm Surgery MA
+Ko et al. 2017 138 1.252 Weak psych Anxiety – Med-
+procMA
+Kunikullaya et al. 2015 88 0.922 Strong phys,
+psychStress,
+AnxietyBP, HR, Horm Med-
+procMA
+Kushnir et al. 2012 60 1.264 Strong phys Stress BP, HR Surgery MA
+Lai & Li 2011 54 1.741 Strong phys,
+psychStress BP, HR, Horm Non-
+medMA
+Lai et al. 2008 44 1.255 Strong phys,
+psychStress,
+AnxietyBP, HR Med-
+procMA
+Lai et al. 2013 60 1.814 Strong phys Stress BP, HR Non-
+medMA
+Latha et al. 2014 80 – Moderate phys Stress BP, HR Non-
+medMA
+Leardi et al. 2007 60 5.596 Moderate phys Stress Horm Med-
+procMA
+Lee et al. 2016 64 1.585 Moderate phys,
+psychStress BP Non-
+medMA
+Lee et al. 2012 140 1.427 Strong phys,
+psychStress,
+AnxietyHR, HRV Surgery MA
+Lee, Lai, Sung et al. 2017 85 2.344 Strong phys,
+psychStress,
+AnxietyBP, HR Med-
+procMA
+Lee, Lee, Hsu et al. 2017 85 1.549 Strong phys,
+psychStress,
+AnxietyBP, HR Surgery MA
+Lee, Wu, Lee et al. 2017 100 2.013 Weak phys,
+psychStress,
+AnxietyBP, HR Surgery MA
+Lin et al. 2011 98 1.384 Strong psych Anxiety – Med-
+procMA
+Lin et al. 2012 88 1.604 Moderate phys,
+psychStress BP, HR Med-
+procMA
+López-Ce pero
+Andrada2004
+118 2.253 Moderate psych Anxiety – Med-
+procMA
+Mahdipour et al. 2012 150 – Moderate psych Stress,
+Anxiety– Surgery MA
+Mandel et al. 2007 68 0.8 Weak phys,
+psychStress,
+AnxietyBP Surgery MT
+Menegazzi et al. 1991 38 4.58 Weak phys Stress BP, HR Med-
+procMA
+Ng et al. 2016 197 3.64 Strong psych Anxiety – Med-
+procMA
+Miyata et al. 2016 42 – Strong phys,
+psychStress,
+AnxietyHR Med-
+procMA
+Ni et al. 2011 172 1.384 Weak phys,
+psychAnxiety BP, HR Surgery MA
+Nilsson 2009 58 1.332 Strong phys Stress BP, HR, Horm Surgery MA
+Nilsson et al. 2005 75 3.634 Strong phys Stress,
+AnxietyBP, HR, Horm Surgery MA
+O’Callaghan et al. 2012 97 1.182 Moderate psych Anxiety – Med-
+procMA
+Padam et al. 2017 132 0.81 Strong phys,
+psychStress,
+AnxietyBP, HR Med-
+procMA
+Pothoulaki et al. 2008 60 1.748 Weak psych Anxiety – Med-
+procMA
+Radstaak et al. 2014 123 3.473 Strong psych Stress – Non-
+medMA
+Romito et al. 2013 62 0.769 Strong psych Stress,
+Anxiety– Med-
+procMT
+(Continued )322 M .D EW I T T EE TA L .
+Table A1. Continued.
+Authors Year NImpact
+factorStudy
+qualityType of
+measuresType of
+outcome
+(s)Physiological
+measureType
+setting Intervention
+Ripley et al. 2014 70 0.824 Moderate phys Stress BP, HR Med-
+procMA
+Salehi et al. 2016 166 0.972 Strong psych Anxiety – Med-
+procMA
+Sanal & Gorsev 2014 70 0.647 Weak psych Anxiety – Non-
+medMA
+Sendelbach et al. 2006 86 2.172 Moderate phys,
+psychStress,
+Anxiety– Surgery MA
+Shabanloei et al. 2010 100 0.24 Moderate psych Anxiety BP, HR Med-
+procMA
+Shin & Kim 2011 233 0.849 Moderate psych Stress,
+Anxiety– Med-
+procMA
+Simavli et al. 2014 141 3.57 Moderate psych Anxiety – Med-
+procMA
+Smith 2008 80 – Weak psych Anxiety – Non-
+medMT
+Solomon &
+Ridgeway2016 66 3.56 Moderate psych Anxiety – Med-
+procMA
+Soo et al. 2016 80 2.993 Strong psych Anxiety – Med-
+procMA
+Stein et al. 2010 56 0.622 Weak psych Stress,
+Anxiety– Surgery MA
+Su et al. 2013 28 1.917 Moderate phys Stress – Surgery MA
+Tabrizi et al. 2012 90 1.292 Weak phys Stress BP, HR, Horm Surgery MA
+Tan et al. 2015 100 1.158 Moderate phys Stress BP, HR Med-
+procMA
+Thoma et al. 2015 92 2.13 Weak psych Anxiety – Med-
+procMA
+Toker & Kömürcü 2017 70 2.013 Moderate psych Anxiety – Med-
+procMA
+Triller et al. 2006 200 2.651 Moderate phys Stress BP, HR Med-
+procMA
+Uedo et al. 2004 29 0.93 Moderate phys Stress Horm Med-
+procMA
+Vachiramon et al. 2013 100 1.936 Strong psych Anxiety – Surgery MA
+Voss et al. 2004 61 5.836 Strong psych Stress,
+Anxiety– Surgery MA
+Wang
+et al. 2015 60 1.395 Strong phys,
+psychStress,
+AnxietyBP, HR Surgery MT
+Warth et al. 2016 84 2.649 Strong phys,
+psychStress HRV Med-
+procMT
+White 1992 40 0.766 Strong phys,
+psychAnxiety BP, HR Surgery MA
+Wiwatwongwana
+et al.2016 91 2.275 Strong phys,
+psychStress,
+AnxietyBP, HR Surgery MA
+Yeo et al. 2008 70 1.71 Weak phys Stress BP, HR Med-
+procMA
+Zengin et al. 2013 100 1.935 Weak phys Stress BP, HR, Horm Med-
+procMA
+Zhang et al. 2014 124 0.68 Strong psych Anxiety – Med-
+procMA
+Note: psych = psychological stress-related outcomes; phys = physiological stress-related outcomes; BP = blood pressure; HR = heart
+rate; Horm = hormone levels; HRV = heart rate variability; MA = music activity; MT = music therapy.HEALTH PSYCHOLOGY REVIEW 323
+Appendix 2
+Figure A1. Trim-and- ﬁll plot of the e ﬀects of music interventions on physiological stress-related outcomes.
+Figure A2. Trim-and- ﬁll plot for the e ﬀects of music interventions on psychological stress-related outcomes.324 M .D EW I T T EE TA L .

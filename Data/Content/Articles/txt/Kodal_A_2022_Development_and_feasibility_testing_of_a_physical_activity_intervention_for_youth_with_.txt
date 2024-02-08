@@ -1,0 +1,1063 @@
+Kodal  et al. Pilot and Feasibility Studies            (2022) 8:48  
+https://doi.org/10.1186/s40814-022-01010-6
+STUDY PROTOCOL
+Development and feasibility testing 
+of a physical activity intervention for youth 
+with anxiety and depression: a study protocol
+Arne Kodal1*, Fiona Muirhead2, John J. Reilly2, Gro Janne H. Wergeland1,3, Paul Joachim Bloch Thorsen1, 
+Lars Peder Bovim4 and Irene Bircow Elgen1,3 
+Abstract 
+Background: Anxiety and depressive disorders in children and adolescents are highly prevalent and account for 
+more than half of all youth psychiatric disorders. Left untreated, anxiety, and depression lead to numerous detrimental 
+outcomes, including reduced quality of life, psychiatric, and somatic comorbidity and even reduced lifespan. This puts 
+a large strain on child and adolescent mental healthcare services (CAMHS) to provide effective treatments. However, 
+even when provided the best evidence-based treatment, between 40–50% of patients continue to report significant 
+symptom burdens. Thus, there is an immediate need for supplemental and/or new treatment approaches. Physi-
+cal activity as a supplementary treatment may be such an approach. However, research investigating this approach 
+within this population is scant. This protocol paper describes the development and feasibility trial of a physical 
+activity-based intervention targeting anxiety and depressive symptoms in youth treated in CAMHS.
+Methods/design: The study is based on the UK Medical Council Research Framework (MRC) for developing and 
+evaluating complex interventions. Feasibility and acceptability of the physical activity intervention (confident, active, 
+and happy youth) will be evaluated in an uncontrolled open-label trial using qualitative and quantitative data. Twenty 
+youths with anxiety and/or depressive symptoms will be recruited. Acceptability of assessment procedures, the inter -
+vention, and perceived benefits and barriers to participation will be assessed, and qualitative interviews with partici-
+pants, caregivers, and referring specialists will explore contextual and practical factors associated with intervention 
+delivery. Physical activity will be measured using the Actigraph GT3X+ monitor at baseline, and post-intervention and 
+change in anxiety and depression will be assessed.
+Discussion: This study will contribute to the development of supplementary physical treatment interventions for 
+youth with anxiety and depression in contact with CAMHS. The goal is to examine new avenues of treatment that 
+ultimately may improve upon current treatment outcomes of anxiety and depression. This work will be in preparation 
+for a future definitive randomized controlled trial (RCT) of this approach, in line with the MRC Framework.
+Trial registration: ClnicalTrials.gov, NCT05 049759. Registered on August 19, 2021. Retrospectively registered.
+Keywords: Anxiety, Depression, Youth, Physical activity, Intervention
+© The Author(s) 2022. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/. The Creative Commons Public Domain Dedication waiver (http:// creat iveco  
+mmons. org/ publi cdoma in/ zero/1. 0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.Background
+Internalizing disorders in the form of anxiety and 
+depression are the most common mental health disor -
+ders among children and adolescents (hereafter youth), 
+with a prevalence of 6.5% for anxiety disorders (CI 95% Open Access
+*Correspondence:  Arne.kodal@helse-bergen.no
+1 Department of Child and Adolescent Psychiatry, Division of Psychiatry, 
+Haukeland University Hospital, p.b 1400, N-5021 Bergen, Norway
+Full list of author information is available at the end of the article
+Page 2 of 12 Kodal et al. Pilot and Feasibility Studies            (2022) 8:48 
+4.7–9.1) and 2.6% for depressive disorders (CI 95% 
+1.7–3.9) [1 , 2]. These disorders tend to develop early 
+in life, and short- and long-term consequences include 
+reduced quality of life, psychiatric and somatic comor -
+bidity, disability, loss of education and/or work, suicide, 
+and reduced life-span [3 , 4]. According to the World 
+Health Organization, anxiety, and depressive disorders 
+are major health problems with large-scale societal and 
+economic consequences (WHO, 2017). Anxiety and 
+depression are among the top five causes of overall dis -
+ease burden among youth in Europe [5 ].
+Discouragingly, even when provided the best evi -
+dence based treatment, post-treatment remission rates 
+for anxiety and depressive disorders in youth are just 
+slightly above chance, e.g., 50% (mixed anxiety: 50.7% 
+CI 45.3–56.2; depression: 53.2%, CI 34.6–70.9 [6 ]. Such 
+suboptimal treatments have adverse consequences for 
+the individual, but also place a large strain on treatment 
+services, which are dependent upon sufficient capacity 
+and effective treatment. If patients do not recover or 
+experience relapse following treatment, these patients 
+require further treatment, thus excluding new patients 
+from gaining access to treatment. In light of the high 
+prevalence of these disorders, short- and long-term 
+consequences, and the suboptimal effect of current 
+treatments, there is a pressing need for development 
+of new and supplementary interventions to improve 
+recovery rates [6 –8].
+In recent years, physical activity has gained traction 
+as a promising area in effective mental health treat -
+ments [9 , 10], and physical activity is identified as a key 
+modifiable factor in people with mental illness [11]. 
+Meta-analyses of the effects of physical activity in the 
+treatment of anxiety and depression in adult popula -
+tions indicate small to moderate effects [12– 14]. This 
+knowledge is now implemented in adult depression 
+treatment recommendations such as those provided by 
+The European Psychiatric Association [15]. The amount 
+of research on the topic in paediatrics is substantially 
+less [9 , 16]; however, new evidence is starting to accu -
+mulate. Three recent meta-analyses investigating the 
+effect of physical activity on youth depression found 
+small to moderate effects [16– 18]. Studies examin -
+ing the effects of physical activity on anxiety disorders 
+in youth are even fewer, with only one meta-analysis. 
+In this meta-analysis, Carter et  al. (2021) concluded 
+that physical activity is potentially effective in reduc -
+ing anxiety symptoms within non-clinical populations 
+of youth, while evidence within clinical (treatment 
+seeking) populations is insufficient to draw any clear 
+conclusions. All these recent meta-analyses call for 
+well-designed research with youth populations—par -
+ticularly clinical youth populations [16– 19].The mechanisms by which physical activity interven -
+tions impact anxiety and depression are complex and 
+multifaceted [20]. Limitations of previous research 
+and/or mixed results have hampered attempts to tease 
+out the specific intervention mechanisms required to 
+cause change. However, the key recent meta-analyses 
+do point to a few common ingredients across the inter -
+vention studies which had positive effects. These ingre -
+dients included supervised, aerobic-, and group-based 
+activity of moderate-to-vigorous intensity, with par -
+ticipants engaging in activities multiple times per week 
+over a time period of at least 6 to 8 weeks [16– 19]. 
+Questions concerning optimum dosage, type of activity, 
+and energy expenditure are still unclear.
+Focusing on the more specific mechanisms of effect 
+of physical activity on anxiety and depression in youth, 
+several biological, psychosocial, and behavioral fac -
+tors are likely to be involved. Neurobiological mecha -
+nisms may include processes that are disrupted or 
+dysregulated and potentially modulated by physical 
+activity. Processes may include inflammatory and oxi -
+dative stress responses, neurogenesis, modulation of 
+monoamines (e.g., serotonin), and HPA axis regulation 
+[21, 22]. Hillman et al. found that a program targeting 
+cardiorespiratory fitness resulted in increased neural 
+underpinnings of attentional resources on tasks requir -
+ing improved inhibition and cognitive flexibility [23]. 
+Deficits in inhibition and cognitive control are associ -
+ated strongly with anxiety and depression in youth [24].
+In regards to psychosocial processes, physical activ -
+ity can increase opportunities for social interaction, 
+social connectedness, and experiences of mastery and 
+can lead to increased self-efficacy and independence 
+[20, 25]. Problems and deficits within these areas are 
+closely associated with anxiety and depression in youth 
+[26, 27]. Exposure therapy is the treatment of choice 
+for anxiety disorders in youth [6 ]. Similarly, physical 
+activity is also assumed to affect anxiety and depres -
+sion through exposure towards an avoided object and/
+or situation, i.e., physical activity itself induces bodily 
+sensations and reactions that otherwise might be inter -
+preted as symptoms of anxiety and/or be negatively 
+appraised. Exposure to such sensations and reactions in 
+this setting is thus assumed to be associated with non-
+threatening experiences, leading to normalization of 
+such experiences and a more appropriate interpretation 
+of these (Kandola et al. 2018).
+In terms of behavioral mechanisms, physical activity 
+may improve sleep, self-regulation, and coping skills 
+[20]. The interplay of the mechanisms described above 
+is most likely also highly idiosyncratic to the individual, 
+based on their prior beliefs and experiences of physical 
+activity.
+Page 3 of 12
+ Kodal et al. Pilot and Feasibility Studies            (2022) 8:48 
+ 
+Development of a supplementary intervention
+The development of a supplementary physical activ -
+ity intervention took place in the Child and Adolescent 
+Mental Health Services, Haukeland University Hospital, 
+Bergen, Norway, from 2018 to 2020. A work and man -
+agement group consisting of clinicians and researchers, 
+and a trial steering committee consisting of stakeholders, 
+clinicians, users, and parents identified key intervention 
+components and a suitable delivery format. In addition, 
+the group identified and outlined necessary organiza -
+tional infrastructure, internal work procedures, and team 
+composition in order to deliver the treatments effectively.
+The target goals of the program link closely to interre -
+lated core symptoms of anxiety and depression: reduced 
+or low levels of physical activity [28], lack of confidence 
+in one’s ability to cope with situations that incites dis -
+tress and/or fear, and decreased willingness to engage in 
+and avoidance of situations that may incite distress and/
+or fear [27, 29]. Finally, a core symptom particularly with 
+depression is lowered mood. Taken together, the primary 
+aim of the intervention is to alleviate these core symp -
+toms and supplement ongoing treatment in CAMHS, 
+which translates to helping youth become more confi -
+dent, active, and happy, hence the name of the interven -
+tion: Confident, Active and Happy Youth (CAH-Y).
+The primary aims of the intervention are as follows:
+– Help youth become more confident, more happy and 
+more physically active.
+– Reduce symptoms of anxiety and depression.
+Secondary aims of the CAH-Y intervention are as 
+follows:
+• To motivate and support youths with anxiety/depres -
+sion symptoms to initiate and maintain an active life -
+style and reduce sedentary behavior.
+• To help foster integration of physical activity into 
+current treatment approaches for internalizing disor -
+ders in youth in treatment in CAMHS.
+While the effects of the physical activity itself are 
+important and required in the intervention, there is 
+also a need to address underlying reasons why youth 
+with anxiety and depression avoid and/or have diffi -
+culty doing physical activity. To this end, the CAH-Y 
+intervention draws on Self Determination Theory [25] 
+and Inhibitory Learning Theory [30]. Self Determina -
+tion Theory provides a framework with which to under -
+stand participant experiences with physical activity and 
+their motivation (as opposed to avoidance) towards 
+physical activity. The framework focuses on ways to enhance learning and intrinsic motivation concern -
+ing both increased activity and behavior and symp -
+tom change [25]. More specifically, the intervention 
+attempts to satisfy youths’ basic psychological needs for 
+autonomy (e.g., providing youth with choice), compe -
+tence (e.g., adapting exercises to meet the needs/fitness 
+levels of students), and relatedness (e.g., promoting an 
+inclusive group environment). Inhibitory learning the -
+ory provides a generic framework to understand the bi-
+directional interaction between cognition, affects, and 
+behavior in regards to anxiety and depression; in par -
+ticular the role of physical activity avoidance as a cop -
+ing and affect-regulation strategy that both causes and 
+maintains these disorders [30].
+Drawing together these theories and known compo -
+nents, a treatment manual was developed detailing a 
+supervised, therapist-led, group-based physical activity 
+programme involving aerobic exercise bi-weekly over 
+a course of 7 weeks. Further details on the interven -
+tion are detailed below in the intervention section. The 
+full treatment manual (in Norwegian) is available on 
+request by contacting the corresponding author.
+In line with guidance from the UK Medical Council 
+Research Framework (MRC) [31], the present study is 
+an initial step in determining if the developed interven -
+tion is feasible and acceptable for youth with internaliz -
+ing disorders in CAMHS. A mixed-methods approach 
+was chosen to explore indications of participants’ 
+response and view to the intervention and thereby gain 
+a more full understanding of the intervention accepta -
+bility [32]. The present study also includes a calculation 
+of effect size estimates for outcome measures to esti -
+mate the sample size of a future “definitive” randomized 
+controlled trial (RCT) as defined by the UK MRC.
+The principal aims of this study are as follows:
+1. To quantify recruitment rate, willingness to partici -
+pate, attendance, treatment retention, and adherence
+2. To assess the appropriateness and practicality of the 
+designed intervention in the proposed settings
+3. To determine the acceptability of recruitment strate -
+gies and the intervention by participants and willing -
+ness to participate
+4. To assess the appropriateness and acceptability of the 
+assessment tools
+5. To provide preliminary evidence of effects of the 
+intervention on physical activity, mood, and anx -
+iousness. This evidence will provide an initial indi -
+cation of whether the intervention can contribute to 
+change within this group. Estimated effect sizes will 
+provide the parameters for a definitive randomized 
+controlled trial.
+Page 4 of 12 Kodal et al. Pilot and Feasibility Studies            (2022) 8:48 
+Methods and design
+This protocol conforms to guidelines presented in the 
+Consolidated Standards of Reporting Trials (CONSORT) 
+[33] 2010 statement extension for randomized feasibil -
+ity studies and clinical trial protocols (see Additional file: 
+Table S1 ). The intervention component is an uncontrolled 
+open-label feasibility trial (hereafter referred to as “the 
+intervention”), utilizing a pre-test–post-test within-sub -
+ject design. The overall study design is illustrated in Fig.  1 
+(below), whereas the stages of the enrollment, interven -
+tions, and assessments Table 1  below (The SPIRIT table).
+Spirit table
+Intervention (CAH‑Y)
+The CAH-Y intervention includes two sessions of 50 min 
+per week, for 7 weeks, in total 14 sessions. However, the final session is approximately 3-h long since it includes 
+a nature hike and a conclusion of the program. Several 
+constraints shaped the delivery format in the form of 
+intervention length, intensity, and overall dosage. Thus, 
+the delivery format is a compromise between evidence 
+from behavior change research, organizational consid -
+erations, and clinical considerations regarding the logisti -
+cal and practical burden on youth and parents (e.g., time 
+spent to commute to treatment, time away from school). 
+Importantly, despite these constraints the intended dose 
+of the intended active mechanisms is still likely to be suf -
+ficient to have effect (e.g., moderate to vigorous activity, 
+inhibitory learning, building motivation).
+The intervention is group-based with up to eight par -
+ticipants in each group. Two therapists lead each group. 
+Groups are divided into a child group and an adolescent Fig. 1 Study flow chart for CAH-Y feasibility study. CAH-Y Confident, Active and Happy Youth, NML-C Nijmegen Motivation List for Chldren, SCAS-C/P 
+Spence Children’s Anxiety Scale, Children/Parents, SMFQ Short Mood and Feelings Questionnaire
+Page 5 of 12
+ Kodal et al. Pilot and Feasibility Studies            (2022) 8:48 
+ 
+group to accommodate maturational differences. Youth 
+aged 8–13 receive the child intervention, whereas youth 
+aged 14–18 receive the adolescent version. Both versions 
+follow the same format and structure and have the same 
+guiding principles and goals. However, the specific activi -
+ties in CAH-Y 13 and CAH-Y 18 are tailored to the meet 
+the maturational level and interests of the different age 
+groups.
+Each session follows the same structure and format 
+(with exception of the last session as noted above). This 
+structure consists of the following: an introduction and 
+warm-up (10 min), main activity (35 min), and a ses -
+sion wrap-up (5 min). The separate sessions have distinct 
+overarching topics and include a variety of activities. Ses -
+sions take place in a gym hall, two sessions involve activi -
+ties in a swimming pool, and the last session is outside.
+Concerning the more specific physical activities in the 
+intervention, sessions include a mix of aerobic (e.g., run -
+ning, jumping, traversing an obstacle course), resistance 
+(e.g., squats, push-ups), and relaxation exercises (e.g., 
+yoga exercises). The goal for each session is a minimum 
+of 30 min spent in moderate to vigorous intensity activity.
+Specifically during the introduction and warm-
+up, the therapists give psychoeducation to the 
+youth regarding the bidirectional interplay between 
+thoughts, feelings, actions, and particularly the role 
+of avoidance and alternative coping strategies. The 
+exercises are designed to stimulate some distress, fear, and/or discomfort, and the therapists couple these 
+feelings and reactions to the introductory psychoe -
+ducation and use the exercises as exposure therapy. A 
+supportive and mastery motivational climate facilitates 
+the individuals need for relatedness [25] and a safe 
+space to practice exposure (being observed), provides 
+an optimal environment to help the youth address, 
+and overcome this fear [34]. Thus, the group format 
+allows youth to observe other youth, allowing them to 
+observe that other youth have similar feelings, fears, 
+reactions, behaviors, and responses as themselves, e.g., 
+we sweat when we are physically active, trying out new 
+activities may make us feel anxious but can be done 
+nonetheless. Gaining this knowledge can help normal -
+ize the youth’s understanding of both themselves and 
+others. Importantly, group and peer support are iden -
+tified as an important intervention component to sup -
+port active lifestyles [35, 36].
+In accordance with self-determination theory, the 
+sessions also strive to satisfy the youths’ needs for 
+autonomy (e.g., giving them choices within a menu of 
+activities to do), competence (e.g., adapting exercises 
+to meet the needs/fitness levels of students), and relat -
+edness (e.g., focusing on group cohesion, group coop -
+eration). Importantly in this regard, the sessions do 
+not have a competitive focus, but focus on being sup -
+portive, enjoyable, and fun. An overview of the CAH-Y 
+intervention is presented in Table 2 .Table 1 SPIRIT table for an uncontrolled open-label feasibility testing of physical activity intervention: Confident, Active and Happy 
+Youth
+CAH-Y Confident, Active and Happy Youth, NML-C Nijmegen Motivation List for Chldren, SCAS-C/P Spence Children’s Anxiety Scale, Children/Parents, SMFQ Short Mood 
+and Feelings QuestionnaireTimepoint Feasibility test period
+Enrolment Allocation Intervention Follow-up
+T1 0 Weeks 1–7 T2 T3 (follow ‑up)
+Enrolment
+Eligibility screen X
+Informed consent X
+Baseline assessment X
+Allocation X
+Interventions
+CAH-Y intervention
+Assessments
+Actigraph X X X X
+Baseline data (demographic, psychiatric) X
+Biometric data (height, weight) X X X
+Feasibility outcomes X X X X
+SCAS-C/P , SMFQ, NML-C X X X
+Qualitative interview X X X
+Page 6 of 12 Kodal et al. Pilot and Feasibility Studies            (2022) 8:48 
+Therapists
+Group-leaders will have knowledge of mental health dis -
+orders, youth development, group-dynamics, and physical 
+activity to adequately understand and be able to meet the 
+needs of the youth. Thus, a complementary team consist -
+ing of mental health nurse and a youth physiotherapist was 
+recommended by the steering committee, to lead the inter -
+vention sessions. Additionally, the need to be able to rap -
+idly address and intervene if youths experience discomfort 
+or need adjustments to activities while still instructing the 
+other youth, mean that at least two therapists are needed 
+per session.
+Study population and eligibility
+Youth are referred to the treatment program from their 
+attending therapist at the local CAMHS. Youth can be 
+included in the study if they meet the criteria below.
+Inclusion criteria are as follows:
+• Age 8–17 years
+• Symptoms of anxiety and/or depression
+• Youth display reduced daily physical activity (less than 
+30 mins per day and/or does not partake in physical 
+leisure activities, and/or does not participate in physi -
+cal education in school).
+• The youth is motivated to partake in physical activity
+Exclusion criteria are as follows:
+• Physical activity is not advised for medical reasons
+• Severe learning disabilities and the youth is unable to 
+understand the study protocol
+• Specific psychiatric disorders including any eating dis -
+order, psychosis
+• Severe challenging behavior or other needs requiring 
+constant one to one supportRecruitment
+Youth will be recruited from the CAMHS, Department 
+of Child and Adolescent Psychiatry, Haukeland Uni -
+versity Hospital, Norway. CAMHS is organized at the 
+same intervention level as ordinary hospital services 
+(Haukeland University Hospital, Bergen, Norway) and 
+is as such a tertiary specialized service. In the Norwe -
+gian context, this is the primary source of treatment for 
+youth with mental health disorders. CAMHS is organ -
+ized in three inpatient wards, three specialized clin -
+ics, and seven outpatient clinics. These units together 
+form the recruitment base for CAH-Y. CAMHS offers 
+all forms of mental health services to youth in a catch -
+ment area of app. 460,000 citizens in total. The CAMHS 
+receives approximately 3000 referrals per year and 
+delivers treatment to 5.2% of all youth in the catchment 
+area [37]. Taking into account CAH-Y inclusion and 
+exclusion criteria, we estimate that 40% of these youth 
+qualify for participation in the intervention (n  = 600). 
+The likely numbers of patients referred and eligible 
+should greatly exceed the numbers required by the fea -
+sibility study, meaning well below 10% of those eligible 
+are required to consent.
+Given that CAH-Y is organized within CAMHS, this 
+enables easy access to potential participants and stream -
+lined recruitment strategies. In practice, this translates 
+into the following:
+– Uncomplicated dispersion of information regard -
+ing the intervention to the departments and mental 
+health professionals via intranet, email and/or physi -
+cal/digital meetings
+– Ease of implementing an in-house digital referral 
+system
+– A low threshold for communication between the 
+CAH-Y team and the referring specialist
+Based on the therapist’s assessment of eligibility and 
+participant’s interest in the intervention, the thera -
+pist sends a formal referral to the CAH-Y team. The Table 2 Description of the intended structure and format of Confident, Active and Happy Youth program. Notes: Pa  physical activity
+PA Physical activityIntroduction
+Sessions 1–2Treatment stage
+Sessions 3–12Closing and transitioning
+Sessions 13–14
+Main theme:
+Alliance and motivation
+Feeling secure in the group
+Alliance to the group/therapist
+Motivation to partakeMain theme:
+Challenge and exposure
+Moderate to vigorous PA
+From avoidance to exposure Strengthening motivationMain theme:
+Transitioning to daily life
+Active “lifestyle”
+Continue exposure to PA
+Motivation to continue
+Week 1
+2 sessions of 50 minWeek 2-6
+10 sessions of 50 min
+2 sessions weeklyWeek 7
+1 session of 50 min
+1 session of 3
+Page 7 of 12
+ Kodal et al. Pilot and Feasibility Studies            (2022) 8:48 
+ 
+referrals are assessed with respect to inclusion/exclu -
+sion criteria by the Principal Investigator (PI is the first 
+author). If the youth is assessed eligible, an invitation to 
+attend a recruitment and inclusion interview is sent to 
+the youth (and parents if the youth is below 16 years of 
+age). Enclosed in the letter are also a number of health 
+assessment questionnaires. The questionnaires assess 
+mood, anxiety, demographic information, and motivation 
+to attend the intervention. Finally, this letter informs of 
+a webpage address, where the participant can find more 
+information about the intervention and the study. The 
+referring specialist will receive notification that the youth 
+is eligible and is invited to an interview. Approximately a 
+week prior to the interview, youth/parents are contacted 
+via phone and they are given further information about 
+the intervention and study participation.
+Consent
+At the recruitment and inclusion interview, participants 
+are provided further information about the intervention 
+and the study, and any ensuing questions can be dealt 
+with. Written information detailing the intervention, 
+the study as well as the consent form are reviewed with 
+the participant and/or parents if they participate in the 
+interview. Informed written consent is obtained from 
+all parents, and assent is obtained from youth above age 
+12 years. All participants in the intervention fill out the 
+same questionnaires and go through the same assessment 
+interview. Importantly, participation in the study requires 
+written consent, but participation in the intervention is 
+not dependent on participation in the study.
+Withdrawal of the study participants
+At any time, participants can withdraw consent with no 
+consequences for further intervention participation or 
+other eventual benefits. If there are any serious adverse 
+events, e.g., injury from the activities, details will be 
+recorded and reported to the PI and to the work manage -
+ment group. CAMHS has appropriate insurance of the 
+participants, if any adverse event should take place. In 
+the case of adverse psychiatric effects are uncovered, this 
+will be reported immediately to the participants referring 
+specialist in CAMHS.
+Feasibility procedures
+After referral assessment of eligibility, eligible youth 
+and their primary caregivers are invited to attend a 
+recruitment and inclusion interview. This interview 
+will take place in the CAH-Y facilities. In the interview, 
+therapists will provide further information about the intervention and study details, clarifying any questions 
+and/or concerns, and obtaining written consent, and 
+they collect and check the questionnaires included in 
+the invitation for the recruitment interview. Moreover, 
+additional questionnaires will be completed (see pri -
+mary and secondary outcome measures section below), 
+medical information gathered (height and weight), 
+and participants will be provided an Actigraph activ -
+ity monitor to be worn for the next 7 days. In addition, 
+a short qualitative interview exploring participant and 
+caregiver views on physical activity will be conducted. 
+Finally, the youth and caregivers will be given a tour of 
+the CAH-Y facilities in order to familiarize them with 
+the setting.
+The first session of the CAH-Y program will be 
+between one to a maximum of 3 weeks after the inter -
+view. At this point, they will also return the Actigraph 
+monitors and activity diaries. The intervention will then 
+start. The day before every session, the participants will 
+receive a SMS reminder of the session. After each ses -
+sion, participants are encouraged to visit a designated 
+webpage for the program, where they can find further 
+information about the next session. This is in order to 
+remind the participants of the session clarify what is 
+expected and encourage participation.
+Following the last session of the intervention, par -
+ticipants will receive an invitation to attend a post-
+intervention interview, one to a maximum of 3 weeks 
+following last intervention session. In this interview, 
+questionnaires relating to symptom change will be 
+completed, and biometric data will be gathered and 
+a short qualitative interview exploring the views of 
+the participant and his/her caregivers in relation to 
+the intervention will be done. At the end of the inter -
+view, participants will be provided an Actigraph activ -
+ity monitor to be worn for the next 7 days. After these 
+seven days have elapsed, a research assistant will gather 
+the Actigraph. Independently of this assessment with 
+the participant, a short qualitative interview with the 
+referring specialist will also be conducted by the PI.
+At 6 months post-intervention, the participants and 
+their caregivers will be invited to attend a follow-up 
+interview. In this interview, questionnaires relating to 
+initial symptoms will be completed, and a new short 
+qualitative interview exploring views possible negative 
+and/or positive effects of the intervention will be con -
+ducted. At the end of this interview, participants will 
+be provided an Actigraph activity monitor to be worn 
+for the next 7 days. After this time-period, the Acti -
+graph will gathered by a research assistant. See Fig.  1 
+for study flow chart.
+Page 8 of 12 Kodal et al. Pilot and Feasibility Studies            (2022) 8:48 
+Comparison group
+Participants will serve as their own controls. Pre- and 
+post-treatment results will be compared to inform a 
+future power calculation.
+Measures
+Apart from the measures that participants and their car -
+egivers fill out at home [SCAS, SMFQ, demographics], all 
+other measures and assessments will be conducted in the 
+CAH-Y facilities.
+Socio -demographic characteristics and psychiatric 
+conditions
+Primary caregivers will provide socio-demographic infor -
+mation. The PI will acquire psychiatric/medical informa -
+tion, via the participant’s digital medical records. Axis-1 
+diagnoses are given during ordinary clinical practice by 
+the youth’s psychiatrist or psychologist after reaching a 
+consensus with other professionals from the multi-dis -
+ciplinary team. In this study, we will classify the patients 
+according to their main Axis I psychiatric diagnoses 
+(ICD-10 codes are specified in Table  2) in the following 
+groups: depressive disorders, anxiety disorders, hyperki -
+netic disorders, pervasive developmental disorders, and 
+other disorders (a broad spectrum of psychiatric disor -
+ders with low frequency). The assessment and diagnosis 
+of youth in CAMHS will provide the necessary informa -
+tion in order to asses study eligibility according to the 
+predetermined inclusion/exclusion criteria.
+Feasibility outcomes
+Feasibility of the trial will be done by way of continu -
+ous tracking of participant recruitment (number of 
+youth referred/number of the youth assessed as eligi -
+ble), attendance, and retention. The appropriateness, 
+practicality, and acceptability of the intervention within 
+the CAMHS setting, will be explored through feedback 
+from participants, primary caregivers, and the referring 
+specialists. This information will be gathered via semi-
+structured qualitative interviews, during the pre- and 
+post-treatment assessment, while the referring specialists 
+will be interviewed separately following the post-treat -
+ment assessment. Furthermore, the researchers will meet 
+with the steering group at the end of the study to discuss 
+the results and intervention acceptability.
+Participant -centered outcome measures
+Objective measures of physical activity will be collected 
+using the wearable activity sensor Actigraph GT3X+ 
+monitor. The sensor captures and records continu -
+ous, high-resolution physical activity, and sleep/wake 
+information and can record daily time spent in seden -
+tary, light, and moderate to vigorous physical activity (MVPA). Other research has documented this method 
+to be valid and reliable [38]. Pre-defined minimum wear 
+time for a valid day will be defined as 6 h per day with a 
+minimum of 3 days of data required for analysis inclu -
+sion [39]. Data for the Actigraph will be downloaded 
+using Actigraph Actilife software and interpreted using 
+30-s epochs and the following cut-off points: seden -
+tary (<100 cpm) and MVPA (≥ 3200cpm) [40]. Non-
+wear time will be defined as 60 min of consecutive zero 
+counts. Participants will also be asked to wear the Acti -
+graph during each intervention session to provide data 
+on physical activity and MVPA content of the sessions.
+Participant height will be measured in meters and 
+rounded to the nearest 0.1 cm. Weight will be measured 
+in kilograms and rounded to the nearest 0.1kg.
+Anxiety symptoms will be assessed using Spence Child 
+Anxiety Scale, child, and parent version (SCAS-C/P) 
+(Spence, 1998). The SCAS comprises 38 items rated on 
+a 4-point scale (0 =  never, 1 =  sometimes, 2 =  often, 3 
+= always), with a maximum score of 114. SCAS-C/P has 
+demonstrated good psychometric qualities [41].
+Affective symptoms will be assessed using Short Mood 
+and Feelings Questionnaire, and child and parent version 
+(SMFQ-C/P) (Angold, Costello, Messer, & Pickles, 1995) 
+is used to assess youth affective symptoms. The SMFQ 
+has demonstrated good psychometric qualities [42].
+Intervention motivation will be assessed using 
+Nijmegen Motivation List Child (NML-C) [43]. This is 
+used widely to assess treatment motivation in children 
+and adolescents. The NML-C comprises 15 items rated 
+on a 3-point scale.
+The semi-structured qualitative interview will apart 
+from feasibility outcomes also assess participant percep -
+tions on PA in general, participant views on the asso -
+ciation between PA and mental health, perceptions on 
+the intervention components and the intervention as 
+a whole, views on potential barriers to physical activity, 
+motivation for activity, and participation in school-based 
+physical activity. These questions will be posed at post-
+treatment and long-term follow-up. Caregivers will be 
+posed the same questions; however, caregivers of youth 
+aged 12 years or above will only receive these questions 
+if the youth has consented to this. Answers to the ques -
+tions are written down during the interviews and will be 
+analyzed by thematic analysis [44]. An interview with the 
+referring specialist, following the post-treatment inter -
+view with the participant, will similarly explore his/her 
+experiences of the intervention including acceptability of 
+procedures, perceived benefits, and difficulties.
+An effect-size will be calculated for youth and caregiver 
+reported depression and anxiety symptoms and activity 
+level. Means (M) and standard deviations (SD ) will be 
+used to investigate the effect sizes for change between 
+Page 9 of 12
+ Kodal et al. Pilot and Feasibility Studies            (2022) 8:48 
+ 
+pre- to post-treatment. These results will help inform the 
+power calculation of the likely required sample size for a 
+future large-scale RCT.
+Timing
+Measures will be assessed at baseline (pre-intervention 
+interview) and at the latest 2 weeks after completing 
+the intervention. Follow-up outcome will be assessed 6 
+months post-intervention.
+Sample size
+As this will be the feasibility study to inform the design 
+of the future definitive RCT, a target sample of 20 youth 
+participants will be recruited for a mixed-methods 
+assessment of feasibility [45].
+Progression criteria
+A feasibility study is not adequately powered to test the 
+any hypothesis (e.g., the efficacy of CAH-Y physical activ -
+ity intervention) but is intended to improve the chances 
+of conducting a high-quality RCT. Therefore, in line with 
+suggestions by el-Kotob et  al. [46], a priori criteria for 
+progression to the definitive large-scale RCT are advis -
+able. The progression criteria to move on to a definitive 
+large-scale RCT will be as follows: (A) no serious adverse 
+events, such as hospitalization, a life-threatening condi -
+tion, death, and any adverse events associated with the 
+intervention; (B) recruitment rate of no less than 75%; 
+and (C) retention rate of no less than 60% in each group 
+at 7 weeks (total of 14 sessions). If all the three criteria 
+are not met, we assess there is insufficient evidence to 
+justify proceeding to the definitive RCT. Consequently, 
+changes to the intervention would then be required with 
+consequent re-runs of the intervention following, up 
+until these criteria are met.
+Statistics and data analysis
+Quantitative data will be analyzed using SPSS version 
+22.0 for Windows (SPSS Inc., Chicago, IL).
+Baseline data for participants will also be presented in 
+charts as well as any possible participant missing data 
+(questionnaires and Actigraph). Descriptive data will 
+use 95% confidence intervals (mean and standard devia -
+tions). Baseline differences between groups (e.g., age, 
+activity level, BMI, number of mental health disorders, 
+and questionnaire outcomes) will be analyzed using 
+one-way ANOVA. Nominal data (e.g., gender, ethnicity, 
+social class, participation in school physical activity) will 
+be analyzed using chi-square analyses. However, as men -
+tioned, the feasibility study is underpowered to detect 
+any effects reliably. Thus, quantitative feasibility out -
+comes will be interpreted only as feasibility and pilot data 
+due to lack of statistical power.Qualitative interviews with participants, caregiv -
+ers and referring specialists will be analyzed utilizing 
+thematic analysis [44]. Accordingly, the interview data 
+will be reviewed for data familiarization; initial codes 
+will be generated, followed by organizing codes into 
+themes, refining themes, and finally defining themes and 
+sub-themes.
+Possible harms
+Potential harms of being involved in the intervention, 
+and the assessments will be explicitly outlined in the 
+participant explanatory statements and consent form. 
+During assessment, the primary potential risk for partici -
+pants may be to experience some psychological distress; 
+however, this is not anticipated to exceed levels of psy -
+chological distress experienced previously in CAMHS 
+or in their daily lives. During the intervention, the youth 
+are expected to engage in physical activity with vary -
+ing degrees of activity intensity. During such activities, 
+the youth could potentially injure themselves or others 
+physically, and/or they could experience some physio-
+psychological distress. All activities required in the inter -
+vention are preplanned and will be completed so as be to 
+be as safe as possible, yet any movement (in a group) does 
+necessarily entail some risk of injury. All accidents and 
+injuries will be recorded and reported to the PI and the 
+work management group. In addition, any adverse events 
+or mental states observed among the participants (e.g., 
+significant symptom deterioration, suicidal ideation or 
+suicide attempt, reported or observed abuse and/or self-
+harm, excessive weight loss) will be monitored routinely 
+throughout the study. Any such adverse events will be 
+immediately reported back to the youth’s referring spe -
+cialist, who is responsible for the youth’s mental health 
+care. All study therapists and interviewers are experi -
+enced in working with youth with anxiety and depression 
+and in responding to distress.
+Discussion
+The aim of the current study is to develop and feasibility 
+test a supplemental physical activity program for youth 
+with internalizing disorders in regular treatment in child 
+and adolescent mental health clinics (CAMHS). In light 
+of high prevalence of anxiety and depression among chil -
+dren and adolescents, negative short- and long-term con -
+sequences, poor recovery rates even when provided best 
+available treatment, there is an urgent need for new and/
+or supplemental treatment approaches. Physical activity 
+may be one such approach. While the effects of physical 
+activity on internalizing disorders in adults are to some 
+degree empirically underpinned, the benefits, and sup -
+plemental treatment effects PA may have for youth are 
+only just beginning to evolve. Thus, there exists a clear 
+Page 10 of 12 Kodal et al. Pilot and Feasibility Studies            (2022) 8:48 
+evidence gap in regards to the effects of PA on youth 
+internalizing disorders and the integration of such an 
+approach in CAMHS. A necessary first step in develop -
+ing this field and addressing this knowledge gap is devel -
+oping and feasibility testing a theoretically based physical 
+activity-based intervention targeting anxiety and depres -
+sive symptoms in youth. This may be an important step 
+towards addressing the burden and consequences these 
+mental health disorders cause youth and to help provide 
+more effective treatment.
+We anticipate that participation in the intervention will 
+result in increases in physical activity from pre- to post-
+treatment. Similarly, we also expect some improvements 
+in anxiety and depressive symptomatology from pre- to 
+post-treatment. These anticipated changes are hypoth -
+esized to map onto positive changes in youth confidence, 
+mood, and physical activity. Concerning feasibility test -
+ing, we expect that feasibility estimates for recruitment, 
+completion, and retention will be met, and results of out -
+come measures will enable an effect-size estimation for 
+future RCT planning. It is anticipated that youth, parents, 
+and referring specialists will find the intervention accept -
+able. The qualitative component will provide a unique 
+opportunity to gain a rich perspective of the youths and 
+parents experience and acceptability, which is essential 
+towards future evaluation of the CAH-Y intervention.
+Limitations of the research
+As this is a small-scale feasibility study with no control 
+group, it is not possible to secure blinding throughout the 
+study. Two therapists provide the recruitment and inclu -
+sion assessment interviews and deliver the intervention. 
+However, some of the post-intervention assessments 
+will be done by the study PI as well as the interview with 
+the referring specialist and follow-up interview. Whilst 
+a double-blind feasibility design would strengthen the 
+study, time, and resources are limited and do not allow 
+for this. However, in the next steps of the development 
+of the intervention (in line with the MRC Framework); 
+including a pilot RCT and the definitive RCT, necessary 
+personnel to avoid bias in the trial will be secured.
+Strength of the research
+The current study presents a number of strengths. 
+Firstly, a major strength of the study is its alignment 
+with the MRC Framework for the development of 
+complex health interventions. The findings from this 
+study are critical to the next stages of the MRC Frame -
+work: development and implementation of a definitive 
+RCT exploring the effectiveness of physical activity as 
+a supplemental treatment for youth with internalizing 
+disorders in CAMHS. Secondly, a major strength of 
+the study is a high degree of “real-world” or external validity. Many treatment development studies are based 
+in university settings or specialized clinics and lead on 
+to efficacy studies. The current study will both develop 
+and aims to test effectiveness in a community setting in 
+the longer-term, thus increasing is applicability in real-
+life settings and potentially bypassing any limitations 
+and issues in generalizability from specialized to com -
+munity clinic.
+Thirdly, the target population for the intervention is a 
+youth population which is especially susceptible to high 
+levels of sedentary time and low levels of physical activ -
+ity. Thus, this is a vulnerable target population in which 
+changes in physical activity level can have a major impact 
+both short-term and in regards to long-term health out -
+comes. Given that participants will give consent for 
+access to medical journals, this will provide valuable 
+insight into how comorbid illness influences feasibil -
+ity, but also co-morbidity may be affected by the CAH-Y 
+intervention.
+Trial status
+The study is currently in progress, and participants are 
+being assessed for eligibility and inclusion into the fea -
+sibility trial. Inclusion started in April 2020 and will 
+continue until the target number of participants is 
+included, likely before the end of 2021. Results from the 
+study will be submitted for publication in the second 
+quarter of 2022.
+Abbreviations
+ANOVA: Analysis of variance; CAMHS: Child and Adolescent Mental Health 
+Care; CAH-Y: Confident, Active and Happy Youth; HPA: Hypothalamic–pitui-
+tary–adrenal axis; MRC: Medical Council Research Framework; MVPA: Moderate 
+to vigorous physical activity; NML-C: Nijmegen Motivation List Child; PI: Prin-
+cipal investigator; RCT  : Randomized controlled trial; SCAS-C/P: Spence Child 
+Anxiety Scale, child and parent version; SMFQ-C/P: Short Mood and Feelings 
+Questionnaire, child and parent version.
+Supplementary Information
+The online version contains supplementary material available at https:// doi. 
+org/ 10. 1186/ s40814- 022- 01010-6.
+Additional file 1: Table S1. CONSORT 2010 checklist for feasibility trial*. 
+Notes: NA: Not applicable. (Eldridge et al. 2010).
+Acknowledgements
+We want to acknowledge Martin Håtuft Solberg, Elsa-Kristine Paus Rasch, and 
+Per Christian Larsen for their substantial effort in establishing the groundwork 
+for the intervention and implementing the intervention in CAMHS. Also, Elsa-
+Kristine and Per Christian have played an essential role in the design of the 
+intervention.
+Authors’ contributions
+PJBT initiated the development of the CAH-Y intervention. AK drafted the trial 
+protocol, and all other authors have contributed to refinement of the study 
+Page 11 of 12
+ Kodal et al. Pilot and Feasibility Studies            (2022) 8:48 
+ 
+protocol. AK, LPB, PJBT, and IE contributed to the implementation of the study. 
+The authors have approved the final manuscript.
+Funding
+This study did not receive any specific grant from funding agencies in the 
+public, commercial, or non-profit sectors.
+Availability of data and materials
+The treatment manual for CAH-Y is available on request (in Norwegian). Data 
+sharing is not applicable to this article as no datasets were generated or 
+analyzed.
+Declarations
+Ethics approval and consent to participate
+Ethical approval for the study was received from the Regional Committee for 
+Medical and Health Research Ethics, region West, Norway (no. 30912 REK Vest). 
+Informed written consent is obtained from all parents, and assent is obtained 
+from youth above age 12 years. Personal confidentiality is guaranteed. None 
+of the assessments are considered to involve any health risk, and we believe 
+most adolescents will benefit from participation in the CAH-Y intervention. 
+Those who do not benefit will still have standard care follow-up in CAMHS. 
+The letter of informed consent emphasizes the participants’ right to withdraw 
+from the project at any time, with no need for any explanation.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1 Department of Child and Adolescent Psychiatry, Division of Psychiatry, 
+Haukeland University Hospital, p.b 1400, N-5021 Bergen, Norway. 2 School 
+of Psychological Science and Health, University of Strathclyde, Glasgow, 
+Scotland. 3 Department of Clinical Medicine, Faculty of Medicine, University 
+of Bergen, N-5020 Bergen, Norway. 4 Department of Health and Functioning, 
+Western Norway University of Applied Sciences, Bergen, Norway. 
+Received: 28 September 2021   Accepted: 18 February 2022
+References
+ 1. Polanczyk GV, Salum GA, Sugaya LS, Caye A, Rohde LA. Annual research 
+review: a meta-analysis of the worldwide prevalence of mental 
+disorders in children and adolescents. J Child Psychol Psychiatry. 
+2015;56(3):345–65.
+ 2. Merikangas KR, He JP , Burstein M, Swanson SA, Avenevoli S, Cui L, et al. 
+Lifetime prevalence of mental disorders in U.S. adolescents: results from 
+the National Comorbidity Survey Replication--Adolescent Supplement 
+(NCS-A). J Am Acad Child Adolesc Psychiatry. 2010;49(10):980–9.
+ 3. World Health Organization. Depression and other common mental 
+disorders: global health estimates (No. WHO/MSD/MER/2017.2). Geneva: 
+World Health Organization; 2017.
+ 4. Copeland WE, Angold A, Shanahan L, Costello EJ. Longitudinal patterns of 
+anxiety from childhood to adulthood: the Great Smoky Mountains Study. 
+J Am Acad Child Adolesc Psychiatry. 2014;53(1):21–33.
+ 5. World Health Organization. Adolescent mental health in the European 
+Region. 2018. Retrieved from Copenhagen, Denmark: Retrived from: 
+www. euro. who. int/__ data/ assets/ pdf_ file/ 0005/ 383891/ adole scent- mh- 
+fseng. pdf . 
+ 6. Wergeland GJH, Riise EN, Öst L-G. Cognitive behavior therapy for internal-
+izing disorders in children and adolescents in routine clinical care: a 
+systematic review and meta-analysis. Clin Psychol Rev. 2021;83:101918.
+ 7. Weisz JR, Kuppens S, Ng MY, Eckshtain D, Ugueto AM, Vaughn-Coaxum 
+R, et al. What five decades of research tells us about the effects of youth 
+psychological therapy: a multilevel meta-analysis and implications for 
+science and practice. Am Psychol. 2017;72(2):79–117. 8. Ollendick A. commentary on cognitive behavior therapy: where we 
+have been, where we are, and where we need to go from here. Cogn 
+Behav Pract. 2016;23(4):436–40.
+ 9. Biddle S, Ciaccioni S, Thomas G, Vergeer I. Physical activity and mental 
+health in children and adolescents: an updated review of reviews and 
+an analysis of causality. Psychol Sport Exerc. 2019;42:146–55.
+ 10. Strine TW, Mokdad AH, Dube SR, Balluz LS, Gonzalez O, Berry JT, Mander -
+scheid R, Kroenke K, et al. The association of depression and anxiety with 
+obesity and unhealthy behaviors among community-dwelling US adults. 
+2008;30(2):127–37. https:// doi. org/ 10. 1016/j. genho sppsy  ch. 2007. 12. 008.
+ 11. Firth J, Siddiqi N, Koyanagi A, Siskind D, Rosenbaum S, Galletly C, 
+et al. The Lancet Psychiatry Commission: a blueprint for protect -
+ing physical health in people with mental illness. Lancet Psychiatry. 
+2019;6(8):675–712.
+ 12. Rebar AL, Stanton R, Geard D, Short C, Duncan MJ, Vandelanotte C. 
+A meta-meta-analysis of the effect of physical activity on depression 
+and anxiety in non-clinical adult populations. Health Psychol Rev. 
+2015;9(3):366–78.
+ 13. McDowell CP , Dishman RK, Gordon BR, Herring MP . Physical activity and 
+anxiety: a systematic review and meta-analysis of prospective cohort 
+studies. Am J Prev Med. 2019;57(4):545–56.
+ 14. Stubbs B, Vancampfort D, Rosenbaum S, Firth J, Cosco T, Veronese N, 
+et al. An examination of the anxiolytic effects of exercise for people 
+with anxiety and stress-related disorders: a meta-analysis. Psychiatry 
+Res. 2017;249:102–8.
+ 15. Stubbs B, Vancampfort D, Hallgren M, Firth J, Veronese N, Solmi M, et al. 
+EPA guidance on physical activity as a treatment for severe mental 
+illness: a meta-review of the evidence and Position Statement from the 
+European Psychiatric Association (EPA), supported by the International 
+Organization of Physical Therapists in Mental Health (IOPTMH). Eur 
+Psychiat. 2018;54:124–44.
+ 16. Wegner M, Amatriain-Fernández S, Kaulitzky A, Murillo-Rodriguez E, 
+Machado S, Budde H. Systematic review of meta-analyses: Exercise 
+effects on depression in children and adolescents. Frontiers in psychia-
+try. 2020;11:81. https:// doi. org/ 10. 3389/ fpsyt. 2020. 00081.
+ 17. Bailey AP , Hetrick SE, Rosenbaum S, Purcell R, Parker AG. Treating 
+depression with physical activity in adolescents and young adults: a 
+systematic review and meta-analysis of randomised controlled trials. 
+Psychol Med. 2018;48(7):1068–83.
+ 18. Axelsdottir B, Biedilæ S, Sagatun Å, Nordheim LV, Larun L. Exercise 
+for depression in children and adolescents–a systematic review and 
+meta‐ analysis. Child and Adolescent Mental Health. 2021;26(4):347-56. 
+https:// doi. org/ 10. 1111/ camh. 12438.
+ 19. Carter T, Pascoe M, Bastounis A, Morres ID, Callaghan P , Parker AG. The 
+effect of physical activity on anxiety in children and young people: a 
+systematic review and meta-analysis. J Affect Disord. 2021;285:10–21.
+ 20. Lubans D, Richards J, Hillman C, Faulkner G, Beauchamp M, Nilsson 
+M, et al. Physical activity for cognitive and mental health in youth: a 
+systematic review of mechanisms. Pediatrics. 2016;138(3):e20161642.
+ 21. Schuch FB, Deslandes AC, Stubbs B, Gosmann NP , Silva CTB, Fleck MPA. 
+Neurobiological effects of exercise on major depressive disorder: a 
+systematic review. Neurosci Biobehav Rev. 2016;61:1–11.
+ 22. Wegner M, Helmich I, Machado S, E. Nardi A, Arias-Carrion O, Budde 
+H. Effects of exercise on anxiety and depression disorders: review of 
+meta- analyses and neurobiological mechanisms. CNS Neurol Disor -
+ders Drug Targets CNS Neurol Disorders. 2014;13(6):1002–14.
+ 23. Hillman, Pontifex MB, Castelli DM, Khan NA, Raine LB, Scudder MR, et al. 
+Effects of the FITKids randomized controlled trial on executive control 
+and brain function. Pediatrics. 2014;134(4):e1063–e71.
+ 24. Kertz SJ, Belden AC, Tillman R, Luby J. Cognitive control deficits in 
+shifting and inhibition in preschool age children are associated with 
+increased depression and anxiety over 7.5 years of development. J 
+Abnorm Child Psychol. 2016;44(6):1185–96.
+ 25. Ryan RM, Deci EL. Self-determination theory and the facilitation of 
+intrinsic motivation, social development, and well-being. Am Psychol. 
+2000;55(1):68–78.
+ 26. Silverman WK, Field AP . Anxiety disorders in children and adolescents: 
+Cambridge University Press; 2011.
+ 27. APA. Diagnostic and statistical manual of mental disorders: (DSM-5®): 
+American Psychiatric Pub; 2013.
+Page 12 of 12 Kodal et al. Pilot and Feasibility Studies            (2022) 8:48 
+•
+ fast, convenient online submission
+ •
+  thorough peer review by experienced researchers in your ﬁeld
+• 
+ rapid publication on acceptance
+• 
+ support for research data, including large and complex data types
+•
+  gold Open Access which fosters wider collaboration and increased citations 
+ maximum visibility for your research: over 100M website views per year •
+  At BMC, research is always in progress.
+Learn more biomedcentral.com/submissionsReady to submit y our researc h Ready to submit y our researc h  ?  Choose BMC and benefit fr om: ?  Choose BMC and benefit fr om: 
+ 28. Mangerud WL, Bjerkeset O, Lydersen S, Indredavik MS. Physical activity 
+in adolescents with psychiatric disorders and in the general popula-
+tion. Child Adolesc Psychiatry Ment Health. 2014;8(1):2.
+ 29. Kandola A, Vancampfort D, Herring M, Rebar A, Hallgren M, Firth J, et al. 
+Moving to beat anxiety: epidemiology and therapeutic issues with physi-
+cal activity for anxiety. Curr Psychiatry Rep. 2018;20(8):63.
+ 30. Craske MG, Treanor M, Conway CC, Zbozinek T, Vervliet B. Maximizing 
+exposure therapy: an inhibitory learning approach. Behav Res Ther. 
+2014;58:10–23.
+ 31. Craig P , Dieppe P , Macintyre S, Michie S, Nazareth I, Petticrew MJB. Devel-
+oping and evaluating complex interventions: the new Medical Research 
+Council guidance; 2008. p. 337.
+ 32. O’Cathain A, Hoddinott P , Lewin S, Thomas KJ, Young B, Adamson J, et al. 
+Maximising the impact of qualitative research in feasibility studies for 
+randomised controlled trials: guidance for researchers. Pilot Feasibility 
+Stud. 2015;1(1):32.
+ 33. Eldridge SM, Chan CL, Campbell MJ, Bond CM, Hopewell S, Thabane 
+L, et al. CONSORT 2010 statement: extension to randomised pilot and 
+feasibility trials. 2016;355:i5239. https:// doi. org/ 10. 1136/ bmj. i5239.
+ 34. Diamond A, Ling DS. Conclusions about interventions, programs, and 
+approaches for improving executive functions that appear justified 
+and those that, despite much hype, do not. Dev Cognitive Neurosci. 
+2016;18:34–48.
+ 35. Mitchell F, Gray S, Inchley J. ‘This choice thing really works … ’ Changes in 
+experiences and engagement of adolescent girls in physical education 
+classes, during a school-based physical activity programme. Phys Educ 
+Sport Pedagog. 2015;20(6):593–611.
+ 36. Martins J, Marques A, Sarmento H, Carreiro da Costa F. Adolescents’ per -
+spectives on the barriers and facilitators of physical activity: a systematic 
+review of qualitative studies. Health Educ Res. 2015;30(5):742–55.
+ 37. Krogh F, Indergård P . Aktivitetsdata for psykisk helsevern for barn og unge 
+2019. Oslo: Helsedirektoratet.; 2020.
+ 38. Aadland E, Ylvisåker E. Reliability of the Actigraph GT3X+ accelerometer 
+in adults under free-living conditions. PLoS One. 2015;10(8):e0134606.
+ 39. Basterfield L, Adamson AJ, Pearce MS, Reilly JJ. Stability of habitual physi-
+cal activity and sedentary behavior monitoring by accelerometry in 6-to 
+8-year-olds. 2011;8(4):543–7. https:// doi. org/ 10. 1123/ jpah.8. 4. 543.
+ 40. Puyau MR, Adolph AL, Vohra FA, Butte NF. Validation and calibration of 
+physical activity monitors in children. Obes Res. 2002;10(3):150–7.
+ 41. Spence SH, Barrett PM, Turner CM. Psychometric properties of the Spence 
+Children’s Anxiety Scale with young adolescents. J Anxiety Disord. 
+2003;17(6):605–25.
+ 42. Costello EJ, Angold A. Scales to assess child and adolescent depres-
+sion: checklists, screens, and nets. J Am Acad Child Adolesc Psychiatry. 
+1988;27(6):726–37.
+ 43. Ollendick TH, Öst L-G, Reuterskiöld L, Costa N, Cederlund R, Sirbu C, 
+et al. One-session treatment of specific phobias in youth: a randomized 
+clinical trial in the United States and Sweden. J Consult Clin Psychol. 
+2009;77(3):504.
+ 44. Braun V, Clarke V. Using thematic analysis in psychology. Qual Res Psychol. 
+2006;3(2):77–101.
+ 45. Arain M, Campbell MJ, Cooper CL, Lancaster GA. What is a pilot or feasibil-
+ity study? A review of current practice and editorial policy. BMC Med Res 
+Methodol. 2010;10(1):67.
+ 46. El-Kotob R, Giangregorio LM. Pilot and feasibility studies in exercise, phys-
+ical activity, or rehabilitation research. Pilot Feasibility Stud. 2018;4(1):137.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub -
+lished maps and institutional affiliations.

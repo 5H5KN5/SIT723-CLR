@@ -1,0 +1,596 @@
+Efficacy of a Multilevel Intervention on the Mental Health of 
+People Living with HIV and their Family Members in Rural China
+Li Li, PhD1,*, Guoping Ji, PhD2, Li-Jung Liang, PhD1, Chunqing Lin, PhD1, Julie Hsieh, 
+PhD1, Chiao-Wen Lan, MPH1, and Yongkang Xiao, PhD3
+1Semel Institute for Neuroscience and Human Behavior, Center for Community Health, University 
+of California at Los Angeles, Los Angeles, CA, U.S.A
+2Anhui Provincial Center for Women and Child Health, Hefei, China
+3Anhui Provincial Center for Disease Control and Prevention, Hefei, China
+Abstract
+Objective— HIV has a profound impact on infected individuals and their families. This study 
+evaluated the efficacy of an intervention aimed at improving the mental health of people living 
+with HIV (PLH) and their family members.
+Methods— A randomized controlled trial of 475 PLH and 522 family members was conducted in 
+Anhui, China. The intervention comprised of activities at individual-, family-, and community- 
+levels. The study outcomes, which included depressive symptoms and coping with illness for the 
+PLH and depressive symptoms and caregiver burden for the family members, were assessed at 
+baseline and at 6-, 12-, 18-, and 24-month follow-up. We used a mixed-effects regression model 
+with village- and participant-level random effects to assess the intervention effect on the 
+improvement of outcome measures.
+Results— Relative to the control condition, the PLH and family members of the intervention 
+group reported a significant reduction in depressive symptoms. The largest difference in depressive 
+symptoms was observed at the 6-month for the PLH and at the 12-month for family members. 
+Decreases in perceived caregiver burden over time were observed for family members in both 
+conditions; however, the group difference did not reach statistical significance. Significant 
+intervention effect on the coping with illness was reported by the PLH.
+Conclusions— The study highlights the importance of empowering families affected by HIV to 
+confront the challenges together rather than individually. It may be optimal for future programs to 
+include both PLH and their family members to maximize intervention effects through 
+strengthening interactions and support within a family.
+*Corresponding Author: Li Li, Ph.D. UCLA Semel Institute - Center for Community Health. 10920 Wilshire Blvd., Suite 350, Los 
+Angeles, CA 90024, U.S.A. Phone: (310) 794-2446; Fax: (310) 794-8297; lililili@ucla.edu. 
+Conflicts of Interest and Source of Funding:  This work was supported by the National Institute of Child Health & Human 
+Development/National Institutes of Health [grant number R01HD068165]. The funders had no role in study design, data collection 
+and analyses, decision to publish, or preparation of the article. The authors have no conflict of interest to declare.
+HHS Public Access
+Author manuscript
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Published in final edited form as:
+Health Psychol . 2017 September ; 36(9): 863–871. doi:10.1037/hea0000503.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Keywords
+HIV; intervention; family; depressive symptoms; China
+Introduction
+HIV has a profound impact on the mental health status of infected individuals and their 
+families. Various studies have documented that people living with HIV (PLH) are more 
+likely to develop mental health disorders, such as depression, compared with the general 
+population ( Chibanda, Benjamin, Weiss, & Abas, 2014 ; Lyons, Pitts, & Grierson, 2012 ). 
+Depression is consistently found to be associated with non-adherence to HIV treatment 
+(Gonzalez, Batchelder, Psaros, & Safren, 2011 ; Uthman, Magidson, Safren, & Nachega, 
+2014 ), and mental health challenges may accelerate HIV disease progression and lead to 
+earlier mortality and increased HIV-specific morbidity ( Chida & Vedhara, 2009 ; Leserman, 
+2008 ).
+Literature has suggested that HIV disrupts the family structure and places stress on the entire 
+family ( Dejman et al., 2015 ; Li et al., 2012 ). Since the introduction of antiretroviral therapy 
+(ART), HIV infection has become a lifelong chronic disease ( Deeks, Lewin, & Havlir, 
+2013 ). As with other chronic illness, partners and families often take on the role of informal 
+caregivers and perform a variety of roles that help PLH to adhere to treatment regimens, 
+avoid unnecessary hospital admissions, and provide physical and emotional support ( Okeke, 
+2016 ). The caregiving tasks can place a great strain on them and lead to individual stress and 
+tensions between the members of the families ( Vitaliano, Zhang, & Scanlan, 2003 ; Pinquart 
+& Sorensen, 2003 ).
+Additionally, HIV-affected families may become burdened not only by caregiving but also 
+by social barriers attached to HIV infection, which are particularly true in family-oriented 
+countries, such as China ( Zhang et al., 2013 ). A study conducted in China showed that HIV 
+brings shame to the whole family, damaging within family relations and the broader family 
+social networks ( Li et al., 2008 ). Both PLH and members of their families face fear of 
+disclosure ( Qiao, Li, Zhou, Shen, & Teng, 2016 ), financial uncertainty ( Ama & Seloilwe, 
+2010 ), stigma and discrimination ( Zhang et al., 2016 ), and social isolation ( Kipp, 
+Tindyebwa, Karamagi, & Rubaale, 2007 ; Zhang, Zhang, Hanko, & Fuller-Thomson, 2011 ). 
+These psychosocial challenges may aggravate mental health issues among PLH and their 
+family members. To minimize the psychological, physical, and social impact of HIV , 
+program developers and researchers have increasingly recognized the important role played 
+by family in reducing the vulnerability and coping with the devastating effects of the disease 
+(Kuo et al., 2016 ; Rotheram-Borus et al., 2012 ). Some interventions have aimed to improve 
+mental health functions of PLH and family members using family-based ( Li et al., 2012 ), 
+cognitive behavioral therapy-based ( Carrico et al., 2009 ), and community-based approaches 
+(Wu & Li, 2013 ).
+The intervention described in this study, entitled Together for Empowerment Activities 
+(TEA), was designed, developed, and implemented to target PLH and their family members’ 
+specific needs at individual, family, and community levels. The TEA intervention was Li et al. Page 2
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+guided by the Social Action Theory ( Ewart, 1991 ), which emphasizes social 
+interdependence and its link to personal health. The intervention was piloted with promising 
+outcomes ( Li et al., 2011 ). Based on the pilot, a full scale randomized controlled trial was 
+conducted between late 2011 and early 2016 to evaluate its efficacy to improve 
+psychological wellbeing for both PLH and family members.
+Methods
+Study Design
+The TEA intervention trial utilized a cluster-randomized controlled design with two arms. 
+The study was conducted in Anhui providence, China, where many PLH were infected via 
+commercial plasma donations, and HIV-affected families reside in poor rural areas ( Ji, 
+Detels, Wu, & Yin, 2006 ; Wu, Rou, Detels, 2001 ). A total of 475 HIV-affected families were 
+recruited from 32 villages. The 32 villages were selected because they have the largest 
+numbers of HIV-affected families in the study area as reported by the office of the Anhui 
+Provincial Center for Disease Prevention and Control (CDC). After baseline assessment, the 
+32 villages were randomized into either an intervention condition or a control condition. We 
+assessed the geographic information between the intervention and control villages to ensure 
+that the distance between the villages was far enough to avoid potential contamination. The 
+intervention and control villages were at least 10 kilometers (about 6.2 miles) apart and 
+separated by hills or ranges. The intervention effects were evaluated at baseline and at 6-, 
+12-, 18-, and 24-month follow-ups. The study protocol was approved by the institutional 
+review boards at the University of California, Los Angeles and the Anhui Provincial CDC. 
+This trial was registered in the ClinicalTrials.gov  protocol registration system 
+(NCT01762553).
+The Intervention
+For villages in the intervention condition, the TEA intervention activities were delivered to 
+target HIV-related challenges at these three critical levels: 1) at the individual  level, TEA 
+Gathering – six separate intervention sessions were conducted for PLH and their family 
+members to deal with their specific HIV-related challenges. The sessions were conducted 
+with approximately 10–12 participants in a group. Interactive group activities, such as 
+games, pair-share, role plays, and discussions, were delivered to establish healthy daily 
+routine, improve physical and mental health, improve family and parent-child relationships, 
+and encourage community integration; 2) at the family  level, TEA Time – six types of 
+family activities were conducted at home after each TEA Gathering session. The family 
+activities involved all members to strengthen family interaction and support. For example, 
+“Fabric of Family” was an activity in which supplies were given to each family to make their 
+own family carrying bag or blanket. The designs should represent things that were important 
+to the family. The products were then shared with others during the next TEA Gathering 
+session; and 3) at the community  level, TEA Garden – three community events consisting of 
+a health fair, an amusing sports event, and a family talent show were organized by both 
+intervention participants and community leaders to enhance community and social 
+integration. These initial intervention activities took place between six and eight weeks.Li et al. Page 3
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+To maintain the intervention effect, reunions were held every two months during the first 12 
+months and every four months during the remainder of the study period (10 total reunion 
+sessions). To ensure implementation fidelity, trained evaluators observed all the sessions and 
+scored each session and the activity components according to an evaluation checklist. 
+During the study period, 192 group sessions were carried out (96 for PLH and 96 for family 
+members) and 18 community events organized. In addition, 202 reunion sessions were 
+conducted in a group format. The overall participation in the TEA intervention activities was 
+about 95% for the PLH and 94% for their family members.
+Control Condition
+PLH in the control group continued to receive the Chinese government’s standard of care for 
+the population. In addition, limited program activities were added to the control group to 
+tease out intervention effects from the impact of attention. The intervention and control 
+conditions differed in both contents and formats. There were three group sessions once a 
+week, with the content areas focused on healthy daily routine, antiretroviral drugs adherence 
+and side effects, nutrition, and personal and family hygiene. These control group sessions 
+were didactic lecture-based health education, with no interactive activities between 
+facilitators and participants nor between PLH and family members. In addition, village 
+health workers visited the control group families once a week for the initial three weeks and 
+once a month for 12 months.
+Participants
+Baseline data were collected from October 2011 to March 2013. To be eligible for the study, 
+the PLH had to 1) be 18 years or older, 2) be HIV sero-positive, 3) have a HIV sero-negative 
+family member in the same household, 4) have a child between 6–18 years in his/her family, 
+and 5) reside in one of the selected villages. The inclusion criteria for family members were 
+that they had to 1) be 18 years or older, 2) be HIV sero-negative, 3) live with the PLH in the 
+same household, and 4) have knowledge of the PLH’s HIV sero-status. To recruit 
+participants, information flyers about the study were posted in the village clinics where PLH 
+obtained routine care. PLH who were interested in participating in the study could either 
+directly contact the project staff using the contact information printed on the flyer or ask the 
+clinic health workers to be referred to a project recruiter. The recruited PLH were asked to 
+invite one of his or her family members to participate in the study. If the invited family 
+member was also HIV sero-positive, then he or she will be recruited as a PLH participant, 
+and an additional HIV sero-negative family member will be recruited from the same 
+household. When recruiting participants, our trained recruiter explained the study purpose, 
+procedure, potential risks and benefits, and guaranteed confidentiality and voluntary nature 
+of their participation. Written informed consent was obtained from each participant. The 
+refusal rate for the initial recruitment was less than 5%. Based on the epidemiological data 
+reported by the Anhui provincial CDC office, the study has reached more than 85% of the 
+eligible families in the study villages.
+Procedures
+At baseline and at each of the follow-up points, both the PLH and family member 
+participants completed an assessment using the Computer Assisted Personal Interview Li et al. Page 4
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+(CAPI) method. All the assessments were conducted in a private room of a village clinic or 
+another private place where the participant preferred. Each assessment took approximately 
+45–60 minutes, and all the participants were compensated 50 yuan (8 USD) for each 
+assessment. The participant did not receive incentives for participating in the intervention 
+activities.
+Outcome Measures
+Depressive symptoms were measured for both the PLH and their family members using a 
+shortened version of the Zung Self-Rating Depression Scale ( Zung, 1965 ). The scale has 
+been validated in our previous pilot study among PLH and their family members in China 
+(Li et al., 2011 ). Participants were asked how often they felt each of the nine situations, 
+including “I get tired for no reason”, “I have trouble sleeping at night”, and “I feel hopeful 
+about the future”. The responses ranged from (1) “a little of the time” to (4) “most of the 
+time” with some items that were reverse coded. The overall score was the sum of each item, 
+and a higher score implied a higher level of depressive symptoms (Cronbach’s alpha = 0.81).
+Coping with illness reported by the PLH was measured using an adapted version of Namir 
+and colleagues’ instrument that assesses active cognitive and behavioral efforts to cope with 
+HIV ( Namir Wolcott, Fayzy, & Alumbaugh, 1987 ). Two subscales, active cognitive  and 
+behavioral coping , were used in the study. The two scales consisted of 14 items. Participants 
+responded to the question, “Which of these things have you used to help you deal with your 
+illness?” using a five-point scale from (1) “never” to (5) “always”. The active cognitive 
+coping subscale includes items such as “thought about the positive changes in me since the 
+illness” and “formed a plan of action in my mind”; the active behavioral coping subscale 
+included items such as “went out more socially” and “tried to find out more about my 
+illness”. A higher summary score indicated a better ability to cope with the illness 
+cognitively and behaviorally (Cronbach’s alpha = 0.80).
+Caregiver burden perceived by family members was measured using the Perceived Caregiver 
+Burden Scale ( Stommel, Given, & Given, 1990 ), which has been used in our previous study 
+in Asia ( Lee, Li, Lin, & Tuan, 2015 ). Family members’ perception of having a PLH in the 
+household and its impact on their finances, health, and feelings of entrapment were assessed 
+using the modified 17-item scale. Sample items include “Caring for him/her has put a 
+financial strain on the family”, “My health has gotten worse since I have been caring for 
+him/her”, and “I feel trapped by my caregiving role”. Responses to each item ranged from 
+(1) “strongly disagree” to (5) “strongly agree”, and a higher score reflected a higher level of 
+overall burden perceived by family caregivers (Cronbach’s alpha = 0.88).
+In addition, the participants’ age, gender, education level, marital status, family annual 
+income and family size, and family members’ relationship with the PLH were collected.
+Statistical Analysis
+Study populations by intervention assignment were characterized using descriptive statistics 
+and frequencies. Baseline characteristics between the intervention and control conditions 
+were compared using Chi-square tests and random-effects models for categorical and 
+continuous characteristics, respectively. Furthermore, we graphically examined the pattern Li et al. Page 5
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+of improvement for each outcome measure over time by plotting the mean score of each 
+measure over time by intervention condition.
+All the analyses were performed on an intent-to-treat basis. We used a mixed-effects 
+regression model with village- and participant-level random effects to assess an intervention 
+effect on the improvement of each mental health measure. The fixed-effects included the 
+pre-selected individual characteristics (age, gender, marital status, and education) and family 
+background (annual household income and size of family), group assignment (control vs. 
+intervention), visit (baseline, 6-, 12-, 18-, and 24-month), and group-by-visit interaction. 
+Two levels of random effects, village- and participant-level random effects, were included in 
+the model to account for the dependence within the villages and the correlation between 
+repeated observations for each participant. The intervention effect at each follow-up visit 
+was defined as a difference in changes from baseline between the intervention and control 
+groups and was estimated through model contrasts. All the statistical analyses were carried 
+out using the SAS System for Windows 9.4 (Statistical Analysis Software, Cary, NC).
+Results
+Sample Characteristics
+As shown in Figure 1, among the 475 families, 237 families (257 PLH and 237 family 
+members) were randomized to the intervention condition and 238 families (265 PLH and 
+238 family members) to the control condition. The follow-up rate at the 24-month follow-up 
+for the PLH was 91% in the intervention group and 84% in the control group. For family 
+members, the 24-month follow-up rate for the intervention group was 88% and the control 
+group was 81%. Participants’ characteristics and their outcome measures at baseline are 
+summarized in Table 1. The average age for the PLH in the intervention group was older 
+than those in the control group (50 vs. 47, p = 0.0003). Less than 50% of the PLH were men 
+(42% vs. 47% for intervention vs. control, respectively), approximately 40% had no 
+education, and more than 80% of the participants were married. Approximately 65% of the 
+family member participants were women, the average age was about 42 years old, slightly 
+less than half were the PLH’s spouse, and approximately 30% had an educational level of 
+junior high school or above. The median annual income was 20,000 yuan (3,030 USD), and 
+over one-third of the families had more than six members. At baseline, no significant 
+differences were observed across the two study arms for gender, education, marital status or 
+relationship to PLH, annual income, and family size. The PLH in the intervention group had 
+a significantly higher coping with illness score than those in the control group (35.3 vs. 33.4, 
+respectively; p = 0.008). Other outcome measures reported by the PLH and family members 
+were comparable across the two intervention conditions.
+Change in Measures over Time
+The unadjusted mean plots of the outcome measures reported by the PLH and family 
+members are presented in Figure 2A/2B and Figure 3A/3B, respectively. Figure 2A shows 
+that the mean depressive symptoms reported by the PLH in both groups were similar at 
+baseline, and the level of depressive symptoms reported by the intervention participants 
+decreased more rapidly than that reported by the participants in the control condition. The Li et al. Page 6
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+differences in the reduction in depressive symptoms were maintained across the rest of the 
+follow-up visits. In Figure 2B, the coping with illness score for the PLH in the intervention 
+and control groups were slightly different at baseline. The mean curve for the intervention 
+PLH participants ascended at the 6-month follow-up and descended gradually after the one-
+year follow-up, whereas the mean curve for the control PLH participants decreased from 
+baseline. The largest difference in the improvement in the coping with illness score occurred 
+six months after the baseline. In Figure 3A, the pattern of the mean curves for the depressive 
+symptoms of the family members was similar to those of the PLH (Figure 2A). The mean 
+levels of caregiver burden decreased over time for both groups (Figure 3B). The rate of 
+change in caregiver burden reported by the intervention participants was slightly faster than 
+that reported by the control group.
+Intervention Effects on the PLH’s Measures
+Table 2 shows that a significantly greater reduction in depressive symptoms reported by PLH 
+in the intervention versus control conditions consistently over time, as seen in Figure 2A. 
+Women reported a significant higher level of depressive symptoms on average than men 
+(estimate=−2.15±0.38, p < 0.0001). Age was positively associated with depressive 
+symptoms (estimate=0.08±0.02, p = 0.0002). The PLH from the families in the lowest 
+annual income category reported a higher level of depressive symptoms 
+(estimate=2.69±1.02, p = 0.007).
+Similarly, we observed a significant intervention effect on the coping with illness reported 
+by PLH consistently over time while the coping with illness reported by the intervention 
+PLH was higher than the control PLH at baseline (difference = 2.18, SE = 0.71, p = 0.002). 
+The largest intervention effect on coping with illness was occurred at the 6-month follow-up 
+(difference = 4.44, SE = 0.84, p < 0.0001); the group difference slowly reduced over time, 
+but remained significant up to the two-year follow-up period. Male participants 
+(estimate=1.10±0.52, p = 0.035) reported a higher score in coping with illness. Having no 
+formal education (estimate=−2.25±0.78, p = 0.004) and having five or six family members 
+(estimate=−1.18±0.52, p = 0.025) were associated with a lower score in coping with illness.
+Intervention Effects on the Family Members’ Measures
+Results from the adjusted analysis indicated that a significant intervention effect on 
+depressive symptoms reported by family members was observed over time, similar to the 
+reduction in depressive symptoms reported by PLH (in Table 3). The largest group 
+difference in the reduction of depressive symptoms was observed at 12 months after baseline 
+(difference = 2.17, SE = 0.44, p < 0.001). Older age (estimate=0.09±0.01, p < 0.0001), 
+female gender (estimate=1.22± 0.40, p = 0.003), and having no education 
+(estimate=1.55±0.54, p = 0.004) were associated with higher level of depressive symptoms. 
+Those family members in the lowest annual family income category reported having the 
+highest depressive symptoms (estimate=2.61±1.03, p = 0.012).
+We observed significant decreases in the perceived caregiver burden over time for both the 
+intervention and control groups (Figure 3B) (both p-values < 0.005). The between-group 
+differences in reduction were not statistically significant. Those of older age Li et al. Page 7
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+(estimate=0.17±0.03, p < 0.0001) and being female (estimate=1.68±0.78, p = 0.031) were 
+positively associated with a higher level of reported caregiver burden. Being the PLH’s 
+spouse (estimate=−3.94±0.74, p < 0.0001) was associated with a lower level of caregiver 
+burden compared to being a non-spouse family member.
+Discussion
+This paper presents the efficacy of a multilevel large-scale randomized controlled 
+intervention to improve the mental health of PLH and their family members. Overall, both 
+target populations reported significant improvements in mental health indicators at the 6-, 
+12-, 18-, and 24-month follow-ups compared with those in the control condition. The 
+findings suggest that both the PLH and family members could benefit from an intervention 
+that addresses their common and specific challenges associated with HIV . The TEA 
+intervention focused on family interconnection and supporting families impacted by HIV to 
+confront the challenges together rather than individually. The inclusion of both the PLH and 
+family members may have provided a unique environment to stimulate conversations and 
+strengthen interactions within a family. During difficult times, it may become particularly 
+important for family members to support each other, and their psychological wellbeing plays 
+an important role in the process of overcoming challenges together. Furthermore, through 
+community intervention activities, participants within the villages could become more aware 
+of familiar challenges shared by other families in the neighborhood and come together to 
+form a social network for community support. The multiple layers of intervention that 
+happened concurrently may have synergized in achieving a greater overall impact on PLH 
+and family members’ mental health.
+It is worthwhile to mention that although both the PLH and family members benefited from 
+the intervention in regards to the alleviation of depressive symptoms, the patterns of change 
+were different between the two populations. Both the PLH and family members in the 
+intervention condition reported a steep reduction in depressive symptoms at the 6-month 
+follow-up. However, the largest difference between the family members of the intervention 
+and control groups occurred at the 12-month follow-up, and its magnitude was reduced at 
+the 18- and 24-month follow-ups, whereas the intervention effects on depressive symptoms 
+of PLH were sustained at a similar level. One explanation is that the intervention had the 
+most direct impact on the PLH and family members after the initial, intensive activities. 
+Family members in the intervention condition benefited the most after the initial 
+intervention, but the effects lasted a shorter period of time than that for the PLH. It is of note 
+that PLH and their family members in the control condition showed decreased depressive 
+symptoms at the 6-month follow-up, which may be due to the perceived attention from the 
+reoccurring surveys ( Tourangeau, 2003 ).
+Several demographic and family characteristics were found to be related to the mental health 
+status of the PLH and their family members. Women reported more depressive symptoms 
+than men, similar to the findings of other studies ( Passos & Souza, 2015 ; Pereira & 
+Canavarro, 2011 ). In traditional Chinese families, women are typically the primary 
+caregivers ( Stein et al., 2000 ). When a woman herself is infected, she struggles to balance 
+the stress and burden to take care of herself and the rest of her family. These results point to Li et al. Page 8
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+the importance of identifying and treating depressions as an essential element in the 
+comprehensive care of women impacted by HIV . Families in the least income experienced 
+the most mental health challenges. Financial hardships may induce more stress for HIV-
+affected families as they cope with illness and struggle to make ends meet. More resources 
+are needed to provide care for those with limited financial resources to protect and promote 
+mental health. Another area that deserves further investigation is caregiver burden perceived 
+by the spouse vs. the non-spouse family members. Future intervention programs need to take 
+these factors into consideration and address these issues in the program design and 
+implementation.
+Limitations
+Several limitations should be considered when interpreting the results. First, our study was 
+conducted in an area where a large proportion of PLH were former commercial plasma 
+donors who were infected in the mid-1990s. Thus, the study results may not be generalizable 
+to those PLH who were infected via other transmission routes and lived in different 
+geographical regions. Second, the outcome measures relied on self-reports, which could be 
+influenced by social desirability. The third limitation concerned eligibility criteria. For the 
+PLH to be eligible for the study, they had to have disclosed their HIV status to at least one 
+family member. It is possible that the mental health measures reported by those who had not 
+disclosed their status to any family members were different from those who participated in 
+our study. Fourth, the study faced measurement issues that only individual-level data were 
+collected, so we would not be able to demonstrate the intervention effect on families and 
+communities. Additionally, the individual-level outcomes were a combined effect of multi-
+layered intervention activities, and data collected were insufficient to assess the within- and 
+cross-level effects. With the data in hand, we would not be able to distinguish the key 
+driving factor behind the results. Lastly, although some of the differences reached statistical 
+significance, the small effect sizes may limit the implication of the findings.
+Conclusion
+Reduced depressive symptoms are attainable for both PLH and their family members with 
+an intervention that involved the individual, their family, and their community. Although 
+PLH and their family members have to deal with their specific issues (e.g., coping with the 
+illness for the PLH, perceived caregiver burden for the family members), facing these 
+challenges together as a family has been a powerful message from the intervention. This 
+intervention model has the potential to be adapted to different cultures with family-oriented 
+traditions. As the HIV epidemic transitions to a manageable chronic illness, PLH need the 
+strength of their families more than ever. Future interventions should continue to target PLH 
+as well as their family members and focus on family capital as an important component in 
+the wellbeing of PLH. Family-based services, possibly integrating mental health services, 
+need to be established to provide assistance to and address the specific needs of families 
+affected by HIV .Li et al. Page 9
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Acknowledgments
+This work was supported by the National Institute of Child Health & Human Development/National Institutes of 
+Health under Grant [R01HD068165]. The authors would like to thank the project team members in Anhui, China 
+for their contributions to this study.
+References
+Ama NO, Seloilwe ES. Estimating the cost of care giving on caregivers for people living with HIV and 
+AIDS in Botswana: A cross-sectional study. Journal of the International AIDS Society. 2010; 13(1):
+14. [PubMed: 20406455] 
+Carrico AW, Chesney MA, Johnson MO, Morin SF, Neilands TB, Remien RH. NIMH Healthy Living 
+Project Team. Randomized controlled trial of a cognitive-behavioral intervention for HIV-positive 
+persons: An investigation of treatment effects on psychosocial adjustment. AIDS and Behavior. 
+2009; 13(3):555–563. [PubMed: 18626764] 
+Chibanda D, Benjamin L, Weiss HA, Abas M. Mental, neurological, and substance use disorders in 
+people living with HIV/AIDS in low-and middle-income countries. Journal of Acquired Immune 
+Deficiency Syndromes. 2014; 67:54–67.
+Chida Y , Vedhara K. Adverse psychosocial factors predict poorer prognosis in HIV disease: A meta-
+analytic review of prospective investigations. Brain, Behavior, and Immunity. 2009; 23(4):434–445.
+Deeks SG, Lewin SR, Havlir DV . The end of AIDS: HIV infection as a chronic disease. The Lancet. 
+2013; 382(9903):1525–1533.
+Dejman M, Ardakani HM, Malekafzali B, Moradi G, Gouya MM, Shushtari ZJ, Mohraz M. 
+Psychological, social, and familial problems of people living with HIV/AIDS in Iran: A qualitative 
+study. International Journal of Preventive Medicine. 2015; 6:126. [PubMed: 26900440] 
+Ewart CK. Social action theory for a public health psychology. American Psychologist. 1991; 46(9):
+931–946. [PubMed: 1958012] 
+Gonzalez JS, Batchelder AW, Psaros C, Safren SA. Depression and HIV/AIDS treatment 
+nonadherence: A review and meta-analysis. Journal of Acquired Immune Deficiency Syndromes. 
+2011; 58(2)
+Ji G, Detels R, Wu Z, Yin Y . Correlates of HIV infection among former blood/plasma donors in rural 
+China. AIDS. 2006; 20(4):585–591. [PubMed: 16470123] 
+Kipp W, Tindyebwa D, Karamagi E, Rubaale T. How much should we expect? Family caregiving of 
+AIDS patients in rural Uganda. Journal of Transcultural Nursing. 2007; 18(4):358–365. [PubMed: 
+17911576] 
+Kuo C, Atujuna M, Mathews C, Stein DJ, Hoare J, Beardslee WK, Brown L. Developing family 
+interventions for adolescent HIV prevention in South Africa. AIDS Care. 2016; 28(Suppl.1):106–
+110. [PubMed: 26916841] 
+Lee SJ, Li L, Lin C, Tuan LA. Challenges facing HIV-positive persons who use drugs and their 
+families in Vietnam. AIDS Care. 2015; 27(3):283–287. [PubMed: 25285396] 
+Leserman J. Role of depression, stress, and trauma in HIV disease progression. Psychosomatic 
+Medicine. 2008; 70(5):539–545. [PubMed: 18519880] 
+Li L, Ji G, Liang LJ, Ding Y , Tian J, Xiao Y . A multilevel intervention for HIV-affected families in 
+China: Together for Empowerment Activities (TEA). Social Science & Medicine. 2011; 73(8):
+1214–1221. [PubMed: 21852030] 
+Li L, Liang LJ, Lee SJ, Iamsirithaworn S, Wan D, Rotheram-Borus MJ. Efficacy of an intervention for 
+families living with HIV in Thailand: A randomized controlled trial. AIDS and Behavior. 2012; 
+16(5):1276–1285. [PubMed: 22038079] 
+Li L, Wu Z, Wu S, Jia M, Lieber E, Lu Y . Impacts of HIV/AIDS stigma on family identity and 
+interactions in China. Families, Systems, & Health. 2008; 26(4):431–442.
+Lyons A, Pitts M, Grierson J. Exploring the psychological impact of HIV: Health comparisons of older 
+Australian HIV-positive and HIV-negative gay men. AIDS and Behavior. 2012; 16(8):2340–2349. 
+[PubMed: 22790849] Li et al. Page 10
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Namir S, Wolcott DL, Fawzy FI, Alumbaugh MJ. Coping with AIDS: Psychological and Health 
+Implications1. Journal of Applied Social Psychology. 1987; 17(3):309–328.
+Okeke BO. Social support seeking and self-efficacy-building strategies in enhancing the emotional 
+well-being of informal HIV/AIDS caregivers in Ibadan, Oyo state, Nigeria. Journal of Social 
+Aspects of HIV/AIDS. 2016; 13(1):35–40. [PubMed: 26831832] 
+Passos SMK, Souza LDDM. An evaluation of quality of life and its determinants among people living 
+with HIV/AIDS from Southern Brazil. Cadernos de Saúde Pública. 2015; 31(4):800–814. 
+[PubMed: 25945989] 
+Pereira M, Canavarro MC. Gender and age differences in quality of life and the impact of 
+psychopathological symptoms among HIV-infected patients. AIDS and Behavior. 2011; 15(8):
+1857–1869. [PubMed: 21431413] 
+Pinquart M, Sörensen S. Associations of stressors and uplifts of caregiving with caregiver burden and 
+depressive mood: A meta-analysis. The Journals of Gerontology Series B: Psychological Sciences 
+and Social Sciences. 2003; 58(2):112–128.
+Qiao S, Li X, Zhou Y , Shen Z, Tang Z. AIDS impact special issue 2015: Interpersonal factors 
+associated with HIV partner disclosure among HIV-infected people in China. AIDS Care. 2016; 
+28(Suppl. 1):37–43. [PubMed: 26899370] 
+Rotheram-Borus MJ, Rice E, Comulada WS, Best K, Elia C, Peters K, Valladares E. Intervention 
+outcomes among HIV-affected families over 18 months. AIDS and Behavior. 2012; 16(5):1265–
+1275. [PubMed: 22020758] 
+Stein MD, Crystal S, Cunningham WE, Ananthanarayanan A, Andersen RM, Turner BJ, Shapiro MF. 
+Delays in seeking HIV care due to competing caregiver responsibilities. American Journal of 
+Public Health. 2000; 90(7):1138. [PubMed: 10897195] 
+Stommel M, Given CW, Given B. Depression as an overriding variable explaining caregiver burdens. 
+Journal of Aging and Health. 1990; 2(1):81–102.
+Tourangeau, R. Recurring surveys: Issues and opportunities. 2003. Available at: http://
+www.nsf.gov/sbe/ses/mms/nsf04_211a.pdf
+Uthman OA, Magidson JF, Safren SA, Nachega JB. Depression and adherence to antiretroviral therapy 
+in low-, middle-and high-income countries: A systematic review and meta-analysis. Current HIV/
+AIDS Reports. 2014; 11(3):291–307. [PubMed: 25038748] 
+Vitaliano PP, Zhang J, Scanlan JM. Is caregiving hazardous to one's physical health? A meta-analysis. 
+Psychological Bulletin. 2003; 129(6):946. [PubMed: 14599289] 
+Wu L, Li X. Community-based HIV/AIDS interventions to promote psychosocial well-being among 
+people living with HIV/AIDS: A literature review. Health Psychology and Behavioral Medicine. 
+2013; 1(1):31–46. [PubMed: 25264499] 
+Wu Z, Rou K, Detels R. Prevalence of HIV infection among former commercial plasma donors in rural 
+eastern China. Health Policy and Planning. 2001; 16(1):41–46. [PubMed: 11238429] 
+Zhang S, Wei C, Lu D, Li X, Shao L, Li Y , Ruan W. The sense of familial responsibility of PLHIVs in 
+the rural areas of western China. AIDS Care. 2013; 25(10):1317–1320. [PubMed: 23402363] 
+Zhang C, Li X, Liu Y , Qiao S, Zhang L, Zhou Y , Tang Z. Emotional, physical and financial burdens of 
+stigma against people living with HIV/AIDS in China. AIDS Care. 2016; 28(Suppl. 1):124–131.
+Zhang Y , Zhang X, Aleong TH, Fuller-Thomson E. Impact of HIV/AIDS on social relationships in 
+Rural China. Open AIDS. 2011; 5:67–73.
+Zung WW. A self-rating depression scale. Archives of General Psychiatry. 1965; 12(1):63–70. 
+[PubMed: 14221692] Li et al. Page 11
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 1. 
+Flow of study participants: TEA Intervention Trial; Anhui Province, China
+Note.  PLH, people living with HIV; FM, family membersLi et al. Page 12
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 2. 
+A – Mean Depressive Symptoms over Time for PLH
+B – Mean Coping with Illness over Time for PLHLi et al. Page 13
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 3. 
+A – Mean Depressive Symptoms over Time for Family Members
+B – Mean Caregiver Burden over Time for Family MembersLi et al. Page 14
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptLi et al. Page 15
+Table 1
+Sample Characteristics for PLH and Family Members
+Control Intervention
+Mean (SD) or N (%) Mean (SD) or N (%) P
+Individual Characteristics
+PLH N=265 N=257
+  Age (years), Mean (SD) 47.2 (9.1) 50.0 (8.3) 0.0003
+  Male, N (%) 125 (47.2) 109 (42.4) 0.27
+  Education, N (%) 0.52
+    None 102 (38.5) 108 (42.0)
+    0 to 6 Years 123 (46.4) 118 (45.9)
+    > 6 Years 40 (15.1) 31 (12.1)
+  Married, N (%) 222 (83.8) 203 (79.0) 0.16
+Family Member N=238 N=237
+  Age, Mean (SD) 43.3 (14.1) 41.0 (14.3) 0.07
+  Male, N (%) 91 (38.2) 77 (32.5) 0.19
+  Education, N (%) 0.58
+    None 71 (29.8) 61 (25.7)
+    0 to 6 Years 96 (40.3) 104 (43.9)
+    > 6 Years 71 (29.8) 72 (30.4)
+  Relationship to PLH, N (%) 0.68
+    Spouse 117 (49.2) 112 (47.3)
+    Other 121 (50.8) 125 (52.7)
+Family Characteristics N=238 N=237
+  Family Income, N (%) 0.16
+    Less than 5,000 6 (2.5) 8 (3.4)
+    5,000 to < 10,000 22 (9.2) 34 (14.4)
+    10,000 to < 20,000 83 (34.9) 90 (38.0)
+    ≥20,000 127 (53.4) 105 (44.3)
+  Family Size, N (%) 0.54
+    4 or Less 59 (24.8) 49 (20.7)
+    5 to 6 97 (40.8) 99 (41.8)
+    More than 6 82 (34.5) 89 (37.6)
+Outcome Measures at Baseline
+PLH, Mean (SD)
+  Coping with Illness 33.4 (8.3) 35.3 (7.7) 0.0083
+  Depressive Symptoms 22.3 (5.5) 22.3 (5.2) 0.99
+Family Member, Mean (SD)
+  Caregiver Burden 49.2 (11.2) 48.3 (11.7) 0.39
+  Depressive Symptoms 18.6 (5.3) 18.7 (5.2) 0.78
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptLi et al. Page 16Table 2
+Adjusted Regression Analyses for PLH on Mental Health Measures
+Coping with Illness Depressive Symptoms
+Estimate SE PEstimate SE P
+Baseline Characteristics
+  Age −0.019 0.028 0.5114 0.081 0.021 0.0002
+  Male 1.096 0.520 0.0354 −2.152 0.388 <.0001
+  Education (REF: > 6 Years)
+    None −2.250 0.781 0.0040 −0.209 0.578 0.7177
+    6 or Less −1.034 0.709 0.1446 −0.379 0.524 0.4698
+  Married −0.753 0.612 0.2192 −0.166 0.457 0.7460
+  Family Income (REF: ≥20,000)
+    Less than 5,000 −1.146 1.318 0.3847 2.691 1.002 0.0073
+    5,000 to < 10,000 −0.508 0.754 0.5000 0.629 0.580 0.2784
+    10,000 to < 20,000 0.001 0.508 0.9991 0.899 0.382 0.0186
+  Family Size (REF: > 6)
+    4 or Less −0.589 0.636 0.3544 −0.417 0.481 0.3864
+    5 to 6 −1.176 0.524 0.0249 0.339 0.393 0.3881
+Comparison of Interest
+  Baseline 2.184 0.707 0.0020 −0.428 0.563 0.4476
+  Intervention Effects1
+      6 Months 4.435 0.838 <.0001 −1.401 0.432 0.0011
+      12 Months 3.192 0.850 0.0002 −0.975 0.438 0.0262
+      18 Months 3.084 0.849 0.0003 −1.388 0.437 0.0015
+      24 Months 2.541 0.869 0.0035 −1.539 0.449 0.0006
+Note .
+1Estimated difference in changes from the baseline (Intervention - Control)
+Health Psychol . Author manuscript; available in PMC 2018 September 01.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptLi et al. Page 17Table 3
+Adjusted Regression Analyses for Family Members on Mental Health Measures
+Caregiver Burden Depressive Symptoms
+Estimate SE PEstimate SE P
+Baseline Characteristics
+  Age 0.165 0.027 <.0001 0.088 0.014 <.0001
+  Male −1.680 0.777 0.0307 −1.219 0.402 0.0025
+  Education (REF: > 6 Years)
+    None 1.345 1.043 0.1978 1.554 0.538 0.0040
+    6 or Less −0.042 0.819 0.9594 0.360 0.422 0.3937
+  Relationship to PLH (REF: Others)
+    Spouse −3.944 0.740 <.0001 −0.731 0.381 0.0553
+  Family Income (REF: ≥20,000)
+    Less than 5,000 3.701 1.982 0.0620 2.609 1.028 0.0113
+    5,000 to < 10,000 0.477 1.093 0.6622 0.755 0.571 0.1859
+    10,000 to < 20,000 1.828 0.729 0.0123 1.146 0.376 0.0024
+  Family Size (REF: > 6)
+    4 or Less −0.689 0.916 0.4520 −1.763 0.477 0.1100
+    5 to 6 −0.493 0.753 0.5128 −0.463 0.388 0.2329
+Comparison of Interest
+  Baseline −0.725 0.891 0.4155 0.202 0.467 0.6650
+  Intervention Effects  1
+      6 Months −1.007 0.944 0.2864 −1.329 0.430 0.0021
+      12 Months −0.182 0.966 0.8504 −2.169 0.442 <.0001
+      18 Months −1.657 0.974 0.0891 −1.510 0.445 0.0007
+      24 Months −0.548 0.979 0.5756 −1.035 0.445 0.0202
+Note .
+1Estimated difference in changes from the baseline (Intervention - Control)
+Health Psychol . Author manuscript; available in PMC 2018 September 01.

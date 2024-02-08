@@ -1,0 +1,1263 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rhpr20Health Psychology Review
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rhpr20
+Mindfulness enhances cognitive functioning: a
+meta-analysis of 111 randomized controlled trials
+Nur Hani Zainal & Michelle G. Newman
+To cite this article:  Nur Hani Zainal & Michelle G. Newman (30 Aug 2023): Mindfulness
+enhances cognitive functioning: a meta-analysis of 111 randomized controlled trials, Health
+Psychology Review, DOI: 10.1080/17437199.2023.2248222
+To link to this article:  https://doi.org/10.1080/17437199.2023.2248222
+View supplementary material 
+Published online: 30 Aug 2023.
+Submit your article to this journal 
+Article views: 457
+View related articles 
+View Crossmark data
+Citing articles: 1 View citing articles 
+
+Mindfulness enhances cognitive functioning: a meta-analysis of
+111 randomized controlled trials
+Nur Hani Zainala,band Michelle G. Newmanc
+aDepartment of Health Care Policy, Harvard Medical School, Boston, MA, USA;bDepartment of Psychology, National
+University of Singapore, Singapore;cDepartment of Psychology, The Pennsylvania State University, University Park,
+PA, USA
+ABSTRACT
+Background: Currently no comprehensive meta-analysis of MBI e ﬃcacy
+on global and unique cognitive subdomains exist.
+Method: Examined the e ﬀects of MBIs on global cognition and 15
+cognitive subdomains. Inclusion criteria: meditation naïve participants;randomized controlled trial; outcome included one objective or
+subjective cognitive functioning measure; primary focus was teaching
+mindfulness skills. Exclusion criteria: inadequate data; one-session ;control condition contained any MBI component. Robust variance
+estimation and moderator analyses controlling for presence of
+treatment ﬁdelity were conducted.
+Results: One-hundred-and-eleven RCTs ( n= 9,538) met eligibility criteria.
+MBIs had small-to-moderate signiﬁcant e ﬀects on global cognition,
+executive attention, working memory accuracy, inhibition accuracy,
+shifting accuracy, sustained attention, and subjective cognitive
+functioning (vs. waitlist/no-treatment, g= 0.257 –0.643; vs. active
+controls, g= 0.192 –0.394). MBIs did not impact executive functioning
+(EF) latency indices, verbal ﬂuency, processing speed, episodic memory,
+and cognitive error. Treatment e ﬀects were stronger for those with
+elevated psychiatric symptoms vs. healthy controls, and medicalsamples, studies with complete-case (vs. intention-to-treat) analysis,
+face-to-face (vs. self-guided) delivery, and non-standard (vs. standard
+MBI).Conclusion: MBIs consistently yielded small-to-moderate yet practically
+meaningful e ﬀect sizes on global cognition and six cognitive
+subdomains that captured accuracy vs. latency-based indices of EF andsustained accuracy.ARTICLE HISTORY
+Received 20 September 2022
+Accepted 9 August 2023
+KEYWORDS
+Mindfulness-basedinterventions; cognitivefunctioning; randomisedcontrolled trials; meta-
+analysis; executive function
+Mindfulness is described as the intentional practice of non-judgmentally focusing on experiences in
+the here and now in ﬂexible, curious, and receptive ways (Bishop et al., 2004 ). Originating from Bud-
+dhist philosophies and meditative practices, abundant scienti ﬁc evidence has shown that mindful-
+ness-based interventions (MBIs) positively a ﬀect various health outcomes across diverse age
+groups, genders, and people living in di ﬀerent cultural contexts (Abbott et al., 2014 ; Black &
+Slavich, 2016 ; Flook et al., 2015 ; Kaunhoven & Dorjee, 2017 ; Wetherell et al., 2017 ). Advancing our
+understanding of potential mechanisms via which mindfulness confers bene ﬁts is thus essential.
+Mindfulness can improve executive functioning (EF),1which involves higher cognitive control func-
+tions. MBIs teach focused attention (FA) and open monitoring (OM) exercises to enhance EF abilities
+© 2023 Informa UK Limited, trading as Taylor & Francis GroupCONTACT Nur Hani Zainal hani.bzainal@gmail.com
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/17437199.2023.2248222 .HEALTH PSYCHOLOGY REVIEW
+https://doi.org/10.1080/17437199.2023.2248222
+(Stein & Witkiewitz, 2020 ). FA training involves sustaining attention to a particular object or aspect of
+experience and continually re-focusing after distractions (An ālayo, 2019a ). OM practices involve non-
+judgmental and non-elaborative awareness (Uusberg et al., 2016 ), cultivating non-reactivity to cog-
+nitive and emotional content (An ālayo, 2019b ). These processes are plausible distinct mechanisms
+via which FA and OM may bene ﬁt EF domains.
+Further, FA exercises might bene ﬁtworking memory (WM; Corbetta & Shulman, 2002 ). Practicing
+FA and OM has been theorised to positively impact WM by continually updating information (Jha
+et al., 2019 ; Miyake et al., 2000 ; Vago et al., 2019 ). The positive in ﬂuence of OM on emotion regulation
+abilities might also enhance WM capacity through meta-cognitive processes (Lutz et al., 2015 ;
+Raﬀone et al., 2019 ).
+In addition, practicing FA could enhance the ability to shift between thinking modes and inhibit
+autopilot responses. Shifting involves ﬂuently switching back and forth between di ﬀerent thinking
+modes (Berg, 1948 ; Chiu et al., 2018 ;R aﬀone & Srinivasan, 2017 ), whereas inhibition refers to the
+eﬀortful refraining from autopilot responses (Jewsbury et al., 2016 ). These bene ﬁts of FA are
+especially evident when attention is directed away from unhelpful thoughts toward the present
+moment and task at hand (Wolkin, 2015 ).
+On that note, mindfulness practices might enhance attentional control (Sorensen et al., 2018 ), a
+foundational precursor to EF (Vilgis et al., 2015 ). For instance, it has been proposed that MBIs can
+improve meta-cognition and attentional facets (Haigh et al., 2010 ), such as sustained attention accu-
+racy (Esterman & Rothlein, 2019 ) and intra-individual coe ﬃcient of variation (Bellgrove et al., 2004 ;
+Cubillo et al., 2023 ).Sustained attention has also been de ﬁned as alerting (Prakash et al., 2020 ),
+and recurrently identifying distracting thoughts could buttress the salience attentional control sub-
+domain linked to the identi ﬁcation of or goal-driven ﬁxation on speciﬁ c visual or physical cues (Awh
+et al., 2012 ; Seeley et al., 2007 ). Furthermore, mindfulness practices can improve orienting (orselective
+attention ) ability by redirecting attention back to the task at hand (Ristic et al., 2007 ; Sood & Jones,
+2013 ). Also, MBIs may enhance executive attention by managing con ﬂicting thoughts, emotions, and
+responses (Petersen & Posner, 2012 ). Taken together, these theories propose that MBI skills may
+enhance attention domains through observation, discernment, psychological ﬂexibility strategies,
+and increased awareness of in ﬂuential factors (Cubillo et al., 2023 ; Garland et al., 2015 ).
+MBIs could impact various cognitive functioning domains beyond EF and attentional constructs.
+For example, they might enhance verbal ﬂuency by improving the ability to verbalize internal experi-
+ences and external events using precise and expressive language (Baer et al., 2004 ). Relatedly, MBIs
+could reduce cognitive errors and distractions during task engagement by reducing repetitive nega-
+tive thinking, such as worry and rumination (Gu et al., 2015 ; Lindsay & Creswell, 2017 ; Posner et al.,
+2015 ; Teper et al., 2013 ). Such processes could free up more cognitive resources to attend to and
+process incoming information, improving processing speed (Müller et al., 2021 ) and episodic
+memory (Allen & Fortin, 2013 ; Tulving, 2002 ). Additionally, increased acceptance, awareness, and
+quality of engagement through MBIs might enhance subjective cognitive functioning (Daglas-Geor-
+giou et al., 2022 ; Hallion et al., 2019 ; Lindsay & Creswell, 2017 ) and objective cognitive functioning
+(Fisher et al., 2019 ; Teper & Inzlicht, 2013 ). Collectively, MBIs could re ﬁne speci ﬁc cognitive subdo-
+mains and global cognition by freeing up limited resources and enabling e ﬀective and e ﬃcient
+use
+of them.
+To date, only six meta-analyses focused solely on RCTs of MBIs examining cognitive
+functioning outcomes. For example, across 13 RCTs ( n= 1,112), MBIs had substantial, moderate
+eﬀects on WM and inhibition but a negligible impact on shifting among adults (Cásedas et al.,
+2020 ). In children and adolescents, across 17 studies ( n= 1,762), MBIs led to small but meaningful
+eﬀects on attentional control and global EF (e.g., planning, WM; Dunning et al., 2019 ). Also, seven
+RCTs ( n= 170) found positive impacts of MBIs (vs. controls) on attention and episodic memory
+among persons with multiple sclerosis (Han, 2021 ). Relatedly, across 27 RCTs ( n= 1,632), MBIs had
+small yet signi ﬁcant eﬀ ects on attention and global EF, but not WM, among healthy adults ages
+18–65 (Yakobi et al., 2021 ). However, these reviews did not consistently examine the e ﬀects of2 N. H. ZAINAL AND M. G. NEWMAN
+MBIs on EF facets and executive attention. Also, data synthesised across nine studies ( n= 724)
+showed that MBIs did not notably impact attention, EF, memory, and global cognition in adults
+aged 60 years and above (Sanchez-Lara et al., 2021 ). Most recently, across 56 independent studies
+(n= 2,931), MBIs displayed superior eﬀ ects on global cognition, EF, and WM, compared to no-treat-
+ment but not active controls (Whit ﬁeld et al., 2022 ).
+Overall, previous reviews had several gaps that the current meta-analysis was designed to ﬁll.
+First, beyond methodological limitations related to most of them, such as including uncontrolledor non-randomised studies, only two (Verhaeghen, 2021 ; Whit ﬁeld et al., 2022 ) tested if MBIs
+exerted di ﬀerential eﬀ ects on attentional control subdomains –alerting (or sustained attention),
+orienting, and executive attention. These attentional control domains should be examined separ-ately as MBIs could in ﬂuence them di ﬀerently, given that they are neurologically dissociable
+despite their inter-connectedness (Posner & Rothbart, 2007 ). Further, prior MBI meta-analyses that
+examined moderators (Im et al., 2021 ; Verhaeghen, 2021 ) tended to test their eﬀ ects only on
+global cognition. Since moderator eﬀ ect sizes might be domain-speci ﬁc, the currentir meta-analysis
+can provide more information by testing potential treatment and moderator e ﬀects on di ﬀerent cog-
+nitive domain outcomes. In addition, to our awareness, no reviews have investigated whether MBIsinﬂuenced processing speed, subjective cognitive functioning, and cognitive error, despite the the-
+ories above suggesting those possibilities. Also, it may be helpful to test the e ﬀects of MBIs on both
+objective (performance-based) cognitive functioning domains and subjective (self-reported) atten-tional control, as these aspects of cognitive functioning might not align (Vago et al., 2019 ; Van
+Dam et al., 2018 ). Doing so also permits examining if MBIs a ﬀected accuracy –more than latency-
+based markers of EF.
+Additionally, no prior reviews have investigated whether instructor-led face-to-face (vs. self-
+guided) MBIs were more potent at changing cognitive outcomes. This question is becoming more
+important given the recent rise in mostly low-intensity self-help digital MBIs (Mrazek et al., 2019 ),
+highlighting the importance of determining their e ﬀectiveness in improving brain health on a
+broader scale. Relatedly, most prior meta-analyses have not tested if gender, study quality, retentionpercentage, and complete-case (vs. intent-to-treat; ITT) analyses would moderate the impact of MBIs
+on cognitive functioning. Such eﬀ orts are necessary to determine under which conditions MBIs
+would be of bene ﬁt. Also, as lack of attention to treatment integrity is a ﬁeld-wide major limitation
+concerning the state of science on this topic (Crane & Hecht, 2018a ), our meta-analysis adds to prior
+ones by including the presence of reported treatment ﬁdelity
+checks as a covariate. In addition,
+whereas most prior meta-analyses had restricted age ranges, we tested the main and interaction
+treatment eﬀ ects of MBIs on cognitive functioning across the lifespan. Also, we examined only
+MBI RCTs and included 95 (Cásedas et al., 2020 ), 84 (Yakobi et al., 2021 ), and 55 (Whitﬁ eld et al.,
+2022 ) more studies than recent RCT-focused ones.
+Most importantly, our eﬀ orts thus oﬀ er a more accurate, comprehensive, and up-to-date review,
+particularly by examining the impact of MBIs on pre –post global cognition and 15 cognitive func-
+tioning domains and MBI eﬀ ects on pre-follow-up global cognition. These 15 cognitive subdomains
+are essential to study as separate MBI outcomes as they contribute to daily functioning, well-being,
+and task performance and could mitigate the risk for or target issues related to cognitive disorders(e.g., attention-de ﬁcit/hyperactivity disorder (ADHD), dementia), and improve clinical outcomes
+(Braenden et al., 2023 ; Lenze et al., 2022 ). The upshot is that understanding the potential and
+limits of MBIs to enhance these 15 cognitive subdomains may advance psychological sciences viapositive cumulative personal and societal impacts.
+Considering the above, an up-to-date systematic quantitative review was conducted to syn-
+thesise 111 RCTs ( n= 9,538) to assess the strength of the eﬀ ect of MBIs on global cognition and
+the following unique cognitive subdomains: orienting, executive attention, WM accuracy and
+latency, inhibition accuracy and latency, shifting accuracy and latency, sustained attention (accuracy
+or intra-individual coe ﬃcient of variation), subjective cognitive functioning, processing speed,
+verbal ﬂuency, episodic memory, and cognitive error. We selected these 15 subdomainsHEALTH PSYCHOLOGY REVIEW 3
+because there was su ﬃcient RCT literature to conduct a meta-analysis. Doing so can catalyse
+future eﬀ orts to advance the ﬁeld on this topic by examining the eﬀ ects of MBIs on other under-
+studied cognitive subdomains, such as decision-making (Fernando et al., 2016 ; Kirk et al., 2016 ),
+inductive reasoning (Shapiro et al., 2012 ), language (Dickinson et al., 2016 ), and delay discounting
+(MacKillop et al., 2011 ). Moreover, as previous reviews arrived at varying conclusions, this systema-
+tic review tested factors that may have moderated the strength of the e ﬀect of MBIs on unique
+cognitive subdomains.
+Method
+Search
+Search terms and databases
+This meta-analysis was carried out using the Preferred Reporting Items for Systematic Reviews and
+Meta-Analyses (PRISMA; Moher et al., 2009 ) and was registered with the International Prospective
+Register of Systematic Reviews (PROSPERO; #CRD42020220576; https://tinyurl.com/5bhrmnub ).
+We de ﬁned eligibility criteria and methods before the search and selection process and continually
+documented these steps in a study protocol. Relevant studies were identi ﬁed by searching ﬁve data-
+bases (ScienceDirect, PubMed, PsycINFO, Google Scholar, and Cochrane Library). Search dates
+included all articles that met eligibility criteria from January 1989 to December 2022. We used the
+following keyword combinations: ‘mindful*, ’or ‘mindful* training ’or ‘meditation ’and ‘cognition, ’
+‘attention,’‘ executive attention,’‘ cognitive control, ’‘shifting, ’‘switching,’‘ inhibition, ’‘inhibitory
+control, ’‘cognitive ﬂexibility, ’‘working memory, ’‘verbal ﬂuency ’and ‘randomised controlled trial ’
+or ‘RCT. ’Further, we systematically searched through reference sections of articles pertinent to
+our research question and eligible studies. To reduce the odds of publication bias (i.e., ﬁle drawer
+problem; Rosenthal, 1979 ), we included unpublished master ’s theses and doctoral dissertations
+that met eligibility criteria. Moreover, we searched for potentially eligible articles via PsyArXiv Pre-
+prints and requested eligible data from pertinent society listservs.
+Screening process
+Eligibility criteria included: (1) sample comprised meditation naïve participants; (2) random assign-ment to MBIs vs. no-treatment, waitlist, or active control; (3) administration of at least one behav-
+ioural, cognitive assessment, or subjective cognitive functioning measure at baseline and post-
+treatment; (4) teaching mindfulness skills was the primary focus of treatment (Creswell, 2017 ).
+Speciﬁcally, MBIs had to include psychoeducation and FA and/or OM skills delivery. (5) MBIs had
+to include at least two sessions (note that number of sessions was also examined as a moderator).Also, homework was prescribed.
+We excluded studies if: (1) data was inadequate to calculate e ﬀect sizes; (2) they used acceptance
+and commitment therapy, dialectical behaviour therapy, integrative mind –body training, loving-kind-
+ness meditation, neurofeedback mindfulness training, mantra-based training, hatha yoga, or mindful-ness-oriented yoga, self-compassion training, were augmented with aromatherapy or (3) a control
+condition contained any form of MBIs or MBI components (see Figure 1 for PRISMA ﬂowchart).
+Coding procedures
+We double-coded studies ( k= 111) for participant attributes (e.g., age, percentage of female), clinical
+status (i.e., healthy control (HC), participants with elevated psychiatric symptoms (PSY) or medical/
+physical illness symptoms (MED)), treatment attributes (e.g., number of sessions, number of
+session hours), active (cognitive –behavioural therapy (CBT), cognitive training, psychoeducation-
+only, or treatment-as-usual (TAU) that involved some intervention) vs. no treatment or waitlist
+control condition, self-guided vs. teacher-led, standard (de ﬁned as MBSR or MBCT) vs. non-standard4 N. H. ZAINAL AND M. G. NEWMAN
+MBI, study attributes (study quality, presence of ﬁdelity checks, retention percentage), and cognitive
+function outcome attributes. The ﬁrst author coded and extracted data from all studies. A second
+coder from a research team of 16 members also independently coded for reliability. All coders under-
+went a standardised and rigorous training protocol that involved a mixture of didactics, regular
+meetings, consultations, and literature reviews. Discrepancies were resolved via regular discussion,
+and coders reached an agreement regarding a ﬁnal set of codes.
+Study quality
+We evaluated study quality based on an adapted version of the Delphi criteria (Verhagen et al., 1998 ).
+The modi ﬁed criteria were: (1) randomisation conducted, (2) individuals in both conditions wereFigure 1. PRISMA ﬂowchart summarising the study identi ﬁcation, screening, and selection process.
+Note: MBI = mindfulness-based intervention; PRISMA = preferred reporting items for systematic reviews and meta-analyses; RCT = randomised con-
+trolled trial.HEALTH PSYCHOLOGY REVIEW 5
+demographically alike, (3) eligibility criteria de ﬁned, (4) experimenters who administered cognitive
+function measures were uninformed of treatment allocation, (5) su ﬃcient descriptive statistics
+(e.g., mean and standard deviations at all periods) were reported or available upon request to
+compute eﬀ ect sizes for pre-to-post treatment changes, (6) ITT analysis used. Ful ﬁlling each criterion
+received one point (vs. a zero). The Delphi score thus ranged from 0 to 6. In addition, this Delphi
+score study quality rating was used in the moderator analysis. We also assessed study quality
+using the Cochrane Collaboration risk of bias instrument (Higgins et al., 2011 ).
+Measurement properties
+Cognitive data were coded for global cognition and 15 cognitive subdomains: orienting, executive
+attention, WM accuracy or latency, inhibition accuracy or latency, shifting accuracy or latency, sus-
+tained attention (accuracy or intra-individual coe ﬃcient of variation), subjective cognitive function-
+ing, processing speed, verbal ﬂuency, episodic memory, and cognitive error. Table 1 in the main
+manuscript and Table S1 in the online supplemental materials (OSM) provide information on thedeﬁnitions of global cognition, the 15 cognitive subdomains examined in the current meta-analysis,
+and the di ﬀerent types of tests classi ﬁed in each cognitive subdomain. The OSM also details the
+speciﬁ c measures used for each cognitive subdomains and their psychometric properties.
+Planned analyses
+All analyses were conducted in RVersion 4.0.1. Inter-rater agreement was established with the irr
+package in R(Gamer et al., 2007 ). The Rpackages robumeta (Fisher et al., 2017 ),metafor (Viechtbauer,
+2010 ), and ggplot2 (Wickham, 2016 ) were used to examine treatment eﬀ ects, study heterogeneity,
+outliers, and publication bias and to create funnel and forest plots. Rsyntax of analyses is available
+on Open Science Framework.
+Reliability
+We established inter-rater agreement by computing two-way intra-class correlation coe ﬃcients
+(ICCs) for continuous variables (Shrout & Fleiss, 1979 ) and unweighted Cohen ’s kappa ( κ) for all
+binary or nominal variables (Hallgren, 2012 ).
+Eﬀect sizes
+Due to the diversity of studies, such as the varying number of treatment comparators (1 –2) and cog-
+nitive outcome measures, we applied a random e ﬀects model (Borenstein et al., 2009 ). Further, we
+used robust variance estimation (RVE) with small sample adjustments to account for the non-inde-pendence of eﬀ ect sizes clustered within the same samples and for studies with multiple treatment
+comparators (Tanner-Smith et al., 2016 ). Moreover, these RVE approaches produced e ﬀect size and
+95% conﬁ dence interval (CI) estimates that accounted for e ﬀect size dependency. E ﬀect sizes were
+coded such that higher values signi ﬁed better cognitive outcomes between the treatment and
+control groups.
+Based on random-e ﬀects models using pre- and post-treatment data between groups, we com-
+puted Hedge ’sgto obtain accurate and unbiased parameter estimates (e.g., correcting for biases due
+to small sample size) to calculate pre-post e ﬀect sizes. As the pre- and post- correlation were not
+obtainable, we used a conservative estimate ( r= .50) representative of the retest reliability of cogni-
+tive functioning tasks reported in the literature to date (Dai et al., 2019 ; Hedge et al., 2018 ). A similar
+approach was used for global cognition to calculate pre-follow-up treatment e ﬀect sizes (MBIs vs.
+waitlist or no-treatment and MBIs vs. active controls).
+2We controlled for the presence of reported
+treatment ﬁdelity checks in all eﬀ ect size analyses.
+We also contacted 15 authors for these descriptive statistics. Of these, nine responded. When
+we could not obtain the descriptive statistics, other inferential statistics (e.g., p,t,F) that6 N. H. ZAINAL AND M. G. NEWMAN
+Table 1. Deﬁnition of unique cognitive functioning subdomains and their speci ﬁc tests.
+Episodic Memory: Capacity to correctly recall previous events, facts, and information with their situational context ( Allen & Fortin,
+2013 ;Tulving, 2002 ).
+CVLT-LDFR (Delis et al., 2017 ): Participants received instructions to listen and recall words on a 16-item list following each of the
+ﬁve learning trials. Following a distractor list, participants were again instructed to retrieve words verbally spontaneously (short
+delay-free recall) (SDFR) and with categorical cues. After the longer delay, participants underwent a yes/no recognition trial that
+required them to di ﬀerentiate between the target words in the prior 16-item list and 32-item distractor list. The CVLT-LDFR
+score could range from 0 to 16.
+Attentional Control :Basic ability to regulate mental focus on tasks consistent with a desired aim (Sorensen et al., 2018 ).
+Attentional Control –Executive Attention: Ability to skilfully manage responses in the face of con ﬂicting thoughts,
+emotions, and responses or con ﬂict monitoring ( Petersen & Posner, 2012 ).
+ANT –Executive attention (Fan et al., 2002 ; Posner et al., 2015 ): Participants had to classify as rapidly and accurately as possible
+if the central (target) arrow pointed left or right on double cue trials where ﬂanker arrows pointed in the same direction
+(congruent trials) or opposite direction (incongruent trials). Executive control was computed by subtracting the average RT ofcongruent trials from the average RT of incongruent trials such that large positive scores signi ﬁed poorer executive attention.
+Attentional Control –Orienting: Honing focus on an object amid diverse sensory input or selective attention (Ristic et al.,
+2007 ;Sood & Jones, 2013 ).
+ANT –Orienting (Fan et al., 2002 ; Posner et al., 2015 ): Refer to the description above. Orienting was computed by subtracting the
+average RT on spatial cue trials from the average RT on centre cue trials (both trials informed participants on target onset, butthey received cues of spatial orienting only on spatial-cue trials).
+Executive Functioning (EF): Higher complex cognitive control functions responsible for governing cognitive and
+behavioural processes.
+Inhibitory Control: Ability to refrain from autopilot response tendencies e ﬀortfully ( Jewsbury et al., 2016 ).
+Stroop test (Stroop, 1935 ): Participants viewed matrices of colour-words printed in blue, red, and green ink that were either
+congruent (e.g., ‘red ’word with red ink) or incongruent (e.g., ‘red ’word with blue ink) and were asked to name the ink colour as
+rapidly and accurately as possible. RT and task accuracy were documented for this test.
+Set-Shifting: Capacity
+ to switch back and forth between distinct thinking modes ﬂuently ( Berg, 1948 ;Chiu et al., 2018 ).
+WCST (Grant & Berg, 1948 ): Participants were given four stimulus cards (mixture of shapes, colours, and numbers) across up to 64
+or 128 trials for 10 –20 min. Per the instructions, they sorted the cards based on speci ﬁc rules (i.e., shape, colour, or number)
+across trials and received feedback during each trial on whether their choice was correct or wrong.
+Working Memory (WM): Adeptness to continually monitor environmental input and replace out-of-date information with
+new information ( Jha et al., 2019 ;Miyake et al., 2000 ;Vago et al., 2019 ).
+N-Back Task (Kane et al., 2007 ; Owen et al., 2005 ): Participants were instructed to retain information for a speci ﬁc stimulus.
+Further, when a new stimulus substituted the most prior one, the WM should have updated the information. The count ofaccurate responses and RT were indicators of WM performance. Similar variants of the n-back tasks used in previous MBI RCTsexist (e.g., NIH-EXAMINER; Kramer et al., 2014 ).
+Verbal Fluency: Capacity to generate as many relevant words based on a cue (e.g., semantic category, letter) within a time
+limit ( Henry & Crawford, 2004 ;Raucher-Chéné et al., 2017 ).
+COWAT –Phonemic (Benton & Hampsher, 1978 ): Participants had to name as many unique words within 1 min based on a
+phonemic cue (e.g., the letter ‘F,’‘A,’or‘S.’).
+Subjective Cognitive Functioning: Perception of the degree individualsbelieved in their capacity to stay focused on task,
+process information, memorise facts, and exercise other cognitive functioning faculties (Daglas-Georgiou et al., 2022 ;
+Hallion et al., 2019 ).
+ACS (Derryberry & Reed, 2002 ; Judah et al., 2014 ): Participants rated their perception of how well they could generally focus on
+the task at hand and ﬂexibly shift attention between di ﬀerent tasks.
+Sustained Attention Accuracy: Degree of correctness and consistency with staying on-task (Esterman & Rothlein, 2019 ).
+Sustained attention has also been de ﬁned as alerting (essential arousal or awareness of objects; Prakash et al., 2020 ).
+CPT (Corbett
+ et al., 2009 ; MacLean et al., 2010 ): Participants received instructions to focus on the screen, saw one integer appear
+on the screen at a time, and had to press the spacebar when a speci ﬁc number (e.g., the integer ‘6’) or letter (e.g., ‘K’or‘X’)
+appeared. In the AX-CPT version (Braver, 2012 ; Servan-Schreiber et al., 1996 ), participants were told to o ﬀer a target response to
+an ‘X’probe after an ‘A’cue and to o ﬀer a non-target response for other kinds of non-target trials: cue ‘A’and subsequently a
+‘non-X ’probe letter (i.e., ‘AY’ trial); a ‘non-A ’and subsequently an ‘X’probe letter (i.e., BX trial); and a ‘non-A ’cue and
+subsequently a ‘non-X ’probe letter (i.e., ‘BY ’trial). Higher number of accurate responses indicated better sustained attention
+ability.
+Intra-Individual Coe ﬃcient of Variation: Degree of variability in oﬀering accurate responses on sustained attention tasks
+(Bellgrove et al., 2004 ;Cubillo et al., 2023 ).
+DART (Dockree et al., 2006 ; Robertson et al., 1997 ): Participants underwent procedures similar to the SART with the addition of a
+CPT to enhance the sensitivity of capturing sustained attention in healthy adults. Higher RT coe ﬃcient of variation (CV) for
+white integers denoted poorer overall DART performance.
+Processing Speed: Degree of task completion e ﬃciency ( Muller et al., 2021 ).
+LDST (Lezak
+et al., 2012 ; Smith, 1982 ; van der Elst et al., 2006 ): This assessment was adapted from earlier substitution tests, i.e.,
+the Symbol Digit Modalities Test (SDMT) and the Digit Symbol Substitution Test (DSST). The DSST required participants toattend to a symbol-letter key and to write down the matching symbol beneath each digit in a blank space. In contrast,instructions for SDMT were reversed (i.e., participants received instructions to write down the matching number).Simultaneously, participants could also verbalise answers for the DSST. The LDST di ﬀered from earlier versions by including
+(Continued )HEALTH PSYCHOLOGY REVIEW 7
+permitted computing eﬀ ect sizes based on pre-and post-treatment values (i.e., condition × time
+interaction) were calculated following recommendations by the Cochrane Collaboration
+(Higgins & Green, 2011 ). Eﬀect sizes based on change scores (vs. post-treatment scores) are
+less a ﬀected by possible baseline di ﬀerences (Johnsen & Friborg, 2015 ). Sampling variance was
+computed as the sum of variances for the treatment group and control group (Morris &
+DeShon, 2002 , p. 117).
+Outliers
+Outliers were de ﬁned as eﬀ ect sizes with studentized deleted residuals more than ± 1.96 and Cook ’s
+distance greater than the 50th percentile (Viechtbauer & Cheung, 2010 ). Sensitivity analyses tested if
+results remained the same with and without outlier(s).3Allﬁndings in the current manuscript
+excluded outliers, as outliers estimate the population average as distinct from the average calculated
+from remaining eﬀ ect sizes. In total, six outliers were deleted.
+Study heterogeneity
+To assess e ﬀect size heterogeneity, we used the I2and Qstatistic. I2represents the degree of het-
+erogeneity of the true observed dispersion due to between-study variability instead of within-
+study sampling error. I2values of 25%, 50%, and 75% were considered small, moderate, and
+large, respectively (Higgins et al., 2003 ). A statistically signi ﬁcant Qstatistic suggests that variability
+around the average eﬀ ect size is higher than would be solely predicted from sampling error
+(Cochran, 1954 ). Importantly, signi ﬁcant heterogeneity was required before conducting moderator
+analyses.
+Publication bias
+We assessed publication bias using the p-uniform test (van Assen et al., 2015 ) and inspected the
+funnel plots. Funnel plots illustrate publication bias by mapping each study ’seﬀect size with its stan-
+dard error, such that more signi ﬁcant asymmetry indicates more risk of bias. Figures S3a to S19b in
+the OSM provide funnel plots for all cognitive outcomes.
+Results
+Inter-rater agreement
+At the screening stage, high levels of inter-rater agreement were observed for both continuous ( ICC
+= .983) and categorical outcomes ( κ= .978 –.992). Likewise, at the data extraction stage, we foundTable 1. Continued.
+Episodic Memory: Capacity to correctly recall previous events, facts, and information with their situational context ( Allen & Fortin,
+2013 ;Tulving, 2002 ).
+‘over-learned ’symbols (i.e., letters and numbers). Therefore, participants received instructions to learn the digit-letter
+connections, whereas other substitution tests required participants to acquire abstract symbols.
+Cognitive Errors: Mistakes by commission or omission (Fetterman & Robinson, 2011 ).
+d2 Test of Attention (Brickenkamp, 2002 ): Higher total error rate (i.e., commission errors and omission errors divided by total
+possible accurate responses), the error percentage (total errors divided by total processed responses multiplied by 100), and the
+error distribution (i.e., error sums for three assessment sections –lines 1-5, lines 5-10, and lines 11-14) indicated more cognitive
+errors.
+Global Cognition: Composite of all cognitive subdomains herein.
+MOCA (Nasreddine et al., 2005 ): A brief clinician-administered neurocognitive assessment that included abstract reasoning,
+attention, language, orientation to time and place, short-term memory, and visuospatial function.
+Note .ACS = attention control scale; ANT = attention network test; COWAT = controlled oral word association task; CPT = continu-
+ous performance test; CVLT-LDFR = California verbal learning test-long delay-free recall; DART = dual attention response task;DCCS = dimensional change card sort task; DEX = dysexecutive questionnaire; DSB = digit span backward; DSF = digit span
+forward; LDST = letter-digit substitution task; MBI = mindfulness-based intervention; MOCA = Montreal cognitive assessment;
+RCT = randomised controlled trial; RT = response time; SART = sustained attention response task; SDMT = symbol digit modal-ities test; WCST = Wisconsin card sorting test.8 N. H. ZAINAL AND M. G. NEWMAN
+strong levels of inter-rater agreement for continuous ( ICC= .960 –1.000) and categorical outcomes ( κ
+= .939 –1.000). All item scores thus showed an excellent level of agreement. Fidelity checks were
+present in 64% of studies comparing MBIs to waitlist and no-treatment and 65% of studies compar-
+ing MBIs with active controls.
+Sample characteristics
+Tables S2 and S3 present study characteristics. Collectively, they included 9,538 participants with an
+average age of 33.98 years ( SD= 20.05, range = 3.92 –80.61, and of which 57.85% were female). The
+sample size ranged from 14 to 424, and the mean sample size was 84. Number of sessions rangedfrom 2 to 90 ( M= 57.85, SD= 19.81). RCTs were conducted across 22 nations, most in the United
+States ( k= 46, 41.44%). Forty-one out of 111 studies (36.94%) reported ethnicity, and in these
+studies, 60.93% of participants identi ﬁed as White. No studies reported sexual orientation/gender
+identity. Concerning socioeconomic status, six studies recruited participants with low income andthree with low socioeconomic status. Across the ﬁve studies that reported income ﬁgures, mean
+annual income ranged from $50,000 to $124,000. Also, the number of e ﬀect sizes for each indepen-
+dent study sample ranged from 1 to 39, with a mean of 6 e ﬀect sizes per study.
+Eﬀect of MBIs on cognitive domains compared to no-treatment or waitlist control
+Eﬀect size heterogeneity
+Signiﬁcant moderate-to-large eﬀ ect size heterogeneity was observed for global cognition, WM accu-
+racy, WM latency, inhibition accuracy, processing speed, and cognitive error (Table S4).
+Cognitive outcome e ﬀect sizes
+Table S4 and Figure S2 show the eﬀ ects of MBIs (vs. controls) after outlier removal. Compared to
+waitlist or no-treatment, MBIs had signi ﬁcant small-to-large positive eﬀ ects on global cognition ( g
+=0.583), executive attention ( g=0.301), WM accuracy ( g=0.326), inhibition accuracy ( g=0.643),
+shifting accuracy ( g=0.272), sustained attention accuracy ( g=0.367), and subjective cognitive func-
+tioning ( g=0.257).
+Pre-follow-up e ﬀect on global cognition
+MBIs (vs. controls) had a signi ﬁcant and robust pre-follow-up treatment eﬀ ect on global cognition,
+with a large eﬀ ect size ( g=0.808).
+Publication bias analyses for MBIs vs. waitlist/ no treatment
+Based on p-uniform tests, no publication bias was observed for all cognitive subdomains examined from
+pre- to post-treatment and pre- to follow-up ( p-uniform values = −2.69 –0.00, p=. 5 7 1 –.997). Visual
+inspection of all funnel plots showed no asymmetry indicative of publication bias (Figures S2 –S18 Part a).
+Moderator analyses for MBIs vs. waitlist/ no treatment
+Table S5 displays moderator analyses for MBIs vs. active controls e ﬀect for global cognition, WM
+accuracy and latency, inhibition accuracy, processing speed, and cognitive error domains that
+showed signi ﬁcant eﬀ ect size heterogeneity for domains with mixed outcomes.4
+Age
+Older (vs. younger) individuals evidenced signi ﬁcantly smaller eﬀ ects of MBIs (vs. waitlist or no-treat-
+ment) on WM accuracy ( g=− 0.502).HEALTH PSYCHOLOGY REVIEW 9
+Percentage female
+More females led to a signi ﬁcantly weaker eﬀ ect of MBIs (vs. waitlist or no-treatment) on processing
+speed ( g=− 3.122).
+Study quality
+Higher study quality led to a signi ﬁcantly stronger eﬀ ect of MBIs (vs. waitlist or no-treatment) on pro-
+cessing speed ( g=1.936).
+Number of sessions
+Number of sessions did not signi ﬁcantly moderate the eﬀ ect of MBIs (vs. waitlist or no-treatment) on
+any cognitive outcomes.
+Treatment duration
+Total number of hours spent on treatment did not signi ﬁcantly moderate the eﬀ ect of MBIs (vs. wait-
+list or no-treatment) on any cognitive outcomes.
+Retention percentage
+Retention percentage did not signi ﬁcantly moderate the eﬀ ect of MBIs (vs. waitlist or no-treatment)
+on any cognitive outcomes.
+Complete-case analysis
+Complete-case (vs. ITT) analysis yielded a signi ﬁcantly stronger e ﬀect of MBIs (vs. waitlist or no-treat-
+ment) for global cognition ( g=0.619 vs. 0.478) and WM accuracy ( g=0.365 vs. 0.000886). ITT (vs. com-
+plete-case) analysis generated a signi ﬁcantly larger e ﬀect on inhibition accuracy ( g=0.804 vs. 0.556).
+Type of MBI
+Standard MBSR or MBCT (vs. other non-standard MBI) had signi ﬁcantly stronger treatment eﬀ ects for
+global cognition ( g=0.796 vs. 0.468), WM accuracy ( g=0.404 vs. 0.246), inhibition accuracy ( g=
+1.213 vs. 0.467), and cognitive error ( g=0.412 vs. 0.031).
+Treatment delivery
+Self-guided MBI apps had a statistically signi ﬁcantly stronger treatment eﬀ ect size than face-to-face
+MBIs for global cognition ( g=0.588 vs. 0.583), but the eﬀ ect size di ﬀerence was too small to be prac-
+tically signi ﬁcant.
+Clinical status
+MBIs (vs. no-treatment or waitlist) had a signi ﬁcantly larger treatment eﬀ ect for persons with (vs.
+without) elevated psychiatric symptoms concerning global cognition (PSY: g=0.822; MED: g=
+0.618; HC: g=0.345), WM accuracy (PSY: g=0.396; MED: g=− 0.251; HC: g=0.301), inhibition accu-
+racy (PSY: g=0.974; HC: g=0.300), and cognitive errors (PSY: g=0.557; HC: g=0.040).
+Risk-of-bias for MBIs vs. no treatment/waitlist
+No RCTs included in this meta-analysis had high randomisation bias. Some concerns emerged for
+10.91% of the studies due to deviations from the intended intervention due to the trial context,
+but none showed a high risk of bias. There were concerns due to missing outcome data in21.82% of the studies, as they did not report the degree of missing data or if appropriate steps
+such as multiple imputation or other reasonable data replacement strategies (e.g., full information
+maximum likelihood) were taken. However, no studies showed a high risk of bias due to missingdata. In addition, some concerns emerged in 3.64% of the studies wherein assessors were aware10 N. H. ZAINAL AND M. G. NEWMAN
+of the participant ’s treatment allocation, but the remaining 96.36% of studies had a low risk of bias.
+Concerning selection bias risk, one study (1.82%) had a high bias, 10.91% of studies showed some
+concerns, but the remaining 87.27% had a low risk of bias.
+Comparison of signi ﬁcant treatment e ﬀect sizes for MBIs vs. no treatment/ waitlist
+Table S5 in the OSM compares all MBI (vs. no-treatment or waitlist) e ﬀects on various cognitive func-
+tioning domains tested herein. These signi ﬁcant treatment eﬀ ect sizes were not statistically signi ﬁ-
+cantly di ﬀerent from one another.
+Eﬀect of MBIs vs. active controls
+Eﬀect size heterogeneity
+Signiﬁcant moderate-to-large eﬀ ect size heterogeneity was observed for global cognition, inhibition
+latency, sustained attention accuracy, and subjective cognitive functioning ( Table 2).
+Cognitive outcome e ﬀect sizes
+MBIs vs. active controls had signi ﬁcant eﬀ ects on global cognition ( g=0.208), executive attention ( g
+=0.192), WM accuracy ( g=0.296), inhibition accuracy ( g=0.192), shifting accuracy ( g=0.200), sus-
+tained attention accuracy ( g=0.212), intra-individual coe ﬃcient of variation ( g=0.337), and subjec-
+tive cognitive functioning ( g=0.394), with small-to-moderate e ﬀect sizes ( Table 2 and Figure 2).
+Pre-follow-up e ﬀect on global cognition
+There was a signi ﬁcant pre-follow-up eﬀ ect of MBIs (vs. active controls) on global cognition, with a
+small eﬀ ect size ( g=0.231).
+Publication bias analyses for MBIs vs. active controls
+The p-uniform tests found no publication bias for all cognitive subdomains inspected from pre- to
+post-treatment and pre- to follow-up. Visual inspection of all funnel plots showed no asymmetrysuggesting publication bias (Figure S2 –18 Part b).
+Moderator analyses for MBIs vs. active controls
+Table S6 displays moderator analyses for the e ﬀect of MBIs vs. active controls for global cognition,
+inhibition latency, sustained attention accuracy, and subjective cognitive functioning domains thatshowed signi ﬁcant eﬀ ect size heterogeneity.
+4
+Figure 2. Forest plot of MBIs on global cognition and unique cognitive subdomain outcomes compared to active controls.
+Note: MBI = mindfulness-based intervention; WM = working memory.HEALTH PSYCHOLOGY REVIEW 11
+Age
+Age did not signi ﬁcantly moderate the eﬀ ect of MBIs (vs. active controls) on any cognitive outcomes.
+Percentage of females
+Percentage of females did not signi ﬁcantly moderate the eﬀ ect of MBIs (vs. active controls) on any
+cognitive outcomes.
+Study quality
+Study quality did not signi ﬁcantly moderate the eﬀ ect of MBIs (vs. active controls) on any cognitive
+outcomes.
+Number of sessions
+Number of sessions did not signi ﬁcantly moderate the eﬀ ect of MBIs (vs. active controls) on any cog-
+nitive outcomes.
+Treatment duration
+Total number of hours spent on treatment did not signi ﬁcantly moderate the eﬀ ect of MBIs (vs.
+active controls) on any cognitive outcomes.Table 2. Eﬀects of MBIs on global cognition and unique cognitive subdomain in comparison to active controls.
+Cognitive outcome ESN kN Hedge ’sg 95% CI QI2p-
+uniform
+Global Cognition 374 72 5847 0.208*** [0.118,
+0.298]Q(df= 373) =
+528.83 ***40.62 −2.60
+Orienting 10 6 733 0.303 [ −0.338,
+0.944]Q(df= 9) = 16.60 63.55 −1.70
+Executive attention 19 14 1686 0.192*** [0.078,
+0.306]Q(df= 18) = 18.39 0.00 0.11
+WM accuracy 37 25 2658 0.296** [0.101,
+0.490]Q(df= 37) = 113.27 66.04 −0.69
+WM latency 12 8 749 0.105 [ −0.108,
+0.317]Q(df= 11) = 6.00 0.00 0.00
+Inhibition accuracy 22 12 1221 0.192** [0.076,
+0.307]Q(df= 21) = 16.99 0.00 −0.95
+Inhibition latency 20 12 1182 0.015 [ −0.702,
+0.731]Q(df= 19) = 32.78 * 65.20 −2.28
+Shifting accuracy 18 10 1007 0.200** [0.058,
+0.341]Q(df= 17) = 26.50 47.94 −0.30
+Shifting latency 18 13 1034 −0.028 [ −0.176,
+0.120]Q(df= 17) = 26.10 7.15 −1.76
+Sustained attention accuracy 54 23 3083 0.212*** [0.100,
+0.325]Q(df= 53) =
+108.62 ***61.67 −0.29
+Intra-individual coe ﬃcient of
+variation12 9 660 0.337** [0.184,
+0.490]Q(df= 11) = 17.67 38.32 −1.34
+Subjective cognitive functioning 72 28 4278 0.394*** [0.190,
+0.597]Q(df= 71) =
+414.30 ***80.43 −0.81
+Processing speed 13 6 560 0.381 [ −0.741,
+1.504]Q(df= 12) = 17.91 50.20 −0.82
+Verbal ﬂuency 11 7 852 0.119 [ −2.300,
+2.535]Q(df= 10) = 9.17 28.07 0.00
+Episodic memory 22 10 1401 0.073 [ −0.273,
+0.420]Q(df= 21) = 13.65 0.00 0.00
+Cognitive error 30 8 1228 0.094 [ −2.219,
+2.410]Q(df= 29) = 19.12 2.10 0.85
+Note .*p≤.05; ** p≤.01; *** p≤.001.
+MBI = mindfulness-based intervention; k= number of studies; ESN= number of e ﬀect size comparisons between mindfulness-
+based interventions and a comparison group; N= sample size pooled across various studies; CI = con ﬁdence interval around
+average parameter estimate; Q= a standardised indicator for the degree of homogeneity of eﬀ ect sizes concerning the
+average e ﬀect size; I2= a metric for the proportion of observed variability that indicated real eﬀ ect size variability; WM =
+working memory.12 N. H. ZAINAL AND M. G. NEWMAN
+Retention percentage
+Retention percentage did not signi ﬁcantly moderate the eﬀ ect of MBIs (vs. active controls) on any
+cognitive outcomes.
+ITT (vs. complete-case) analysis
+Complete-case (vs. ITT) analysis had a signi ﬁcantly smaller eﬀ ect of MBIs (vs. active controls) on
+global cognition ( g=0.207 vs. 0.211), subjective cognitive functioning ( g=0.405 vs. 0.393), and sus-
+tained attention accuracy ( g=0.221 vs. 0.0672).
+Type of MBI
+Non-standard MBIs (vs. standard MBSR or MBCT) had signi ﬁcantly stronger eﬀ ects compared to
+active controls for global cognition ( g=0.229 vs. 0.171), sustained attention accuracy ( g=0.112
+vs.−0.149), and subjective cognitive functioning ( g=0.475 vs. 0.276).
+Treatment delivery
+Face-to-face MBIs had signi ﬁcantly larger treatment eﬀ ects than self-guided MBIs compared to active
+controls for global cognition ( g=0.228 vs. 0.121), sustained attention accuracy ( g=0.115 vs.
+−0.00438), and subjective cognitive functioning ( g=0.413 vs. 0.312).
+Clinical status
+The eﬀ ect of MBIs (vs. active controls) on global cognition was signi ﬁcantly stronger for persons with
+elevated psychiatric symptoms and healthy controls than those with heightened medical symptoms
+(PSY: g=0.211; HC: g=0.222; MED: g=0.130). Further, the impact of MBIs (vs. active controls) on sus-
+tained attention accuracy was signi ﬁcantly stronger for persons with elevated psychiatric symptoms
+than healthy controls and those with heightened medical symptoms (PSY: g=0.201; MED: g=
+−0.0922; HC: g=0.0911). For subjective cognitive functioning as the outcome, the e ﬀects of MBIs
+(vs. active controls) were signi ﬁcantly larger for persons with heightened medical and psychiatric
+symptoms than healthy controls (MED: g=0.447; PSY: g=0.307; HC: g=0.436).
+Risk-of-bias for MBIs vs. active controls
+No studies (0%) showed a risk of randomisation bias. Some concerns emerged for 19.72% of thestudies regarding bias due to deviations from intended intervention, but none showed a high riskof bias. Some missing data bias concerns were identi ﬁed for 24.66% of the studies, but none
+showed high risk of bias. Some measurement bias concerns arose for 9.59% of studies, but noneshowed high risk of bias. Some selection bias concerns were present for 12.33% of studies, butnone had a high risk of bias.
+Comparison of signi ﬁcant treatment e ﬀect sizes for MBIs vs. active controls
+Table S9 compares all MBIs (vs. active controls) e ﬀects on various cognitive functioning domains
+examined herein. All treatment eﬀ ect sizes did not signi ﬁcantly vary from one another.
+Discussion
+Overall e ﬀects of MBIs on global cognition and 15 cognitive subdomains
+Our novel meta-analysis of 111 RCTs observed that MBIs had small-to-moderate e ﬀects on global
+cognition, executive attention, WM accuracy, inhibition accuracy, shifting accuracy, sustained atten-tion, and subjective cognitive functioning. These ﬁndings were true compared to no-treatment and
+waitlist (average g=0.249 –0.644) and active controls (average g=0.192 –0.394), even after adjustingHEALTH PSYCHOLOGY REVIEW 13
+for treatment ﬁdelity in all analyses. Here, we mainly focus on the eﬀ ects with active controls as com-
+parators since these trials o ﬀer a more accurate and precise answer to the inquiry of whether MBIs
+improve cognitive functioning as compared to other treatments. Moreover, in interpreting the
+ﬁndings, we highlight that no evidence for a signi ﬁcant eﬀ ect between MBIs and any control
+does not equal evidence for no eﬀ ect. Also, we observed zero publication bias based on the p-
+uniform test and funnel plots, thus o ﬀering con ﬁdence in the validity of our ﬁndings and inferences
+drawn on how MBIs impact cognitive functioning, as detailed below.
+Encouragingly, our results imply that in these domains, MBI-delivered skills were more potent
+than those imparted by active controls. However, as MBIs did not diﬀ er from controls in impacting
+nine out of 15 subdomains and signi ﬁcant eﬀ ect sizes were small in the other domains, researchers
+and clinicians should exercise caution concerning MBIs ’beneﬁcial eﬀ ects on these nonsigni ﬁcant
+domains, i.e., conclusions other researchers have drawn (e.g., Noone & Hogan, 2018 ; Van Dam
+et al., 2018 ). Meaningful inferences drawn from these ﬁndings include how the eﬀ ect of MBIs on
+improved self-regulation (Tang et al., 2015 ) and reduced mind wandering (Mrazek et al., 2013 )
+might be partly accounted for by the six speciﬁ c cognitive domains serving as theoretical mechan-
+isms of change. Potential policy and related applied implications based on these outcomes include
+the bene ﬁts of teaching mindfulness skills in primary care, specialist clinics (Elices et al., 2022 ),
+schools (Fulambarkar et al., 2023 ), and workplaces (Pérez-Fuentes et al., 2020 ) on speciﬁ c cognitive
+domains for students, employees, and other stakeholders. Enhancements in speci ﬁc cognitive func-
+tioning domains might also translate to better focus, resilience, and decision-making skills in govern-mental and related leadership settings (Oman, 2023 ).
+Noteworthy is that the eﬀ ect of MBIs on global cognition might be mainly attributable to signi ﬁ-
+cant eﬀ ects on six speciﬁ c cognitive subdomains. This possibility is based on evidence that substan-
+tial correlations exist between global cognition and these cognitive subdomains (Biagianti et al.,
+2019 ; Coors et al., 2022 ). Important implications and meaning of these ﬁndings are that targeting
+these six speci ﬁc
+cognitive functioning domains via MBIs is probably more e ﬃcient than trying to
+enhance other cognitive functioning domains in various applied settings, such as clinics, govern-ment, schools, and workplaces.
+Relatedly, the ﬁnding that MBIs’ impact on global cognition extended across time, in addition
+to evidence showing that MBIs had post-treatment e ﬀects that impacted cognition beyond atten-
+tion measures (i.e., global cognition, executive attention, WM, inhibition accuracy, shifting accu-
+racy), bolsters theoretical propositions that MBIs yield long-term persistent e ﬀects (Malinowski &
+Shalamanova, 2017 ), and lead to generalisation of skills to tasks, objects, or contents beyond
+the ones practiced. Moreover, results that treatment e ﬀect sizes did not substantially di ﬀer
+between measures of attentional control and EF vs. other cognitive subdomains might providemore evidence for such viewpoints. Collectively, the topic of the bene ﬁt of MBIs on speciﬁ c cog-
+nitive functioning subdomains over extended periods deserves more investigation. Our currentmeta-analysis was only well-powered to examine global cognition at follow-up, but not otherunique cognitive subdomains. More importantly, these outcomes highlight the importance of
+relaying the long-term bene ﬁts of practicing mindfulness on global cognition when evaluating
+the policy impact of disseminating MBIs. For instance, any population-level long-term e ﬃcacy of
+MBIs on well-being, as evidenced by prior research (Grossman et al., 2007 ), might be due to
+improved global cognition.
+Mixed e ﬀects of MBIs
+Attentional control constructs
+Findings that MBIs improved executive attention, intra-individual coe ﬃcient of variation, and sus-
+tained attention accuracy concur with theories positing that MBIs boost unwavering focus and
+non-judgmental acceptance over time (Bishop et al., 2004 ). Assessing multiple sustained attention
+indices is essential to understand how MBIs enhance attentional stability. Moreover, our ﬁndings14 N. H. ZAINAL AND M. G. NEWMAN
+aligned with recent evidence that meditation practices enhanced accuracy instead of latency-based
+indices of attentional control components over time (Sumantry & Stewart, 2021 ). Essential clinical
+and educational implications include the potential to help youths and adults with ADHD and
+related attentional disorders via MBIs, as suggested by recent theories (Cairncross & Miller, 2020 ).
+The upshot is that MBIs promote attentional health aspects of mental well-being(i.e., the state of
+a person ’s attentional capacity or functioning; Stark & Cimprich, 2003 ).
+Intriguingly, MBIs (vs. active controls) improved executive attention but were not substantially
+diﬀerent when targeting orienting aspects of attentional control. These ﬁndings support recent for-
+mulations (Prakash et al., 2020 ) about the speciﬁceﬀects of MBIs on di ﬀerent attentional control
+facets. Theories suggesting that MBIs promote executive attention by reducing mind wandering,attentional lapses, and emotional distractions (Good et al., 2015 ; Hölzel et al., 2011 ; Lin et al.,
+2019 ; Vago & Silbersweig, 2012 ) could account for these ﬁndings. Conversely, ﬁndings of no evi-
+dence of MBI (vs. control) eﬀ ects on orienting were surprising since MBIs instruct selective attention
+for some exercises, such as body scans and focused imagery, and adopting a ‘decentred ’stance for
+other exercises (e.g., nonjudgment; Bishop et al., 2004 ; Sumantry & Stewart, 2021 ; Verhaeghen,
+2021 ). Note that the absence of evidence of an intervention e ﬀect does not imply evidence of the
+absence of such an intervention e ﬀect (Gelman & Stern, 2006 ; Harms & Lakens, 2018 ). An interven-
+tion eﬀ ect of MBIs on orienting may exist but may require a long-term commitment to mindfulness
+practices (Isbel & Mahar, 2015 ; Lodha & Gupta, 2022 ) or other MBI modalities (Green & Bavelier, 2003 )
+to enhance the orienting subdomain. Mixed prior ﬁndings of positive eﬀ ects in one study (e.g., Jha
+et al., 2007 ) but null eﬀ ects of MBIs on orienting in another (Felver et al., 2017 ) also possibly suggest
+heterogeneity of treatment eﬀ ects (Kent et al., 2020 ) and the importance of discovering for whom
+MBIs confer bene ﬁcial eﬀ ects on the orienting subdomain. However, these potential accounts
+require precise empirical testing, preferably by using experiments and random assignment
+among
+diverse groups.
+EF constructs
+There was no evidence of MBI (vs. control) eﬀ ects on WM, inhibition, shifting latencies, and proces-
+sing speed. Overall, results suggest that MBIs primarily impacted cognitive processing eﬀectiveness
+(captured by accuracy) more than eﬃ ciency (measured by latency) and o ﬀer only partial support for
+the viewpoint that MBIs promote both aspects of cognitive function (Jang et al., 2018 ;R aﬀone & Sri-
+nivasan, 2017 ). Nonsigni ﬁcant di ﬀerence on eﬃ ciency may be due to the calming and non-pressured
+nature of mindfulness practices. Thus, the delivery of MBIs might be optimised by emphasising toparticipants the importance of focusing on the process instead of the outcome in goal-attainment
+endeavours. Construed clinically, such messages might particularly bene ﬁt those with anxiety and
+related disorders who usually self-reported struggles with racing and perseverative thoughts that
+compromised EF and associated capacities (Spinhoven et al., 2022 ; Zainal & Newman, 2022 ).
+Non-signi ﬁcant e ﬀects: episodic memory, verbal ﬂuency, & cognitive error
+Also, there was no evidence of MBI (vs. control) e ﬀects on episodic memory, verbal ﬂuency, and cog-
+nitive error. Such results support hypotheses of null relations between trait mindfulness and declara-tive/episodic memory vs. emotionally-charged or personally-salient autobiographical memories
+(Levi & Rosenstreich, 2019 ; Whit ﬁeld et al., 2022 ). The ﬁndings also support hypotheses that MBIs
+likely do not assist with the storage and recall phases of verbal learning (Lueke & Lueke, 2019 ;
+Whitﬁeld et al., 2022 ). Conversely, the outcomes di ﬀered from a recent qualitative review that indi-
+cated a bene ﬁcial eﬀ ect of MBIs on verbal ﬂuency (Hazlett-Stevens et al., 2019 ); however, that review
+focused on older adults and assessed verbal ﬂuency solely with the controlled oral word association
+test. More importantly, the limitations of MBIs (i.e., what our research has shown it may not impact)
+should be explicitly communicated when delivering these interventions to improve cognitive func-tioning. Our nonsigni ﬁcant results might also mean that the cognitive functioning measures ofHEALTH PSYCHOLOGY REVIEW 15
+episodic memory, verbal ﬂuency, and cognitive error must be sensitive to changes in RCTs. Such sen-
+sitive assessments are necessary to accurately detect changes over time and assess the e ﬃcacy of
+MBIs targeting cognitive improvement (Shields et al., 2023 ).
+Moderators to examine heterogeneity of treatment e ﬀects
+Number of sessions and treatment duration
+There was no evidence that number of sessions and treatment duration were treatment moderators,
+contradicting the dose –response treatment eﬀ ects hypothesis (Chiesa et al., 2011 ) and replicating
+recent quantitative reviews (Im et al., 2021 ; Verhaeghen, 2021 ). These nonsigni ﬁcantﬁndings are
+encouraging since brief MBIs might alleviate distress and enhance cognitive functioning (Schumeret al., 2018 ), which could have major clinical implications concerning scalability and dissemination.
+Practitioners delivering MBIs and seeking to shrink the implementation gap should thus accentuatethe pragmatic cognitive bene ﬁts of brief mindfulness exercises daily, regardless of a busy schedule.
+On this note, low adherence has been touted as one of the reasons why the potential of MBIs on
+various health-related outcomes has been underrealized (Baydoun et al., 2021 ). Brief MBIs that are
+more actionable and easier to integrate into one ’s lifestyle than lengthier ones thus bode well in
+eﬀorts to improve speciﬁ c cognitive functioning domains (Zainal & Newman, 2023 ).
+Study quality
+There was no evidence that study quality moderated the e ﬀect of MBIs (vs. active controls) on global
+cognition, inhibition latency, sustained attention accuracy, and subjective cognitive functioning.
+Future RCTs should continue to exemplify high standards.
+Socio-demographics
+We found no evidence that age moderated the e ﬀects of MBIs (vs. active controls) on global cogni-
+tion, WM latency, inhibition accuracy and latency, processing speed, cognitive error, sustained atten-
+tion accuracy, and subjective cognitive functioning. Findings align with theories that argue MBIs can
+beneﬁt cognitive functioning equally for adults at various developmental stages (e.g., Berk et al.,
+2017 ). Further, no evidence that gender moderated the impact of MBIs (vs. active controls) on
+global cognition, inhibition latency, sustained attention accuracy, and subjective cognitive function-ing emerged, supporting the idea that MBIs likely positively in ﬂuence males and females equally
+(Katz & Toner, 2013 ). MBI instructors should spotlight these ﬁndings to foster diversity, equity,
+and inclusion when attempting to improve cognitive functioning via MBIs in various sociodemo-graphic groups.
+Clinical status
+MBIs (vs. active controls) had stronger eﬀ ects on global cognition and sustained attention accuracy
+for those with elevated psychiatric symptoms and healthy controls than those with heightenedmedical symptoms. However, the impact of MBIs on subjective cognitive functioning was more pro-nounced for persons with heightened medical symptoms, followed by healthy controls and then
+those with elevated psychiatric symptoms. The reasons for these contradictory results remain
+unclear. Perhaps the stronger correlation between negative aﬀ ective symptoms and the mindfulness
+describing skills in medical samples (Carpenter et al., 2019 ), coupled with higher distress levels and
+the motivating eﬀ ect of physical illness stressors on mindfulness practices and related healthy beha-
+viours, might explain these ﬁndings. Such factors could promote subjective cognitive functioning
+(Hodges et al., 2005 ; Sala et al., 2020 ). Future research is necessary to understand these results
+better. Overall, clinical implications from our ﬁndings include the possible therapeutic roles of
+MBIs in cognitive rehabilitation for cognitive impairments (e.g., ADHD, schizophrenia; Shen et al.,2023 ) and adjunctive bene ﬁts when oﬀ ered in conjunction with other mental health treatments16 N. H. ZAINAL AND M. G. NEWMAN
+(Bursky et al., 2022 ). Other practical implications include the potential of MBIs in prevention and early
+intervention for non-clinical, albeit high-risk, subpopulations (Ma et al., 2019 ).
+Treatment delivery
+Face-to-face MBIs (vs. active controls) compared to app –or Internet-delivered self-guided MBIs
+showed more potent eﬀ ects on global cognition, sustained attention accuracy, and subjective cog-
+nitive functioning, but not inhibition latency. This pattern may be attributed to greater accountabil-
+ity and motivation with therapeutic support of face-to-face MBIs, concordant with literature on MBIstargeting depression, anxiety, and related mental health symptoms (French et al., 2017 ; Spijkerman
+et al., 2016 ), as proposed by the supportive accountability theory (Mohr et al., 2011 ) and eﬃ ciency
+model of support (Schueller et al., 2017 ). Future work should examine how the added bene ﬁts of
+an instructor-led format outweigh the gains of fully self-guided MBIs, such as scalability and
+reduced costs. If replicated, an essential policy implication is that self-guided MBIs should only be
+oﬀered to subgroups that would bene ﬁt most from them (Benjet et al., 2023 ).
+Type of MBI
+Non-standard MBIs (vs. standard MBSR or MBCT) showed stronger e ﬀects on global cognition, sus-
+tained attention accuracy, and subjective cognitive functioning. Studies comparing non-standard
+MBIs to active controls tended to incorporate tailored treatments for speci ﬁc populations (e.g., mili-
+tary cohorts; Jha et al., 2019 ). Adapting protocols to meet the needs of the target population might
+yield enhanced treatment eﬀ ects compared to standard MBIs, a vital policy implication when devel-
+oping and disseminating MBIs to speciﬁ c subgroups. Achieving optimal eﬃ cacy in adapting MBIs
+necessitates thoughtful responses to unique cultural, organisational, or socio-political considerations
+(Oman, 2023 ). It is advisable to apply a meticulous ‘cost-bene ﬁt’analysis to discern which elements
+of MBIs necessitate adaptation, thereby ensuring the utmost suitability and e ﬀectiveness in optimis-
+ing cognitive functioning.
+Study limitations and strengths
+Study limitations should be considered. First, variations in the delivery of MBI protocols could not be
+fully accounted for (Cuijpers et al., 2008 ). Signi ﬁcant heterogeneity was observed for four domains
+(global cognition, inhibition latency, sustained attention accuracy, and subjective cognitive function-
+ing) compared to active controls, indicating large irregularities in treatment structure and content
+(Van Dam et al., 2018 ; Whit ﬁeld et al., 2022 ). Future MBI RCTs should focus on standardising MBI
+treatment protocol implementation to strengthen internal validity, construct validity, and replicabil-
+ity (Crane & Hecht, 2018b ; Moncher & Prinz, 1991 ). Eﬀorts should also address missing outcome data
+bias by employing the gold standard ITT analysis since complete-case analyses likely in ﬂate eﬀ ect
+sizes (McCoy, 2017 ). Additionally, the current meta-analysis cannot disambiguate the e ﬀects of
+speciﬁ c MBIs techniques due to limited dismantling studies on cognitive outcomes (Britton et al.,
+2018 ).
+Future eﬀ orts should isolate speciﬁ c MBI components within RCTs via dismantling studies (Stein &
+Witkiewitz, 2020 ) and network meta-analyses (Furukawa et al., 2021 ) to better understand how MBIs
+enhance cognitive functions. Since stand-alone MBI techniques could yield comparable bene ﬁts to
+manualized MBI packages on psychological symptoms (Blanck et al., 2018 ), future studies could
+examine if this pattern extends to cognitive functioning. Moreover, testing the diﬀ erential eﬀ ects
+ofunique mindfulness techniques, such as FA vs. OM, on separate cognitive function subdomains
+(e.g., Britton et al., 2018 ) would advance the ﬁeld.
+Sample characteristics pose other shortcomings. Age range restrictions were observed in studies
+examining MBIs on orienting (ages 8– 50), warranting investigations into treatment e ﬀects across
+older age groups. Ethnicity breakdown was not reported in 63% of studies, and virtually nostudies reported the sexual orientation/gender identity of participants, highlighting severeHEALTH PSYCHOLOGY REVIEW 17
+shortcomings in the literature (Heck et al., 2017 ). Recruiting middle-class, White females with tertiary
+education and above was common (Mars & Abbey, 2010 ). It is essential to test MBIs’ impact on
+diverse populations, as outcomes may vary, such as weaker e ﬀects in older adults (Goldberg
+et al., 2021 ), children (Dunning et al., 2019 ), persons of colour, and those with low income (Sun
+et al., 2022 ). Future studies should strive to include such information to reduce health disparities con-
+cerning the positive eﬀ ects of MBIs on cognitive functioning.
+Limitations notwithstanding, our meta-analysis has several strengths. We included unpublished
+theses and grey literature to address publication bias, including preprints (Lipsey & Wilson, 2001 ).
+Our dataset allowed us to test if age, gender, study quality, treatment duration, retention percen-
+tage, analysis approach, MBI type, delivery mode, clinical status, and ﬁdelity checks moderated treat-
+ment eﬀ ects. Further, this meta-analysis can catalyse future work on individual di ﬀerences and
+treatment adaptations by synthesising e ﬀect sizes to determine the impact of MBIs on various cog-
+nitive subdomains.
+Conclusions
+In summary, a comprehensive meta-analysis of 111 MBI RCTs suggested that MBIs bene ﬁtted global
+cognition and six cognitive subdomains (regardless of the control group and after adjusting for pres-ence of ﬁdelity checks). Speci ﬁcally, MBIs showed positive eﬀ ects on executive attention, inhibition
+accuracy, WM accuracy, shifting accuracy, sustained attention accuracy, intra-individual coe ﬃcient of
+variation, and subjective cognitive functioning. However, MBIs did not signi ﬁcantly positively a ﬀect
+orienting, WM latency, inhibition latency, shifting latency, processing speed, verbal ﬂuency, episodic
+memory, and cognitive error. Overall, MBIs improved EF and sustained attention accuracy-based
+rather than latency-based outcomes, likely because mindfulness practices promote present-
+moment awareness and eﬀ ective goal attainment over eﬃ ciency (Hoge et al., 2021 ). These improve-
+ments in EF and sustained attention accuracy indices might contribute to why MBIs improve mood
+regulation (Gu et al., 2015 ) and physical immunity (Dunn & Dimolareva, 2022 ). Additionally, the
+enhancement of subjective cognitive functioning by MBIs might be one mechanism underlyingimproved ﬂexible thinking and perspective-taking (Mediavilla et al., 2021 ).
+Our extensive meta-analysis determined the e ﬀect of various moderators of MBIs on global cog-
+nition and 15 cognitive subdomains. Few signi ﬁcant moderator results emerged. Psychiatric and
+medical samples vs. healthy controls generally bene ﬁtted more from MBIs to target global cognition,
+some accuracy-based indices (inhibition, WM, sustained attention), and subjective cognitive func-
+tioning. Also, the absence of dose –response eﬀ ects bodes well for the prospect of brief and scalable
+MBIs (e.g., Zainal & Newman, 2023 ) to enhance global cognition and the abovementioned six cog-
+nitive domains. Simultaneously, compared to self-guided MBIs, instructor-led face-to-face MBIsyielded more considerable impact on global cognition, sustained attention accuracy, and subjective
+cognitive functioning, highlighting the value of delivery by a quali ﬁed practitioner. Non-standard
+MBIs that tended to be highly tailored to speciﬁ c target populations were better than standard
+MBIs in improving sustained attention accuracy and subjective cognitive functioning.
+To conclude, our meta-analysis on the eﬀ ect of MBIs on cognitive functioning adds to the exten-
+sive discourse that explored the potential advantages of mindfulness in clinical, education, work-
+place settings, and leadership roles, with a growing body of research actively examining these
+aspects (London et al., 2023 ). Our ﬁndings contribute to emerging narratives of policy implications
+of MBIs by augmenting a body of research showing that skills nurtured through MBIs encompassing
+compassion, mindfulness, and self-regulation (Bristow, 2019 ) could extend to speciﬁ c cognitive func-
+tioning domains. Speci ﬁcally, our ﬁndings suggest that MBIs can enhance cognitive functioning
+through the augmentation of executive attention, heightened WM, inhibition, set-shifting accuracy,sustained attention, and elevated subjective cognitive functioning. Hence, the integration of mind-
+fulness in eﬀ orts to enhance speciﬁ c cognitive functioning domains has the potential to play a criti-
+cal role in shaping its future discourse and impact in the realms of research, policy, and practice.18 N. H. ZAINAL AND M. G. NEWMAN
+Notes
+1. Due to space constraints, readers should refer to the de ﬁnitions of italicized cognitive functioning constructs
+throughout the manuscript in Table 1 of the main manuscript and Table S1 in the online supplemental materials
+(OSM).
+2. We calculated the pre-follow-up e ﬀect size only for global cognition because there were insuﬃcient studies to
+synthesize e ﬀect sizes based on the 1 global cognition and 15 cognitive subdomains examined herein.
+3. A similar pattern of results was attained when the analysis was carried out with and without the 6 outliers.
+4. Due to space constraints, we only reported in text statistically signi ﬁcant results for all moderator analyses.
+Acknowledgments
+This research was supported in part by National Institute of Mental Health R01 MH115128. The current study alsoreceived funding from the Pennsylvania State University RGSO Dissertation award, Penn State Susan Welch/Nagle
+Family Graduate Fellowship, the National University of Singapore (NUS) Development Grant, and the Association for
+Behavioral and Cognitive Therapies (ABCT) Leonard Krasner Student Dissertation Award. We also sincerely thank Drs.
+Nicole Anderson, Micela Balconi, Peter Malinowski, Michael Mrazek, Martin Prätzlich, Benjamin Schöne, Rob H.J. vander Lubbe, and Kathleen Walsh for providing descriptive data of the means and standard deviations of scores on all
+cognitive test(s) administered in their study at all time-points upon request. We also thank Dr. Mike Cheung at the
+National University of Singapore for o ﬀering statistical consultation to re ﬁne our Method section. We also wish to
+express gratitude to our 16 undergraduate research assistants –Ana Clever, Alexa Belnick, Armani Moore, Emma
+Win, Emily Forcht, Isabella Gonzalez, Jamie Gensbauer, Kathryn Miller, Madeline Lamonica, Madison Yeoman, NatalieGottret, Natalie Suzette, Noor Lamba, Serena Chen, Shannon McGovern, and Vivian Nguyen –who served as reliability
+coders on the team and who regularly attended meta-analysis meetings to resolve any observed discrepancies betweenratings.
+Disclosure statement
+No potential conﬂ ict of interest was reported by the author(s).
+ORCID
+Nur Hani Zainal http://orcid.org/0000-0002-2023-3173
+Michelle G. Newman http://orcid.org/0000-0003-0873-1409
+References
+Abbott, R. A., Whear, R., Rodgers, L. R., Bethel, A., Coon, J. T., Kuyken, W., Stein, K., & Dickens, C. ( 2014 ). Eﬀectiveness of
+mindfulness-based stress reduction and mindfulness based cognitive therapy in vascular disease: A systematicreview and meta-analysis of randomised controlled trials. Journal of Psychosomatic Research ,76(5), 341 –351.
+https://doi.org/10.1016/j.jpsychores.2014.02.012
+Allen, T. A., & Fortin, N. J. ( 2013 ). The evolution of episodic memory. Proceedings of the National Academy of Sciences ,110
+(Suppl. 2), 10379– 10386. https://doi.org/10.1073/pnas.1301199110
+Anālayo, B. ( 2019a ). Meditation on the breath: Mindfulness and focused attention. Mindfulness ,10(8), 1684 –1691.
+https://doi.org/10.1007/s12671-019-01169-9
+Anālayo, B. ( 2019b ). Open monitoring and mindfulness. Mindfulness ,10(7), 1437 –1442. https://doi.org/10.1007/s12671-
+019-01181-z
+Awh, E., Belopolsky, A. V., & Theeuwes, J. ( 2012 ). Top-down versus bottom-up attentional control: A failed theoretical
+dichotomy. Trends in Cognitive Sciences ,16(8), 437 –443. https://doi.org/10.1016/j.tics.2012.06.010
+Baer, R. A., Smith, G. T., & Allen, K. B. (2004 ). Assessment of mindfulness by self-report: The Kentucky inventory of mind-
+fulness skills. Assessment ,11(3), 191 –206. https://doi.org/10.1177/1073191104268029
+Baydoun, M., Moran, C., McLennan, A., Piedalue, K. L., Oberoi, D., & Carlson, L. E. ( 2021 ). Mindfulness-based interventions
+in cancer survivors: A systematic review of participants ’adherence to home practice. Patient Preference and
+Adherence ,15, 1225 –1242. https://doi.org/10.2147/PPA.S267064
+Bellgrove, M. A., Hester, R., & Garavan, H. ( 2004 ). The functional neuroanatomical correlates of response variability:
+Evidence from a response inhibition task. Neuropsychologia ,42(14), 1910 –1916. https://doi.org/10.1016/j.
+neuropsychologia.2004.05.007HEALTH PSYCHOLOGY REVIEW 19
+Benjet, C., Zainal, N. H., Albor, Y., Alvis-Barranco, L., Carrasco-Tapias, N., Contreras-Ibáñez, C. C., Cudris-Torres, L., de la
+Peña, F. R., González, N., Guerrero-López, J. B., & Gutierrez-Garcia, R. A. ( 2023 ). A precision treatment model for inter-
+net-delivered cognitive behavioral therapy for anxiety and depression among university students: A secondary
+analysis of a randomized clinical trial. JAMA Psychiatry ,https://doi.org/10.1001/jamapsychiatry.2023.1675
+Benton, A., & Hampsher, K. ( 1978 ).Multilingual aphasia examination . University of Iowa.
+Berg, E. A. ( 1948 ). A simple objective technique for measuring ﬂexibility in thinking. Journal of General Psychology ,39(1),
+15–22.https://doi.org/10.1080/00221309.1948.9918159
+Berk, L., van Boxtel, M., & van Os, J. ( 2017 ). Can mindfulness-based interventions in ﬂuence cognitive functioning in older
+adults? A review and considerations for future research. Aging & Mental Health ,21(11), 1113 –1120. https://doi.org/10.
+1080/13607863.2016.1247423
+Biagianti, B., Fisher, M., Brandrett, B., Schlosser, D., Loewy, R., Nahum, M., & Vinogradov, S. ( 2019 ). Development and
+testing of a web-based battery to remotely assess cognitive health in individuals with schizophrenia.
+Schizophrenia Research ,208, 250 –257. https://doi.org/10.1016/j.schres.2019.01.047
+Bishop, S., Duncan, J., Brett, M., & Lawrence, A. D. ( 2004 ). Prefrontal cortical function and anxiety: Controlling attention to
+threat-related stimuli. Nature Neuroscience ,7(2), 184 –188. https://doi.org/10.1038/nn1173
+Black, D. S., & Slavich, G. M. ( 2016 ). Mindfulness meditation and the immune system: A systematic review of randomized
+controlled trials. Annals of the New York Academy of Sciences ,1373 (1), 13 –24.https://doi.org/10.1111/nyas.12998
+Blanck, P., Perleth, S., Heidenreich, T., Kröger, P., Ditzen, B., Bents, H., & Mander, J. ( 2018 ). Eﬀects of mindfulness exercises
+as stand-alone intervention on symptoms of anxiety and depression: Systematic review and meta-analysis. Behaviour
+Research and Therapy, 102,2 5 –35.https://doi.org/10.1016/j.brat.2017.12.002
+Borenstein, M., Hedges, L. V., Higgins, J. P. T., & Rothstein, H. R. ( 2009 ). Fixed-e ﬀect model. In M. Borenstein, L. V. Hedges,
+J. P. T. Higgins, & H. R. Rothstein (Eds.), Introduction to meta-analysis (pp. 63 –68). John Wiley & Sons, Ltd.
+Braenden, A., Coldevin, M., Zeiner, P., Stubberud, J., & Melinder, A. ( 2023 ). Executive function in children with disruptive
+mood dysregulation disorder compared to attention-de ﬁcit/hyperactivity disorder and oppositional de ﬁant disorder,
+and in children with di ﬀerent irritability levels. European Child & Adolescent Psychiatry ,1–11.https://doi.org/10.1007/
+s00787-023-02143-6
+Braver, T. S. ( 2012 ). The variable nature of cognitive control: A dual mechanisms framework. Trends in Cognitive Sciences ,
+16(2), 106 –113. https://doi.org/10.1016/j.tics.2011.12.010
+Brickenkamp, R. ( 2002 ).Afmerksamkeits-Belastungs-Test (Test d2) [The D2 test of attention] (9th ed.). Hogrefe.
+Bristow, J. ( 2019 ). Mindfulness in politics and public policy. Current Opinion in Psychology ,28,8 7 –91.https://doi.org/10.
+1016/j.copsyc.2018.11.003
+Britton, W. B., Davis, J. H., Loucks, E. B., Peterson, B., Cullen, B. H., Reuter, L., & Lindahl, J. R. ( 2018 ). Dismantling mind-
+fulness-based cognitive therapy: Creation and validation of 8-week focused attention and open monitoring interven-
+tions within a 3-armed randomized controlled trial. Behaviour Research and Therapy, 101,9 2 –107. https://doi.org/10.
+1016/j.brat.2017.09.010
+Bursky, M., Eggle ﬁeld, D. A., Schi ﬀ, S. G., Premnath, P., & Sneed, J. R. ( 2022 ). Mindfulness-enhanced computerized cog-
+nitive training for depression: An integrative review and proposed model targeting the cognitive control and default-
+mode networks. Brain Sciences ,12(5),https://doi.org/10.3390/brainsci12050663
+Cairncross, M., & Miller, C. J. ( 2020 ). The e ﬀectiveness of mindfulness-based therapies for ADHD: A meta-analytic review.
+Journal of Attention Disorders ,24(5), 627 –643. https://doi.org/10.1177/1087054715625301
+Carpenter, J. K., Conroy, K., Gomez, A. F., Curren, L. C., & Hofmann, S. G. ( 2019 ). The relationship between trait mindful-
+ness and aﬀ ective symptoms: A meta-analysis of the Five Facet Mindfulness Questionnaire (FFMQ). Clinical
+Psychology Review, 74, 101785. https://doi.org/10.1016/j.cpr.2019.101785
+Cásedas, L., Pirruccio, V., Vadillo, M. A., & Lupiáñez, J. ( 2020 ). Does mindfulness meditation training enhance executive
+control? A systematic review and meta-analysis of randomized controlled trials in adults. Mindfulness ,11(2), 411 –424.
+https://doi.org/10.1007/s12671-019-01279-4
+Chiesa, A., Calati, R., & Serretti, A. ( 2011 ). Does mindfulness training improve cognitive abilities? A systematic review of
+neuropsychological ﬁndings. Clinical Psychology Review, 31(3), 449 –464. https://doi.org/10.1016/j.cpr.2010.11.003
+Chiu, H. L., Chan, P. T., Kao, C. C., Chu, H., Chang, P. C., Hsiao, S. S., & Chou, K. R. ( 2018 ). Eﬀectiveness of executive function
+training on mental set shifting, working memory and inhibition in healthy older adults: A double-blind randomizedcontrolled trials. Journal of Advanced Nursing ,74(5), 1099 –1113. https://doi.org/10.1111/jan.13519
+Cochran, W. G. ( 1954 ). The combination of estimates from di ﬀerent experiments. Biometrics ,10(1), 101 –129. https://doi.
+org/10.2307/3001666
+Coors, A., Breteler, M. M. B., & Ettinger, U. ( 2022 ). Processing speed, but not working memory or global cognition, is
+associated with pupil diameter during ﬁxation. Psychophysiology ,59(11), e14089. https://doi.org/10.1111/psyp.14089
+Corbett, B. A., Constantine, L. J., Hendren, R., Rocke, D., & Ozono ﬀ,S .(2009 ). Examining executive functioning in children
+with autism spectrum disorder, attention de ﬁcit hyperactivity disorder and typical development. Psychiatry Research ,
+166(2-3), 210 –222. https://doi.org/10.1016/j.psychres.2008.02.005
+Corbetta, M., & Shulman, G. L. ( 2002 ). Control of goal-directed and stimulus-driven attention in the brain. Nature Reviews
+Neuroscience ,3(3), 201 –215. https://doi.org/10.1038/nrn75520 N. H. ZAINAL AND M. G. NEWMAN
+Crane, R. S., & Hecht, F. M. ( 2018a ). Intervention integrity in mindfulness-based research. Mindfulness (N Y), 9(5), 1370 –
+1380. https://doi.org/10.1007/s12671-018-0886-3
+Crane, R. S., & Hecht, F. M. ( 2018b ). Intervention integrity in mindfulness-based research. Mindfulness ,9(5), 1370 –1380.
+https://doi.org/10.1007/s12671-018-0886-3
+Creswell, J. D. ( 2017 ). Mindfulness interventions. Annual Review of Psychology ,68(1), 491 –516. https://doi.org/10.1146/
+annurev-psych-042716-051139
+Cubillo, A., Hermes, H., Berger, E., Winkel, K., Schunk, D., Fehr, E., & Hare, T. A. ( 2023 ). Intra-individual variability in task
+performance after cognitive training is associated with long-term outcomes in children. Developmental Science ,26(1),
+e13252. https://doi.org/10.1111/desc.13252
+Cuijpers, P., van Straten, A., Andersson, G., & van Oppen, P. ( 2008 ). Psychotherapy for depression in adults: A meta-analy-
+sis of comparative outcome studies. Journal of Consulting and Clinical Psychology ,76(6), 909 –922. https://doi.org/10.
+1037/a0013075
+Daglas-Georgiou, R., Bryce, S., Smith, G., Kaur, M., Cheng, N., De Rozario, M., & Allott, K. (2022 ). Treatments for objective
+and subjective cognitive functioning in young people with depression: Systematic review of current evidence. Early
+Intervention in Psychiatry ,16(10), 1057 –1074. https://doi.org/10.1111/eip.13248
+Dai, M., Li, Y., Gan, S., & Du, F. ( 2019 ). The reliability of estimating visual working memory capacity. Scienti ﬁc Reports ,9(1),
+1155. https://doi.org/10.1038/s41598-019-39044-1
+Delis, D. C., Kramer, J. H., Kaplan, E., & Ober, B. A. ( 2017 ).California verbal learning test-3 (3rd ed.). The Psychological
+Corporation.
+Derryberry, D., & Reed, M. A. (2002 ). Anxiety-related attentional biases and their regulation by attentional control.
+Journal of Abnormal Psychology ,111(2), 225 –236. https://doi.org/10.1037/0021-843X.111.2.225
+Dickinson, J., Friary, P., & McCann, C. M. ( 2016 ). The in ﬂuence of mindfulness meditation on communication and anxiety:
+A case study of a person with aphasia. Aphasiology ,31(9), 1044 –10 58.https://doi.org/10.1080/02687038.2016.1234582
+Dockree, P. M., Bellgrove, M. A., O ’Keeﬀe, F. M., Moloney, P., Aimola, L., Carton, S., & Robertson, I. H. ( 2006 ). Sustained
+attention in traumatic brain injury (TBI) and healthy controls: Enhanced sensitivity with dual-task load.
+Experimental Brain Research ,168(1), 218 –229. https://doi.org/10.1007/s00221-005-0079-x
+Dunn, T. J., & Dimolareva, M. ( 2022 ). The e ﬀect of mindfulness-based interventions on immunity-related biomarkers:
+A comprehensive meta-analysis of randomised controlled trials. Clinical Psychology Review, 92, 102124. https://doi.
+org/10.1016/j.cpr.2022.102124
+Dunning, D. L., Gri ﬃths, K., Kuyken, W., Crane, C., Foulkes, L., Parker, J., & Dalgleish, T. ( 2019 ). Research review: The e ﬀects
+of mindfulness-based interventions on cognition and mental health in children and adolescents –A meta-analysis of
+randomized controlled trials. Journal of Child Psychology and Psychiatry ,60(3), 244 –258. https://doi.org/10.1111/jcpp.
+12980
+Elices, M., Perez-Sola, V., Perez-Aranda, A., Colom, F., Polo, M., Martin-Lopez, L. M., & Garriz, M. ( 2022 ). The e ﬀectiveness of
+mindfulness-based cognitive therapy in primary care and the role of depression severity and treatment attendance.
+Mindfulness ,13(2), 362 –372. https://doi.org/10.1007/s12671-021-01794-3
+Esterman, M., & Rothlein, D. ( 2019 ). Models of sustained attention. Current Opinion in Psychology ,29, 174 –180. https://
+doi.org/10.1016/j.copsyc.2019.03.005
+Fan, J., McCandliss, B. D., Sommer, T., Raz, A., & Posner, M. I. ( 2002 ). Testing the e ﬃciency and independence of atten-
+tional networks. Journal of Cognitive Neuroscience ,14(3), 340 –347. https://doi.org/10.1162/089892902317361886
+Felver, J. C., Tipsord, J. M., Morris, M. J., Racer, K. H., & Dishion, T. J. ( 2017 ). The e ﬀects of mindfulness-based intervention on
+children ’s attention regulation. Journal of Attention Disorders ,21(10), 872 –881. https://doi.org/10.1177/
+1087054714548032
+Fernando, A. T., Skinner, K., & Consedine, N. S. ( 2016 ). Increasing compassion in medical decision-making: Can a brief
+mindfulness intervention help? Mindfulness ,8(2), 276 –285. https://doi.org/10.1007/s12671-016-0598-5
+Fetterman, A. K., & Robinson, M. D. ( 2011 ). Routine cognitive errors: A trait-like predictor of individual di ﬀerences in
+anxiety and distress. Cognition and Emotion ,25(2), 244 –264. https://doi.org/10.1080/02699931.2010.486941
+Fisher, G. G., Chacon, M., & Cha ﬀee, D. S. ( 2019 ). Theories of cognitive aging and work. In Work Across the Lifespan ,1 7 –45.
+https://doi.org/10.1016/B978-0-12-812756-8.00002-5
+Fisher, Z., Tipton, E., & Zhipeng, H. ( 2017 ).Robumeta: Robust variance meta-regression . R package version 2.0. https://
+CRAN.R-project.org/package=robumeta
+Flook, L., Goldberg, S. B., Pinger, L., & Davidson, R. J. ( 2015 ). Promoting prosocial behavior and self-regulatory skills in
+preschool children through a mindfulness-based kindness curriculum. Developmental Psychology ,51(1), 44 –51.
+https://doi.org/10.1037/a0038256
+French, K., Golijani-Moghaddam, N., & Schröder, T. ( 2017 ). What is the evidence for the e ﬃcacy of self-help acceptance
+and commitment therapy? A systematic review and meta-analysis. Journal of Contextual Behavioral Science ,6(4), 360 –
+374. https://doi.org/10.1016/j.jcbs.2017.08.002
+Fulambarkar, N., Seo, B., Testerman, A., Rees, M., Bausback, K., & Bunge, E. ( 2023 ). Review: Meta-analysis on mindfulness-
+based interventions for adolescents ’stress, depression, and anxiety in school settings: A cautionary tale. Child and
+Adolescent Mental Health ,28(2), 307 –317. https://doi.org/10.1111/camh.12572HEALTH PSYCHOLOGY REVIEW 21
+Furukawa, T. A., Suganuma, A., Ostinelli, E. G., Andersson, G., Beevers, C. G., Shumake, J., Berger, T., Boele, F. W., Buntrock,
+C., Carlbring, P., & Choi, I. ( 2021 ). Dismantling, optimising, and personalising internet cognitive behavioural therapy
+for depression: A systematic review and component network meta-analysis using individual participant data. The
+Lancet Psychiatry ,8(6), 500 –511. https://doi.org/10.1016/S2215-0366(21)00077-8
+Gamer, M., Lemon, J., Fellows, I., & Singh, P. ( 2007 ).IRR: Various coe ﬃcients of interrater reliability and agreement.
+R package. http://www.r-project.org .
+Garland, E. L., Farb, N. A., Goldin, P., & Fredrickson, B. L. ( 2015 ). Mindfulness broadens awareness and builds eudaimonic
+meaning: A process model of mindful positive emotion regulation. Psychological Inquiry, 26(4), 293 –314. https://doi.
+org/10.1080/1047840X.2015.1064294
+Gelman, A., & Stern, H. ( 2006 ). The di ﬀerence between “signi ﬁcant ”and “not signi ﬁcant ”is not itself statistically signi ﬁ-
+cant. The American Statistician ,60(4), 328 –331. https://doi.org/10.1198/000313006X152649
+Goldberg, S. B., Riordan, K. M., Sun, S., & Davidson, R. J. ( 2021 ). The empirical status of mindfulness-based interventions:
+A systematic review of 44 meta-analyses of randomized controlled trials. Perspectives on Psychological Science ,17(1),
+108 –130. https://doi.org/10.1177/1745691620968771
+Good, D. J., Lyddy, C. J., Glomb, T. M., Bono, J. E., Brown, K. W., Du ﬀy, M. K., Baer, R. A., Brewer, J. A., & Lazar, S. W. ( 2015 ).
+Contemplating mindfulness at work. Journal of Management ,42(1), 114 –142. https://doi.org/10.1177/
+0149206315617003
+Grant, D. A., & Berg, E. A. ( 1948 ). A behavioral analysis of degree of reinforcement and ease of shifting to new responses
+in a weigl-type card-sorting problem. Journal of Experimental Psychology: General, 38(4), 404 –411. https://doi.org/10.
+1037/h0059831
+Green, C. S., & Bavelier, D. ( 2003 ). Action video game modi ﬁes visual selective attention. Nature, 423(6939 ), 534 –537.
+http://dx.doi.org/10.1038/nature01647
+Grossman, P., Tiefenthaler-Gilmer, U., Raysz, A., & Kesper, U. ( 2007 ). Mindfulness training as an intervention for ﬁbro-
+myalgia: Evidence of postintervention and 3-year follow-up beneﬁ ts in well-being. Psychotherapy and
+Psychosomatics ,76(4), 226 –233. https://doi.org/10.1159/000101501
+Gu, J., Strauss, C., Bond, R., & Cavanagh, K. ( 2015 ). How do mindfulness-based cognitive therapy and mindfulness-based
+stress reduction improve mental health and wellbeing? A systematic review and meta-analysis of mediation studies.
+Clinical Psychology Review, 37,1–12.https://doi.org/10.1016/j.cpr.2015.01.006
+Haigh, E. A. P., Moore, M. T., Kashdan, T. B., & Fresco, D. M. ( 2010 ). Examination of the factor structure and concurrent
+validity of the langer mindfulness/mindlessness scale. Assessment ,18(1), 11 –26. https://doi.org/10.1177/
+1073191110386342
+Hallgren, K. A. ( 2012 ). Computing inter-rater reliability for observational data: An overview and tutorial. Tutorials in
+Quantitative Methods for Psychology ,8(1), 23 –34.. (Please delete one of the periods after page numbers) https://
+doi.org/10.20982/tqmp.08.1.p023 .
+Hallion, L. S., Tolin, D. F., & Diefenbach, G. J. ( 2019 ). Enhanced cognitive control over task-irrelevant emotional distractors
+in generalized anxiety disorder versus obsessive-compulsive disorder. Journal of Anxiety Disorders ,64,7 1 –78.https://
+doi.org/10.1016/j.janxdis.2019.02.004
+Han, A. ( 2021 ). Eﬀects of mindfulness-and acceptance-based interventions on quality of life, coping, cognition, and
+mindfulness of people with multiple sclerosis: A systematic review and meta-analysis. Psychology, Health &
+Medicine ,1–18.https://doi.org/10.1080/13548506.2021.1894345
+Harms, C., & Lakens, D. ( 2018 ). Making ‘null e ﬀects ’informative: Statistical techniques and inferential frameworks.
+Journal of Clinical and Translational Research ,3(Suppl 2), 382 –393. https://doi.org/10.18053/jctres.03.2017S2.007
+Hazlett-Stevens,
+H., Singer, J., & Chong, A. ( 2019 ). Mindfulness-based stress reduction and mindfulness-based cognitive
+therapy with older adults: A qualitative review of randomized controlled outcome research. Clinical Gerontologist ,
+42(4), 347 –358. https://doi.org/10.1080/07317115.2018.1518282
+Heck, N. C., Mirabito, L. A., LeMaire, K., Livingston, N. A., & Flentje, A. ( 2017 ). Omitted data in randomized controlled trials
+for anxiety and depression: A systematic review of the inclusion of sexual orientation and gender identity. Journal of
+Consulting and Clinical Psychology ,85(1), 72 –76.https://doi.org/10.1037/ccp0000123
+Hedge, C., Powell, G., & Sumner, P. ( 2018 ). The reliability paradox: Why robust cognitive tasks do not produce
+reliable individual di ﬀerences. Behavior Research Methods ,50(3), 1166 –1186. https://doi.org/10.3758/s13428-017-
+0935-1
+Henry, J. D., & Crawford, J. R. ( 2004 ). A meta-analytic review of verbal ﬂuency performance following focal cortical
+lesions. Neuropsychology ,18(2), 284 –295. https://doi.org/10.1037/0894-4105.18.2.284
+Higgins, J. P., Altman, D. G., Gøtzsche, P. C., Jüni, P., Moher, D., Oxman, A. D., Savovi ć, J., Schulz, K. F., Weeks, L., & Sterne, J.
+A. (2011 ). The cochrane collaboration ’s tool for assessing risk of bias in randomised trials. British Medical Journal ,343
+(oct18 2), d5928. https://doi.org/10.1136/bmj.d5928
+Higgins, J. P., Thompson, S. G., Deeks, J. J., & Altman, D. G. ( 2003 ). Measuring inconsistency in meta-analyses. British
+Medical Journal ,327(7414), 557 –560. https://doi.org/10.1136/bmj.327.7414.557
+Higgins, J. P. T., & Green, S. ( 2011 ).Cochrane handbook for systematic reviews of interventions version 5.1.0 .22 N. H. ZAINAL AND M. G. NEWMAN
+Hodges, L. J., Humphris, G. M., & Macfarlane, G. ( 2005 ). A meta-analytic investigation of the relationship between the
+psychological distress of cancer patients and their carers. Social Science & Medicine ,60(1), 1 –12.https://doi.org/10.
+1016/j.socscimed.2004.04.018
+Hoge, E. A., Acabchuk, R. L., Kimmel, H., Moitra, E., Britton, W. B., Dumais, T., & Fulwiler, C. ( 2021 ). Emotion-related con-
+structs engaged by mindfulness-based interventions: A systematic review and meta-analysis. Mindfulness ,12(5),
+1041 –1062. https://doi.org/10.1007/s12671-020-01561-w
+Hölzel, B. K., Lazar, S. W., Gard, T., Schuman-Olivier, Z., Vago, D. R., & Ott, U. ( 2011 ). How does mindfulness meditation
+work? Proposing mechanisms of action from a conceptual and neural perspective. Perspectives on Psychological
+Science ,6(6), 537 –559. https://doi.org/10.1177/1745691611419671
+Im, S., Stavas, J., Lee, J., Mir, Z., Hazlett-Stevens, H., & Caplovitz, G. ( 2021 ). Does mindfulness-based intervention improve
+cognitive function?: A meta-analysis of controlled studies. Clinical Psychology Review, 84, 101972. https://doi.org/10.
+1016/j.cpr.2021.101972
+Isbel, B., & Mahar, D. ( 2015 ). Cognitive mechanisms of mindfulness: A test of current models. Consciousness and
+Cognition ,38,5 0 –59.http://dx.doi.org/10.1016/j.concog.2015.10.005
+Jang, J. H., Kim, J.-H., Yun, J.-Y., Choi, S.-H., An, S. C., & Kang, D.-H. ( 2018 ). Diﬀ erences in functional connectivity of the
+insula between brain wave vibration in meditators and non-meditators. Mindfulness ,9(6), 1857 –1866. https://doi.org/
+10.1007/s12671-018-0928-x
+Jewsbury, P. A., Bowden, S. C., & Strauss, M. E. ( 2016 ). Integrating the switching, inhibition, and updating model of
+executive function with the Cattell-Horn-Carroll model. Journal of Experimental Psychology: General, 145(2), 220 –
+245. https://doi.org/10.1037/xge0000119
+Jha, A. P., Denkova, E., Zanesco, A. P., Witkin, J. E., Rooks, J., & Rogers, S. L. ( 2019 ). Does mindfulness training help
+working memory ‘work ’better? Current Opinion in Psychology ,28, 273 –278. https://doi.org/10.1016/j.copsyc.2019.
+02.012
+Jha, A. P., Krompinger, J., & Baime, M. J. ( 2007 ). Mindfulness training modi ﬁes subsystems of attention. Cognitive,
+Aﬀective, & Behavioral Neuroscience ,7(2), 109 –119. https://doi.org/10.3758/CABN.7.2.109
+Johnsen, T. J., & Friborg, O. ( 2015 ). The e ﬀects of cognitive behavioral therapy as an anti-depressive treatment is falling:
+A meta-analysis. Psychological Bulletin ,141(4), 747 –768. https://doi.org/10.1037/bul0000015
+Judah, M. R., Grant, D. M., Mills, A. C., & Lechner, W. V. ( 2014 ). Factor structure and validation of the attentional control
+scale. Cognition and Emotion ,28(3), 433 –451. https://doi.org/10.1080/02699931.2013.835254
+Kane, M. J., Conway, A. R. A., Miura, T. K., & Col ﬂesh, G. J. H. ( 2007 ). Working memory, attention control, and the N-back
+task: A question of construct validity. Journal of Experimental Psychology: Learning, Memory, and Cognition ,33(3), 615 –
+622. https://doi.org/10.1037/0278-7393.33.3.615
+Katz, D., & Toner, B. ( 2013 ). A systematic review of gender di ﬀerences in the e ﬀectiveness of mindfulness-based treat-
+ments for substance use disorders. Mindfulness ,4(4), 318 –331. https://doi.org/10.1007/s12671-012-0132-3
+Kaunhoven, R. J., & Dorjee, D. ( 2017 ). How does mindfulness modulate self-regulation in pre-adolescent children? An
+integrative neurocognitive review. Neuroscience and Biobehavioral Reviews ,74(Pt A), 163 –184. https://doi.org/10.
+1016/j.neubiorev.2017.01.007
+Kent, D. M., Paulus, J. K., Van Klaveren, D., D’ Agostino, R., Goodman, S., Hayward, R., Ioannidis, J. P., Patrick-Lake, B.,
+Morton, S., Pencina, M., & Raman, G. W. ( 2020 ). The predictive approaches to treatment e ﬀect heterogeneity
+(path) statement. Annals of Internal Medicine ,172(1), 35 –45.https://doi.org/10.7326/M18-3667
+Kirk, U., Gu, X., Sharp, C., Hula, A., Fonagy, P., & Montague, P. R. ( 2016 ). Mindfulness training increases cooperative
+decision making in economic exchanges: Evidence from fMRI. Neuroimage ,138, 274 –283. https://doi.org/10.1016/
+j.neuroimage.2016.05.075
+Kramer,
+J. H., Mungas, D., Possin, K. L., Rankin, K. P., Boxer, A. L., Rosen, H. J., & Widmeyer, M. ( 2014 ). NIH EXAMINER:
+Conceptualization and development of an executive function battery. Journal of the International
+Neuropsychological Society ,20(1), 11 –19.https://doi.org/10.1017/S1355617713001094
+Lenze, E. J., Voegtle, M., Miller, J. P., Ances, B. M., Balota, D. A., Barch, D., & Wetherell, J. L. ( 2022 ). Eﬀects of mindfulness
+training and exercise on cognitive function in older adults: A randomized clinical trial. JAMA ,328(22), 2218 –2229.
+https://doi.org/10.1001/jama.2022.21680
+Levi, U., & Rosenstreich, E. ( 2019 ). Mindfulness and memory: A review of ﬁndings and a potential model. Journal of
+Cognitive Enhancement ,3(3), 302 –314. https://doi.org/10.1007/s41465-018-0099-7
+Lezak, M., Howieson, D., Bigler, E., & Tranel, D. ( 2012 ).Neuropsychological assessment . Oxford University Press.
+Lin, Y., Fisher, M. E., & Moser, J. S. ( 2019 ). Clarifying the relationship between mindfulness and executive attention: A
+combined behavioral and neurophysiological study. Social Cognitive and A ﬀective Neuroscience ,14(2), 205 –215.
+https://doi.org/10.1093/scan/nsy113
+Lindsay, E. K., & Creswell, J. D. ( 2017 ). Mechanisms of mindfulness training: Monitor and acceptance theory (MAT).
+Clinical Psychology Review, 51,4 8 –59.https://doi.org/10.1016/j.cpr.2016.10.011
+Lipsey, M. W., & Wilson, D. B. ( 2001 ).Applied social research methods series: Vol. 49. Practical meta-analysis . Sage.
+Lodha, S., & Gupta, R. ( 2022 ). Mindfulness, attentional networks, and executive functioning: A review of interventions
+and long-term meditation practice. Journal of Cognitive Enhancement ,6(4), 531 –548. http://dx.doi.org/10.1007/
+s41465-022-00254-7HEALTH PSYCHOLOGY REVIEW 23
+London, M., Sessa, V. I., & Shelley, L. A. ( 2023 ). Developing self-awareness: Learning processes for self- and interpersonal
+growth. Annual Review of Organizational Psychology and Organizational Behavior ,10(1), 261 –288. https://doi.org/10.
+1146/annurev-orgpsych-120920-044531
+Lueke, A., & Lueke, N. ( 2019 ). Mindfulness improves verbal learning and memory through enhanced encoding. Memory
+and Cognition ,47(8), 1531 –1545. https://doi.org/10.3758/s13421-019-00947-z
+Lutz, A., Jha, A. P., Dunne, J. D., & Saron, C. D. ( 2015 ). Investigating the phenomenological matrix of mindfulness-related
+practices from a neurocognitive perspective. American Psychologist ,70(7), 632 –658. https://doi.org/10.1037/
+a0039585
+Ma, L., Zhang, Y., & Cui, Z. ( 2019 ). Mindfulness-based interventions for prevention of depressive symptoms in university
+students: A meta-analytic review. Mindfulness ,10(11), 2209 –2224. https://doi.org/10.1007/s12671-019-01192-w
+MacKillop, J., Amlung, M. T., Few, L. R., Ray, L. A., Sweet, L. H., & Munafo, M. R. ( 2011 ). Delayed reward discounting and addic-
+tive behavior: A meta-analysis. Psychopharmacology ,216(3), 305 –321. https://doi.org/10.1007/s00213-011-2229-0
+MacLean, K. A., Ferrer, E., Aichele, S. R., Bridwell, D. A., Zanesco, A. P., Jacobs, T. L., King, B. G., Rosenberg, E. L., Sahdra, B.
+K., Shaver, P. R., & Wallace, B. A. ( 2010 ). Intensive meditation training improves perceptual discrimination and
+sustained attention. Psychological Science ,21(6), 829 –839. https://doi.org/10.1177/0956797610371339
+Malinowski, P., & Shalamanova, L. ( 2017 ). Meditation and cognitive ageing: The role of mindfulness meditation in
+building cognitive reserve. Journal of Cognitive Enhancement ,1(2), 96 –106. https://doi.org/10.1007/s41465-017-
+0022-7
+Mars, T. S., & Abbey, H. ( 2010 ). Mindfulness meditation practise as a healthcare intervention: A systematic review.
+International Journal of Osteopathic Medicine ,13(2), 56 –66.https://doi.org/10.1016/j.ijosm.2009.07.005
+McCoy, C. E. ( 2017 ). Understanding the intention-to-treat principle in randomized controlled trials. Western Journal of
+Emergency Medicine ,18(6), 1075 –1078. https://doi.org/10.5811/westjem.2017.8.35985
+Mediavilla,
+R., Muñoz-Sanjose, A., Rodriguez-Vega, B., Lahera, G., Palao, A., Bayon, C., & Bravo-Ortiz, M. F. ( 2021 ). People
+with psychosis improve aﬀ ective social cognition and self-care after a mindfulness-based social cognition training
+program (SocialMIND). Psychiatric Rehabilitation Journal ,44(4), 391 –395. https://doi.org/10.1037/prj0000466
+Miyake, A., Friedman, N. P., Emerson, M. J., Witzki, A. H., Howerter, A., & Wager, T. D. ( 2000 ). The unity and diversity of
+executive functions and their contributions to complex “frontal lobe ”tasks: A latent variable analysis. Cognitive
+Psychology ,41(1), 49 –100. https://doi.org/10.1006/cogp.1999.0734
+Moher, D., Liberati, A., Tetzla ﬀ, J., Altman, D. G., & The, P. G. ( 2009 ). Preferred reporting items for systematic reviews and
+meta-analyses: The PRISMA statement. PLoS Medicine ,6(7), e1000097. https://doi.org/10.1371/journal.pmed.1000097
+Mohr, D. C., Cuijpers, P., & Lehman, K. ( 2011 ). Supportive accountability: A model for providing human support to
+enhance adherence to eHealth interventions. Journal of Medical Internet Research ,13(1), e30. https://doi.org/10.
+2196/jmir.1602
+Moncher, F. J., & Prinz, R. J. ( 1991 ). Treatment ﬁdelity in outcome studies. Clinical Psychology Review, 11(3), 247 –266.
+https://doi.org/10.1016/0272-7358(91)90103-2
+Morris, S. B., & DeShon, R. P. ( 2002 ). Combining e ﬀect size estimates in meta-analysis with repeated measures and inde-
+pendent-groups designs. Psychological Methods ,7(1), 105 –125. https://doi.org/10.1037/1082-989X.7.1.105
+Mrazek, A. J., Mrazek, M. D., Cherolini, C. M., Cloughesy, J. N., Cynman, D. J., Gougis, L. J., Landry, A. P., Reese, J. V., &
+Schooler, J. W. ( 2019 ). The future of mindfulness training is digital, and the future is now. Current Opinion in
+Psychology ,28,8 1 –86.https://doi.org/10.1016/j.copsyc.2018.11.012
+Mrazek, M. D., Franklin, M. S., Phillips, D. T., Baird, B., & Schooler, J. W. ( 2013 ). Mindfulness training improves working
+memory capacity and GRE performance while reducing mind wandering. Psychological Science ,24(5), 776 –781.
+https://doi.org/10.1177/0956797612459659
+Muller, C., Otto, B., Sawitzki, V., Kanagalingam, P., Scherer, J. S., & Lindberg, S. ( 2021 ). Short breaks at school: E ﬀects of a
+physical activity and a mindfulness intervention on children ’s attention, reading comprehension, and self-esteem.
+Trends in Neuroscience and Education ,25, 100160. https://doi.org/10.1016/j.tine.2021.100160
+Müller, C., Otto, B., Sawitzki, V., Kanagalingam, P., Scherer, J. S., & Lindberg, S. ( 2021 ). Short breaks at school: E ﬀects of a
+physical activity and a mindfulness intervention on children ’s attention, reading comprehension, and self-esteem.
+Trends in Neuroscience and Education ,25, 100160. https://doi.org/10.1016/j.tine.2021.100160
+Nasreddine, Z. S., Phillips, N. A., Bédirian, V., Charbonneau, S., Whitehead, V., Collin, I., & Chertkow, H. ( 2005 ). The
+Montreal cognitive assessment (MoCA): A brief screening tool for mild cognitive impairment. Journal of the
+American Geriatrics Society ,53(4), 695 –699. https://doi.org/10.1111/j.1532-5415.2005.53221.x
+Noone, C., & Hogan, M. J. ( 2018 ). A randomised active-controlled trial to examine the e ﬀects of an online mindfulness
+intervention on executive control, critical thinking and key thinking dispositions in a university student sample. BMC
+Psychology ,6(1), 13. https://doi.org/10.1186/s40359-018-0226-3
+Oman, D. ( 2023 ). Mindfulness for global public health: Critical analysis and agenda. Mindfulness ,https://doi.org/10.1007/
+s12671-023-02089-5
+Owen, A. M., McMillan, K. M., Laird, A. R., & Bullmore, E. ( 2005 ). N-back working memory paradigm: A meta-analysis of
+normative functional neuroimaging studies. Human Brain Mapping ,25(1), 46 –59.https://doi.org/10.1002/hbm.2013124 N. H. ZAINAL AND M. G. NEWMAN
+Pérez-Fuentes, M. D. C., Molero Jurado, M. D. M., Mercader Rubio, I., Soriano Sanchez, J. G., & Gazquez Linares, J. J. ( 2020 ).
+Mindfulness for preventing psychosocial risks in the workplace: A systematic review and meta-analysis. Applied
+Sciences ,10(5),https://doi.org/10.3390/app10051851
+Petersen, S. E., & Posner, M. I. ( 2012 ). The attention system of the human brain: 20 years after. Annual Review of
+Neuroscience ,35(1), 73 –89.https://doi.org/10.1146/annurev-neuro-062111-150525
+Posner, M. I., & Rothbart, M. K. ( 2007 ). Research on attention networks as a model for the integration of psychological
+science. Annual Review of Psychology ,58(1), 1 –23.https://doi.org/10.1146/annurev.psych.58.110405.085516
+Posner, M. I., Rothbart, M. K., & Tang, Y.-Y. ( 2015 ). Enhancing attention through training. Current Opinion in Behavioral
+Sciences ,4,1–5.https://doi.org/10.1016/j.cobeha.2014.12.008
+Prakash, R. S., Fountain-Zaragoza, S., Kramer, A. F., Samimy, S., & Wegman, J. ( 2020 ). Mindfulness and attention: Current
+state-of-a ﬀairs and future considerations. Journal of Cognitive Enhancement ,https://doi.org/10.1007/s41465-019-
+00144-5
+Raﬀone, A., Marzetti, L., Del Gratta, C., Perrucci, M. G., Romani, G. L., & Pizzella, V. ( 2019 ). Chapter 9 –Toward a brain
+theory of meditation. In N. Srinivasan (Ed.), Progress in brain research (Vol. 244, pp. 207 –232). Elsevier.
+Raﬀone, A., & Srinivasan, N. ( 2017 ). Mindfulness and cognitive functions: Toward a unifying neurocognitive framework.
+Mindfulness ,8(1), 1 –9.https://doi.org/10.1007/s12671-016-0654-1
+Raucher-Chéné, D., Achim, A. M., Kaladjian, A., & Besche-Richard, C. ( 2017 ). Verbal ﬂuency in bipolar disorders: A sys-
+tematic review and meta-analysis. Journal of A ﬀective Disorders ,207, 359 –366. https://doi.org/10.1016/j.jad.2016.
+09.039
+Ristic, J., Wright, A., & Kingstone, A. ( 2007 ). Attentional control and re ﬂexive orienting to gaze and arrow cues.
+Psychonomic Bulletin & Review, 14(5), 964 –969. https://doi.org/10.3758/BF03194129
+Robertson,
+I. H., Manly, T., Andrade, J., Baddeley, B. T., & Yiend, J. ( 1997 ).‘Oops! ’: Performance correlates of everyday
+attentional failures in traumatic brain injured and normal subjects. Neuropsychologia ,35(6), 747 –758. https://doi.
+org/10.1016/S0028-3932(97)00015-8
+Rosenthal, R. ( 1979 ). The ﬁle drawer problem and tolerance for null results. Psychological Bulletin ,86(3), 638 –641. https://
+doi.org/10.1037/0033-2909.86.3.638
+Sala, M., Rochefort, C., Lui, P. P., & Baldwin, A. S. ( 2020 ). Trait mindfulness and health behaviours: A meta-analysis. Health
+Psychology Review, 14(3), 345 –393. https://doi.org/10.1080/17437199.2019.1650290
+Sanchez-Lara, E., Lozano-Ruiz, A., Perez-Garcia, M., & Caracuel, A. ( 2021 ). Eﬃcacy of mindfulness-based interventions in
+cognitive function in the elderly people: A systematic review and meta-analysis. Aging and Mental Health ,1–11.
+https://doi.org/10.1080/13607863.2021.1976724
+Schueller, S. M., Tomasino, K. N., & Mohr, D. C. ( 2017 ). Integrating human support into behavioral intervention technol-
+ogies: The e ﬃciency model of support. Clinical Psychology: Science and Practice ,24(1), 27 –45.https://doi.org/10.1111/
+cpsp.12173
+Schumer, M. C., Lindsay, E. K., & Creswell, J. D. ( 2018 ). Brief mindfulness training for negative aﬀ ectivity: A systematic
+review and meta-analysis. Journal of Consulting and Clinical Psychology ,86(7), 569 –583. https://doi.org/10.1037/
+ccp0000324
+Seeley, W. W., Menon, V., Schatzberg, A. F., Keller, J., Glover, G. H., Kenna, H., & Greicius, M. D. ( 2007 ). Dissociable intrinsic
+connectivity networks for salience processing and executive control. The Journal of Neuroscience ,27(9), 2349. https://
+doi.org/10.1523/jneurosci.5587-06.2007 .
+Servan-Schreiber, D., Cohen, J. D., & Steingard, S. ( 1996 ). Schizophrenic de ﬁcits in the processing of context: A test of a
+theoretical model. Archives of General Psychiatry ,53(12), 1105 –1112. https://doi.org/10.1001/archpsyc.1996.
+01830120037008
+Shapiro, S. L., Jazaieri, H., & Goldin, P. R. ( 2012 ). Mindfulness-based stress reduction e ﬀects on moral reasoning and
+decision making. The Journal of Positive Psychology ,7(6), 504 –515. https://doi.org/10.1080/17439760.2012.723732
+Shen, H., Zhang, L., Li, Y., Zheng, D., Du, L., Xu, F., & Cui, D. ( 2023 ). Mindfulness-based intervention improves residual
+negative symptoms and cognitive impairment in schizophrenia: A randomized controlled follow-up study.
+Psychological Medicine ,53(4), 1390 –1399. https://doi.org/10.1017/S0033291721002944
+Shields, R. H., Kaat, A., Sansone, S. M., Michalak, C., Coleman, J., Thompson, T., & Hessl, D. ( 2023 ). Sensitivity of the NIH
+toolbox to detect cognitive change in individuals with intellectual and developmental disability. Neurology, 100(8),
+e778 –e789. https://doi.org/10.1212/WNL.0000000000201528
+Shrout, P. E., & Fleiss, J. L. ( 1979 ). Intraclass correlations: Uses in assessing rater reliability. Psychological Bulletin ,86(2),
+420 –428. https://doi.org/10.1037/0033-2909.86.2.420
+Smith, A. ( 1982 ).Symbol digit modalities test . Western Psychological Services.
+Sood, A., & Jones, D. T. ( 2013 ). On mind wandering, attention, brain networks, and meditation. Explore ,9(3), 136 –141.
+https://doi.org/10.1016/j.explore.2013.02.005
+Sorensen, L., Osnes, B., Visted, E., Svendsen, J. L., Adolfsdottir, S., Binder, P. E., & Schanche, E. ( 2018 ). Dispositional mind-
+fulness and attentional control: The speci ﬁc association between the mindfulness facets of non-judgment and
+describing with ﬂexibility of early operating orienting in conﬂ ict detection. Frontiers in Psychology ,9, 2359.
+https://doi.org/10.3389/fpsyg.2018.02359HEALTH PSYCHOLOGY REVIEW 25
+Spijkerman, M. P. J., Pots, W. T. M., & Bohlmeijer, E. T. ( 2016 ). Eﬀectiveness of online mindfulness-based interventions in
+improving mental health: A review and meta-analysis of randomised controlled trials. Clinical Psychology Review, 45,
+102 –114. https://doi.org/10.1016/j.cpr.2016.03.009
+Spinhoven, P., Hoogerwerf, E., van Giezen, A., & Greeven, A. ( 2022 ). Mindfulness-based cognitive group therapy for treat-
+ment-refractory anxiety disorder: A pragmatic randomized controlled trial. Journal of Anxiety Disorders ,90, 102599.
+https://doi.org/10.1016/j.janxdis.2022.102599
+Stark, M. A., & Cimprich, B. ( 2003 ). Promoting attentional health: Importance to women’ s lives. Health Care for Women
+International ,24(2), 93 –102. https://doi.org/10.1080/07399330390170079
+Stein, E., & Witkiewitz, K. ( 2020 ). Dismantling mindfulness-based programs: A systematic review to identify active com-
+ponents of treatment. Mindfulness ,11(11), 2470 –2485. https://doi.org/10.1007/s12671-020-01444-0
+Stroop, J. R. ( 1935 ). Studies of interference in serial verbal reactions. Journal of Experimental Psychology ,18(6), 643 –662.
+https://doi.org/10.1037/h0054651
+Sumantry, D., & Stewart, K. E. ( 2021 ). Meditation, mindfulness, and attention: A meta-analysis. Mindfulness ,https://doi.
+org/10.1007/s12671-021-01593-w
+Sun, S., Goldberg, S. B., Loucks, E. B., & Brewer, J. A. ( 2022 ). Mindfulness-based interventions among people of color: A
+systematic review and meta-analysis. Psychotherapy Research ,32(3), 277 –290. https://doi.org/10.1080/10503307.
+2021.1937369
+Tang, Y.-Y., Hölzel, B. K., & Posner, M. I. ( 2015 ). The neuroscience of mindfulness meditation. Nature Reviews Neuroscience ,
+16(4), 213 –225. https://doi.org/10.1038/nrn3916
+Tanner-Smith, E. E., Tipton, E., & Polanin, J. R. ( 2016 ). Handling complex meta-analytic data structures using robust var-
+iance estimates: A tutorial in R. Journal of Developmental and Life-Course Criminology, 2(1), 85 –112. https://doi.org/10.
+1007/s40865-016-0026-5
+Teper, R., & Inzlicht, M. ( 2013 ). Meditation, mindfulness and executive control: The importance of emotional acceptance
+and brain-based performance monitoring. Social Cognitive and A ﬀective Neuroscience ,8(1), 85 –92.https://doi.org/10.
+1093/scan/nss045
+Teper, R., Segal, Z. V., & Inzlicht, M. ( 2013 ). Inside the mindful mind: How mindfulness enhances emotion regulation
+through improvements in executive control. Current Directions in Psychological Science ,22(6), 449 –454. https://doi.
+org/10.1177/0963721413495869
+Tulving, E. ( 2002 ). Episodic memory: From mind to brain. Annual Review of Psychology ,53(1), 1 –25.https://doi.org/10.
+1146/annurev.psych.53.100901.135114
+Uusberg, H., Uusberg, A., Talpsep, T., & Paaver, M. ( 2016 ). Mechanisms of mindfulness: The dynamics of aﬀ ective adap-
+tation during open monitoring. Biological Psychology ,118,9 4 –106. https://doi.org/10.1016/j.biopsycho.2016.05.004
+Vago, D., & Silbersweig, D. A. ( 2012 ). Self-awareness, self-regulation, and self-transcendence (S-ART): A framework for
+understanding the neurobiological mechanisms of mindfulness. Frontiers in Human Neuroscience ,6(296), 296.
+https://doi.org/10.3389/fnhum.2012.00296
+Vago, D. R., Gupta, R. S., & Lazar, S. W. ( 2019 ). Measuring cognitive outcomes in mindfulness-based intervention
+research: A re ﬂection on confounding factors and methodological limitations. Current Opinion in Psychology ,28,
+143 –150. https://doi.org/10.1016/j.copsyc.2018.12.015
+van Assen, M. A. L. M., van Aert, R. C. M., & Wicherts, J. M. ( 2015 ). Meta-analysis using e ﬀect size distributions of only
+statistically signi ﬁcant studies. Psychological Methods ,20(3), 293 –309. https://doi.org/10.1037/met0000025
+Van Dam, N. T., Van Vugt, M. K., Vago, D. R., Schmalzl, L., Saron, C. D., Olendzki, A., Meissner, T., Lazar, S. W., Kerr, C. E.,
+Gorchov, J., & Fox, K. C. ( 2018 ). Mind the hype: A critical evaluation and prescriptive agenda for research on
+mindfulness and meditation. Perspectives on Psychological Science ,13(1), 36 –61. https://doi.org/10.1177/
+1745691617709589
+van der Elst, W., van Boxtel, M. P., van Breukelen, G. J., & Jolles, J. ( 2006 ). The letter digit substitution test: Normative data
+for 1,858 healthy participants aged 24-81 from the Maastricht aging study (MAAS): In ﬂuence of age, education, and
+sex. Journal of Clinical and Experimental Neuropsychology ,28(6), 998 –1009. https://doi.org/10.1080/
+13803390591004428
+Verhaeghen, P. ( 2021 ). Mindfulness as attention training: Meta-analyses on the links between attention performance
+and mindfulness interventions, long-term meditation practice, and trait mindfulness. Mindfulness ,12(3), 564 –581.
+https://doi.org/10.1007/s12671-020-01532-1
+Verhagen, A. P., de Vet, H. C. W., de Bie, R. A., Kessels, A. G. H., Boers, M., Bouter, L. M., & Knipschild, P. G. ( 1998 ). The
+Delphi list: A criteria list for quality assessment of randomized clinical trials for conducting systematic reviews devel-
+oped by Delphi consensus. Journal of Clinical Epidemiology ,51(12), 1235 –1241. https://doi.org/10.1016/S0895-4356
+(98)00131-0
+Viechtbauer, W. ( 2010 ). Metafor: Meta-analysis package for R. R package version, 2010 , 1-0.
+Viechtbauer, W., & Cheung, M. W.-L. ( 2010 ). Outlier and in ﬂuence diagnostics for meta-analysis. Research Synthesis
+Methods ,1(2), 112 –125. https://doi.org/10.1002/jrsm.11
+Vilgis, V., Silk, T. J., & Vance, A. ( 2015 ). Executive function and attention in children and adolescents with depressive dis-
+orders: A systematic review. European Child and Adolescent Psychiatry ,24(4), 365 –384. https://doi.org/10.1007/
+s00787-015-0675-726 N. H. ZAINAL AND M. G. NEWMAN
+Wetherell, J. L., Hershey, T., Hickman, S., Tate, S. R., Dixon, D., Bower, E. S., & Lenze, E. J. ( 2017 ). Mindfulness-based stress
+reduction for older adults with stress disorders and neurocognitive di ﬃculties: A randomized controlled trial. Journal
+of Clinical Psychiatry ,78(7), e734 –e743. https://doi.org/10.4088/JCP.16m10947
+Whitﬁeld, T., Barnhofer, T., Acabchuk, R., Cohen, A., Lee, M., Schlosser, M., & Marchant, N. L. ( 2022 ). The e ﬀect of mind-
+fulness-based programs on cognitive function in adults: A systematic review and meta-analysis. Neuropsychology
+Review, 32(3), 677 –702. https://doi.org/10.1007/s11065-021-09519-y
+Wickham, H. ( 2016 ).Ggplot2: Elegant graphics for data analysis . Springer-Verlag. https://ggplot2.tidyverse.org .
+Wolkin, J. R. ( 2015 ). Cultivating multiple aspects of attention through mindfulness meditation accounts for psychologi-
+cal well-being through decreased rumination. Psychology Research and Behavior Management ,8, 171 –180. https://
+doi.org/10.2147/PRBM.S31458
+Yakobi, O., Smilek, D., & Danckert, J. ( 2021 ). The e ﬀects of mindfulness meditation on attention, executive control and
+working memory in healthy adults: A meta-analysis of randomized controlled trials. Cognitive Therapy and Research ,
+https://doi.org/10.1007/s10608-020-10177-2
+Zainal, N. H., & Newman, M. G. ( 2022 ). Inﬂ ammation mediates depression and generalized anxiety symptoms predicting
+executive function impairment after 18 years. Journal of A ﬀective Disorders ,296, 465 –475. https://doi.org/10.1016/j.
+jad.2021.08.077
+Zainal, N. H., & Newman, M. G. ( 2023 ). A randomized controlled trial of a 14-day mindfulness ecological momentary
+intervention (MEMI) for generalized anxiety disorder. European Psychiatry ,66(1), e12. https://doi.org/10.1192/j.
+eurpsy.2023.2HEALTH PSYCHOLOGY REVIEW 27

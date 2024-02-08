@@ -1,0 +1,901 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rhpr20
+Health Psychology Review
+ISSN: 1743-7199 (Print) 1743-7202 (Online) Journal homepage: https://www.tandfonline.com/loi/rhpr20
+Behaviour Centred Design: towards an applied
+science of behaviour change
+Robert Aunger & Valerie Curtis
+To cite this article:  Robert Aunger & Valerie Curtis (2016) Behaviour Centred Design: towards
+an applied science of behaviour change, Health Psychology Review, 10:4, 425-446, DOI:
+10.1080/17437199.2016.1219673
+To link to this article:  https://doi.org/10.1080/17437199.2016.1219673
+© 2016 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 18 Aug 2016.
+Submit your article to this journal 
+Article views: 23045
+View related articles 
+View Crossmark data
+Citing articles: 52 View citing articles 
+
+Behaviour Centred Design: towards an applied science of
+behaviour change
+Robert Aunger and Valerie Curtis
+Department of Infectious Disease, London School of Hygiene and Tropical Medicine, London, UK
+ABSTRACT
+Behaviour change has become a hot topic. We describe a new approach,
+Behaviour Centred Design (BCD), which encompasses a theory of change,
+a suite of behavioural determinants and a programme design process. The
+theory of change is generic, assuming that successful interventions mustcreate a cascade of effects via environments, through brains, to
+behaviour and hence to the desired impact, such as improved health.
+Changes in behaviour are viewed as the consequence of a
+reinforcement learning process involving the targeting of evolved
+motives and changes to behaviour settings, and are produced by threetypes of behavioural control mechanism (automatic, motivated and
+executive). The implications are that interventions must create surprise,
+revalue behaviour and disrupt performance in target behaviour settings.
+We then describe a sequence of five steps required to design an
+intervention to change specific behaviours: Assess, Build, Create, Deliverand Evaluate. The BCD approach has been shown to change hygiene,
+nutrition and exercise-related behaviours and has the advantages of
+being applicable to product, service or institutional design, as well as
+being able to incorporate future developments in behaviour science. We
+therefore argue that BCD can become the foundation for an appliedscience of behaviour change.ARTICLE HISTORY
+Received 18 February 2016
+Accepted 22 July 2016
+KEYWORDS
+Behaviour change;
+evolutionary psychology;
+reinforcement learning;programme development
+Behaviour change is currently a hot topic. Professionals including policy-makers, marketers, edu-
+cationalists, environmentalists, international development practitioners, governance and justice cam-
+paigners, health promoters, city planners, sports psychologists and web designers, as well asindividuals seeking to improve their own lives, are all looking for advice on how to change behaviour.
+However, there are myriad ideas about how to go about it. Health promotion, for example, has a long
+tradition of theorising the problem, based mainly in cognitive psychology (e.g., Ajzen, 1991 ; Bandura,
+1986 ; Becker, 1974 ; Michie, Stralen, & West, 2011 ; Mosler, 2012 ; Schwarzer, 2008 ). More recently,
+behavioural economists have demonstrated a variety of ways of changing behaviour using specificaspects of human decision-making (Anand & Lea, 2011 ; Ariely, 2009 ; Sunstein & Thaler, 2008 ).
+Marketing and design professionals also have practical techniques for creating sales, advertising
+and new products (Brown, 2009 ). Each of these distinct fields has its own theoretical foundations
+and standards of practice. But despite calls for more cross-disciplinary learning and greater
+integration (e.g., http://commonfund.nih.gov/behaviorchange/index (Rowson, 2011 )), and the
+initiation of new journals, university departments and centres devoted to behaviour change
+© 2016 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License ( http://
+creativecommons.org/licenses/by-nc-nd/4.0/ ), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the
+original work is properly cited, and is not altered, transformed, or built upon in any way.CONTACT Robert Aunger robert.aunger@lshtm.ac.ukHEALTH PSYCHOLOGY REVIEW, 2016
+VOL. 10, NO. 4, 425 –446
+http://dx.doi.org/10.1080/17437199.2016.1219673
+(e.g., http://www.mdrc.org/project/center-applied-behavioral-science-cabs#overview ), a fully-fledged
+applied science of behaviour change has yet to emerge.
+An applied science needs both science and application . First, it has to be able to stay current with,
+and incorporate, the latest thinking in relevant scientific disciplines, and, second, it needs access to
+the latest and best tools for applying this knowledge to real-world problems. In the case of behaviourchange, the relevant scientific disciplines include the burgeoning field of the brain and behavioural
+sciences, as well as the social and ecological sciences. Practical tools for applying this science to
+behavioural problems are to be found in many places including in industry (in creative and PRagencies, with professional designers and marketers), in public sector organisations and, to a
+lesser extent, in academia. Unifying such diverse material requires a generic framework.
+In this paper, we introduce a generic approach to behaviour change called Behaviour Centred
+Design (BCD). The BCD framework offers both a theory of change for behaviour (De Silva et al.,2014 ; Retolaza, 2011 ; Vogel, 2012 ), and a practical process for designing and evaluating interventions.
+Theories of change are increasingly used to facilitate programme design because they force program-
+mers to make explicit claims about the cause –effect relationships that follow from an intervention,
+together with the assumptions underlying such claims. Analysis then allows programme stakeholdersto attribute results to programme activities, even in complex contexts. The BCD theory of changeincorporates some of the latest developments in behavioural science, including reinforcement learn-
+ing (RL) theory (Sutton & Barto, 1998 ), the evolution of behavioural control (Aunger & Curtis, 2015 ), the
+evolved structure of human motivation (Aunger & Curtis, 2013 ) and a revised version of behaviour set-
+tings theory (Barker, 1968 ). It also sets out a practical five-step process for designing and evaluating
+interventions. This process incorporates a novel approach to formative research (FR), applies design
+thinking and professional creativity to intervention production, and relies on academic best practicefor process and impact evaluation. A fundamental tenet of BCD is its single-minded focus on behav-
+iour in its physical, social, biological and temporal context. We suggest that following the five-step
+BCD process should lead to novel, creative and sustainable solutions, as well as to the accumulationof learning about what works, thus contributing to a progressive applied science of behaviour change.
+BCD has been applied successfully to behaviours ranging from handwashing, to oral rehydration,
+food hygiene, child and maternal nutrition, and post-operative exercise (Biran et al., 2014 ; Doyle,
+2015 ; Gautam & Curtis, 2016 ; Greenland, 2015 ). It has been used in the design and marketing of bath-
+room, soap and food products and is currently being applied to new challenges such as creatingdemand for sanitation and HIV prophylaxis. Below, we first set out the components of the BCDtheory of change, then the practical steps in its application, using the context of a large-scale
+public health behaviour change programme. We finish with a discussion of its limitations and
+possibilities.
+Behaviour Centred Design
+The BCD framework is set out in Figure 1 . The theory of change is depicted across the middle, with the
+ABCDE steps of the design process wrapped around the outside (in blue).
+Theory of change
+The BCD theory of change sets out the minimum chain of causes and effects that must occur forbehaviour to change, so as to produce the desired impact. Reading from the left, the task is to
+design an intervention that can produce changes to the environment, which causes changes in
+the brains of the target audience, which, in turn, cause them to behave differently. The consequencesof behaviour are changes in some state-of-the-world, such as better health, community solidarity or
+company profits. This causal sequence is shared by a variety of prominent approaches including
+expectancy value theory (which underlies approaches such as the Theory of Planned Behaviour(Ajzen, 1991 )), learning theories such as the Antecedent-Behaviour-Consequence Model426 R. AUNGER AND V. CURTIS
+(Miltenberger, 2011 ), and communication-based behaviour change approaches (Figueroa, Kincaid,
+Rani, & Lewis, 2002 ; Finnegan Jr & Viswanath, 2002 ; Graeff, Elder, & Mills Booth, 1993 ).1Indeed, it
+is possible to replace the brain box in the BCD theory of change with the more specific theoretical
+claims of many of the prominent health psychological approaches, as most consist of structural
+models of the relationships between particular psychological constructs such as subjective norms,intention, self-efficacy and coping planning.
+Design process
+The second component of BCD, the five-step intervention design process, is shown around theoutside of the theory of change. First is the Assess step, where what is known about the target behav-
+iour and its likely determinants in specific contexts is gathered together and a theory of change is
+drafted. In the Build step, FR fills in knowledge gaps and builds the hypothetical theory of change.The C step concerns a Creative process where insights derived from the A and B steps are used to
+develop the intervention, preferably with the help of creative professionals. In the Deliver step, the
+intervention is set up and rolled out to the target population, and in the final, E step, the interventionis Evaluated both for its outcomes and for its process, again following the expected theory of change.
+Our five steps are based on the design thinking process, particularly as proposed by Herbert Simon
+inThe Science of the Artificial (Simon, 1969 ).
+2This model has been taken up by engineers (Plattner,
+2009 ), design firms (Brown, 2009 ), academics (Andreasen & Hein, 1987 ; Booz, Allen, & Hamilton
+Inc., 1982 ) and more recently in business service, web-page, architectural and organisational
+design (Van Wulfen, 2013 ). It is also similar, but not equivalent, to the processes used in personnel
+training (e.g., the U.S Army ADDIE model (Branson et al., 1975 )), humanitarian responses (e.g., the
+UN OCHA model (Anonymous, 2014)), social marketing (Andreason, 2006 ), organisational capacity-
+building (e.g., the UNDP model (Anonymous, 2008 )), software design (Gremba & Myers, 1997 ), and
+in public health programmes (e.g., the PRECEDE-PROCEED model (Green & Kreuter, 1991 ), the MRC
+complex interventions framework (Anderson, 2008 ) and Intervention Mapping (Bartholomew
+Eldredge et al., 2016 )). Each of these approaches has some steps in common, but are not always
+clear about the minimum steps needed. Behavioural economists focus more on evaluation than
+Figure 1. Behaviour Centred Design.HEALTH PSYCHOLOGY REVIEW 427
+on the design of interventions, whilst marketing efforts often omit evaluation. Public health program-
+mers, in particular, often do not include a Create step; the MRC framework, for example, does notspecify the need for FR or creative intervention design. What makes all of the BCD steps necessary
+is that each has a unique function, and requires a specific expertise –A: research, B: field-based
+data collection, C: creativity, D: implementation logistics and E: evaluative analysis. The steps are
+also sufficient, in that a project which does not include all of them is likely to be less effective.
+The BCD theory of change
+The BCD theory of change requires that a specific sequence of causes and effects occur as a result of aprogramme intervention. This cascade is underpinned by a single, fundamental theory of thedynamics of behaviour change: RL. RL is now the dominant paradigm in neuroscience, psychology,
+robotics and organisational management for explaining how feedback from interactions with the
+environment shapes brains and hence behaviour (Alija, 2010 ; Botvinick, Niv, & Barto, 2009 ; DeWitt,
+2014 ; Doll, Simon, & Daw, 2012 ; Niv, Edlund, Dayan, & O ’Doherty, 2012 ; Sutton & Barto, 1998 ).
+In the basic RL model, an agent (animal or robot) interacts with its environment through two chan-
+nels: perception and action. At each step of interaction, the agent receives a perceptual input as anindication of the current state of the environment. The agent then chooses (perhaps subconsciously)
+an action to generate as its behavioural response to that situation. This action changes the state of
+the environment, which is again perceived, and the value of this change is returned to the agentthrough a reinforcement signal, or reward. The classic example is a mouse in a laboratory maze.
+The mouse can smell a piece of cheese, but needs to choose one of two paths to reach it. If the
+mouse chooses the correct path, moving along that path produces a positive cheese smell gradient,with the value of each forward motion being returned to the mouse as a positive reinforcement
+signal or reward. The mouse therefore continues to the cheese, which it begins to eat, triggering a
+further dopaminergic signal of reward.
+Our agent thus learns to repeat action-sequences that tend to increase the sum of values associated
+with the environmental changes it creates through action (Kaebling, Littman, & Moore, 1996 ) (techni-
+cally, learning –or brain changes –are caused by a signal that indicates an unexpected level of reward
+from the behaviour, or a revised assessment of the value of its response (O ’Doherty, Dayan, Friston,
+Critchley, & Dolan, 2003 ; Schultz, 2013 )). If successful, our agent will find a policy that maps environ-
+mental states to the actions that maximise long-term total reward. RL thus links how environmentalchanges (for example, placing cheese in a supermarket aisle) produce new brain-states (via reward-
+based learning), which in turn, lead to changes in behaviour (choice of pathway), in a well-validated
+dynamic model. BCD uses RL as the natural foundation for its theory of change.
+Behaviour –state-of-the-world link
+We now describe the individual links in the BCD theory of change and their scientific underpinnings.
+We start from the right, the desired final impact, and work backwards to the inputs that are required
+to drive the cascade of change. First, we look at behaviour and how it affects health (the state-of-the-world on which we concentrate here).
+The BCD approach, as its name suggests, focuses squarely on behaviour. From an evolutionary
+perspective, behaviour is the quintessential adaptation of animals, representing their main distinctionfrom plants (Aunger & Curtis, 2015 ). Behaviour is a functional interaction between a body and its
+environment, designed to help an organism to get what it needs to survive and reproduce(Aunger & Curtis, 2008 ). In public health practice, the aim is typically to change specific behaviours
+that are risk factors for ill-health. However, if it is true that behaviour has been designed by evolution
+to maximise biological fitness, as we argue, why is it that some behaviours are apparently maladap-
+tive –that is, they cause ill-health at a population level? Surely such behaviours should have been
+removed from the human repertoire by natural selection.428 R. AUNGER AND V. CURTIS
+There are many reasons why current human behaviour does not always optimise health. First, the
+choice of one behavioural strategy always comes at a cost to another, due to trade-offs (Henderson,
+2008 ). For example, behaviours that maximise reproductive success, but jeopardise health, may have
+been positively selected, such as when adolescent males indulge in risky behaviours to impresspotential mates (Byrnes, Miller, & Schafer, 1999 ). Another important reason for contemporary
+unhealthy behaviour is ‘ecological mismatch ’: human behaviour evolved to maximise survival and
+reproduction in our ancestral environments, but most of us now live in a highly techno-enhancedworld (Curtis & Aunger, 2011 ; Eaton et al., 2002 ; Nesse & Williams, 1998 ). In contemporary life, indi-
+viduals can meet basic needs with minimal effort: calories are cheap, work and entertainment are
+sedentary, novel technologies such as cigarettes, refined sugars, cars and winter sports are highly
+reinforced through reward, but have negative side-effects. Recent technological advance offersattractive, but unhealthy, new products and lifestyles. Further, beneficial novel behaviours using tech-
+nologies such as vaccines, soap or medication are not learnt because their use is not sufficiently
+rewarding (Hall & Fong, 2007 ). Thus, although most human activity is ‘naturally ’healthy, certain beha-
+viours are sub-optimal from a health point of view, and require programmatic assistance.
+For a programme to be effective, it is essential that the behaviours most responsible for causing
+some undesirable state-of-the-world (e.g., a prevalent health problem) be identified with precision.Whilst the definition of the responsible behaviour may be obvious (e.g., due to a long history of epi-
+demiological investigation), identifying the exact behaviour to target can sometimes be problematic.
+For example, it can be hard to pinpoint which specific child feeding practices are responsible for highlevels of stunting or obesity. Judgments often have to be made as to the precise behavioural target
+based on best available –but incomplete –evidence (Curtis et al., 2011 ).
+Brain –behaviour link
+The next link in the theory of change is that between behaviour and brains. The two are intimately
+linked because the brain is an organ designed by evolution to produce adaptive behaviour (Aunger &
+Curtis, 2015 ; Churchland & Sejnowski, 1992 ; Freeman, 1999 ; Hebb, 1949 ; Llinas, 2002 ; Swanson, 2003 ).
+Figure 1 indicates how the brain resides within a body, which actually executes behaviour. Feedback
+from the body in the form of sensation or perception is the brain ’s sole form of input, and the body
+has its own physiological and metabolic needs with which the brain must be concerned, so bodies
+have important influences on behaviour as well (Cisek & Pastor-Bernier, 2014 ; Glenberg, 2010 ; Lakoff
+& Johnson, 1999 ; Varela, Thompson, & Rosch, 1991 ).
+Over their long evolutionary history, human brains have acquired three distinct mechanisms for
+controlling behaviour, each of which can be isolated neuroscientifically (Daw, Gershman, Seymour,Dayan, & Dolan, 2011 ; Daw, Niv, & Dayan, 2005 ; Dayan, Niv, Seymour, & D Daw, 2006 ; Rolls, 1999 ; Wun-
+derlich, Dayan, & Dolan, 2012 ). These are the reactive, motivated and executive behaviour control
+systems (Aunger & Curtis, 2015 ). Behaviour change research has largely concentrated on executive
+(or cognitive) control of behaviour. For example, studies show that intentions have some limited
+effects on behaviour (Webb & Sheeran, 2006 ), and that goal monitoring promotes goal attainment
+(Harkin et al., 2016 ). Executive control is undoubtedly important in some types of behaviour
+change, however, its importance may be overstated because of a failure to distinguish other formsof mental control over behaviour production. Health psychologists now acknowledge that there is
+a second type of control, ‘non-conscious decision-making processes ’(Sheeran, Gollwitzer, & Bargh,
+2013 ). We maintain that subconscious, short-term motivated goal-achievement is a third, important,
+but often ignored, form of behavioural control.
+Reactive behaviour
+The most basic and the oldest control system, evolutionarily speaking, is reactive, having arisen ininvertebrates, but persisting in all animals ancestral to, and including, humans. When environmentalstimuli representing opportunities or threats are perceived, reactive mechanisms produce almostHEALTH PSYCHOLOGY REVIEW 429
+instantaneous behavioural responses –often without conscious awareness. Examples include a flinch
+in response to contact with a flame or a learned automatism, such as changing gear while driving up
+a hill. Automatisms learned through repeated experience are called habits (Neal, Wood, & Quinn,
+2006 ). Many health-related behaviours, such as hygiene routines or taking medicines, are produced
+reactively in this way (Ouellette & Wood, 1998 ). Habits are created through repeated episodes of RL in
+which learning gradually stops because the level of reward becomes predictable; indeed, perform-ance continues even in the face of temporary loss of rewards (Everitt & Robbins, 2005 ). A behaviour
+change programmer may thus seek to create a habit by engendering the repetition of rewarding
+behaviour within regularly occurring routines in constant settings.
+Motivated behaviour
+The second type of behaviour to evolve (first in bony fish) was motivated behaviour (Aunger & Curtis,2015 ). Motivation directs behaviour towards the achievement of evolutionarily beneficial goals. A
+species ’way of life involves having to solve specific kinds of evolutionary problems, which are set
+by its niche. For example, humans have tasks such as finding food, a long-term mate, and ensuringthat we are treated fairly in social dealings. Psychological mechanisms, called motives, evolved tohelp us to choose the appropriate behavioural response to achieve such goals reliably –that is,
+the response that has been most likely over evolutionary time-scales to lead to a satisfactoryoutcome, as measured in terms of survival and reproduction (Aunger & Curtis, 2008 ,2013 ,2015 ;
+Kenrick, Griskevicius, Neuberg, & Schaller, 2010 ). As we have discussed, the reward system provides
+real-time indicators of progress towards, and achievement of goals and RL teaches us to repeatrewarding behaviour (and to avoid the opposite) (Arias-Carrión & Pöppel, 2007 ; Glimcher & Fehr,
+2013 ; Schultz, 2006 ). Motives are the mental mechanisms that evolved to produce this goal-directed
+behaviour.
+In particular, the human way of life requires us to solve 15 different kinds of evolutionary puzzles
+(Aunger & Curtis, 2013 ). For example, we are motivated to give a present to our mate because it may
+help to keep them around to help rear dependent children (pair-bond Love), to take free offers, evenfor things that we do not need (the Hoard motive), to work to advance our acceptance by the group(Affiliation), or our social standing (Status), or to avoid threats of predation and accidents (Fear).
+Figure 2 shows the point in human evolution at which each motive appeared (as new evolutionary
+Figure 2. The human motives.430 R. AUNGER AND V. CURTIS
+tasks became part of the life-way), and the kind of function each motive performs (i.e., to improve the
+brain ’s knowledge of the world, to improve the state of the external world itself, or to ensure that the
+body can keep producing adaptive behaviours).
+Each of these motives helped our ancestors to survive and compete in our evolutionary past. The
+behaviour change task is thus to identify the motives that can be associated with the target behav-iour so as to make it more rewarding, hence causing RL, and so making its repeat more likely.
+Planning and executive control
+Finally, mammals, and particularly higher primates, evolved a third means of producing behaviour:
+they use executive control to plan beyond the time horizon of immediate reactivity and short-to-
+medium term goals. Mammals can consciously imagine alternative futures, evaluate which arelikely to be most beneficial over even very long-term horizons (still valued in terms of reward) and
+hence plan to do something even more beneficial. For example, they can save grains to use for
+seed, rather than eating them immediately, or sacrifice the opportunity of an extra-pair mating byimagining the consequences for their family –both of which may have greater payoffs in the long
+run. Most efforts at behaviour change have focused on addressing this deliberative brain, on theassumption that it is primarily responsible for our behaviour. However, evidence now suggeststhat this part of the brain is reserved only for particular and unusual types of situations (Wilson,
+2004 ). Most behavioural production is, in fact, carried out elsewhere, in the reflexive and motivated
+behaviour control systems. BCD therefore focuses effort at uncovering reactive and motivated pro-
+cesses, most of which are likely to be beyond the reach of conscious reflection.
+The three different levels of control of behaviour in brains thus offer three distinct routes to encou-
+rage behaviour to change. Examples can be provided from programmes targeting increases in hand-washing with soap. Target individuals can be helped to form a habit (reactive control) by placing
+painted cues to handwashing outside school toilets (Dreibelbis, Kroeger, Hossain, Venkatesh, &
+Ram, 2016 ); making hospital rooms smell of lemon can stimulate motivated efforts by caretakers
+to keep themselves clean (Birnbach, King, Vlaev, Rosen, & Harvey, 2013 ), or individuals can be encour-
+aged to form plans (executive control) by being reminded of the health benefits of handwashing(Curtis, Danquah, & Aunger, 2009 ). All three levels of behavioural control may also be required
+sequentially as part of an overall strategy. For example, an intervention may seek to inspire conscious
+decisions to become a non-smoker, to motivate individuals to reorganise their daily activities such
+that they avoid situations where social demands to smoke will be placed on them, and suggest modi-fications to their domestic environment such that they force themselves into new habits to replace
+practices when smoking would otherwise occur. The strategy that is chosen will need to be specified
+in the programme ’s theory of change.
+Environment –brain link
+Having specified the ways in which brains (via bodies) cause behaviour, the next link in the theory of
+change to specify is how the environment can be changed in ways that cause the desired changes in
+behaviour. By ‘environment ’we mean physical, biological or social factors external to the actor, which
+may include infrastructure, products, norms and explicit interventions such as text messages or
+advice from health personnel.
+Behaviour settings provide a powerful tool for conceptualising how behaviour is situated in a
+particular environmental context –i nt i m e ,i ns p a c ea n di ns o c i e t y( B a r k e r , 1968 ; Goffman, 1959;
+Shove, Pantzar, & Watson, 2012; Tharp & Gallimore, 1988). A behaviour setting is a specific and
+bounded type of situation in which objects, places and people interact to achieve a common
+purpose (shown as a dotted box in Figure 1 ). A behaviour setting –such as a music class, a meal-
+time, a business meeting or a car journey –is a far more powerful predictor of individual behaviour
+than psychological variables such as intention, be lief or motivation. Indeed, a huge dataset of real-
+world observations collected by Roger Barker, one developer of the behaviour setting concept, andHEALTH PSYCHOLOGY REVIEW 431
+his team showed that if one knows the setting and the role being played by an individual in it, one
+can predict observed behaviour with 90% accuracy (Barker & Schoggen, 1973). The situation versus
+personality literature in social psychology simila rly finds significant associations between behav-
+iour and setting-related factors (Meyer, Dalal, & Hermida, 2010; Rauthmann & Sherman, 2015;Z i m -
+bardo, 2007). For participating individuals, behaviou r settings are an excellent means of avoiding
+the need to calculate how to behave from scratch e ach time a situation occurs, and allow everyone
+to benefit from cooperating in an activity. Hence, for much of our lives, we allow our behaviour toconform to its setting.
+Each behaviour setting is performed as a set of interlocking, regularly occurring actions, called a
+‘standing pattern ’(Barker, 1968 ), which is dictated by the design relationships between the environ-
+ment, the objects within it, the typically unwritten rules of social engagement and the goals of theindividuals cooperating within the setting (Shove et al., 2012 ). Settings can have a long history of cul-
+tural evolution. Take the music class example. Classrooms have, over generations, come to take ashape that fits them to the task of shared learning. Focal objects such as chairs, music scores andinstruments have (been) evolved to fit the need to practice music making. Everyone has learnt
+their respective roles by gaining new competencies, and they adhere to these roles using the
+scripts that they carry in their heads (and/or a written lesson plan). Each setting also employsdeviance control mechanisms to ensure routines are followed, so when pupils misbehave, for
+example, they are reprimanded or ejected, and when an instrument breaks it is mended or replaced.
+The standing pattern is normative –it is enforced by those participating, and often by the physical
+environment as well, which channels behaviour in appropriate directions. RL ensures that individuals
+quickly correct their behaviour, as to behave inappropriately in a setting is embarrassing, shaming
+and injurious to the individual ’s social standing. Behaviour settings have evolved through long his-
+tories of cultural experimentation and RL until they have stabilised with standing patterns of behav-
+iour that efficiently meet the participant ’s needs (Barker, 1968 ; Shove et al., 2012 ; Tharp & Gallimore,
+1988 ).
+The task of the programmer is thus to map the setting factors that choreograph current behaviour
+and then to disrupt the setting in a way that causes behaviour to settle into a new standing pattern.
+Although this may be hard to engineer, once established, new patterns of behaviour may be sus-tained for the long term, often a desirable outcome for public health (Kwasnicka, Dombrowski,
+White, & Sniehotta, 2016 ).
+Intervention –environment link
+The last link in the theory of change is that between the intervention and the environment. Program-
+mers must design an intervention which causes the entire cascade of cause –effect linkages in the
+theory of change to occur, as if they were a line of dominos.
+But how, practically, can a behaviour change programmer intervene to make this chain reaction
+occur? Choice of the means to initiate the sequence is crucial. Marketers call the context where the
+target population come into contact with the intervention a ‘touchpoint ’(Lockwood, 2009 ). Examples
+include a billboard at a bus stop, an announcement at a community meeting, a posting to a Facebook
+page, a health advice session in a clinic or a TV commercial viewed in a living room.
+The behaviour setting within which people are ‘touched ’by an intervention (i.e., the Touch-
+point Setting) can be distinct in time and place f rom the setting within which the target behav-
+iour is meant to be performed (i.e., the Targe t Setting). For example, people can learn a new
+association about a product th rough RL caused by a TV commercial while sitting in their living
+room, but must remember to buy the product in the shop and then to use it after that. This intro-duces a last task for the theory of change: the RL it creates has to survive the temporal and spatial
+gaps between these settings. In effect, a new valu ation of a product or behaviour has to be suffi-
+ciently strong at the initial touchpoint to persist until the moment when the target behaviourshould occur.432 R. AUNGER AND V. CURTIS
+The behaviour change challenge
+BCD provides a theoretical foundation for understanding how an intervention at one end of the
+theory of change, when implemented, can have the desired impact at the other end of the causal
+chain. This requires the careful building of a cause –effect cascade. Seen through the lens of RL,
+this creates a specific set of challenges to tackle: perception must be linked to action through
+reward in specific settings. We identify these challenges as creating surprise, causing revaluation
+and enabling performance (in red in Figure 1 ).
+Surprise
+The first job of the programmer is to modify the environment in a way that causes the perception ofsomething that is capable of producing the desired behaviour. However, in a busy world, sensorychannels are crowded with many perceptions and new stimuli must be made to stand out.
+Luckily, we can derive theoretical expectations about how to achieve this. Perceptual systems
+have been designed by evolution to attend to aspects of the environment that are salient –that
+is, those that represent something unexpected; signalling an opportunity for a reward (or a threat
+of a punishment) (Mnih et al., 2015 ; Niv et al., 2015 ). For example, a pebble when it is flying
+towards one is a salient stimulus that will occasion action, but this is not true when the same
+pebble forms part of a rock-pile beside the road. An intervention must thus change something
+about the environment that is both perceptible in a busy environment and unexpected in a salient
+way in order to gain the agent ’s attention. We label this first challenge the need to create ‘surprise’
+(shown in red in Figure 1 ).
+Revaluation
+Second, the target agent must act on the stimulus in the environment and so experience a level of
+reward that is different from that expected. The intervention needs to ensure that the desired behav-
+iour is the best option in the new situation. In effect, the target behaviour must be Revalued so that it
+is more likely to be selected as a response.
+Understanding the evolved structure of motive s provides programmers with a range of options
+to cause revaluation. One way is by emphasising the rewards from performing the behaviour. This
+can be done by heightening the sensory salience, temporal proximity or statistical likelihood of
+these rewards being experienced. For example, the effects of a perfume on the opposite sex can
+be demonstrated graphically in an advertisemen t. Decreasing the wait-time before a reward is
+experienced can also increase expected value (as it reduces temporal discounting) (Green &
+Myerson, 2004 ). The perceived likelihood of a reward can a lso be influenced using marketing strat-
+egies such as offering guarantees and warranties, which increase the expected utility of a purchasedecision.
+All behaviours have a ‘proper domain’ motive (i.e., that for which they evolved). For example,
+eating food will assuage the Hunger motive, while hygienic behaviours, serving primarily to avoidinfectious disease, reduce Disgust (Curtis, 2014 ). However, other motives can also be recruited to
+help instigate behaviour change. For example, food can also be designed to be stored in a cupboard
+for a rainy day, satisfying the Hoard motive (as well Hunger later). Hygienic behaviour can be posi-
+tioned as good manners, highlighting how mannerly behaviour will lead to social acceptance (theAffiliation motive) (Biran et al., 2014 ). Obviously, the opposite also applies: anti-smoking campaigns
+try to make smoking lessvaluable by suggesting that the practice will lower social acceptance. By
+varying the number of motives and kinds of rewards attached to the performance of the targetbehaviour, RL takes place, the new behaviour is revalued, and hence it will become more (or less)
+likely.HEALTH PSYCHOLOGY REVIEW 433
+Performance
+In addition to getting attention, being processed and causing revaluation, an environmental modifi-
+cation must also ensure that the target behaviour becomes part of the standing pattern of its setting.
+This is the third, and final, challenge a programmer must meet: performance. Using the metaphor of
+theatre (Goffman, 1959 ), the stage on which the target behaviour occurs, or the roles played by the
+actors, or the script, or the props have to change, or a combination. The basic rule is: disrupt the
+behaviour setting such that the target behaviour becomes part of the standing pattern, whilst allow-ing the setting ’s objectives still to be realised (possibly more efficiently). There are multiple ways in
+which this can be achieved.
+One kind of disruption is role change. Members of target audiences can be made leaders; for
+example, children can be elected class prefects and then be expected to demonstrate exemplary
+behaviour as role models (Paluck & Shepherd, 2012 ). Another way of facilitating performance is to
+have people modify their own environments by increasing technological support for the target
+behaviour. For example, a pedometer is a prop that can disrupt exercise routines (Doyle, 2015 ).
+Another kind of disruption is rule change; for example declaring workplaces as smoke-free zones(Fichtenberg & Glantz, 2002 ). Changing behaviour settings represents a powerful and sustainable
+way of changing the performance of behaviour, by modifying the social norms, physical objects
+and infrastructure that regulate and support behaviour. In effect, settings combine the kinds of
+factors that appear to lead to sustainability –motivation, psychological and environmental resources,
+habitual performance, and self-regulation (Kwasnicka et al., 2016 ).
+Behaviour change is thus a three-part challenge: to create surprise, cause revaluation and facilitate
+performance (see Figure 1 again). Note that these three challenges –associated with the three fea-
+tures of RL (perception to action via reward) –map directly onto the elements of the BCD theory of
+change: the intervention must create surprise in the environment (through implementation), causerevaluation in the brain (via RL) and then facilitate performance of the behaviour itself (in its behav-iour setting).
+Designing behaviour change interventions
+Having described the BCD theory of change and the science that underlies it, we now address thequestion of how to go about applying science to the design of behaviour changing interventions.Like most design processes, BCD has a number of steps: Assess, Build, Create, Deliver and Evaluate.
+Figure 1 depicts the programme development steps wrapped around the theory of change. The A
+and B steps are shown as arrows moving from right to left following the sequence by which the
+causal links in the theory of change are typically elucidated through investigation, and the D and
+E steps as arrows from left to right, as the intervention is delivered and the activation of the
+causal links in the theory of change is evaluated. We describe each step in turn.
+Assess
+In the Assess step, programme designers start by gathering together what is known about the target
+behaviours, the target audience, the context for the intervention and its parameters. Attention is paid
+to defining precisely which behaviour(s) need to change, and to what is known about the determi-nants of that behaviour, both globally and in the particular programme context. Literature and
+experts are consulted and a literature review may be carried out, if one is not already available.
+Table 1 shows the BCD checklist (formerly called the ‘Evo-Eco ’checklist (Aunger & Curtis, 2014 )),
+which is a comprehensive list of the factors that determine behaviour including habits, motives, plansand the components of behaviour settings. It is used throughout the design process as a template for
+organising what is known and unknown about the target behaviour. Its components begin asunknowns, but gradually become ‘knowns ’through the design process.434 R. AUNGER AND V. CURTIS
+The ‘A’step culminates in a ‘framing workshop ’of programme stakeholders to review the current
+state of knowledge and to draft a theory of change, with specific hypotheses about change mechan-
+isms for further exploration. The workshop also sets out the unknowns: questions that still need to be
+answered in order to develop the theory of change. In the example in Table 1 , which is taken from an
+infant nutrition project in Indonesia, project stakeholders and nutrition experts agreed to the overall
+aims, objectives and targets of the BC programme in a framing workshop, and agreed that one (of
+three) key behaviours that needed to change was ‘unhealthy snacking ’. It was hypothesised that
+mothers did not know ( brain-executive) that snacking was unhealthy for their children (a hypothesis
+which was later discounted in the FR). Unknowns included the exact behaviour to target, the feedingsettings and the potential touchpoints.
+Build
+The next, Build step, has two purposes: first, to fi ll in gaps in knowledge about the determinants of
+behaviour and second, to identify the strongest possible theory of change for the target behaviour.FR is generally required because programmers s eldom understand enough about the context and
+drivers of the current behavioural patterns with out some immersion in the reality of the target
+audience. The findings provide the foundation for the next step, which is to Create theintervention.
+In BCD, FR follows consumer research practice, which seeks ‘insights ’, or illuminating, deep truths
+about behaviour and its causes (Mariampolski, 2006 ). Insights may be psychological; such as a newTable 1. BCD checklist (with a completed example).
+Factor Sub-factor Snacking example
+State-of-the-World Aim Reduce stunting in East Java
+Objective Improve nutrition of <2s
+Behaviour Target Healthy snacking in children
+Brain Executive Mothers know snacks are ‘bad ’, but still feed them to children
+Motivated Affiliation: mothers don ’t want crying child to annoy neighbours
+Status : mothers want to be recognised as good mothers
+Nurture : mother wants to keep her child happy and smiling
+Reactive Children cry when hungry
+Discounts Temporal : Children are unable to delay hunger satisfaction
+Financial : Unhealthy snacks are cheaper than healthy ones
+Body Traits Mother with infant under 2 years in urban East Java
+Physiology Child gets hungry between meals
+Environment Physical Peri-urban dense housingBiological Nutritious food is available from the market, often only in the early morning, is
+cooked once and stored all day. Snacks are constantly available close by in
+corner kiosks.
+Social Constant interaction in street in front of houses
+Neighbourhood associations, religious meetings, nutrition clinics etc.
+Behaviour Setting Stage Veranda of house, alleyway
+Infrastructure Kitchen equipment
+Props Bowls of home-cooked food
+Large range of attractive, cheap, locally made and industrially produced snacks
+Roles Mother, child, neighbour
+Capabilities Cooking/eating skillsRoutine Adults take three meals a day, but child gets fed in-betweenScript Mother: cook and feed children regularly; Child: expect to be fed regularly by mother;
+Neighbour: regulate nearby-family behaviour
+Norms It ’s good to feed a child nutritious home-cooked food
+A crying child implies bad motheringNeighbours can intervene to feed a hungry, complaining child
+Intervention Touchpoints TV watched by all, but local TV stations only by 20%
+Facebook used by majority of young mothersLocal women ’s clubs attended by majority
+Materials TV ads, Emo-demos, Facebook pagesHEALTH PSYCHOLOGY REVIEW 435
+angle on a fundamental motive, or about how the behaviour setting can be disrupted, for example, to
+make performance easier.
+Data collection and analytic procedures are designed to produce as much material from which to
+draw potential insights as possible in a limited time. Tools derive from ethnography, consumerresearch, and design thinking and include: script elicitation, forced choice experiments, videoingof daily routines, inventories of physical objects, motive mapping, product attribute ranking, proto-
+typing, story-telling and touchpoint identification. Because BCD is concerned with understanding
+motivation and performance, FR prioritises methods that engage with actual behaviour in context,and surface the hidden drivers of behaviour, rather than talk-based methods, such as focus group
+discussions and key informant interviews, which tend to bias investigation towards cognitions as
+drivers of behaviour.
+Tools are chosen to answer specific questions. Once the use of a particular tool stops generating
+new information, it is dropped and a new one adopted, as new questions arise. The result is a flexible,iterative process of mainly qualitative investigation. This has the advantage of allowing a small groupof researchers to rapidly cover a lot of conceptual ground (over one to three weeks of fieldwork). The
+BCD checklist is used throughout this process to organise incoming findings, and to ensure that all
+determinants of the target behaviour are investigated. Updating the checklist can serve as the culmi-nation of each day’s activities.
+Returning to the example in Table 1 , the information in the table was generated using a variety of
+tools. For example, food attribute ranking –in which mothers were given a basket of food samples
+and asked to lay them out along axes such as healthy/unhealthy, natural/unnatural, good/bad for
+growth, etc. –showed that mothers knew snacks were less healthy than home-produced meals.
+However, ethnographic videoing revealed that mothers were often seen chasing children down
+the street, trying to feed them nutritious food that they had prepared whilst the child fled away
+The video also made it clear that children had often been fed a snack some half an hour before,
+and that this was usually to quiet whining or crying. Hence, despite high levels of knowledge inmothers ’executive brains about good nutrition, they were motivated by the need to keep a child
+happy (Nurture) and the need to be seen as a good mother (Affiliation and Status) to feed snacks.As a result, the standing pattern of behaviour was that children were refusing healthy foodbecause they had been fed snacks prior to meal times.
+Apart from providing insights, FR can also be used to test hypotheses about the drivers of behav-
+iour and to provide background for the creative process. In Indonesia we hypothesised that the figureof a gossiping woman could highlight and challenge local norms about feeding. Tests of the proto-
+type idea revealed that this would be acceptable as long as the gossiper was young, foolish and
+funny.
+After fieldwork, the findings are organised so that they can be used in the second step: identifying
+insights that can be used to leverage behaviour change in an intervention. One means of doing this isan insight generation workshop (Plattner, 2010 ). Participants martial all facts, observations and con-
+clusions that strike them as salient to the behaviour change problem, writing them on strips of paper.
+These are then clustered and recombined, iteratively, to generate a small set of nascent, but rich areas
+of ideas, or conceptual frameworks. From this set, the one which those assembled believe can beassociated with the strongest theory of change –and which satisfies other criteria such as feasibility,
+acceptability, likely cost and sustainability –is selected to go forward into the Create step. This
+process canvases a broad range of information and distills it quickly and efficiently into a singleoutput.
+Returning to the example of child snacking in Indonesia, the key insight that emerged from this
+process was that mothers were responding to peer pressure to keep their child quiet by offering asnack at the point at which it began to demand food. The theory of change that we constructed
+was therefore to disrupt the setting with a surprising action by a respected local figure, and to
+revalue feeding healthy snacks as a socially admirable thing to do (Affiliation).436 R. AUNGER AND V. CURTIS
+The insights and theory of change then form the heart of the creative brief: the instructions to the
+creative team for the Creation of the intervention. The brief includes background to the problem,
+what is known about current behaviour, target audience and target behaviour, the theory of
+change, intervention design principles, potential touchpoints, as well as the budget, timeline and
+deliverables for the programme.
+Create
+The purpose of the Create step is to design a set of surprising and disrupting intervention strategies
+and materials that have maximum effect on the target behaviour. The work is carried out by a creative
+team, who may be from an established agency, or be locally constituted, depending on availablefunding. The task is to create concepts that respond to the brief. The management team then
+winnows these ideas and the concepts are developed further through a series of proposals from
+the agency which are considered and reverted upon by the management team, until the finalconcept is agreed upon. The management team can use criteria such as consistency with the
+theory of change (ability to surprise, to revalue or to disrupt performance), programme values, aes-
+thetics, prior history, uniqueness, and likely value-for-money, to select among the proposed concepts.
+With the creative concept agreed, prototypes of intervention materials and touchpoint plans can
+be developed, then tested, preferably in realistic circumstances with representatives of the targetpopulation. Iterations of development with critique again take place during this phase, as prototypesget more and more fully developed. When fully ‘matured’, the intervention package is presented to
+the programme team and other stakeholders for final agreement.
+In Indonesia, a local creative agency developed the concept of ‘Healthy Gossip ’which, through
+many reverts, produced a series of short advertisements which were shown on local and national
+TV, as well as an activation programme delivered in women ’s groups. In the case of snacking behav-
+iour, the TV ad shows the gossip character offering a snack to a neighbour ’s child, but she is corrected
+by the child ’s grandmother pushing her hand away (a somewhat rude and surprising action in this
+context) who explains the importance of only offering healthy snacks like fruit. The gossip character
+then slaps her head saying how stupid she has been, and then gossips about the correct behaviour toanyone who will listen (see the related ads at http://ehg.lshtm.ac.uk/behavior-centred-design/ ).
+We also developed an activation programme delivered in arisans (local women ’s savings groups).
+The intervention included ‘emo-demos ’, which are surprising and motivating live demonstrations. For
+example, an emo-demo concerning inappropriate infant feeding involved a health agent standing in
+front of an audience of mothers. The agent asks if anyone would like to drink some milk. A volunteer,
+who has her infant with her, is given a clear plastic bag of milk to drink. The mother is then askedwhether she ever feeds her child crackers ( kropoek)? If so, a broken-up cracker is added to the
+mix. Questioning continues with respect to fizzy drinks, sweets, rice, sauce, etc. being added tothe bag. This continues until the bag contains a disgusting lumpy discoloured mixture. Themother is again asked if she will drink it. She typically refuses, and all mothers respond with
+disgust exclamations and face pulling. The emo-demo revaluates non-exclusive breastfeeding behav-
+iour, associating it with disgust via RL. This deviation from normal health educational messaging issurprising and engaging, causing much hilarity.
+3A simplified version of the theory of change for
+this part of the campaign is shown in Figure 3 .
+Deliver
+In the Deliver phase, the intervention is implemented. A large range of channels may be used to reachthe target audience, from one-on-one contact by health agents or peers, to community events, to
+outdoor or indoor advertising, to mass and social media. The choice of touchpoints should reflect
+the cost and effectiveness of different sorts of contacts. For example, there is often controversy asto whether spending on mass media is worth-while: mass media may have a low impact perHEALTH PSYCHOLOGY REVIEW 437
+contact, when compared to direct contact; however, the cost-per-contact for mass media may be so
+much lower than for direct contact that it becomes the most cost-effective choice (Scott, Curtis, Rabie,
+& Garbrah-Aidoo, 2007 ). Implementation plans that achieve sufficient coverage more cheaply, with
+lower skill and equipment requirements, management overheads and over a shorter period
+should be preferred. The BCD theory of change can be used to identify critical points that could
+affect programme delivery –for example training of facilitators, production of materials, and
+methods to get people to attend meetings.
+Actual Delivery is monitored to ensure exposure, d ose, coverage, fidelity, acceptability, simpli-
+city, brand recognition, evaluability, sustainabi lity and security (from competing campaigns, risk
+of misinterpretation and uncontrollable factors) (Carroll et al., 2007;H o f f m a n ne ta l . , 2014 ). In
+the Indonesian Healthy Gossip programme, issue s with fidelity, late delivery of production
+materials and low attendance at arisan meetings adversely affected the ability of the programme
+to deliver behaviour change.
+Evaluation
+Evaluation is an important step in BCD, gathering evidence of outcomes and impact and determiningwhat has worked, or not worked, and why and providing learning for future programme cycles. As the
+specific focus of BCD is behaviour, evaluation primarily focuses on whether behaviour has changed,ideally employing a counterfactual to rule out secular trends. Measuring impacts (such as on health)
+can be complex and expensive and may not be necessary if the relationship between behaviour and
+health is already well established. However, the choice of measure for behavioural outcomes requirescareful attention as there may be many reasons why self-report is not a valid measure of actual
+behaviour (Aunger, 2003 ; Baumeister, Vohs, & Funder, 2007 ; Contzen, De Pasquale, & Mosler, 2015 ;
+Klesges et al., 2004 ). Ideally, funding should also be set aside to measure the sustainability of the
+behaviour change over the longer term.
+Data should also be collected that allows careful appraisal of whether the expected cause– effect
+linkages in the theory of change process ( Figure 1 ) actually occurred (i.e., for a ‘process evaluation ’)
+(Saunders, Evans, & Joshi, 2005 ). It is also desirable to record facets of the implementation itself:
+Figure 3. The Indonesian ‘Healthy Gossip ’campaign ’s breastfeeding theory of change.438 R. AUNGER AND V. CURTIS
+coverage and dosage of exposure, acceptability of the programme offerings to the target population,
+and its cost-effectiveness (with respect to behaviour change or impact). Since many public healthinterventions are complex, it is important to try and identify which components are proving effective
+(van Achterberg et al., 2011 ; French, Olander, Chisholm, & Mc Sharry, 2014 ; Michie, Fixsen, Grimshaw,
+& Eccles, 2009 ) However, it is not enough to show correlations between implementation of a tech-
+nique and outcome measures. Rather, the specific psycho-social mechanisms claimed by thetheory of change must be shown to have been responsible empirically for the outcome (Peters, de
+Bruin, & Crutzen, 2015 ). Process evaluations must therefore test for active psychological, social and
+physical environmental changes associated with the programme and the desired outcomes. For
+example, we have shown that changes in targeted motives for handwashing were associated with
+exposure to a campaign in rural India (Rajaraman et al., 2014 ). The learnings from both types of evalu-
+ation (outcome and process) should then provide the starting point for a new cycle of learning by
+engaging in the BCD process again to develop new programmes.
+In our continuing empirical example, the final evaluation of the Healthy Gossip programme
+showed that two of the target behaviours were significantly higher in the intervention than thecontrol groups, that TV and community activations had independent and additive effects on behav-
+iour, and that there was an improvement in healthy snacking frequency (White et al., 2015 ). The
+process evaluation showed that the theory of change failed to be fulfilled in a number of respects,
+mostly having to do with delivery problems such as the fact that the arisan attendance was lower
+than expected, although the emo-demos were highly memorable (White et al., in preparation).
+Discussion
+BCD draws on learnings from many disciplines, including evolutionary, ecological and cognitivepsychology, neuroscience, robotics, behavioura l economics, social and commercial marketing
+and design thinking. It is a generic approach which can organise such diverse perspectives on
+behaviour. For example, many of the ‘nudges ’that behavioural economists have made famous
+(Thaler & Sunstein, 2008 ) qualify as executive control-based decision-making rules. For example,
+framing choices in terms of gains rather than lo sses can make desired options more likely to be
+adopted.
+4Similarly, reducing the number or range of options available can influence decision-
+making in ways that lead to desired choices (by reducing cognitive load). Other nudges qualifyas motivational revaluations. For example, providing a financial incentive (i.e., paying people todo the target behaviour) is an overt (but extrinsic ) reward. Yet, other nudges constitute interven-
+tions that manipulate the physical environment of the target behaviour setting itself to facilitateperformance (e.g., placing healthier options firs t in a school cafeteria buf fet line (Just & Wansink,
+2009)).
+Similarly, the results of a recent pro ject to catalogue all the different ‘behaviour change tech-
+niques ’(BCTs) in the literature (Michie et al., 2013) can be placed within the BCD theory of
+change, providing an ontologically clearer means of organising and selecting amongst them. For
+example, the BCTs of ‘classical conditioning’ ,‘negative reinforcement ’,‘habit formation ’and
+‘behavioural rehearsal/practice ’are processes covering the entire theory of change (as forms of
+RL). On the other hand, ‘social support ’,‘modelling of the behaviour ’,‘instruction on how to
+perform a behaviour ’,‘pharmacological support ’or‘restructuring the physical/social environment ’
+should be classed as interventions, while ‘identification of self as role model ’,‘goal setting ’and
+‘cognitive dissonance ’constitute examples of brain changes expected from exposure to an inter-
+vention (i.e., the consequences of surprise). Th u sa n yg i v e nn u d g eo rB C Tc a nb eg i v e nas p e c i f i c
+place within the BCD framework.
+Design thinking, which originated in engineering practice but has recently infiltrated many crea-
+tive fields, suggests that behaviour can be designed through an iterative, collaborative effort between
+target populations and designers. BCD uses evolutionary design, seeking an adaptive ‘fit’between
+people, their roles, and their actions in particular behaviour settings. It should thus be able toHEALTH PSYCHOLOGY REVIEW 439
+accommodate future developments from this movement. BCD thus provides a flexible framework
+that can accommodate future insights from efforts to better understand behaviour and its determi-nants in a variety of fields.
+As we have emphasised, the object of BCD is to change behaviour through surprise, revaluation
+and disruption of performance rather than to carry out ‘messaging ’. Doing so has reliably led to sig-
+nificant behaviour change. For example, in the SuperAmma programme in rural India, handwashing
+with soap was revalued as an activity associated with being a nurturing mother and performance was
+disrupted via eye-spots placed in washing areas (Biran et al., 2014 ). In urban Zambia, four diarrhoea
+prevention behaviours were revalued as being socially desirable through live and filmed perform-
+ances by a group of well-meaning, but nosey neighbours called the ‘Komboni Housewives ’(Green-
+land, Chipungu, Chilengi, & Curtis, 2016 ). In Nepal, safe food hygiene behaviours were revalued via
+mothers being awarded ‘ideal mother’ status, whilst food preparation performance was disrupted
+in behaviour settings through kitchen makeover parties (Gautam, 2015 ). In Indonesia, child
+feeding practices were again revalued and performance was disrupted via a series of ads featuring
+a gossiping woman and a surprising, disruptive action –for example, flicking a bottle of formula
+milk into a rubbish bin to promote breastfeeding (White et al., 2015 ). Each of these programmes
+also employed surprise in that they were eye-catching and non-standard, and they provided newopportunities for RL of positive associations with the target behaviours.
+Throughout this paper, we have couched use of BCD in the context of public health programme
+development. However, BCD could also work in othe r contexts, such as product design, marketing,
+governance, education and self-help, and it ca n be applied to behaviour change problems at popu-
+lation, institutional or individual level by adapt ing the focus of the theory of change. For example,
+an equivalent causal chain can be created at the level of an organisation (rather than an individual)by substituting organisational processes for psyc hological ones in the middle step. So just as learn-
+ing at the level of individual brains requires forming new synaptic connections, so too can changesto organisational procedures be seen as new way s of communicating betw een groups within the
+organisation. BCD can also be applied to the case of new product development or rebranding by
+recognising that the Create phase must engineer an object or service that w orks as an intervention
+i nm u c ht h es a m ew a ya st h ec o m m u n i c a t i o n sp a c k a g e sw eh a v eb e e nd i s c u s s i n g– that is, the
+product must generate surprise, revaluation and performance, such that it gets purchased andused. Improving governance, on the other h and, can involve changing the behaviour of a
+special target population: bureaucrats and politicians, but the same principles apply –for
+example, after various invest igations, a lobbying or pressure group may produce a campaign
+(the intervention) designed to convince government officials (the output) to be more transparent
+in reporting their job-related expenses (the beh avioural outcome), thus reducing corruption (the
+impact). What BCD adds to these problems –besides a unified conception of the steps to be
+gone through –is a set of theory-based tools to generate new knowledge at each step, and analytic
+procedures that can facilitate an effective theo ry of change being developed and implemented.
+Significant efforts are underway to categorise the kinds of intervention components that pro-
+grammes use (Kok et al., 2015 ; Michie et al., 2016 ), and to build evidence more systematically
+from programme experience (Peters et al., 2015). We believe that BCD provides an additional
+resource for behaviour change, as a theoretical framework within which the results of theseefforts can be framed.
+Conclusion
+The BCD approach is founded in both behavioural science and design thinking practice, underpinned
+by a number of fundamental theories:
+.RL, which explains how behaviour –environment interactions change future behaviour via reward.
+.Behaviour settings theory, which illuminates how context can be manipulated to facilitate change.440 R. AUNGER AND V. CURTIS
+.Evolutionary psychology, which explains how three levels of behavioural control have evolved in
+the human lineage.
+.A five-step design thinking process to construct and evaluate an intervention.
+BCD also has features that make it different from most current approaches to behaviour change. It has:
+.A single-minded focus on behaviour as the key outcome (not psychological constructs, knowledge,
+health or social indicators).
+.A theory of behaviour change , rather than of behaviour determination (the type of theory used by
+many practitioners currently –although BCD includes a list of behavioural determinants as well).
+.A foundation in the ultimate evolutionary purposes of behaviour.
+.A focus on the situatedness of behaviour in social and physical setting and the context of other
+behaviours.
+.A means of distinguishing three levels of psychological control over behaviour.
+.An anchoring of the process steps in design thinking.
+Despite its roots in theory and behavioural science, BCD was not conceived as an academic exercise,
+but to meet the need for a better process for designing interventions. As interest grows in behaviour
+change as a route to curing the world ’s ills, much work still needs to be done to develop this applied
+science, both in the science and in its application. BCD can be employed to tackle many of the small-
+and large-scale behaviour change challenges that we face across the globe. It is also generic enough
+to encompass many current approaches to behaviour change, and flexible enough to allow the inte-
+gration of new scientific findings about behaviour. As an evolving approach, it provides a platform forthe future development of behaviour change into a fully-fledged applied science.
+Notes
+1. The elements of the BCD theory of change are similar to those of a standard theory of change in that they link
+input, implementation, output, outcome and impact through ‘pathways ’of change (Taplin, Clark, Collins, & Colby,
+2013 ). However, it is more prescriptive than standard theories of change about the nature of what can be con-
+sidered an output or outcome, because of its focus on behaviour. In particular, an intervention is the input , its
+implementation is characterised as the resultant change in the environment, the output is a change in brain
+states, a behavioural change is the outcome and the impact is better health (or some other change in a state-
+of-the-world). (Note that the actual contents of the theory of change in a given case will include details of specific
+causal mechanisms for each of these links, with theoretical justifications, as well as assumptions and conditions
+for each link, not just the basic sequence shown in Figure 1.)
+2. Simon includes the steps Define, Research, Ideate, Prototype, Choose, Implement and Learn. We collapse the
+Ideate, Prototype and Choose steps into our Create step as they share the common purpose of producing inter-
+vention materials. Other steps are simply renamed to allow the mnemonic ABCDE.
+3. Note that in each of the first three steps (ABC), the intellectual dynamic is the same: one starts with a small set of
+elements –knowledge in the Assess step, empirical findings in Build or insights in Create –but then broadens this
+set through research (Assess), fieldwork (Build) or ideation (Create), and then narrows the range of items down
+again to single hypotheses, for application to the developing theory of change (Mootee, 2013 ). The first half of the
+BCD process is therefore one iteratively building a more fully conceptualized theory of change through three
+different kinds of knowledge generation processes.
+4. Many behavioural economists see their techniques as manipulating aspects of behavioural control that are ‘pre-
+dictably irrational ’(Ariely, 2009 ), when many of these ‘biases ’make adaptive sense from an evolutionary perspec-
+tive. Loss aversion (Kahneman & Tversky, 1984 ) for example (when people are less willing to lose than to gain
+something of the same value) can be seen as an adaptive consequence of reinforcement learning in which analready owned object provides more tangible and secure rewards than an imagined one.
+Acknowledgements
+We are happy to acknowledge the various contributions made by the following individuals: Tony Barnett, Weston Baxter,
+Adam Biran, Janneke Hartvig Blomberg, Simon Blythe, Roma Chilengi, Jenala Chipungu, Ciaran Doyle, Om-PrasadHEALTH PSYCHOLOGY REVIEW 441
+Gautam, Balaji Gopalan, Katie Greenland, Barbara Hewitt, Jessie de Witt Huberts, Irene Jeffrey, Gaby Judah, Sarah McDo-
+nald, Jaykrishnan Menon, Hans-Joachim Mosler, Pavani Ram, Crispen Sachikonye, Wolf-Peter Schmidt, Paschal Sheeran,Myriam Sidibe, Helen Trevaskis, Jay Ramakrishnan, Marti van Liere, Ivo Vlaev, Sian White, Richard Wright and several
+anonymous reviewers.
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+Funding
+During the development of this approach, the authors have been funded by the Wellcome Trust, Unilever, DFID, ESRC,
+SHARE, UNICEF, the World Bank, GoJo Industries, the Bill and Melinda Gates Foundation and the Global Alliance for
+Improved Nutrition. However, none of these funders specifically funded nor have been directly involved in the develop-
+ment of the approach.
+References
+van Achterberg, T., Huisman-de Waal, G. G., Ketelaar, N. A., Oostendorp, R. A., Jacobs, J. E., & Wollersheim, H. C. ( 2011 ). How
+to promote healthy behaviours in patients? An overview of evidence for behaviour change techniques. Health
+Promotion International ,26(2), 148 –162.
+Ajzen, I. ( 1991 ). The theory of planned behavior. Organizational Behavior and Human Decision Processes ,50, 179 –211.
+Alija, J. A. ( 2010 ).RoboCup soccer training: Using reinforcement learning to improve player skills . Mauritious: LAP LAMBERT
+Academic.
+Anand, P., & Lea, S. ( 2011 ). The psychology and behavioural economics of poverty. Journal of Economic Psychology ,32(2),
+284–293.
+Anderson, R. ( 2008 ). New MRC guidance on evaluating complex interventions. BMJ,337, a1937.
+Andreasen, M., & Hein, L. ( 1987 ).Integrated product development. Bedford: IFS.
+Andreason, A. ( 2006 ).Social marketing in the 21st century . London: Sage.
+Anonymous. ( 2008 ).UNDG capacity assessment methodology user guide . New York, NY: Capacity Development Group,
+United Nations Development Programme.
+Anonymous. (2015). 2015 Humanitarian needs overview guidance .
+Arias-Carrión, O., & Pöppel, E. ( 2007 ). Dopamine, learning and reward-seeking behavior. Acta Neurobiologiae
+Experimentalis ,67, 481 –488.
+Ariely, D. ( 2009 ).Predictably irrational . New York, NY: Harper Collins.
+Aunger, R. ( 2003 ).Reflexive ethnographic science . Lanham, MD: AltaMira Press.
+Aunger, R., & Curtis, V. ( 2008 ). Kinds of behaviour. Biology and Philosophy ,23(3), 317 –345.
+Aunger, R., & Curtis, V. ( 2013 ). The anatomy of motivation: An evolutionary ecological approach. Biological Theory ,8,4 9–
+63.
+Aunger, R., & Curtis, V. ( 2014 ). The Evo-Eco approach to behaviour change. In D. W. Lawson & M. Gibson (Eds.), Applied
+evolutionary anthropology (pp. 271 –295). London: Springer.
+Aunger, R., & Curtis, V. ( 2015 ).Gaining control: How human behaviour evolved . Oxford: Oxford University Press.
+Bandura, A. ( 1986 ).Social foundations of thought and action: A social cognitive theory . Englewood Cliffs, NJ: Prentice Hall.
+Barker, R. G. ( 1968 ).Ecological psychology: Concepts and methods for studying the environment of human behavior . Palo
+Alto, CA: Stanford University Press.
+Barker, R. G., & Schoggen, P. ( 1973 ).Qualities of community life: Methods of measuring environment and behavior applied to
+an American and an English town . San Francisco, CA: Jossey-Bass.
+Bartholomew Eldredge, L. K., Markham, C. M., Ruiter, R. A. C., Fernández, M. E., Kok, G., & Parcel, G. S. ( 2016 ).Planning health
+promotion programs: An intervention mapping approach (4th ed.). New York, NY: John Wiley & Sons.
+Baumeister, R. F., Vohs, K. D., & Funder, D. C. ( 2007 ). Psychology as the science of self-reports and finger movements:
+Whatever happened to actual behavior? Perspectives on Psychological Science ,2(4), 396 –403.
+Becker, M. H. ( 1974 ). The health belief model and sick role behaviour. Health Education Monographs ,2, 409 –419.
+Biran, A., Schmidt, W.-P., Varadharajan, K. S., Rajaraman, D., Kumar, R., Greenland, K., …Curtis, V. ( 2014 ). Effect of a behav-
+iour-change intervention on handwashing with soap in India (SuperAmma): A cluster-randomised trial. The Lancet
+Global Health ,2(3), e145 –e154.
+Birnbach, D. J., King, D., Vlaev, I., Rosen, L. F., & Harvey, P. D. ( 2013 ). Impact of environmental olfactory cues on hand
+hygiene behaviour in a simulated hospital environment: A randomized study. Journal of Hospital Infection ,85(1),
+79–81.doi:10.1016/j.jhin.2013.06.008
+Booz, Allen & Hamilton Inc. ( 1982 ).New product management for the 1980s . New York, NY: Author.442 R. AUNGER AND V. CURTIS
+Botvinick, M. M., Niv, Y., & Barto, A. C. ( 2009 ). Hierarchically organized behavior and its neural foundations: A reinforce-
+ment learning perspective. Cognition, 113, 262 –280.
+Branson, R. K., Rayner, G. T., Cox, J. L., Furman, J. P., King, F. J., & Hannum, W. H. ( 1975 ).Interservice procedures for instruc-
+tional systems development (5 vols.) (TRADOC Pam 350-30 NAVEDTRA 106A) . Ft. Monroe, VA: U.S. Army Training and
+Doctrine Command.
+Brown, T. ( 2009 ).Change by design: How design thinking transforms organizations and inspires innovation . New York, NY:
+HarperCollins.
+Byrnes, J. P., Miller, D. C., & Schafer, W. D. ( 1999 ). Gender differences in risk taking: A meta-analysis. Psychological Bulletin ,
+125(3), 367 –383.
+Carroll, C., Patterson, M., Wood, S., Booth, A., Rick, J., & Balain, S. ( 2007 ). A conceptual framework for implementation fide-
+lity.Implementation Science ,2, 40. doi:10.1186/1748-5908-2-40 .
+Churchland, P., & Sejnowski, T. J. ( 1992 ).The computational brain . Boston, MA: MIT Press.
+Cisek, P., & Pastor-Bernier, A. ( 2014 ). On the challenges and mechanisms of embodied decisions. Philosophical
+Transactions of the Royal Society B: Biological Sciences ,369(1655). doi:10.1098/rstb.2013.0479
+Contzen, N., De Pasquale, S., & Mosler, H. J. ( 2015 ). Over-reporting in handwashing self-reports: Potential explanatory
+factors and alternative measurements. PLoS ONE ,10(8), e0136445. doi:10.1371/journal.pone.0136445
+Curtis, V., & Aunger, R. ( 2011 ). Motivational mismatch: Evolved motives as the source of –and solution to –global public
+health problems. In S. C. Roberts (Ed.), Applied evolutionary psychology (pp. 259 –275). Oxford: Oxford University Press.
+Curtis, V., Danquah, L. O., & Aunger, R. V. ( 2009 ). Planned, motivated and habitual hygiene behaviour: An eleven country
+review. Health Education and Behavior , (4), 655 –667.
+Curtis, V., Schmidt, W., Luby, S., Florez, R., Toure, O., & Biran, A. ( 2011 ). Hygiene: New hopes, new horizons. The Lancet
+Infectious Diseases ,11(4), 312 –321. doi:10.1016/S1473-3099(10)70224-3
+Curtis, V. A. ( 2014 ). Infection-avoidance behaviour in humans and other animals. Trends in Immunology, 35(10), 457 –464.
+doi:10.1016/j.it.2014.08.006
+Daw, N. D., Gershman, S. J., Seymour, B., Dayan, P., & Dolan, R. J. ( 2011 ). Model-based influences on humans ’choices and
+striatal prediction errors. Neuron, 69(6), 1204 –1215.
+Daw, N. D., Niv, Y., & Dayan, P. ( 2005 ). Actions, policies, values and the basal ganglia, In E. Bezard, (Ed.), Recent break-
+throughs in basal ganglia research (pp. 91 –106). New York: Nova Science Publishers Inc.
+Dayan, P., Niv, Y., Seymour, B., & D Daw, N. ( 2006 ). The misbehavior of value and the discipline of the will. Neural Networks ,
+19(8), 1153 –1160.
+De Silva, M. J., Breuer, E., Lee, L., Asher, L., Chowdhary, N., Lund, C., & Patel, V. ( 2014 ). Theory of change: A theory-driven
+approach to enhance the Medical Research Councils ’framework for complex interventions. Trials ,15(1), a1655.
+DeWitt, E. E. ( 2014 ). Neuroeconomics: A formal test of dopamine ’s role in reinforcement learning. Current Biology ,24(8),
+R321 –324. doi:10.1016/j.cub.2014.02.055
+Doll, B. B., Simon, D. A., & Daw, N. D. ( 2012 ). The ubiquity of model-based reinforcement learning. Current Opinion in
+Neurobiology , 22, 1 –7.
+Doyle, C. ( 2015 ).Evaluation of a home-based walking exercise program on fatigue and health related quality of life in pros-
+tate cancer patients undergoing radiation therapy: A pilot study . (DrPH). London School of Hygiene and Tropical
+Medicine, London.
+Dreibelbis, R., Kroeger, A., Hossain, K., Venkatesh, M., & Ram, P. ( 2016 ). Behavior change without behavior change com-
+munication: Nudging handwashing among primary school students in Bangladesh. International Journal of
+Environmental Research and Public Health ,13(1), 129. doi:10.3390/ijerph13010129
+Eaton, S. B., Strassman, B. I., Nesse, R. M., Neel, J. V., Ewald, P. W., Williams, G. C., …Cordain, L. ( 2002 ). Evolutionary health
+promotion. Preventive Medicine ,34, 109 –118.
+Everitt, B. J., & Robbins, T. W. ( 2005 ). Neural systems of reinforcement for drug addiction: From actions to habits to com-
+pulsion. Nature Neuroscience ,8, 1481 –1489.
+Fichten
+berg, C. M., & Glantz, S. A. ( 2002 ). Effect of smoke-free workplaces on smoking behaviour: Systematic review. BMJ,
+325(7357), 188. doi:10.1136/bmj.325.7357.188 .
+Figueroa, M., Kincaid, D. L., Rani, M., & Lewis, G. ( 2002 ).Communication for social change: An integrated model for measur-
+ing the processes and its outcomes . New York: The Rockefeller Foundation.
+Finnegan Jr, J. R., & Viswanath, K. ( 2002 ). Communication theory and health behavior change: The media studies frame-
+work. In K. Glanz, B. Rimer, & F. Lewis (Eds.), Health behavior and health education: Theory, research and practice (3rd ed.,
+pp. 361 –388). San Francisco, CA: Jossey-Bass.
+Freeman, W. J. ( 1999 ).How the brain makes up its mind . London: Weidenfeld and Nicholson.
+French, D. P., Olander, E. K., Chisholm, A., & Mc Sharry, J. ( 2014 ). Which behaviour change techniques are most effective at
+increasing older adults ’self-efficacy and physical activity behaviour? A systematic review. Annals of Behavioral
+Medicine ,48(2), 225 –234.
+Gautam, O. P. ( 2015 ).Food hygiene intervention to improve food hygiene behaviours, and reduce food contamination in
+Nepal: An exploratory trial (PhD). London School of Hygiene and Tropical Medicine, London.
+Gautam, O. P., & Curtis, V. ( 2016 ).Design and test of an Intervention to change 5 food hygiene behaviours in Nepal .
+Manuscript submitted for publication.HEALTH PSYCHOLOGY REVIEW 443
+Glenberg, A. M. ( 2010 ). Embodiment as a unifying perspective for psychology. Wiley Interdisciplinary Reviews: Cognitive
+Science ,1(4), 586 –596.
+Glimcher, P. W., & Fehr, E. ( 2013 ).Neuroeconomics: Decision making and the brain . New York: Academic Press.
+Goffman, E. ( 1959 ).The presentation of self in everyday life . Endinburgh: University of Edinburgh Social Sciences Research
+Centre.
+Graeff, J. A., Elder, J. P., & Mills Booth, E. ( 1993 ).Communication for health and behaviour change . San Francisco, CA: Jossey-
+Bass.
+Green, L., & Kreuter, M. ( 1991 ).Health promotion planning (2nd ed.). Mountain View, CA: Mayfield.
+Green, L., & Myerson, J. ( 2004 ). A discounting framework for choice with delayed and probabilistic rewards. Psychological
+Bulletin ,130(5), 769 –792.
+Greenland, K. ( 2015 ).Evaluation of the Komboni Housewives multiple behaviour change intervention: Preliminary findings .
+London: London School of Hygiene and Tropical Medicine.
+Greenland, K., Chipungu, J., Chilengi, R., & Curtis, V. ( 2016 ). Theory-based formative research on oral rehydration salts and
+zinc use in Lusaka, Zambia. BMC Public Health ,16(1), 2151. doi:10.1186/s12889-016-2984-2
+Gremba, J., & Myers, C. ( 1997 ).The IDEAL(SM) model: A practical guide for improvement .
+Hall, P. A., & Fong, G. T. ( 2007 ). Temporal self-regulation theory: A model for individual health behavior. Health Psychology
+Review ,1(1), 6– 52.
+Harkin, B., Webb, T. L., Chang, B. P., Prestwich, A., Conner, M., Kellar, I., …Sheeran, P. ( 2016 ). Does monitoring goal pro-
+gress promote goal attainment? A meta-analysis of the experimental evidence. Psychological Bulletin ,142(2), 198 –229.
+doi:10.1037/bul0000025
+Hebb, D. O. ( 1949 ).The organization of behavior . New York, NY: John Wiley and Sons.
+Henderson, D. R. ( 2008 ).Opportunity cost concise encyclopedia of economics (2nd ed.). Indianapolis, IN: Library of
+Economics and Liberty.
+Hoffmann, T. C., Glasziou, P. P., Boutron, I., Milne, R., Perera, R., Moher, D., …Johnston, M. ( 2014 ). Better reporting of inter-
+ventions: Template for intervention description and replication (TIDieR) checklist and guide. BMJ,348, g1687.
+Just, D. R., & Wansink, B. ( 2009 ). Smarter lunchrooms: Using behavioral economics to improve meal selection. Choices ,24
+(3), 1– 7.
+Kaebling, L. P., Littman, M., & Moore, M. W. ( 1996 ). Reinforcement learning: A survey. Journal of Artificial Intelligence
+Research ,4, 237 –285.
+Kahneman, D., & Tversky, A. ( 1984 ). Choices, values, and frames. American Psychologist, 39(4), 341 –350.
+Kenrick, D. T., Griskevicius, V., Neuberg, S. L., & Schaller, M. ( 2010 ). Renovating the pyramid of needs: Contemporary exten-
+sions built upon ancient foundations. Perspectives on Psychological Science ,5, 292 –314.
+Klesges, L. M., Baranowski, T., Beech, B., Cullen, K., Murray, D. M., Rochon, J., & Pratt, C. ( 2004 ). Social desirability bias in self-
+reported dietary, physical activity and weight concerns measures in 8- to 10-year-old African-American girls: Results
+from the Girls health Enrichment Multisite Studies (GEMS). Preventive Medicine, 38,7 8 –87.
+Kok, G., Gottlieb, N. H., Peters, G.-J. Y., Mullen, P. D., Parcel, G. S., Ruiter, R. A. C., …Bartholomew, L. K. ( 2015 ). A taxonomy of
+behavior change methods; an intervention mapping approach. Health Psychology Review ,1–16.doi:10.1080/
+17437199.2015.1077155
+Kwasnicka, D., Dombrowski, S. U., White, M., & Sniehotta, F. ( 2016 ). Theoretical explanations for maintenance of behaviour
+change: A systematic review of behaviour theories. Health Psychology Review ,1–20.doi:10.1080/17437199.2016.
+1151372
+Lakoff, G., & Johnson, M. ( 1999 ).Philosophy in the flesh: The embodied mind and its challenge to western thought . New York,
+NY: Basic Books.
+Llinas, R. ( 2002 ).I of the vortex: From neurons to self . Cambridge, MA: MIT Press.
+Lockwood, T. ( 2009 ).Design thinking: Integrating innovation, customer experience, and brand value . New York, NY: Allworth
+Press.
+Mariampolski, H. ( 2006 ).Ethnography for marketers: A guide to consumer immersion . London: Sage.
+Meyer, R. D., Dalal, R. S., & Hermida, R. ( 2010 ). A review and synthesis of situational strength in the organizational sciences.
+Journal of Management, 36(1), 121–140.
+Michie, S., Carey, R. N., Johnston, M., Rothman, A. J., de Bruin, M., Kelly, M. P., & Connell, L. E. ( 2016 ). From theory-inspired
+to theory-based interventions: A protocol for developing and testing a methodology for linking behaviour change
+techniques to theoretical mechanisms of action. Annals of Behavioral Medicine. doi:10.1007/s12160-016-9816-6
+Michie, S., Fixsen, D., Grimshaw, J. M., & Eccles, M. P. ( 2009 ). Specifying and reporting complex behaviour change inter-
+ventions: The need for a scientific method. Implementation Science ,440,doi:10.1186/1748-5908-4-40 .
+Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Hardeman, W., …Wood, C. E. ( 2013 ). The behavior change
+technique taxonomy (v1) of 93 hierarchically clustered techniques: Building an international consensus for the report-ing of behavior change interventions. Annals of Behavioral Medicine ,46(1), 81 –95.doi:10.1007/s12160-013-9486-6
+Michie, S., Stralen, M. M. v., & West, R. ( 2011 ). The behaviour change wheel: A new method for characterising and design-
+ing behaviour change interventions. Implementation Science ,6,4 2 doi:10.1186/1748-5908-6-42.
+Miltenberger, R. ( 2011 ).Behavior modification: Principles and procedures . Belmont, CA: Wadsworth.444 R. AUNGER AND V. CURTIS
+Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., …Hassabis, D. ( 2015 ). Human-level control
+through deep reinforcement learning. Nature ,518(7540), 529 –533. doi:10.1038/nature14236
+Mootee, I. ( 2013 ).Design thinking for strategic innovation: What they can’ t teach you at business or design school . New York:
+John Wiley & Sons.
+Mosler, H.-J. ( 2012 ). A systematic approach to behavior change interventions for the water and sanitation sector in devel-
+oping countries: A conceptual model, a review, and a guideline. International Journal of Environmental Health Research.
+doi:10.1080/09603123.2011.650156
+Neal, D. T., Wood, W., & Quinn, J. M. ( 2006 ). Habits –a repeat performance. Current Directions in Psychological Science ,15,
+198–202.
+Nesse, R., & Williams, G. ( 1998 ). Evolution and the origin of disease. Scientific American, 279,8 6 –93.
+Niv, Y., Daniel, R., Geana, A., Gershman, S. J., Leong, Y. C., Radulescu, A., & Wilson, R. C. ( 2015 ). Reinforcement learning in
+multidimensional environments relies on attention mechanisms. Journal of Neuroscience ,35(21), 8145 –8157. doi:10.
+1523/JNEUROSCI.2978-14.2015
+Niv, Y., Edlund, J., Dayan, P., & O’ Doherty, J. ( 2012 ). Neural prediction errors reveal a risk-sensitive reinforcement learning
+process in the human brain. Journal of Neuroscience ,32, 551 –562.
+O’Doherty, J. P., Dayan, P., Friston, K., Critchley, H., & Dolan, R. J. ( 2003 ). Temporal difference models and reward-related
+learning in the human brain. Neuron, 38(2), 329 –337.
+Ouellette, J., & Wood, W. ( 1998 ). Habit and intention in everyday life: The multiple processes by which past behavior pre-
+dicts future behavior. Psychological Bulletin ,124,5 4–74.
+Paluck, E. L., & Shepherd, H. ( 2012 ). The salience of social referents: A field experiment on collective norms and harass-
+ment behavior in a school social network. Journal of Personality and Social Psychology ,103(6), 899 –915. doi:10.1037/
+a0030015
+Peters, G. J., de Bruin, M., & Crutzen, R. ( 2015 ). Everything should be as simple as possible, but no simpler: Towards a pro-
+tocol for accumulating evidence regarding the active content of health behaviour change interventions. Health
+Psychology Review ,9(1), 1– 14.doi:10.1080/17437199.2013.848409
+Plattner, H. ( 2009 ).An introduction to design thinking: Process guide . Palo Alto, CA: Stanford Institute of Design.
+Plattner, H. ( 2010 ).Bootcamp bootleg . Palo Alto, CA: Stanford Institute of Design.
+Rajaraman, D., Varadharajan, K. S., Greenland, K., Curtis, V., Kumar, R., Schmidt, W.-P., …Biran, A. ( 2014 ). Implementing
+effective hygiene promotion: Lessons from the process evaluation of an intervention to promote handwashing
+with soap in rural India. BMC Public Health ,14(14), 2151.
+Rauthmann, J. F., & Sherman, R. A. ( 2015 ). Situation change: Stability and change of situation variables between and
+within persons. Front Psychology ,6, 1938. doi:10.3389/fpsyg.2015.01938
+Retolaza, I. ( 2011 ).Theory of change: A thinking and action approach to navigate in the complexity of social change
+processes .
+Rolls, E. T. ( 1999 ).The brain and emotion . Oxford: Oxford University Press.
+Rowson, J. ( 2011 ).Transforming behaviour change: Beyond nudge and neuromania . London: Royal Society of the Arts.
+Saunders, R. P., Evans, M. H., & Joshi, P. ( 2005 ). Developing a process-evaluation plan for assessing health promotion
+program implementation: A how-to guide. Health Promotion Practice ,6(2), 134 –147.
+Schultz, W. ( 2006 ). Behavioral theories and the neurophysiology of reward. Annual Review of Psychology, 57,8 7 –115.
+doi:10.1146/annurev.psych.56.091103.070229
+Schultz, W. ( 2013 ). Updating dopamine reward signals. Current Opinion in Neurobiology ,23(2), 229 –238. doi:10.1016/j.
+conb.2012.11.012
+Schwarzer, R. ( 2008 ). Modeling health behavior change: How to predict and modify the adoption and maintenance of
+health behaviors. Applied Psychology: An International Review ,57,1 –29.
+Scott,
+B., Curtis, V., Rabie, T., & Garbrah-Aidoo, N. ( 2007 ). Health in our hands, but not in our heads: Understanding hygiene
+motivation in Ghana. Health Policy and Planning ,22(4), 225 –233.
+Sheeran, P., Gollwitzer, P. M., & Bargh, J. A. ( 2013 ). Nonconscious processes and health. Health Psychology ,32(5), 460 –473.
+doi:10.1037/a0029203
+Shove, E., Pantzar, M., & Watson, M. ( 2012 ).The dynamics of social practice: Everyday life and how it changes . London: Sage.
+Simon, H. A. ( 1969 ).The sciences of the artificial . Boston, MA: MIT Press.
+Sunstein, C., & Thaler, R. ( 2008 ).Nudge: Improving decisions about health, wealth, and happiness . New Haven, CT: Yale
+University Press.
+Sutton, R. S., & Barto, A. G. ( 1998 ).Reinforcement learning: An introduction . Cambridge, MA: MIT Press.
+Swanson, L. W. ( 2003 ).Brain architecture: Understanding the basic plan . Oxford: Oxford University Press.
+Taplin, D. H., Clark, H. N., Collins, E., & Colby, D. C. ( 2013 ).Theory of change . New York: ActKnowledge.
+Thaler, R., & Sunstein, C. ( 2008 ).Nudge: The gentle power of choice architecture . New Haven, CT: Yale University Press.
+Tharp, R. G., & Gallimore, R. ( 1988 ).Rousing minds to life: Teaching, learning, and schooling in social context . Cambridge:
+Cambridge University Press.
+Van Wulfen, G. ( 2013 ).The innovation expedition: A visual toolkit to start innovation . Amsterdam: Bis.
+Varela, F., Thompson, E., & Rosch, E. ( 1991 ).The embodied mind . Cambridge, MA: MIT Press.HEALTH PSYCHOLOGY REVIEW 445
+Vogel, I. ( 2012 ).Review of the use of ‘Theory of Change ’in international development. London: UK Department for
+International Development.
+Webb, T., & Sheeran, P. ( 2006 ). Does changing behavioural intentions engender behavior change? A meta-analysis of the
+experimental evidence. Psychological Bulletin ,132, 249 –268.
+White, S., Schmidt, W., Sahanggamu, D., Fatmaningrum, D., van Liere, M., & Curtis, V. ( 2015 ). Can gossip change nutrition
+behaviour? Results of a mass media and community-based intervention trial in east java, indonesia. Tropical Medicine &
+International Health .doi:10.1111/tmi.12660
+Wilson, T. ( 2004 ).Strangers to ourselves: Discovering the adaptive unconscious . Cambridge, MA: Belknapp.
+Wunderlich, K., Dayan, P., & Dolan, R. J. ( 2012 ). Mapping value based planning and extensively trained choice in the
+human brain. Nature Neuroscience ,15, 786 –791.
+Zimbardo, P. ( 2007 ).The Lucifer effect: Understanding how good people turn evil . New York, NY: Random House.446 R. AUNGER AND V. CURTIS

@@ -1,0 +1,825 @@
+STUDY PROTOCOL Open Access
+Exploring multi-level system factors
+facilitating educator training and
+implementation of evidence-based
+practices (EBP): a study protocol
+Aubyn C. Stahmer1,3,4,5*, Jessica Suhrheinrich2,5, Patricia L. Schetter1,4and Elizabeth McGee Hassrick6
+Abstract
+Background: This study examines how system-wide (i.e., region, district, and school) mechanisms such as leadership
+support, training requirements, structure, collaboration, and education affect the use of evidence-based practices (EBPs)
+in schools and how this affects the outcomes for students with autism spectrum disorder (ASD). Despite growing
+evidence for the positive effects of EBPs for ASD, these practices are not consistently or effectively used in schools.
+Although special education programs are mandated to use EBPs, there are very few evidence-based methods for
+selecting, implementing, and sustaining EBPs. Research fo cuses primarily on teacher training, without attention to
+contextual factors (e.g., implementation climate, attitudes toward EBPs, resource allocation, and social networks)
+that may impact outcomes. Using an implementation scien ce framework, this project will prospectively examine
+relations between system-wide factors and teachers ’use of EBPs and student education outcomes.
+Methods/design: Survey data will be collected from approximate ly 85 regional special education directors, 170
+regional program specialists, 265 district special education directors, 265 behavior specialists, 925 school principals,
+3538 special education teachers, and 2700 paraprofessionals. Administrative data for the students with ASD served
+by participating teachers will be examined. A total of 79 re gional-, district-, and school-level personnel will also
+participate in social network interviews. Mixed methods, including surveys, administrative data, and observational
+checklists, will be used to gather in-depth information ab out system-wide malleable factors that relate to positive
+teacher implementation of EBPs and student outcomes. Mu lti-level modeling will be used to assess system-wide
+malleable factors related to EBP implementation which will be linked to the trainer, teacher, and student outcomes and
+examined based on moderators (e.g., district size, Special Education Local Plan Area structure, teachers ’ASD experience).
+Finally, a dynamic social network approach will be used to map EBP-related connectivity across all levels of the system
+for selected regions. Dynamic network analysis will be used to gauge the degree to which and ways that EBP trainings,
+resources, and interventions are shared (or not shared) among school staff.
+Discussion: Results are expected to inform the development of system-wide interventions to improve the school-based
+implementation of EBPs for students with ASD.
+Keywords: Multi-level system factors, Special education, Autism, Evidence-based practices, Implementation,
+Teacher training
+* Correspondence: astahmer@ucdavis.edu
+1University of California, Davis MIND Institute, 2825 50th St, Sacramento, CA
+95819, USA
+3Department of Psychiatry and Behavioral Sciences, University of California,
+Davis, Sacramento, USA
+Full list of author information is available at the end of the article
+© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.Stahmer et al. Implementation Science  (2018) 13:3 
+DOI 10.1186/s13012-017-0698-1
+Background
+The Centers for Disease Control (CDC) estimates that 1
+in 68 children have an autism spectrum disorder (ASD;
+[1]). Long-term outcomes for this population are poor
+[2–5], and the annual cost in the USA is estimated to be
+$268 billion [6]. The service system accessed most often
+for school-age children with ASD is education (Brook-
+man-Frazee, Baker-Ericzen, Stahmer, Mandell, Haine,
+and Hough [7]). The number of children with ASD
+served by schools has grown fivefold from 93,000 in
+2000 to 455,000 in 2011. The education system is res-
+ponsible for targeting a wide range of needs that interfere
+with a child ’s ability to benefit from general education
+including improving learning skills such as attention and
+engagement and core symptoms of ASD.
+The federal legislation known as “Every Child Suc-
+ceeds, ”passed in 2015 [8], and the Individuals with Dis-
+abilities Education Act [9], both specify that the practices
+used in schools must be those supported by scientifically
+based evidence. Additionally, specific evidence-based
+practices (EBPs) for ASD have been identified for school
+personnel [10 –13]. However, research indicates a large
+gap between research and school practices [14] with EBP
+for ASD not being routinely used in schools [15, 16]. Simi-
+lar to gaps in education, generally in ASD, teachers and
+other school-based providers can learn to use EBPs
+when trained by experts [17] but do not typically in-
+corporate EBPs into school-based programs over the
+long term [18 –20]. This is problematic because chil-
+dren with ASD show significant gains when they re-
+ceive services implemented with high fidelity and when
+schools do not use interventions with proven efficacy;
+the courts can require them to provide costly alterna-
+tives, such as increased one-to-one intervention or
+placement in a private school [21, 22].
+Scaling up interventions across multiple schools, dis-
+tricts and statewide present an additional challenge.
+Most state systems have a very limited capacity for scal-
+ing up interventions in ways that lead to meaningful im-
+provements in outcomes for students [23]. Based on the
+research in mental health systems, it is clear that facilita-
+tion of effective EBP use requires leadership coordin-
+ation and support at the school, district, and state levels;
+however, leaders at each of these levels have a very lim-
+ited understanding of the factors beyond their immedi-
+ate locale, such as system-wide policies and support,
+that may lead to gaps in the use of EBP in special educa-
+tion. While recent systematic reviews and meta-analyses
+of care coordination consistently report differences (of a
+moderate to medium effect size) in outcomes of mental
+health intervention and physical conditions management
+programs when collaborative practices within systems
+are compared to usual care [24 –26], the “active ingredi-
+ents”that allow for systematic implementation ofcoordinated care across systems remain obscure. There
+are critical gaps in evidence about the structure, func-
+tion, and benefits of team coordination across multiple
+systems.
+School-based service for special education involves a
+team of providers and administrators to account for the
+complexity of care needed for this population of stu-
+dents. For example, California has 1028 school districts
+divided into 122 regional consortiums for the purpose of
+providing for all special education service needs of chil-
+dren in the regions. These Special Education Local Plan
+Areas (SELPAs) work alongside school district staff to
+meet the children ’s educational and mental health needs.
+They offer varying levels of support and structure from
+taking an active role in effective implementation of EBPs
+by providing autism specialists to support training and
+implementation to simply providing oversight for com-
+pliance. High-level administrators at the SELPA and
+school district levels are responsible for the provision of
+educational and associated programming, including
+staffing allocation, curricula, and use of resources. Ad-
+ministrators report that scientific evidence does not
+readily affect their programming decisions [27]. Admin-
+istrators at both the district and SELPA level likely have
+a strong influence on the culture and climate related to
+the use of EBP as well as resource allocation for training,
+materials, and supervision in the use of new practices.
+Of course, principals play an important role in the lead-
+ership of an individual school site. However, only a small
+percentage of principals was special educators prior to
+their administrative roles and have limited professional
+training in special education [28]. Additionally, prelimin-
+ary data indicate teachers and other high-level school
+district staff perceive special education directors, mid-
+level specialists, and teachers as key decision-makers
+across phases of implementation for ASD programs as
+compared to school site principals [29]. Teachers and
+paraprofessionals are front-line EBP users. They are the
+ones to adapt and modify practices and to determine the
+use. At each level of administration, resource allocation,
+implementation climate, education, experience with
+ASD, attitudes toward EBP, and collaboration have the
+potential to affect EBP use. Therefore, systems and pro-
+cesses at multiple levels must be considered for imple-
+mentation in special education.
+Conceptual model
+There have been urgent calls for the development and
+testing of implementation interventions to facilitate suc-
+cessful uptake and sustained delivery of EBP in schools.
+Glisson and Williams [30] call for carefully designed,
+multi-level studies testing specific change mechanisms
+as they affect both leader- and provider-level factors;
+however, there is currently very limited researchStahmer et al. Implementation Science  (2018) 13:3 Page 2 of 11
+examining cross-level mechanisms linking specific imple-
+mentation interventions to targeted changes in provider
+behaviors [31]. We apply the Exploration, Preparation,
+Implementation, and Sustainment (EPIS) model [32] (see
+Fig. 1) to frame the proposed exploratory study of facili-
+tators and barriers to implementing statewide teacher
+training in EBP. EPIS was developed for a public child ser-
+vices context and integrates a multi-level framework to
+highlight factors influencing implementation, including
+outer (e.g., state and SELPA level climate and culture,
+leadership, and structure) and inner (e.g., leadership,
+teacher characteristics) contexts, and social connections
+within and among system levels. We will use this frame-
+work and a current implementation effort (CAPTAIN, see
+below) to explore cross-context malleable factors and their
+potential influence on teacher training in EBP and student
+outcomes.
+Data from previous studies of EBP implementation out-
+comes from community effectiveness trials provide spe-
+cific direction on promising factors related to EPIS that
+can be leveraged within growing, large-scale translation
+efforts. Several possible malleable factors including im-
+plementation leadership and climate, district-/SELPA-level
+resources and support, teacher attitudes toward EBP and
+teacher/paraprofessional skills, and social connections are
+associated with successful implementation [33, 34].
+Implementation leadership can improve the climate
+for use of EBP [35]. Additionally, a clear relationship be-
+tween organizational culture and climate and child-level
+outcomes has been identified in educational settings for
+ASD [36]. Positive implementation climate coupled withthe use of support strategies (training availability, on-
+going monitoring of performance, etc.) has been linked
+to better sustainment of innovation, improved child out-
+comes and decreased staff burnout [37], and predicted
+higher EBP fidelity [36]. Provider attitudes toward EBP
+have been linked to practice behavior [38, 39] and have
+been shown to predict use of EBP [32, 40, 41]. Finally,
+there is considerable evidence that team coordination,
+when done well, can change the outcomes [42]. Coor-
+dination impacts treatment quality [43] and goal attain-
+ment [44] for children with ASD. All of these factors
+may be important for EBP implementation in special
+education and may be points of intervention to improve
+outcomes.
+Current California implementation and scale up efforts
+The California Department of Education —Special
+Schools Division participated in a project sponsored by
+the National Professional Development Center for Aut-
+ism Spectrum Disorders (NPDC-ASD, 2009). As part of
+their implementation plan, the state developed the Cali-
+fornia Autism Professional Training and Information
+Network (CAPTAIN ), a collaboration of service providers
+from three statewide support agencies: Special Education
+Local Plan Areas (SELPAs), California Regional Centers
+(RCs), and Family Resource Centers (FRCs). The goal
+was to establish a training and technical assistance net-
+work for service providers with a focus on EBP for ASD.
+CAPTAIN was established in 2012 and currently has
+over 400 members. A majority of members (77%) are
+SELPA/school district personnel from across California.
+Fig. 1 Applying the Exploration, Preparation, Implementation, and Sustainment (EPIS) conceptual model to ASD EBP in schools. This figure
+illustrates how we will use the Exploration, Preparation, Implementation, and Sustainment (EPIS) Implementation Model (Aarons, Hurlburt, and
+Horwitz 2011) to frame this exploratory study of facilitators and barriers to implementing statewide teacher training in EBP. This figure depicts the
+multi-level framework and indicates factors influencing implementation, including outer (e.g., state- and SELPA-level climate and culture, leadership
+and structure) and inner (e.g., leadership, teacher characteristics) contexts and social connections within and among system levels. We will use this
+framework to explore cross-context malleable factors and their potential influence on teacher training in EBP and student outcomesStahmer et al. Implementation Science  (2018) 13:3 Page 3 of 11
+A leadership team of cross-agency representatives guides
+the training and support efforts of the organization (see
+Fig. 2 and http://www.captain.ca.gov for more informa-
+tion about CAPTAIN). CAPTAIN cadre members from
+each SELPA commit to provide a certain amount of
+training to teachers in their areas each year and to at-
+tend an annual conference on EBP. Preliminary data in-
+dicate successful outcomes in terms of increasing the
+frequency of training [45]; however, there is variability
+in the amount and types of training provided, and nodata are available regarding teacher or student out-
+comes. Additional data are needed to understand sys-
+tem- and educator-level factors that lead to successful
+implementation to maximize CAPTAIN efforts. Tar-
+geted exploration of the statewide CAPTAIN model as
+a platform for professional development will contribute
+to the limited data on how system-level practices affect
+school-based intervention and student outcomes not
+only for students with ASD but for all served by special
+education programs.
+Fig. 2 California Autism Professional Training and Information Network (CAPTAIN) organizational structure. Shows the organizational structure of
+the CAPTAIN network. A leadership team of cross-agency representatives ( red circle ) communicates directly with the California State SELPA Directors
+and guides the training and support efforts of the organization. Cadre members from each SELPA are nominated annually and are required to provide
+a certain amount of training to teachers in their areas each year an d to attend an annual conference on EBP. Regional teams meet locally to
+implement training for local SELPA teachers and educatorsStahmer et al. Implementation Science  (2018) 13:3 Page 4 of 11
+Research objectives (see Fig. 3)
+1) Measure system-level factors that may relate to the
+teacher and student outcomes such as implementation
+climate and culture, communication and collaboration,
+and EBP readiness.
+2) Measure the special education teacher outcomes
+(EBP training received, fidelity of implementation,
+dosage, and knowledge of EBP) and ASD student
+outcomes (time spent in the least restricted
+environment (LRE), disciplinary action, attendance,
+and IEP progress)
+3) Measure potential moderation variables across three
+levels: SELPA/district (size, geography, structure),
+school (implementation leadership, attitudes toward
+EBP), and teacher (background, experience, attitudes
+toward EBP, climate)
+4) Use innovative social network methodology to
+examine how collaboration across the multi-level
+system affects outcomes.
+5) Assess moderation of system-level factors on
+CAPTAIN trainer outcomes (amount of time spent
+training, coaching, supporting trained staff), teacher
+outcomes (EBP fidelity of implementation, dosage,
+EBP knowledge) use, and student outcomes (LRE,
+IEP progress, discipline/behavior, attendance).
+Methods/design
+Study design
+This exploratory study will use mixed methods that in-
+clude primary data collection from authentic educational
+settings at the SELPA, district, and school level and will
+access administrative student data. Components include
+a collection of multi-level survey data, student outcome
+administrative data, and in-depth interviews to conduct
+a social network analysis in a subset of programs.Participants and recruitment strategy
+Our sample will include administrators and providers at
+multiple levels with data collected in a cascading format
+(see Fig. 4). We anticipate the participants will include
+SELPA directors ( n= 85), SELPA program specialists ( n
+= 170), district special education directors ( n= 265),
+school principals ( n= 925), autism specialists/coordina-
+tors ( n= 265), special education teachers ( n= 1375 par-
+ticipants), and paraprofessionals ( n= 2700 participants).
+We anticipate a total of approximately 5700 participants.
+The CAPTAIN cadre member will be included in their
+home SELPA/district and will also complete the CAP-
+TAIN survey and some additional information if they
+have a role as a trainer.
+Students : Inclusionary criteria for students include (1)
+enrollment in a participating classroom and (2) a pri-
+mary educational classification of ASD. De-identified
+data for students in a particular district will be provided
+by the SELPA/district directors to the research team.
+Data will not be linked to specific students.
+Survey data collection . We will use a web-based plat-
+form for survey distribution, and it will be available for
+completion over a 3-month period. The estimated re-
+sponse rate is 70% for SELPA directors and 50% of dis-
+tribution for all other populations [46]. SELPA directors
+will be contacted at their monthly state directors meet-
+ing and asked to complete the surveys. Directors will
+nominate all program specialists and special education
+directors from each district in their SELPA. Special edu-
+cation directors will give all autism/behavior coordina-
+tors and principals at elementary, K-12, middle, and high
+school campuses study information, and in turn, prin-
+cipals will provide information to their special education
+teachers and paraprofessionals serving children with ASD.
+CAPTAIN cadre members (trainers) will complete the
+surveys at an annual CAPTAIN conference, by phone or
+online. The research team will work with special education
+Fig. 3 Factors, mechanisms, and outcomes. Illustrates the project aims, including the potential malleable factors identified in the literature, potenti al
+moderators of those factors, and proposed teacher training and student outcomes to be measuredStahmer et al. Implementation Science  (2018) 13:3 Page 5 of 11
+directors to distribute surveys and answer questions about
+the project. Weekly follow-up emails will be made to any-
+one who has not yet completed the survey to answer any
+questions and facilitate survey completion.
+Measures
+We have chosen measures based on the literature indi-
+cating system-level malleable factors that affect imple-
+mentation success. Table 1 lists the study measures and
+who will complete each measure. CAPTAIN cadre
+trainers will complete a set of measures, and student
+data will be obtained from appropriate state and district
+databases. Many of the implementation measures have
+multiple (slightly modified) versions for paraprofes-
+sionals, teachers, principals, and administrators.
+Malleable factors
+Implementation and Attitudes. The Implementation
+Climate Scale (ICS; [47] as adapted by Lyon, Cook,
+Locke, Ehrhart, and Aarons) measures employees ’
+shared perceptions of the policies, practices, proce-
+dures, and behaviors that are expected, rewarded, and
+supported in order to facilitate effective EBP implemen-
+tation. Organizational culture will be measured using
+the Organizational Social Context (OSC [48]) for
+schools which assesses organizational culture, climate,
+and work attitudes. The Implementation Leadership
+Scale (ILS; [49] as adapted by Lyon, Cook, Locke,Ehrhart, and Aarons) includes four subscales that assess
+the degree to which a leader is knowledgeable, support-
+ive, proactive, and perseverant in implementing EBP.
+Participants will rate the leadership of the person at the
+next level (e.g., teachers will rate principals, paraprofes-
+sionals will rate teachers, trainers and special education
+directors will rate SELPA leader, principal will rate dis-
+trict leaders). Each leader will also rate themselves. Staff
+attitudes will be measured using The evidence-based
+practice attitude scale (EBPAS; [40] as adapted by Lyon,
+C o o k ,L o c k e ,E h r h a r t ,a n dA a r o n s )t h a ta s s e s s e sf o u r
+general attitudes toward adoption of EBIs: appeal, re-
+quirements, openness, and divergence .
+Resource allocation . Resources for use of EBP for stu-
+dents with ASD will be measured using the ASD EBP
+Resources Assessment Tool which has been adapted
+from the Program Sustainability Tool v.2; 2013. The
+survey asks about environmental support from internal
+(e.g., district leadership) a nd external (public) sources,
+funding stability, organizational capacity to implement
+the practices, program evaluation methods, and pro-
+gram adaptation.
+Collaboration and social network : Survey participants
+will report on the top five people they seek out for
+advice about EBP, their roles and how much their EBP
+advice network members talk with one another. The
+egocentric methods we propose for the CAPTAIN study
+are based on standard industry approaches, used
+Fig. 4 Estimated participation across levels. Illustrates the identified sample. At the SELPA level, our goal is 70% participation with representation
+from at least 30 of the 42 single district SELPAs, 13 of the 18 necessary small SELPAs (NSS; all multi-district), and 43 of the 62 multi-district SELPAs
+for a total of 85 SELPA directors surveyed. Participating SELPA directors in multi-district SELPAs will be asked to distribute study information to district
+directors of special education/student services. SELPA directors will invite their program specialists. We anticipate a 40% response rate at each o ft h e
+subsequent levels. District special education directors will be asked to distribute study information to all of their autism/behavior coordinator sa n d
+principals/site administrators at elementary, middle, and high schools (including special education schools and preschools), who will then distr ibute to
+each special education teachers and paraprofessional educators serving children with ASD within their district. There are on average 8.6 schools per
+district. Principals will then invite each special education teacher (inc luding resource specialists) and paraprofessionals serving children wi th
+ASD. This will vary by district as well as by student enrollment; however, there are approximately 3.7 special education teachers and 5.8
+paraprofessional educators per school across the state. CAPTAIN cadre member trainers will be included in their home SELPA/district and will
+also complete some additional information if they have a role as a trainer.1Estimated number of people invited (estimated number participating);
+2Estimated range per SELPA/district/schoolStahmer et al. Implementation Science  (2018) 13:3 Page 6 of 11
+routinely in publications over the past 40 years for sev-
+eral major social science survey work, including the
+NSF-funded General Social Survey (1985 –2014), the Na-
+tional Longitudinal Study of Adolescent to Adult Health
+(1994 –2008), and the National Social Life, Health, and
+Aging Project (2005 –2015).Moderators
+Program size (measured by the number of students in each
+SELPA and district), the proportion of students with ASD
+in each district ,a n d the proportion of students with free
+and reduced lunch will be obtained using the most recent
+data from the California Department of Education. SELPATable 1 Study measures and timeline
+Purpose (aim) Construct Measure/indicators Service level
+SELPA District School
+(princ)Trainer Teacher/
+paraStudent
+Malleable factors Imp. climate Implementation Climate Scale (ICS) x x x x x
+Org. culture Organizational Social Context for schools x x x x x
+Imp. leadership Implementation Leadership Scale x x x x x
+Attitudes Evidence-based practice attitude scale
+(EPBAS)
+Implementation citizenship behaviorxx x x x
+Resource allocation ASD EBP Resource Assessment Tool
+(adapted from Program Sustainability
+Assessment Tool)xx x
+Social networks Social network egocentric measures of
+advice providers (general and CAPTAIN)
+and network densityxx x x x
+Moderators Program size Number of students in district or SELPA x x
+Proportion of students
+with ASDProportion of students with identified
+ASD served in the districtxx
+SELPA structure Multi-district/single district/necessary
+small (NSS)x
+Poverty level Proportion of students in district with
+free/reduced lunchxx x
+CAPTAIN participation Years of participation with goals met
+Primary discipline Educational training and discipline x x x
+ASD experience Years of experience working with
+children with autismxxx
+Outcomes Training quality Training survey (self-created Likert scale)
+quality questions ( teacher/para report on
+trainer behavior )X
+Training dosage Training and confidence survey; dosage
+and type (didactic; coaching; supervision)xx
+Implementation citizenship Implementation Citizenship Behavior
+Scale ( trainer report on teacher behavior )x
+EBP dosage Training and confidence survey; report
+of usex
+EBP knowledge survey Survey of Educators Knowledge and
+Value of Research-Based Practices for
+Students with Autismx
+EBP FI NPDC checklists x
+LRE Proportion of educational time in
+general education classroom; receipt
+of intensive individual services (Y/N);
+placement type (residential; separate
+school/class; regular classroom)x
+Behavior Number of days that include a behavior
+incident report, suspension or expulsionx
+Attendance Number of school days attended xStahmer et al. Implementation Science  (2018) 13:3 Page 7 of 11
+structure will be coded as (1) multi-district; (2) single dis-
+trict; or (3) necessary small SELPA (NSS). The level of
+CAPTAIN participation will be defined by the number of
+years the SELPA has had a participating cadre member
+who has met the stated CAPTAIN training goals. Primary
+discipline is defined as the primary educational discipline
+as reported by the participant.
+ASD experience will be the reported number of years
+the participant has been working with students with
+ASD, in any capacity.
+Outcomes
+The training survey will include information about the
+training quality as rated by the teachers receiving the
+training. Training dosage will include the amount of
+training time provided for didactic training, coaching
+(practice with feedback), and ongoing supervision. The
+Implementation Citizenship Behavior Checklist (ICBC;
+[50] as adapted by Lyon, Cook, Locke, Ehrhart, and
+Aarons) assesses, via trainer rating, the behaviors educa-
+tors perform that exceed their expected job tasks to sup-
+port the implementation of EBP. EBP dosage will be
+measured using the classroom practice indicator [51]
+which has the teacher rate each practice for how often
+the practice is used during an average school day. The
+Survey of Educators Knowledge and Value of Research-
+Based Practices for Students with Autism [52] assesses
+the current level of knowledge and value regarding spe-
+cific EBP. For each practice, the teachers/parapro-
+fessional participants indicate frequent usage on the
+classroom practice indicator they will receive a fidelity of
+implementation form from the National Professional De-
+velopment Center Autism. Student outcome data will be
+gathered through the California Special Education Man-
+agement Information System (CASEMIS). The 2015 –
+2016 student-level database contains student-level data
+relevant to this project including demographics, place-
+ment type and setting, attendance and behavior reports,
+and suspensions and expulsions. Data will be collected
+on attendance, the proportion of educational time the
+student spends in a general education classroom, num-
+ber of disciplinary referrals made, number of behavior
+incident reports filed, and/or the number of days student
+was suspended or expelled from school.
+Statistical analysis plan
+We will begin by examining the independent associa-
+tions between each malleable factor and the trainer,
+teacher, and student outcome variables. Based on these
+results, we will include the factors that have a significant
+relationship with each outcome in our final models. All
+models will be hierarchical/multi-level except single-
+level modeling for outcomes on trainers. More specific-
+ally, single-level linear models, binary logistic regressionmodels, multinomial logistic models, and ordinal logistic
+models (proportional odds models) will be used for
+modeling continuous, binary, nominal categorical, and
+ordinal categorical outcomes, respectively, on the
+trainers. A four-level model will be used for the teacher
+outcome variables. A five-level model will be used for
+the student outcome variables. For models with dichot-
+omous outcome variables (i.e., least restrictive environ-
+ment , intensive individual services), a multi-level binary
+logistic regression model will be used. For all other
+models, multi-level linear models will be utilized for
+continuous outcomes. Multi-level multinomial logistic
+models will be employed for nominal categorical out-
+comes. Multi-level ordinal logistic models (multi-level
+proportional odds models) will be used for ordinal cat-
+egorical outcomes. Moderators will also be considered in
+the multi-level models as they relate to the outcomes.
+Social network case study mapping the social dynamics
+of EBP implementation
+We will use a dynamic social network approach to map
+EBP-related connectivity across all identified levels of
+the system for selected CAPTAIN cadre and their poten-
+tial collaborators participating the study [53, 54].
+Participants: We will select two CAPTAIN cadre
+members, one high performing and one low performing,
+based on EBP fidelity and training intensity, from the
+three SELPA types for a total of six CAPTAIN cadre
+members. We will then identify and recruit potential
+collaborators for each of the six CAPTAIN cadre mem-
+bers from the SELPA ( n= approximately 4 per SELPA), a
+randomly selected participating district associated with
+the SELPA (approximately one autism specialist), and
+two elementary schools ( n= 10 staff per school) in the
+selected district for a total of 27 people per type of
+SELPA, for an overall total of about 81 people.
+Social network measures: We will adapt a previously
+pilot-tested approach used to map the social dynamics of
+intervention (SoDI). The SoDI was successfully developed
+and piloted by McGhee Hassrick and colleagues [53, 54]
+in a previous NIH funded study (R21HD067865-01). The
+SoDI uses traditional social network analytics to map
+multiplex connectivity. The adapted SoDI will measure
+the density of three different person-to-person networks
+among people at the SELPA, district, school and class-
+room levels who are supporting and providing EBP in-
+tervention for children with ASD. Using descriptive
+analysis, we will compare the social networks of the high-
+performing cadres with those of the low-performing
+cadres, to determine how network configuration varies.
+Data Analysis. We will use ORA software for dynamic
+network analysis [55] which relies on traditional social
+network measures to inventory EBP advice, problem-
+solving and trust networks [56], and dynamic networkStahmer et al. Implementation Science  (2018) 13:3 Page 8 of 11
+measures including EBP training, resources, and inter-
+vention use among school staff [55] to calculate patterns
+of alignment, using EBP exclusivity and EBP expertise
+measures. Once we have taken an inventory of EBP
+training, resources, and intervention activities, the im-
+pact that the CAPTAIN cadre has had on classroom
+practices can be more thoroughly assessed. These multi-
+nodal and multiplex inventories will help us to measure
+the system of EBP activities among school staff and their
+district and state partners. We can gauge the amount of
+social interaction people have with one another, and also
+the degree and ways EBP trainings, resources, and inter-
+ventions are shared or not shared, among school staff,
+including teachers, paraprofessionals, and principals.
+Discussion
+Identifying malleable factors that influence the imple-
+mentation of EBP across system levels for students with
+ASD will help policymakers and administrators make
+system-wide changes to positively impact teacher train-
+ing and effective use of EBP both for ASD and more
+generally. Characterization of malleable organizational
+factors with accompanying linkage to implementation
+and clinical outcomes is an innovative process with the
+potential to increase understanding of the mechanisms
+of action of system level implementation factors. The
+CAPTAIN statewide implementation effort provides a
+natural vehicle for examining facilitators and barriers to
+training and support for community providers. Out-
+comes will inform scale-up efforts for EBP implementa-
+tion broadly and implementation science methods.
+In addition, to our knowledge, no one has used formal
+social network analysis to capture multi-level collabor-
+ation among state-, district-, school-, and classroom-
+level stakeholders in the field of ASD. The proposed re-
+search will advance our scientific understanding of social
+determinants of treatment and outcomes for children
+with ASD and provide new conceptual tools for under-
+standing disparities in treatment and outcomes. The
+proposed study both compliments and redirects existing
+research by considering the configuration of the social
+networks of EBP supporters and providers across system
+levels, overcoming previous methodological barriers that
+constrain service research to only consider one level per
+study. In addition to new approaches in research, the
+proposed project provides the basis for new social net-
+work interventions in autism that strengthen the cap-
+acity of providers to work together to provide higher
+quality EBP for children with ASD.
+Findings will add to the very limited research examin-
+ing cross-level mechanisms linking both inner and outer
+context factors to changes in provider behaviors [31]
+and to consumer outcomes. Data from this exploratory
+project will be used to develop an implementationassessment intervention package that will address malle-
+able factors identified as important to the teacher and stu-
+dent outcomes. This project may provide a generalizable
+model for the development of multi-level implementation
+interventions across complex service settings.
+Abbreviations
+ASD: Autism spectrum disorder; CAPTAIN: California Autism Professional
+Training and Information Network; EBP: Evidence-based practice;
+EPIS: Exploration, Preparation, Implementation, and Sustainment
+Acknowledgements
+We would like to recognize the contributions of the CAPTAIN leadership
+team and supporting organizations including SELPAs, school districts, and
+the State Department of Education in the development and implementation
+of this project.
+Funding
+This study is funded through a grant from the Institute of Education Sciences,
+US Department of Education Grant: R324A140005. Dr. Jessica Suhrheinrich is
+also funded through an NIMH career development award K01MH109547.
+Patricia Schetter also receives funding to lead the CAPTAIN program from
+a HRSA Center for Excellence in Developmental Disabilities award:
+HHS-2016-ACL-AOD-DD-0121.
+Drs. Stahmer and Suhrheinrich are investigators with the Implementation
+Research Institute (IRI), at the George Warren Brown School of Social Work,
+Washington University in St. Louis, through an award from the National
+Institute of Mental Health (R25 MH080916-01A2) and the Department of
+Veterans Affairs, Health Services Research and Development Service, Quality
+Enhancement Research Initiative (QUERI).
+Availability of data and materials
+Not applicable
+Authors ’contributions
+ACS, JS, and PLS conceived this evaluation study initially. ACS provided
+leadership and coordination in the development of the grant proposal,
+drafted and edited the final manuscript, and approved the final manuscript.
+JS contributed to the development of the grant proposal and provided
+substantial edits to the manuscript. EMH developed all aspects of the
+proposal and manuscript related to the social network procedures and data
+collections. PS participated in critically appraising the content of the
+manuscript. All authors read and approved the final manuscript.
+Ethics approval and consent to participate
+This project has been approved by the institutional review board of the
+University of California, Davis (1082466-2) and is being relied upon by San
+Diego State University, California State University, Channel Islands, and
+Drexel University.
+Consent for publication
+Not applicable
+Competing interests
+The authors declare that they have no competing interests.
+Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Author details
+1University of California, Davis MIND Institute, 2825 50th St, Sacramento, CA
+95819, USA.2College of Education, San Diego State University, 5500
+Campanile Dr., San Diego, CA 92182, USA.3Department of Psychiatry and
+Behavioral Sciences, University of California, Davis, Sacramento, USA.4Center
+of Excellence in Developmental Disabilities, University of California, Davis,
+Sacramento, USA.5Child and Adolescent Services Research Center, San
+Diego, USA.6Life Course Outcomes Research Program at AJ Drexel AutismStahmer et al. Implementation Science  (2018) 13:3 Page 9 of 11
+Institute, Drexel University, 3020 Market St, St 560, Philadelphia PA19104,
+USA.
+Received: 15 November 2017 Accepted: 11 December 2017
+References
+1. Centers for Disease Control and Prevention (CDC). Prevalence of autism
+spectrum disorders —autism and developmental disabilities monitoring
+network, United States, 2010. Morb Mortal Wkly Rep. 2014;63(2)
+2. Eaves LC, Ho HH. Young adult outcome of autism spectrum disorders.
+J Autism Dev Disord. 2008;38(4):739 –47.
+3. Orsmond GI, Shattuck PT, Cooper BP, Sterzing PR, Anderson KA. Social
+participation among young adults with an autism spectrum disorder.
+J Autism Dev Disord. 2013;43(11):2710 –9.
+4. Roux AM, Shattuck PT, Cooper BP, Anderson KA, Wagner M, Narendorf SC.
+Postsecondary employment experiences among young adults with an autism
+spectrum disorder. J Am Acad Child Adolesc Psychiatry. 2013;52(9):931 –9.
+5. Shattuck PT, Narendorf SC, Cooper B, Sterzing PR, Wagner M, Taylor JL.
+Postsecondary education and employment among youth with an autism
+spectrum disorder. Pediatrics. 2012;129(6):1042 –9.
+6. Leigh JP, Du J. Brief Report: Forecasting the Economic Burden of Autism in
+2015 and 2025 in the United States. J Autism Dev Disord. 2015;45(12):4135 –9.
+7. Brookman-Frazee L, Baker-Ericzen MJ, Stahmer AC, Mandell DS, Haine RA,
+Hough RL. Involvement of youths with autism spectrum disorders or
+intellectual disabilities in multiple public service systesm. J Autism Dev
+Disord. 2009;2:201 –19.
+8. U.S. Government, “Every student succeeds act, ”Congr. Rec., vol. 161, p. Public
+Law 114 –195, 2015.
+9. U. S. Department of Education. Individuals with Disabilities Education
+Improvement Act of 2004: U.S. Dep. Educ; 2004.
+10. National Autism Center, “National Standards Report, ”National Autism Center,
+Randolph, MA, 2009.
+11. National Autism Center, “National Standards Report, ”Randolph, MA, 2015.
+12. Wong C, Odom SL, Hume KA, Cox AW, Fettig A, Kucharczyk S, Brock ME,
+Plavnick JB, Fleury VP, Schultz TR. Evidence-based practices for children,
+youth, and young adults with autism spectrum disorder: a comprehensive
+review. J Autism Dev Disord. 2015;45(7):1951 –66.
+13. Odom SL, Boyd BA. Evaluation of comprehensive treatment models for
+individuals with autism spectrum disorders. J Autism Dev Disord.
+2010;40(4):425 –36.
+14. Greenwood CR, Abbott M. The research to practice gap in special education.
+Teach Educ Spec Educ. 2001;24(4):276 –89.
+15. Stahmer A, Collings NM, Palinkas LA. Early intervention practices for children
+with autism: descriptions from community providers. Focus Autism Other
+Dev Disabil. 2005;20(2):66 –79.
+16. Mayton MR, Wheeler JJ, Menendez AL, Zhang J. An analysis of evidence-
+based practices in the education and treatment of learners with autism
+spectrum disorders. Educ Train Autism Dev Disabil. 2010;45(4):539 –51.
+17. Suhrheinrich J. Training teachers to use pivotal response training with
+children with autism: coaching as a critical component. Teach Educ Spec
+Educ J Teach Educ Div Counc Except Child. 2011;34(4):339 –49.
+18. Cook BG, Landrum TJ, Tankersley M, Kauffman JM. Bringing research to bear
+on practice: effecting evidence-based instruction for students with
+emotional or behavioral disorders. Educ Treat Child. 2003;26:345 –61.
+19. Mandell DS, Stahmer AC, Shin S, Xie M, Reisinger E, Marcus SC. The role of
+treatement fidelity on outcomes during a rancomized field trial of an
+autism intervention. Autism. 2013;17(3):281 –95.
+20. Suhrheinrich J, Stahmer A, Reed S, Schreibman L, Reisinger E, Mandell D.
+“Implementation challenges in translating pivotal response training into
+community settings ”. J Autism Dev Disord. 2013.
+21. N. R. Council and N. A. Press. “Educating children with autism, ”National
+Research Council: Division of Behavioral and Social Sciences. Washington
+DC; 2001.
+22. Kelman M. State disparitites in the diagnosis and placement of pupils with
+learning disabilities. J Learn Disabil. 1997;30(6):599 –607.
+23. Fixsen D, Blase K, Metz A, van Dyke M. Statewide implementation of
+evidence-based programs. Except Child. 2013;79(2):213 –30.
+24. Baumeister H, Hutter N. Collaborative care for depression in medically ill
+patients. Curr Opin Psychiatry. 2012;25:405 –14.25. Miller CJ, Grogan-Kaylor A, Perron BE, Kilbourne AM, Woltmann E, Bauer MS.
+Collaborative chronic care models for mental health conditions: cumulative
+meta-analysis and meta-regression to guid e future research and implementation.
+Med Care. 2014;51(10):922.
+26. Goodrich DE, Kilbourne AM, Nord KM, Bauer MS. Mental health collaborative
+care and its role in primary care settings. Curr Psychiatry Rep. 2013;15(8)
+27. Honig MI, Coburn C. Evidence-based decision making in School District
+Central Offices. Educ Policy. 2008;22(4):578 –608.
+28. Crockett JB. Special education ’s role in preparing responsive leaders for
+inclusive schools. Remedial Spec Educ. 2002;23(3):157 –68.
+29. Suhrheinrich J, Dickson KS. “Mapping leadership structure in special
+education to tailor leadership intervention ”. Paper presented at the Bi-Annual
+Conference of the Society for Implementation Reserach Collaboration; 2017.
+30. Glisson C, Williams NJ. Assessing and changing organizational social contexts
+for effective mental health services. Annu Rev Public Health. 2015;36(1):507 –23.
+31. Grol R, Bosch MC, Hulscher M, Eccles MP, Wensing M. Planning and studying
+improvement in patient care: the use of theoretical perspectives. Milbank Q.
+2007;85(1):93 –138.
+32. Aarons G, Hurlburt M, Horwitz SM. Advancing a conceptual model of
+evidnece-based practice implementation in public service sectors. Adm
+Policy Ment Heal Ment Heal Serv. 2011;38(1):4 –23.
+33. Stahmer AC, Brookman-Frazee L. “Testing a multi-level implementation
+model for translating evidence-based interventions fro ASD (TEAMS):
+methods and interventions ”. Paper presented at the Bi-Annual Conference
+of the Society for Implementation Reserach Collaboration; 2017.
+34. Lyon AR, Ludwig K, Romano E, Leonard S, Vander Stoep A, McCauley E. If
+it’s worth my time, I will make the time ’: school-based providers ’decision-
+making about participating in an evidence-based psychotherapy consultation
+program. Adm Policy Ment Heal Ment Heal Serv Res.
+2013;40(6):467 –81.
+35. Aarons GA, Ehrhart MG, Farahnak LR, Hurlburt MS. Leadership and
+organizational change for impleme ntation (LOCI): a randomized mixed
+method pilot study of a leadership and organization development
+intervention for evidence-based practice implementation. Implement Sci.
+2015;10(11)
+36. Dingfelder HE, Mandell DS. Bridging the research-to-practice gap in autism
+intervention: an application of diffusion of innovation theory. J Autism Dev
+Disord. 2011;41(5):597 –609.
+37. Novins DK, Green AE, Legha RK, Aarons GA. Dissemination and
+implementation of evidence-based practices for child and adolescent
+mental health: a systematic review. J Am Acad Child Adolesc Psychiatry.
+2013;52(10):1009 –1025. e18.
+38. Casper ES. The theory of planned behavior applied to continuing education
+for mental health professionals. Psychiatr Serv. 2007;58(10):1324 –9.
+39. Henggeler SW, Chapman JE, Rowland MD, Halliday-Boykins CA, Randall J,
+Shackelford J, Schoenwald SK. Statewide adoption and initial implementation
+of contingency management for substance-abusing adolescents. J Consult Clin
+Psychol. 2008;76(4):556 –67.
+40. Aarons G. “Mental health provider attitudes toward adoption of evidence-
+based practice: the evidence-based practice attitude scale (EPBAS) ”. Ment
+Health Serv Res. 2004;6(2):61 –74.
+41. Reding MEJ, Chorpita BF, Lau AS, Innes-Gomberg D. Providers??? Attitudes
+toward evidence-based practices: is it just about providers, or do practices
+matter, too? Adm Policy Ment Heal Ment Heal Serv Res. 2014;41(6):767 –76.
+42. Onnela J-P, Waber BN, Pentland A, Schnorf S, Lazer D. Using sociometers to
+quantify social interaction patterns. Sci Rep. 2014;4:1 –8.
+43. Ingersoll B, Dvortcsak A. Including parent training in the early childhood
+special education curriculum for children with autism spectrum disorders.
+J Posit Behav Interv. 2006;8(2):79 –87.
+44. Ruble LA, Dalrymple NJ, McGrew JH. The effects of consultation on
+individualized education program outcomes for young children with autism:
+the collaborative model for promoting competence and success. J Early Interv.
+2010;32(4):286 –301.
+45. Suhrheinrich J, Dean M, Schetter P, Aspen A, Yasuda P. Statewide interagency
+collaboration to increase access to professional training in evidence-based
+practice. In: International Meeting for Autism Research; 2017.
+46. Yun GW, Trumbo CW. “Comparative response to a survey executed by post,
+e-mail, & web form ”. J Comput Commun. 2000;6(1).
+47. Ehrhart MG, Aarons GA, Farahnak LR. Assessing the organizational context
+for EBP implementation: the development and validity testing of the
+Implementation Climate Scale (ICS). Implement Sci. 2014;9:157.Stahmer et al. Implementation Science  (2018) 13:3 Page 10 of 11
+48. Glisson C, Landsverk J, Schoenwald S, Kelleher K, Hoagwood KE, Mayberg S,
+Green P. Assessing the organizational social context (OSC) of mental health
+services: implications for research and practice. Adm. Policy Ment. Heal.
+Ment. Heal. Serv. Res. 2008;35(1 –2):98 –113.
+49. Aarons GA, Ehrhart MG, Farahnak LR. The implementation leadership scale
+(ILS): development of a brief measure of unit level implementation
+leadership. Implement Sci. 2014;9:45.
+50. Ehrhart MG, Aarons GA, Farahna kL R .G o i n ga b o v ea n db e y o n df o r
+implementation: the development and validity testing of the Implementation
+Citizenship Behavior Scale (ICBS). Implement Sci. 2015;10:65.
+51. Hume K, Boyd B, McBee M, Coman D, Gutierrez A, Shaw E, Sperry L,
+Alessandri M, Odom S. Assessing implementation of comprehensive
+treatment models for young children with ASD: reliability and validity of
+two measures. Res Autism Spectr Disord. 2011;5(4):1430 –40.
+52. Williams CM, Fan W, Goodman G. Preliminary analysis of the ‘survey of
+educators ’knowledge and value of research-based practices for students
+with autism. Assess Eff Interv. 2010;36(2):113 –30.
+53. McGhee-Hassrick E, Carley K. “The Impact of School Design on
+Synchronizing Autism Interventions across Home and School ”. Paper
+presented at the Society for Research in Child Development; 2015.
+54. McGhee-Hassrick E, Carley K, Leventhal BL, Joseph K. “Autism Treatment
+Inequalities and the Organization of Schooling ”. Paper presented at the NIH
+Conference for Complex Systems, Health Disparities and Population Health:
+Building Bridges; 2015.
+55. Carley K, Jeff R. “ORA: organization risk analyzer ”. 2004.
+56. Wasserman S, Faust K. Social network analysis: methods and applications.
+New York: Cambridge University Press; 1994.
+•  We accept pre-submission inquiries  
+  Our selector tool helps you to ﬁnd the most relevant journal
+  We provide round the clock customer support 
+  Convenient online submission
+  Thorough peer review
+  Inclusion in PubMed and all major indexing services 
+  Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submitSubmit your next manuscript to BioMed Central 
+and we will help you at every step:Stahmer et al. Implementation Science  (2018) 13:3 Page 11 of 11

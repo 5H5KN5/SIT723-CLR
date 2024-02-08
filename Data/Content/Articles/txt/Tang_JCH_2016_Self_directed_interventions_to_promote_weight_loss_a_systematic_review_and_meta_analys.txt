@@ -1,0 +1,868 @@
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=rhpr20
+Download by:  [2.124.227.49] Date:  19 April 2016, At: 11:47
+Health Psychology Review
+ISSN: 1743-7199 (Print) 1743-7202 (Online) Journal homepage: http://www.tandfonline.com/loi/rhpr20
+Self-directed interventions to promote weight loss:
+a systematic review and meta-analysis
+Jason C H. Tang, Charles Abraham, Colin J. Greaves & Vasilis Nikolaou
+To cite this article:  Jason C H. Tang, Charles Abraham, Colin J. Greaves & Vasilis Nikolaou
+(2016): Self-directed interventions to promote weight loss: a systematic review and meta-
+analysis, Health Psychology Review, DOI: 10.1080/17437199.2016.1172979
+To link to this article:  http://dx.doi.org/10.1080/17437199.2016.1172979
+View supplementary material 
+Accepted author version posted online: 19
+Apr 2016.
+Submit your article to this journal 
+View related articles 
+View Crossmark data
+
+1 
+ 
+Publisher: Taylor & Francis & Informa UK Limited,  trading as Taylor & Francis Group 
+Journal: Health Psychology Review 
+DOI: 10.1080/17437199.2016.1172979 
+ 
+ 
+ 
+Self-directed interventions to promote weight loss:  
+a systematic review and meta-analysis  
+Jason C H Tang1, 2,   
+Charles Abraham1,   
+Colin J Greaves3,  
+Vasilis Nikolaou4  
+1. Psychology Applied to Health Group, Un iversity of Exeter Medical School,  
+University of Exeter, UK 
+2. Quality, Safety and Informatics Resear ch Group, University of Dundee, UK 
+3. Primary Care Group, University of Exeter Medical School, University of Exeter, UK 
+4. Research in Real Life, Cambridge, UK 
+Corresponding author:  
+Professor Charles Abraham, University of Ex eter Medical School, St Luke's Campus,  
+Heavitree Road, Exeter, EX1 2LU, UK. Telephone: 07969 330607 Email:  
+C.Abraham@exeter.ac.uk  
+  Abstract  
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+2 
+ 
+Many self-directed weight-loss in terventions have been develope d using a variety of delivery 
+formats (e.g. internet, smartphone) and change t echniques. Yet, little research has examined 
+whether self-directed interventions can ex clusively promote weight loss. MEDLINE, 
+Embase, PsycINFO, CINAHL, and the Cochrane Library were systematically reviewed for 
+randomised controlled trials eval uating self-directed interventions in relation to weight loss 
+outcomes in adults. Standard mean differences (SMD) and 95% confidence intervals (CI) 
+were calculated using a random effects mode l. Twenty-seven tria ls incorporating 36 
+comparisons met our inclusion criteria. Participants using self-directed interventions lost significantly more weight ( MD = -1.56 kg, CI -2.25, -0.86 ranging from 0.6 to 5.3 kg) 
+compared to those in the minimal-interven tion or no-treatment groups (3.1-month follow-up 
+median). The majority of interventions were internet-based (18 evaluations) and these were effective at 3 months ( MD = -1.74 kg, CI -2.65, -0.82 ranging from 0.6 to 4.8 kg) ( SMD  = -
+0.48, 95% CI -0.72, -0.24,  I² = 82%; p < .0001; 16 evaluations) and 6 months follow-up ( MD 
+= -2.71 kg, CI -4.03, -1.39 rangi ng from 2.2 to 5.3 kg) ( SMD  = -0.59, 95% CI -0.99, -0.19, I ² 
+= 76%; p = .004; 4 evaluations). Self-directed weight -loss interventions can generate modest 
+weight loss for up to 6 months but may need to be supplemented by other interventions to 
+achieve sustained and clinically  meaningful weight loss.  
+ 
+Keywords: Weight loss; self-delivered interventi on; eHealth; systematic review; meta-
+analysis; obesity  
+  
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+3 
+ 
+Self-directed interventions to promote weight loss:  
+a systematic review and meta-analysis 
+Introduction 
+Being overweight or obese is associated with multiple health risks including cardiovascular 
+disease and a range of cancers, which account for many premature d eaths (Allender, Peto, 
+Scarborough, Boxer, & Rayner, 2006; Whitlock et al., 2009). Yet the prevalence of obesity worldwide has more than doubled since 1980, incr easing ill health, mort ality and healthcare 
+costs. In the United States (US), for exampl e, 68% of adults ar e overweight or obese, 
+accounting for more than 20% of health care co sts (Flegal, Carroll, Ogden, & Curtin, 2010) 
+while in the United Kingdom (UK),  62% of adults are overwei ght or obese (Health and 
+Social Care Information Cent re, 2015), and it has been pr edicted that by 2050, 40% of the 
+population could be obese, resulting in hea lth and social costs of £49.9 billion (US$76.1 
+billion) per annum (Butland et al., 2007). Weight control is, th erefore, a global public health 
+priority (Finucane et al., 2011; World Health Organisation [WHO], 2014).  
+Obesity-related health risks can be reduced substantially with weight loss of as little 
+as 5% of body weight (Jensen et al., 2014) and this may gene rate psychological benefits 
+including improved health-related quality of  life, body image and depression (Blaine, 
+Rodman, & Newman, 2007; Busch et al., 2013; Lasikiewicz, Myrissa, Hoyland, & Lawton, 
+2014). In the US, the Centers for Disease C ontrol and Prevention have developed clear 
+policies promoting weight loss and prevention of weight-related illness (e.g. Leeman et al., 
+2012). Similarly, UK public health policy advoca tes weight loss through individual lifestyle 
+change (Department of Health [DoH], 2013; Natio nal Institute of Health  and Care Excellence 
+[NICE], 2014). Self-directed inte rventions may facilitate econom ical implementation of these 
+policies, because, if effective, they are more likely to be cost-effective and have much wider 
+reach than, for example, face-to-face individual or group interventions.  
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+4 
+ 
+By “self-directed interventions”, we mean  those requiring no professional contact or 
+no contact beyond an introductory face-to-face se ssion. Such interventions require users to 
+self-regulate and generate change without prof essional assistance. They can be implemented 
+with existing infrastructure and staffing and embedded in users’ everyday lives. Many such 
+interventions have been developed (Arem & Irwin, 2011). Attrition rates can be high 
+(Eysenbach, 2005)—for example, in one study, only 30% of subscribed participants reported use of a website program after 52 weeks (N eve, Collins and Morgan (2010)—but evidence 
+suggests that such interventions can promot e weight-loss and can augment face-to-face 
+weight-loss interventions (Tang, Abraham, Greaves, & Yates, 2014; Wieland et al., 2012). In a review of reviews, Tang et al. (2014) found that self -directed interventions employ 
+particular change techniques in cluding individualised feedback and online social support to 
+enhance effectiveness. These authors concluded that further reviews of primary level studies 
+should clearly categorise interventions by m ode of delivery and investigate features 
+associated with increased effectiveness.  
+Information technology advances have allowe d development of interactive systems, 
+which can be adapted to individual users’  needs and preferences. These have been 
+incorporated in a wide range of electronic interventions usi ng various digital platforms (e.g. 
+smartphones, tablets, and tracker bracelets). De livered online and offline, these interventions 
+can emulate elements of face- to-face interactions by, for exam ple, prompting goal-setting, 
+instructing progress monitoring and providing tim ely goal-related feedback (McEwan et al., 
+2016). By scaffolding self-regulation, such interventions may facilitate cognitive and affective change that underpins changes in weight-gain behaviour pa tterns (Kessler, 2009). 
+Social support and social comparison can also be provided through message boards and 
+online chat sessions. The use of self-regulat ory prompts and social support provision are 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+5 
+ 
+associated with weight loss effectiveness in face-to-face weight loss programmes (Greaves et 
+al., 2011) but it is unclear if they have a sim ilar effect in self-dir ected interventions.  
+Self-directed interventions are likely to be less costly than f ace-to-face services and 
+could have greater public health impact, but ev idence for their effectiveness remains unclear 
+(Harris et al., 2011; Manzoni, Pagnini, Corti, Molinari, & Castelnuovo, 2011; Turk et al., 
+2009). A recent review of reviews synthesised the findings on effectiveness of self-directed 
+interventions (Tang et al., 2014) . Twenty relevant reviews provided mixed but promising 
+findings, for example, one review found a significant average increase of up to 1.5kg in weight loss over evaluation periods when intern et-based interventions were delivered in 
+conjunction with standard weight loss treatm ent (Reed, Schifferdecker, Rezaee, O'Connor, & 
+Larson, 2012). Another review found evidence that computer-based interventions were 
+effective in promoting weight loss and reduced weight regain (Wieland et al., 2012). Weight 
+loss across all evaluations reviewed ranged fr om 0.8-7.8kg but most reviews advised caution 
+in interpretation of findings because of vari ability in intervention content and delivery. 
+Most narrative reviews and meta-analyses have  combined self-directed interventions with 
+those including face-to-face, online and group sessions. For example, Hutchesson et al. 
+(2015) found that eHealth weight -loss interventions could gene rate significantly greater 
+weight loss than minimal interventions. Th is is encouraging bu t the 183 interventions 
+considered in this review included a variet y of delivery formats in cluding self-directed 
+interventions and those that i nvolve regular online profession al contact (e.g. via emails). 
+Further review work is needed to clarify whether self-directed in terventions, without 
+professional contact, can promote weight loss.  
+   Hartmann-Boyce, Jebb, Fletcher, and Aveyard (2015) undertook meta-analyses to 
+assess weight loss generated by “self-help” interv entions compared to minimal controls. They 
+concluded, encouragingly, that self-help interv entions can effectivel y promote weight loss 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+6 
+ 
+(MD = -1.85 kg) and called for further progress to understand and improve such 
+interventions. Hartmann-Boyce et al. (2015)  focused on overweight and obese populations 
+and evaluated weight loss (kg) at between 6 to 12 months follow up. They also included 
+“self-help” interventions involving ongoing online professional contact. 
+The Present Study 
+Our focus is on interventions that do not i nvolve ongoing professional contact. We include 
+interventions that involve one face-to-face intro ductory session but no further contact. We are 
+interested in the capacity of such interventions to promote weight loss, not only among those 
+who are already overweight, but also, preven tatively, among normal weight and sedentary 
+populations. While focusing primaril y on weight loss, we are also interested in weight-related 
+outcomes such as BMI and waist circumfere nce and on short, medium and longer term 
+effects. In addition, we are interested to di scover if different delivery modes (e.g., online 
+versus paper-based) and in clusion of particular comm only-used change techniques 
+differentiate between more or less effective self-directed interventions.  
+Research Questions 
+This review addressed th ree research questions: 
+(1) How effective are self-direc ted interventions (without ongoi ng professional contact) 
+in promoting short, medium and l ong-term weight loss in adults?  
+(2) Are particular modes of deliv ery of self-directed weight-l oss interventions more or 
+less effective?   
+(3) Do particular, frequently employed cha nge techniques enhance effectiveness? 
+Methods  
+Inclusion criteria  
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+7 
+ 
+We included articles published in English before and during July 2014 that reported 
+randomised controlled trials (RCT) of self -directed weight-loss or weight-control 
+interventions.  
+Intervention Characteristics 
+Included trials evaluated interventions that: 
+1. targeted either physical activity, diet or both, 
+2. were self-directed with no more than one face-to-face contact (e.g. an introductory or 
+instructional session lasting no longer than 90 minutes), 
+3. included at least one interactive component involving engaging users with the 
+interface (e.g. entering personal data in response to prompts), 
+4. included at least one self-regulatory elem ent involving users reflecting on their 
+thoughts or behaviour patterns (such as diary keeping, goal- setting or goal-review).  
+Outcome Measures 
+Trials included one or more of  the following outcome measures:  
+1. body weight (kilograms or pounds) 
+2. body mass index (BMI) kg/m² 
+3. waist circumference (inches or centimetres) 
+Comparison groups 
+Trials  were included if they compared self-dir ected weight loss in terventions to a no 
+intervention or minimal interven tion control grou p including:  
+1. usual care 
+2. minimal interventions (e.g. provision of information) 
+3. educational materials (b oth online and paper) 
+4. no intervention (wait-list control) 
+Participant characteristics 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+8 
+ 
+Trials were included if th ey were conducted with:   
+1. healthy adults (18 years or ove r) including those at risk of diabetes (but not diagnosed 
+with diabetes or other long-term illnesses) who were not taking medications which 
+could affect weight, 
+2. people who were of normal we ight, overweight or obese 
+Search strategy 
+  
+We used the Cochrane PICOS (participant , intervention, comparison and outcome, study 
+design) method to formulate our search criteria. Details of the search st rategy are available in 
+Supplementary Table 1. Searches were conduc ted in MEDLINE (Ovid), Embase (Ovid), 
+PsycINFO (Ovid), CINAHL, and the Cochrane Libr ary. We also searched the references of 
+included articles to identify further trials. All titles and abstracts retrieved from electronic 
+searches were exported into reference manage ment Endnote X4 software before the removal 
+of duplicate articles.  
+The first author examined the titles and ab stracts of articles identified by our search 
+against the above inclusion criteria. A second researcher checked the quality and accuracy of 
+study selection by screening (a randomly selected) 10% of availabl e titles and abstracts. Full 
+text copies of the selected relevant articles were obtained and checked against the inclusion criteria by the first author and by two additiona l researchers. Disagreements were resolved 
+through discussion and reasons for exclusion were recorded for each article (See Supplementary Table 2). 
+Quality assessment of Included Studies 
+We used the Cochrane Collaboration Risk of Bias Tool (Higgins et al., 2011) to assess risk of 
+bias in the included articles. Judgements were  made on the following seven items to assess 
+selection, performance, detec tion, attrition, and reporting bias, namely: (1) Was the random 
+sequence adequately generated? (2) Was the allocation adequately concealed? (3) Was 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+9 
+ 
+knowledge of trial arm allocation blinded from participants and pers onnel during the study? 
+(4) Was knowledge of trial arm allocation b linded from outcome a ssessors? (5) Were any 
+issues of incomplete outcome data adequately addressed? (6) Were repor ts of the study free 
+of suggestion of selective outcome reporting ? (7) Was the study apparently free of other 
+problems that could put it at a hi gh risk of bias? Each article was judged to have ‘unclear’, 
+‘low’ or ‘high’ risk of bias  in relation to each of these questions. A second researcher 
+checked a random selection of 50% of articles for risk of bias and discrepancies were 
+discussed and resolved. 
+Data extraction 
+ 
+From each article, we extracted basic info rmation concerning: Setting and methods (e.g. 
+country, year, context, blinding, study design, bias); participants (e.g. total number of 
+participants, missing participants, inclusion criteria, exclusion criteria); participant 
+characteristics (e.g. mean age, sex); comparis on groups (e.g., usual care  or no-intervention); 
+outcome measures (e.g. primary outcome measur e, secondary measure, method of assessing 
+outcomes, duration of follow up); main findi ngs; (e.g. type of cognitive, emotional, 
+behavioural or physiological cha nges targeted and or assessed  in process evaluations) and 
+mode of delivery (e.g. internet, smartphone, l eaflets, multicomponent, DVD).  In addition, we 
+coded intervention descriptions for inclusion of  specific change techniques. We identified 12 
+previously defined change techniques that were  included in at least one of the evaluated 
+interventions (Abraham & K ools, 2012; Abraham & Michie , 2008; Albarracín et al., 2005; 
+Michie, Abraham, Whittington, McAteer, & Gupta, 2009). These were (1) highlighting affective consequences of be havioural choices, (2) instruction to enhance decision-making 
+skills, (3) prompting goal set ting, (4) self-monitoring (5) provi ding feedback, (6) teaching use 
+of reminders, (7) identif ication of behavioural cues and prompts, (8) modelling behaviours, 
+(9) providing instructions to enhance behavi oural skills, (10) provi ding social comparison 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+10 
+ 
+opportunities, (11) prompting soci al support or social network formation, and (12) prompting 
+group identity formation. When a technique was identified in an intervention description, a 
+further judgement was made as to whether it wa s tailored to the participant or participant’s 
+group or delivered in a generic manner. A second researcher checked a random selection of 
+the interventions (50% of interventions included  in meta-analysis) for change techniques and 
+discrepancies were discussed and resolved. The kappa and AC1 statistic were used to assess 
+inter-rater agreement (Gwet, 2002).  
+We also extracted outcome data for meta-analyses and for methodological quality 
+assessment (using Cochrane Risk of Bias T ool) (see Supplementary Table 3 for full data 
+extraction form). 
+Analyses  
+We followed the quality criteria specifie d by the PRISMA checkli st for reporting of 
+systematic review and meta-analyses (Higgins  & Green, 2011). All meta-analyses and forest 
+plots were generated using RevMan (version 5.3). Effect sizes were reported as standardised 
+mean differences ( SMD ), the equivalent of Hedge’s g, that is, the mean difference in weight 
+loss between the control and intervention gr oup divided by the pooled standard deviation, 
+averaged across studies, along w ith 95% confidence intervals. These were calculated using 
+random effects models to account for the assump tion that different studies estimate different 
+or heterogeneous true interven tion effects. As a sensitivity analysis, we investigated the 
+underlying effects sizes under a fixe d effect model that assumes th at all studies included in 
+the meta-analyses are estimating the same, but unknown, intervention effect. When SMDs were found to be significant, we reported the weighted average additional weight lost in the 
+intervention groups, per participan t, over and above that lost in  the control groups (i.e. the 
+MD between intervention and control group), an d the range of average additional loss across 
+interventions. To avoid double-counting of participants and to account for the correlation of 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+11 
+ 
+multiple evaluations in studies, where two or mo re interventions were compared to the same 
+control group from the same population, we com puted a single effect size as the average for 
+multiple evaluations and a variance that take s into account the correlation between multiple 
+evaluations (Borenstein, He dges, Higgins, & Rothstein, 200 9; Higgins & Green, 2011). 
+These included five articles containing two ev aluations (Brindal et al., 2012; Collins et al., 
+2012; Lally, Chipperfield, & Wardle, 2008; Morgan et al., 2013; Napolitano, Hayes, Bennett, 
+Ives, & Foster, 2013), and one study containing three evaluations (Gow, Trace, & Mazzeo, 2010).  
+All weight-related outcomes were converted  into the same unit of measurement for 
+meta-analysis (e.g. lbs to kg or in ches to cm). In articles wher e standard deviations were not 
+available, using formulas recommended by Co chrane Collaboration guidelines (Higgins & 
+Green, 2011), confidence intervals (CI) and standard  errors (SE) were co nverted into standard 
+deviations for change in we ight from baseline to follow-up (SD). We ensured that 
+heterogeneity of variance was minimised by co mbining only studies using similar modes of 
+delivery and outcomes. Inspections of funnel plots generated by RevMan were used to examine possible publication bias. Following Wi eland et al. (2012), we examined outcomes 
+at the following time points: 4 months or le ss; greater than 4 but less than 12 months; 12 
+months or more.   
+Meta-analyses were performed to assess th e effectiveness of included self-directed 
+interventions in promoting weight loss (kg), reducing Body Mass Index (BMI) and 
+decreasing waist circumference (cm). To asse ss overall effectiveness we pooled weight-
+related outcomes at final follow-up. We th en performed subgroup analyses to assess 
+effectiveness at defined follow-up points to examine effectiveness over time. Meta-analyses were also performed to examine the effec tiveness of interventi ons including change 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+12 
+ 
+techniques compared to those without cha nge techniques. Sensitivity analyses were 
+conducted to assess the imp act of outlier studies.  
+Results 
+Our search identified 3884 references for title and abstract screen ing, excluding duplicates. 
+This generated 232 potentially eligible articles for full text examination of which 25 satisfied 
+our inclusion criteria. Two additional eligible articles were identified by searching references of included articles, resulti ng in a final sample of 27
+1(see Figure 1).  
+Second coding of articles for study selec tion showed good reliability with 100% 
+agreement on title and abstract (n = 368) and full-text article (n = 23) selection. Most 
+excluded articles did not evaluate self-direc ted interventions and many did not have an 
+appropriate comparison group (see Supplementary Ta ble 2 for a list of excluded articles).  
+[Figure 1 near here] 
+Study characteristics  
+Supplementary Table 4 presents study char acteristics for the 27 included articles 
+reporting 36 RCT evaluations of self-directe d interventions. Two interventions included 
+introductory face-to-face sessions lasting no up to 75 minutes (Morgan, Lubans, Collins, 
+Warren, & Callister, 2011a; Morgan et al., 2011b). 
+The majority of studies were conducted in the US, Australia and the Netherlands. A 
+variety of samples were use d, but most recruited community participants while others 
+                                                            
+1 In the course of analyses and publication, an updated sear ch up to November (2015) identified two further studies that 
+would have been included in our review appeared in the li terature. These are: (1) Blomfield, R. L., Collins, C. E., 
+Hutchesson, M. J., Young, M. D. , Jensen, M. E., Callister, R. , & Morgan, P. J. (2014). Impact of self-help weight loss 
+resources with or without on line support on the dietary intake of overwei ght and obese men: Th e SHED-IT randomised 
+controlled trial. Obesity Research & Clinical Practice , 8(5), e476–e487, and, (2) O’Brien, K. M., Hutchesson, M. J., Jensen, 
+M., Morgan, P., Callister, R., & Collins, C. E. (2014). Partic ipants in an online weight loss program can improve diet quality 
+during weight loss: a randomized controlled trial. Nutrition Jour nal, 13(1), 82. The former reported weight loss results found 
+in Morgan et al. (2013), which we included in our meta-analysis, and the latter reported an effe ct size well-within the range 
+reported in the studies included in our meta analyses. Thus while it will be interesti ng to update this review as the literatur e 
+grows, the findings are current to July 2014.  
+ 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+13 
+ 
+recruited from work places and universities. The total number of participants randomised 
+included across all trials was 28,500, of which 71% were female with a mean age of 41. Four 
+articles comprising six relevant evaluations included exclusivel y female samples (Jacobi et 
+al., 2007; Levine et al., 2007; Low et al., 2006; Mouttapa et al., 2011) and four articles 
+containing five evaluations were exclusiv ely male (Morgan, Lubans, Collins, Warren, & 
+Callister, 2011a; Morgan et al., 2011b; Mo rgan et al., 2013; Veverka et al., 2003).  
+Eleven articles including 17 ev aluations targeted overwei ght and obese participants 
+and five articles recruited sede ntary participants. Twenty-thr ee articles focused on weight 
+loss, while three articles targeted weight  maintenance (Kelders, van Gemert-Pijnen, 
+Werkman, & Seydel, 2010; Gow et al., 2010; Johnson et al., 2008) and only one study 
+assessed weight loss and weight maintenance (van Genugten et al., 2012). Seven articles 
+included two interventions arms and a minimal intervention or no treatment control (Brindal 
+et al., 2012; Collins et al., 2012; Lally et al., 2008; Levine et al., 2007;  Morgan et al., 2013; 
+Napolitano et al., 2013; Schroder, 2010), two ar ticles had three intervention arms and a 
+minimal intervention or no trea tment control (Gow et al., 201 0; Low et al., 2006) and 18 
+articles compared one intervention to a mini mal intervention or no treatment control.  
+Twenty articles including 26 evaluations repo rted weight loss as an outcome. Fifteen 
+articles comprising 19 evaluations assesse d BMI and eleven ar ticles containing 13 
+evaluations reported waist circumference. Twen ty-six evaluations assessed outcomes at 1-4 
+months, 17 evaluations assessed outcomes be tween 4 months and 12 months and seven 
+assessed outcomes between 12 and 36 months, w ith some studies reporting outcomes at more 
+than one follow-up point. Comparison groups in cluded 9 no-treatment, 10 wait-list controls, 7 
+provision of information or minimal interventi ons and 1 usual care comparison. Three articles 
+described physical activity interventions (Carr et al., 2008; Carr, Karvinen, Peavler, Smith, & 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+14 
+ 
+Cangelosi, 2013; Hansen et al., 2012), and 24 in cluded interventions targeting both diet and 
+physical activity.  
+The majority of the interventions (29 of  the 36) were delivered primarily through 
+internet use. Three were multi-component pr ogrammes (Carr et al., 2013; Morgan et al., 
+2013; Werkman et al., 2010) by which we mean th at they employed more than one mode of 
+delivery, for example, Morgan et al. ( 2013) employed a DVD-based programme and a 
+pedometer. Two used mobile phones to delive r text messages (Haapala, Barengo, Biggs, 
+Surakka, & Manninen, 2009; Shapiro et al., 2012) and one used leaflets (Lally et al., 2008).  
+Supplementary Table 5 presents a list of change  techniques reported in at least five of 
+the 36 self-directed interventions. Self-monitori ng was included in 30 (of 36) interventions 
+(and was personalised in 26). Many interven tions reported the use of feedback (26 
+interventions), goal-setting (19 interventions), social support/networks (19 interventions) and 
+behavioural skill instruction (25 interventions). The least used techniques (of those observed) 
+were group identity promotion and decision-ma king skills instruction of which both were 
+identified in seven interventions. Interesti ngly, one intervention included 11 of the 12 
+techniques in an internet-based format including weekly weight change visual feedback in the 
+form of a graph and a social discussion forum (Gow et al., 2010). Based on 50% of the 
+interventions included in the meta-analysis, the inter-rater agreement was high with kappa 
+and AC1 values of 0.91 and 0.84, respectively. 
+Risk of bias of included studies 
+The inter-rater reliabil ity between two reviewers was high with 100% agreement on all risk of 
+bias domains after discussion. Overall, study qu ality was low, with only three of the 27 
+studies having a low risk of bias in at least fi ve of the seven main cat egories (Collins et al., 
+2012; Morgan, Lubans, Collins, Warren, & Callister, 2011a ; Morgan et al., 2013). The quality 
+of reporting was also low with only two studies reporting sufficient detail to fully assess risks 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+15 
+ 
+of bias (Morgan et al., 2013; Morgan, Lubans, Collins, Warren, & Callister, 2011a ) (see 
+Supplementary Figure 1 & 2). The main risks of bias identified from study descriptions were 
+failure to blind assessors (21 of  27 articles), failure to blind participants and personnel (20), 
+not providing sufficient detail on allocation concealment (18), and inadequate reporting of 
+randomisation procedures (11).  
+Effectiveness of self-directed interventions  
+Weight loss  Required data could be extracted for 25 evaluatio ns of weight loss. Figure 2 shows the mean 
+and standard deviations for weight loss in the intervention and control groups for each 
+included trial as well as the standard mean difference and corresponding forest plot. Similar 
+supplementary tables are available for all me ta-analyses reported below. The results show 
+that those using self-directed interventions lost  significantly more weight  than those receiving 
+minimal intervention or no treatment ( MD = -1.56 kg, CI -2.25, -0.86) ( SMD  = -0.41, 95% CI 
+-0.60, -0.23, I ² = 79%; p < .00001). Additional average weight  loss per participant in the 
+intervention group ranged from 0.6 to 5.3 kg. Th e median follow-up time for this whole-
+sample analysis was 3.1 months. Subgroup analyses  (Suppl. Figure 3) rev ealed similar weight 
+loss at 0-4 months (3-month median) follow-up ( MD = -1.65 kg, CI -2.40, -0.89) ( SMD  = -
+0.48, 95% CI -0.69, -0.27,  I² = 79%; p < .0001; 20 evaluations with additional average weight 
+lost ranging from 0.6  to 4.8 kg per participant across interventions) and at 4-12 months (6-
+month median) ( MD = -2.26 kg, CI -3.35, -1.18) ( SMD  = -0.48, 95% CI -0.76, -0.21, I² = 
+67%; p = .0005; six evaluations with  additional average weight lost ranging from 1.7 to 5.3 
+kg), but considerably less weight loss at 12 months or more (12-m onth median) follow-up 
+(SMD  = -0.14, 95% CI -0.38, 0.10, I² = 55%; p = 0.24; five evaluations).   
+[Figure 2 near here] 
+Body mass index outcomes 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+16 
+ 
+In the 16 evaluations assessing body mass index, participants rece iving self-directed 
+interventions showed significantly greater re duction in BMI levels than those receiving 
+minimal intervention or no treatment ( MD = -0.41 kg/m², CI -0.70, -0.11) ( SMD  = -0.28, 95% 
+CI -0.53, -0.04, I ² = 88%; p = 0.02). Additional average loss of BMI points per participant in 
+the intervention group ranged from 0.08 to 1.7 kg/m² (Suppl. Figure 4). The median follow-
+up time for this whole-sample analysis was 3.1 months. Subgroup analyses (Suppl. Figure 5) 
+revealed somewhat greater BMI reducti on at 0-4 months (3-month median) (MD  = -0.54 
+kg/m², CI -0.88, -0.19) ( SMD  = -0.43, 95% CI -0.72, -0.13, I² = 87%; p = .004; 12 evaluations 
+with additional average BMI loss ranging fr om 0.1 to 1.5 kg/m² per participant across 
+interventions) than at 4- 12 months (6-month median) ( SMD  = -0.20, 95% CI -0.83, 0.43, I² = 
+91%; p = 0.53; six evaluations) where BMI differen ces were non-significant . Insufficient data 
+(only two evaluations) prevented subgroup analys es for BMI reduction at 12 months or more. 
+Waist circumference outcomes 
+ Twelve evaluations reported waist circumference and the me ta-analysis showed somewhat 
+greater decreases in the self -directed interventi on group than those receiving minimal 
+intervention or no treatment ( MD = -2.37 cm, CI -4.12, -0.61)  ( SMD  = -0.66, 95% CI -1.05, -
+0.26, I ² = 94%; p = .001). Additional average lo ss of waist circumference per participant in 
+the intervention group ranged from 0.1 to 6.3 cm (Suppl. Figure 6). The median follow-up 
+time for this whole-sample analysis was 5 months. Subgroup analyses (Suppl. Figure 7) 
+showed a significant reduction in waist circ umference at 0-4 months (3-month median) ( MD 
+= -2.81 cm, CI -4.25, -1.37)  ( SMD  = -0.98, 95% CI -1.56, -0.39, I² = 95%; p = .001; nine 
+evaluations with additional average waist circumference loss ranging from 0.1 to 5.2 cm 
+across interventions), but not at 4-12 months (6-month median) ( SMD  = -0.24, 95% CI -1.07, 
+0.59, I ² = 94%; p = 0.57; four evaluations). Insufficient data (only two evaluations) prevented 
+subgroup analyses for waist circumfere nce reduction at 12 months or more. 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+17 
+ 
+Effectiveness of internet-based  self-directed interventions  
+ 
+The majority of interventions (18 of 25, 72 %) included in the above  meta-analyses were 
+internet-based. Participants receiving internet-based self-directed interventions lost 
+significantly more weight than  those receiving minimal intervention or no treatment ( MD = -
+1.72 kg, CI -2.60, -0.84) ( SMD  = -0.45, 95% CI -0.67, -0.23,  I² = 80%; p < .0001). Additional 
+average weight loss per part icipant in the intervention group ranged from 0.59 to 5.3 kg 
+(Suppl. Figure 8). The median follow-up time for this whole-sample analysis was 3 months. Subgroup analyses (Suppl. Figure 9)  showed significant weight lo ss results at 0-4 months (3-
+month median) ( MD = -1.74 kg, CI -2.65, -0.82) ( SMD  = -0.48, 95% CI -0.72, -0.24, I² = 
+82%; p < .0001; 16 evaluations with additional aver age weight lost ranging from 0.6 kg to 4.8 
+kg per participant across interventions) and at 4-12 months (6-month median) ( MD = -2.71 
+kg, CI -4.03, -1.39)  ( SMD = -0.59, 95% CI -0.99, -0.19, I² = 76%; p = .004; four evaluations 
+with additional average weight lost ranging from 2.2 kg to 5.3 kg). Insufficient data (only two 
+evaluations) prevented subgroup analyses fo r follow-up at 12 m onths or longer. 
+ Similarly, participants receiving internet-bas ed self-directed interventions achieved a 
+significantly greater reduction in BMI levels than those re ceiving no treatment or minimal 
+intervention ( MD = -0.47 kg/m², CI -0.81, -0.14) ( SMD  = -0.32, 95% CI -0.61, -0.03, I² = 
+90%; p = 0.03; 13 evaluations). Additional average loss of BMI points in the intervention 
+group ranged from 0.08 to 1.7 kg/m² (Suppl. Figure  10). The median follow-up time for this 
+whole-sample analysis was 3.1 months. Subgr oup analyses (Suppl. Figure 11) revealed a 
+greater reduction of BMI at 0-4 months (3-month median) ( MD = -0.58 kg/m², CI -0.98, -
+0.19) ( SMD  = -0.46, 95% CI -0.79, -0.13, I² = 89%; p = .006; 10 evaluations with additional 
+average BMI loss ranging from 0.1 to 1.5 kg/m² pe r participant across in terventions) than at 
+4-12 months (6-month median) ( SMD  = -0.23, 95% CI -0.88, 0.42, I² = 91%;  p = 0.49; five 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+18 
+ 
+evaluations) where BMI differences were non- significant. Insufficient data (only one 
+evaluation) prevented subgroup analyses fo r BMI reduction at 12 months or more. 
+Eight internet-based evaluations report ed waist circumference and found greater 
+decreases in the internet-based self-direct ed intervention group than those receiving no 
+treatment or minimal intervention ( MD = -2.69 cm, CI -5.01, -0.37) ( SMD  = -0.85, 95% CI -
+1.40, -0.29, I ² = 96%; p = .003). Additional average loss of waist circumference per 
+participant in the intervention group range d from 0.1 to 5.8 cm (Suppl. Figure 12). The 
+median follow-up time for this whole-sample an alysis was 4 months. Insufficient data (only 
+one evaluation) precluded longe r-term sub-analyses for waist circumference outcomes. 
+Sensitivity Analyses 
+We omitted Veverka et al. (2003) as its effect si ze was much larger than other evaluations but 
+found that this did not change the magnitude or  direction of the overall findings. Funnel plots 
+of analyses containing five or  more studies were inspected and these appeared to be 
+symmetrical suggesting a small possibility of pu blication bias in studies. Due to the low 
+overall quality of the studies included, it was not  possible to perform a sensitivity analysis 
+including only high quality studies. 
+Change Technique Inclusion and Effectiv eness of Self-Directed Interventions 
+It was possible to compare interventions that di d or did not include fi ve of the 12 identified 
+change techniques, namely, goal setting, self-mon itoring, provision of feedback, instructions 
+to enhance behavioural skills and provision of social support. For each of these techniques, at 
+least four studies described interventions that did and di d not include the technique. 
+Insufficient data was available for other ch ange techniques. Inte rventions describing 
+inclusion of each of these techniques were not f ound to be more effective, in terms of mean 
+weight loss, than those that did not report inclusion. Detailed results are presented in 
+Supplementary Table 5 and Figure 13–17.  
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+19 
+ 
+Interventions incl uding goal setting (SMD  = -0.46, 95% CI -0.68, -0.25, I² = 79%; p < 
+.0001; 15 evaluations) were not significantly more  effective that those not including goal 
+setting ( SMD = -0.31, 95% CI -0.67, 0.04, I² = 75%; p = 0.08; 10 evaluations) ( p = 0.48). 
+Interventions includ ing self-monitoring ( SMD  = -0.43, 95% CI -0.63, -0.24, I² = 78%; 
+p < .0001; 21 evaluations) were not significantly more effective th at those not including self-
+monitoring ( SMD  = -0.22, 95% CI -0.62, 0.18, I² = 66%; p = 0.29; four evaluations) ( p = 
+0.35). 
+Interventions including feedback resu lted in slightly more weight loss ( SMD  = -0.42, 
+95% CI -0.62, -0.21, I² = 79%; p < .0001; 17 evaluations) than those not including feedback 
+(SMD  = -0.52, 95% CI -0.89, -0.16, I² = 82%; p = .005; eight evaluations) but this difference 
+was not statistically significant ( p = 0.62).  
+Interventions including instructions to enhance behavioural skills ( SMD  = -0.48, 95% 
+CI -0.71, -0.25, I² = 77%; p < .0001; 16 evaluations) were not significantly more effective 
+that those not including instructions  to enhance behavioural skills (SMD  = -0.27, 95% CI -
+0.55, 0.01, I² = 76%; p = .06; nine evaluations) ( p = 0.26). 
+Finally, interventions including social support resulted in slightly more weight loss 
+(SMD  = -0.42, 95% CI -0.68, -0.17, I² = 82%; p = .001; 15 evaluations) than those not 
+including social support ( SMD  = -0.36, 95% CI -0.62, -0.10, I² = 72%; p = .006; 10 
+evaluations) but this difference was not statistically significant ( p = 0.74). 
+Discussion 
+This is the first systematic review of randomised controlled trials of self-directed, interactive, 
+weight-loss interventions, i nvolving no professional contact apart from an introductory 
+session. Our findings show that these intervention s are, in general, effective in promoting 
+weight loss at three and six m
+onths follo w-up compared to no treatment, minimal 
+interventions or usual care. On average, across interventions, those in self-directed 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+20 
+ 
+intervention groups lost an additional 1.56 kg when compared to those in the minimal 
+intervention or no treatment groups. Similar resu lts were found for reduced BMI at up to 6 
+months compared to the comparison groups. The ma jority of the interventions were delivered 
+using the internet and this subset showed very  similar results to the overall study sample with 
+additional weight loss per partic ipant in internet-based, self-d irected interventions of 1.72 kg. 
+We conclude that self-directed weight-los s interventions, including internet-delivered 
+interventions, are effective for s upporting weight loss up to 6 months.  
+The average magnitude of observed weight loss just falls short of what is regarded as 
+clinically meaningful (approximately 2-3 kg) (Greaves et al., 2011) suggesting that these 
+interventions have potential as c linically-relevant sta ndalone services. In addition, since they 
+are likely to be cost-effective, when effective,  they may also augment clinic services. They 
+can provide 24-hour (on-the-go) access to multiple  self-regulatory weight-loss techniques 
+such as self-monitoring, feedback and social support to help w ith weight maintenance. More 
+importantly, with only one initial face-to-face professional contact, they can prolong client 
+and professional contact engage ment without further professional contact. Only one of the 
+trials (McConnon et al., 2007) considered here  included an economic evaluation and they 
+found that a self-directed  internet-based intervention cost  £716.28 more per person per year 
+compared to usual care. However, they advi sed caution in the interpretation of results 
+because of high attrition and low compliance. Further economic evaluations are required to 
+assess the value of the observed magnitude of weight loss in rela tion to the cost of providing 
+such interventions in community and clinical contexts. 
+We did not find evidence of effectiveness of self-directed, weight-loss interventions at 
+follow-up of one year or longer but the small numbers of studies av ailable prohibit firm 
+conclusions on this question. Wei ght loss is typically regained after 3-5 years in individuals 
+who participate in various weight manage ment programmes (Dansinger, Tatsioni, Wong, 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+21 
+ 
+Chung, & Balk, 2007; Katan, 2009), so it may be th at different approaches—such as online 
+behavioural counselling, weekly  face-to-face or group weight management sessions—are 
+needed to ensure weight loss maintenance.   
+ Our findings are consistent with those of Hartmann-Boyce et al. (2015) who found 
+that an overlapping set of trials of “s elf-help” interventions, some including ongoing 
+professional support, were effective at promoting weight loss among overweight and obese users. These authors findings at 6 months follow up ( MD = -1.85 kg, CI -2.86, -0.83 based on 
+7 studies) are similar to our 0-4 month follo w up findings (3.1-month follow-up median) for 
+self-directed interventions ( MD = -1.65 kg, CI -2.40, -0.89 based on 13 studies including 20 
+evaluations). Hartmann-Boyce et al. (2015) repo rted that self-help interventions were not 
+effective at 12 months and we also found that self-directed interventi ons did not generate 
+sustained weight loss gains beyond 12 months. It is interesting to compare findings for our sub-group of internet-based self-directed interventions ( MD = -1.72 kg, CI -2.60, -0.84; 13 
+studies) with those reported by Hutchesson et al. (2015) ( MD= -2.70 kg, CI -3.33, -2.08; 9 
+studies) and Wieland et al. (2012) ( MD = -1.5 kg, CI -2.1, -0.9; two studies), which both 
+included internet-based interventions involving professional contact. Hutchesson et al. (2015) 
+reported greater weight loss (additional 0.98 kg) when compared to a minimum or no 
+treatment comparison group whereas Wieland et al. (2012) reported less weight loss, based 
+on a meta-analysis including just two studies. Given the broadly similar findings found across 
+all four reviews, it is interesting to questi on whether professional contact, which adds to 
+costs, is necessary for self-initiated weight loss up to six months and whether effectiveness 
+depends on online collaborative sessions between professionals and users. If, as our findings 
+suggest, self-directed interventions can gene rate weight loss up to  six months without 
+ongoing professional contact this co uld greatly enhance the cost effectiveness of weight loss 
+services, including those targeting diabetes prevention. 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+22 
+ 
+Our review is the first to identify and asse ss the effects of includi ng particular change 
+techniques in self-directed interventions. Unfortunately, however, our categorisation of 
+change techniques from interven tion descriptions provided in published papers offers little 
+insight into optimal design. We were only able to compare interventions that did or did not 
+include five change techniques and found no si gnificant weight-loss differences between 
+intervention including and excluding these techniques. We cannot infer that the inclusion of 
+these change techniques makes no difference to  effectiveness because  the relatively small 
+numbers of intervention compared vary in ma ny other respects. Moreover, our capacity to 
+characterise intervention content may have been  limited by the brief descriptions provided in 
+the papers we examined, such analyses may be better undertaken usi ng full intervention 
+manuals (Abraham & Michie, 2008). It would be  helpful if trials evaluating self-directed 
+interventions described their in terventions in more detail (e.g.  in supplementary documents) 
+and provided readily available manuals to allo w researchers and commissioners to examine 
+content in detail. When more trials are availabl e, further research may clarify whether factors 
+other than the inclusion of change techniques are more important in these interventions or 
+whether our study was simply not powered to find small but potentially important increments 
+in effectiveness that may follow from inclusi on of particular self-re gulatory techniques.  
+ This review has both strengths and limitations. It is the first review to focus exclusively on self-direc ted interventions and we found that  most of these were internet-
+based. Consequently, our data allows conclusi ons to be drawn about a specific group of 
+weight loss interventions. On the other hand, we  had small samples, which may have reduced 
+power to identify the effects of intervention co ntent on heterogeneity of  effect sizes and to 
+draw conclusions about maintenance of weight loss. Heterogeneity was large across all meta-
+analytic calculations even when subgroup an alyses accounted for length of follow-up. This 
+wide variation may be the result of severa l factors including dive rse target populations, 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+23 
+ 
+intervention content, applied theoretical frameworks, inaccu racy of study descriptions, 
+intervention intensity and duration, and study qua lity. It is noteworthy too that while our 
+inclusion criteria specified heal thy adults, many of the samples in this review were not, on 
+average, overweight or obese, perhaps furthe r limiting the implicati ons of our findings for 
+clinical applications of these interventions. 
+ Although every effort was made to eliminate bias in the search, selection of studies, 
+data extraction, and data analysis, it is possible that we excl uded some relevant studies due to 
+inadequate intervention descriptio ns in study abstracts.  It is also important to note that the 
+methods employed in many trials here indicated a risk of bias in interpretation. Finally, this 
+review emphasise the importance of using objective measures of weight loss and weight 
+maintenance at 12 months and beyond.  
+ In conclusion, self-directed weight-lo ss interventions that do not involve ongoing 
+professional support, including those delivered using the internet, can generate modest 
+significant weight loss at up to si x months but, as yet, there is little evidence to suggest that 
+they promote weight loss maintenance. Since th ey are likely to be cost effective, when 
+effective, they may provide usef ul adjuncts to existing commun ity and clinical services, and 
+could potentially be used exclus ively to generate clinically me aningful weight loss. Further, 
+high-quality trials are needed to establish the longer-term effects of self-directed interventions in a wider range of formats. 
+ 
+Acknowledgements  
+We would like to thank Aleksandra Borek who helped with the secondary screening of 
+abstracts/titles and full-text articles. The work was partially funded by the UK National Institute for 
+Health Research (NIHR) Collaboration for Leadership in Applied Health  
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+24 
+ 
+Research and Care of the South West Peninsula (PenCLAHRC) and partly by the NIHR Career 
+Development Fellowship CDF-2012-05-029. The views expressed in this paper are those of the 
+authors and not necessarily those of NIHR  or the UK Department of Health.  
+Author order represents extent of contribution.  
+ 
+References 
+Abraham, C., & Kools, M. (2012). Writing health communication: an evidence-based guide.  
+London: SAGE. 
+Abraham, C., & Michie, S. (2008). A taxonomy of behaviour change techniques used in 
+interventions. Health Psychology, 27 , 379–387. doi:10.1037/0278- 6133.27.3.379 
+Albarracín, D., Gillette, J. C., Earl, A. N., Gl asman, L. R., Durantini, M. R., & Ho, M. H. 
+(2005). A test of major assumptions about behavior change: A co mprehensive look at 
+the effects of passive and active HIV-preven tion interventions since the beginning of 
+the epidemic. Psychological Bulletin, 131 , 856–897. http://doi.org/10.1037/0033-
+2909.131.6.856 
+Allender, S., Peto, V., Scarborough, P ., Boxer, A., & Rayner, M. (2006). Coronary heart 
+disease statistics.  London, UK: British  Heart Foundation. 
+Arem, H., & Irwin, M. (2011). A review of web-based weight loss interventions in adults. 
+Obesity Reviews, 12 , e236–243. http://doi.org/10.1111/j.1467-789X.2010.00787.x 
+Blaine, B. E., Rodman, J., & Newman, J. M. (2007). Weight loss treatment and psychological 
+well-being: a review and meta-analysis. Journal of Health Psychology , 12, 66–82. 
+http://doi.org/10.1177/1359105307071741     
+Borenstein, M., Hedges, L. V., Higgins, J. P. T., & Rothstein, H. R. (2009). Introduction to 
+Meta-Analysis (1 edition). Chichester, U.K: John Wiley & Sons. 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+25 
+ 
+Busch, A. M., Whited, M. C., Appelhans, B. M., Schneider, K. L., Waring, M. E., DeBiasse, 
+M. A., … Pagoto, S. L. (2013). Reliable ch ange in depression  during behavioral 
+weight loss treatment among wo men with major depression. Obesity , 21, e211–218. 
+http://doi.org/10.1002/oby.20113  
+Butland, B., Jebb, S., Kopelman, P., McPherson, K., Thomas, S., Mardell, J., & Parry, V. 
+(2007). Foresight: Tackling obesities: Fu ture choices – Project report  (2nd ed.). 
+London, UK: Government Office for Science. 
+Dansinger, M., Tatsioni, A., Wong, J., Chung, M., & Balk, E. (2007). Meta-analysis: The 
+effect of dietary counselling for weight loss. Annals of Internal Medicine, 147 , 41–50. 
+doi:10.7326/0003-4819-147-1-200707030-00007 
+Department of Health (2013). Reducing obesi ty and improving diet - Policy - GOV.UK. 
+(n.d.). Retrieved from https://www.gov.uk/gove rnment/policies/reducing-obesity-and-
+improving-diet 
+Eysenbach, G. (2005). The Law of Attrition. Journal of Medical Internet Research, 7 , e11. 
+http://doi.org/10.2196/jmir.7.1.e11 
+Finucane, M. M., Stevens, G. A., Cowan, M. J., Danaei, G., Lin, J. K., Paciorek, C. J., … 
+Ezzati, M. (2011). National, regional, a nd global trends in body-mass index since 
+1980: systematic analysis of health examin ation surveys and epidemiological studies 
+with 960 country-years and 9·1 million participants. The Lancet, 377 , 557–567. 
+doi:10.1016/S0140-6736(10)62037-5 
+Flegal, K. M., Carroll, M. D., Ogden, C. L., & Curtin, L. R. (2010). Prevalence and trends in 
+obesity among US adults, 1999-2008. JAMA, 303 , 235–241. 
+http://doi.org/10.1001/jama.2009.2014 
+Greaves, C. J., Sheppard, K. E., Abraham, C ., Hardeman, W., Roden, M., Evans, P. H., … 
+(2011). Systematic review of reviews of intervention components associated with 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+26 
+ 
+increased effectiveness in dietary and physical activity interventions. BMC Public 
+Health , 11, 119. doi:10.1186/1471-2458-11-119 
+Gwet, K. (2002). Inter-rater re liability: dependency on tr ait prevalence and marginal 
+homogeneity. Statistical Methods for Inter-Ra ter Reliability Assessment Series , 2, 1-9. 
+Harris, J., Felix, L., Miners, A., Murray, E., Michie, S., Ferguson, E., … Edwards, P. (2011). 
+Adaptive E-Learning to Improve Dietary Be haviour: A Systematic Review and Cost-
+Effectiveness Analysis . NIHR Journals Library. 
+Hartmann-Boyce, J., Jebb, S. A., Fletcher, B. R., & Aveyard, P. (2015). Self-help for weight 
+loss in overweight and obese adults: sy stematic review and meta-analysis. American 
+Journal of Public Health , 105, e43–57. http://doi.org/10.2105/AJPH.2014.302389 
+Health and Social Care Information Centre ( 2015) Statistics on Obes ity, Physical Activity 
+and Diet. Retrieved from HSCIC: 
+http://www.hscic.gov.uk/catalogue/PUB16988/obes-phys-acti-diet-eng-2015.pdf 
+Higgins, J. P. T., Altman, D. G., Gøtzsche, P. C., Jüni, P., Moher, D., Oxman, A. D., … 
+Sterne, J. A. C. (2011). The Cochrane Collabora tion’s tool for assessi ng risk of bias in 
+randomised trials. BMJ, 343 , d5928. http://doi.org/10.1136/bmj.d5928 
+Higgins, J. P. T., & Green, S. (Eds.). (2011). Cochrane Handbook for Systematic Reviews of 
+Interventions (2 edition). Wiley. 
+Hutchesson, M. J., Rollo, M. E., Krukowski, R., Ells, L., Harvey, J., Morgan, P. J., Callister, 
+R., Plotnikoff, R., Collins, C. E. (2015). eHealth interventions for the prevention and treatment of overweight and obesi ty in adults: a systematic review with meta-analysis. 
+Obes Rev, 16, 376–392. doi:10.1111/obr.12268 
+Jensen, M. D., Ryan, D. H., Apovian, C. M., Ar d, J. D., Comuzzie, A. G., Donato, K. A., … 
+Yanovski, S. Z. (2014). 2013 AHA/ACC/TOS Guideline for the Management of 
+Overweight and Obesity in Adults A Report of the American College of 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+27 
+ 
+Cardiology/American Heart Association Task Force on Practice Guidelines and The 
+Obesity Society. Circulation , 129, S102–S138. 
+http://doi.org/10.1161/01.cir.0000437739.71477.ee 
+Katan, M. B. (2009). Weight-loss diets for the prevention and treatment of obesity. New 
+England Journal of Medicine, 360 , 923–925. doi:10.1056/NEJMe0810291 
+Kessler, D. A. (2009). The End of Overeating: Taking Control of the Insatiable American 
+Appetite. New York, NY: Rodale. 
+Lasikiewicz, N., Myrissa, K., Hoyland, A., & Lawton, C. L. ( 2014). Psychological benefits of 
+weight loss following behavioural and/or dietary weight loss interventions. A 
+systematic research review. Appetite , 72, 123–137. 
+http://doi.org/10.1016/j.appet.2013.09.017 
+Leeman, J., Sommers, J., Vu, M., Jernigan, J., Payne, G., Thompson, D., … Ammerman, A. 
+(2012). An evaluation framework for obes ity prevention policy interventions. 
+Preventing Chronic Disease , 9, E120. PMID: 22742594 
+Manzoni, G. M., Pagnini, F., Corti, S., Mo linari, E., & Castelnuovo, G. (2011). Internet-
+based behavioral interventions for obesity: An updated systematic review. Clinical 
+Practice and Epidemiology in Mental Health, 7 , 19–28. 
+http://doi.org/10.2174/1745017901107010019 
+McEwan, D., Harden, S. M., Zumbo, B. D., Sylves ter, B. D., Kaulius, M., Ruissen, G. R., … 
+Beauchamp, M. R. (2016). The effectiv eness of multi-component goal setting 
+interventions for changing phys ical activity behaviour: a systematic review and meta-
+analysis. Health Psychology Review, 10 , 67–88. 
+http://doi.org/10.1080/17437199.2015.1104258  
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+28 
+ 
+Michie, S., Abraham, C., Whittington, C., Mc Ateer, J., & Gupta, S. (2009). Effective 
+techniques in healthy eating and physical activity intervention s: a meta-regression. 
+Health Psychology, 28 , 690–701. http://doi.org/10.1037/a0016136 
+Neve, M. J., Collins, C. E., & Morgan, P. J. (2010). Dropout, Nonusage Attrition, and 
+Pretreatment Predictors of Nonusage Attr ition in a Commercial  Web-Based Weight 
+Loss Program. Journal of Medical Internet Research , 12, e69. 
+http://doi.org/10.2196/jmir.1640  
+NICE (2014). Obesity: identification, assessmen t and management of overweight and obesity 
+in children, young people and a dults. Retrieved from NICE: 
+http://www.nice.org.uk/guidance/cg 189/chapter/1- recommendations. 
+Reed, V. A., Schifferdecker, K. E., Rezaee, M. E., O’Connor, S., & Larson, R. J. (2012). The 
+effect of computers for weight loss: a systematic review and meta-analysis of 
+randomized trials. Journal of General Internal Medicine , 27, 99–108. 
+http://doi.org/10.1007/s11606-011-1803-9 
+Tang, J., Abraham, C., Greaves, C., & Yates, T. (2014). Self-directed interventions to 
+promote weight loss: A system atic review of reviews. Journal of Medical Internet 
+Research, 16 , e58. doi:10.2196/jmir.2857 
+Turk, M. W., Yang, K., Hravnak, M., Sereika, S.  M., Ewing, L. J., & Burke, L. E. (2009). 
+Randomized clinical trials of weight loss maintenance: a review. The Journal of 
+Cardiovascular Nursing , 24, 58–80. 
+http://doi.org/10.1097/01.JCN.0000317471.58048.32  
+Whitlock, G., Lewington, S., Sherliker, P., Clarke, R., Emberson, J., Halsey, J., & Peto, R. 
+(2009). Body-mass-index and cause-sp ecific mortality in 900000 adults: 
+Collaborative analyses of 57 prospective studies. The Lancet, 373 , 1083–1096. 
+doi:10.1016/S0140-6736(09)60318-4 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+29 
+ 
+WHO | Obesity and overweight. (n.d.). Retrieved December 17, 2014, from 
+http://www.who.int/mediacentre/factsheets/fs311/en/ 
+Wieland, L. S., Falzon, L., Sciamanna, C. N., Trudeau, K. J., Brodney, S., Schwartz, J. E., & 
+Davidson, K. W. (2012). Interactive compute r-based interventions for weight loss or 
+weight maintenance in overweight or obese people. Cochrane Database of Systematic 
+Reviews , 8:CD007675. doi:10.1002/14651858.CD007675.pub2. 
+ 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+30 
+ 
+ 
+  
+   
+       
+ 
+          
+Figure 1. 
+  Records identified through 
+database searching  
+(n=5226) Screening Included Eligibility IdentificationAdditional records identified 
+through other sources  
+(n=3) 
+Records after duplicates were 
+removed 
+(n=3884 )
+Records screened 
+(n=3884) Records excluded 
+(n=3685) 
+Full-text articles 
+assessed for 
+eligibility 
+(n=199)  
+Hand search 
+(199+33) 
+Total (n=232) Full-text articles excluded, 
+reasons below ( n=205) 
+•Participants with medical conditions (15) 
+•Study design (17) 
+•No weight loss 
+outcome measures 
+(13) 
+•Not primarily self-directed or no interactive components (81) 
+•No control group (71) 
+•Missing data (5) 
+•Superseded (3)   
+Articles included in 
+quantitative synthesis
+(n=27) 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+31 
+ 
+ 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+
+32 
+ 
+Figure 2.  
+ 
+ 
+Downloaded by [2.124.227.49] at 11:47 19 April 2016 
+

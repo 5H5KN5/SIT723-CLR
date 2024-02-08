@@ -1,0 +1,1169 @@
+RESEARCH Open Access
+Evaluating the QUIT-PRIMO clinical practice
+ePortal to increase smoker engagement
+with online cessation interventions: a
+national hybrid type 2 implementation study
+Thomas K. Houston1,2,3*, Rajani S. Sadasivam3, Jeroan J. Allison3, Arlene S. Ash3, Midge N. Ray4, Thomas M. English3,
+Timothy P. Hogan1,2,3and Daniel E. Ford4
+Abstract
+Background: Effective web-assisted tobacco interventions (WATIs) have been underutilized by smokers; moreover,
+despite practice guideline recommendations, clinical teams do not routinely refer smokers to WATIs. Our goal was to
+test a clinical practice innovation, an ePortal designed to change practice and patient behavior. Our hypotheses were
+that the integrated system would result in increased smoker referrals, with an automated follow-up system resulting in
+more smoker registrations and finally augmentations of the WATI would result in more smokers quitting at 6 months.
+Methods: Practice ePortal Implementation Trial : Practices ( n= 174) were randomized to an online practice ePortal with
+an “e-referral tool ”to the WATI (e-referred smokers received automated email reminders from the practice) and with
+practice feedback reports with patient tracking and practice-to-patient secure messaging versus comparison (a paper
+“referral prescription ”). Implementation success was measured by the number of smokers referred and smokers
+registering.
+Clinical Effectiveness Trial : To estimate the effectiveness of the WATI components on 6-month smoking cessation,
+registered smokers were randomized into three groups: a state-of-the-art tailored WATI control [control], the WATI
+enhanced with proactive, pushed tailored email motivational messaging (messaging), and the WATI with messaging
+further enhanced with personal secure messaging with a tobacco treatment specialist and an online support group
+(personalized).
+Results: Practice ePortal Trial results : A total of 4789 smokers were referred. The mean smokers referred per practice was
+not statistically different by group (ePortal 24.89 (SD 22.29) versus comparison 30.15 (SD 25.45), p= 0.15). The e-referral
+portal implementation program resulted in nearly triple t he rate of smoker registration (31 % of all smokers referred
+registered online) versus comparison (11 %, p< 0.001).
+Clinical Effectiveness Trial results : Active smokers randomized to the personalized group had a 6-month cessation rate of
+25.2 %, compared with the messaging group (26.7 %) and the c ontrol (17 %). Next, when using an inverse probability
+weighted selection model to account for attrition, those randomized to the two groups that received motivational
+messaging (messaging or personalized) were mo re likely to quit than those in the control ( p= 0.04).
+(Continued on next page)
+* Correspondence: Thomas.Houston@umassmed.edu
+1VA eHealth Quality Enhancement Research Initiative and Center for
+Healthcare Organization and Implementation Research, Bedford VA Medical
+Center, Bedford, MA, USA
+2Division of Health Informatics and Implementation Science, Quantitative
+Health Sciences, University of Massachusetts Medical School, 55 Lake Avenue
+N, Worcester, MA, USA
+Full list of author information is available at the end of the articleImplementation
+Science
+© 2015 Houston et al. Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.Houston et al. Implementation Science  (2015) 10:154 
+DOI 10.1186/s13012-015-0336-8
+(Continued from previous page)
+Conclusions: Among all smokers referred, the e-referral resulted in nearly threefold greater registrants (31 %) than paper
+(11 %). The practice ePortal smokers receive d multiple reminders (increasing registr ation opportunities), and the practices
+could track patient progress. The result was more smokers regis tering and, thus, more cessati on opportunities. Combining
+the proactive referral and the WATI resulte d in higher rates of smoking cessation.
+Trial Registration: Web-delivered Provider Intervention for Tobacco Control (QUIT-PRIMO) - a randomized controlled trial:
+NCT00797628.
+Keywords: Smoking cessation, Web-assisted toba cco intervention, Implementation s cience, E-referrals, Public health
+informatics, Medical practice
+Introduction
+Clinical practices have embraced routine screening for to-
+bacco use, [1, 2] brief advice to quit is becoming universal,
+[3, 4] and pharmaceutical treatments are increasing. In
+addition to medications and nicotine replacement therapy,
+behavioral support for quitting is recommended, and clin-
+ical practice guidelines recommend practices that refer pa-
+tients to publicly available resources including telephone
+quit-lines and web-assisted tobacco interventions [5].
+However, clinicians infrequently refer smokers to publicly
+available resources including web-assisted tobacco inter-
+ventions (WATIs) [6, 7].
+Practice barriers to referral include limited time and
+competing demands, [8] lack of a champion, staff train-
+ing, as well as motivation [9]. Most WATIs have not
+been engineered to connect with clinical practices or
+provide post-referral feedback on their patients ’progress
+online. Innovative implementation trials are needed to
+demonstrate the effectiveness of integrated clinical and
+technology-assisted tobacco interventions [6, 10]. As de-
+fined by Curran et al., hybrid type 2 trials include dual
+testing of the implementation (practice ePortal interven-
+tion) and the clinical intervention (the WATI in this
+study) [11]. These hybrid implementation-effectiveness
+studies are appropriate (1) when there has been gather-
+ing evidence for clinical efficacy (creating “implementa-
+tion momentum ”), but further detailed effectiveness
+evidence is needed, and (2) when an implementation
+strategy addressing barriers to implementing the clinical
+intervention (the WATI) has not been fully tested in a
+real-world practice setting.
+Questions remain about how to best help clinical prac-
+tices help their smokers avail themselves of technology-
+assisted interventions, such as WATIs. Paper-referral
+“information prescriptions, ”brochures with information
+about web services, have been recommended to encour-
+age patients to use online resources such as Medline
+Plus [12] with limited evidence to support implementa-
+tion. These information prescription brochures are a
+relatively passive form of recruitment and may be for-
+gotten when the patient returns to their home. Our prior
+work [13, 14] has demonstrated the potential of anePortal with an e-referral tool that creates automated re-
+minders to patients, sent by email, with personal advice
+from their physician encouraging use of the WATI.
+These “e-referrals ”represent a more active referral, a
+sort of warm handoff of the smoker from the clinical
+practice to the automated WATI. The ePortal innovation
+also includes tools designed to provide positive feedback
+to practices —practices can track registration and cessa-
+tion progress of their patients and send individual
+doctor-to-patient secure messages to encourage partici-
+pation. In pilot tests, clinical practices ( n= 6) assisted in
+improving the portal interface [9]. The providers liked
+the simplicity and ease of the referral process, including
+the system that automatically emailed patients to remind
+them to visit the site. The providers were enthusiastic
+about the practice reports, expressing that the nation-
+wide comparison of referrals per practice and the track-
+ing of their patient panel could serve as motivation to
+improve. The providers were enthusiastic about the po-
+tential of secure messaging to engage patients in their
+own care but provided several recommendations for im-
+provement and noted potential barriers and facilitators
+(Table 1). However, testing the ePortal concept in a large
+implementation trial has not yet been reported.
+Currently, the public health potential impact of the
+W A T I sh a sn o tb e e nr e c o g n i z e dd u et ol i m i t e dp a r -
+ticipation by smokers, [15] in part related to the chal-
+lenges of clinical practice implementation of referrals
+and integration of the WATI in clinical care. We de-
+signed an implementation program to support ePortal
+implementation in clinical practices. Although chal-
+lenging, trials ’testing implementation success and
+clinical effectiveness are increasingly valued in imple-
+mentation science as many of our clinical interven-
+tions are both guidelines recommended and in need
+of further effectiveness data. Thus, in the “Quality
+Improvement in Tobacco-Provider Referrals and
+Internet-Delivered Microsystem Optimization (QUIT-
+PRIMO) ”trial [14, 16], we randomized 174 US
+community-based primary care practices and now re-
+port the implementation success of the ePortal at the
+practice level and the subsequent effect of the WATIHouston et al. Implementation Science  (2015) 10:154 Page 2 of 16
+on 6-month point prevalence abstinence at the
+patient level.
+As conceptualized, the integrated intervention is de-
+signed to have a sequence of effects on the process of
+care within each clinic, with the potential to influence
+provider behavior (nurses a nd physicians), processes
+of care, and patient behavior. Thus, we have designed
+our main evaluation to assess key areas of influence,
+which we have abbreviated as Refer-Go-Quit. At the
+practice level, we hypothesize that more patients will
+be referred with the ePortal (hypothesis 1: Refer) and
+that the proportion of referred patients who go to the
+WATI due to the ePortal will be greater compared
+with a paper-referral control (hypothesis 2: Go).
+Among the patients registered, the proportion of
+smokers who quit at 6 months will be greater among
+those in an augmented WATI, compared with a
+standard interactive WATI (hypothesis 3). As de-
+scribed, we augmented a standard WATI with pro-
+active motivational messages (messaging arm) and
+with personalized access to a tobacco treatment spe-
+cialist and online support group (personalized arm).
+Below, we detail the methods of the practice-level im-
+plementation study (trial 1) and the patient-level be-
+havior change intervention (trial 2).Methods
+We conducted a hybrid type 2 implementation randomized
+trial (ClinicalTrials.gov #NCT00797628) with two levels of
+randomization. Effectiveness evidence for the WATI is in-
+creasing [11, 14 –16]. Common tools for smokers include
+tailored motivational materials and interactive decision aids,
+assessing perceived barriers and benefits and providing
+feedback. Although referral to the WATI is recommended
+in the current practice guidelines for smoking cessation,
+more clinical effectiveness d ata is needed, especially com-
+paring individual components of effective interventions. A
+recent Cochrane review of WATIs found considerable het-
+erogeneity of effect. We specifically are measuring both the
+relative implementation succes s of two practice-level imple-
+mentation strategies (a paper referral versus a practice por-
+tal with e-referral) and the comparative effectiveness of
+varying intensities of the patient WATI [17]. The trial
+protocol was published in Implementation Science ,a n d
+pilot testing of the ePortal has also been published [14, 16].
+In overview, we first randomized 174 community-
+based practices; half of the practices (the comparison)
+implemented paper referrals to encourage patient WATI
+use, and the other half (the practice intervention) used
+an innovative online practice ePortal with an “e-referral
+tool”to the WATI (e-referred smokers received emailsTable 1 Implementation facilitators and barriers, with resolution to barriers
+Identified barriers and facilitators to implementation
+Issue Barrier Facilitator Resolution
+Ease of system use X
+Perceived potential to affect care X
+Difficulty contacting the practice and
+lack of study championX Each practice was requested to identify two staff members to serve as implementation
+coordinators to be the primary contacts for the practice and would work with our study
+personnel
+Lack of training and registration
+difficultiesX Created a proactive helpdesk to enhance our study personnel ’s availability for technical
+assistance.
+Provide training to implementation coordinators in the referral intervention and act as
+trainers for other staff
+Supported the referral process throughout the six months.
+Lack of motivation and start-up
+incentivesX Increased both extrinsic (E) and intrinsic (I) motivation
+Financial incentive for participation in initial training session (E)
+Motivational interviewing into each interaction (I)
+Forgetting to refer X Called implementation coordinators to aid them in the registration process and answer
+questions
+Training calls included experiential hands-on practice with referrals (using simulated “test ”
+patients).
+Increased work-flow support (see helpdesk)
+Included the printed information prescription pads to use simultaneously with online
+referral
+Developed posters to serve as visual stimulation to use the system and to encourage
+patients to talk with their provider about quitting
+Provided a 1-page instruction sheet outlining the steps for referring patients were sent
+to practicesHouston et al. Implementation Science  (2015) 10:154 Page 3 of 16
+encouraging them to register). To test the comparative
+effectiveness of WATI features, we then randomized the
+registered smokers to receive standard or enhanced fea-
+tures (Fig. 1). In addition to the screenshots of the inter-
+ventions included in the Additional files, we have also
+provided brief mpeg movies as Additional files 2 and 4
+so that readers can best understand the practice and pa-
+tient web systems. To best appreciate the facets of the
+two trials, we report the methods of the practice imple-
+mentation trial and analyses and the patient effectiveness
+trial and analyses separately and follow with the results.
+Trial 1: clinical practice ePortal implementation
+methods
+As discussed, the primary research aim for trial 1 was to
+measure rates of smoker referral and rates of smoker
+registration, comparing the ePortal and paper-referralimplementation strategies. We hypothesize that more
+patients will be referred with the ePortal (hypothesis 1:
+Refer) and that the proportion of referred patients who
+go to the WATI due to the ePortal will be greater com-
+pared with a paper-referral control (hypothesis 2: Go).
+Practice randomization began in June 2011. Practices
+were randomized at the practice level to paper referral
+or to the practice ePortal with e-referrals. Allocation was
+generated from a prepared randomization table (a
+randomization table with blocks of 10) and was auto-
+mated by the system during the registration of the first
+provider at the practice. All others who registered from
+that practice were then randomized to the same arm
+(paper or e-referrals). We followed practices for
+6 months from their initial contact. The study was ap-
+proved by the Institutional Review Board, and the proto-
+col was overseen by a data safety and monitoring board.
+Fig. 1 Practice ePortal (trial 1) and clinical effectiveness (trial 2) Randomization FlowHouston et al. Implementation Science  (2015) 10:154 Page 4 of 16
+Setting (clinical practices)
+Community-based (non-university) US general, family,
+or internal medicine practices were eligible. We used a
+mailing list of practices and recruited until we achieved
+174 practices. Practices implementing the paper- or e-
+referral implementation strategies chose which smokers
+to refer. During training, the practices were encouraged
+to refer smokers regardless of whether they were ready
+to quit smoking. All smokers in these practices were eli-
+gible for referral. Using intent to treat, all active smokers
+who registered (including online consent procedure)
+were included in a 6-month follow-up, regardless of the
+level of activity on the WATI.
+Practice-level comparison versus ePortal practice
+intervention
+Paper referrals
+Paper-referral practices were provided preprinted pads
+of“information prescriptions ”with their office informa-
+tion, a space for the provider to sign, and the WATI for
+smokers website address (www.decide2quit.org [D2Q])
+[16]. The paper referrals were provided to patients dur-
+ing their visit.
+Practice intervention: practice ePortal with e-referrals,
+feedback, patient tracking, and messaging
+Practices in the ePortal arm were also provided the
+paper “information prescriptions ”to facilitate conver-
+sations with patients, but further had access to our
+practice ePortal (see screenshots in Additional file 1
+and accompanying video, Additional file 2 —entitled
+“ReferaSmoker.org ”). The core feature of the practice
+portal was a secure user-friendly form where pro-
+viders could refer smokers to D2Q by entering their
+email addresses [9, 16, 18]. The e-referral created an
+identity link (patient email) with D2Q, to send re-
+minders of the referral, and also created a practice
+link, connecting patient and practice. After e-referral,
+the smokers received up to 10 reminder emails en-
+couraging D2Q registration. Within the practice e-
+referral portal, the practice link allowed us to provide
+clinical practices with real-time dashboard monitoring
+about their practice ’ss m o k e r s ’registration and pro-
+gress in the WATI. Each time a registered smoker
+logged in, the WATI collected the smokers ’quit sta-
+tus which was then fed back to the clinical practice
+dashboard. Through the ePortal, practices could also
+send additional personalized motivational messages to
+their patients. The practice ePortal also provided each
+practice with performance feedback reports, compar-
+ing the number of referrals in their practices with all
+participating e-referring practices.Implementation facilitation in both comparison and
+intervention practices
+Published in detail elsewhere, [14] a facilitation-based
+program, guided by the Promoting Action on Research
+Implementation in Health Services (PARIHS) frame-
+work, was instituted to support implementation referrals
+in both the paper and practice portal arms. PARIHS pro-
+vides a conceptual framework that incorporates various
+influences that interact within implementation. When
+used as a guiding framework, PARIHS can highlight im-
+portant evidence and contextual factors that may influ-
+ence an implementation effort and can inform the
+development of a suitable facilitation-based implementa-
+tion strategy.
+Our facilitation program included individualized tele-
+phone/Internet trainings using an academic detailing ap-
+proach. In our pilot test, staff turnover was identified as
+a challenge to sustained implementation, so each prac-
+tice was asked to identify two implementation coordina-
+tors (physicians, nurses, or other staff). These two
+implementation coordinators acted as points of contact
+and champions. They were trained in the referral inter-
+vention and acted as train-the-trainers providing infor-
+mation to the rest of the practice and encouraging
+adoption. Training was tailored to randomization arm
+(with paper-referral practices being trained on the paper
+referral only and provided an overview of the Decide2-
+Quit.org WATI). For clinical teams randomized to the
+practice portal, training included hands-on demonstra-
+tions of the ReferASmoker.org website, including initial
+registration, practice e-referring a “test”smoker, and ex-
+ploring Decide2Quit.org. As reminders, for both arms, a
+series of four motivational booster emails were sent over
+a 6-week period. For ongoing facilitation, our study team
+completed a total of six proactive booster facilitation
+calls (approximately 15 –30 min) assessing perceived bar-
+riers, strategizing solutions, and reinforcing success.
+Table 1 outlines our changes based on our feedback to
+facilitate the implementation of the referral.
+Our implementation was designed to have several
+pragmatic aspects [19] including that we provided a brief
+one-time practice facilitation training online about refer-
+ral procedures for all practices (both paper and e-
+referrals), encouraged referrals through motivational
+follow-up calls, but did not conduct in-person detailing,
+nor did we incentivize practices for each referral. Each
+practice was allowed to consider how to best integrate
+the referrals into their workflow, [14] allowing variation
+in implementation fidelity. Consistent with the goals of
+an implementation science study, we did not have strict
+guidelines on who to refer or the number of referrals re-
+quired of practices, nor did we provide referrals incen-
+tives. The practices were told that the web-assisted
+tobacco intervention had content for all smokers,Houston et al. Implementation Science  (2015) 10:154 Page 5 of 16
+regardless of their readiness to quit. We provided them
+the system and training, but the adoption and use of the
+system was left to them. Thus, we anticipated and mea-
+sured variation in implementation success.
+Trial 1 (implementation) statistical analyses
+Baseline practice characteristics were collected through
+a paper survey as part of the recruitment process.
+Among the e-referral practices, we measured the use of
+the components of the portal (referrals, patient secure
+messaging, practice feedback). For both comparison and
+intervention practices, we monitored rates of referral
+and patient registration.
+Practice ePortal and e-referral system use data which
+was collected by the web server as activity logs linked to
+each individual practice. Self-report referral data was
+also collected for all paper- and e-referral practices
+during follow-up booster calls. Additionally, referral data
+for the e-referral practices was also tracked online (self-
+report and web-tracked referral rates were highly corre-
+lated (coefficient = 0.7)). To avoid bias from differential
+measurement, self-report of referral was used as the
+primary measure across both groups. For practice-level
+implementation success analyses, our outcomes were the
+number of reported referrals per practice and the num-
+ber and proportion of referred patients who registered
+per practice. We analyzed using both ttest and negative
+binomial models as appropriate for count data with
+over-dispersion.
+Trial 2: clinical effectiveness of the web-assisted
+tobacco intervention
+Patients from both paper-referral and e-referral prac-
+tices had access to the D2Q WATI registration. D2Q
+was designed with separate modules, allowing patient-
+level randomization. Once patients (from all practices)
+registered and completed an online consent form, the
+WATI system automatically randomized them to
+three levels of the WATI. A randomization table,
+block randomized with blocks of 10, was pre-
+populated, and the system used this table to assign
+different features of the WATI to different smokers.
+As technology-assisted interventions are often multi-
+component and evolve over time, and fractional fac-
+torial designs like ours are increasingly used to assess
+the effect of various components [20 –22]. These
+designs are more efficient than full factorial designs.
+As all smokers received some level of WATI, they
+were blinded to the assignment group. Investigative
+team members involved in 6-month smoking cessa-
+tion outcomes (7-day point prevalence measure) were
+blinded to randomization assignment.Patient sample
+Inclusion criteria included being an active smoker,
+having been referred from a paper-referral or e-
+referral practice, and completing consent procedure.
+An active smoker was defined as smoking at least
+o n ep u f fo fac i g a r e t t eo rc i g a ri nt h el a s t7d a y s .W e
+included smokers regardless of whether they were
+ready to quit or not yet ready. All active smokers 18
+and over were included. As we did not require a cer-
+tain level of participation, all smokers randomized
+were considered for intent-to-treat analyses.
+Intervention: Decide2Quit.org web-assisted tobacco
+modules
+The D2Q WATI was designed for all smokers, sup-
+porting cessation-induction for those not ready to
+quit and acting as an aid-to-cessation for those pre-
+paring to quit [16]. D2Q was implemented as an
+adaptable service with modules that could be engaged
+based on assigned group. Thus, within practices, indi-
+vidual smokers were allocated, using our online sys-
+tem and a block-randomization table similar to the
+p r a c t i c el e v e lt oo n eo ft h et h r e ei n c r e a s i n g l y
+enhanced versions of D2Q. The smokers completed
+an online consent form prior to randomization. The
+interventions received by the three randomized
+groups of smokers are described below.
+The control
+The smokers randomized to the active control re-
+ceived an interactive, tailored quit smoking website .
+This module included motivational information tai-
+lored to readiness to quit (not thinking of quitting,
+thinking of quitting, preparing to quit) and interactive
+risk, decisional balance, and cessation barrier calcula-
+tors and games linking the chemicals in smoking with
+their other uses (e.g., formaldehyde is used in both
+cigarettes and in embalming). The control also in-
+cluded a library of informational resources about
+smoking and sections on seeking social support and
+talking to your doctor about quitting (see screenshots
+in Additional file 3, and accompanying video,
+Additional file 4). These tools are variations of those
+in many previously studied evidence-based WATI. As
+noted in the Cochrane review, WATIs that include
+tailored content are more likely to demonstrate an
+effect [17]. Thus, ours is an active control represent-
+ing the state of the art in public health websites.
+The messaging group: pushed motivational email messages
+module plus control module
+For this group, we enhanced the control with a pushed
+motivational email messaging system. Brief motivational
+email messages (Additional file 5) were further tailoredHouston et al. Implementation Science  (2015) 10:154 Page 6 of 16
+to an individual smoker ’s readiness to quit (not ready to
+quit, thinking about quitting, preparing to quit, actively
+quitting). In the first week of registration, four email
+messages were sent to the smoker, followed thereafter by
+two email messages per week. To enhance the personal
+relevance of the messages, our motivational email mes-
+saging system included messages written by smokers for
+other smokers [23].
+Personalized group: personal support module, messages
+module, and control module
+In addition to the above functions, the personal support
+module further included the following: (1) an innovative
+secure messaging portal allowing asynchronous elec-
+tronic communication between smokers and trained to-
+bacco treatment specialists (TTS) hired to participate in
+the intervention team and (2) a link to an online support
+group (BecomeAnEx.org).
+Although trained at two training centers, all TTS were
+trained for the following: determinants of nicotine de-
+pendence; pharmacotherapy; counseling theory and
+practice, including motivational interviewing, treatment
+strategies, substance abuse, and mental health disorders;
+and intake and treatment planning. Each TTS was re-
+quired to pass a TTS exam as completion of the course.
+All TTS met weekly prior to recruitment of the first par-
+ticipants, and the meetings continued for several weeks
+into the study. During these meetings, the TTS reviewed
+the principles of motivational interviewing. Once re-
+cruitment began, the TTS met to discuss any thoughts,
+issues, or challenges in expressing Motivational Inter-
+viewing skills via asynchronous secure messaging.
+Asynchronous communication between patients and
+TTS began with a message sent by the patient once they
+logged into the site. The TTS have access to a portal in
+which they checked daily for any assigned messages. The
+TTS created responses based on current guidelines and
+using Motivational Interviewing techniques [24]. Exam-
+ples include rolling with resistance, asking patients to
+identify barriers, evaluate self-efficacy, and determining
+level of addiction.
+One such example message sent and a reply corres-
+pondence is the following:
+Patient: Hi. My doctor said he wanted me to check
+out this website. I love smoking, but I know I should
+quit, but I ’m having trouble finding incentive. Can
+you help?
+Response: Hi. You ’ve made a great step in the right
+direction by logging in to the website. I know it can
+be challenging to begin to think about quitting. You
+mentioned having trouble finding incentives …..what
+about making finding incentives a first step/goal?Make a list of all the reasons you have to quit. Then
+I’m sure the motivation will follow. Also, you could
+think about what you think will be your biggest
+barriers to successfully quitting. Identifying what sorts
+of things keep us from quitting is the first step in
+overcoming them! Message me back and let me know
+what you think!
+Note that in our original protocol, we planned to
+randomize the smokers into two groups, the control and
+personalized. During the progress of this 5-year trial, evi-
+dence for web-assisted tobacco interventions continued
+to develop, especially regarding the importance of tai-
+lored messaging. Our study leadership recognized the
+importance of differentiating the messaging intervention
+and the personalized engagement with a tobacco treat-
+ment specialist online. Thus, the original control group
+was further randomly subdivided into the control
+website-only group and the messaging group (as de-
+scribed above). The reason for splitting the original
+groups into control, messaging and personalized
+groups, an augmentation of the original protocol, was
+that the literature on tailored messaging has contin-
+ued to evolve, and our team decided it would be ap-
+propriate to compare messaging to personalized and
+messaging to control.
+Patient characteristics and outcomes measurement
+The smoker characteristics and D2Q system use were
+collected online. At 6 months, a follow-up was con-
+ducted using both online and telephone surveys to col-
+lect a 6-month and 7-day point prevalence self-reported
+cessation.
+At the patient level, we hypothesized that the propor-
+tion of smokers who quit at 6 months would be greater
+among those in the fully enhanced “personalized ”group
+as compared with the messaging group and the standard
+control only. We also hypothesized that the proportion
+of smokers who quit at 6 months would be greater
+among those who received motivational messages (per-
+sonalized and messaging combined), compared with the
+control.
+Statistical analysis of a 6-month and 7-day point
+prevalent cessation
+Our analyses were framed around the hypotheses and
+used intent-to-treat principles. The smokers were ana-
+lyzed as randomized regardless of the level of engage-
+ment with the systems (fidelity of intervention). All
+analyses were conducted in the STATA statistical soft-
+ware package (StataCorp. 2011. Stata Statistical Software:
+Release 12. College Station, TX: StataCorp LP) with con-
+firmation in SAS (SAS software, Version [8] of the SAS
+System for Windows).Houston et al. Implementation Science  (2015) 10:154 Page 7 of 16
+For our primary clinical effectiveness outcome (6-
+month and 7-day point prevalence cessation), we com-
+pared those randomized to receive all enhanced features
+(personalized) with the messaging Group and then the
+control WATI. To analyze the effect of the messaging
+module, we compared the control with all those who re-
+ceived the messaging module (the messaging group and
+the personalized group combined).
+A challenge for all cessation-induction trials is missing
+outcome data [25 –27]. This is especially true in light-
+touch technology-assisted interventions. Most often, a
+complete case or missing case (penalized imputation) in-
+dicative of smoking analysis has been implemented in lo-
+gistic regression. However, the reason that we did not
+use penalized imputation as the primary outcome is that
+new literature has been published suggesting that penal-
+ized imputation (or missing = smoking) is not a conser-
+vative approach and can be biased toward the
+intervention [26]. Thus, for studies with missing cessa-
+tion data greater than 10 –20 %, experts recommend
+using selection models to examine the robustness of
+findings [25]. We compared the characteristics of the pa-
+tients who remained in the trial and those lost to follow-
+up (see Additional file 6). For our primary models, using
+a generalized linear model with a logit link to evaluate
+cessation outcomes and GEE methods to account for
+clustering within practices, we implemented a selection
+model using inverse probability weighting to determine
+the potential effect of the missing data. First, based on
+covariates available within the dataset, we developed a
+logistic regression model to predict the amount of miss-
+ing data. Then, we calculated the inverse probability of
+not being missing and weighted the main analysis by this
+probability [28]. Since the primary models each examine
+a hypothesis (and secondary completed cases and penal-
+ized imputation models are confirmatory and not ex-
+ploratory), we report each pvalue with no adjustment
+for the total number of tests conducted.
+Results
+Following the format of the “Methods ”section, we first
+present the practice (ePortal) implementation trial success
+(trial 1) and then the clinical effectiveness (Trial 2) of the
+WATI on 6-month 7-day point prevalent cessation.
+Trial 1: clinical practice ePortal implementation
+One thousand, seven hundred and forty-four primary care
+practices expressed interest in participating, and 174
+(10 %) fully completed enrollment and randomization.
+Those who participated were smaller (65.1 % solo practice
+versus 55.6 % in non-participating, chi-square p=0 . 0 2 )
+and somewhat more likely to report previous referrals of
+smokers to quit-lines (47.3 % in participating versus
+39.9 % in non-participating, chi-square p= 0.06) and morefrequently to report seeing over 20 smokers per week (71 %
+versus 65 %, chi-square p=0 . 1 ) .
+The 174 practices who participated were small (solo
+physician = 68 % in e-referral, 63 % in paper-referral)
+and saw a median of 40 smokers per week (Table 2).
+The volume of patients was balanced across e-referral
+and paper-referral practices. All practices had at least
+one staff trained; 67.8 % of the e-referral practices and
+72.4 % of the paper-referral practices had two; 8.1 % of
+e-referral practices and 4.6 % of paper-referral had an
+additional member of the practices trained. Of those
+trained, 17 % were physicians, 4 % nurse practitioners/
+physician assistants, 10 % nurses, and 69 % medical as-
+sistants or other office staff.
+Use of the ePortal in intervention practices
+Eighty-one of the eighty-seven practices randomized to
+e-referral referred at least one smoker. The total re-
+ported number of smokers e-referred within 6 months
+was 2166 (mean referrals per practice 24.89 (SD 22.29),
+range from 0 to 142 (interquartile range 8 –37)) (Fig. 2).
+In addition to the automated e-referral driven reminder
+emails by the system, physicians and office staff from
+slightly over half of e-referral practices (55 %, 48/87)
+used the ePortal to send personalized messages to their
+smokers after registration (among those using messa-
+ging, mean messages per practice = 8.7 (SD 15.7), range
+1t o8 8 ) .
+Among the 87 intervention practices, the mean num-
+ber of views of the practice feedback dashboard was 20.3
+([SD 22.7], range 1 to 130, median 12, interquartile
+range (IQR) 29.5). To estimate the impact of the practice
+feedback on referral behavior, we assessed the rates of e-
+referral stratified by the use of the practice feedback
+dashboard. E-referral practices that did not use the prac-
+tice feedback had a mean referral rate of 15 (SD 15)
+within 6 months, and those that viewed the practice
+feedback report between 1 and 10 times had a mean of
+21 referrals (SD 18), compared with those who viewed
+them over 10 times (mean 30 referrals [SD 25]) pfor
+trend across categories = 0.008.
+Comparing referrals and registrations by randomization
+(paper versus ePortal)
+Hypothesis 1 (Refer): Similar to ePortal practices, 82
+paper-referral practices had at least 1 referral, and paper-
+referral practices reported referring 2623 smokers (mean
+referrals per practice 30.15 [SD 25.45]) in 6 months (not
+statistically different compared with the ePortal [p =
+0.15 for the difference mean referrals] ). The range of
+paper-referrals was 0 to 150 (IQR 12 –42). While the total
+number of e-referrals was only 83 % as great as the num-
+ber of paper-referrals, this difference was again not signifi-
+cant based on a negative binomial count regression modelHouston et al. Implementation Science  (2015) 10:154 Page 8 of 16
+(incidence rate ratio = 0.83 (95 % confidence interval (CI)
+0.63, 1.08), p=0 . 1 7 ) .
+Hypothesis 2 (Go) —smoker registration : Among ePortal
+practices, the mean percent of referred smokers register-
+ing was 31 % (SD = 25), compared with 11 % (SD 15)
+from paper-referral practices ( p= 0.001), as shown in
+Fig. 2. The mean number registered per e-referred prac-
+tice was = 6.90 (SD = 8.65) versus 2.85 (SD = 3.45) from
+the paper-referrals ( p= 0.01). In further analyses using
+count regression, during the 6 months of follow-up,
+e-referred patients registered at 2.42 times the rate of
+patients referred with paper referrals (incident rate
+r a t i o = 2 . 4 2 ,9 5%C I :1 . 7 2 –3.40).
+Figure 3 is a scatterplot that has, on the horizontal ac-
+cess, the number of smokers referred by each practice
+and, on the vertical axis, the number of smokers regis-
+tered. Each practice is represented as a point (red for
+intervention, blue for control), with a super-imposed
+trend line. Although the dots are similarly distributed
+across the horizontal axis, there was considerable vari-
+ation overall in rates of referral. The trend lines show
+very clearly that you get more people registered per per-
+son referred with the ePortal intervention. Note thatthere were only two control practices that had over 10
+smokers register, whereas 22 ePortal practices had over
+10 smokers register.
+Trial 2: clinical effectiveness of the web-assisted
+tobacco intervention
+A total of 990 primary care patients registered, with 900
+reporting active smoking (see consort diagram —Fig. 4).
+Most were female (63 %), between 35 –55 years of age
+(50 %), and smoked 11 –20 cigarettes per day (Table 3),
+and these characteristics did not differ by randomization
+group.
+Use of the web-assisted tobacco intervention (Decide2-
+Quit.org) by smokers
+The number of return visits to the WATI differed by
+treatment condition and was highest in the personalized
+group (mean visits 2.52 (SD = 4.09), median 1, IQR 2),
+followed by the messaging group (1.81 (SD = 1.26), me-
+dian 1, IQR 1), and followed by the control “state-of-the
+art WATI ”(mean 1.71 (SD = 1.14), median 1, IQR 2)
+(control versus messaging, p= 0.37; control versus per-
+sonalized, p< 0.001; trend across groups, p< 0.001). In
+the personalized group, the smokers had access to a to-
+bacco treatment specialist and online peer support
+group; 33.64 % ( N=147) of smokers used the asynchron-
+ous tobacco treatment specialist messaging (mean
+2.31 messages (SD = 4.29), median 1, IQR 1), and
+21.74 % ( N= 95) used the online peer support group
+(mean 1.78 visits (SD = 1.52), median 1, IQR 1).
+Six-month and seven-day point prevalence smoking ces-
+sation (patient hypotheses)
+Of the 900 active smokers, 14 % declined follow-up, and
+34 % could not be contacted (Fig. 4). Smoking cessation
+(Tables 4) was higher (25 % cessation in completed
+cases) among those in the fully enhanced (personalized)
+compared to those randomized to standard functions
+(control) (17 %) ( p= 0.06), although this is not statisti-
+cally significant. The personalized group had a similar
+rate of cessation to those in the messaging group (25.23
+versus 26.73 %), which was not significantly different.
+Using the selection model (Table 4), the smokers in the
+enhanced groups who received pushed motivational mes-
+sages (personalized and messaging) were more likely to quit
+(odds ratio 1.69 (95 % CI 1.03 –2.8) p=0 . 0 3 8 )a sc o m p a r e d
+with the control-without-messages group. In secondary
+analysis with all those lost to follow-up assigned to missing,
+we again found a similar result (odds ratio 1.732, (95 % CI
+1.08–2.77) p= 0.022) . When comparing across the three
+modeling techniques, note that there was no meaningful
+nor significant difference comparing the messaging group
+to the personalized group, all comparisons of personalized
+versus control did not reach p=0 . 0 5 ( pvalue range 0.063Table 2 Trial 1: comparing paper-referral and ePortal practice
+implementation, characteristics of 174 community-based
+practices
+E-referral ( N= 87) Paper-referral
+(N= 87)
+N % N %
+Type
+Internal medicine 36 41.4 44 51.2
+Family medicine 50 57.5 39 45.3
+General practice 1 1.1 3 3.5
+Number of physicians
+1 59 68.6 54 62.8
+2 15 17.4 23 26.7
+3 or more 12 14.0 9 10.5
+Region of country
+Northern East 21 24.1 21 24.1
+South 32 36.8 36 41.4
+Middle West 16 18.4 19 21.8
+West 18 20.7 11 12.6
+E-referral Paper-referral
+N Median (IQR) N Median (IQR)
+Number of patient visits/week 84 123 (100 –188) 87 120 (90 –160)
+Number of smokers/week 87 40.0 (20 –60) 87 40.0 (20 –50)
+Number of computers 84 5.1 (4 –9) 85 4.1 (3 –7)
+Ns vary between 84 and 87 due to the small amount of missing baseline data
+for some variables. All characteristics are not significantly different ( p> 0.05),
+comparing e-referral and paper-referral practicesHouston et al. Implementation Science  (2015) 10:154 Page 9 of 16
+to 0.072, with odds ratios from 1.578 to 1.660), and all com-
+parisons of those receiving messages did reach significance
+(pvalue range from 0.021 to 0.038 and odds ratios 1.688 =
+1.732).
+In this trial, we recruited all active smokers, including
+those in the motivation phase (not ready to quit, think-
+ing about quitting), and precessation phase (preparing to
+quit, set a quit date). In stratified analyses, the motiv-
+ational messages were similarly effective among those in
+the motivation phase (6-month cessation 23 versus 15 %
+control; odds ratio 1.616, 95 % CI 0.91 –2.87) and those
+who already quit (37 versus 24 % control; odds ratio
+1.932, 95 % CI 0.59 –6.38).
+Discussion
+We successfully completed a large, community-based
+implementation trial, integrating a provider e-referral
+system and a patient-directed WATI. Among the
+smokers referred, the e-referral was far more effective,
+with nearly threefold greater registrants (31 %) thanpaper (11 %). Enhancing the standard control with mo-
+tivational messages improved the comparative effective-
+ness of the WATI. For the average e-referral clinical
+practice, the combination of increased patient registra-
+tion and increased relative cessation of the virtually inte-
+grated e-referral/enhanced technology-assisted tobacco
+intervention resulted in enhanced quality of care for
+smokers.
+The rate of referral was slightly less in ePortal practices.
+This is likely due to the increase in effort required to en-
+gage with the ePortal. In our pre-implementation pilot
+work, we reported that several physicians believed that an
+e-referral requires some additional effort from and train-
+ing of practice staff [9]. With this in mind, we tried to in-
+tegrate the ePortal into clinic ’s workflow. We designed the
+e-referral portal to use the data collected to provide feed-
+back and positive reinforcement to providers, feedback
+that was not available to paper-referral practices. Practices
+could also use the data collected to provide feedback and
+positive reinforcement to providers, feedback that was not
+Fig. 2 Trial 1: comparing paper-referral and ePortal practice implementation results (patient referrals to the web-assisted tobacco intervention
+and subsequent patient registration) among 174 practices. Mean number of referral Per practice (95 % confidence interval) and mean percentage
+referred smokers who registered (95 % confidence interval)Houston et al. Implementation Science  (2015) 10:154 Page 10 of 16
+available to paper-referral practices. As noted, more views
+of the practice reports were associated with more e-
+referrals. In the initial implementation of the system, the
+e-referral providers had found these reports helpful in mo-
+tivating continued e-referral activity, and thus, we inte-
+grated performance feedback into the portal [9].
+As hypothesized, paper referral was a “thin”interven-
+tion, with only 11 % of smokers registering. There are
+few comparisons for benchmarking our registration
+rates. Offline, fax referrals have been used as a proactive
+way to refer patients to telephone quit-lines [10, 29].
+Once referred, quit-lines will proactively call patients,
+and of patients referred, quit-line staff was successful in
+enrolling approximately 20 –30 % [10, 29, 30]. The e-referralregistration rate of 31 % is important when considering the
+“higher-than-usual-for-Internet-interventions ”percentage
+of referred patients who were not ready to quit [31].
+Our positive clinical effectiveness result that smokers
+randomized to receive enhanced, proactive features were
+more likely to quit extends our knowledge beyond the
+conclusions of the recent Cochrane review of WATIs
+[17]. In a recent review of WATI by the Cochrane col-
+laboration, pooled results from trials that compared
+interactive WATI to usual care or written self-help de-
+tected significant effects in favor of the intervention with
+a calculated odds ratio of 1.46 (and relative risk of
+1.41)—based on pooled data from three studies. To
+place our study into context, note that these WATI trialsFig. 3 The number of smokers referred and registered by each practiceHouston et al. Implementation Science  (2015) 10:154 Page 11 of 16
+have compared the WATI with usual care or written
+materials. Our absolute difference in cessation (ranging
+from 8.7 to 5.2 % favoring with messages over control) is
+greater than prior WATI trials, even considering our
+robust control condition. Our control was an evidence-
+aligned state-of-the-art website built with extensive tailor-
+ing based on readiness to quit and other interactive
+components. Using this active control, we then added
+enhanced proactive components (e.g., pushed auto-
+mated messages). Our results support the recent re-
+port on the effectiveness of pushed motivational text
+messages [32]. These short, frequent messages spaced
+over time are more likely beneficial than modular
+“bolus ”online motivation.In the personalized group, the further availability of a
+tobacco treatment specialist and online support group
+was minimally utilized and did not result in a marginal
+improvement in effectiveness. This arm may not have
+been engaging enough to smokers, resulting in less-
+than-optimal rates of participation with the TTS. Given
+the asynchronous pattern of communication, this func-
+tion may have been difficult for patients to engage with
+and use. Because of the additional marginal cost in the
+setting of an interactive technology intervention, health
+systems should consider carefully how best to use to-
+bacco treatment specialists. Further research is needed
+on how best to engage smokers and tobacco treatment
+specialist support online.
+Fig. 4 Trial 2: clinical effectiveness of the web-assisted tobacco intervention, consort DiagramHouston et al. Implementation Science  (2015) 10:154 Page 12 of 16
+Consistent with our goal, we successfully registered
+smokers who were not yet preparing to quit. This
+places our study in contrast to most web-assisted to-
+bacco interventions who have only recruited smokers
+who were preparing to quit or actively quitting [31].
+In our prior work, we have demonstrated that recruit-
+ment from clinical practices results in more smokersnot yet ready to quit, as compared with recruitment
+through other mechanisms, such as Google advertise-
+ments, another important benefit to clinical integra-
+tion of the WATI. In subset analyses, we
+demonstrated that these harder to reach, not yet
+ready to quit smokers, also benefitted from the en-
+hanced, messaging component of the WATI, withTable 3 Trial 2: clinical effectiveness of the WATI, characteristics of active smokers registering from clinical practicesa, b
+Total Control Messaging Personalized
+N % N % N % N %
+Patient Sex
+Female 570 63 185 62 104 63 281 64
+Male 330 37 114 38 60 37 156 36
+Patient Age
+19–34 152 17 47 16 27 16 78 18
+35–55 454 50 155 52 77 47 222 51
+55–64 224 25 71 24 48 29 105 24
+65+ 70 8 26 9 12 7 32 7
+Patient race
+White 769 85 253 85 144 88 372 85
+Black or African American 87 10 33 11 14 9 40 9
+Others 44 5 13 4 6 4 25 6
+Patient education
+Less than high school 75 8 24 8 15 9 36 8
+High school graduate 270 30 88 30 41 25 141 33
+Some college 380 43 139 47 71 44 170 39
+College graduate or more 167 19 46 15 35 22 86 20
+Readiness to quitc
+Not thinking of quitting 34 4 13 4 4 2 17 4
+Thinking of quitting 699 82 246 83 138 84 315 81
+Set a quit date 117 14 39 13 22 13 56 14
+Allow smoking at home
+No 460 51 146 49 77 47 237 54
+Yes 440 49 153 51 87 53 200 46
+Number of cigarettes per day
+0–10 241 27 84 28 42 26 115 26
+11–20 460 51 149 50 81 49 230 53
+>20 199 22 66 22 41 25 92 21
+Visited other smoking cessation websites before
+No 782 87 264 88 142 87 376 86
+Yes 118 13 35 12 22 13 61 14
+Quit attempt (1 day or more) in past 12 months
+No 424 47 148 50 71 43 205 47
+Yes 476 53 151 51 93 57 232 53
+aNine hundred ninety patients registered, of whom only 900 were current smokers (see Fig. 3).bCharacteristics were not significantly different between
+randomized groups (control, messaging, personalized).cDenominator 850 for this variable, as 50 patients did not complete status at initial registrationHouston et al. Implementation Science  (2015) 10:154 Page 13 of 16
+higher quit rates in the enhanced (messaging or
+personalized) compared with the control WATI.
+All trials have limitations. As we made the decision
+to separate into three groups (the original control
+group was further randomly subdivided into the con-
+trol website-only group and the messaging group),
+this reduced our power to detect differences by sub-
+group. Note that although our retention rate of 52 %
+at 6 months is higher than many published trials of
+technology-assisted tobacco interventions, [22, 26, 27]
+the non-response rate is an important consideration
+in interpreting our patient-level results. As recom-
+mended, [25] we used multiple analytic methods to
+explore the bias that could be introduced by attrition.
+Recommendations from the Society for Research on
+Nicotine and Tobacco on the need for biochemical
+verification [33] state that the degree of misclassi-
+fication is moderated by characteristics of the smok-
+ing cessation intervention. The more intensive the
+intervention is, the higher the potential for mis-
+classification due to social desirability. Differential
+misclassification by randomization group, an even
+more problematic measurement issue, increases with
+the intensity difference between groups. In studies
+similar to ours, misclassification and differential
+misclassification are expe cted to be lower, where
+biochemical verification is not required and can intro-
+duce other problems, including refusal to participate
+[33, 34]. The patients in our sample were highlyeducated, although compared with the sample derived
+from Google, our sample is actually less educated
+[31].
+Conclusion
+We have presented evidence of implementation suc-
+cess and comparative effectiveness of an integrated
+primary care practice e-referral/patient motivational
+system on smoker engagement and cessation. Health-
+care systems should move beyond paper-referral
+“information prescriptions ”only. There will always be
+a place for paper reminders, but they should be
+considered in a supportive role. For the increasing
+numbers of patients who can access the Internet,
+email or text messages, clinical practice e-referrals
+will result in higher rates of engagement, enhancing
+the reach of technology-assisted publically available
+interventions, and potentially enhancing clinical inter-
+ventions. Future work should also explore making
+e-referrals an integral function of electronic health
+records, where providers will increasingly conduct the
+work of clinical care. In our pilot implementation,
+our highest e-referring practice had integrated
+e-referral into their electronic health record [14].
+Although our system was limited to smoking, the
+concept of electronic referrals could be used for other
+targeted behaviors and chronic disease self-
+management systems, a fertile area for further studies.Table 4 Trial 2: Clinical Effectiveness of the WATI, Six-month cessation by allocation to Technology-Assisted Tobacco Intervention
+features
+Comparing Control, Messaging, and Personalized groupsa; Point estimates and Odds Ratios
+(CONTROL) Standard Tailored Website Messaging group Personalized Group
+(All features)Personalized versus control
+Completed cases Percent 25/147 (17%) 27/101 (26.7%) 55/218 (25%) 0.063
+Odds Ratio reference 1.781 (0.962-3.296) 1.647 (0.971-2.791) 0.064
+Missing = Smoking Percent 25/299 (8.4%) 27/164 (16.5%) 55/437 (12.6%) 0.071
+Odds Ratio reference 2.160 (1.208-3.863) 1.578 (0.959-2.595) 0.072
+Selection Model Odds Ratio reference 1.790 (1.208-3.863) 1.660 (0.959-2.595) 0.064
+Comparing Control and those Receiving Messages (Messaging or Personalized)
+Standard without messages (CONTROL) With Messages (Groups Messaging or
+Personalized)With Messages versus Control (p)
+Completed cases Percent 25/147 (17%) 82/319 (25.7%) 0.038
+Odds Ratio reference 1.688 (1.026-2.779) 0.039
+Missing = Smoking Percent 25/299 (8.4%) 82/601 (13.6%) 0.021
+Odds Ratio reference 1.732 (1.081-2.774) 0.022
+Selection Model Odds Ratio reference 1.699 (1.026-2.813) 0.039
+Note: Table 4uses completed cases, missing equals smoking, and selection modeling methods
+aSmokers received either a standard interactive Internet site (CONTROL), the standard enhanced with pushed automated motivational email messages
+(MESSAGING), or the features of CONTROL and MESSAGING plus access to secure messaging with a tobacco treatment specialist and a smoker to smoker onlin e
+support group (PERSONALIZED)Houston et al. Implementation Science  (2015) 10:154 Page 14 of 16
+Additional files
+Additional file 1: Trial 1. Comparing paper-referral and ePortal
+practice implementation, secure practice ePortal .Screenshot of the
+homepage of ReferaSmoker.org, an interactive website to assist providers
+in helping their patients quit smoking.
+Additional file 2: ReferaSmoker.org Brief mpeg video demonstrating
+the practice web system, ReferaSmoker.org.
+Additional file 3: Trial 2. Clinical effectiveness of the web-assisted
+tobacco intervention, enhanced patient website. Screenshot of the
+homepage of Decide2Quit.org, a multi-modal, evidence-based smoking
+cessation induction system available via the Internet.
+Additional file 4: Decide2Quit.org Brief mpeg video demonstrating
+the patient web system, Decide2Quit.org.
+Additional file 5: Trial 2. Clinical effectiveness of the web-assisted
+tobacco intervention, brief motivational messages. Examples of the brief
+motivational email messages that participants within the Messaging and
+Personalized groups received.
+Additional file 6: Trial 2. Clinical effectiveness of the web-assisted
+show tobacco intervention,characteristics of participants who completed
+a 6-month follow-up and did not complete a 6-month followup. Table of
+participant characteristics comparing those who did and did not
+complete the 6-month follow-up.
+Abbreviations
+D2Q: Decide2Quit.org; PARIHS: Promoting Action on Research
+Implementation in Health Services; QUIT-PRIMO: Quality Improvement in
+Tobacco-Provider Referrals and Internet-Delivered Microsystem Optimization;
+TTS: tobacco treatment specialist; WATI: web-assisted tobacco interventions.
+Competing interests
+The authors declare they have no competing interests.
+Authors ’contributions
+TKH was directly involved in the study design, data analysis, data
+interpretation, and writing of this manuscript. RSS contributed to the study
+design, data collection, data analysis and interpretation, and writing of this
+manuscript. JJA contributed to the study design, data interpretation, and
+writing of the manuscript. ASA contributed to the data interpretation and
+writing of this manuscript. MNR contributed to the study design and writing
+of this manuscript. TME contributed to the data analysis and writing of this
+manuscript. TPH contributed to the analysis and the writing of the manuscript.
+DEF contributed to the study design, data interpretation, and writing of this
+manuscript. All authors have read and approved the final manuscript.
+Acknowledgements
+This research was supported by the National Cancer Institute at the National
+Institutes of Health (R01-CA-129091) and the National Center for Advancing
+Translational Sciences of the National Institutes of Health [Award Number
+UL1TR000161]. Dr. Houston directs the eHealth Quality Enhancement
+Research Initiative (grant number eHQ-10-190) and receives support from this
+national Veterans ’Affairs implementation center, and Dr. Sadasivam ’s effort
+was also supported by a National Cancer Institute Career Development
+Award (K07CA172677). No funding source had a role in the writing of the
+manuscript or decision to submit for publication. No contributor has been
+paid to write this article by a pharmaceutical company or other agency.
+The authors would like to acknowledge the Tobacco Treatment Specialists,
+Jessica Hillman-Williams, Heather Coley, and Kathryn DeLaughter for their
+contribution to the study in providing expertise in smoking cessation online.
+The authors would also like to acknowledge Anne Hubbell and Ariana
+Kamberi for their work as study coordinators, Jonathan Guerard and Mary
+Beth Dziewietin for their diligence in data collection and organization, and
+Kavitha Balakrishnan for her contribution to the D2Q system.
+Author details
+1VA eHealth Quality Enhancement Research Initiative and Center for
+Healthcare Organization and Implementation Research, Bedford VA Medical
+Center, Bedford, MA, USA.2Division of Health Informatics andImplementation Science, Quantitative Health Sciences, University of
+Massachusetts Medical School, 55 Lake Avenue N, Worcester, MA, USA.
+3Department of Health Services Administration, School of Health Professions,
+University of Alabama at Birmingham, Birmingham, AL, USA.4Division of
+General Internal Medicine, Johns Hopkins School of Medicine, Baltimore, MD,
+USA.
+Received: 15 January 2015 Accepted: 12 October 2015
+References
+1. Stead LF, Lancaster T. Combined pharmacotherapy and behavioural
+interventions for smoking cessation. Cochrane Database Syst Rev.
+2012;10:CD008286. doi:10.1002/14651858.CD008286.pub2.
+2. Swan GE, McClure JB, Jack LM, Zbikowski SM, Javitz HS, Catz SL, et al.
+Behavioral counseling and varenicline treatment for smoking cessation. Am
+J Prev Med. 2010;38(5):482 –90. doi:10.1016/j.amepre.2010.01.024.
+3. Coleman T. ABC of smoking cessation. Use of simple advice and
+behavioural support. BMJ (Clinical research ed). 2004;328(7436):397 –9.
+4. Stead LF, Bergson G, Lancaster T. Physician advice for smoking
+cessation. Cochrane Database Syst Rev .2008(2):CD000165. doi:10.1002/
+14651858.CD000165.pub3.
+5. The Clinical Practice Guideline Treating Tobacco Use and Dependence 2008
+Update Panel L, and Staff. A clinical practice guideline for treating tobacco use
+and dependence: 2008 update: A U.S. Public Health Service Report. Am J Prev
+Med .2008; 35(2):158 –176. http://dx.doi.org/10.1016/j.amepre.2008.04.009.
+6. Bennett GG, Glasgow RE. The delivery of public health interventions via the
+Internet: actualizing their potential. Annu Rev Public Health. 2009;30:273 –92.
+doi:10.1146/annurev.publhealth.031308.100235.
+7. Fiore MC, Jaen CR. A clinical blueprint to accelerate the elimination of
+tobacco use. JAMA. 2008;299(17):2083 –5. doi:10.1001/jama.299.17.2083.
+8. Godfrey MM, Nelson EC, Wasson JH, Mohr JJ, Batalden PB. Microsystems in
+health care: part 3. Planning patient-centered services. Jt Comm J Qual Saf.
+2003;29(4):159 –70.
+9. Sadasivam RS, Delaughter K, Crenshaw K, Sobko HJ, Williams JH, Coley HL,
+et al. Development of an interactive, Web-delivered system to increase
+provider-patient engagement in smoking cessation. J Med Internet Res.
+2011;13(4):e87. doi:10.2196/jmir.1721.
+10. Bentz CJ, Bayley KB, Bonin KE, Fleming L, Hollis JF, McAfee T. The feasibility
+of connecting physician offices to a state-level tobacco quit line. Am J Prev
+Med. 2006;30(1):31 –7. doi:10.1016/j.amepre.2005.08.043.
+11. Curran GM, Bauer M, Mittman B, Pyne JM, Stetler C. Effectiveness-
+implementation hybrid designs: combining elements of clinical
+effectiveness and implementation research to enhance public health
+impact. Med Care. 2012;50(3):217 –26. doi:10.1097/MLR.0b013e3182408812.
+12. Siegel ER, Logan RA, Harnsberger RL, Cravedi K, Krause JA, Lyon B, et al.
+Information Rx: evaluation of a new informatics tool for physicians, patients,
+and libraries. Inf Serv Use. 2006;26(1):1 –10.
+13. Ray MN, Funkhouser E, Williams JH, Sadasivam RS, Gilbert GH, Coley HL,
+et al. Smoking-cessation e-referrals: a national dental practice-based
+research network randomized controlled trial. Am J Prev Med.
+2014;46(2):158 –65. doi:10.1016/j.amepre.2013.10.018.
+14. Sadasivam R, Hogan T, Volkman J, Smith B, Coley H, Williams J, DeLaughter
+K, Ray M, Gilbert G, Ford D et al. Implementing point of care “e-referrals ”in
+137 clinics to increase access to a quit smoking internet system: the Quit-
+Primo and National Dental PBRN HI-QUIT Studies. Transl Behav Med .
+2013:1 –9. doi:10.1007/s13142-013-0230-3.
+15. Stoddard JL, Augustson EM. Smokers who use internet and smokers who
+don ’t: data from the Health Information and National Trends Survey (HINTS).
+Nicotine Tob Res. 2006;8 Suppl 1:S77 –85.
+16. Houston TK, Sadasivam RS, Ford DE, Richman J, Ray MN, Allison JJ. The
+QUIT-PRIMO provider-patient Internet-delivered smoking cessation referral
+intervention: a cluster-randomized comparative effectiveness trial: study
+protocol. Implement Sci. 2010;5:87. doi:10.1186/1748-5908-5-87.
+17. Civljak M, Sheikh A, Stead LF, Car J. Internet-based interventions for
+smoking cessation. Cochrane Database Syst Rev. 2010;9:CD007078.
+doi:10.1002/14651858.CD007078.pub3.
+18. Houston TK, Ford DE. A tailored Internet-delivered intervention for
+smoking cessation designed to encourage social support and treatment
+seeking: usability testing and user tracing. Inform Health Soc Care.
+2008;33(1):5 –19. doi:10.1080/14639230701842240.Houston et al. Implementation Science  (2015) 10:154 Page 15 of 16
+19. Thorpe KE, Zwarenstein M, Oxman AD, Treweek S, Furberg CD, Altman DG,
+et al. A pragmatic-explanatory continuum indicator summary (PRECIS): a
+tool to help trial designers. Can Med Assoc J. 2009;180(10):E47 –57.
+doi:10.1503/cmaj.090523.
+20. Chakraborty B, Collins LM, Strecher VJ, Murphy SA. Developing
+multicomponent interventions using fractional factorial designs. Stat Med.
+2009;28(21):2687 –708. doi:10.1002/sim.3643.
+21. Collins LM, Murphy SA, Nair VN, Strecher VJ. A strategy for optimizing
+and evaluating behavioral interven tions. Ann Behav Med. 2005;30(1):
+65–73. doi:10.1207/s15324796abm3001_8.
+22. Danaher BG, Seeley JR. Methodological issues in research on web-based
+behavioral interventions. Ann Behav Med. 2009;38(1):28 –39.
+doi:10.1007/s12160-009-9129-0.
+23. Coley HL, Sadasivam RS, Williams JH, Volkman JE, Schoenberger YM, Kohler
+CL, et al. Crowdsourced peer- versus expert-written smoking-cessation
+messages. Am J Prev Med. 2013;45(5):543 –50. doi:10.1016/
+j.amepre.2013.07.004.
+24. Miller WR, Rollnick S. Motivational interviewing: preparing people to change
+addictive behavior. New York: Guilford Press; 1991.
+25. Hall SM, Delucchi KL, Velicer WF, Kahler CW, Ranger-Moore J, Hedeker D,
+et al. Statistical analysis of randomized trials in tobacco treatment:
+longitudinal designs with dichotomous outcome. Nicotine Tob Res.
+2001;3(3):193 –202. doi:10.1080/14622200110050411.
+26. Nelson DB, Partin MR, Fu SS, Joseph AM, An LC. Why assigning ongoing
+tobacco use is not necessarily a conservative approach to handling missing
+tobacco cessation outcomes. Nicotine Tob Res. 2009;11(1):77 –83.
+27. Smolkowski K, Danaher BG, Seeley JR, Kosty DB, Severson HH. Modeling
+missing binary outcome data in a successful web-based smokeless
+tobacco cessation program. Addiction. 2010;105(6):1005 –15.
+doi:10.1111/j.1360-0443.2009.02896.x.
+28. Seaman SR, White IR. Review of inverse probability weighting for dealing
+with missing data. Stat Methods Med Res. 2013;22(3):278 –95.
+doi:10.1177/0962280210395740.
+29. Perry RJ, Keller PA, Fraser D, Fiore MC. Fax to quit: a model for delivery of
+tobacco cessation services to Wisconsin residents. Wmj. 2005;104(4):37 –40. 44.
+30. Willett JG, Hood NE, Burns EK, Swetlick JL, Wilson SM, Lang DA, et al.
+Clinical faxed referrals to a tobacco quitline: reach, enrollment, and
+participant characteristics. Am J Prev Med. 2009;36(4):337 –40.
+doi:10.1016/j.amepre.2008.12.004.
+31. Sadasivam RS, Kinney RL, Delaughter K, Rao SR, Williams JH, Coley HL, et al.
+Who participates in Web-assisted tobacco interventions? The QUIT-PRIMO
+and National Dental Practice-Based Research Network Hi-Quit studies.
+J Med Internet Res. 2013;15(5):e77. doi:10.2196/jmir.2385.
+32. Free C, Knight R, Robertson S, Whittaker R, Edwards P, Zhou W, et al.
+Smoking cessation support delivered via mobile phone text messaging
+(txt2stop): a single-blind, randomised trial. Lancet. 2011;378(9785):49 –55.
+http://dx.doi.org/10.1016/S0140-6736(11)60701-0.
+33. Rabe-Hesketh S, Skrondal A, Pickles A. Reliable estimation of generalized
+linear mixed models using adaptive quadrature. Stata J. 2002;2(1):1 –21.
+34. Velicer WF, Prochaska JO, Rossi JS, Snow MG. Assessing outcome in
+smoking cessation studies. Psychol Bull. 1992;111(1):23 –41.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at 
+www.biomedcentral.com/submitHouston et al. Implementation Science  (2015) 10:154 Page 16 of 16

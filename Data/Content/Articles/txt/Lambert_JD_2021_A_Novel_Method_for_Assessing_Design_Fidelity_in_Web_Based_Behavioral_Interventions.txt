@@ -1,0 +1,436 @@
+University of Plymouth
+PEARL https://pearl.plymouth.ac.uk
+Faculty of Health: Medicine, Dentistry and Human Sciences Peninsula Medical School
+2021-03
+A novel method for assessing design
+fidelity in web-based behavioral
+interventions.
+Lambert, JD
+http://hdl.handle.net/10026.1/17792
+10.1037/hea0001046
+Health Psychology
+American Psychological Association (APA)
+All content in PEARL is protected by copyright law. Author manuscripts are made available in accordance with
+publisher policies. Please cite only the published version using the details provided on the item record or
+document. In the absence of an open licence (e.g. Creative Commons), permissions for further reuse of content
+should be sought from the publisher or author.
+A Novel Method for Assessing Design Fidelity in Web-Based
+Behavioral Interventions
+Jeffrey D. Lambert1, Lewis R. Elliott2, Adrian H. Taylor3, Paul Farrand4, Anne M. Haase5,
+and Colin J. Greaves6
+1Department for Health, University of Bath
+2European Centre for Environment and Human Health, University of Exeter Medical School
+3Peninsula School of Medicine, Faculty of Health, University of Plymouth
+4Clinical Education, Development and Research (CEDAR), Psychology Program, University of Exeter
+5School of Health, Victoria University of Wellington
+6School of Sport, Exercise and Rehabilitation Sciences, University of Birmingham
+Objective: Delivery is one of the most common ways of assessing fidelity in behavioral interventions.
+However, there is a lack of research reporting on how well an intervention protocol reflects its proposedtheoretical principles (design fidelity). This study presents a systematic method for assessing designfidelity and applies it to the eMotion web-based intervention targeting physical activity and depression.Method: The eMotion intervention comprises of 13 web-based modules, designed according to an
+underlying intervention map. An independent rater with expertise in behavior change coded the presenceor absence of behavior change techniques (BCTs) in the content of eMotion. Results of coding werecompared to the intervention designers’ a priori specification for interrater reliability. Results: After
+discussion, the independent rater and the intervention designer had a high agreement for the presence ofBCTs relating to behavioral activation (AC1 /H110050.91) with “demonstration of behavior” and “monitoring
+of emotional consequences” having the lowest agreement (AC1 /H110210.4). There was also high agreement
+for the presence of BCTs targeting physical activity (AC1 /H110050.88) with “demonstration of behavior” and
+“monitoring of emotional consequences” having the lowest agreement (AC1 /H110210.4). The eMotion
+description was then amended to align the interrater agreement. Conclusions: This study presents a novel
+method for assessing design fidelity. Developers of behavioral (and other multicomponent) interventionsare encouraged to develop and refine this method and assess design fidelity in future interventions toensure BCTs are operationalized as intended.
+Keywords: fidelity, intervention, behavior change, depression, physical activity
+Supplemental materials: https://doi.org/10.1037/hea0001046.supp
+The National Institute for Health Behavior Change Consortium (NIH
+BCC) defines intervention fidelity as the reliability and validity of behav-ioral interventions ( Bellg et al., 2004 ). Behavioral interventions can fail to
+represent their intended content and mechanisms of change at five levels:intervention design, provider training, intervention delivery, interventionreceipt, and enactment of the skills promoted ( Bellg et al., 2004 ;Borrelli,
+2011;Borrelli et al., 2005 ). Lack of consideration of intervention fidelity
+can lead to a false positive, where an intervention not faithful to itsintended content yields a significant effect or a false negative where apotentially effective intervention is discarded because the intended con-
+Jeffrey D. Lambert X
+https://orcid.org/0000-0003-4774-9054
+Lewis R. Elliott X
+https://orcid.org/0000-0003-3864-9465
+Adrian H. Taylor X
+https://orcid.org/0000-0003-2701-9468
+Paul Farrand X
+https://orcid.org/0000-0001-7898-5362
+Anne M. Haase X
+https://orcid.org/0000-0001-8556-2165
+Colin J. Greaves X
+https://orcid.org/0000-0003-4425-2691
+We thank Samantha van Beurden for her help pilot coding an earlier
+iteration of the coding manual. Jeffrey D. Lamberts’ time input wassupported by the Economic and Social Research Council (ESRC; Grant:ES/J50015X/1). Colin J. Greaves’ time input was supported by the U.K.’sNational Institute for Health Research (NIHR; Career Development Fel-lowship CDF-2012–05-029). This report is independent research and theviews expressed are those of the authors and not necessarily those of NIHRor the U.K. Department of Health.Jeffrey D. Lambert served as lead for conceptualization, methodol-
+ogy, and writing (original draft, review, and editing). Lewis R. Elliottserved in a supporting role for conceptualization and writing (originaldraft, review, and editing). Adrian H. Taylor served in a supporting rolefor supervision and writing (review and editing). Paul Farrand served ina supporting role for supervision and writing (review and editing). AnneM. Haase served in a supporting role for supervision and writing(review and editing). Colin J. Greaves served as lead for supervisionand served in a supporting role for writing (original draft, review, andediting). All authors read and approved the final manuscript.
+Correspondence concerning this article should be addressed to Jeffrey D.
+Lambert, Department for Health, University of Bath, 1 West 4.107, BA27AY, United Kingdom. Email: jl2426@bath.ac.ukThis document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+Health Psychology
+© 2021 American Psychological Association 2021, Vol. 40, No. 3, 217–225
+ISSN: 0278-6133 https://doi.org/10.1037/hea0001046
+217
+tent or mechanisms of change were not adequately operationalized or
+delivered ( Bellg et al., 2004 ).
+A recent systematic review of behavioral interventions promoting
+physical activity identified a range of methods used by researchers toassess fidelity across the domains of training, delivery, receipt, andenactment ( Lambert, Greaves, Farrand, Cross, et al., 2017 ). These
+methods included: using checklists to assess provider competencebefore delivering an intervention (“training”), observing the presenceof intended intervention components during delivery, verifying par-ticipants’ understanding of intervention components (“receipt”), andobserving participant use of intervention components (e.g., goal set-ting) in participants’ day-to-day lives (“enactment”). However, thesystematic review did not identify any examples of studies reportingthe assessment of design fidelity.
+Assessing design fidelity involves measuring whether behav-
+ioral interventions are consistent with stated components of theirtheoretical models. The NIH BCC proposes that intervention de-signers: (a) specify and incorporate the intervention components(or behavior change techniques [BCTs]) in the intervention, (b) usea “panel of experts” to assess intervention protocols to ensure theyadequately incorporate the underlying theoretical and clinicalguidelines, and (c) ensure that measures reflect the hypothesizedtheoretical constructs/mechanisms of action ( Borrelli, 2011 ).
+Several programs of work have sought to specify intervention
+components resulting in several taxonomies of BCTs ( Borek et al.,
+2015 ;Hartmann-Boyce et al., 2016 ;Michie et al., 2011 ;Michie et
+al., 2013 ). The core aim of a taxonomy is to lay the foundation for
+the design of reliable and replicable behavior change interventionsby enabling precise specification of the active ingredients of ex-isting interventions ( Michie et al., 2013 ).
+Taxonomies help to specify the content of behavioral interven-
+tions. However, there is a lack of guidance concerning ways toensure BCTs have been sufficiently translated into interventionprotocols. Without a systematic assessment process, interventiondesigners could fail to operationalize intended BCTs into theactual intervention content (e.g., web-based interventions, manu-als, protocols) or include additional unintended BCTs that targetdifferent processes to the underlying logic model. For example, aprevious study compared the presence of BCTs in 13 publishedintervention descriptions to their corresponding intervention man-uals and found a correspondence rate of only 74% ( Abraham &
+Michie, 2008 ). This discrepancy was due to BCTs appearing in the
+intervention manuals but not in their corresponding publishedintervention descriptions and vice versa.
+Thus, the first potential threat to intervention fidelity occurs
+earlier than delivery. If a BCT is not operationalized in an inter-vention protocol, a provider would be unable to deliver it inpractice. By contrast, pharmacological interventions can use lab-oratory techniques to confirm whether the substance matches whatis shown on the label, whether the amount of the substance isconsistent with the labeled amount, whether there are processimpurities in the substance, and whether the drug is absorbed in thebody. The NIH BCC guidance attempts to mimic this pharmaco-logical process in a behavioral context, by recommending the useof a “protocol review group” to ensure BCTs are accuratelyspecified in intervention content. However, there is a lack ofguidance regarding who this “protocol review group” should com-prise of and how to effectively and reliably use the group todetermine whether the intervention protocol and materials accu-
+rately reflect the underlying BCTs in an unbiased way (designfidelity).
+The main aims of this study were, therefore: (a) to propose a
+systematic method for assessing whether underlying BCTs are opera-tionalized in behavioral interventions and (b) to apply this method tothe development of the eMotion intervention ( Lambert et al., 2018 ;
+Lambert, Greaves, Farrand, Haase, et al., 2017 ) as a case study.
+Method
+Before assessing design fidelity, intervention developers must
+first ensure they have specified the precise intended content oftheir intervention. This might be achieved from intervention map-ping ( Bartholomew et al., 2011 ), or a set of tables derived from the
+Behavior Change Wheel ( Michie et al., 2011 ). To assess design
+fidelity of the eMotion intervention, an independent coder wasasked to assess the presence and location of intended (and unin-tended) BCTs in the intervention content (e.g., web-pages, writteninformation, worksheets, and behavior-tracking devices), sessiondelivery plans, and other delivery materials (e.g., presentationslides, interactive game materials). The coder was independent ofthe study design team with experience in using the relevant BCTsand intervention development. The coding manual was developedbefore the beginning of the assessment. Intervention content wasthen compared against the intervention description to identifyareas of concordance or discordance. The intervention developersand independent coder then resolved any discrepancies in codingthrough discussion. Discordant aspects of the intervention (areaswhere the intervention diverged from the intended design) werethen addressed by either refining the intervention materials orintervention description. See Table 1 for an overview of the criteria
+for assessing design fidelity.
+Brief Summary of eMotion
+To test the assessment method described above, the design
+fidelity of the eMotion web-based intervention was assessed. TheeMotion intervention is a web-based course, consisting of weeklymodules, that provides people with access to evidence-based treat-ment based on behavioral activation (BA) techniques to promotephysical activity and to reduce symptoms of depression. eMotionis based on self-determination theory (SDT; Deci & Ryan, 1985 )
+and BA principles ( Farrand et al., 2014 ;Hopko et al., 2003 ;Lejuez
+et al., 2001 ;Richards, 2010 ). The development of eMotion is
+described in detail elsewhere ( Lambert, Greaves, Farrand, Haase,
+et al., 2017 ). In brief, eMotion was hosted on the online mental
+health platform “Living Life to the Full” ( Williams et al., 2016 ).
+The eMotion intervention is comprised of audio-visual modulesincluding an introduction, eight weekly modules, three unlockablemodules, and a problem-solving module. eMotion delivers astaged approach to behavioral activation with a gradually increas-ing emphasis on incorporating physical activity into the process. Itsupports people in first building an understanding of how behav-ioral activation works. It then asks the user to identify routine,pleasurable, or necessary activities and rate them in terms ofdifficulty. The user then schedules and tries out the plannedactivities and is supported to review and problem-solve theseactivities over time. Throughout the intervention (ideally, as de-pression begins to lift following success with the initially plannedThis document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.218 LAMBERT ET AL.
+activities), the additional benefits of activities that include a phys-
+ical activity component are reinforced/encouraged, and the processcontinues.
+Specification of Intended Content of eMotion
+Intervention mapping ( Bartholomew et al., 2011 ) was used to
+specify the intervention content in eMotion. The behavior changetaxonomy (v1; Michie et al., 2013 ) was used to label the intended
+BCTs wherever possible. The behavior change technique taxon-omy (v1) is a taxonomy of 93 agreed-upon, distinct BCTs resultingfrom a Delphi-type exercise conducted by an international panel of32 experts in behavior change interventions. This taxonomy wasdeveloped to increase the transparency and replicability of behav-ioral interventions ( Michie et al., 2013 ). The eMotion intervention
+contained 17 BCTs, which in turn reflected key processes relatingto SDT ( Ryan & Deci, 2000 ), self-regulation theory ( Bandura,
+1991 ), and the principles of BA ( Jacobson et al., 2001 ). Each BCT
+was intended to target the behavioral avoidance and inertia thataccompanies depression and overcome sources of negative rein-forcement ( Farrand et al., 2014 ). Each BCT was therefore designed
+to target routine (e.g., doing the washing up), pleasurable (e.g.,going to the cinema), or necessary activities (e.g., having a shower,paying a bill). Later in the program, a greater emphasis on routine,pleasurable, or necessary activities that incorporate physical activ-ity were included (e.g., walking to the shops, walking the kids toschool, playing tennis). BCTs were incorporated in each specificmodule of eMotion with a total of 65 occurrences (based on thepresence/absence of a BCT in each module) of BCTs relating toroutine, pleasurable, or necessary activities and 53 relating tophysical activity across eMotion. The most frequently used tech-niques (targeting routine, pleasurable and necessary or physicalactivities) were “demonstration of behavior,” “self-monitoring ofbehavior,” “graded tasks,” “action planning,” “goal-setting behav-ior,” “problem-solving,” “review behavioral goal,” and “socialreward.”
+Coding Manual
+The full eMotion intervention description was used to derive a
+set of checklist items that were used as a basis for coding (seeonline supplementary material ). The key aim of the coding manualwas to facilitate the reliable identification of the BCTs in the
+audio-visual (participant-facing) content of eMotion. This codingmanual was piloted (with another researcher) by applying thecoding framework to a sample of eMotion content to ensure clarityof definitions and examples and to refine the coding manual whereappropriate. The final coding manual contained definitions for 17distinct BCTs, specifically targeting either a general behavior thatcan provide a sense of positive reinforcement (i.e. routine, plea-surable or necessary activities) or a behavior that included aphysical activity component ( online supplementary material ).
+Coding Procedures
+An independent coder (with no knowledge of the intended
+location or prevalence of the BCTs and no involvement in theeMotion study) was asked to work through each module of theeMotion platform and rate the presence or absence of the specifiedBCTs using the coding manual. The coder was a doctoral-levelstudent (at the time of coding) with expertise in health psychology.The coder also had experience in coding for BCTs in brochuresencouraging walking in natural environments ( Elliott et al., 2018 ).
+Abraham and Michie (2008) found that, after brief training, psy-
+chologists could identify BCTs in published intervention descrip-tions. The coder was thus provided with the coding manual andasked to become familiar with the BCT definitions before imple-menting the coding. After the first read, the coder was asked towork through the intervention again and rate the presence orabsence of each BCT (specified in the coding manual) for eachmodule of eMotion. Analysis of the coding responses was con-ducted for all intervention content. The coder was not instructed toidentify the number of instances of a BCT, only whether it ap-peared at least once, in a module.
+Analysis
+To assess how well BCTs were operationalized, interrater reli-
+ability was used to calculate the agreement between BCTs identi-fied by the independent coder and BCTs specified in the originalintervention description. As the prevalence of some of the intendedBCTs in the intervention description was low, the first-orderagreement coefficient (AC1) statistic ( Gwet, 2002 ) was preferredTable 1
+Criteria for Assessing Presence/Absence of BCTs in Intervention Content
+Domains Criteria for assessing design fidelity
+What should be assessed? Presence and location of intended BCTs in intervention content (e.g. manuals, protocols, web-based
+delivery platforms)
+Presence and location of non-intended BCTs in intervention content (e.g. manuals, protocols, web-
+based delivery platforms)
+How should data be collected? Audit of intervention content coded according to criteria and protocols developed a priori (i.e.
+before beginning the audit of content)
+Who should assess? Coders should be versed in use of and coding of BCTs
+Coders should be independent of the intervention study/its designCoders should not be aware of where BCTs are located in the content
+How should it be assessed? Inter-rater reliability (e.g. by using agreement coefficients) between coders and intervention
+description (as specified by the intervention developers)
+Discrepancies resolved through discussion
+Note. BCTs /H11005behavior change techniques.This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.219 DESIGN FIDELITY
+to Kappa to estimate interrater reliability. The AC1 statistic cor-
+rects for the possibility of two coders agreeing on the presence ofa BCT by chance. Interrater reliability was calculated for eachBCT in eMotion and clustered by behavioral target (i.e. routine,pleasurable, and necessary vs. physical activities) to assess fidelityto the underlying theoretical model. Discussions were then heldbetween the lead intervention developer and the independent coderto resolve any discrepancies. Any unresolved discrepancies werethen discussed with another member of the design team (CG) andresolved through further discussion. Strength of design fidelity wasdefined in terms of established AC1 thresholds: /H110210.2/H11005poor,
+0.2/H113490.4/H11005fairly poor, /H110220.4/H113490.6/H11005moderate, /H110220.6/H113490.8
+good, and /H110220.8/H113491/H11005very good ( Landis & Koch, 2008 ).
+Increasing Concordance With the Intended Design
+After discussion, a contingency table (see Table 2 ) was applied to
+every instance where there was disagreement regarding the presenceor absence of a BCT. This guided remedial action to refine theintervention or its description as needed. Disagreements occurredwhen the independent coder rated a BCT as present and the interven-tion designer rated the same BCT as absent or vice versa. Agreementoccurred when both the independent coder and intervention designerrated the same BCT as present or absent.
+This procedure was formative and was primarily used to refine and
+develop eMotion before its use in a pilot randomized controlled trial(Lambert et al., 2018 ). However, it could also provide a summative
+indication of design fidelity that could be used to provide evidence ofhow well specific BCTs have been operationalized in behavioralinterventions (particularly in the final/refined versions). The contin-gency table, therefore, provided a systematic way of making decisionsaround BCTs specified in the intervention map that did not align withthe intervention content.
+Results
+Agreement of Intended BCTs Targeting Behavioral
+Activation (the Promotion of Routine, Pleasurable, andNecessary Activities)
+Seeonline supplementary material for BCT definitions. There
+was good overall agreement for BCTs identified as present orabsent in eMotion by the independent coder and the interventiondesigner for routine, pleasurable, and necessary activities (AC1 /H11005
+0.72) with a total of 37 (out of a possible 221) discrepancies (seeFigure 1 ). Good to perfect levels of agreement ( /H110220.6) were found
+for the following BCTs: “credible source,” “information abouthealth consequences,” “problem-solving,” “behavioral experi-ments,” “review behavioral goal,” “internal prompts/cues,” “socialreward,” “framing/reframing,” “associative learning,” “instructionon how to perform a behavior” and “graded tasks.” “Informationabout monitoring of emotional consequences,” “goal setting,” and“self-monitoring of behavior” had a moderate agreement(0.4–0.6). Those with the poorest agreement ( /H113490.4) were “demon-
+stration of behavior,” “monitoring of emotional consequences,” and“action planning.” Discussion between the independent coder and oneof the intervention designers raised overall agreement considerably(AC1/H110050.91), yielding a total of 12 remaining discrepancies (see
+Figure 2 ). “Demonstration of behavior” and “monitoring of emotional
+consequences” still had poor design fidelity (AC1 /H110210.4), with “mon-
+itoring of emotional consequences” being present when not intendedand “demonstration of behavior” not being present when intended(according to the judgment of the independent coder). The remainingdiscrepancies were then resolved using the contingency table (seeTable 2 ).
+Agreement of Intended BCTs Targeting
+Physical Activity
+There was good overall agreement with BCTs identified by
+the independent coder in eMotion for BCTs relating to physicalactivity (AC1 /H110050.67), with a total of 44 (out of a possible 221)
+discrepancies (see Figure 1 ). Good to perfect levels of agree-
+ment (/H110220.6) were found for the following BCTs: “credible
+source,” “information about emotional consequences,” “infor-mation about health consequences,” “graded tasks,” “actionplanning,” “goal-setting behavior,” “problem-solving,” “behav-ioral experiments,” “internal prompts/cues,” “social reward,”“framing/reframing,” “associative learning,” and “instructionon how to perform a behavior.” “Demonstration of behavior,”“self-monitoring of behavior,” “monitoring of emotional con-sequences,” and “review behavioral goal” had the poorestagreement ( /H113490.4).
+Discussion between the independent coder and one of the inter-
+vention designers raised agreement (AC1 /H110050.88), with a residual
+total of 16 discrepancies (see Figure 2 ). The BCTs “demonstration
+of behavior” and “monitoring of emotional consequences” still hadthe poorest agreement, with “monitoring of emotional conse-quences” being present when not originally specified in the inter-vention content and “demonstration of behavior” not being present
+Table 2
+Contingency Table Guiding Remedial Action for Discrepant BCTs
+Independent coder
+Intervention Present Absent
+Specification
+Present Good design fidelity in terms of intended techniques
+(no action required)Designer adds technique to intervention content or amends
+intervention description to reflect its absence
+Absent Designer removes technique from intervention
+content or amends intervention description toreflect its presenceGood design fidelity in terms of non-intended techniques (no action
+required)
+Note. BCTs /H11005behavior change techniques.This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.220 LAMBERT ET AL.
+when intended (according to the judgment of the independent
+coder). The remaining discrepancies were then resolved using thecontingency table (see Table 3 ).
+Applying the Contingency Table
+For BCTs targeting routine, pleasurable, or necessary activ-
+ities, after application of the contingency table (see Table 2 ),
+one instance of “social reward,” one instance of “framing/reframing,” and four instances of “demonstration of behavior”
+were removed from the intervention description as they were
+not adequately reflected in the content of eMotion as intended.One instance of “information about emotional consequences”and five instances of “monitoring of emotional consequences”were added to the intervention description. These changes re-sulted in a complete agreement between the intervention de-signers’ specifications and the independent coder (AC1 /H110051.0).Figure 1
+Agreement (AC1) About the Presence or Absence of Techniques in the Behavioral Activation Components (Black)and Physical Activity Components (Gray) of the Intervention (Before Discussion)
+Note. AC1/H11005first-order agreement coefficient.
+Figure 2
+Agreement (AC1) About the Presence or Absence of Techniques in the Behavioral Activation Components (Black)and Physical Activity Components (Gray) of the Intervention (After Discussion)
+Note. AC1/H11005first-order agreement coefficient.This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.221 DESIGN FIDELITY
+For BCTs targeting physical activity, one instance of “self-
+monitoring,” one instance of “internal prompts/cues,” one instanceof “framing/reframing,” and three instances of “demonstration ofbehavior” were removed from the intervention description as theywere not adequately reflected in the content of eMotion as in-tended. One instance of “information about emotional conse-quences,” one instance of “information about health conse-quences,” one instance of “demonstration of behavior,” oneinstance of “graded tasks,” one instance of “self-monitoring ofbehavior,” and five instances of “monitoring of emotional conse-quences” were added to the intervention description as they werepresent in the intervention content and considered to be relevant(although not originally being present in the intervention descrip-tion). These changes resulted in a complete agreement between theintervention specification and the independent coder for all BCTstargeting physical activity (AC1 /H110051.0; see Table 3 ).Discussion
+Summary of Findings
+The current study presents a novel methodology for checking inter-
+vention design fidelity, using independent coding to check the presence orabsence of intended and unintended BCTs systematically. An applicationof the method to the development of the eMotion intervention identifieda wide range of discrepancies relating to both the BA and physicalactivity components. The intervention, or its description, was thenamended to remove all discrepancies and generate a more theoreticallyconsistent intervention. Calculating interrater reliability enabled greatertransparency of the coding process, offering an auditable approach andlikely to increase rigor and attention to detail compared with simplepeer-review. It also allowed us to prioritize BCTs which showed thepoorest agreement. This approach goes substantially beyond proofread-Table 3
+Amended Module Content in eMotion After Applying Contingency Table
+Module Updated BCTs in eMotion description
+Introduction Credible source (BA); Information about emotional consequences (BA/PA); Demonstration of
+behavior (BA)
+Week 1 Credible source (BA/PA); Information about emotional consequences (BA/PA); Information about
+health consequences (PA); Demonstration of behavior (PA); Self-monitoring of behavior (BA);Monitoring of emotional consequences (BA); Framing/reframing (BA)
+Week 2 Credible source (PA); Information about emotional consequences (BA/PA); Demonstration of the
+behavior (BA/PA); Monitoring of emotional consequences (BA); Graded tasks (BA/PA); Actionplanning (BA); Goal setting (behavior; BA); Problem-solving (BA); Review behavioral goal (BA/PA)
+Week 3 Information about emotional consequences (BA/PA) ;Monitoring of emotional consequences
+(BA) ;Graded tasks (BA) Graded tasks (PA); Action planning (BA); Goal setting (behavior; BA);
+Problem-solving (BA); Review behavioral goal (BA); Social reward (BA); Demonstration of the
+behavior (BA/PA)
+Week 4 Demonstration of the behavior (BA) ; Demonstration of the behavior (PA); Self-monitoring of behavior
+(BA); Monitoring of emotional consequences (BA/PA); Graded tasks (BA/PA); Action planning
+(BA); Goal setting (behavior) (BA); Problem-solving (BA); Review behavioral goal (BA); Socialreward (BA/PA)
+Week 5 Demonstration of the behavior (BA)
+; Demonstration of the behavior (PA); Self-monitoring of behavior
+(BA); Monitoring of emotional consequences (BA/PA); Graded tasks (BA/PA); Action planning
+(BA); Goal setting (behavior; BA); Problem-solving (BA); Review behavioral goal (BA); Socialreward (BA/PA)
+Week 6 Demonstration of the behavior (PA)
+; Demonstration of the behavior (BA); Self-monitoring of behavior
+(BA); Monitoring of emotional consequences (BA/PA); Graded tasks (BA/PA); Action planning
+(BA); Goal setting (behavior; BA); Problem-solving (BA); Review behavioral goal (BA); Socialreward (BA/PA)
+Week 7 Demonstration of the behavior (BA)
+; Self-monitoring of behavior (BA); Monitoring of emotional
+consequences (BA/PA); Graded tasks (BA/PA); Action planning (BA); Goal setting (behavior;
+BA); Problem-solving (BA); Review behavioral goal (BA); Social reward (BA/PA)
+Week 8 Information about emotional consequences (BA/PA); Information about health consequences (PA);
+Self-monitoring of behavior (BA); Self-monitoring of behavior (PA) ; Monitoring of emotional
+consequences (BA/PA); Graded tasks (PA); Problem-solving (BA); Review behavioral goal (BA);Internal prompts/cues (BA); Internal prompts/cues (PA)
+; Social reward (BA/PA)
+Moving on with physical
+activityCredible source (PA); Information about emotional consequences (PA); Information about health
+consequences (PA); Demonstration of the behavior (PA); Monitoring of emotional consequences
+(PA); Graded tasks (PA); Action planning (PA); Goal setting (behavior; PA); Problem-solving
+(PA); Instruction on how to perform a behavior (PA); Framing/reframing (PA)
+Monitoring your physical
+activityInformation about emotional consequences (PA); Demonstration of the behavior (PA); Self-monitoring
+of behavior (PA); Monitoring of emotional consequences (PA); Graded tasks (PA); Action planning(PA); Behavioral experiments (PA)
+Increasing your physical
+activityInformation about health consequences (PA) ; Demonstration of the behavior (PA ); Self-monitoring
+of behavior (PA) ; Graded tasks (PA); Instruction on how to perform a behavior (PA)
+Problem-solving Demonstration of the behavior (BA); Graded tasks (BA/PA); Problem-solving (BA/PA);
+Demonstration of the behavior (PA); Social reward (BA)
+Note. BCTs /H11005behavior change techniques; BA /H11005behavioral activation; PA /H11005physical activity. Bold /H11005BCT added, Underline /H11005BCT removed.This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.222 LAMBERT ET AL.
+ing, resembling qualitative methods such as framework analysis, whereby
+text is coded against a prespecified framework of codes ( Gale et al.,
+2013).
+The proposed method can be used to check that intervention content
+fully represents its intended design in terms of both component BCTs andits theoretical integrity. Intervention designers could report the reliabilitystatistic to help other researchers to better understand the content andtheoretical underpinnings of the intervention and also to appraise anyfuture evidence relating to the intervention. First, it could hasten system-atic reviews exploring the effects of specific BCTs on various outcomes.Second, it provides a better indicator of BCTs than the coding of pub-lished intervention descriptions, which are often limited in detail ( Dom-
+browski et al., 2007 ;Hoffmann et al., 2014 ). This method can also be
+used to help improve design fidelity at the development stage (as exem-plified here). In any case, it is recommended that the assessment of designfidelity (quantitative or otherwise) be reported in articles describing be-havioral interventions and added as an optional item to guidance onreporting interventions (e.g., the TiDier checklist ( Hoffmann et al.,
+2014)).
+Much work has already been conducted to specify a process for
+mapping BCTs to theoretical determinants ( Cane et al., 2012 ) and de-
+scribe BCTs using a common language ( Abraham & Michie, 2008 ;
+Michie et al., 2013 ). Guidelines have also been developed for intervention
+reporting ( Bellg et al., 2004 ;Borek et al., 2015 ;Borrelli, 2011 ;Borrelli et
+al., 2005 ;Hoffmann et al., 2014 ). The present study seeks to complement
+these existing approaches by presenting a method for assessing whetheror not specific BCTs are sufficiently operationalized (i.e. present asintended) in behavior change interventions. The basic method could beextended to other complex behavioral interventions combining multiplebehavioral targets ( Taylor et al., 2014 ;Thompson et al., 2018 ;Ussher et
+al., 2015 ).
+Relation to Other Literature
+The low initial agreement for some specific BCTs (e.g., “demonstra-
+tion of behavior” and “monitoring of emotional consequences”) mayhave been due to ambiguity around the definition of these techniques,rather than differences in interpretation between the coders. In a recentstudy, coders found it hard to distinguish between “demonstration ofbehavior” and “instruction on how to perform a behavior,” despiteachieving modest reliability results ( Abraham et al., 2015 ). The purpose
+of the discussion is to clarify any discrepancies that arise due to ambigu-ities in the definitions. For example, in the present study, the discussionimproved the reliability of most BCTs. However, the discussion revealedthat the intervention designer used the BCT “review behavioral goal” asa broader category to include “monitoring of emotional consequences.”Five instances of the BCT “monitoring of emotional consequences” werethen added to the intervention description to reconcile this discrepancy,initially overlooked by the intervention designer.
+Having clear and checked operationalizations of BCTs in the interven-
+tion content alongside the training materials (e.g., delivery protocol) canensure that correct training, delivery, receipt, and enactment takes place.In a previous study investigating the delivery of a behavioral interventionfor physical activity (Proactive), it was found that only 44% of prespeci-fied BCTs were delivered by facilitators ( Hardeman et al., 2008 ). Poor
+delivery may have been due to the facilitator’s own biases or insufficienttraining. However, it may also have been a result of inadequate opera-tionalization of techniques in the manuals and protocols that informed thetraining and subsequent delivery. This highlights the many stages atwhich intervention fidelity can fail (design, training, delivery, receipt,
+enactment; Borrelli, 2011 ). It is essential, therefore, to have robust meth-
+ods for assessing fidelity at each step, so that process evaluations candetermine what factors may have caused an intervention to fail (orsucceed) and what aspects could be improved for future implementationor research.
+The NIH BCC recommends a list of strategies to enhance (e.g., by
+providing precise information about intervention dose) and assess fidelity,which was applied in a review of 10 years of health behavior research(Borrelli et al., 2005 ). In this study, 80%, 22%, 35%, 49%, and 57% of
+the 342 included articles showed evidence of adhering to strategiesrelating to design, training, delivery, receipt, and enactment, respectively(Borrelli et al., 2005 ). Although 80% was reported for design (which
+appears high), only strategies to enhance (rather than assess) designfidelity were recommended (e.g., provide a manual; Borrelli, 2011 ). This
+study progresses this field of research by clearly articulating a method forassessing design fidelity.
+Strengths and Limitations
+The main strength of this study is the development and testing of a
+novel methodology for enhancing confidence that BCTs present in be-havioral intervention descriptions are operationalized in intervention ma-terials as intended. An independent coder was used with no involvementin the development of eMotion who was experienced in coding behaviorchange materials ( Elliott et al., 2018 ). This reduces the possible bias of
+finding BCTs due to previous knowledge of the intervention develop-ment process. A robust, chance-corrected, statistical approach was alsoused to check interrater reliability.
+However, several limitations should be acknowledged. First, each
+researcher interprets the data according to their subjective interpretationand prior experience, which could lead to disagreements regarding eitherthe presence or absence of BCTs or regarding the BCT definitionsthemselves (interrater reliability for coding of BCTs is far from beingperfectly reliable for most BCTs; Abraham & Michie, 2008 ). In the
+present study, the independent coder was versed in the behavior changetaxonomy but not specifically with the BA model. Hence, a more sub-stantial “panel of experts” might have been used to enhance: (a) assess-ment reliability and (b) the design fidelity of the eMotion intervention.The choice of coders is an important potential source of bias in using thismethodology, so it needs careful consideration. Second, the independentcoder could have been subjected to a priming effect ( Tipper, 1985 )a s
+they worked their way through eMotion. The eMotion intervention ismodular, with some modules looking very similar. Awareness of whetherspecific BCTs are supposed to occur could make the coder more likely tohighlight them as present, even if they are not. Third, although coding wasapplied at a modular level, the “dose” of BCTs could have been mappedat smaller units of analysis (e.g., slide by slide). However, coding atsmaller levels of analysis would be far more resource-intensive, and acompromise between rigor and pragmatism was adopted in the presentstudy. Fourth, we treated disagreements on the presence or omission ofBCTs with equal valence. This is because they could (if not rectified) leadto “false negative” or “false positive” findings, which are both threats toreliability and replicability. Nonetheless, in different types of behaviorchange interventions, authors may judge these to not be equally benignand thus adjust, statistically or otherwise, for this in their assessments ofdesign fidelity. Fifth, while our approach worked well with a web-basedintervention, it may not apply equally well to face-to-face interventions,which are typically less modular. However, this approach is intended toThis document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.223 DESIGN FIDELITY
+qualitatively code the underlying protocols and training materials rather
+than the delivery itself. Coding for complex person-centered, individuallytailored interventions is within the domain of delivery fidelity, for whichdifferent approaches are needed (e.g., the MITI or OPTION codingframeworks; Elwyn et al., 2001 ;Moyers et al., 2003 ).
+Future Research and Implications for Practice
+The eMotion intervention was informed by intervention mapping
+(Bartholomew et al., 2011 ), which could explain the fact that there were
+relatively few discrepancies after discussion. Further research could testthis empirically by assessing and comparing design fidelity for interven-tions that did or did not use intervention mapping or other interventiondesign frameworks ( Bartholomew et al., 2011 ;Michie et al., 2011 ). This
+approach could also be used in randomized controlled trials to confirmdifferentiation of intervention and comparator arms (i.e. how well anintervention differs from a comparator or control group concerning crit-ical domains). A similar idea has been proposed in a recent protocol byLorencatto et al. (2016) .
+Current taxonomies may lack the range of ideas needed to code
+interventions that target both behavior change and mental health. First,some techniques may be used differently to induce psychological asopposed to behavioral change. For example, in CBT, “behavioral exper-iments” is a technique used to help people test the validity of persistentnegative beliefs or assumptions to improve their mood ( Beck, 1979 ). In
+the field of health behavior change, it is used to “try out” a new behaviorto see if it is enjoyable or acceptable (or to see whether perceived barrierscan be overcome). Second, current taxonomies focus on the antecedentsof behavior rather than the use of the behavior itself. For example, a coretechnique in behavioral activation involves supporting people to engagein achievable, self-selected behaviors to improve their mood ( Lejuez et
+al., 2001 ). Future research should aim to develop a wider taxonomy of
+“change techniques” that include ways to influence not just behavior butalso psychological change. A broader taxonomy could, therefore, coverdifferent applications of similar techniques (as per the examples here), butalso additional techniques that are not currently described. It could alsoprovide examples of the use of specific techniques in both mental healthand behavioral interventions. In developing taxonomies for public healthinterventions, it might also be useful to incorporate techniques for induc-ing social and systems-level change ( Rutter et al., 2017 ).
+Finally, future research could test whether increasing the number of
+raters or the quality of training impacts the reliability ascertained, forexample, by comparing the results of having an intervention manualcoded by two raters with the use of multiple raters.
+Conclusion
+The present study has developed and tested a new method for assess-
+ing design fidelity in behavioral interventions. As illustrated by its appli-cation to the eMotion intervention, this method can also be used toimprove design fidelity at the intervention development stage. Developersof behavioral interventions (and other multicomponent, theory-basedinterventions) are encouraged to develop and refine this method andassess design fidelity in future interventions to ensure behavior changetechniques are operationalized as intended.
+References
+Abraham, C., & Michie, S. (2008). A taxonomy of behavior change
+techniques used in interventions. Health Psychology ,27(3), 379–387.
+https://doi.org/10.1037/0278-6133.27.3.379Abraham, C., Wood, C. E., Johnston, M., Francis, J., Hardeman, W.,
+Richardson, M., & Michie, S. (2015). Reliability of identification ofbehavior change techniques in intervention descriptions. Annals of Be-
+havioral Medicine ,49(6), 885–900. https://doi.org/10.1007/s12160-015-
+9727-y
+Bandura, A. (1991). Social cognitive theory of self-regulation. Organiza-
+tional Behavior and Human Decision Processes ,50(2), 248–287.
+https://doi.org/10.1016/0749-5978(91)90022-L
+Bartholomew, L. K., Parcel, G. S., Kok, G., Gottlieb, N. H., & Fernandez,
+M. E. (2011). Planning health promotion programs: An intervention
+mapping approach (3rd ed.). Wiley, Ltd.
+Beck, A. (1979). Cognitive therapy of depression . Guilford Press.
+Bellg, A. J., Borrelli, B., Resnick, B., Hecht, J., Minicucci, D. S., Ory, M.,
+Ogedegbe, G., Orwig, D., Ernst, D., & Czajkowski, S. (2004). Enhanc-ing treatment fidelity in health behavior change studies: Best practicesand recommendations from the NIH behavior change consortium.Health Psychology ,23(5), 443–451. https://doi.org/10.1037/0278-6133
+.23.5.443
+Borek, A. J., Abraham, C., Smith, J. R., Greaves, C. J., & Tarrant, M.
+(2015). A checklist to improve reporting of group-based behaviour-change interventions. BMC Public Health ,15(1), Article 963. https://
+doi.org/10.1186/s12889-015-2300-6
+Borrelli, B. (2011). The assessment, monitoring, and enhancement of
+treatment fidelity in public health clinical trials. Journal of Public Health
+Dentistry ,71(s1), S52–S63. https://doi.org/10.1111/j.1752-7325.2011
+.00233.x
+Borrelli, B., Sepinwall, D., Ernst, D., Bellg, A. J., Czajkowski, S., Breger,
+R., DeFrancesco, C., Levesque, C., Sharp, D. L., Ogedegbe, G., Resnick,B., & Orwig, D. (2005). A new tool to assess treatment fidelity andevaluation of treatment fidelity across 10 years of health behaviorresearch. Journal of Consulting and Clinical Psychology ,73(5), 852–
+860. https://doi.org/10.1037/0022-006X.73.5.852
+Cane, J., O’Connor, D., & Michie, S. (2012). Validation of the theoretical
+domains framework for use in behaviour change and implementationresearch. Implementation Science ,7(1), Article 37. https://doi.org/10
+.1186/1748-5908-7-37
+Deci, E. L., & Ryan, R. M. (Eds.). (1985). Conceptualizations of intrinsic
+motivation and self-determination. Intrinsic motivation and self-
+determination in human behavior (pp. 11–40). Springer. https://doi.org/
+10.1007/978-1-4899-2271-7_2
+Dombrowski, S. U., Sniehotta, F. F., Avenell, A., & Coyne, J. C. (2007).
+Current issues and future directions in psychology and health: Towardsa cumulative science of behaviour change: Do current conduct andreporting of behavioural interventions fall short of best practice? Psy-
+chology & Health ,22(8), 869–874. https://doi.org/10.1080/
+08870440701520973
+Elliott, L. R., White, M. P., Taylor, A. H., & Abraham, C. (2018). How do
+brochures encourage walking in natural environments in the U. K.? Acontent analysis. Health Promotion International ,33(2), 299–310.
+https://doi.org/10.1093/heapro/daw083
+Elwyn, G., Edwards, A., Mowle, S., Wensing, M., Wilkinson, C., Kinner-
+sley, P., & Grol, R. (2001). Measuring the involvement of patients inshared decision-making: A systematic review of instruments. Patient
+Education and Counseling ,43(1), 5–22.
+https://doi.org/10.1016/S0738-
+3991(00)00149-X
+Farrand, P., Pentecost, C., Greaves, C., Taylor, R. S., Warren, F., Green,
+C., Hillsdon, M., Evans, P., Welsman, J., & Taylor, A. H. (2014). Awritten self-help intervention for depressed adults comparing behav-ioural activation combined with physical activity promotion with aself-help intervention based upon behavioural activation alone: Studyprotocol for a parallel group pilot randomised controlled trial (BAcPAc).Trials ,15(1), 1–12. https://doi.org/10.1186/1745-6215-15-196
+Gale, N. K., Heath, G., Cameron, E., Rashid, S., & Redwood, S. (2013).
+Using the framework method for the analysis of qualitative data inThis document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.224 LAMBERT ET AL.
+multi-disciplinary health research. BMC Medical Research Methodology ,
+13(1), Article 117. https://doi.org/10.1186/1471-2288-13-117
+Gwet, K. (2002). Kappa statistic is not satisfactory for assessing the extent
+of agreement between raters. Statistical Methods for Inter-Rater Reli-
+ability Assessment ,1(6), 1–6.
+Hardeman, W., Michie, S., Fanshawe, T., Prevost, A. T., Mcloughlin, K.,
+& Kinmonth, A. L. (2008). Fidelity of delivery of a physical activityintervention: Predictors and consequences. Psychology & Health ,23(1),
+11–24. https://doi.org/10.1080/08870440701615948
+Hartmann-Boyce, J., Aveyard, P., Koshiaris, C., & Jebb, S. A. (2016).
+Development of tools to study personal weight control strategies: Ox-FAB taxonomy. Obesity ,24(2), 314–320. https://doi.org/10.1002/oby
+.21341
+Hoffmann, T. C., Glasziou, P. P., Boutron, I., Milne, R., Perera, R., Moher,
+D., Altman, D. G., Barbour, V., Macdonald, H., Johnston, M., Lamb,S. A., Dixon-Woods, M., McCulloch, P., Wyatt, J. C., Chan, A.-W., &Michie, S. (2014). Better reporting of interventions: Template for inter-vention description and replication (TIDieR) checklist and guide. British
+Medical Journal ,348, Article g1687. https://doi.org/10.1136/bmj.g1687
+Hopko, D. R., Lejuez, C. W., Ruggiero, K. J., & Eifert, G. H. (2003).
+Contemporary behavioral activation treatments for depression: Proce-dures, principles, and progress. Clinical Psychology Review ,23(5),
+699–717. https://doi.org/10.1016/S0272-7358(03)00070-9
+Jacobson, N. S., Martell, C. R., & Dimidjian, S. (2001). Behavioral
+activation treatment for depression: Returning to contextual roots. Clin-
+ical Psychology: Science and Practice ,8(3), 255–270. https://doi.org/
+10.1093/clipsy.8.3.255
+Lambert, J. D., Greaves, C. J., Farrand, P., Cross, R., Haase, A. M., &
+Taylor, A. H. (2017). Assessment of fidelity in individual level behav-iour change interventions promoting physical activity among adults: Asystematic review. BMC Public Health ,17(1), 765. https://doi.org/10
+.1186/s12889-017-4778-6
+Lambert, J. D., Greaves, C. J., Farrand, P., Haase, A. M., & Taylor, A. H.
+(2017). Development of a web-based intervention (eMotion) based onbehavioural activation to promote physical activity in people with de-pression. Mental Health and Physical Activity ,13, 120–136. https://doi
+.org/10.1016/j.mhpa.2017.10.003
+Lambert, J. D., Greaves, C. J., Farrand, P., Price, L., Haase, A. M., &
+Taylor, A. H. (2018). Web-based intervention using behavioral activa-tion and physical activity for adults with depression (the eMotion study):Pilot randomized controlled trial. Journal of Medical Internet Research ,
+20(7), Article e10112. https://doi.org/10.2196/10112
+Landis, J. R., & Koch, G. G. (2008). The measurement of observer
+agreement for categorical data. Biometrics ,33(1), 159–174. https://doi
+.org/10.2307/2529310
+Lejuez, C. W., Hopko, D. R., & Hopko, S. D. (2001). A brief behavioral
+activation treatment for depression. Behavior Modification ,25(2), 255–
+286. https://doi.org/10.1177/0145445501252005
+Lorencatto, F., Gould, N. J., McIntyre, S. A., During, C., Bird, J., Walwyn,
+R., Cicero, R., Glidewell, L., Hartley, S., Stanworth, S. J., Foy, R.,Grimshaw, J. M., Michie, S., & Francis, J. J. (2016). A multidimensionalapproach to assessing intervention fidelity in a process evaluation ofaudit and feedback interventions to reduce unnecessary blood transfu-sions: A study protocol. Implementation Science ,11(1), Article 163.
+https://doi.org/10.1186/s13012-016-0528-x
+Michie, S., Ashford, S., Sniehotta, F. F., Dombrowski, S. U., Bishop, A.,
+& French, D. P. (2011). A refined taxonomy of behaviour changetechniques to help people change their physical activity and healthyeating behaviours: The CALO-RE taxonomy. Psychology & Health ,
+26(11), 1479–1498. https://doi.org/10.1080/08870446.2010.540664Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Har-
+deman, W., Eccles, M. P., Cane, J., & Wood, C. E. (2013). The behaviorchange technique taxonomy (v1) of 93 hierarchically clustered tech-niques: building an international consensus for the reporting of behaviorchange interventions. Annals of Behavioral Medicine ,46(1), 81–95.
+https://doi.org/10.1007/s12160-013-9486-6
+Michie, S., van Stralen, M. M., & West, R. (2011). The behaviour change
+wheel: A new method for characterising and designing behaviour changeinterventions. Implementation Science ,6(1), Article 42. https://doi.org/
+10.1186/1748-5908-6-42
+Moyers, T., Martin, T., Catley, D., Harris, K. J., & Ahluwalia, J. S. (2003).
+Assessing the integrity of motivational interviewing interventions: Re-liability of the motivational interviewing skills code. Behavioural and
+Cognitive Psychotherapy ,31(2), 177–184. https://doi.org/10.1017/
+S1352465803002054
+Richards, D. (2010). Behavioural Activation. In J. Bennett-Levy, D. Rich-
+ards, P. Farrand, H. Christensen, K. Griffiths, D. Kavanagh, B. Klein,M. A. Lau, J. Proudfoot, L. Ritterband, J. White, & C. Williams (Eds.),Oxford guide to low intensity CBT interventions (pp. 141–150). Oxford
+University Press. https://doi.org/10.1093/med:psych/9780199590117
+.003.0012
+Rutter, H., Savona, N., Glonti, K., Bibby, J., Cummins, S., Finegood, D. T.,
+Greaves, F., Harper, L., Hawe, P., Moore, L., Petticrew, M., Rehfuess, E.,Shiell, A., Thomas, J., & White, M. (2017). The need for a complex systemsmodel of evidence for public health. Lancet ,390(10112), 2602–2604.
+https://doi.org/10.1016/S0140-6736(17)31267-9
+Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the
+facilitation of intrinsic motivation, social development, and well-being.American Psychologist ,55(1), 68–78. https://doi.org/10.1037/0003-
+066X.55.1.68
+Taylor, A. H., Thompson, T. P., Greaves, C. J., Taylor, R. S., Green, C.,
+Warren, F. C., Kandiyali, R., Aveyard, P., Ayres, R., Campbell, J., Ussher,M., Michie, S., & West, R. (2014). A pilot randomised trial to assess themethods and procedures for evaluating the clinical effectiveness and cost-effectiveness of exercise assisted reduction then stop (EARS) among dis-advantaged smokers. Health Technology Assessment ,18(4), 1–324. https://
+doi.org/10.3310/hta18040
+Thompson, T. P., Lambert, J. D., Greaves, C. J., & Taylor, A. H. (2018).
+Intervention delivery fidelity assessment of a counseling-based interventionfor promoting smoking reduction and increasing physical activity. Health
+Psychology ,37(7), 627–637. https://doi.org/10.1037/hea0000613
+Tipper, S. P. (1985). The negative priming effect: Inhibitory priming by
+ignored objects. The Quarterly Journal of Experimental Psychology ,
+37(4), 571–590. https://doi.org/10.1080/14640748508400920
+Ussher, M., Lewis, S., Aveyard, P., Manyonda, I., West, R., Lewis, B.,
+Marcus, B., Riaz, M., Taylor, A. H., Barton, P., Daley, A., Essex, H.,Esliger, D., & Coleman, T. (2015). The London Exercise And Pregnantsmokers (LEAP) trial: A randomised controlled trial of physical activity forsmoking cessation in pregnancy with an economic evaluation. Health Tech-
+nology Assessment ,19(84), 1–136. https://doi.org/10.3310/hta19840
+Williams, C., Mcclay, C., Martinez, R., Morrison, J., Haig, C., Jones, R., &
+Farrand, P. (2016). Online CBT life skills programme for low mood andanxiety: Study protocol for a pilot randomized controlled trial. Trials ,17(1),
+Article 220. https://doi.org/10.1186/s13063-016-1336-y
+Received October 1, 2019
+Revision received June 26, 2020
+Accepted September 11, 2020 /H18546This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.225 DESIGN FIDELITY

@@ -1,0 +1,761 @@
+Identifying pathways to quitting smoking via telemedicine-
+delivered care
+Edward P. Liebmann, M.A.1, Kristopher J. Preacher, Ph.D.2, Kimber P. Richter, Ph.D.3, A. 
+Paula Cupertino, Ph.D.4, and Delwyn Catley, Ph.D.5
+1University of Kansas Department of Psychology, Lawrence, KS, USA
+2Vanderbilt University Department of Psychology & Human Development, Nashville, TN, USA
+3University of Kansas Medical Center Department of Public Health & Preventive Medicine, 
+Kansas City, KS, USA
+4Hackensack University Medical Center Cancer Prevention & Control Program, Hackensack, NJ, 
+USA
+5Children’s Mercy Hospital, Kansas City, MO, USA
+Abstract
+Objective: A randomized controlled trial of quitline-like phone counseling (QL) versus 
+telemedicine integrated into primary care (ITM) compared the effectiveness of these modalities for 
+smoking cessation. Study design and components were based on Self-Determination Theory 
+(SDT). The purpose of this study was to test our SDT-based model in which perceived healthcare 
+provider autonomy support, working alliance, autonomous motivation, and perceived competence 
+were hypothesized to mediate the effects of ITM on smoking cessation.
+Methods: Rural smokers (560) were randomized to receive 4 sessions over a 3-month period of 
+either QL or ITM. Follow-up assessments were conducted at months 3, 6, and 12. The primary 
+outcome was biochemically verified 7-day point prevalence at 12-months. Structural equation 
+modeling with latent change scores was used for the analysis.
+Results: Participants in the ITM condition reported greater increases in perceived healthcare 
+provider autonomy support (PAS) at end of treatment, which in turn was associated with enhanced 
+perceived competence to quit smoking (PC). Increased PC was associated with a higher likelihood 
+of cessation at 12-months. Mediation analysis demonstrated significant indirect effects, including a 
+path from ITM to increases in PAS to increases in PC to cessation at 12-months (Indirect effect = 
+0.0183, 95% CI [.003, .0434]).
+Conclusions: When integrated into primary care, ITM may influence smoking cessation by 
+enhancing the extent to which smokers feel supported by their providers and thereby increase their 
+Correspondence concerning this article should be addressed to: Delwyn Catley, Children’s Mercy Hospital, 2401 Gillham Road, 
+Kansas City, MO 64108, dcatley@cmh.edu. 
+Related presentations:
+Liebmann, E., Preacher, K.J., Richter, K.P., Cupertino, A.P., Catley, D. (April, 2018) Testing the Mechanisms of Action of Integrated 
+Telemedicine for Smoking Cessation Using Self-Determination Theory . Society of Behavioral Medicine Conference: New Orleans, 
+LA.
+HHS Public Access
+Author manuscript
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Published in final edited form as:
+Health Psychol . 2019 July ; 38(7): 638–647. doi:10.1037/hea0000740.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+perceived ability to quit. Findings suggest that locating tobacco treatment services in health care 
+provider offices imparts a motivational benefit for cessation.
+Trial Registration: Clinical Trials Registration: NCT00843505
+Keywords
+Telemedicine; Internet; Rural; Smoking Cessation; RCT; Primary Care
+Introduction
+Tobacco use causes approximately 5.4 million deaths a year worldwide (World Health 
+Organization, 2012). Although the prevalence of smoking has declined dramatically over the 
+past 40 years in the U.S.( Centers for Disease Control (CDC), 2006 ), adult smoking rates in 
+rural areas remains above 20% ( Center for Behavioral Health Statistics and Quality, 2015 ).
+This may be due, in part, to the fact that our health care system does a poor job of delivering 
+evidence-based tobacco treatment to rural smokers. FDA-approved cessation medications 
+double to triple the odds of quitting ( Fiore et al., 2008 ) and supportive counseling doubles 
+quit rates in the range of 4 sessions of treatment and is more effective at higher “doses” 
+(Fiore et al., 2008 ). Primary health care providers, however, consistently fail to provide 
+tobacco treatment. In 2015, only 57% of smokers reported that a health care provider 
+advised them to quit ( Centers for Disease Control (CDC), 2017 ). Among smokers who made 
+quit attempts, 6.8% reported using counseling, 29.0% medication, and 4.7% used both 
+(Centers for Disease Control (CDC), 2017 ).
+Two significant approaches have emerged with potential to increase the provision of tobacco 
+treatment by rural health care providers. One method is through tobacco quitlines which are 
+used in conjunction with fax referral to improve the efficiency of providing longitudinal 
+supportive counseling. Nearly all (49) state quitlines offer fax referral systems, in which 
+health care providers identify tobacco users and then fax to quitlines the contact information 
+for consenting patients who will receive their tobacco cessation behavioral care from the 
+quitline ( North American Quitline Consortium, 2008 ). The other method of care provision is 
+through telemedicine. Telemedicine is the use of telecommunications for medical diagnosis 
+and patient care across a distance and is often used to provide medical care to patients in 
+remote locations ( Scannell, Perednia, & Kissman, 1995 ). Broadly defined, telemedicine 
+encompasses video, telephone, text message, and even website-focused approaches. A 
+Cochrane review of interactive telemedicine-delivered care found that telemedicine was as 
+effective as usual care in the treatment of heart failure and substance use disorders, and was 
+more effective than usual care in achieving blood glucose control ( Flodgren, Rachas, 
+Farmer, Inzitari, & Shepperd, 2015 ). A Cochrane review of telemedicine versus face-to-face 
+patient care for a numerous health issues found that telemedicine was as effective as face-to-
+face treatment and achieved high levels of satisfaction among patients and providers 
+(Currell, Urquhart, Wainwright, & Lewis, 2000 ). At the time of the trial many rural Kansans 
+lacked sufficient internet speed and computer equipment to handle video transmissions, but 
+most primary care and safety net clinics had the ability to transmit video. This drove the Liebmann et al. Page 2
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+decision to examine the effects of real-time, interactive video counseling, delivered via 
+patients’ medical homes, on smoking cessation.
+Given the potential of both phone and telemedicine to be used for tobacco treatment it is 
+unclear whether there might be advantages of one over the other. Long-term quit rates for in-
+person face-to-face counseling (17%) are somewhat higher than those reported for telephone 
+counseling (13%) ( Fiore et al., 2008 ). In face to face interactions counselors may benefit 
+from patient non-verbal cues that could help to improve the quality of communications. For 
+example face to face interactions allow for observation of facial reactions and body language 
+that can facilitate the judgement of affect or engagement ( Foley & Gentile, 2010 ). With 
+visual awareness of the patient’s reactions to the counseling process the counselor may 
+better understand the patient’s perspective and provide more accurate reflective statements 
+and information. Telemedicine software can also facilitate the sharing of documents such as 
+action plans, worksheets, or educational materials targeted to the needs expressed by the 
+patient in the counseling session. By fully integrating counselor/patient verbal and visual 
+communication, telemedicine may therefore overcome numerous limitations of phone 
+counseling. Patients may consequently experience an enhanced therapeutic relationship.
+A recent randomized controlled clinical trial (RCT)—Connect2Quit—compared the 
+effectiveness of telemedicine counseling that was integrated into rural smokers’ primary care 
+clinics (Integrated Telemedicine—ITM) versus telephone counseling, similar to telephone 
+quitline counseling, delivered to smokers in their homes (QL) ( Mussulman et al., 2014 ). 
+Based on principles of Self-Determination Theory (SDT) and psychotherapy research on the 
+importance of the therapeutic alliance for counseling outcomes ( Lambert & Barley, 2001 ; 
+Orlinsky, Ronnestad, & Wilutzski, 2004 ; Williams, Gagne, Ryan, & Deci, 2002b ) it was 
+hypothesized that ITM would outperform telephone counseling. In the pre-specified primary 
+outcome analysis of the trial we found no difference between ITM and QL conditions in 
+rates of 12-month verified abstinence (9.8%, 27/280 vs 12%, 34/286; p =.406), average 
+number of cigarettes per day ( p = .721), or quit attempts ( p = .347) ( Richter et al., 2015 ).
+Although the primary outcome analyses yielded findings contrary to our hypothesis we also 
+pre-specified treatment targets or mediators hypothesized to influence smoking behavior. 
+Incorporating and evaluating the role of hypothesized mediators in clinical trials is 
+recommended for more precise interpretation of the results ( Czajkowski et al., 2015 ). We 
+primarily used Self-determination Theory (SDT) as a basis for our mediation model. SDT 
+posits that when practitioners provide information and resources in a way that patient’s 
+perceive supports their autonomy, patients internalize motivation for change, view 
+themselves as competent to change, and are more likely to achieve lasting behavior change 
+(Deci & Ryan, 1985 ). Important elements of autonomy-supportive counseling include 
+listening carefully to patients perspectives, providing relevant information, inviting 
+questions, offering treatment options, supporting patient attempts at behavior change, and 
+minimizing control ( Williams, Gagne, Ryan, & Deci, 2002a ). This type of intervention leads 
+to increased autonomous motivation, increased competence, and behavior change ( Deci & 
+Ryan, 1985 ). SDT has been effectively used in many clinical settings, for numerous health, 
+mental health, and behavioral outcomes ( Deci & Ryan, 1985 , 2002 ; Williams et al., 2002c ), Liebmann et al. Page 3
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+including smoking cessation ( Williams et al., 2006 ; Williams, Niemiec, Patrick, Ryan, & 
+Deci, 2016 ).
+In addition to the SDT framework we incorporated the construct of therapeutic alliance into 
+our mediation model. Therapeutic alliance is an inherent aspect of counseling (i.e., 
+independent of the counseling approach) and is well established as a key predictor of 
+therapeutic outcome including smoking behavior ( Ahn & Wampold, 2001 ; Klemperer, 
+Hughes, Callas, & Solomon, 2017 ). Therapeutic alliance encompasses the bond between the 
+counselor and patient as well as their agreement on methods and goals of treatment 
+(Lambert, 2016 ). Previous research has observed a positive association between therapeutic 
+alliance and autonomous motivation ( McBride et al., 2010 ). Thus, it is expected that facets 
+of ITM that are hypothesized to promote autonomous motivation may also promote 
+participant-rated therapeutic alliance. In addition to a collaborative relational style, the 
+theoretical conceptualization of therapeutic alliance has been expanded to reflect the idea 
+that the quality of the working relationship depends upon the ease with which therapeutic 
+ruptures and disagreements are resolved ( Doran, 2016 ). Given that telemedicine may 
+facilitate the judgement of affect through the presence of visual cues, it is possible that ITM 
+may allow for more rapid identification of tension or disagreement. Relative to telephone 
+counseling, this enhancement may allow for the more rapid resolution of difficult moments 
+in counseling thereby promoting, or maintaining, alliance.
+Figure 1 depicts the conceptual model of how we hypothesized SDT constructs and 
+therapeutic alliance would facilitate smoking cessation in the context of ITM. We 
+hypothesized that ITM would create a stronger therapeutic alliance and better facilitate the 
+counselor’s ability to offer autonomy-supportive counseling. Although we trained 
+counselors in both phone and ITM to use an autonomy supportive communication style, we 
+hypothesized that ITM would facilitate more supportive counseling interactions than phone 
+counseling because of the availability of visual cues and the facilitation of information 
+exchange targeted to expressed patient needs. We also hypothesized that because ITM 
+sessions were located in primary care offices, providers would be more likely to address 
+smoking cessation informally or formally with the patients in that study condition. We 
+hypothesized that the patients in ITM would therefore be more likely to perceive that their 
+health care provider supported them making an attempt to quit than patients who received 
+counseling over the phone at home. We further hypothesized that this might lead to greater 
+perceived autonomy support from their provider even though the provider was not directly 
+engaged in counseling. This was predicted to result in greater perceived competence and 
+autonomous motivation for quitting and in turn an increased likelihood of quitting.
+The aim of this study was to conduct a secondary analysis to evaluate this SDT-based 
+conceptual model to further our insight into the effects of telemedicine and quitline phone 
+counseling for smoking cessation and better interpret the results of our clinical trial.Liebmann et al. Page 4
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Methods
+Study Design
+The design of this study (Connect2Quit) has been published previously ( Mussulman et al., 
+2014 ). The study enrolled 566 smokers who were recruited through 20 primary care clinics 
+throughout the state of Kansas from June, 2009 through June, 2011. Six participants died 
+during the course of the study and thus were excluded from the present analysis (n = 560). 
+Participants were recruited through radio, community health fairs, religious organizations, 
+and businesses. Participants were randomly assigned to the ITM and QL conditions, 
+respectively. Four counseling sessions occurred at weeks 0, 1, 4, and 8. Follow-up 
+assessments were conducted at months 3, 6, and 12. The reimbursement schedule for the 
+study was $20 at baseline, $20 at 3 months, $20 at 6 months, and $50 at 12 months. 
+Participating primary care clinics received $1,000 for incidental costs related to the study 
+and a computer and PVX software used to implement the ITM intervention. The University 
+of Kansas Medical Center approved all study procedures. Written informed consent was 
+obtained from each study participant prior to enrollment in the trial.
+Eligibility
+Eligible participants were required to have a physician participating in the study, be 18 years 
+or older, smoke 5 or more cigarettes per day for at least one year, smoke 25 or more days out 
+of the past 30, speak English or Spanish, and have a telephone. Exclusion criteria included 
+using non-cigarette tobacco products, currently taking smoking cessation products, currently 
+breast feeding or planning to get pregnant, planning to move in the next year, not having a 
+healthcare provider, or living with a current study participant ( Mussulman et al., 2014 ).
+Intervention
+Study staff-delivered components.— In the week following enrollment, all participants 
+received a mailed packet of educational materials on smoking cessation, a timeline of study 
+activities, and individualized information on appropriate quit smoking medications given 
+insurance and medical status. Participants were randomly assigned to either the ITM or QL 
+treatment conditions.
+Participants in the ITM condition received four sessions of smoking cessation counseling 
+located in their primary care clinic. The QL condition consisted of four sessions that were 
+conducted via telephone in participants’ homes or by mobile phone. The content of the QL 
+condition was designed to mimic tobacco quitline counseling. The content of counseling in 
+the ITM and QL conditions was based on the Combined Behavioral Intervention (CBI), 
+which integrates Motivational Interviewing and Cognitive Behavioral Therapy (“ Brief 
+treatments for cannabis dependence: findings from a randomized multisite trial,” 2004 ; 
+Miller, 2004 ; Stephens, Babor, Kadden, & Miller, 2002 ). The counseling in both treatment 
+arms was adapted to adhere to principles of Self-Determination Theory (SDT). Self-
+Determination Theory posits that interventions that support participant autonomy facilitate 
+the internalization of motivation to change and increase perceived competence to do so and 
+thereby make behavior change more likely ( Deci & Ryan, 1985 ). Components of counseling 
+consistent with SDT included listening to participant perspectives, providing relevant Liebmann et al. Page 5
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+information, inviting questions, supporting attempts at behavior change while minimizing 
+counselor pressure and control so that patients could make their own choices related to 
+quitting ( Williams et al., 2002a ). Quit Tips and pharmacotherapy guidance were provided to 
+all patients during the first counseling session. A 5-Day Quit Plan was also completed 
+during the first counseling session and updated as desired by the participant.
+Physician office involvement.— Patients were recruited from primary-care clinics. 
+Providers were informed about the study and agreed to facilitate recruitment by identifying 
+and referring smokers as well as providing a room to place the equipment. Although 
+participants’ physicians did not have a formal role in the intervention, participants in both 
+ITM and QL arms were encouraged to collaborate with their physicians on quitting smoking 
+by sharing with them their Quit Plans and requesting advice and scripts for smoking 
+cessation medications.
+Measures
+Healthcare Provider Autonomy Support.— The Healthcare Climate Questionnaire, 
+short-form (HCCQ) was used in the present study as a measure of participants’ perception of 
+support provided by their healthcare providers and has been used previously within the 
+context of smoking cessation ( Williams et al., 2002a ; Williams, Grow, Freedman, Ryan, & 
+Deci, 1996 ). The short-form version of the HCCQ has 6 items (e.g., My health care 
+providers listen to how I would like to do things regarding my smoking) and is scored on a 1 
+(strongly disagree ) to 7 ( strongly agree ) scale. The HCCQ was administered at study 
+baseline and the 3-month follow-up. The HCCQ at study baseline ( ωTotal = .90, 95% CI [.
+88, .91]) and at 3-months ( ωTotal = .93, 95% CI [.91, .94]) had satisfactory internal 
+consistency. The HCCQ will be referred to subsequently by the construct it represents, 
+provider autonomy support (PAS).
+Working Alliance.— The Working Alliance Inventory, short-form (WAI) was administered 
+to measure the therapeutic alliance perceived by participants with their smoking cessation 
+counselor. The WAI is a 12-item measure (e.g., My Connect 2 Quit counselor and I agreed 
+about the things I need to do help improve my situation) scored on a 7-point Likert-scale 
+ranging from 1 ( never ) to 7 ( always ) (Tracey & Kokotovic, 1989 ). The WAI was 
+administered at the 3-month follow-up only because it could not be used prior to the 
+participants receiving counseling. The WAI had satisfactory internal consistency ( ωTotal = .
+85, 95% CI [.78, .90]).
+Perceived Competence for Smoking Cessation.— The Perceived Competence Scale 
+for Smoking Cessation (PC) was administered to measure the degree to which participants 
+felt able to quit smoking. The Perceived Competence scale is a 4-item measure (e.g., I feel 
+confident in my ability to quit smoking) scored on a 7-point Likert-scale ranging from 1 
+(strongly disagree ) to 7 ( strongly agree ) (Williams, Freedman, & Deci, 1998 ). The internal 
+consistencies for PC at study baseline ( ωTotal = .82, 95% CI [.79, .85]) and at 3-months 
+(ωTotal = .94, 95% CI [.93, .95]) were satisfactory.Liebmann et al. Page 6
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Autonomous Motivation.— The Treatment Self-Regulation Questionnaire (TSRQ) was 
+administered to measure the degree to which participants had internalized their motivation to 
+quit smoking. The version of the TSRQ used in the present study was adapted specifically 
+for smoking cessation ( Ryan & Connell, 1989 ; Williams et al., 2002a ). The measure has 12 
+items (e.g., The reason I would quit smoking is because I feel that I want to take 
+responsibility for my own health) scored on a 7-point Likert scale from 1 ( strongly disagree ) 
+to 7 ( strongly agree ). The present analysis used only the six items composing the 
+Autonomous Motivation (AM) subscale of the TSRQ. The internal consistency of the AM 
+subscale was adequate at both study baseline ( ωTotal = .84, 95% CI [.80, .88]) and 3-months 
+(ωTotal = .89, 95% CI [.85, .92]).
+Smoking cessation.— Two indicators of smoking cessation were used as outcome 
+measures. The primary outcome of the trial and the primary focus of our analysis was 
+verified quit at 12 months (M12QUIT), assessed using 7-day point prevalence that was 
+verified using salivary cotinine, exhaled carbon monoxide (CO), or by proxy. A 15ng/ml cut-
+point was used to differentiate smokers and nonsmokers ( SRNT Subcommittee on 
+Biochemical Verification, 2002 ). Samples were returned to the University of Kansas Medical 
+Center and stored in a freezer. Samples were sent to Dr. Neal Benowtiz at the University of 
+California, San Francisco for analysis using a gas chromatography technique ( Jacob, Wilson, 
+& Benowitz, 1981 ; Spierto et al., 1988 ). Participants who reported quitting and were taking 
+nicotine replacement therapy were asked to provide an exhaled CO sample. Samples ≤ 10 
+ppm were considered abstinent ( Hughes et al., 2003 ). A secondary outcome of the trial was 
+prolonged abstinence defined as self-reported continuous abstinence following a “grace 
+period” of 1 month from beginning of treatment to allow treatment to take effect ( Hughes et 
+al., 2003 ). We supplemented our main analysis with an examination of the SDT-based model 
+using prolonged abstinence as the outcome.
+The self-reported number of days quit in the past 6-months and number of quit attempts 
+made in the last 6-months were used in bivariate correlations with the SDT constructs. These 
+self-reported smoking cessation outcomes were collected during the 12-month follow-up 
+assessment.
+Data Analysis
+In order to test the conceptual model, structural equation modeling (SEM) using latent 
+change scores (LCS) was used to model the inter-relationships among changes in the SDT 
+constructs and their associations with smoking cessation. The analysis focused on 12-month 
+abstinence, which was biochemically confirmed and the primary outcome of the trial, but we 
+also repeated all analyses using prolonged abstinence. The use of LCS is preferable to that 
+of observed change scores because measurement error can be modeled separately in the 
+latent variable framework, whereas change scores are contaminated by measurement error 
+when calculated directly from the observed data ( McArdle & Hamagami, 2003 ). Latent 
+change scores are explicitly modeled distinct latent variables and represent the change in a 
+latent construct occurring between adjacent time-points ( Selig & Preacher, 2009 ). In this 
+analysis, all latent change scores represent change in SDT constructs occurring between the 
+assessments at baseline and 3-months. Latent change scores are estimated by constraining Liebmann et al. Page 7
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+the paths from latent variable (LV) Time 1  to LV Time2  and from ΔLV Time2,1  to LV Time2  to one 
+(MacKinnon, 2008 ; McArdle & Hamagami, 2003 ). In order to account for the dependence 
+among observations due to repeated measurements, clustered standard errors were estimated 
+using the TYPE = COMPLEX function in Mplus, version 7.4 ( Muthén & Muthén, 1998–
+2011 ).
+Mediation models using LCS were adapted from LCS mediation models discussed in Selig 
+and Preacher (2009)  and MacKinnon (2008) . The product-of-coefficients approach was used 
+to estimate point estimates of the indirect effects. Assessing the statistical significance of 
+indirect effects using p-values is liable to Type II error ( Fritz & MacKinnon, 2007 ; Hayes & 
+Scharkow, 2013 ). Confidence intervals for the indirect effects were estimated using Monte 
+Carlo simulation (MC) ( Preacher & Selig, 2012 ). For each indirect effect, the constituent 
+unstandardized regression coefficients and asymptotic covariance matrix of these estimates 
+were used as the parameters of a multivariate normal sampling distribution. A large 
+sampling distribution (1 × 107) for each regression coefficient was obtained. The product of 
+the sampling distributions for the regression coefficients formed the sampling distribution 
+for the indirect effect, of which the 95% confidence interval was derived by obtaining the 
+values at the 2.5th and 97.5th percentiles.
+Six mediation paths were estimated. Indirect effect 1 was a path from study arm (ITM vs. 
+QL) to verified quit at 12-months through ΔPAS and ΔAM. Indirect effect 2 was comprised 
+by a path from study arm to cessation through WAI and ΔPC. Indirect effect 3 was a path 
+from study arm to cessation through ΔPAS and ΔPC. Indirect Effect 4 was comprised by a 
+path from study arm to cessation through WAI and ΔAM. Indirect effect 5 was comprised of 
+a path from study arm to cessation through WAI, ΔAM and ΔPC. Lastly, indirect effect 6 
+was comprised of a path from study arm to cessation through, ΔPAS, ΔAM and ΔPC.
+Before specifying the structural model, longitudinal invariance was tested for each measure 
+with repeated assessments in order to establish the invariance of SDT-related constructs over 
+time ( Little, Preacher, Selig, & Card, 2007 ). Strong invariance (item loadings and intercepts 
+constrained to equality across time) was achieved for HCCQ and PC. Weak invariance (item 
+loadings constrained to equality) was achieved for PC. In addition, the measurement model 
+for the WAI was also specified to ensure adequate fit and construct validity. Satisfactory 
+model fit was achieved for a single-factor measurement model for the WAI ( χ2 (52) = 
+129.90, RMSEA =.061, 90% CI [.048, .074], TLI =.879).
+The structural model was adjusted for nicotine dependence, age, gender, and education. 
+Rates of missing data were 17%, 14%, and 12% for months 3, 6, and 12, respectively. 
+Missing data were handled using full information maximum likelihood (FIML). Fit statistics 
+for the structural model could not be estimated due to the inclusion of the categorical 
+outcome (M12QUIT) and the use of clustered standard errors. All confirmatory and 
+structural models were estimated using robust maximum likelihood in Mplus, version 7.4 
+(Muthén & Muthén, 1998–2011 ). Monte Carlo simulation of the confidence intervals for the 
+indirect effects was conducted in R, version 3.3.1 ( R Core Team, 2016 ).Liebmann et al. Page 8
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Results
+Preliminary Analyses
+Sample characteristics by treatment arm are presented in Table 1. No significant differences 
+were observed with respect to treatment arm. As reported previously in the main outcomes 
+paper ( Richter et al., 2015 ), the rate of self-reported 7-day point prevalent abstinence at 3-
+months for the quitline and ITM groups were 19.4% and 23.2% at 3-months, respectively. 
+The rates of self-reported 7-day point prevalent abstinence for the quitline and ITM groups 
+at 6-months were 20.4% and 20.3%, respectively. The rates of biochemically verified 
+abstinence at 12-months for the quitline and ITM groups were 12% and 9.8%, respectively. 
+The rates of prolonged abstinence for the quitline and ITM groups was 8.1% and 7.6%, 
+respectively. There were no significant group differences at any of the time points.
+The SDT-related constructs were moderately correlated concurrently and prospectively 
+(Table 2). Self-Determination Theory constructs at baseline and 3-months were weakly-to-
+moderately associated with smoking outcomes at 12-months. The number of days quit in the 
+last 6-months, reported at 12-months, was positively associated with autonomous motivation 
+at baseline ( r = .12, p = .01) and 3-months ( r = .19, p < .01), perceived competence for 
+quitting at 3-months ( r = .31, p < .01), and healthcare provider support at 3-months ( r = .14, 
+p = .01). The number of quit attempts in the past 6-months at the end of study follow-up was 
+positively associated with perceived competence at baseline ( r = .12, p = .01).
+Structural Equation Model and Mediation Analysis
+Because results of the model using 7-day point prevalence verified cessation as the outcome 
+were very similar to the model for prolonged abstinence we present the findings for the 
+primary outcome only. The results of the structural equation model are depicted in Figure 2. 
+Relative to the Quitline condition (QL), Integrated Telemedicine (ITM) was associated with 
+significantly greater gains in perceived healthcare provider autonomy support (ΔPAS) during 
+the 3-month intervention period ( b = .347, p < .001). Contrary to our hypothesis, being in the 
+telemedicine arm did not lead to greater perceived working alliance (WAI) at 3-months. 
+Intervention condition did not have significant associations with change in autonomous 
+motivation (ΔAM) or perceived competence to quit (ΔPC) or verified smoking cessation at 
+12-months.
+The structural model showed different patterns of association between WAI and ΔPAS and 
+the latent changes scores for AM and PC. Increases in healthcare provider support were 
+positively associated with increases in ΔPC ( b = .136, p < .001) and were significantly 
+associated with change in ΔAM ( b = .052, p < .01.). Working alliance at 3-months was not 
+associated with increases in ΔPC ( b = .360 p = n.s.), but was positively associated with ΔAM 
+(b = .562, p < .01).
+The latent change score for PC was the only SDT construct that predicted biochemically 
+verified smoking cessation at 12-months ( OR = 1.474, p < .01). Nicotine dependence, as 
+measured by the FTND, was associated with a reduced likelihood of smoking cessation ( OR 
+= .838, p = .001).Liebmann et al. Page 9
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Estimated indirect effects with their respective 95% confidence intervals are presented in 
+Table 3. The path from arm to ΔPAS to ΔPC to M12Quit was statistically significant 
+(indirect effect = .0183, 95% CI [.003, .044]). This indirect effect can be expressed and 
+interpreted as an odds ratio ( Huang, Sivaganesan, Succop, & Goodman, 2004 ; Preacher, 
+2015 ). The indirect effect coefficients in this analysis represent the product of the regression 
+coefficient for each individual path comprising the indirect effect. In other words, they 
+represent a composite effect of treatment arm and first and second-order mediators. Thus, 
+the joint of effect of ITM and intra-individual increases in perceived autonomy support and 
+perceived competence to quit smoking, is associated with a 1.8% increase in odds of 
+smoking cessation compared to telephone counseling. The indirect effect from arm to ΔPAS 
+to ΔAM to ΔPC to M12 Quit was also significant (indirect effect = .003, 95% CI [.002, .
+015]). For this path, the joint effect of ITM and intra-individual changes in provider 
+autonomy support, autonomous motivation and perceived competence is associated with a 
+0.3% increase in odds of cessation.
+Discussion
+Whereas the primary outcome analysis ( Richter et al., 2015 ) showed no difference between 
+treatments in their effects on cessation, the present analysis provides deeper insight into 
+effective pathways and mechanisms of action. We found that integrated telemedicine 
+predicted perceived autonomy support from health care providers at 3-months after 
+randomization, which in turn was directly associated with perceived competence to quit at 3-
+months after randomization, which predicted smoking cessation after treatment. 
+Additionally, a second indirect effect was observed that extended the first by incorporating 
+change in autonomous motivation. These pathways were consistent with the SDT 
+intervention model, and provide evidence that integrated telemedicine outperforms phone 
+counseling in facilitating greater perceived provider support for cessation. These results are 
+supported by our previously published finding that ITM participants were more likely to 
+recommend the intervention to other smokers than phone counseling participants ( Richter et 
+al., 2015 ).
+The effective pathways identified through SEM did not involve all of the mechanisms we 
+originally hypothesized would contribute to the primary outcome—this perhaps accounts for 
+the observation of no overall group differences in outcome. First, the effects of the 
+interventions on targeted mediators were mixed. Integrated telemedicine positively 
+influenced change in perceived provider autonomy support, but surprisingly, the visual cues 
+in ITM did not appear to lead to enhanced working alliance relative to phone. We used the 
+HCCQ to assess support from participants’ health care providers, and the WAI to evaluate 
+participants’ interactions with their smoking cessation counselors. We may have not detected 
+a difference in alliance because participants in ITM attended fewer sessions than those 
+receiving phone counseling, such that any advantages to communicating via telemedicine 
+were overwhelmed by the superior dose of phone contact. This dose imbalance would not 
+affect perceived health care provider support, because only ITM participants had sessions at 
+their providers’ offices. Alternatively, telemedicine for smoking cessation may simply have 
+no alliance related advantages over phone counseling. Telemedicine appears to perform as 
+well as face-to-face treatment for a number of conditions, and a number of trials have Liebmann et al. Page 10
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+demonstrated that telephone performs as well as face-to-face counseling at delivering 
+interventions for a number of health interventions, including genetic counseling and obesity 
+treatment ( Appel et al., 2011 ; Harrigan et al., 2016 ; Schwartz et al., 2014 ). The logical 
+extension is that telephone may perform as well as telemedicine counseling.
+Second, targeted mediators were positively correlated with second order SDT mediators and 
+influenced them as expected. In two prior studies of SDT interventions on smoking 
+cessation, changes in HCCQ enhanced autonomous motivation, which in turn increased rates 
+of cessation ( Williams et al., 2002b ; Williams et al., 2006 ). In the present analysis, a similar 
+effect was observed. Provider autonomy support was associated with greater change in 
+autonomous motivation, which in turn was associated with increased PC and greater odds of 
+cessation. Perceived autonomy support may have been bolstered by the proximity of 
+providers during counseling sessions, and by additional information and treatment assistance 
+they may have provided before, during, and/or after each session. Thus, this indirect effect is 
+consistent with that observed in previous SDT-informed interventions for smoking cessation 
+(Williams et al., 2006 ).
+Third, second order mediators had mixed effects on the outcome. Consistent with Williams 
+and colleagues (2006) , the ITM intervention significantly increased perceived autonomy 
+support, which was associated with greater changes in perceived competence for quitting 
+smoking, which in turn was significantly associated with smoking cessation. Receiving 
+counseling via telemedicine in the medical home enhanced perceived competence in a way 
+that home-based phone counseling did not. Perhaps the perception that the health care team 
+was prepared to expend office space, provider time, and technology on smoking cessation—
+in addition to the enhanced feelings of support from the providers—provided evidence that 
+providers believed in the participants’ ability to quit, which in turn helped participants 
+believe in their own ability to quit. The association between perceived competence and 
+quitting smoking accords with current literature. Perceived competence and self-efficacy, 
+which are distinct but similar concepts related to the ability to perform behaviors, are among 
+the most reliable psychological predictors of health behavior change ( Ng et al., 2012 ; 
+Strecher, DeVellis, Becker, & Rosenstock, 1986 ).
+This suggests that cessation counseling at a distance—that is in some way integrated into the 
+medical office milieu—enhances efforts to quit smoking by boosting autonomy support 
+directly and perceived competence indirectly. Integrating distance counseling in busy and 
+often crowded clinical practices might be a challenge, but merits consideration. The parent 
+study found that costs for delivering ITM versus phone counseling were equivalent, except 
+for the cost of the clinic space for the ITM session ( Richter et al., 2015 ). One solution might 
+be to hold ITM sessions after clinic business hours, which would extend the utility of the 
+office without taking examining room time away from the treatment of other conditions. 
+Reimbursement for telemedicine-delivered care, which is available in some states, obviates 
+this issue and facilitates individuals to choose their preferred approach to smoking cessation 
+interventions.1
+1Reviewer 2 is credited with providing language that clearly articulates this point.Liebmann et al. Page 11
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+The findings provide support for the SDT model that was examined and replicates findings 
+from 2 prior SDT based smoking cessation trials as well as a study of SDT in diabetes self-
+management ( Williams et al., 2006 ; Williams, McGregor, Zeldman, Freedman, & Deci, 
+2004 ; Williams, Niemiec, Patrick, Ryan, & Deci, 2009 ; Williams et al., 2016 ). The present 
+study extends the findings from those trials which used face to face and phone counseling by 
+showing that ITM is also effective at fostering cessation through autonomy support, 
+autonomous motivation, and perceived competence. Our results also indicated that the 
+indirect effects of the intervention were ultimately mediated through perceived competence 
+rather than autonomous motivation. This is consistent with both prior SDT based smoking 
+cessation studies as well as a study of SDT in diabetes self-management ( Williams et al., 
+2004 ).
+Taken as a whole, results indicate that SDT is a useful model for understanding health 
+behavior change and for identifying key behavioral mechanisms for facilitating behavior 
+change. The two statistically significant indirect effects observed in this analysis were 
+entirely consistent with SDT. Nevertheless, the magnitude of the indirect effect of 
+telemedicine on cessation was small and we found relatively small effects between the first 
+and second order mediators. In particular, the effect of autonomy support on autonomous 
+motivation and competence was near zero (b = .05). Thus, the intervention was able to 
+increase provider autonomy support, however the downstream effect of enhancing autonomy 
+support on second order mediators was limited in this trial. This is consistent with the lack 
+of an overall difference in cessation between ITM and phone that was observed in the 
+primary outcome analysis ( Richter et al., 2015 ). This result may also be related to the fact 
+that we did not assess autonomous motivation for medication adherence. Williams et al. 
+(2006)  used a combined measure of autonomous motivation that included autonomous 
+motivation for medication use and autonomous motivation for cessation. They found a 
+significant path between autonomous motivation and cessation via medication use. Thus our 
+findings may underestimate the effect of autonomous motivation on cessation. Moreover, 
+Williams et al. (2006)  operationalized abstinence by means of a latent variable that 
+incorporated 7-day point prevalence abstinence, longest number of days not smoking, and 
+number of days since last cigarette. Both these measurement differences may have 
+contributed to the lack of a direct association between autonomous motivation and cessation 
+found in the present study.
+The study had a number of strengths and limitations. This study is an excellent test of the 
+interventions and the effects of SDT, because we specified our conceptual model a priori , 
+carefully measured each observed variable and putative SDT mechanism, and collected 
+repeated measures longitudinally to assess the effects of the intervention on SDT 
+mechanisms across time. Because SDT has been widely used for health behavior change, 
+including smoking cessation, we were able to employ validated measures of theoretical 
+components. One limitation is that we opted to measure autonomy support via only the 
+Health Care Climate Questionnaire, and we asked participants to report solely on the support 
+provided by health care providers. In addition, we did not posit a priori  hypotheses regarding 
+how treatment might engage controlled motivation in service of behavior change because the 
+intervention implemented in this study was designed to be autonomy supportive. Although 
+previous SDT research has also not observed an association between controlled motivation Liebmann et al. Page 12
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+and smoking cessation ( Williams et al., 2006 ), it may be useful for future SDT-informed 
+research to include controlled motivation to confirm these findings and to provide a more 
+complete picture of the interrelationships between SDT constructs.
+With regard to the Working Alliance Questionnaire, we asked participants to report solely on 
+the alliance they felt with their smoking cessation counselors. We could have asked for 
+participants to report on the autonomy support and therapeutic alliance they experienced 
+from both their health care providers and their smoking cessation counselors, but this would 
+have created additional respondent burden and potentially confused patients through excess 
+repetition of the same measures. There may also be other constructs and pathways that are 
+not based on SDT or working alliance that influenced the outcomes of the trial. Study 
+findings are not generalizable outside of the treatment of rural smokers. Last, although our 
+mediators were measured longitudinally, it is important to not assume causal associations 
+between these factors. This is particularly the case with regard to change in autonomous 
+motivation and change in perceived competence, as these constructs were measured 
+concurrently.
+In spite of these limitations, the present findings suggest the study interventions generally 
+influenced SDT constructs as expected. However, the indirect effect of telemedicine on 
+cessation through SDT constructs was small and not sufficient to yield clinically meaningful 
+differences in cessation. This is consistent with the null findings of the primary outcome 
+analysis and highlights how mediation analysis can be used to gain better insight into the 
+mechanisms of change underlying the results of intervention trials.
+Acknowledgements:
+The project was supported by Award Number R01HL087643 from the National Heart, Lung, and Blood Institute. 
+The content is solely the responsibility of the authors and does not necessarily represent the official views of the 
+National Heart, Lung, And Blood Institute or the National Institutes of Health.
+Funding Source: Award Number R01HL087643 from the National Heart, Lung, and Blood Institute
+References
+Ahn H.-n., & Wampold BE (2001). Where oh where are the specific ingredients? A meta-analysis of 
+component studies in counseling and psychotherapy. Journal of Counseling Psychology, 48(3), 251–
+257. doi:10.1037/0022-0167.48.3.251
+Appel LJ, Clark JM, Yeh HC, Wang NY , Coughlin JW, Daumit G, … Brancati FL (2011). Comparative 
+effectiveness of weight-loss interventions in clinical practice. N Engl J Med, 365(21), 1959–1968. 
+doi:10.1056/NEJMoa1108660 [PubMed: 22085317] 
+Brief treatments for cannabis dependence: findings from a randomized multisite trial. (2004). J Consult 
+Clin Psychol, 72(3), 455–466. doi:10.1037/0022-006x.72.3.455 [PubMed: 15279529] 
+Center for Behavioral Health Statistics and Quality. (2015). Behavioral health trends in the United 
+States: Results from the 2014 National Survey on Drug Use and Health HHS Publication (No. SMA 
+15–4927, NSDUH Series H-50). http://www.samhsa.gov/data/ .
+Centers for Disease Control (CDC). (2006). Tobacco use among adults--United States, 2005. MMWR. 
+Morbidity and Mortality Weekly Report, 55(42), 1145–1148. [PubMed: 17065979] 
+Centers for Disease Control (CDC). (2017). Tobacco use among adults--United States, 2005–2015. 
+MMWR. Morbidity and Mortality Weekly Report, 65(52), 1457–1464. [PubMed: 28056007] Liebmann et al. Page 13
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Currell R, Urquhart C, Wainwright P, & Lewis R (2000). Telemedicine versus face to face patient care: 
+effects on professional practice and health care outcomes. Cochrane Database Syst Rev (2), 
+Cd002098. doi:10.1002/14651858.cd002098 [PubMed: 10796678] 
+Czajkowski SM, Powell LH, Adler N, Naar-King S, Reynolds KD, Hunter CM, … Charlson ME 
+(2015). From ideas to efficacy: The ORBIT model for developing behavioral treatments for chronic 
+diseases. Health Psychol, 34(10), 971–982. doi:10.1037/hea0000161 [PubMed: 25642841] 
+Deci E, & Ryan R (1985). Intrinsic motivation and self-determination in human behavior. New York: 
+Plenum.
+Deci E, & Ryan R (2002). Handbook of self-determination research. Rochester, NY: University of 
+Rochester Press.
+Doran JM (2016). The working alliance: Where have we been, where are we going? Psychother Res, 
+26(2), 146–163. doi:10.1080/10503307.2014.954153 [PubMed: 25204369] 
+Fiore MC, Jaen CR, Baker TB, Bailey WC, Benowitz NL, Curry SJ, & et al. (2008). Treating tobacco 
+use and dependence 2008 update. Clinical practice guidelines. Retrieved from Rockville, MD: 
+Accessed:
+Flodgren G, Rachas A, Farmer AJ, Inzitari M, & Shepperd S (2015). Interactive telemedicine: effects 
+on professional practice and health care outcomes. Cochrane Database Syst Rev (9), Cd002098. 
+doi:10.1002/14651858.CD002098.pub2 [PubMed: 26343551] 
+Foley GN, & Gentile JP (2010). Nonverbal communication in psychotherapy. Psychiatry (Edgmont), 
+7(6), 38–44.
+Fritz MS, & MacKinnon DP (2007). Required Sample Size to Detect the Mediated Effect. 
+Psychological science, 18(3), 233–239. doi:10.1111/j.1467-9280.2007.01882.x [PubMed: 
+17444920] 
+Harrigan M, Cartmel B, Loftfield E, Sanft T, Chagpar AB, Zhou Y , … Irwin ML (2016). Randomized 
+Trial Comparing Telephone Versus In-Person Weight Loss Counseling on Body Composition and 
+Circulating Biomarkers in Women Treated for Breast Cancer: The Lifestyle, Exercise, and 
+Nutrition (LEAN) Study. J Clin Oncol, 34(7), 669–676. doi:10.1200/jco.2015.61.6375 [PubMed: 
+26598750] 
+Hayes AF, & Scharkow M (2013). The relative trustworthiness of inferential tests of the indirect effect 
+in statistical mediation analysis: does method really matter? Psychol Sci, 24(10), 1918–1927. doi:
+10.1177/0956797613480187 [PubMed: 23955356] 
+Huang B, Sivaganesan S, Succop P, & Goodman E (2004). Statistical assessment of mediational effects 
+for logistic mediational models. Stat Med, 23(17), 2713–2728. doi:10.1002/sim.1847 [PubMed: 
+15316954] 
+Hughes JR, Keely JP, Niaura RS, Ossip-Klein DJ, Richmond RL, & Swan GE (2003). Measures of 
+abstinence in clinical trials: issues and recommendations. Nicotine Tob Res, 5(1), 13–25. 
+[PubMed: 12745503] 
+Jacob P 3rd, Wilson M, & Benowitz NL (1981). Improved gas chromatographic method for the 
+determination of nicotine and cotinine in biologic fluids. J Chromatogr, 222(1), 61–70. [PubMed: 
+6783675] 
+Klemperer EM, Hughes JR, Callas PW, & Solomon LJ (2017). Working alliance and empathy as 
+mediators of brief telephone counseling for cigarette smokers who are not ready to quit. Psychol 
+Addict Behav, 31(1), 130–135. doi:10.1037/adb0000243 [PubMed: 28165273] 
+Lambert MJ (2016). The therapeutic alliance: An evidence-based guide to practice. Psychotherapy 
+Research, 26(2), 59–61.
+Lambert MJ, & Barley DE (2001). Research summary on the therapeutic relationship and 
+psychotherapy outcome. Psychotherapy: Theory, research, practice, training, 38(4), 357.
+Little TD, Preacher KJ, Selig JP, & Card NA (2007). New developments in latent variable panel 
+analyses of longitudinal data. International Journal of Behavioral Development, 31(4), 357–365.
+MacKinnon D (2008). Introduction to Statistical Mediation Analysis. New York: Lawrence Erlbaum 
+Associates.
+McArdle JJ, & Hamagami F (2003). Structural equation models for evaluating dynamic concepts 
+within longitudinal twin analyses. Behav Genet, 33(2), 137–159. [PubMed: 14574148] Liebmann et al. Page 14
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+McBride C, Zuroff DC, Ravitz P, Koestner R, Moskowitz DS, Quilty L, & Bagby RM (2010). 
+Autonomous and controlled motivation and interpersonal therapy for depression: moderating role 
+of recurrent depression. Br J Clin Psychol, 49(Pt 4), 529–545. doi:10.1348/014466509x479186 
+[PubMed: 19917153] 
+Miller W (2004). Combined behavioral intervention manual: a clinical research guid for therapists 
+treating people with alcohol abuse and dependence (V ol. 1). Bethesda, MD: DHHS (NIH).
+Mussulman L, Ellerbeck EF, Cupertino AP, Preacher KJ, Spaulding R, Catley D, … Richter KP 
+(2014). Design and participant characteristics of a randomized-controlled trial of telemedicine for 
+smoking cessation among rural smokers. Contemp Clin Trials, 38(2), 173–181. doi:10.1016/j.cct.
+2014.04.008 [PubMed: 24768940] 
+Muthén LK, & Muthén BO (1998–2011). Mplus User’s Guide (Sixth ed.). Los Angeles, CA: Muthén 
+& Muthén.
+Ng JY , Ntoumanis N, Thogersen-Ntoumani C, Deci EL, Ryan RM, Duda JL, & Williams GC (2012). 
+Self-Determination Theory Applied to Health Contexts: A Meta-Analysis. Perspect Psychol Sci, 
+7(4), 325–340. doi:10.1177/1745691612447309 [PubMed: 26168470] 
+North American Quitline Consortium. (2008). Draft results from the 2008 North American Quitline 
+Consortium annual survey. Retrieved from http://www.naquitline.org/resource/resmgr/
+survey_2008/2008surveynotespres.pdf
+Orlinsky D, Ronnestad M, & Wilutzski U (2004). Fifty years of psychotherapy process-outcome 
+research: Continuity and change In Lambert MJ (Ed.), Bergin and Garfield’s Handbook of 
+Psychotheraphy and Behavior Change (5 ed.). New York: John Wiley & Sons.
+Preacher KJ (2015). Advances in mediation analysis: a survey and synthesis of new developments. 
+Annu Rev Psychol, 66, 825–852. doi:10.1146/annurev-psych-010814-015258 [PubMed: 
+25148853] 
+Preacher KJ, & Selig JP (2012). Advantages of Monte Carlo confidence intervals for indirect effects. 
+Communication Methods and Measures, 6(2), 77–98.
+R Core Team. (2016). R: A language and environment for statistical computing. Vienna, Austria: R 
+Foundation for Statistical Computing Retrieved from https://www.r-project.org/
+Richter KP, Shireman TI, Ellerbeck EF, Cupertino AP, Catley D, Cox LS, … Lambart L (2015). 
+Comparative and cost effectiveness of telemedicine versus telephone counseling for smoking 
+cessation. J Med Internet Res, 17(5), e113. doi:10.2196/jmir.3975 [PubMed: 25956257] 
+Ryan RM, & Connell JP (1989). Perceived locus of causality and internalization: examining reasons 
+for acting in two domains. J Pers Soc Psychol, 57(5), 749–761. [PubMed: 2810024] 
+Scannell K, Perednia D, & Kissman H (1995). Telemedicine: past, present, future. Retrieved from 
+http://www.nlm.nih.gov/archive/20040830/pubs/cbm/telembib.html . Accessed: November 29, 
+2005.
+Schwartz MD, Valdimarsdottir HB, Peshkin BN, Mandelblatt J, Nusbaum R, Huang AT, … King L 
+(2014). Randomized noninferiority trial of telephone versus in-person genetic counseling for 
+hereditary breast and ovarian cancer. J Clin Oncol, 32(7), 618–626. doi:10.1200/jco.2013.51.3226 
+[PubMed: 24449235] 
+Selig JP, & Preacher KJ (2009). Mediation models for longitudinal data in developmental research. 
+Research in Human Development, 6(2–3), 144–164.
+Spierto F, Hannon W, Kendrick J, Bernert J, Pirkle J, & Gargiullo P (1988). Urinary cotinine levels in 
+women enrolled in a smoking cessation study during and after pregnancy. J Smoking-Related Dis, 
+5(2), 65–76.
+SRNT Subcommittee on Biochemical Verification. (2002). Biochemical verification of tobacco use 
+and cessation. Nicotine Tob Res, 4(2), 149–159. doi:10.1080/14622200210123581 [PubMed: 
+12028847] 
+Stephens RS, Babor TF, Kadden R, & Miller M (2002). The Marijuana Treatment Project: rationale, 
+design and participant characteristics. Addiction, 97 Suppl 1, 109–124. [PubMed: 12460133] 
+Strecher VJ, DeVellis BM, Becker MH, & Rosenstock IM (1986). The role of self-efficacy in 
+achieving health behavior change. Health Educ Q, 13(1), 73–92. doi:
+10.1177/109019818601300108 [PubMed: 3957687] Liebmann et al. Page 15
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Tracey TJ, & Kokotovic AM (1989). Factor structure of the working alliance inventory. Psychological 
+Assessment: A journal of consulting and clinical psychology, 1(3), 207.
+Williams GC, Freedman ZR, & Deci EL (1998). Supporting autonomy to motivate patients with 
+diabetes for glucose control. Diabetes care, 21(10), 1644–1651. [PubMed: 9773724] 
+Williams GC, Gagne M, Ryan RM, & Deci EL (2002a). Facilitating autonomous motivation for 
+smoking cessation. Health Psychol, 21(1), 40–50. [PubMed: 11846344] 
+Williams GC, Gagne M, Ryan RM, & Deci EL (2002b). Facilitating autonomous motivation for 
+smoking cessation Health Psychol (V ol. 21, pp. 40–50). [PubMed: 11846344] 
+Williams GC, Grow VM, Freedman ZR, Ryan RM, & Deci EL (1996). Motivational predictors of 
+weight loss and weight-loss maintenance. Journal of personality and social psychology, 70(1), 115. 
+[PubMed: 8558405] 
+Williams GC, McGregor HA, Sharp D, Levesque C, Kouides RW, Ryan RM, & Deci EL (2006). 
+Testing a self-determination theory intervention for motivating tobacco cessation: supporting 
+autonomy and competence in a clinical trial. Health Psychol, 25(1), 91–101. doi:
+10.1037/0278-6133.25.1.91 [PubMed: 16448302] 
+Williams GC, McGregor HA, Zeldman A, Freedman ZR, & Deci EL (2004). Testing a self-
+determination theory process model for promoting glycemic control through diabetes self-
+management. Health Psychol, 23(1), 58–66. doi:10.1037/0278-6133.23.1.58 [PubMed: 14756604] 
+Williams GC, Minicucci DS, Kouides RW, Levesque CS, Chirkov VI, Ryan RM, & Deci EL (2002c). 
+Self-determination, smoking, diet and health. Health education research, 17(5), 512–521. 
+[PubMed: 12408196] 
+Williams GC, Niemiec CP, Patrick H, Ryan RM, & Deci EL (2009). The importance of supporting 
+autonomy and perceived competence in facilitating long-term tobacco abstinence. Ann Behav 
+Med, 37(3), 315–324. doi:10.1007/s12160-009-9090-y [PubMed: 19373517] 
+Williams GC, Niemiec CP, Patrick H, Ryan RM, & Deci EL (2016). Outcomes of the Smoker’s Health 
+Project: a pragmatic comparative effectiveness trial of tobacco-dependence interventions based on 
+self-determination theory. Health Educ Res, 31(6), 749–759. doi:10.1093/her/cyw046 [PubMed: 
+27923864] Liebmann et al. Page 16
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 1. 
+Conceptual model of how the SDT Process Influences CessationLiebmann et al. Page 17
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 2. Structural Model Diagram and Parameter Estimates.
+Note: PAS = Healthcare provider autonomy support, PC = Perceived Competence to Quit 
+Smoking, AM = Autonomous Motivation Subscale, WAI = Working Alliance Inventory, 
+ITM = Integrated Telemedicine, QL = Quitline, * = Fixed parameters. Ovals represent latent 
+variables and rectangles represent observed variables. Regression coefficients are 
+unstandardized for latent variables. Coefficients for predictors of smoking cessation are odds 
+ratios. The structural model was adjusted for age, gender, education, and nicotine 
+dependence.Liebmann et al. Page 18
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptLiebmann et al. Page 19
+Table 1.
+Baseline Characteristics Stratified by Arm
+Quitline
+(N = 284)Integrated Telemedicine
+(N = 276)
+Variable N (%) or M (SD) N (%) or M (SD) p-Value
+Age 47.51 (12.96) 47.27 (12.81) 0.83
+Female 190 (66.90) 173 (62.68) 0.33
+Education ≥ HS 126 (44.37) 115 (41.67) 0.55
+Has health insurance 178 (62.68) 174 (63.04) 0.93
+FTND, baseline 4.85 (2.35) 4.91 (2.2) 0.74
+CPD, baseline 19.22 (9.84) 20.27 (10.69) 0.23
+PC, baseline 19.90 (6.06) 19.82 (5.83) 0.88
+AM, baseline 38.71 (5.30) 39.08 (4.76) 0.38
+HCCQ, baseline 30.63 (10.48) 31.17 (9.82) 0.52
+WAI, month 3 69.25 (8) 70.38 (5.80) 0.10
+FTND = Fagerström Test of Nicotine Dependence, CPD = Cigarettes per day, PC = Perceived Competence to Quit Smoking, AM = Autonomous 
+Motivation, HCCQ = Healthcare Climate Questionnaire, WAI = Working Alliance Inventory
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptLiebmann et al. Page 20Table 2.
+Correlation Matrix of Self-Determination Theory Constructs and Smoking Cessation Outcomes
+Variable 1 2 3 4 5 6 789
+1Autonomous Motivation, Baseline -
+2Autonomous Motivation, Month 3 0.58** -
+3Working Alliance Inventory, Month 3 0.27**0.42** -
+4Perceived Competence to Quit Smoking, Baseline 0.38**0.28**0.13* -
+5Perceived Competence to Quit Smoking, Month 3 0.26**0.4**0.22**0.41** -
+6Healthcare Climate Questionnaire, Baseline 0.17**0.12*0.15**0.16**0.1* -
+7Healthcare Climate Questionnaire, Month 3 0.08 0.2**0.23**0.12*0.25**0.35** -
+8Number of days quit in last 6-months, Month 12 0.12*0.19** 0.1 0.04 0.31** 0.1 0.14* -
+9Number of quit attempts in past 6-months, Month 12 0.07 0.08 0.04 0.12* 0.1 0.09 0.07 0.07 -
+*p <.05
+**p <.01
+Health Psychol . Author manuscript; available in PMC 2020 July 01.
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptLiebmann et al. Page 21
+Table 3.
+Point Estimates and 95% Confidence Intervals for Indirect Effects
+Path Point Estimate95% Confidence Interval
+Lower Limit Upper Limit
+Arm → ΔPAS → ΔAM → M12 Quit −0.0028 −0.0106 0.0044
+Arm → WAI → ΔPC → M12 Quit 0.0067 −0.016 0.0218
+Arm → ΔPAS → ΔPC → M12 Quit 0.0183 0.003 0.0434
+Arm → WAI → ΔAM → M12 Quit −0.0042 −0.0156 0.0228
+Arm → WAI → ΔAM → ΔPC → M12 Quit 0.0043 −0.0162 0.0393
+Arm → ΔPAS → ΔAM → ΔPC → M12 Quit 0.0029 0.0015 0.0151
+Note . Estimates are on the logit scale.
+ΔPAS = Healthcare Provider Autonomy Support Latent Change Score, ΔAM = Autonomous Motivation Latent Change Score, ΔPC = Perceived 
+Competence to Quit Smoking Latent Change Score, WAI = Working Alliance Inventory at 3-Months
+Health Psychol . Author manuscript; available in PMC 2020 July 01.

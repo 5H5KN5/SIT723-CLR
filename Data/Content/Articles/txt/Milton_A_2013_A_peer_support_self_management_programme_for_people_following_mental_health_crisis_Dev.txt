@@ -1,0 +1,909 @@
+Milton et al. BMC Res Notes  (2017) 10:588 
+DOI 10.1186/s13104-017-2900-6
+RESEARCH ARTICLE
+Development of a peer -supported, 
+self-management intervention for people 
+following mental health crisis
+Alyssa  Milton1,2, Brynmor  Lloyd‑Evans1* , Kate  Fullarton1, Nicola  Morant1, Bethan  Paterson1, David  Hindle1, 
+Kathleen  Kelly3, Oliver  Mason4,5, Marissa  Lambert6 and  Sonia  Johnson1
+Abstract  
+Background:  A documented gap in support exists for service users following discharge from acute mental health 
+services, and structured interventions to reduce relapse are rarely provided. Peer ‑facilitated self ‑management inter ‑
+ventions have potential to meet this need, but evidence for their effectiveness is limited. This paper describes the 
+development of a peer ‑provided self ‑management intervention for mental health service users following discharge 
+from crisis resolution teams (CRTs).
+Methods:  A five ‑stage iterative mixed ‑methods approach of sequential data collection and intervention devel‑
+opment was adopted, following the development and piloting stages of the MRC framework for developing and 
+evaluating complex interventions. Evidence review (stage 1) included systematic reviews of both peer support and 
+self‑management literature. Interviews with CRT service users (n  = 41) regarding needs and priorities for support 
+following CRT discharge were conducted (stage 2). Focus group consultations (n  = 12) were held with CRT service ‑
+users, staff and carers to assess the acceptability and feasibility of a proposed intervention, and to refine intervention 
+organisation and content (stage 3). Qualitative evaluation of a refined, peer ‑provided, self ‑management intervention 
+involved qualitative interviews with CRT service user participants (n  = 9; n = 18) in feasibility testing (stage 4) and a 
+pilot trial (stage 5), and a focus group at each stage with the peer worker providers (n  = 4).
+Results:  Existing evidence suggests self ‑management interventions can reduce relapse and improve recovery. Initial 
+interviews and focus groups indicated support for the overall purpose and planned content of a recovery ‑focused 
+self‑management intervention for people leaving CRT care adapted from an existing resource: The personal recovery 
+plan (developed by Repper and Perkins), and for peer support workers (PSWs) as providers. Participant feedback after 
+feasibility testing was positive regarding facilitation of the intervention by PSWs; however, the structured self ‑man‑
+agement booklet was underutilised. Modifications to the self ‑management intervention manual and PSWs’ training 
+were made before piloting, which confirmed the acceptability and feasibility of the intervention for testing in a future, 
+definitive trial.
+Conclusions:  A manualised intervention and operating procedures, focusing on the needs and priorities of the tar ‑
+get client group, have been developed through iterative stages of intervention development and feedback for testing 
+in a trial context.
+Trial Registration  ISRCTN01027104 date of registration: 11/10/2012
+Keywords:  Programme development, Peer support, Self ‑management, Complex interventions, Mental health, 
+Recovery, Crisis resolution teams
+© The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License 
+(http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, 
+provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, 
+and indicate if changes were made. The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/
+publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated.Open AccessBMC Research Note s
+*Correspondence:  b.lloyd‑evans@ucl.ac.uk 
+1 Division of  Psychiatry, University College London, 6th Floor, Maple 
+House, 149 Tottenham Court Road, London  W1T 7NF, UK
+Full list of author information is available at the end of the article
+Page 2 of 18 Milton et al. BMC Res Notes  (2017) 10:588 
+Background
+Crisis resolution teams (CRTs), also referred to as home 
+treatment teams, provide rapid assessment for service users experiencing mental health crises and, where pos
+-
+sible, offer brief, intensive home treatment as an alterna -
+tive to acute admission [1 ]. Since their adoption into the 
+national health service (NHS) plan [2 ], CRTs are now 
+available in every NHS trust in England [3 ] and have also 
+been implemented nationally in Norway and Flemish Bel -
+gium [4 ]. The history of the development of CRT services 
+[4], and detailed specification of a CRT service model [5 ] 
+have been previously reported. Trial evidence suggests CRTs can be an effective service model, which reduce inpatient admissions and increase service users’ satisfac
+-
+tion with acute care [6 , 7]. However, when scaled up to 
+national level in England, CRTs’ implementation has been variable [3 , 8] and their impact on admission rates equivo
+-
+cal [9 ]. Service users report experiencing CRT support as 
+ending very abruptly, and there is a documented gap in support for mental health service-users post discharge [10]. CRT support rarely includes helping service users to 
+develop strategies to support recovery beyond the imme
+-
+diate crisis and to avert future crises [5 ]. There is a lack 
+of information about rates of readmission to acute care nationally following a period of CRT support, but high rates have been reported—just over 50% within 1 year—in a recent study in two inner London NHS trusts [11].
+Mental health self-management programmes have 
+been proposed as a means to help service users to learn skills to manage their psychological wellbeing and avoid future crises with lower levels of service input [12]. Self-management is a problem-solving approach that is skill-based and can be taught [13]. It is defined in health literature as a collaborative learning process which sup
+-
+ports the individual’s ability to manage the symptoms, treatment, physical and psychosocial consequences and lifestyle changes inherent in living with a chronic condi
+-
+tion [14]. Programmes typically encourage service users to become an expert in their own recovery [15] and frequently include relapse prevention planning within programmes. This usually involves identifying signs of a crisis and developing coping strategies to respond to them [12]. There is evidence across different mental health conditions for the effectiveness of various forms of self-management programmes [16–19]. Evidence and expert consensus suggests that supported self-manage
+-
+ment programmes (with guidance from a health pro -
+fessional or other helper) are preferable to independent self-management for people with serious mental health conditions [20]. Self-management programmes where support is provided by a peer support worker (PSW), who has themselves experienced mental ill health, have shown promising evidence of effectiveness [21–23].In this context, there is reason to hope that support, 
+immediately post-CRT discharge, with managing recov
+-
+ery and relapse planning may be a helpful addition to standard CRT care. In the UK, the employment of PSWs to deliver self-management support to service users is becoming increasingly common within NHS services [24]. To our knowledge, however, there have been no evaluations of peer-provided, self-management interven
+-
+tions for people leaving CRT care. In this paper, following medical research council (MRC) guidance for the devel
+-
+opment and evaluation of complex interventions [25], we report the iterative development and feasibility test
+-
+ing of a peer supported, self-management intervention for people leaving CRT services for use in a definitive randomised controlled trial. The protocol for this trial (ISRCTN01027104) is reported separately [26].
+Methods
+This paper describes five stages of developing a peer-pro -
+vided, self-management intervention for people following a period of CRT support. Stages 1–3 correspond to the “development” phase of the MRC framework for devel
+-
+oping and evaluating complex interventions [25]. Stages 4 and 5 correspond to the “feasibility/piloting” stage of the framework. In stages 1 and 2, evidence reviews and interviews with CRT service users regarding views on peer support and priorities for support following CRT care were conducted. Findings informed our initial selec
+-
+tion of a self-management resource for use in the CORE Study trial which was made in collaboration with expert reference groups of CRT staff, service users and carers. Stage 3 then involved stakeholder consultations via focus groups, regarding acceptability and implementation of the proposed intervention, and subsequent adaptations of the selected self-management resource for use in a peer-supported programme for people leaving CRT services. Stage 4 involved qualitative evaluation of preliminary feasibility testing of the intervention, leading to further refinement of the intervention content and procedures. Finally, stage 5 consisted of further qualitative evaluation of the programme during its testing in a pilot randomised controlled trial. Figure  1 describes the iterative process of 
+intervention development and evaluation undertaken.
+Stage 1: evidence review
+Two systematic reviews and meta-analysis of interven -
+tions were completed by the research group in collabo -
+ration with the national collaborating centre for mental health: (a) self-management interventions for serious mental illness [20] and (b) peer support for serious men
+-
+tal illness [20, 27]. Both reviews informed the updated 
+NICE Schizophrenia guidelines [20], where review meth -
+ods are reported.
+Page 3 of 18
+ Milton et al. BMC Res Notes  (2017) 10:588 
+Methods for the qualitative components of the interven -
+tion development process (stages 2–5) are described below. 
+The setting, participants and measures for each stage are described separately; then procedures and an analysis strat
+-
+egy which were common to stages 2–5 are reported.
+Stage 2: developing theory—CRT service user interviews
+Service users were recruited in 2011/12 from CRTs in 10 NHS trusts in England, representing a range of inner city, suburban and more rural areas. We sought four participants from each Trust, who had been dis
+-
+charged from participating CRT services within the last 3 months. Purposive sampling was used to ensure a range of demographic characteristics among the sample, and to include both first-time and repeat users of the CRT. Semi-structured interviews first explored participants’ experience of CRT services and views on CRT care. These findings have been reported elsewhere [28]. Interviews also asked specifically about participants’ views on the support needed following discharge from a CRT service, their views on this support being peer-provided, what content they would see as useful to incorporate into the programme, and how this might be structured and deliv
+-
+ered. Responses to these questions were analysed and are reported in this paper. Most (79%) of interviews were conducted by service user-researchers from the study team who had received specialist training in qualitative interviewing and were offered support and supervision by study researchers (other interviews were conducted by non-peer study researchers).1 •Evidence Review : Systematic literature reviews (self-management programmes, peer support) & 
+scoping relevant qualitative and theoretical papers
+2 •Developing theory: CRT service user interviews on support needs post-CRT and views on peer support  
+(n=41)  
+•Initial intervention selectio n
+3 •Modelling theory: CRT stakeholder focus groups with service users (n=5), staff (n=5) and carers (n=2) re  
+views on a proposed self-management programme and its implementation
+•Adaptation of the intervention for use  post-CRT care
+4 •Feasibility testing:  Qualitative feedback from participants (n=9) and a focus group with PSWs (n=4) in  
+preliminary testing of a peer-provided, self-management programme with CRT service users (n=11)
+•Refinement of the  intervention, training manual and operating procedures  
+5 •Piloting: Qualitative feedback from participants (n=18) and a focus group with PSWs (n=4) in pilot trial 
+of a peer-provided, self-management programme with CRT service users (n=40)
+Fig. 1 Process of developing a peer ‑supported, self‑management programme for people following CRT care
+Page 4 of 18 Milton et al. BMC Res Notes  (2017) 10:588 
+Initial intervention selection
+Findings from the evidence review and CRT service user 
+interviews (stages 1 and 2) informed the initial choice of intervention. CORE study expert reference groups of CRT clinicians (n  = 8) and CRT service users and carers 
+(n = 20) advised on potentially suitable resources for use 
+or adaptation in the CORE study trial, guided by mem
+-
+bers’ clinical or personal experience of self-management resources used in NHS mental health settings.
+Stage 3: modelling—stakeholder focus groups
+Participants were recruited in 2011/12 from 5 NHS trusts in London, South East and South West England. Twelve focus groups were conducted with CRT staff and manag
+-
+ers (n  = 5), CRT service users (n  = 5) and family mem -
+bers/carers of CRT service users (n  = 2). Between 6 and 
+10 participants were sought for each group, purposively sampled to reflect a range of demographic characteris
+-
+tics; extent of previous CRT use (service users and car -
+ers); or professional background (CRT staff). A 15-min PowerPoint presentation on the aims of the CORE trial and the proposed intervention was presented to par
+-
+ticipants. Focus groups were then co-facilitated by two researchers using a topic guide; service user and carer focus groups were led by a peer researcher. Discussion focussed on the acceptability of a peer supported self-management programme, views about how the proposed intervention would work best in a CRT context, how, when and by whom the intervention should be delivered, and the structure and integration of the intervention in existing care pathways.
+Intervention adaptation
+Adaptations to the initially selected intervention were then informed by the findings from stage 3 focus groups and further discussion with the study team and expert reference groups.
+Stage 4: feasibility—qualitative evaluation
+Preliminary testing of the intervention was conducted with service-users (n  =  11) recruited from one North 
+London CRT service in 2012. Following completion of the intervention, feedback was obtained through a focus group with the peer support workers (n  = 4) and individ
+-
+ual interviews with the service user participants (n  = 9). 
+Interviews explored experiences of the intervention and how it might be improved. PSW focus group topics included views on: training and supervision for the role; content, structure and delivery of 1:1 sessions; the self-management workbook; and the perceived impact of the intervention on providers and participants.Intervention refinement
+The stage 4 evaluation informed further refinements to the study intervention and operating procedures, follow
+-
+ing further discussions with expert reference groups and the study team.
+Stage 5: piloting—qualitative evaluation
+A Pilot randomised controlled trial of the study inter -
+vention was completed in 2013. CRT service users ran -
+domised to the treatment group were contacted at the end of trial intervention 4-month follow-up point and invited to complete a qualitative interview with a study researcher. Interviews explored participants’ engagement with and experience of the intervention, which elements they found most or least helpful, and any suggestions for how the intervention might be improved.
+Common features of qualitative phases of the study
+For all four qualitative components (stages 2–5), inter -
+view and focus group topic guides were developed with involvement from the study service user and carer expert reference groups and CRT clinicians within the study team. At all stages, participants were recruited via involved CRT services, with clinical staff from within CRT teams making the first approach to service user and carer participants. All participants were provided with a written information sheet about the study and met a researcher to discuss participation and provide writ
+-
+ten, informed consent. Ethical approval was obtained for each phase of the study from the London Camden and Islington Research Ethics Committee (Ref Numbers: 10/H0722/84, 11/L0/2010, 12/LO/0988). In line with the study’s ethical approvals, data about the demographic characteristics of participants was collected, but no infor
+-
+mation was collected about the characteristics of those who declined to participate.
+Qualitative data from all stages of the intervention 
+evaluation process were recorded and transcribed verba
+-
+tim. Data from each stage was analysed separately using thematic analysis [29] within NVivo software. The ana
+-
+lytic focus was on features of the data which addressed views and experiences of the intervention. Our strategy combined inductive and deductive approaches through
+-
+out, allowing exploration of initial research questions relevant to each stage of the intervention development, as well as emergent themes and issues that characterised respondents’ own experiences of receiving or delivering the intervention. In order to enhance validity, a collabo
+-
+rative approach was adopted: The principal analyst (AM) was supported by a small team of researchers, including those with service user, carer and clinician perspectives. 
+Page 5 of 18
+ Milton et al. BMC Res Notes  (2017) 10:588 
+These researchers all contributed to reading transcripts 
+and developing of an initial coding frame, through dis -
+cussion. Each transcript was then coded in NVivo by one researcher, with reference to the initial coding frame. The addition of new themes, or the merging of themes or sub-themes with considerable overlap, was then agreed through discussion with the lead researcher. Each indi
+-
+vidual transcript was then read by a second researcher, and any further suggested revisions to the coding frame or disagreements about the coding of specific text were resolved through regular discussions among all coders. This collaborative process encouraged collective reflex
+-
+ivity about interpretations of the data in relation to the perspectives and preconceptions of the researchers. As such, it enhanced the validity or trustworthiness of find
+-
+ings [30]. Member checking was not conducted.
+Due to limitations of space, and the aims of this study, 
+we focus in this paper on features of the qualitative data that are most relevant to informing intervention design and delivery.
+Results
+Table  1 provides an overview of the intervention develop -
+ment process undertaken in this study, summarising for each stage: the methods used, the nature of key findings obtained, and how these informed the development of the intervention. The results from each stage of the study follow.
+Stage 1: evidence review
+The systematic review of self-management interven -
+tions confirmed the potential value of self-management programmes to support recovery from mental health crisis: it found evidence of short and long term positive impacts of self-management programmes on symptoms and recovery-focused outcomes [20]. Interventions in reviewed trials typically offered guided self-management, with support offered by a clinician or a peer worker. Although there was no clear typology for self-manage
+-
+ment programmes, effective interventions usually cov -
+ered at least three of the following: recovery principles, addressing stigma or exploring personal meaning; psy
+-
+cho-education about illness or treatment; relapse preven -
+tion (identifying and monitoring early warning signs and triggers; developing stress management and coping strat
+-
+egies); crisis planning or advanced directives; signposting and accessing resources; medication (e.g. understand
+-
+ing medication and side effects, planning, management); establishing personal goals/plans and/or mental wellness maintenance strategies.
+The systematic review of peer support interventions 
+for people with severe mental illness found some indica
+-
+tions of positive impact on recovery-focused outcomes such as hope and empowerment, although little evidence of the effectiveness of peer-provided support for clinical outcomes [27]. The content of interventions in included studies varied substantially: there was no evidence about which models of peer-provided support were most effective. No studies were conducted in CRT settings or following CRT care. A scoping review of qualitative lit
+-
+erature found consistent positive appraisals of peer sup -
+port programmes, as being highly valued by service users and able to provide something different from clinician-provided care and supportive of personal recovery [31].
+From these reviews we concluded that: (1) a pro
+-
+gramme including structured self-management support and a recovery-focus has potential to help people follow
+-
+ing a mental health crisis. (2) a peer-supported, self-man -
+agement programme following a mental health crisis/CRT discharge was not contra-indicated by existing evi
+-
+dence, and that a trial of such a programme in the UK would add to current knowledge;
+Stage 2: CRT service user interviews
+Interviews were completed with 42 CRT service users, but one interview was not successfully audio-recorded, so was excluded from analysis. Participants’ character
+-
+istics are reported in the data supplement (Additional file 1: Table DS1): participants reflected a range of demo
+-
+graphic and service use characteristics.
+Data were coded in five main categories from analysis: 
+(1) acceptability; (2) what the intervention should con -
+tain; (3) when the intervention should take place; (4) who should be involved in delivery; and (5) where and how the intervention should be delivered. Results for each theme are provided in more detail in Additional file  2: DS4. The 
+main findings from stage 2, with implications for devel
+-
+opment of the intervention are summarised below.
+A large majority of participants felt the idea of addi -
+tional support with recovery following CRT care was positive. Participants’ expressed needs were in line with the self-management approach and that peer support was a generally acceptable form of programme provision. An exemplar quote from one participant was:
+Whenever I’ve been an inpatient before, I’ve always 
+found it very beneficial to be able to relate to other 
+people that have been in similar situations; that they are experiencing the same things as yourself. (SU13)
+Overall, there were positive comments from 31 of the 
+participants, seven participants expressed neutral com
+-
+ments and there were negative comments from six of the participants. The small number of negative views mostly related to the participants wanting to move on with their lives away from a mental health setting as quickly as possible.
+Page 6 of 18 Milton et al. BMC Res Notes  (2017) 10:588 
+Table 1 Overview of the development process for a peer-facilitated self-management intervention
+Intervention development Feasibility testing and piloting
+Stage 1 Stage 2 Stage 3 Stage 4 Stage 5
+Method Evidence reviews: peer sup ‑
+port and self‑management 
+literatureDeveloping theory: interviews 
+with CRT service users (n = 41)Modelling: stakeholder focus 
+groups (n = 12)Feasibility testing evaluation: 
+interviews with participants (n = 9) and PSW focus groupPiloting evaluation: interviews 
+with participant (n = 18) and PSW focus group
+Key findings Promising evidence for self‑
+management interventions for SMI—which can be peer ‑
+deliveredA need for additional support 
+following CRT discharge was identified
+Peer ‑provided support was 
+acceptable to most CRT service users
+A focus on help with wellness 
+planning and relapse preven‑tion was valuedPeer ‑provided, post ‑CRT 
+support was endorsed as different but complementary to routine clinical care
+Time ‑limited, 1:1 support with 
+a focus on self‑management and personal recovery was endorsed
+Considerations for PSW training 
+and support and linking with clinical teams were raisedThe intervention was well‑
+received
+Advice from all was to use the 
+structured workbook flexibly, in an individualised way, to meet participants’ needs and preferencesNo further changes to interven‑
+tion content or structure were recommended
+Challenges were identified for 
+PSWs of integration with CRTs, maintaining role clarity, and managing boundaries and endings
+Intervention development 
+decisionsDecision in principle to provide a peer ‑provided, self‑manage ‑
+ment programme
+Provisional selection of a structured self‑management resourceEndorsement of an adapted 
+recovery plan self‑manage ‑
+ment resource
+Specifications for programme 
+delivery were developedAdaptations to the recovery 
+plan workbook to increase opportunities for personal‑ised use
+Systems to link PSWs to the 
+CRT team were refinedArrangements for PSWs’ training 
+and supervision, and com‑munication with CRT teams were refined
+Page 7 of 18
+ Milton et al. BMC Res Notes  (2017) 10:588 
+No, I don’t really think I need it; at the moment I 
+don’t feel I need it… I think if I had more people still seeing me I think it’d make me feel as if I’m still not as well as I think I am. (SU01)
+While a minority of participants preferred a befriending 
+type arrangement with no prescribed or specific self-man
+-
+agement focus, most advocated a programme offering a combination of mutual, practical, social and mental health support. Some favoured a structured form of delivery, while others felt a degree of flexibility was required.
+I don’t suppose anyone’s going to feel exactly the same every week. Sometimes you might really like to say, I don’t want to talk about how I feel, can we just look at the plan? Or, I just want to talk about how I feel, I don’t want to look at the plan, that kind of thing. To be flexible I think is probably the most important, but a bit of both. (SU28)
+Preferences for delivery of the intervention were rela
+-
+tively equally distributed across one on one support, group based support and internet support, but additional barriers for some to group based and internet interven
+-
+tions were raised: feeling uncomfortable in a group set -
+ting, and finding a time convenient to all, or not having computer skills or equipment. The programme was rec
+-
+ommended as complementary and additional to profes -
+sional services. A majority of participants expressed the view that peer support workers’ lived experience could offer a unique and empathic perspective to support. A small number of participants were in favour of health professionals’ support rather than PSWs. One participant highlighted that it was important for the PSW to be well trained and be able to handle complex situations.
+I think if it’s just somebody that’s had mental health problems with a little bit of extra training but has not had a lot of training or experience and is well suited, then I think maybe not because of the level of risk involved. (SU25)
+Table  2 summarises stage 2 CRT service users’ and 
+stage 3 focus group stakeholder participants’ suggestions for the content of a post-CRT supportive intervention. In the stage 2 CRT service user interviews, all components of self-management programmes identified in the stage 1 evidence review were supported to some degree by participants, except support with medication: practical linking/signposting support and wellness planning were proposed most frequently by CRT service users.
+Initial intervention choice
+The CORE service user, carer and clinician expert refer -
+ence groups were presented with findings from the stage 1 evidence review and stage 2 interviews and consulted about possible interventions. The personal recovery plan [32] was identified through the clinicians’ reference group 
+and approved by the study team and all advisory groups 
+as a suitable resource template for peer-provided, self-
+management support for people following a mental health crisis. Developed by Rachel Perkins and Julie Repper in co-production with mental health service users, the per
+-
+sonal recovery plan [32] was designed to be used as a self-management resource to support mental health recovery, which could also feed into discussions with mental health staff where relevant. Four reasons for its suitability for our study were: (1) it covers self-management themes iden
+-
+tified as helpful in our evidence review and service user consultation (relapse prevention planning, goal-setting and wellness planning); (2) it specifically covers recovery from a mental health crisis, so is directly relevant for a CRT client group; (3) it was originally co-produced with people with lived experience expertise, and has a strong recovery orientation, so is suitable for delivery by peer support workers; and (4) it has been used with mental health client groups within the NHS, so there was prom
+-
+ise of its feasibility and acceptability in our study.
+Adaptations to this self-management resource and 
+specification of the study intervention were then informed by three further phases of data collection (stages 3–5).
+Stage 3: stakeholder focus groups
+Twelve stakeholder focus groups with service users (n = 20), clinicians (n  = 41) and carers (n  = 12) from five 
+NHS Trusts. Participants’ characteristics are reported in Additional file  1: DS2. Seven main themes were identified 
+from these focus groups, relating to the content of the inter
+-
+vention and requirements for different stages of its delivery, the qualities required from PSWs and needs for supervi
+-
+sion and training. Results for each theme are described in Additional file  3: DS5. The main findings with implications 
+for the development of the intervention are summarised below. Most participants welcomed the proposed peer sup
+-
+port self-management programme, for example:
+A brilliant idea provided it doesn’t take the place of 
+what’s already in place (Carers Focus Group 1).
+I think we do see some people that could benefit 
+from that little bit more after we’ve sort of, after our treatment episodes have finished, but they don’t fit the CMHT criteria or anything else. And then at some point they usually do end up coming back to us because there isn’t anything else for them and then maybe something like this could be good for them. (Clinicians Focus Group 2).
+Page 8 of 18 Milton et al. BMC Res Notes  (2017) 10:588 
+Table 2 Development of the content of the peer-facilitated self-management intervention (stages 1–3)
+Concepts Definition Stage 1: evidence review 
+findingsStage 2: CRT service user interviewsStage 3: focus groups Illustrative quotes
+Peer support Support from a worker 
+with a lived experience of mental illnessInterventions using peer 
+support have currently inconclusive evidence of efficacy; however, they are widely usedMutual support from a peer 
+(27 respondents)
+The PSW actively get 
+to know the peer (5 respondents)Befriending (7 sources)Role ‑Modelling (8 
+sources)
+Lived experience 
+support beneficial (5 sources)I think it’s great in a very different, unique kind of way. However 
+experienced and qualified the staff are I don’t think anything is as supportive as somebody who’s been through the same services as a service user that you have. I think that’s a really unique opportunity and potentially really helpful. (stage 2 interview SU28)
+Recovery Recovery principles, e.g. 
+addressing stigma or exploring personal meaningA concept in 12 of 19 
+reviewed mental health self‑management pro ‑
+grammesRecovery (9 respondents) Recovery (6 source)De‑stigmatising (3 
+sources)…generally things around recovery where you can gain knowl-
+edge and understanding about how to self‑manage a condi-tion to prevent the risk of relapse (stage 2 interview SU26)
+And I think as much as we’re trying to pull away from the 
+medical model and embrace the recovery model (stage 3 Staff Focus Group 4)
+Psycho ‑education Such as illness specific 
+education, treatment informationA concept in all 19 reviewed 
+mental health self‑man‑agement programmesPsycho ‑education (12 
+respondents)– I had so much information running through my head and I 
+couldn’t understand that information at all, and I think if somebody came to tell me and explain it to me that this is what happened to me, and it would be maybe completely different from me but it would be… they would be telling me that I had psychosis and these are the signs of psychosis, I would find it really helpful (stage 2 interview SU21)
+Relapse prevention Identifying signs of relapse 
+and planning coping strategiesA concept in all 19 reviewed 
+mental health self‑man‑agement programmesRelapse prevention (11 
+respondents)Relapse prevention (7 
+sources)
+Strategies to keeping 
+well (3 sources)If a peer support worker was to identify together with whoever 
+was using the service what their warning signs were and to make sure they’re aware of their own because there’s a tendency to be, like, these are people’s general warning signs and in fact they can be really different for different people and to personalise it in that way because that’s, I think, what really makes a difference—when you feel like it’s relevant to you. (stage 3 Service User Focus Group 1)
+Crisis planning Planning service response 
+in the event of future crisisA concept in 11 of 19 
+reviewed mental health self‑management pro ‑
+grammesCrisis planning (5 respond‑
+ents)Crisis planning (7 
+sources)If it’s following the WRAP (TM) programme then it’s definitely 
+good (stage 3 Staff Focus Group 4)
+Signposting Aiding access to various 
+services by linking, refer ‑
+ring or signpostingA concept in 17 of 19 
+reviewed mental health self‑management pro ‑
+grammesIdentifying supporters (4 
+respondents)
+Signposting to resources (4 
+respondents)
+Accessing community and 
+social engagement (15 respondents)
+Practical support to link to 
+resources (15 respond‑ents)Signposting (7 sources)Practical support (4 
+sources)
+Social engagement (10 
+sources)And maybe the peer support should have a little more informa-
+tion about other services that are there, just do the sign posting, because with some clients inevitably the first thing they’re going to talk about always is those issues (stage 3 Staff Focus Group 2)
+Page 9 of 18
+ Milton et al. BMC Res Notes  (2017) 10:588 
+Table 2 continued
+Concepts Definition Stage 1: evidence review 
+findingsStage 2: CRT service user interviewsStage 3: focus groups Illustrative quotes
+Medication educa‑
+tion or manage ‑
+mentAiding the participant 
+to understand their medication and medica‑tion side effects. This may include planning psycho ‑education or 
+specific medication managementA concept in 17 of 19 
+reviewed mental health self‑management pro ‑
+grammes– Concerns around 
+including medica‑tion management for this programme (3 sources)I have seen people discourage people from taking medication 
+when it’s been prescribed for them, oh, you don’t want that, and it’s an issue to have in mind because, as I say, there’re all kinds of opinions about medication
+(Staff Focus Group 4)
+Goals and wellness 
+planningEstablishing personal 
+goals/plans and/or mental wellness mainte ‑
+nance strategiesA concept in 13 of 19 
+reviewed mental health self‑management pro ‑
+grammesGoal setting (7 respondents)Wellness planning (14 
+respondents)
+Focusing on the future (6 
+respondents)Future plans and goals 
+(4 sources)Somebody who would come in after the home treatment team 
+have seen you, just to help you focus on the future, and look forward. Yes, don’t focus on the negative, rather the positive. Yes, and just… let them, you know, let you know what’s out there for you, as a person, just things maybe you can do or not do whatever, you know? Setting goals really and very small steps.(stage 3 Service User Focus Group 3)
+Page 10 of 18 Milton et al. BMC Res Notes  (2017) 10:588 
+The peer led nature of the support and the proposed 
+timing of the intervention (i.e. the support being pro -
+vided directly after a period of crisis care) were endorsed. 
+Participants suggested the programme could promote shared knowledge and understanding and that peer sup
+-
+port workers could act as role models.
+A lot of people really are inspired and feel empow -
+ered by someone who has recovered, or has gone through the same processes as them, and it’s like a model for them to look up to and say, well if you’ve done it, I can do it too. (Carers Focus Group 2)
+… mental health professionals, most of them are 
+just reading it out of books and stuff they’ve learnt. They’ve not actually experienced it so they don’t know it for themselves, so it would be good to talk to someone that’s been through it, as well, and see how they’ve found ways of getting help and stuff like that 
+(Service User Focus Group 3)
+And, maybe that person who’s looking after, not 
+looking after you, but supporting you, can say, yes, I know what you’re talking about, you know? It’s just been helpful for them, maybe someone to iden
+-
+tify what you’re saying, and have some more greater understanding than maybe a lay person will. (Ser
+-
+vice Users Focus Group 5)
+The programme was seen as de-stigmatising, bridging a 
+gap in services and promoting continuity of care.
+… at some point they [CRT service users] usually do end up coming back to us because there isn’t any
+-
+thing else for them and then maybe something like this [the program] could be good for them. (CRT Staff Focus Group 1)
+More negative views of the intervention were less com
+-
+mon and mostly raised by carers and clinicians. These concerns related to the peer led intervention potentially taking the place of professional services, that there may not be sufficient training and support systems in place and that the PSWs may become stressed or unwell. This highlighted the need for adequate training standards, protocols, supervision and recruitment procedures.
+I think the professionals are the ones that should be doing that job, not the peers. They should all be in a group, because they’re not qualified. They know how they feel, but… (Stage 3 Carers Focus Group 2)
+… making sure that person has got boundaries with 
+you, and things like that? Which hopefully would have been part of their training. (Stage 3 Clinician Focus Group 3)
+A combination of structured support, and retaining a 
+flexible and individualised approach was recommended for intervention delivery. As in the initial service user consultation, while there was some support for a group intervention, 1:1 support was advocated by more partici
+-
+pants. It was seen as an easier way to tailor support to each individual, and helpfully similar in style to the sup
+-
+port participants received from the CRT. The potential for some people to feel uncomfortable in group settings was raised.
+One to one would be much better than a group, because you’ll get more feedback from him or her individually, rather than you would do in a group. (Service User Focus Group 2)
+I find myself being less open or less trusting [in a 
+group] than if it’s just one on one (Service User Focus Group 1)
+Self-management concepts (relapse prevention and 
+crisis planning, signposting to services, goal setting, con
+-
+fidence building, practical support) and the relational aspects of peer support (social engagement, providing company, befriending) were both endorsed.
+Some reservations about unqualified peer workers sup
+-
+porting service users with medication management were expressed by staff focus group participants. Illustrative quotes of recommendations for the content of the pro
+-
+gramme from focus group participants are provided in Table  1. Fuller results from the stage 3 stakeholder focus 
+groups are provided in the data supplement (Additional file 3: DS5).
+Intervention adaptation
+Following the stage 3 focus groups, adaptations to the personal recovery plan selected self-management resource [32] were made in consultation with the ser
+-
+vice user and carer study expert reference groups, newly recruited peer support workers, and members of the research team including senior CRT clinicians.
+Programme/intervention content and presentation
+The recovery plan was abbreviated to fit within a ten-session programme of support. A section on specifying future service response in a crisis was omitted, acknowl
+-
+edging that some participants in the CORE trial would, following CRT discharge, not have ongoing support from mental health services with whom to confirm a crisis plan. A section on “moving on after a crisis” was brought to the front of the plan, as participants in the CORE trial would all have recently experienced mental health crisis 
+Page 11 of 18
+ Milton et al. BMC Res Notes  (2017) 10:588 
+and CRT support. The resulting adapted resource was 
+titled ‘My personal recovery plan’ , and was designed with images of green budding plants to represent personal growth. The plan had four main sections for comple
+-
+tion by the person using the workbook: ‘moving on again after a crisis’; ‘keeping well’; ‘managing ups and downs’ (relapse prevention); and ‘goals and dreams’ . At the back of the workbook was accompanying guidance titled ‘mak
+-
+ing a personal recovery plan’ . The main focus of these sec -
+tions was to help people to identify strategies to monitor their own warning signs, develop their own coping strat
+-
+egies and identify sources of help.
+Programme delivery specifications
+Plans for a ten-session intervention of 1:1 support, begin -
+ning at the point of discharge from a CRT, were con -
+firmed. It was agreed that the peer support worker would complete their support within a 3 month period, to keep the intervention’s focus as short-term bridging support following a crisis, rather than longer term continuing care. A 4-day training programme for the peer support workers providing the intervention was developed in col
+-
+laboration with an experienced peer training team from the Institute of Mental Health, Nottingham. This adapted and abbreviated the accredited course ‘‘an introduction to peer support’’ [33]. It was supplemented with rel
+-
+evant generic NHS training (including safeguarding and personal safety) and a 1-day induction to relevant local policies and procedures. Arrangements for regular group supervision for peer support workers were specified. Table  3 summarises the adaptations and specifications to 
+the intervention made following stage 3 focus groups and stage 4 feasibility testing. In the feasibility testing, peer support workers’ training was provided by the Notting
+-
+ham institute for mental health training team. Peers were recruited from the CORE study service user expert ref
+-
+erence group and supervised by a research psychologist from the study team (AM).
+Stage 4: feasibility testing
+For the preliminary testing of the intervention in 2012, 11 participants recently discharged from CRTs were recruited. Nine agreed to take part in a qualitative inter
+-
+view at the end of the intervention. The demographic characteristics of service user participants from stages 4 and 5 are presented in Additional file  1: DS3. Feed
+-
+back from participants in these stage 4 interviews was categorised in nine main themes, covering barriers to engagement, experience of the programme and the PSW, and their helpful and unhelpful aspects. Results for each theme are provided in Additional file  4: DS6. 
+Findings with most relevance to the development of the intervention are summarised below. The four peer sup
+-
+port workers who delivered the intervention participated in a focus group. Four main themes were derived from this focus group, relating to perceived benefits of and challenges with the programme, the experience of sup
+-
+porting participants, and issues around information shar -
+ing with involved clinical teams. Results for each theme are provided in Additional file  5: DS7. Key findings from 
+this focus group with relevance to the development of the intervention are included in the summary below.
+Eight participants commented that they had an overall 
+positive experience of the manner of delivery and con
+-
+tent of support. One had a more negative experience and felt he did not gain anything from the intervention and support.
+And I think these are very, very helpful, because it makes you realise what’s achievable. For me, it makes you realise, you know, that to me recovery means being in the driver’s seat. I think it’s fantastic. (PP03)
+… it weren’t unhelpful, it just weren’t helpful, if you 
+know what I mean. It weren’t like it was bad; there was just no point to it. (PP07)
+Both participants and PSWs commented that although 
+some participants found the self-management workbook very helpful, others did not like its structured nature. Poor literacy was a barrier to using the workbook for two participants. Support from the peer support worker, dis
+-
+cussion and unstructured written work or drawings, was valued as a means to address these challenges. PSWs and participants advocated providing more free space for drawings and unstructured work. From both the partici
+-
+pant and the PSW perspective, flexibility in delivering the intervention was identified as crucial. Where experienced as helpful, the workbook was viewed as a tool to refer to in times of stress or deteriorating health in future.
+I wrote it down in words. I’m better off writing down, better than saying it in words, you know. I mean, if you write it down you got… you can study it more, you know, you can read it and digest it. But if you 
+say it, it tends to go out the memory, doesn’t it, quick. 
+(PP08)
+The workbook could also act as a means to focus on 
+future ambitions, or, for a few participants, to share these with family or friends.
+And I showed my dad this [the workbook] and he was delighted. He was really sweet. And he said 
+goals and dreams, that’s what you’ve got to focus on. 
+(PP03)
+Page 12 of 18 Milton et al. BMC Res Notes  (2017) 10:588 
+Table 3 Summary of programme specifications and recovery plan adaptations resulting from modelling and feasibility testing (Stages 3 and 4)
+Area Decision Rationale
+Self‑manage ‑
+ment resourcePersonal Recovery Plan (Repper and Perkins 2008) selected (i) Covers elements of effective self‑management programmes (literature reviews)
+(ii) Specific focus on recovery mental health crisis
+(iii) Co ‑produced with service users—suitable for delivery by a PSW
+(iv) Has been tested in NHS settings
+Programme abbreviated To fit within a 10‑ week programme of support
+Section on developing a crisis plan omitted Acknowledging that not all participants in the CORE trial will have ongoing support from mental 
+health services in place, or meetings with the PSW and mental health services may be difficult, so agreeing service responses in a crisis may not be possible
+Section on “moving on after a crisis” brought to the front of the plan All participants in the CORE trial will have experienced a recent mental health crisis, so this is likely 
+to be an immediate concern
+“Recovery means” page left for individual to complete Feedback from PSWs and service user reference group: more individualised to encourage people 
+to provide their own definition of personal recovery
+Redesign with green leaf motif Feedback from service user reference group: calming and symbolic of growth and renewal
+More white space incorporated into the plan To allow free text writing, drawing or adding photos etc. for those with literacy difficulties or who 
+prefer a less structured approach
+Structure of the 
+programme10 session programme To maintain the focus of the programme on brief, bridging support with recovery following a 
+mental health crisis (rather than longer term support)Programme to begin immediately following CRT discharge, and be completed within 
+3 months
+1:1 support Likely to be acceptable and feasible for more participants than a group programme
+Values of the 
+programmeRecovery focused: promoting hope and valuing participants’ strengths Consistent feedback from service users and other stakeholders about what help is wanted and 
+needed following CRT support and advocated by peer support literature and training pro
+‑
+grammesPeer ‑delivered: appropriate self‑ disclosure and story‑sharing is encouraged; model ‑
+ling recovery and coping
+Person‑ centred: the recovery plan to be used flexibly, in an individualised way with 
+each participant
+Complementary to mental health services care (integrated within CRT services, but 
+offering additional, distinct support)
+Peer Support 
+Worker (PSW) 
+recruitmentEssential requirements for PSW roles defined as: having lived experience of mental 
+health problems, previous experience in a support role, good interpersonal and support skills, has developed a personal recovery plan/relapse prevention plan, has 
+a recovery‑ oriented approach, ability to problem solve and work collaboratively 
+with mental health staff and service usersLived experience and having own recovery plan to ensure positive story‑sharing and modelling 
+of recovery strategies is possible; no requirement for clinical qualifications and broad range of 
+previous experience in a support role accepted, recognising the non‑ clinical recovery focus of 
+this role
+Open market NHS employment, competitive recruitment To recognise the demands of the role and support integration with CRT teams
+PSW training 
+and supervi
+‑
+sionAdapted Nottingham IMH training covering: the meaning of peer support, self‑
+management and recovery; core skills: listening, valuing diversity, strengths‑based; peer support skills including story sharing; boundaries and disclosure; referring and 
+linking in; working with distress and addressing safety concernsDrawing on an established, accredited training course used to support peer workers in using the 
+personal recovery plan
+Additional NHS Trust training and induction (including safeguarding and personal 
+safety training; orientation to NHS policies and procedures)To support safe working and integration with participating NHS mental health services
+Regular group supervision delivered by participating NHS Trusts As above; Group supervision was chosen to maximise the PSWs’ opportunities to learn from and 
+support each other
+Access to 1:1 supervision too Reinforced as important by PSWs following preliminary testing. Access to additional support from 
+an experienced PSW to ensure PSWs’ distinct role is retained and supportedPSW access to immediate support and advice from CRT staff following meetings
+Access to support from experienced peer support worker
+Page 13 of 18
+ Milton et al. BMC Res Notes  (2017) 10:588 
+Some participants reported the relationship between 
+peer worker and service user was more useful than the 
+structured self-management workbook, and relational aspects of the intervention impacted greatly on expe
+-
+rience. PSWs were valued by participants both for the warm relationship per se, and for the practical informa
+-
+tion and support they provided.
+And while everyone sort of was telling me that they would help, but no one really did anything, while she actually did things. And I really, really appreciate this (PP01)
+The participant who held a more negative view on the 
+experience suggested that matching the peer workers to participants based on common interests may be useful. Commonly from both the participant and the PSW per
+-
+spective, where positive relationships developed, a sense of loss occurred when the intervention ended.
+It’s quite painful I think to go into someone’s life and, like, fulfil that role; to be the first person to have that, kind of, caring, supportive relationship with someone and not being able to replicate that any
+-
+where and then leave that person. That’s quite pain -
+ful. (PSW1)
+Strategies proposed to mitigate this loss were: (1) a 
+clear message of the intervention timeframes from the outset, (2) a “tapered” approach to ending the support (i.e. planned decrease in frequency of sessions before the last session to meet service users’ needs), (3) a focus on linking with services to establish additional supports, (4) planning and goal setting for after the intervention ended, and (5) marking the end of the intervention with positive activities (such as a small informal celebration and revisiting the individual’s goals and achievements).
+PSWs reported finding the extent and scope of difficul
+-
+ties faced by participants in their daily lives a challenge to supporting people effectively. Navigating the boundaries of the PSW role and managing relationships with partici
+-
+pants which could become quite intense were also recog -
+nised as challenges by PSWs. Supervision and access to immediate debrief from supervisors or others following difficult sessions were advocated. Peer support among the PSW team was valued: PSW-only supervision ses
+-
+sions and informal meetings were identified as facilitat -
+ing this.
+I think they [supervision sessions] were just immensely important. I don’t think we could have done the work we’ve done without them, to be hon
+-
+est, without getting together like that and sharing our experiences and knowing that somebody else who’s doing, who’s a peer supporter, has experienced the same problems and the same emotional things that you’ve experienced. I think that was essential. 
+(PSW 3)
+Intervention refinement
+Minor changes to the language in the plan were informed 
+by the findings from stage 4 feasibility testing and further discussion with the study service user and carer expert reference groups. Replacing a definition of recovery in the original plan, space was created in the study ver
+-
+sion for participants to record their personal meaning of recovery, following discussion with their peer support worker. More blank space was included throughout the plan, to allow participants space to include information, potentially using a range of media, relevant to their per
+-
+sonal recovery plans. In the stage 4 feasibility testing, PSWs identified strengthening the PSW link with CRT team as important. Processes to embed the PSW teams within the CRT service were planned for the next pilot
+-
+ing stage (stage 5), such as PSWs meeting the whole CRT team at the start of the intervention, and having their photos and an explanation of their role prominently in the service base, and clarifying a streamlined referral pathway back into CRT for the participant if they became unwell. The resulting adaptations and specifications of the study intervention following stage 3 and 4 develop
+-
+ment are summarised in Table 2.
+Stage 5: piloting
+Forty participants were recruited to a pilot randomised controlled trial of the study intervention in 2013. Of 21 randomised to receive the peer-supported self-manage
+-
+ment intervention, 18 participated in a qualitative inter -
+view following the intervention. Their characteristics are reported in Additional file  1: DS3. Feedback from partici
+-
+pants was categorised into eight main themes, relating to helpful and unhelpful aspects of the programme overall and its structure, the workbook, and the relationship with the PSW. Results for each theme are described in detail in Additional file  6: DS8. Four of five PSWs who delivered 
+the intervention in the pilot trial participated in a focus group. Their feedback was categorised into: comments on the workbook; and overarching themes (including views on supervision and support; the PSW role bounda
+-
+ries; and ending of sessions). Findings from this focus group are reported in detail for each theme in Additional file 7: DS9. Findings from these interviews and from the 
+focus group with most relevance to intervention develop
+-
+ment are summarised below.
+Overall, feedback from PSWs and participants in the 
+pilot trial was similar to that from preliminary testing. Although mixed views were expressed by participants 
+Page 14 of 18 Milton et al. BMC Res Notes  (2017) 10:588 
+on how much the self-management resource was used or 
+valued, no significant new changes were recommended. The recovery plan workbook was described by the PSWs as a helpful framework for sessions, providing that there was flexibility in its delivery for each service users as they moved through the intervention. Participants identified a range of barriers to utilising the support on offer. Lack of stable accommodation or the recurrence of illness made arranging sessions difficult for two participants. Another felt he had too much else going on to prioritise meetings with the PSW. One participant was disappointed by his PSW’s inability to help with a housing problem, while two identified a difficult relationship per se with their PSW as a problem:
+I don’t like people telling me what… I’ll do it this week, I’ll do it that week. And you know, I’ve always been very independent and stuff. And I just find it a bit patronizing. So I’d rather, you know, do it my own, kind of, time, and frame… (MP17)
+Twelve out of the eighteen interviewed participants 
+expressed a clearly positive view of the programme how
+-
+ever: both the empowering relationship with the PSW and the self-management guidance offered by the work
+-
+book were identified as helpful.
+As a patient, sometimes you feel, like with anything, that, you know, the doctor is the expert and you are the person receiving it. And you don’t necessarily have a voice. And I suppose [seeing a PSW] did let me think, well, hang on, I can voice my worries … (MP15)
+Like, it has opened my eyes to a few things, you 
+know, just from doing the book. I write down a lot more stuff now, just from doing this, you know. It’s little things but personally I think it’s the little things that matter in life. (MP22)
+PSWs ‘feedback focused on the organisation and sup
+-
+port structures of their role, with the need for role clar -
+ity, boundaries and managing endings again emphasised. PSWs reported that the location of support and supervi
+-
+sion within the participating CRT team in the pilot trial brought advantages and disadvantages. Integration with the CRT team and access to immediate support or advice following a difficult meeting were valued by PSWs, who disliked the occasions when calls to the CRT were met by an answerphone. While integration with the CRT was perceived as improved from the previous, feasibility test
+-
+ing stage, one PSW still reported substantial need for fur -
+ther integration.No one [at the CRT] says hello. I don’t know any of their names, like, and I think just some things like that could have just been done a bit better (PSW1)
+Some concerns were raised that supervision by CRT 
+clinical staff risked eroding the unique, non-clinical role of the PSWs: contact with and access to additional sup
+-
+port from an experienced peer support worker were advocated.
+The workbook was valued by PSWs’ as a means of 
+structuring sessions and to guide the content of con
+-
+versations with participants, although it was a common view that not all participants might wish to complete the whole written plan.
+It’s a framework, which some people I think do find it useful, you know, undoubtedly to fill something in, you know. But, you know, it’s almost like, it’s kind of like a framework to hang discussion on, to always kind of have in the back of your mind that it’s kind of about those kind of issues. (PSW4)
+While implications for PSWs’ training and supervision 
+from pilot trial qualitative evaluation were fed back to services and informed ongoing training and supervision, no additional changes to the content of the recovery plan resource or the structure of the intervention were made following piloting: the intervention was delivered in the main randomised controlled trial as in the pilot. In the pilot trial, and the main randomised controlled trial, peer support workers were recruited through a competitive NHS recruitment process; training was provided by cli
+-
+nicians and peer support workers from the study team (who had attended the training programme in the pre
+-
+liminary phase), and supervision was provided by experi -
+enced clinicians within participating NHS trusts.
+Discussion
+The study comprised five stages of an intervention devel -
+opment process which included: (1) review of existing relevant evidence; (2) Interviews with service user stake
+-
+holders exploring the need for, acceptability of, and opti -
+mum type of support following CRT discharge; (3) focus groups with CRT stakeholders regarding views in prin
+-
+ciple about a proposed peer-provided, self-management intervention; (4 and 5) feedback from recipients and pro
+-
+viders of the study intervention about its acceptability and usefulness in feasibility testing and piloting. At each stage, an iterative process of using feedback to evaluate and improve design and delivery of the intervention for a fully defined large scale RCT [26] was used in accordance with expert guidance on developing and evaluating com
+-
+plex interventions [25].
+Page 15 of 18
+ Milton et al. BMC Res Notes  (2017) 10:588 
+Strengths and limitations
+Initial evidence review for this study was thorough, 
+involving two systematic reviews of relevant interven -
+tions. Interviews with CRT service users about priorities for support after CRT discharge, and stakeholder focus groups about a proposed intervention, involved substan
+-
+tial numbers of participants across a range of CRT ser -
+vices and different geographical settings, which increases confidence in the generalisability of findings. Multiple interviewers were used to conduct the forty-one initial interviews with CRT service users and the twelve CRT stakeholder focus groups: this may have reduced the consistency with which interviews were administered, although the use of peer-interviewers for service user and carer interviews may have helped participants to feel comfortable and speak frankly [34].
+The scope of this paper is to describe the develop
+-
+ment of a peer-supported, self-management pro -
+gramme for people following a mental health crisis. While qualitative feedback from participants pro
+-
+vides some evidence regarding the acceptability of the intervention and its possible impact on participants’ experience, this paper provides no evaluation of the effectiveness of the intervention, which will be evalu
+-
+ated across a range of outcomes in a randomised con -
+trolled trial, to be reported separately. Preliminary testing and piloting of the study intervention was lim
+-
+ited to a single NHS Trust, and to participants will -
+ing to take part in a research trial: the generalisability of these qualitative findings to clinical populations overall in CRTs cannot be assured. Further testing of potential mechanisms of effect is required to develop a convincing change model for this complex interven
+-
+tion (see research implications below). Finally, due to limitations of space, and the aims of this study, we focus in this paper on features of the qualitative data that are most relevant to informing intervention design and delivery. The results of the qualitative eval
+-
+uations in stages of intervention development which are provided in this paper are summaries only: fuller presentation of results is provided in the data supple
+-
+ment (Additional files 2 –7: DS4–DS9).
+Implications for research
+Three implications for research may be derived from our study. First, the evidence reviews conducted for this study confirmed the need for more evidence regarding sup
+-
+ported, structured self-management interventions in a UK crisis context, and for clearly-defined PSW-provided interventions in all contexts [20, 27]. The randomised 
+controlled trial of the CORE Study peer-provided, self-management intervention [26], for which this paper reports the development work, will help address this gap in knowledge.
+Second, this paper illustrates how the phases of the 
+MRC complex interventions framework [25] can be applied in practice to develop an intervention ready for trialling, by systematically incorporating the evidence base with current viewpoints, whilst iteratively testing and refining the intervention design as it develops [35]. The evidence review stage established the underlying theory of the self-management intervention informed by empirical and theoretical evidence and also allowed us to identify existing models for adaptation and imple
+-
+mentation in our study. The second stage of interviews with CRT service users established the a priori accept
+-
+ability of the proposed intervention for the target group and proposed mechanisms through which it might help recovery for service users after a period of crisis care. The third modelling stage gauged the feasibility of the intervention and informed necessary adaptations and planning for organisational support, through focus groups with wider stakeholder groups including service users, carers and CRT staff. Delivery of the intervention in a fourth, feasibility testing stage allowed further mod
+-
+elling and the incorporation of feedback from interven -
+tion recipients and providers into the intervention’s final adaptation and implementation planning, which was tested and qualitatively evaluated in a fifth piloting stage for a definitive randomised controlled trial [26]. The full-scale trial can thus evaluate a clearly-specified, coher
+-
+ent and road-tested intervention of support to meet a defined clinical need: this will maximise the scientific value of the trial.
+Third, the intervention described in this study is com
+-
+plex and multi-faceted. The self-management [12] and peer support [36] literatures both propose change mod
+-
+els, generating a number of potential mechanisms of effect for our intervention. There is thus a need to add to the work undertaken in this paper, of modelling the intervention and exploring how it was received, with a process evaluation which measures how the interven
+-
+tion is delivered and explores the relationship between process and outcomes on a larger scale. The forthcom
+-
+ing randomised controlled trial of the peer-provided, self-management intervention described in this paper will provide this [26]: a process evaluation planned as part of the trial analysis plan will explore how the fol
+-
+lowing variables relate to any positive outcomes from the trial: participant-rated therapeutic alliance with the PSW, and the PSW’s recovery orientation; the degree of match between PSW and participant (on demographic characteristics, diagnosis and service use); and partici
+-
+pant-reported discussion and written completion of the 
+Page 16 of 18 Milton et al. BMC Res Notes  (2017) 10:588 
+four elements of the recovery plan. This will allow fur -
+ther exploration of the critical ingredients of the study 
+intervention and whether provisional findings from our development work (e.g. regarding the importance of the relationship between participant and PSW) are confirmed.
+Implications for policy and practice
+This study generates two findings relevant to clinical practice. First, the positive feedback to additional peer-provided, self-management support following CRT dis
+-
+charge, both in principle from stakeholder interviews and in practice following preliminary testing, confirms the potential value of this type of support. The high per
+-
+ceived need from CRT service users and other stakehold -
+ers, for relapse prevention work to anticipate and plan responses to potential future crises, supports the recom
+-
+mendations for crisis planning in current expert guidance for CRT services [5, 37]. In the absence of a convincing 
+evidence-base regarding the clinical effectiveness of peer support programmes in mental health services [27], our study provides some corroboration for existing national guidance [20] that peer support should be considered for people with severe mental illness as a means to improve service user experience and quality of life.
+Second, our study highlights the need for careful plan
+-
+ning to support the integration of new teams of peer sup -
+port workers into established mental health services. Key lessons learned from our study confirm those from pre
+-
+vious literature [33]. These include: the need to prepare crisis teams for having PSWs in their service; and fully preparing PSWs for the role of working within a health service, to enable integration of a recovery oriented inter
+-
+vention into predominantly medical-model services. Local team inductions for PSWs were arranged and these issues were included in PSWs’ training and supervision, in order to minimise administrative and cultural chal
+-
+lenges to implementing the study intervention.
+Conclusion
+The MRC framework [25] provides a useful guide to developing and evaluating a peer-provided, self-man
+-
+agement intervention for people after a mental health crisis and a period of CRT care. Following a develop
+-
+ment and feasibility/piloting process, involving iterative stakeholder feedback, has helped to focus an interven
+-
+tion on the needs and priorities of the target client group, and to refine the intervention, its operating procedures and training programme, in order to support consistent implementation and replicability in a trial context.Abbreviations
+CORE: crisis resolution team optimisation and relapse prevention (research study); CRT: crisis resolution team; MRC: medical research council; NHS: national health service; NICE: national institute for health and care excel‑lence; PSW: peer support worker; RCT: randomised controlled trail.
+Authors’ contributions
+AM led adaptation of the study intervention and development of operat ‑
+ing procedures, led data analysis and wrote the initial draft of this paper. BLE managed the CORE Programme, for which this research was conducted. He contributed to study design, adaptation of the study intervention and development of operating procedures, data collection, data analysis, and writing up the paper. NM contributed to study design, data analysis and writ ‑
+ing up the paper. BP contributed to data collection and analysis, and writing up the paper. KF contributed to data analysis and writing up the paper. DH contributed to adaptation of the study intervention and operating proce ‑
+dures, data collection and analysis and writing up the paper. KK contributed to data analysis and writing up the study paper. OM contributed to study design, co‑led adaptation of the study intervention and contributed to writing up the 
+paper. ML provided expert advice on developing peer support worker training and supervision programmes for the study intervention, and contributed to writing up the paper. SJ led the CORE programme, for which this research was conducted. She led study design, and contributed to adaptation of the study intervention and development of operating procedures, data analysis and writing up the paper. All authors read and approved the final manuscript.
+Author details
+1 Division of Psychiatry, University College London, 6th Floor, Maple House, 
+149 Tottenham Court Road, London W1T 7NF, UK. 2 Brain and Mind Centre, 
+The University of Sydney, Sydney, NSW 2006, Australia. 3 Oxford Health NHS 
+Foundation Trust, Barnes Unit, John Radcliffe Hospital, Oxford OX3 9DU, UK. 
+4 Research Department of Clinical, Educational and Health Psychology, Univer ‑
+sity College London, London WC1N 6BT, UK. 5 School of Psychology, University 
+of Surrey, Guildford, Surrey GU2 7XH, UK. 6 The Institute of Mental Health, 
+University of Nottingham Innovation Park, Triumph Road, Nottingham NG7 
+2TU, UK. 
+Acknowledgements
+The copyright for the “Personal Recovery Plan” workbook is held by South West London and St Georges NHS Foundation Trust. A licence to adapt and use the plan, and distribute the adapted plan, was obtained from the copyright hold‑ers by University College London.Additional files
+Additional file 1: DS1–DS3. CRT Service User Interviews (stage 2)—par ‑
+ticipant characteristics. Stakeholder Focus groups (stage 3)—participant characteristics. Feasibility testing (stage 4) and piloting (stage 5)—partici‑pant characteristics
+Additional file 2: DS4. CRT service user interviews (stage 2)—main 
+themes.
+Additional file 3: DS5. DS5 Stakeholder focus groups (stage 3)—main 
+themes.
+Additional file 4: DS6. Feasibility testing (stage 4)—main themes from 
+participant interviews.
+Additional file 5: DS7. Feasibility testing (stage 4)—main themes from 
+PSW focus group.
+Additional file 6: DS8. Pilot trial (stage 5)—main themes from partici‑
+pant interviews.
+Additional file 7: DS9. Pilot trial (stage 5)—main themes from PSW 
+focus group.
+Page 17 of 18
+ Milton et al. BMC Res Notes  (2017) 10:588 
+Further information about the study intervention, the PSWs’ training pro ‑
+gramme and the intervention’s operating procedures are available from the 
+CORE Study website: https://www.ucl.ac.uk/core ‑study/workstream‑02.
+We are grateful to the Peer Support Workers who delivered the study 
+intervention in its preliminary phases and contributed to intervention development:
+Preliminary testing phase: David Hindle, Jacqui Lynskey, Mary Plant, 
+Pauline Edwards.
+Pilot trial: David Hindle, Jacqui Lynskey, Mary Plant, Katherine Barrett, Peter 
+Caul.
+We are grateful to the members of the CORE service user and carer 
+working groups, who contributed to the development of interview topic guides, adaptation of the Recovery Plan for use in the study intervention, and collection of data from service user and carer participants: Stephanie Driver, Pauline Edwards, Jackie Hardy, Kate Holmes, Lyn Kent, Jacqui Lynskey, Brendan Macken, Jo Shenton, Jules Tennick, Gen Wallace, Mary Clarke, Kathleen Fraser ‑
+Jackson, Mary Plant, Anthony Rivett, Geoff Stone, Janice Skinner.
+We are grateful for the time and help from staff and service users and 
+families of Crisis Resolution Teams who participated in the study.
+Competing interests
+The authors declare that they have no competing interests.
+Availability of data and materials
+The qualitative datasets generated and analysed during the current study are not publicly available: they are lengthy interview transcripts, from which quo ‑
+tations used in this publication have been selected to ensure that individual services or participants cannot be identified. The datasets are available from the corresponding author on reasonable request.
+Consent for publication
+Not applicable.
+Ethics approval and consent to participate
+Ethical approval for all stages of this study was obtained from the London Camden and Islington Research Ethics Committee (REC reference numbers 10/H0722/84, 11/L0/2010, 12/LO/0988). Informed, written consent was obtained in advance from all participants in qualitative interviews for this study.
+Funding
+This paper reports work undertaken as part of the CORE Study, which is funded by the National Institute for Health Research (NIHR) under its Pro ‑
+gramme Grants for Applied Research programme (Reference Number: RP ‑PG‑
+0109‑10078). The views expressed are those of the authors and not necessarily those of the NHS, the NIHR or the Department of Health.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub ‑
+lished maps and institutional affiliations.
+Received: 20 January 2017   Accepted: 1 November 2017
+References
+ 1. Department of Health “Crisis Resolution/Home Treatment Teams. The Mental Health Policy Implementation Guide” Department of Health, London; 2001.
+ 2. Department of Health “The NHS Plan: a plan for investment, a plan for reform” . Department of Health, London; 2000.
+ 3. Lloyd‑Evans B, Paterson B, Onyett S, Brown E, Istead H, Gray R. National implementation of a mental health service model: a survey of crisis resolution teams in England. Int J Mental Health Nurs. 2017. https://doi.org/10.1111/inm.12311.
+ 4. Johnson S. Crisis resolution and home treatment teams: an evolving model. Adv Psychiatr Treat. 2013;19:115–23. 5. Lloyd‑Evans B, Bond G, Ruud T, Ivanecka A, Gray R, Osborn D, et al. Devel‑opment of a measure of model fidelity for mental health crisis resolution teams. BMC Psychiatry. 2016;16:427.
+ 6. Johnson S, Nolan F, Pilling S, Sandor A, Hoult J, McKenzie N, et al. Ran‑domised controlled trial of acute mental health care by a crisis resolution team: the north Islington crisis study. BMJ. 2005;331:599.
+ 7. Murphy S, Irving C, Adams C, Driver R. Crisis intervention for people with severe mental illnesses. Cochrane Database of Syst Rev. 2012. https://doi.org/10.1002/14651858.CD001087.pub4.
+ 8. Onyett S, Linde K, Glover G, Loyd S, Bradley S, Middleton H. Implemen‑tation of crisis resolution/home treatment teams in England: national survey 2005–2006. Psychiatr Bull. 2008;32:374–7.
+ 9. Jacobs R, Barrenho E. The impact of crisis resolution and home treatment teams on psychiatric admissions in England. J Ment Health Policy Econ. 2011;14:13.
+ 10. Hopkins C, Niemiec S. Mental health crisis at home: service user perspec‑tives on what helps and what hinders. J Psychiatr Ment Health Nurs. 2007;14:310–8.
+ 11. Werbeloff N, Chang C, Broadbent M, Hayes J, Stewart R, Osborn D. Admis‑sion to acute mental health services after contact with crisis resolution and home treatment teams: an investigation in two large mental health‑care providers. Lancet Psychiatry. 2016;4(1):49–56.
+ 12. Mueser KT, Gingerich S. Illness self‑management programmes. In: Thor ‑
+nicroft G, Mueser KT, Drake RE, editors. Oxford textbook of community mental health. Oxford: Oxford University Press; 2011.
+ 13. Bodenheimer T, Lorig K, Holman H, Grumbach K. Patient self‑manage ‑
+ment of chronic disease in primary care. JAMA. 2002;288:2469–75.
+ 14. Barlow JH. How to use education as an intervention in osteoarthritis. Best Pract Res: Clin Rheumatol. 2001;15(4):545–58.
+ 15. Sterling EW, Von Esenwein SA, Tucker S, Fricks L, Druss BG. Integrating wellness, recovery, and self‑management for mental health consumers. Community Ment Health J. 2010;46:130–8.
+ 16. Pekkala E, Merinder L. Psychoeducation for schizophrenia. Cochrane Database Syst Rev. 2000;2(2):CD002831.
+ 17. Morriss R, Faizal M, Jones A, Williamson P , Bolton C, McCarthy J. Interven‑tions for helping people recognise early signs of recurrence in bipolar disorder. Cochrane Database Syst Rev. 2007;24(1):CD004854.
+ 18. Zou H, Li Z, Nolan MT, Arthur D, Wang H, Hu L. Self‑management educa‑tion interventions for persons with schizophrenia: a meta‑analysis. Int J Ment Health Nurs. 2013;22(3):256–71.
+ 19. Rouget BW, Aubry JM. Efficacy of psychoeducational approaches on bipolar disorders: a review of the literature. J Affect Disord. 2007;2007(98):11–27.
+ 20. National Institute for Health and Care Excellence (NICE) 2014. Psychosis and schizophrenia in adults: prevention and management. National Institute for Health and Care Excellence 2014. https://www.nice.org.uk/guidance/cg178. Accessed 1 Jul 2015.
+ 21. Cook JA, Copeland ME, Jonikas JA, Hamilton MM, Razzano LA, Grey DD, et al. Results of a randomized controlled trial of mental illness self‑management using wellness recovery action planning. Schizophr Bull. 2012;38:881–91.
+ 22. Cook JA, Steigman P , Pickett S, Diehl S, Fox A, Shipley P , et al. Randomized controlled trial of peer ‑led recovery education using Building recovery of 
+individual dreams and goals through education and support (BRIDGES). Schizophr Res. 2012;136:36–42.
+ 23. Barbic S, Krupa T, Armstrong I. A randomized controlled trial of the effec‑tiveness of a modified recovery workbook program: preliminary findings. Psychiatr Serv. 2009;60:491–7.
+ 24. Repper J, Aldridge B, Gilfoyle S, Gillard S, Perkins R, Rennison J. Peer support workers: theory and practice 2013 centre for mental health and mental health network. London: NHS Confederation; 2013.
+ 25. Craig P , Dieppe P , Macintyre S, Michie S, Nazareth I, Petticrew M. Develop ‑
+ing and evaluating complex interventions: the new medical research council guidance. BMJ. 2008;337:a1655.
+ 26. Johnson S, Mason O, Osborn D, Milton A, Henderson C, Marston L et al. A randomised controlled trial of the clinical and cost ‑effectiveness of a 
+peer delivered self‑management intervention to prevent relapse in crisis resolution team users: study protocol for a randomised controlled trial (the CORE self‑management trial). BMJ Open (in press).
+Page 18 of 18 Milton et al. BMC Res Notes  (2017) 10:588 
+•  We accept pre-submission inquiries  
+•  Our selector tool helps you to ﬁnd the most relevant journal
+•  We provide round the clock customer support •  Convenient online submission
+•  Thorough peer review
+•  Inclusion in PubMed and all major indexing services 
+•  Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submitSubmit your next manuscript to BioMed Central 
+and we will help you at every step:
+ 27. Lloyd‑Evans B, Mayo ‑Wilson E, Harrison B, Istead H, Brown E, Pilling S, et al. 
+A systematic review and meta‑analysis of randomised controlled trials 
+of peer support for people with severe mental illness. BMC Psychiatry. 2014;14:39.
+ 28. Morant N, Lloyd‑Evans B, Lamb D, Fullarton K, Brown E, Paterson B, et al. Crisis resolution and home treatment: stakeholders’ views on critical ingredients and implementation in England. BMC Psychiatry. 2017;17(254):1–13.
+ 29. Braun V, Clarke V. Using thematic analysis in psychology. Qual Res Psychol. 2006;3:77–101.
+ 30. Barry C, Britten N, Barber N, Bradley C, Stevenson F. Using reflexiv‑ity to optimize teamwork in qualitative research. Qual Health Res. 1999;9(1):26–44.
+ 31. Miyamoto Y, Sono T. Lessons from peer support among individuals with mental health difficulties: a review of the literature. Clin Pract Epidemiol Ment Health. 2012;8:22–9.
+ 32. South West London and St George’s Mental Health NHS Trust. Taking back control: a guide to planning your own recovery. 2nd ed. London: SWLSG; 2007.
+ 33. Basset T, Ryan P , Repper J, Watson E. A year of peer support in Notting‑ham: lessons learned. J Mental Health Train Educ Pract. 2012;7:70–8. 34. Clark C, Scott E, Boydell K, et al. Effects of client interviewers on client ‑reported satisfaction with mental health services. Psychiatr Serv. 
+1999;50:961–3.
+ 35. Lovell K, Bower P , Richards D, Barkham M, Sibbald B, Roberts C, et al. Developing guided self‑help for depression using the Medical Research Council complex interventions framework: a description of the modelling phase and results of an exploratory randomised controlled trial. BMC Psychiatry. 2008;8:91.
+ 36. Gillard S, Gibson S, Holley J, Lucock M. Developing a change model for peer worker interventions in mental health services: a qualitative research study. Epidemiolog Psychiatr Sci. 2014;24(5):435–45.
+ 37. Home Treatment Accreditation Scheme (HTAS). In: Hodge S, Buley N, editors. Standards for home treatment teams. 2nd ed. 2014 Royal College of Psychiatrists College Centre for Quality Improvement. http://www.rcpsych.ac.uk/PDF/HTAS%20Standards%20Second%20Edition%202015.pdf. Accessed 13 Dec 2016.

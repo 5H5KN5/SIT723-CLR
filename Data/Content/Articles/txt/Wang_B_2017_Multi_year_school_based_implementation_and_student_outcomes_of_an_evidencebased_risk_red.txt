@@ -1,0 +1,1070 @@
+RESEARCH Open Access
+Multi-year school-based implementation
+and student outcomes of an evidence-
+based risk reduction intervention
+Bo Wang1*, Bonita Stanton2, Lynette Deveaux3, Sonja Lunn3, Glenda Rolle4, Richard Adderley3, Maxwell Poitier3,
+Veronica Koci1, Sharon Marshall5and Perry Gomez3
+Abstract
+Background: Intervention effects observed in efficacy trials are rarely replicated when the interventions are broadly
+disseminated, underscoring the need for more information about factors influencing real-life implementation and
+program impact. Using data from the ongoing national implementation of an evidence-based HIV prevention program
+[ F o c u so nY o u t hi nT h eC a r i b b e a n( F O Y C ) ]i nT h eB a h a m a s , this study examines factors influencing teachers ’patterns of
+implementation, the impact of teachers ’initial implementation of FOYC, and subsequent delivery of the booster sessions
+on students ’outcomes.
+Methods: Data were collected from the 80 government elementary and 34 middle schools between 2011 and
+2014, involving 208 grade 6, 75 grade 7, and 58 grade 8 teachers and 4411 students initially in grade 6 and
+followed for 3 years. Student outcomes include HIV/AID S knowledge, reproductive health skills, self-efficacy,
+and intention to use protection. Data from teachers includes implementation and modification of the curriculum,
+attitudes towards the prevention program, comfort level with the curriculum, and attendance at training workshops.
+Structural equation modeling and mixed-effect modeling analyses were applied to examine the impact of teachers ’
+implementation.
+Results: Teachers ’attitudes towards and comfort with the intervention curriculum, and attendance at the curriculum
+training workshop had a direct effect on teachers ’patterns of implementation, which had a direct effect on student
+outcomes. Teachers ’attitudes had a direct positive effect on student outcomes. Teachers ’training in interactive
+teaching methods and longer duration as teachers were positively associated with teachers ’comfort with the
+curriculum. High-quality implementation in grade 6 was significantly related to student outcomes in grades 6
+and 7 post-implementation. Level of implementation o f the booster sessions in grades 7 and 8 were likewise
+significantly related to subsequent student outcomes in both grades.
+Conclusions: High-quality initial implementation of a prevention program is significantly related to better
+program outcomes. Poor subsequent delivery of booster sessions can undermine the positive effects from
+the initial implementation while strong subsequent d elivery of booster sessions can partially overcome poor
+initial implementation.
+Keywords: Pattern of implementation, Booster session, HIV prevention, Program provider, Program outcomes,
+Adolescents, Program evaluation
+* Correspondence: bwang@med.wayne.edu
+1Division of Behavioral Sciences, Department of Family Medicine and Public
+Health Sciences, Wayne State University School of Medicine, 6135 Woodward
+Ave, Detroit, MI 48202, USA
+Full list of author information is available at the end of the article
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.Wang et al. Implementation Science  (2017) 12:16 
+DOI 10.1186/s13012-016-0539-7
+Background
+The field of HIV prevention is maturing from a pri-
+mary focus on intervention development to one that
+includes development and dissemination and imple-
+mentation of effective interventions [1]. The many
+challenges encountered in implementation in real
+world settings result in a wide range of changes to the ori-
+ginal intervention design (e.g., selectively implementing
+program components, dropping core elements, substan-
+tially altering the design) and/or implementation delivery
+quality issues which impair program outcomes [2 –5].
+Prevention programs implemented in schools outside
+of efficacy trials are typically not implemented with
+high quality [6].
+Numerous studies across many fields have examined
+factors influencing implementation of school-based pre-
+vention programs and identified a range of factors which
+appear to facilitate or impede teacher implementation
+efforts: teacher training, program characteristics, teacher
+characteristics, and organizational characteristics [7 –9].
+Teacher/program provider training is well recognized as
+an essential component of successful implementation of
+prevention curricula [10, 11]. A number of teacher charac-
+teristics have been found to predict the fidelity of imple-
+mentation including teacher ’s favorable attitude towards
+prevention programs [12], confidence in their ability to
+teach prevention program and to affect student per-
+formance [13], perception o f community ownership of
+the program [14], and shorter duration of time as
+teacher [15]. Organizational c haracteristics including
+receptivity to the prevention program, support by the
+principal or other school administrators, and the orga-
+nization ’s readiness to implement new programs have
+been shown to be related to fidelity of implementation
+[7, 12]. Students ’engagement in the intervention cur-
+riculum appears to promote teacher ’s implementation
+fidelity [16]. While there is increasing recognition about
+specific teacher- and school-level factors that influence
+implementation of prevention programs, little is known
+about how these factors interact and the complex ways
+in which teachers ’attitudes and self-efficacy are influenced
+by education, training, and school administrators ’support,
+and the extent to which attitudes and self-efficacy influ-
+ence program implementation and outcomes. In this
+manuscript, “self-efficacy ”refers to teacher ’s beliefs about
+his/her ability to implement the intervention curriculum;
+teacher ’s“confidence ”is a more general measure of
+teacher ’s belief in the inherent value of the intervention
+curriculum if it is delivered appropriately. Teacher ’sc o n f i -
+dence leads to self-efficacy.
+Numerous implementation models, theories and frame-
+works have been proposed to summarize factors at multiple
+levels of the social organizational context that potentially
+influence the process of the translating research-basedeffective intervention into practice [17 –19]. The explor-
+ation, preparation, implemen tation and sustainment (EPIS)
+framework provides a compre hensive conceptual model to
+guide implementation researc h across the dissemination-
+implementation-sustainment spectrum. The EPIS model
+articulates variables that may play crucial roles at different
+phases in the implementation process and their impact on
+the ultimate success of intervention delivery. The model ex-
+amines both the ideological and structural fit of the wider
+environment (the “outer context ”elements) as well as the
+local culture and climate and providers ’characteristics and
+attitudes (the “inner context ”e lements) with regard to the
+intervention as indicators or guides to moving the inter-
+vention towards successful implementation [20]. EPIS em-
+phasizes the significant role of sustained leadership and
+ownership over new interventions, and ongoing support
+and incentives for implementation as key to successful im-
+plementation and long-term sustainability. In the present
+study assessing the active implementation phase of
+school-based delivery of an evidence-based sexual risk-
+reduction intervention, we focus on the role of one subset
+of“inner context ”factors, the “Individual adopter (i.e.,
+teacher) characteristics ”. Specifically, we seek to under-
+stand the relationships among the individual adopter char-
+acteristics and how they influence the implementation of
+the FOYC intervention. Our hypothesized conceptual
+model was developed based on the empirical literature
+[21] and the EPIS framework with a focus on the active
+implementation phase and “inner context ”factors. We
+hypothesize that teachers ’attitudes towards the interven-
+tion and their comfort with the curriculum have a direct
+positive effect on implementation, which in turn affects
+student outcomes. Teacher ’s comfort is influenced by their
+teaching experience, training, and student engagement.
+Teachers ’initial implementation and subsequent delivery
+of booster sessions have a direct effect on long-term stu-
+dent outcomes.
+FOYC is an evidence-based, life skills curriculum
+designed to reduce risk taking behaviors related to
+HIV/STI transmission and teen pregnancy. Woven
+throughout FOYC is a decision making model that
+provides guidance and practice in problem solving
+with a focus on how to obtain factual information on
+sexual health. FOYC was adapted from Focus on
+Youth (FOY). FOY and Informed Parents and Children
+Together (CImPACT) were selected to be part of the
+Centers for Disease Control and Prevention ’s“Diffusion of
+Effective Behavioral Interventions (DEBI) ”Portfolio. De-
+tailed information about intervention activities are de-
+scribed elsewhere [22, 23]. Longitudinal evaluations
+showed that the intervention significantly increased
+Bahamian youth ’sH I V / A I D Sk n o w l e d g e ,p e r c e p t i o n so f
+their ability to use condoms, and condom-use intention
+[24] with evidence of increased condom use [25].Wang et al. Implementation Science  (2017) 12:16 Page 2 of 13
+Beginning in 2011, the FOYC curriculum was integrated
+into the national Health and Family Life Education
+(HFLE) curriculum and taught by grade 6 teachers among
+all grade 6 youth in all government primary schools in
+The Bahamas throughout the school year. The FOYC
+curriculum consists of eight sessions (each averaging
+45 min to 1.5 h in length). Subsequently as the youth
+reached grade 7 and then grade 8, they received an annual
+1-h booster session reviewing decision-making tools,
+condom use skills and communication skills. Per standard
+Ministry of Education (MOE) procedure, the grade 6,
+grade 7, and grade 8 teachers had all been invited to
+participate in teacher training workshops; for the grade 6
+teachers, the training lasted for 1 to 4 days, while for the
+grade 7 and grade 8 teachers, the training was 1 day.
+Details of the teachers training are described in our recent
+publications [23, 26].
+National implementation of FOYC in The Bahamas
+offers a unique opportunity to examine teachers ’pattern
+of implementation over time and long-term program
+outcome, which has not been addressed in our prior
+analyses [23, 26]. Drawing on data gathered through four
+waves of national implementation, this analysis addresses
+three research questions: (1) To what extent did the
+teachers implement the FOYC-booster program after
+initial implementation of FOYC in grade 6?; (2) What
+factors influenced the teachers ’patterns of imple-
+mentation and what is the relationship between in-
+fluencing factors?; and, (3) How does teachers ’initial
+implementation of FOYC and subsequent delivery of
+the booster sessions impact students ’outcomes in
+grades 6, 7, and 8?
+Methods
+Study site
+Beginning in 2011, 80 government elementary schools
+and 34 government middle (junior high) schools in the
+Commonwealth of The Bahamas participated in national
+implementation of FOYC. The 80 schools are located on
+14 of the major islands constituting The Bahamas, where
+more than 98% of the population resides. The 80 partici-
+pating elementary schools housed 208 grade 6 teachers;
+the 34 middle schools housed 75 grade 7 teachers and
+58 grade 8 teachers.
+Recruitment procedure
+Our local research team met several times with the dir-
+ector of education of the Ministry of Education (MOE),
+district superintendents, and school administrators to dis-
+cuss this school-based research project at the beginning of
+this study. Administrators from 117 government primary/
+junior high schools were contacted and 114 provided writ-
+ten approval of inclusion of their schools (97.4%). Our re-
+search team partnered with the Health and Family LifeEducation (HFLE) unit of MOE to conduct FOYC training
+workshops for teachers. All HFLE teachers were invited to
+participate in the training and received information about
+the research. Two hundred and sixty primary/junior high
+school teachers were contacted; 251 (96.5%) provided
+written consent to participate.
+Measures
+Implementation dose and fidelity of implementation
+Grade 6 teachers were asked to complete a teacher
+implementation checklist specific for each of the eight
+sessions of FOYC after they had taught the session. The
+checklist includes all 46 activities in the FOYC curricu-
+lum, 30 of which were identified by the developers as “core
+activities ”[i.e., those activities believed to be critical to the
+effectiveness of the intervention [27]. The teachers indi-
+cated which activities they had and had not taught in each
+session. Implementation dose was defined as the number of
+core activities (from among a total of 30) actually taught.
+For those core activities that they taught, the teachers
+recorded whether they had modified the format of the
+activity as outlined in the manual to determine fidelity of
+implementation. Student engagement (few, some, and
+most) and level of comfort (not comfortable, rather com-
+fortable, and very comfortable) in teaching each activity
+were also recorded. Grade 7 and grade 8 teachers were
+asked to complete teacher implementation checklist spe-
+cific for each of the five core activities in the FOYC booster
+session. The teachers indicated which activities they had
+and had not taught; for those core activities that they
+taught, the teachers recorded whether they had modified
+the format of the activity, student engagement, and their
+comfort level in teaching the activity.
+Factors associated with implementation
+At pre- and post-intervention delivery, all grade six partici-
+pating teachers were asked to complete questionnaires
+assessing factors described in the prior research as influen-
+cing fidelity of intervention implementation. Information
+was collected on teacher ’s level of formal education (associ-
+ate degree, teaching certificate, bachelor degree, master
+degree, doctoral degree), years as a teacher/guidance
+counselor (1 –2y e a r s ,3 –5y e a r s ,5 –10 years, 10 –20 years,
+>20 years), teacher ’s attendance at FOYC training workshop
+(1 = did not attend, 2 = attended part of a training work-
+shop, 3 = fully attended a train ing workshop), training in
+interactive methods (1 = none, 2 = a little, 3 = some, 4 = a
+lot), prior experience of teaching FOYC or other HIV
+prevention programs (yes/no), teachers ’attitude towards
+FOYC/HIV prevention intervention measured as their per-
+ceptions of the importance of prevention programs, HIV
+prevention and the FOYC intervention (1 = not important,
+2 = somewhat important, 3 = very important), comfort level
+with the FOYC curriculum (e.g., “how comfortable do youWang et al. Implementation Science  (2017) 12:16 Page 3 of 13
+think you will feel in teaching the materials in FOYC? ”1=
+n o ta ta l l ,2=s o m e w h a tc o m f o r t a b l e ,3=v e r yc o m f o r t a b l e ) ,
+and teacher ’ss e n s eo f “ownership ”of the curriculum [e.g., a
+belief that the intervention addresses a local issue and re-
+flects Bahamian values and i nput [7, 12]. The Cronbach ’s
+alpha for perceptions of program importance (five items)
+was 0.75.
+Teachers ’patterns of initial implementation
+(high/moderate/low implementers)
+As reported previously [23], cluster analysis was used
+to identify teachers ’patterns of implementation based
+on implementation dose (i.e., number of core activ-
+ities taught) and fidelity of i mplementation (i.e., per-
+centage of core activities being changed during the
+implementation). Results of the cluster analysis indi-
+cated three distinct implementation clusters of teachers:
+(1) high implementation group (63 teachers, 32%), charac-
+terized by high levels of sustained implementation and fi-
+delity of implementation. Teachers in this group taught
+over 80% of core activities (25 out of 30 core activities) on
+average and changed only 14% of the core activities;
+(2) moderate implementation group (105 teacher, 53%),
+showing moderate levels of sustained implementation
+but high levels of fidelity of implementation. On aver-
+age, teachers in this group taught less than half of
+the core activities (12.3 out of 30 core activities) and
+changed 13% of the core activities; and 3) low imple-
+mentation group (31 teachers, 16%), demonstrating
+low levels of sustained implementation and fidelity.
+On average, these teachers taught less than one-third
+of core activities (8.6 out of 30 core activities) and
+changed three-quarters of the core activities that they
+taught in the classroom.
+Student outcomes
+An anonymous curricular assessment instrument with
+identifying information only at the level of the school
+and classroom/teacher, adapted by the MOE from a
+version of the Bahamian Youth Health Risk Behavioral
+Inventory (BYHRBI) [22] was administered to grade 6,
+grade 7, and grade 8 students. The instrument includes
+a scale of 15 true/false statements to assess level of HIV/
+AIDS knowledge ( “knowledge ”) (Cronbach ’sα= 0.85); a
+six-item adaptation of the Condom-use Skills Checklist
+(Cronbach ’sα= 0.83) [28] to assess condom-use know-
+ledge and skills ( “reproductive health skills ”); a three-item
+self-efficacy scale regarding pregnancy/STI prevention
+methods ( “self-efficacy ”) (Cronbach ’sα= 0.81); and, one
+question assessing the youth ’s likelihood of using a condom
+if he/she were to engage in sexual intercourse within the
+next 6 months ( “intention to use protection ”)[ f i v e - p o i n t
+Likert scale ranging from 1 (very unlikely) through 5 (very
+likely)].Analysis
+Descriptive statistics (mean and standard deviation) of
+HIV/AIDS knowledge, condom-use skills, self-efficacy,
+and intention to use protection were calculated for whole
+sample and stratified by teachers ’patterns of initial imple-
+mentation (high/moderate/low implementers) at baseline,
+and grade 6, grade 7, and grade 8 follow-ups. A line chart
+was then constructed to graphically display the longitu-
+dinal trends of mean scores of these student outcomes.
+The difference in student outcomes across the four time
+points were examined using ANOVA with Tukey honestly
+significant difference (HSD) tests, using the whole sample
+and stratified by the implementation group. The difference
+in knowledge, skills, self-efficacy, and intention across the
+three implementation groups at each time point was
+assessed using ANOVA. To examine the associations of
+grade 7 and grade 8 teacher delivery of booster sessions
+with grade 8 student outcomes, students ’knowledge,
+skills, self-efficacy, and intentions were compared accord-
+ing to their grade 7 and grade 8 teachers ’levels of imple-
+mentation of the booster sessions (categorized into three
+groups: taught 0 –1a c t i v i t y ,2 –3 activities or 4 –5 activities)
+using ANOVA with the Tukey HSD post hoc tests.
+Pearson (for continuous variables) and Spearman (for
+ordinal variables) correlation analyses were conducted to
+examine the associations between factors influencing
+teacher ’s patterns of implementation and student out-
+comes. The anonymous student questionnaires were not
+linked at the level of the individual student; however, the
+questionnaires were linked to the teacher (classroom).
+Thus, we calculated average scores of student outcomes
+for each teacher in correlation analyses.
+We further examined the association of grade 6 teachers ’
+patterns of implementation (high/moderate/low implemen-
+ters) with grade 8 student outcomes using mixed-effects
+modeling, adjusting for clustering effects of classroom
+(teacher) and/or school. Independent variables included
+teacher ’s implementation clusters, student ’sa g e ,s e x ,a n d
+baseline student outcomes. School and class were included
+as random effect variables in the model. Similarly, the effect
+of grade 7 and grade 8 teacher delivery of booster sessions
+on student outcomes was further assessed using mixed
+effects models, controlling for clustering effects of class-
+room and/or school and baseline difference.
+To examine the effects of both the grade 6 teachers ’
+implementation of the FOYC intervention and subsequent
+delivery of the booster session in grade 7 and grade 8 on
+long-term student outcomes in grade 8, we expanded the
+mixed-effects models descr ibed above by including both
+grade 6 teachers ’patterns of implementation and grade 7
+and grade 8 teacher ’s level of implementation of booster
+session in the same model. We further examined the rela-
+tionship of different combinations/scenarios of grade 6 im-
+plementation of FOYC (high/moderate/low implementers)Wang et al. Implementation Science  (2017) 12:16 Page 4 of 13
+and grade 7 and grade 8 teacher ’s delivery of booster
+session [poor (0 –3 activities)/fair (4 –7 activities)/good
+(8–10 activities) delivery] wi th student outcomes using
+mixed-effects models controlling for clustering effects and
+baseline difference. All analyses were performed using SAS
+9.4 statistical software pack age (SAS Institute Inc., Cary,
+NC, USA).
+Structural equation modeling (SEM) analysis was con-
+ducted to examine the relationships among factors influ-
+encing teacher ’s patterns of implementation, and student
+outcomes using the Mplus 7 with multilevel add-on. A
+starting model (implementation model) was estimated to
+examine the interrelationships among factors influencing
+teacher ’s patterns of implementation and their direct
+and indirect effects on implementation patterns. Subse-
+quently, a full model was constructed by including grade
+6, grade 7, and grade 8 student outcome latent variables,
+and implementation of grade 7 and grade 8 booster
+sessions into the revised implementation model. Since
+students were clustered within classes in 80 schools, the
+cluster option in Mplus was used to correct for the poten-
+tial underestimation of standard errors [29]. Standardized
+regression coefficients for all paths were estimated using
+robust maximum likelihood (MLR) estimation. Missing
+data was handled using full information maximum likeli-
+hood (FIML). Goodness of model fit was assessed using
+chi-square to degrees-of-freedom ratio ( χ2/df), root mean
+square error of approximation (RMSEA), Bentler ’sc o m -
+p a r a t i v ef i ti n d e x( C F I )a n dT u cker Lewis Index (TLI) [30].
+Standardized path coefficients were presented in Fig. 3.
+Results
+Study participants
+Data were collected from 208 grade 6 teachers, 75
+grade 7 teachers, 58 grade 8 teachers and 4411 grade
+6 students at baseline; from 4,168 (94.5%) of all
+grade 6 students at the g rade 6 follow-up; from
+3,439 (78.0%) students at the grade 7 follow-up; and,
+from 3256 (73.8%) students at the grade 8 follow-up.
+The average age of the students at baseline was 10.4
+(SD = 1.7) years. The vast majority (>95%) of stu-
+dents are of African descent and about one-half are
+female.
+Teachers ’implementation of the booster sessions after
+initial implementation of FOYC
+Among the 75 grade 7 teachers who participated in the
+national implementation study, 18 teachers taught 4 or 5
+activities (from among 5 activities) in the booster ses-
+sion, 29 taught 2 or 3 activities and 28 taught none or
+only one activity. Among the 58 grade 8 teachers who
+were involved in the current study, 27 teachers taught 4
+or 5 activities in the booster session, 25 taught 2 or 3
+activities and 6 taught none or only one activity.Changes in mean scores for HIV/AIDS knowledge,
+reproductive health skills, self-efficacy, and intention to
+use protection by three implementation groups
+Figure 1 displays changes in the mean scores of HIV/
+AIDS knowledge, reproductive health skills, self-efficacy
+and intention to use protection over time according to
+the implementation-level of the grade 6 teacher who
+were categorized into three implementation groups: high
+or moderate or low implementation. Overall, knowledge,
+skills, self-efficacy and intention increased significantly
+across the four time points for all three implementation
+groups except that the increases in knowledge from
+grade 6 follow-up to grade 7 follow-up were not signifi-
+cantly different in the high and moderate implementation
+g r o u p s .Al a r g ei n c r e a s ei nk n o w l e d g ei nt h eh i g ha n dm o d -
+erate implementation gro ups occurred at the grade 6
+follow-up; this increase resu lted in an upward displacement
+of the curves for the two implementation groups. After the
+grade 6 follow-up, the trajectories were relatively flat for the
+high and moderate implementation groups, although their
+upward displacement was reta ined throughout the follow-
+up period. Reproductive health skills were higher among
+students who had been taught by grade 6 high and moder-
+ate implementation teachers than those with grade 6 low
+implementation teachers at baseline and the grade 6 and
+grade 7 follow-ups. At the grade 8 follow-up, the mean
+difference in skills became statistically not significant. Com-
+parable at baseline, self-efficacy and intention were higher
+among students with grade 6 high and moderate imple-
+mentation teachers than tho se with grade 6 low implemen-
+tation teachers at the grade 6 an d/or grade 7 follow-ups; at
+grade 8 follow-up there were no significant differences in
+self-efficacy and/or intentions among the three implemen-
+tation groups.
+Effect of a brief FOYC-booste r program on grade 8 student
+outcome according to grade 6 teacher FOYC implementation
+patterns
+Students ’HIV/AIDS knowledge, reproductive health
+skills, self-efficacy and intention to use protection were
+significantly associated with grade 8 teachers ’level of
+implementation of the booster session (Table 1). Overall,
+knowledge, skills, self-efficacy, and intention were the
+highest among youth whose teachers covered four to five
+activities ( “good ”implementation) of booster session,
+followed by youth whose teachers covered two to three ac-
+tivities ( “fair”implementation), with youth whose teachers
+did not teach or only taught one activity ( “poor ”imple-
+mentation) of the booster session demonstrating the low-
+est scores. In stratified analysis among youth whose grade
+6t e a c h e r sw e r ei nt h e lowimplementation group, those
+whose grade 8 teachers exhibited good and/or fair imple-
+mentation of the booster compared to those whose grade
+8 teachers exhibited poor implementation demonstratedWang et al. Implementation Science  (2017) 12:16 Page 5 of 13
+greater increases in three of the four student outcomes in
+grade 8 (knowledge: 10.8 vs. 10.3 vs. 9.6, F=5 . 4 1 , P<0 . 0 1 ;
+skills: 4.6 vs. 4.3 vs. 4.2, F=3 . 8 2 , P= 0.023; self-efficacy:
+2.0 vs. 1.9 vs. 1.4, F=4 . 8 8 , P< 0.01). Among youth whose
+grade 6 teachers were in the moderate implementation
+group, those whose grade 8 teachers exhibited good and/
+or fair booster implementation compared to those whose
+grade 8 teachers exhibited poor implementation demon-
+strated greater increase in reproductive health skills and
+intention (skills: 4.6 vs. 4.4 vs. 4.4, F=4 . 6 7 , p<0 . 0 5 ;
+intention: 4.3 vs. 4.2 vs. 3.6, F=1 3 . 4 1 , P< 0.001). Among
+youth whose grade 6 teachers were in the high implemen-
+tation group, those whose grade 8 teachers exhibited poor
+and/or fair booster implementation compared to those
+grade 8 teachers who exhibited good implementation
+demonstrated poorer reproductive health skills (skills: 4.4
+vs. 4.4 vs. 4.6, F=4 . 8 8 , P<0 . 0 1 ) .
+The results of the mixed-effects models indicate that
+the quality of grade 6 teachers ’implementation was
+significantly related to increased HIV/AIDS knowledge
+and self-efficacy among grade 8 students (knowledge:
+β= 0.37, SE = 0.19, p= 0.05; self-efficacy: β= 0.18, SE = 0.07,
+p< 0.01). Changes in students ’reproductive health
+skills and intention to use protection were not related
+to grade 6 teacher implementation. In summary, youth
+whose teachers belonged to the high implementationgroup demonstrated better student outcomes in grade 8
+than those youth whose teachers were in the low imple-
+mentation group (Additional file 1). Similarly, grade 7
+teachers ’level of implementation of the booster ses-
+sion was significantly related to grade 8 student im-
+provements in HIV/AIDS knowledge and self-efficacy
+(Additional file 2). The results of the mixed-effects
+models show that grade 8 teachers ’level of imple-
+mentation of the booster session was significantly re-
+lated to grade 8 student improvements in reproductive
+health skills, condom use self-efficacy, and intention to
+use protections (skills: β= 0.24, SE = 0.08, p,0.01; self-
+efficacy: β=0 . 2 2 , S E=0 . 0 7 , p<0 . 0 1 ; i n t e n t i o n : β=0 . 3 5 ,
+SE = 0.11, p,0.001); the relationship of the students ’HIV/
+AIDS knowledge with grade 8 teacher implementation of
+the booster sessions was marginally significant (Additional
+file 3).
+Effects of grade 6 teacher ’s initial implementation of
+FOYC intervention and grade 7 and 8 teacher ’s delivery
+of booster session on long-term student outcomes
+Table 2 presents the relationship of different combina-
+tions of grade 6 implementation of FOYC and grade 7
+and grade 8 delivery of the booster sessions with student
+outcomes. Compared to youth whose grade 6 teachers
+belonged to the low implementation group and whose
+Fig. 1 Change in HIV/AIDS knowledge, reproductive health skills, self-efficacy, and intention to use protection from baseline to 24-month follow-up,
+stratified by grade 6 teacher implementation clusterWang et al. Implementation Science  (2017) 12:16 Page 6 of 13
+grade 7 and grade 8 teachers exhibited poor booster im-
+plementation ( “poor-performing teachers ”), youth whose
+grade 6 teachers belonged to the high or moderate im-
+plementation groups and whose grade 7 and grade 8
+teachers exhibited good or fair booster implementation
+performed better in three of the four student outcomes
+(including HIV/AIDS knowledge, reproduction health
+skills and self-efficacy). Presence of poor-performing
+teachers in either grade 6 or in grade 7 and/or 8 were
+mitigated by better performing teachers in the alternate
+year(s). Thus, compared to youth with poor-performing
+teachers in grades 6, 7 and 8, youth whose grade 6
+teachers belonged to the high or moderate implementa-
+tion groups butwhose grade 7 and grade 8 teachers exhib-
+ited poor booster implementation performed better in
+HIV/AIDS knowledge only; youth whose grade 6 teachers
+were in the low implementation group but whose grade 7
+and grade 8 teachers exhibited good or fair booster imple-
+mentation performed better in HIV/AIDS knowledge
+only. Youth whose grade 6 teachers belonged to the high
+or moderate implementation groups and whose grade 7
+and grade 8 teachers exhibited good or fair booster imple-
+mentation demonstrated better long-term student out-
+comes than youth whose grade 6 teachers were in the lowimplementation group and whose grade 7 and grade 8
+teachers exhibited poor booster implementation.
+Bivariate correlation among factors influencing
+implementation and student outcomes
+Grade 6 teacher ’s level of comfort with the FOYC curricu-
+lum, attitudes towards the intervention, attendance of
+FOYC training workshop were positively associated with
+teacher implementation cluster ( r= 0.24~0.34, p<0 . 0 1 ) .
+Teacher ’s level of comfort with FOYC was positively asso-
+ciated with attitudes towards FOYC, training in interactive
+teaching and years as teacher ( r= 0.20~0.34, p<0 . 0 1 ) . I n
+addition, training in interactive teaching was positively as-
+sociated with attendance of FOYC workshop and imple-
+mentation cluster ( r= 0.27~0.30, p< 0.001). Students ’
+HIV/AIDS knowledge, reproductive health skills, self-
+efficacy and intention to use protection were significantly
+correlated with each other in grade 6 ( r= 0.16~0.44,
+p<0 . 0 5 ) a n d g r a d e 7 ( r= 0.15~0.49, p<0 . 0 5 ) . G r a d e 8
+students ’HIV/AIDS knowledge, reproductive health
+skills and intention to use protection (except self-efficacy)
+were significantly correlated ( r= 0.22~0.41, p<0 . 0 1 ) .
+Grade 6 students ’knowledge, skills, self-efficacy and
+intention were significantly correlated with grade 7 andTable 1 Associations grade 8 teachers ’implementation of booster sessions with student outcomes
+Variables Number of activities in the booster session completed F Post-hoc
+comparisonb
+0~1 activities
+(1)2~3 activities
+(2)4~5 activities
+(3)
+Sample size ( n)a296 1104 1705
+HIV/AIDS knowledge (range 0~15 points) 10.45(2.39) 10.65(2.19) 10.85(2.12) 5.72**(1,3) (2,3)
+High implementation group 10.85(1.99) 10.70(2.21) 10.87(2.08) 0.71
+Moderate implementation group 10.46(2.54) 10.73(2.09) 10.87(2.14) 2.37
+Low implementation group 9.55(2.40) 10.34(2.49) 10.78(2.04) 5.41**(1,3)
+Preventive reproductive health skills (range 0~6 points) 4.34(1.13) 4.37(1.15) 4.59(1.07) 16.95***(1,3) (2,3)
+High implementation group 4.37(1.11) 4.42(1.15) 4.62(1.06) 4.88**(2,3)
+Moderate implementation group 4.39(1.11) 4.39(1.14) 4.56(1.09) 4.67*(2,3)
+Low implementation group 4.22(1.24) 4.34(1.22) 4.57(1.07) 3.82*(1,3) (2,3)
+Self-efficacy (range 0~3 points) 1.82(1.12) 1.95(1.12) 2.05(1.08) 6.43***(1,3)
+High implementation group 1.94(1.06) 1.95(1.13) 2.09(1.06) 2.16
+Moderate implementation group 1.85(1.10) 1.96(1.09) 2.01(1.09) 1.44
+Low implementation group 1.39(1.30) 1.94(1.18) 2.01(1.11) 4.88**(1,2) (1,3)
+Intention to use protection (range 1~5 points) 3.81(1.63) 4.21(1.46) 4.17(1.47) 8.58**(1,2) (1,3)
+High implementation group 4.12(1.49) 4.21(1.47) 4.07(1.55) 0.90
+Moderate implementation group 3.56(1.74) 4.18(1.47) 4.26(1.40) 13.41***(1,2) (1,3)
+Low implementation group 3.97(1.46) 4.26(1.45) 4.10(1.52) 0.80
+*P< 0.05
+**P< 0.01
+***P< 0.001
+a151 youth who did not identify their grade 8 teachers were excluded
+bNumbers in parentheses indicating significantly different groups based on post-hoc analysisWang et al. Implementation Science  (2017) 12:16 Page 7 of 13
+grade 8 students ’knowledge, skills, self-efficacy and
+intention, respectively ( r= 0.22~0.61, p<0 . 0 1 ) . G r a d e 7
+teacher ’s delivery of the booster session was significantly
+correlated with grade 7 students ’knowledge and skills and
+grade 8 students ’knowledge ( r= 0.19~0.23, p<0 . 0 1 ) .
+Grade 8 teacher ’s delivery of the booster session was sig-
+nificantly correlated with grade 8 students ’knowledge and
+skills ( r=0 . 1 4 , p<0 . 0 5 ) . G r a d e 7 t e a c h e r ’s level of imple-
+mentation of booster session is positively associated with
+grade 8 teacher ’s level implementation of booster session
+(Table 3).Relationships among factors influencing teacher ’sp a t t e r n s
+of implementation and the effects of initial implementation
+and subsequent booster sessions on student outcomes
+An initial hypothetical model was developed based on a
+synthesis of the empirical literature (Fig. 2). The model
+posits that teachers ’attitudes towards the intervention
+(i.e., perception of the importance of FOYC) and their
+levels of comfort with delivering the FOYC lessons have
+a direct positive effect on implementation patterns
+(high/moderate/low implementers), which in turn affect
+student outcomes. Teacher ’s level of comfort is influencedTable 2 Mixed-effects models assessing the effects of different combinations of grade 6 teacher ’s implementation of FOYC
+intervention and grade 7 and 8 teacher ’s delivery of booster session on student outcomes
+Variables Estimated models
+HIV/AIDS knowledge Preventive reproductive
+health skillsSelf-efficacy Intention to use
+protection
+B SE t β SE t β SE t β SE t
+Fixed effect
+Intercept 9.565 0.384 24.91***4.237 0.189 22.43***1.818 0.173 10.51***4.417 0.259 17.04***
+Age 0.014 0.024 0.59 −0.011 0.013 −0.84 −0.015 0.013 −1.22 −0.057 0.017 −3.34**
+Gender
+Male 0.014 0.079 0.17 0.018 0.042 0.44 0.029 0.42 0.70 0.083 0.058 1.44
+Female (ref)
+Baseline student outcome 0.027 0.016 1.70#0.029 0.016 1.76#0.017 0.020 0.84 0.036 0.017 2.10*
+Nine combinations of grade 6 implementation
+of FOYC and grade 7 and grade 8 booster delivery
+High implementation of FOYC and good delivery
+of booster in grade 7/80.984 0.325 3.03**0.380 0.155 2.46*0.363 0.134 2.70**0.002 0.228 0.01
+High implementation of FOYC and fair delivery
+of booster in grade 7/80.841 0.294 2.86**0.319 0.139 2.30*0.362 0.122 2.98**0.186 0.207 0.90
+High implementation of FOYC and poor delivery
+of booster in grade 7/80.714 0.342 2.09*0.132 0.164 0.80 0.213 0.146 1.46 0.228 0.241 0.95
+Moderate implementation of FOYC and good
+delivery of booster in grade 7/80.772 0.317 2.44*0.416 0.153 2.71**0.311 0.137 2.27*0.405 0.225 1.80#
+Moderate implementation of FOYC and fair
+delivery of booster in grade 7/80.856 0.284 3.02**0.278 0.135 2.06*0.318 0.119 2.67**0.251 0.201 1.25
+Moderate implementation of FOYC and poor
+delivery of booster in grade 7/80.767 0.319 2.40*0.279 0.155 1.80#0.138 0.138 1.00 −0.035 0.227 −0.15
+Low implementation of FOYC and good delivery
+of booster in grade 7/81.057 0.509 2.08*0.357 0.256 1.40 0.370 0.253 1.46 0.580 0.364 1.59
+Low implementation of FOYC and fair delivery
+of booster in grade 7/80.590 0.282 2.09*0.190 0.143 1.32 0.248 0.131 1.89#0.181 0.207 0.88
+Low implementation of FOYC and poor delivery
+of booster in grade 7/8 (ref)
+Random effect
+Schoola0.026 0.049 0.52 0.015 0.009 1.55#- - 0.009 0.020 0.43
+Class (nested within school)a0.384 0.083 4.65***0.015 0.012 1.27 0.005 0.009 0.61 0.142 0.035 4.00***
+#P< 0.10
+*P< 0.05
+**P< 0.01
+***P< 0.001
+aztest. Good delivery of booster = covered 8 –10 activities; fair delivery of booster = covered 4 –7 activities; poor delivery of booster = covered 0 –3 activitiesWang et al. Implementation Science  (2017) 12:16 Page 8 of 13
+Table 3 Correlation coefficients among factors influencing teacher ’s implementation of FOYC and student outcomes
+Variables 1 2 3 4 5 6 7891 0 1 1 1 2 1 3 1 4 1 5 1 6 1 7 1 8 1 9 2 0 2 1
+Factors influencing implementation
+1. Comfort level with FOYC 1
+2. Attitudes towards FOYC 0.20a1
+3. Student engagement 0.07 0.20b1
+4. Interactive teaching 0.34c0.18a0.01 1
+5. Years as teacher 0.33c0.02 0.08 0.09 1
+6. FOYC workshop 0.13 0.13 0.09 0.30c0.04 1
+7. Implementation cluster 0.24b0.35c0.14a0.27c-0.08 0.25c1
+Student outcomes in grade 6
+8. HIV/AIDS knowledge 0.07 0.32c0.02 0.03 -0.02 0.12 0.36c1
+9. Reproductive health skills 0.11 0.30c0.09 0.12 0.10 0.11 0.35c0.44c1
+10. Self-efficacy 0.11 0.27c0.04 0.11 0.10 0.09 0.16a0.19a0.35c1
+11. Intention 0.15 0.24b0.10 0.12 0.02 0.05 0.18a0.39c0.22b0.16a1
+Student outcomes in grade 7
+12. HIV/AIDS knowledge 0.13 0.30c0.07 0.02 0.14 0.16a0.20b0.47c0.28c0.10 0.26c1
+13. Reproductive health skills 0.05 0.04 0.12 0.06 0.11 0.10 0.05 0.22b0.22b0.01 0.18a0.48c1
+14. Self-efficacy 0.02 -0.00 0.11 0.00 0.03 -0.07 -0.01 0.09 0.23b0.48c0.08c0.15a0.15a1
+15. Intention 0.08 0.12 0.18a0.05 0.00 -0.03 0.08 0.32c0.20b0.05 0.41c0.41c0.49c0.30c1
+Student outcomes in grade 8
+16. HIV/AIDS knowledge 0.04 0.19a0.07 -0.03 0.17a0.02 0.10 0.40c0.27c-0.06 0.36c0.61c0.33c-0.05 0.33c1
+17.Reproductive health skills -0.07 0.12 -0.03 0.11 0.18a0.07 0.13 0.06 0.23b-0.03 0.21b0.16a0.32c-0.06 0.15a0.38c1
+18. Self-efficacy 0.04 0.11 0.05 0.11 0.22b0.04 0.09 0.09 0.26c0.32c0.05 0.10 0.22b0.48c0.27c0.03 0.41c1
+19. Intention -0.03 0.11 0.09 0.06 -0.10 -0.01 -0.07 0.24b0.11 -0.17a0.45c0.31c0.16a-0.03 0.39c0.36c0.22b-0.04 1
+Delivery of booster session
+20. Grade 7 booster 0.06 0.12 0.03 0.07 0.09 0.05 0.12 0.17a0.23b0.19a0.16a0.20c0.23c0.05 0.10 0.19c0.13 0.09 0.08 1
+21. Grade 8 booster 0.02 -0.01 0.07 -0.02 0.09 -0.05 0.07 0.09 0.12 0.07 0.09 0.16a0.04 0.07 0.09 0.14a0.14c0.06 0.06 0.15a1
+aP< 0.05
+bP< 0.01
+cP< 0.001Wang et al. Implementation Science  (2017) 12:16 Page 9 of 13
+by whether they received training in the delivery of the
+FOYC curriculum and/or interactive teaching, perceived
+student engagement in FOYC, and their duration as a
+teacher. Teachers ’attendance at the FOYC training work-
+shop is also hypothesized to have a direct effect on their
+implementation. Estimation of this model revealed a sig-
+nificant chi-square statistic and unacceptable CFI and TLI
+values (close to 0.80). In modifying the initial model, we
+eliminated two nonsignificant paths including the paths
+from student engagement in FOYC and attendance at
+FOYC training to teachers ’level of comfort with FOYC.
+The revised model was then estimated and revealed ac-
+ceptable model fit. This revised implementation model
+was expanded into a full model by including student out-
+comes and grade 7 and grade 8 booster session. In modify-
+ing the full model, we eliminated one nonsignificant path
+from teachers ’implementation quality in grade 6 to grade
+8 student outcome and added a path from teachers ’atti-
+tudes towards FOYC (perception of the importance of
+FOCY) to grade 6 student outcome. Self-efficacy as one of
+the four indicators for the student outcome latent variable
+was removed due to low factor loadings (ranging from
+0.28 to 0.38). The overall fit of the revised model was
+good. The chi-square/df ratio was 1.67, the RMSEA was
+0.06, the CFI was 0.93, and the TLI was 0.91.
+The revised structural model demonstrated relation-
+ships among factors and their direct and indirect effect on
+implementation patterns and student outcomes (Fig. 3).
+There were four manifest exogenous variables, two mani-
+fest endogenous (i.e., comfort level and implementation
+cluster) and three latent endogenous variables (e.g.,
+student ’s outcomes in grade 6, 7 and 8) in the model. In
+the final model, teachers ’attitudes towards the interven-
+tion, comfort level with the FOYC curriculum and attend-
+ance of FOYC training predicted high quality of
+implementation, which in turn predicted better student
+outcomes (HIV/AIDS knowledge, reproductive health
+skills, and intention to use protection). More years as ateacher or guidance counselor and training in interactive
+teaching were positively associated with teachers ’level of
+comfort with FOYC. In addition, teacher ’s perception of
+the importance of the FOYC intervention had a direct
+positive effect on grade 6 student outcomes. Grade 6
+student outcome, teachers ’implementation cluster and
+grade 7 teachers ’delivery of booster session predicted
+grade 7 student outcome. Grade 7 student outcome and
+grade 8 teachers ’delivery of booster session predicted
+grade 8 student outcome. The analysis revealed an R2
+value of 0.20 for implementation cluster and of 0.30, 0.41,
+and 0.52 for grade 6, grade 7, and grade 8 student out-
+comes, respectively.
+The Sobel test of mediation effect indicated that im-
+plementation cluster mediated the relationship between
+teacher ’s level of comfort with the FOYC curriculum
+and student ’s outcome ( z= 2.51, p< 0.05). In addition,
+the Sobel test suggested that grade 6 implementation
+quality partially mediates the relationships between
+teachers ’attitudes towards the intervention and student
+outcome ( z= 3.21, p< 0.01).
+Discussion
+The current study examined the interrelationships among
+multiple program provider-level factors and how these
+processes influence teachers ’patterns of implementation
+(measured by high/moderate/low implementation clus-
+ters) of an evidence-based sexual risk reduction program
+in 80 government elementary schools and 34 government
+middle schools in The Bahamas across 30 months of
+follow-up. We also assessed the impact of initial imple-
+mentation and subsequent delivery of the booster sessions
+on long-term program outcomes. We found that several
+provider-level factors were associated with implementa-
+tion patterns, and high-quality initial implementation was
+significantly related to short-term program outcomes.
+Level of implementation of the booster sessions was sig-
+nificantly related to subsequent student outcomes. BothFig. 2 Hypothesized structural model of relationships among factors that influence teachers ’quality of implementation and long-term
+student outcomesWang et al. Implementation Science  (2017) 12:16 Page 10 of 13
+initial implementation and subsequent delivery of booster
+sessions are of critical importance in achieving long-term
+program outcomes.
+Several teacher-level factors were found to be signifi-
+cantly related to teachers ’initial implementation of FOYC.
+Consistent with previous research [10, 12, 16], we found
+that teachers ’attitudes towards the prevention program,
+their comfort level with the intervention curriculum, and
+teachers ’attendance at curriculum training workshop are
+strong predictors of the teacher ’sq u a l i t yo fi m p l e m e n t a -
+tion (defined by high degrees of implementation and fidel-
+ity of implementation). Higher levels of comfort among
+teachers with the curriculum may lead to greater confi-
+dence in their ability to conduct the intervention sessions
+(including sensitive topics such as condom use, teen preg-
+nancy and sexual harassment/abuse) in the classroom.
+Teachers who hold favorable attitudes towards the inter-
+vention perceive the importance of HIV prevention in
+schools, and thus they are more likely to implement more
+sessions without significantly modifying the format of the
+activity. Teachers who attended curriculum training work-
+shops were more familiar with the contents of the inter-
+vention curriculum and acquired interactive teaching
+skills. Further, teachers ’attendance at training workshops
+may reflect positive attitudes towards the prevention pro-
+gram. Teachers ’comfort with the intervention curriculum
+also demonstrated a significant mediating effect on the
+relationship between training in interactive teaching
+methods and implementation fidelity. Inconsistent with
+previous studies [16], our study did not find significant as-
+sociation between student engagement in the intervention
+curriculum and teachers ’quality of implementation. This
+could be caused by small variation in teachers ’reports of
+student engagement (as the vast majority of teachers said
+“most ”students were engaged in the lessons). Teachers ’
+attitudes towards a prevention program, self-efficacy in
+teaching intervention curriculum and skills in interactive
+teaching are potential modifiable factors related toprogram delivery [7]. Therefore, pre-implementation
+teacher training should place greater emphasis on enhan-
+cing teachers ’competency in teaching the intervention
+curriculum, shaping teachers ’belief about the importance
+of HIV prevention, and demonstrating and reinforcing
+the use of interactive methods in the context of pre-
+vention programs.
+Both teachers ’initial implementation of FOYC and
+subsequent delivery of the booster sessions are related to
+students ’outcomes. As previously reported [23, 26], high
+quality of initial implementation (characterized by high
+levels of implementation and fidelity of implementation)
+was significantly related to all four student outcomes
+6 months after intervention implementation and related
+to two student outcomes (HIV/AIDS knowledge and
+intention to use protection) 18 months after initial im-
+plementation. Data in the present study indicate that the
+quality of initial implementation had little impact on
+long-term student outcomes (e.g., 30 months after im-
+plementation, it was only significantly related to student
+self-efficacy). The level of implementation of the booster
+session in grade 8 was significantly related to three stu-
+dent outcomes (reproductive health skills, self-efficacy
+and intention to use protection). Simultaneous examin-
+ation in the mixed-effects model of the effects of grade 6
+initial implementation of FOYC and grade 7 and grade 8
+delivery of the booster sessions on student outcomes re-
+vealed that high quality of initial implementation com-
+bined with good delivery of the booster sessions resulted
+in improvements in three outcomes (knowledge, skills
+and self-efficacy) whereas high quality of initial imple-
+mentation combined with poor delivery of the booster
+sessions only resulted in improvement in one outcome
+(knowledge) in comparison to poor quality of initial im-
+plementation and poor delivery of booster sessions.
+These findings suggest that the effect of initial imple-
+mentation on long-term program outcome is fading
+without quality delivery of booster program, whichFig. 3 Revised structural model showing relationships among factors that influence fidelity of implementation and long-term student outcomes
+(including HIV/AIDS knowledge, condom use skills and intention to use protection). (Model fit: CFI = 0.930; TLI = 0.907; RMSEA = 0.058; Chi-Square/
+DF = 1.67). R2value for grade 6, grade 7, and grade 8 student outcomes is 0.30, 0.41, and 0.52, respectivelyWang et al. Implementation Science  (2017) 12:16 Page 11 of 13
+highlights the importance of the FOYC-booster program
+after the intervention implementation.
+While longitudinal trends of mean scores for know-
+ledge, skills, self-efficacy, and intention show consistent
+increases for all three implementation groups, trajectory
+patterns of HIV/AIDS knowledge show that the in-
+creases in knowledge from the grade 6 follow-up to the
+grade 7 follow-up were not significantly different in the
+high and moderate implementation groups. This lack of
+difference may be because the high and moderate imple-
+mentation groups gained large increase in knowledge
+during the grade 6 implementation phase, e.g., there was
+a“ceiling effect ”for knowledge for both groups between
+grade 6 and grade 7 follow-ups.
+Several potential limitations should be noted in this
+study. First, our findings were based on teachers ’and
+students ’self-reports, which are subj ect to social desirability
+and recall bias. It is possible that teachers over-reported
+their level of implementation of the intervention curricu-
+lum and booster sessions and provided responses that they
+thought would be more appropriate (as teachers were
+expected to teach the intervention curriculum as integrated
+components of Health and Fam ily Life Education class). In
+the current study, trained observers independently ob-
+served and assessed approximately 20% of each teacher ’s
+classes and booster sessions. We compared the teacher and
+observer reports on activities taught in these sessions and
+found that the teacher-obser ver agreement was high (over
+80%), indicating that teacher ’s self-reports are reliable [31].
+Second, typical of many studies of this kind, there was rela-
+tively high attrition rate (i.e., about 20%) to grade 7 follow-
+up. The major reasons for attrition in grade 7 included stu-
+dents ’non-identification of the ir grade 6 teachers in the
+grade 7 follow-up survey and loss of contact due to stu-
+dents ’graduation from primary sch o o la n dt r a n s f e r r i n gi n t o
+non-government middle schools (private or religious-based
+schools) [26]. Third, most (75 %) middle school teachers did
+not implement all the activities in the booster session,
+which might compromise long-term effect of the interven-
+tion. Incomplete implementation of the booster session
+may reflect several factors. For example, middle school
+teachers may be reluctant to r educe time from academic
+subjects that are assessed thr ough national exams; currently
+HIV prevention is not included in the middle school
+national exams. As well, the middle school training for
+FOYC is substantially shorter than is the training for elem-
+entary school teachers. In the absence of equally intensive
+training, the teachers may not perceive HIV prevention
+among middle adolescents as being a priority area relative
+to its importance among elementary school students.
+Teacher ’s training workshops for the middle schools may
+need to place additional emphasis on the importance of
+HIV risk reduction among mid dle adolescents. Fourth,
+although the literature emphasizes the importance ofteachers ’self-efficacy and confidence regarding their ability
+to implement the program on their actual performance, we
+did not collect these measures from the teachers. However,
+we did measure teachers ’comfort level with the FOYC cur-
+riculum, which we believe is a close proxy for teacher self-
+efficacy and confidence. Finally, school-level factors such as
+support by the principal or school administrators ’percep-
+tion of importance of HIV prevention were only collected
+from about half of the participating schools. Thus, these
+data were not included in the present analysis.
+Conclusions
+This study provides an integrated understanding of the
+relationships between teacher characteristics, training
+experience and perceptions with quality of implementa-
+tion, teachers ’subsequent delivery of boost sessions, and
+long-term student outcomes. This study expands our
+understanding of the complex ways in which teachers ’
+attitudes and confidence are influenced by their training
+and teaching experience, and influence quality of imple-
+mentation and program outcome. These findings have
+significant implications for future implementation efforts
+in school settings. First, given that teachers ’attitudes to-
+wards the prevention program and their levels of com-
+fort with the curriculum are the most influential factors
+on quality of implementation, it is important that
+teacher pre-implementation training workshop focus on
+strengthening teachers ’self-efficacy to implement the
+intervention curriculum with high quality, and enhan-
+cing positive beliefs about and promoting positive atti-
+tudes towards the prevention program. Second, the brief
+booster sessions delivered one and two years after the
+initial implementation demonstrated significant effects
+on student outcomes, suggesting that booster sessions
+are important to maintain the long-term program out-
+come. The quality of booster implementation can signifi-
+cantly impact student outcomes, indicating the critical
+importance of ongoing teaching training and technical
+assistance with the booster program after initial
+implementation.
+Additional files
+Additional file 1: Mixed-effects models assessing the effects of grade 6
+teacher ’s implementation of FOYC intervention on long-term student outcomes
+in grade 8. (DOC 52 kb)
+Additional file 2: Mixed-effects models assessing the effects of grade 7
+teacher ’s delivery of booster session on student outcomes in grade 8.
+(DOC 51 kb)
+Additional file 3: Mixed-effects models assessing the effects of grade 8
+teacher ’s delivery of booster session on student outcomes in grade 8.
+(DOC 52 kb)
+Acknowledgements
+We thank program staff at the Bahamas Ministries of Health and Education
+for their participation in field data collection.Wang et al. Implementation Science  (2017) 12:16 Page 12 of 13
+Funding
+The research project was funded by the National Institute of Child Health
+and Human Development (R01HD064350).
+Availability of data and materials
+Data and materials are available for reviewers upon request.
+Authors ’contributions
+BW, BS, and LD conceived the research questions. BW and BS analyzed the
+data and drafted the manuscript. LD, SL, GR, SM, and PG helped in
+interpreting the data. RA, MP, and VK were fully involved in data acquisition,
+data entry, and maintaining the database. BS obtained the funding of study.
+All authors were involved in the revision of the paper for intellectual
+content. All authors read and approved the final manuscript.
+Competing interests
+The authors declare that they have no competing interests.
+Consent for publication
+Not applicable
+Ethics approval and consent to participate
+This study was approved by the Wayne State University Human Investigation
+Committee and the Institutional Review Board of the Bahamian Princess
+Margaret Hospital, Public Hospitals Authority. Participants provided formal
+written consent to participate in this study.
+Author details
+1Division of Behavioral Sciences, Department of Family Medicine and Public
+Health Sciences, Wayne State University School of Medicine, 6135 Woodward
+Ave, Detroit, MI 48202, USA.2Seton Hall-Hackensack Meridian School of
+Medicine, Hackensack Meridian Health, 400 South Orange Avenue, South
+Orange, NJ 07079, USA.3Office of HIV/AIDS, Ministry of Health, Shirley Street,
+Nassau, Bahamas.4Ministry of Education, Thompson Boulevard, PO Box
+N-3913, Nassau, Bahamas.5Department of Pediatrics, Division of Adolescent
+Medicine, Wayne State University School of Medicine, Children ’s Hospital of
+Michigan, 3901 Beaubien Street, Detroit MI48201, USA.
+Received: 9 March 2016 Accepted: 16 December 2016
+References
+1. Stirman SW, Kimberly J, Cook N, Calloway A, Castro F, Charns M. The
+sustainability of new programs and innovations: a review of the empirical
+literature and recommendations for future research. Implement Sci.
+2012;7:17. doi:10.1186/1748-5908-7-17.
+2. Feldman MB, Silapaswan A, Schaefer N, Schermele D. Is there life after DEBI?
+Examining health behavior maintenance in the diffusion of effective behavioral
+interventions initiative. Am J Community Psychol. 2014;53(3-4):286 –313.
+3. Galbraith JS, Stanton B, Boekeloo B, King W, Desmond S, Howard D, et al.
+Exploring implementation and fidelity of evidence-based behavioral
+interventions for HIV prevention: lessons learned from the Focus on Kids
+diffusion case study. Health Educ Behav. 2009;36(3):532 –49.
+4. Lundgren L, Amodeo M, Cohen A, Chassler D, Horowitz A. Modifications of
+evidence-based practices in community-based addiction treatment
+organizations: a qualitative research study. Addict Behav. 2011;36(6):630 –5.
+5. Collins Jr CB, Sapiano TN. Lessons learned from dissemination of evidence-based
+interventions for HIV prevention. Am J Prev Med. 2016;51(4 Suppl 2):S140 –7.
+6. Domitrovich CE, Bradshaw CP, Poduska JM, Hoagwood K, Buckley JA, Olin S,
+et al. Maximizing the implementation quality of evidence-based preventive
+interventions in schools: a conceptual framework. Adv Sch Ment Health
+Promot. 2008;1(3):6 –28.
+7. Dusenbury L, Brannigan R, Falco M, Hansen WB. A review of research on
+fidelity of implementation: implications for drug abuse prevention in school
+settings. Health Educ Res. 2003;18(2):237 –56.
+8. Renju JR, Andrew B, Medard L, Kishamawe C, Kimaryo M, Changalucha J, et
+al. Scaling up adolescent sexual and reproductive health interventions
+through existing government systems? A detailed process evaluation of a
+school-based intervention in Mwanza region in the northwest of Tanzania.
+J Adolesc Health. 2011;48(1):79 –86.9. Sawyer MG, Harchak TF, Spence SH, Bond L, Graetz B, Kay D, et al. School-
+based prevention of depression: a 2-year follow-up of a randomized
+controlled trial of the beyond blue schools research initiative. J Adolesc
+Health. 2010;47(3):297 –304.
+10. Sarma H, Oliveras E. Implementing HIV/AIDS education: impact of teachers' training
+on HIV/AIDS education in Bangladesh. J Health Popul Nutr. 2013;31(1):20 –7.
+11. Ozer EJ, Wanis MG, Bazell N. Diffusion of school-based prevention programs
+in two urban districts: adaptations, rationales, and suggestions for change.
+Prev Sci. 2010;11(1):42 –55.
+12. Rijsdijk LE, Bos AE, Lie R, Leerlooijer JN, Eiling E, Atema V, et al. Implementation
+of The World Starts With Me, a comprehensive rights-based sex education
+programme in Uganda. Health Educ Res. 2014;29(2):340 –53.
+13. Ennett ST, Haws S, Ringwalt CL, Vincus AA, Hanley S, Bowling JM, et al. Evidence-
+based practice in school substance use prevention: fidelity of implementation
+under real-world conditions. Health Educ Res. 2011;26(2):361 –71.
+14. Draper CE, Nemutandani SM, Grimsrud AT, Rudolph M, Kolbe-Alexander TL,
+de Kock L, et al. Qualitative evaluation of a physical activity-based chronic
+disease prevention program in a low-income, rural South African setting.
+Rural Remote Health. 2010;10(3):1467.
+15. Zimmerman RS, DiClemente RJ, Andrus JK, Hosein EN, editors. Introduction
+to global health promotion. San Francisco: Jossey-Bass; 2016.
+16. Mihalic SF, Fagan AA, Argamaso S. Implementing the LifeSkills Training drug
+prevention program: factors related to implementation fidelity. Implement
+Sci. 2008;3:5. doi:10.1186/1748-5908-3-5.
+17. Nilsen P. Making sense of implementation theories, models and frameworks.
+Implement Sci. 2015;10:53. doi:10.1186/s13012-015-0242-0.
+18. Chaudoir SR, Dugan AG, Barr CH. Measuring factors affecting implementation
+of health innovations: a systematic review of structural, organizational,
+provider, patient, and innovation level measures. Implement Sci. 2013;8:22.
+doi:10.1186/1748-5908-8-22.
+19. Flaspohler P, Lesesne CA, Puddy RW, Smith E, Wandersman A. Advances in
+bridging research and practice: introduction to the second special issue on
+the interactive system framework for dissemination and implementation.
+Am J Community Psychol. 2012;50(3-4):271 –81.
+20. Aarons GA, Hurlburt M, Horwitz SM. Advancing a conceptual model of
+evidence-based practice implementation in public service sectors. Adm
+Policy Ment Health. 2011;38(1):4 –23.
+21. Han SS, Weiss B. Sustainability of teacher implementation of school-based
+mental health programs. J Abnorm Child Psychol. 2005;33(6):665 –79.
+22. Deveaux L, Stanton B, Lunn S, Cottrell L, Yu S, Brathwaite N, et al. Reduction
+in human immunodeficiency virus risk among youth in developing
+countries. Arch Pediatr Adolesc Med. 2007;161(12):1130 –9.
+23. Wang B, Stanton B, Deveaux L, Poitier M, Lunn S, Koci V, et al. Factors
+influencing implementation dose and fidelity thereof and related student
+outcomes of an evidence-based national HIV prevention program.
+Implement Sci. 2015;10:44. doi:10.1186/s13012-015-0236-y.
+24. Gong J, Stanton B, Lunn S, Deveaux L, Li X, Marshall S, et al. Effects through
+24 months of an HIV/AIDS prevention intervention program based on
+protection motivation theory among preadolescents in the Bahamas.
+Pediatrics. 2009;123(5):e917 –28.
+25. Chen X, Stanton B, Gomez P, Lunn S, Deveaux L, Brathwaite N, et al. Effects
+oncondom use of an HIV prevention programme 36 months
+postintervention: a cluster randomized controlled trial among Bahamian
+youth. Int J STD AIDS. 2010;21(9):622 –30.
+26. Stanton B, Wang B, Deveaux L, Lunn S, Rolle G, Mortimer A, et al. Teachers'
+patterns of implementation of an evidence-based intervention and their
+impact on student outcomes: results from a nationwide dissemination over
+24-months follow-up. AIDS Behav. 2015;19(10):1828 –40.
+27. Blase KA, Fixsen DL. Core intervention components: identifying and
+operationalizing “what makes programs work ”. Washington: U.S.
+Department of Health and Human Services; 2013.
+28. Stanton B, Deveaux L, Lunn S, Yu S, Brathwaite N, Li X, et al. Condom-use skills
+checklist: a proxy for assessing condom-use knowledge and skills when direct
+observation is not possible. J Health Popul Nutr. 2009;27(3):406 –13.
+29. Muthén LK, Muthén BO. Mplus user ’s guide. 7th ed. Los Angeles: Muthén &
+Muthén; 2012.
+30. Hooper D, Coughlan J, Mullen M. Structural equation modelling: guidelines
+for determining model fit. Electron J Bus Res Methods. 2008;6(1):53 –60.
+31. Wang B, Deveaux L, Knowles V, Koci V, Rolle G, Lunn S, et al. Fidelity of
+implementation of an evidence-based HIV prevention program among
+Bahamian sixth grade students. Prev Sci. 2015;16(1):110 –21.Wang et al. Implementation Science  (2017) 12:16 Page 13 of 13

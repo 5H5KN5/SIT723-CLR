@@ -1,0 +1,845 @@
+STUDY PROTOCOL Open Access
+Internet-based cognitive behavior therapy
+for problem gambling in routine care:
+protocol for a non-randomized pilot and
+feasibility trial
+Olof Molander1,2*, Philip Lindner1,2,3, Jonas Ramnerö1,3, Johan Bjureberg1, Per Carlbring3and
+Anne H. Berman1,2,4,5
+Abstract
+Background: Problem gambling and gambling disorder are major public health concerns worldwide, and
+awareness of associated negative consequences is rising. In parallel, treatment demand has increased, and Internet
+interventions offer a promising alternative for providing evidence-based treatment at scale to a low cost.
+Method: We developed a novel Internet-delivered cognitive behavioral treatment for gambling, based on
+qualitative interviews with treatment-seeking gamblers, behavioral research on gambling behavior, and the
+pathway model for problem gambling. This research protocol describes a non-randomized pilot and feasibility trial
+conducted in routine addiction care with adult treatment-seeking patients (max N= 25) with problem gambling.
+The primary aim is to ensure acceptability and safety, measured by satisfaction, credibility, working alliance, and
+possible negative effects. Secondary aims are feasibility of study procedures in terms of recruitment and
+measurement procedures as well as potential effectiveness measured weekly by gambling symptoms as primary
+outcome and gambling behavior, quality of life, symptoms of depression and anxiety, alcohol, and drug use as
+secondary outcomes. Potential mediators measured weekly are loss of control, verbal rules, and well-being.
+Discussion: This study is innovative in several respects, regarding both treatment development and
+implementation. The results of the study will guide a future randomized controlled trial, as well as the development
+of the intervention and intervention implementation within ordinary addiction care.
+Trial registration: Clinical trials.gov, NCT ID: NCT03946098 . Registered 10 May 2019
+Keywords: iCBT, Gambling, Problem gambling, Gambling disorder, Psychiatric comorbidity, Ordinary addiction care
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ .
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.* Correspondence: olof.molander@ki.se
+1Center for Psychiatry Research, Department of Clinical Neuroscience,
+Karolinska Institutet and Stockholm Health Care Services, Region Stockholm,
+Stockholm, Sweden
+2Stockholm Centre for Dependency Disorders, Stockholm Health Care
+Services, Region Stockholm, Stockholm, Sweden
+Full list of author information is available at the end of the article
+Molander et al. Pilot and Feasibility Studies           (2020) 6:106 
+https://doi.org/10.1186/s40814-020-00647-5
+Background
+Gambling, an activity where something of value is risked
+and the probability of winning or losing is less than cer-
+tain [ 1], can lead to significant and social harm, here
+termed problem gambling. Problem gambling is defined
+as“excessive gambling behaviour that creates negative
+consequences for the gambler, others in his/her social
+network, and for the community ”[2].
+Problem gambling can also be expressed in terms of a
+clinical diagnosis. In the Diagnostic and Statistical Man-
+ual of Mental Disorders, 5th edition (DSM-5) [ 3], the
+clinical diagnostic criteria for pathological gambling
+were revised and labeled gambling disorder, adding gam-
+bling to addiction disorders instead of the previous diag-
+nostic categorization as an impulse control disorder.
+Gambling disorder was thereby the first addictive behav-
+ior not involving a psychoactive substance to be recog-
+nized as an addiction diagnosis. Henceforth, the term
+problem gambling will be used here, sometimes referring
+to problem gamblers who also fulfil the diagnostic cri-
+teria for gambling disorder. The transferral of the gam-
+bling disorder diagnosis to addictions was associated
+with a political process in Sweden, whereby problem
+gambling received more highly profiled attention from
+government authorities such as the Public Health
+Agency and the National Board of Health and Welfare,
+yielding prevention research summaries and treatment
+recommendations presented at local and national con-
+ferences [ 4]. In parallel, two significant pieces of legisla-
+tion were enacted in Sweden following a long period of
+preparation; one concerned obligatory provision of treat-
+ment on par with other addictive disorders, and the sec-
+ond re-regulated the gambling market, including
+prescription of duty of care actions on the part of the
+gambling industry.
+Problem gambling is associated with severe negative
+consequences for financial and mental health, including
+high rates of suicidal ideation and attempts [ 5,6]. The
+past year prevalence of problem gambling in the general
+population varies globally between 0.3% and 5.3% [ 7]. In
+Sweden, the estimated population prevalence of current
+problem gambling is 2.1% (95% confidence interval [CI]
+1.8, 2.4) [ 8]. A meta-analysis focusing on the prevalence
+of problem gambling in clinical samples of treatment-
+seeking substance users found that approximately 23%
+suffered from conditions along the spectrum of problem
+gambling [ 9]. Preliminary studies have suggested that
+the prevalence of problem gambling among patients and
+clients within the Swedish primary health care system
+and social services is 6% and 19%, respectively [ 10,11].
+Meta-analyses have concluded that psychological treat-
+ments, mainly cognitive behavioral therapy (CBT), are
+effective for reducing gambling behavior and related
+problems [ 12,13]. For example, Pallesen et al. concludedin one meta-analysis [ 13] that a range of different self-
+report measures had been used as outcomes in the in-
+cluded studies, but that the overall between-group effect
+size, represented as the difference between the mean
+score in a treatment condition and a no-treatment con-
+trol condition, was 1.59 ( p< .01) at treatment follow
+(averaging 17 months). Furthermore, CBT has also
+shown promising results in Internet-delivered formats
+(iCBT [ 14,15];), although a recent scoping review con-
+cluded that the current literature is sparse and more re-
+search is needed [ 16].
+Despite relatively high prevalence and associated nega-
+tive consequences, problem gambling often goes un-
+treated within routine health care. Only 10% of those
+afflicted seek face-to-face help for gambling problems
+[17]. A review of barriers for seeking help for gambling
+problems found that common reported reasons for not
+seeking treatment included a wish to handle problem by
+oneself, shame/embarrassment/stigma, unwillingness to
+admit the problem, concerns about treatment content
+and quality, lack of knowledge about treatment availabil-
+ity, or practical issues around attending treatment [ 18].
+From a treatment-oriented perspective, the research field
+of problem gambling has been described as 20 –30 years
+behind that of other substance use disorders [ 19,20].
+Another treatment-related challenge for problem gam-
+bling is psychiatric comorbidity. Håkansson et al. [ 21]
+found that 58% of Swedish treatment-seeking gamblers
+also suffered from comorbid conditions. Most common
+were anxiety, stress-related and somatoform disorders
+(29%), mood disorders (22%), and alcohol and drug use
+disorders (12%); this result is congruent with inter-
+national research on comorbidity among treatment-
+seeking gamblers [ 22,23]. In an effort to explain the
+high prevalence of comorbidity among gamblers, Blas-
+zczynski and Nower [ 2] proposed a theoretical etio-
+logical pathway model with three different types of
+problem gamblers: behaviorally conditioned gamblers
+who gamble due to excitement/arousal, irrational beliefs,
+habituation, and chasing of losses; emotional vulnerable
+gamblers who gamble due to mood disturbances, life
+stresses, poor coping/problem-solving, and substance
+use; and antisocial/impulsive gamblers who gamble due
+to neuropsychological impulsive traits, substance use
+disorders, and antisocial behavior.
+Although iCBT has been recommended as a suitable
+option, particularly for reducing barriers to accessing
+professional help [ 16], few attempts have been made to
+implement iCBT for problem gambling within existing
+addiction treatment services. We have developed a novel
+Internet-delivered cognitive behavioral treatment for
+gambling based on qualitative interviews with treatment-
+seeking gamblers (unpublished data), basic research on
+the learning and maintenance processes of gamblingMolander et al. Pilot and Feasibility Studies           (2020) 6:106 Page 2 of 11
+behavior [ 24], as well as the pathway model [ 2]. This
+protocol describes the first iCBT pilot and feasibility trial
+within a research program aiming to evaluate and imple-
+ment treatment models for problem gambling within
+routine care.
+Objectives
+The primary aim of this non-randomized pilot and feasi-
+bility trial is to ensure that a novel iCBT treatment is ac-
+ceptable and safe for patients in routine care.
+Specifically, we aim to evaluate acceptability and safety
+in terms of the following:
+/C15Treatment satisfaction
+/C15Possible negative effects due to psychological
+treatment
+/C15Treatment credibility
+/C15Working alliance
+Secondly, we aim to evaluate feasibility of the follow-
+ing study procedures for a future randomized controlled
+trial:
+/C15Recruitment procedures and recruitment rates
+/C15Measurement procedures within the newly
+developed Stöd och Behandling (support and
+treatment) (SaT) platform
+Thirdly, we aim to evaluate potential effectiveness and
+possible mediators of treatment:
+/C15Gambling symptoms as the primary outcome
+/C15Gambling behavior, quality of life, symptoms of
+depression and anxiety, alcohol, and drug use as
+secondary outcomes
+/C15Use of stimulus control strategies, loss of control in
+gambling situations, problematic gambling-related
+thinking, and well-being, all as possible mediators of
+treatment effects
+Methods
+Study design
+The study is a non-randomized pilot and feasibility trial
+of iCBT with treatment-seeking participants (max N=
+25) conducted in routine care. Participants will be
+assessed for diagnostic criteria of gambling disorder and
+psychiatric comorbidity prior to treatment and complete
+self-reported outcome measures pre-treatment (clinical
+assessment), weekly during treatment, post-treatment,
+and at a 3-month follow-up. Participants will be allowed
+16 weeks to complete the treatment program.
+The study was pre-registered at clinicaltrials.gov (NCT
+ID: NCT03946098). The TREND statement guidelinesfor non-randomized interventions [ 25] will be followed
+when reporting the trial.
+Recruitment procedure
+Participants, all treatment-seeking patients, will be re-
+cruited via two paths: one indirect and the other direct.
+The indirect path involves recruiting patients from one
+of eight outpatient clinics belonging to the publicly oper-
+ated Stockholm Center for Dependency Disorders. These
+clinics offer face-to-face treatment to patients with sub-
+stance use disorders such as alcohol and drugs as well as
+problem gambling. Support is also offered to the pa-
+tients ’concerned significant others. Patients seeking
+treatment for problem gambling undergo a routine as-
+sessment visit with a physician, nurse, or psychologist,
+on which occasion they will be informed that available
+treatments include face-to-face treatment or iCBT. Writ-
+ten information will be supplied in the form of a pamph-
+let, and the clinician will be able to answer any
+questions that arise. The recruiting clinician will make a
+preliminary assessment of eligibility, administrating the
+Problem Gambling Severity Index [ 26] included in the
+pamphlet; the purpose of this screening is to ensure that
+gambling symptoms have been present the last year, and
+these results will not be reported in the study. Patients
+deemed eligible and indicating interest in iCBT will be
+referred via formal clinical referral to the Addiction eCli-
+nic, which will make the final decision as to whether
+iCBT is suitable. The direct recruitment path involves
+recruiting participants among treatment-seeking patients
+accessing online self-referral to iCBT at the Addiction
+eClinic. A physician will screen all self-referrals and
+schedule suitable patients for a video conference session,
+for clinical assessment, after which the eClinic will make
+a final decision as to whether iCBT is suitable. See Fig. 1
+for recruitment paths and participant flow.
+Eligibility criteria
+This is a pilot and feasibility trial conducted in routine
+care. Although we expect that most participants will fulfill
+the diagnostic criteria for gambling disorder, as well as cri-
+teria for other common psychiatric comorbidities, clinical
+eligibility criteria will apply, where all treatment-seeking
+gamblers presenting problem gambling symptoms during
+the past year, and deemed eligible, will be offered iCBT.
+The inclusion criteria are (a) having a total score of > = 1
+on the Problem Gambling Severity Index [ 26], (b) being at
+least 18 years old, (c) living in Sweden, (d) having the abil-
+ity to work with online treatment material by themselves,
+and (e) being able to read and write Swedish.
+Participants will be excl uded from the study if they
+(a) fulfill criteria for ongoing manic episode or (b)
+are undergoing a parallel CBT treatment for problem
+gambling.Molander et al. Pilot and Feasibility Studies           (2020) 6:106 Page 3 of 11
+Platform
+Treatment will be delivered using the recently intro-
+duced and nationally available Stöd och Behandling (sup-
+port and treatment, SaT) platform for Internet-delivered
+treatments within routine care, both psychiatric and
+somatic. Usage is not anonymous and requires login
+using a secure, bank-issued national e-identification so-
+lution. The same platform, with different interfaces, is
+used by patients and health care professionals. Regu-
+lar licensed clinical psychologists at the eClinic will
+serve as therapists, involving monitoring, encouraging
+and praising compliance and progress, unlocking
+modules, and answering questions. This is typically
+done through asynchronous messages within the SaT
+platform, complemented as needed by telephone calls.
+Established clinical procedure will be followed, includ-
+ing telephone calls at specific timepoints in case of
+poor compliance (no logins or progress) or indica-
+tions of suicidality.Measures
+Self-rated measures will be collected using the SaT plat-
+form from inclusion to treatment termination and using
+a separate online research platform for the follow-up
+(due to clinical policy not permitting access to the SaT
+platform after concluded treatment). All self-report mea-
+sures apart from initial screening will be completed by
+the participants online on their own. See Table 1for full
+list of measures and the measurement points.
+Diagnostic assessment
+Prior to treatment, participants will be screened with the
+Problem Gambling Severity Index (PGSI [ 26];) and of-
+fered to complete other measures targeting gambling be-
+havior, as part of a separate, parallel Swedish
+psychometric study [ 27]. Criteria for Gambling Disorder
+and comorbidity will be assessed with clinical interviews:
+the Structured Clinical Interview for Gambling Disorder
+[28] and the Mini International NeuropsychiatricFig. 1 Recruitment paths and participant flowMolander et al. Pilot and Feasibility Studies           (2020) 6:106 Page 4 of 11
+Interview, version 7 [ 29], respectively. Gambling type ac-
+cording to the pathway model [ 2] will be measured with
+the Gambling Pathways Questionnaire [ 30].
+Acceptability and safety measures
+Satisfaction with treatment and potential negative effects
+due to treatment will be measured with the Client Satis-
+faction Questionnaire —8-item version [ 31] and the
+Negative Effects Questionnaire —20-item version [ 32],
+respectively, both administered at post-treatment. Per-
+ceived credibility and expectancy will be measured with
+the Credibility/Expectancy questionnaire [ 33], adminis-
+tered at the end of the second introductory treatment
+module. Working alliance will be measured with the
+Working Alliance Inventory-Revised Short Version [ 34],
+at the end of the third treatment module.
+Feasibility of study procedures
+The recruitment rate will be defined as the number of
+participants recruited per month. This will serve as a
+basis for evaluating —and possibly adapting —the recruit-
+ment procedures described above, to ensure power in a
+planned future randomized controlled trial. Measure-
+ment procedures within the SaT platform will also bepiloted during the trial, for example to ensure reliable
+measurement points and data extraction.
+Primary outcome measure of potential effectiveness
+The primary outcome, gambling symptoms, will be mea-
+sured with the Gambling Symptom Assessment Scale
+which is a valid and reliable measure for assessing clin-
+ical change during treatment studies. The Gambling
+Symptom Assessment Scale have been evaluated in a
+population of treatment-seeking gamblers, compared to
+other gambling measures and clinical ratings adminis-
+tered weekly during a 12-week study period, showing ex-
+cellent convergent validity, excellent internal consistency
+(α= 0.87), and test-retest reliability 0.56 [ 35]. In this
+study, the Gambling Symptom Assessment Scale will be
+administered at pre-treatment, weekly during treatment,
+post-treatment, and at the 3-month follow-up.
+Secondary outcome measures
+Secondary outcomes will encompass gambling behavior,
+mental health, substance use, and quality of life. Gam-
+bling behavior (gambling type, frequency, time spent,
+money wagered, sums won-lost) will be measured by the
+Gambling TimeLine Follow Back, a reliable and validTable 1 Measures and measurement points
+Measure Assessment Treatment
+Screening Diagnostic Pre Weekly Additional Post Month 3
+The Problem Gambling Severity Index (PGSI) X
+The Structured Clinical Interview for Gambling Disorder (SCI-GD) Xa
+The Mini International Neuropsychiatric Interview version 7 (MINI-7) X
+Consent Xa
+Demography Xa
+The Patient Health Questionnaire (PHQ-9) XaXX
+The Generalized Anxiety Disorder 7-item scale (GAD-7) XaXX
+The Alcohol Use Identification Test (AUDIT) XaXX
+The Drug Use Identification Test (DUDIT) XaXX
+The Gamblers Pathways Questionnaire (GPQ) Xa
+The World Health Organization Quality of Life 26 item version (WHOQOL-BREF) XaXX
+The Gambling Symptom Assessment Scale (G-SAS) XbXbXX
+The Gambling TimeLine Follow Back (TLFB-G) XbXX
+Process measurescX
+The Credibility/Expectancy questionnaire (CEQ) Xd
+The Working Alliance Inventory-Revised Short Version (WAI-SR) Xe
+The Client Satisfaction Questionnaire (CSQ) XX
+The Negative Effects Questionnaire 20 items version (NEQ-20) X
+aMeasure is also part of a parallel psychometric study [ 27]
+bScored in reference to the week prior to seeking treatment
+cProcess measures (possible mediators) adapted from item 15 in the Scale of Gambling Choices, item 6, 7, 8, and 13 in the Gambler ’s Beliefs Questionnaire as
+well as well-being
+dAdministered at treatment module 2
+eAdministered at treatment module 3Molander et al. Pilot and Feasibility Studies           (2020) 6:106 Page 5 of 11
+method for assessing gambling behavior among gam-
+blers and problem gamblers [ 36,37]. Mental health (de-
+pression and anxiety) will be measured by the 9-item
+Patient Health Questionnaire [ 38] and the 7-item Gener-
+alized Anxiety Disorder scale [ 39]. Alcohol use will be
+measured by the Alcohol Use Disorders Identification
+Test [ 40], and drug use will be measured by the Drug
+Use Disorders Identification Test [ 41]. Quality of life will
+be measured by the 26-item World Health Organization
+Quality of Life-BREF questionnaire [ 42].
+Process measures (possible mediators)
+This study will explore four possible mediators of treat-
+ment effects to be explored further in a planned future
+randomized controlled trial. Stimulus control strategies
+to limit access to gambling opportunities (for example,
+self-exclusion) will be measured by an item constructed
+for the purpose of this study. Loss of control in gambling
+situations will be measured by a revised version of item
+15 from the Scale of Gambling Choices [ 43], and prob-
+lematic gambling-related thinking (for example, “If I lose
+money gambling, I should try to win it back ”) will be
+measured by revised versions of items 6, 7, 8, and 13
+from the Gambler ’s Beliefs Questionnaire [ 44].In order
+to facilitate ease of response and consistency, all items
+will be rated using a 0 –100 visual analog scale, regard-
+less of original response format. Participants will also
+rate general well-being using the same scale.
+Treatment
+Treatment will consist of a 1 + 10 module iCBT pro-
+gram targeting problem gambling, newly developed by
+the authors (see TIDIER supplementary material ). The
+pre-program module will contain an introduction to on-
+line treatment as well as collection of pre-treatment
+measures within the SaT platform. After that, partici-
+pants will complete the 10 treatment modules at a pace
+of once a week, completing homework assignments fa-
+cilitating behavior change during each week. The au-
+thors ’experience of iCBT delivery for addictive
+disorders in a clinical setting is that participants work at
+a slower pace than one module per week and are likely
+to need longer to complete the treatment. Hence, partic-
+ipants will be allowed 16 weeks to complete the program
+(with exceptions possible if deemed clinically appropri-
+ate), and measures will be collected alongside each mod-
+ule, which is unlocked at a maximum pace of once per
+week. During treatment, participants will have online
+contact via asynchronous secure messages with an
+assigned clinical psychologist at the Addiction eClinic.
+A bottom-up procedure was used to develop the treat-
+ment protocol, inspired by Clark ’s method for developing
+novel CBT treatments [ 45]. A comprehensive description
+of the development process is outside the scope of thisarticle and will be described elsewhere. Briefly, we devel-
+oped a clinical model delineating factors that contribute
+to the persistence of problem gambling behavior. We then
+aligned these with treatment interventions targeting each
+specific factor, based on qualitative interviews with
+treatment-seeking gamblers with or without psychiatric
+comorbidity (unpublished data), basic experimental re-
+search on the learning, and maintenance processes of
+gambling behavior [ 24], as well as the pathway model [ 2].
+See Table 2for a description of treatment content per
+module and corresponding exercises, and Fig. 2for exam-
+ples of iCBT treatment content.
+Participant safety
+This study will be conducted within routine care, mean-
+ing that all patient safety procedures apply. Before the
+Table 2 Overview of treatment components
+Module Brief description Content and exercises
+0 Introduction to online
+treatment and collection
+of pre-measures
+1 Why problem gambling persists
+Presentation of clinical modelDiscrimination traininga
+A first step towards
+behavior change
+2 Loss of control in gambling
+situations
+Strategies and loss of controlIdentify strategies
+Discrimination traininga
+A first step towards
+behavior change
+3 Behavioral exercises Difficulty rating of
+gambling situations
+Discrimination traininga
+Behavioral exercises
+targeting loss of control
+4 How thoughts are affected
+by gambling:
+‘Chasing ’and ‘autopilot ’gamblingDiscrimination traininga
+Behavioral exercises
+targeting loss of control
+5 Why gambling situations continue
+to be challenging: expectancy
+before gamblingDiscrimination traininga
+Behavioral exercises
+targeting loss of control
+6 What happens while gambling:
+common reactions, “the zone ”Discrimination traininga
+Behavioral exercises
+targeting loss of control
+7 What happens while gambling:
+other reactions facilitating
+continuous gambling behaviorDiscrimination traininga
+Behavioral exercises
+targeting loss of control
+8 Further behavioral exercises Discrimination traininga
+Behavioral exercises
+targeting loss of control
+9 Further behavioral exercises Discrimination traininga
+Behavioral exercises
+targeting loss of control
+10 Treatment summary
+Maintenance plan
+Collection of post-measuresIndividual evaluation
+and treatment summary
+Continuous behavioral
+exercises
+aDiscrimination training refers in this context to procedures aimed at present
+moment discriminating of antecedents and consequences of gambling
+related behaviorMolander et al. Pilot and Feasibility Studies           (2020) 6:106 Page 6 of 11
+study, all patients and potential participants are assessed
+for suitability for online treatment (including assessment
+of suicide risk), patient activity (including measures) is
+monitored weekly, and there is a procedure for handling
+absence of activity, including secure messages, telephone
+calls, and/or letters, at different timepoints. Patients will
+have the option of continuing contact with their recruit-
+ing clinic for any additional treatment needs.
+Ethical considerations
+All participants will provide digital informed consent in
+the first pre-program module of the online program.
+Since the study is carried out within a clinical context
+with treatment-seeking patients, those patients who do
+not wish to provide consent for research participation
+will nonetheless receive exactly the same treatment, but
+not included in study-related data collection and ana-
+lysis. This study is approved by the Regional Ethics
+Board of Stockholm, Sweden (ref. no. 2017/1479-31),
+pending a minor amendment.Planned statistical analyses
+Acceptability measures
+Descriptive statistics on treatment credibility, treatment
+satisfaction, and working alliance will be presented in
+means and standard deviations. Occurrence of possible
+negative effects due to psychological treatment will be
+presented descriptively and in frequencies, means, and
+standard deviations.
+Potential effectiveness
+Scores from the Gambling Symptom Assessment Scale
+and TLFB-derived measures, collected weekly, will be
+modeled using appropriate mixed effects models [ 46] de-
+pending on distribution (e.g., Gaussian, lognormal, Pois-
+son, zero-inflated versions), with maximum likelihood
+estimation of missing data and appropriate numeric
+time-variable(s) [ 47]. Outcome measures collected less
+frequently will be modeled using Generalized Estimating
+Equations. The results will be used to calculate power
+and sample size in a planned future randomized
+Fig. 2 Example of treatment content. Cases illustrating treatment proceduresMolander et al. Pilot and Feasibility Studies           (2020) 6:106 Page 7 of 11
+controlled trial. In the current study, we aim to recruit n
+= 25 participants to assess feasibility; assuming that sam-
+ple baseline means and standard deviations on the Gam-
+bling Symptom Assessment Scale are similar to an
+ongoing treatment study at the same treatment center
+(M= 24.9, SD = 11), the pilot study should be able to
+detect a within-group effect size of at least d> 0.6 under
+realistic circumstances. See Fig. 3for a power spectrum
+plot, showing what corresponding effect size (as a func-
+tion of a range of post-treatment means and standard
+deviations) can be detected with 80% power, with differ-
+ent assumed within-subject correlations.
+We will explore possible mediators of treatment effects
+by examining correlations between change in symptoms
+and change in the process measures, and we will also ex-
+plore time-lagged effects. Descriptive statistics on ac-
+ceptability measures and platform activity (completed
+modules, number of logins, etc.) will also be presented.
+Discussion
+This non-randomized trial aims to evaluate the accept-
+ability, feasibility, potential effectiveness, and possible
+negative effects of a novel iCBT protocol in a sample of
+treatment-seeking participants with problem gambling
+within routine care. The study is innovative in several
+respects.
+Firstly, the study will be conducted in routine care for
+problem gambling with a sample of treatment-seeking
+patients, most of whom are expected to meet criteria for
+gambling disorder. The external validity of the study will
+thus be very high. All treatment-seeking patients,including those with comorbidities, will be offered iCBT.
+This is uncommon, as patients with comorbidities are
+often excluded from treatment studies as well as from
+gambling treatment within routine care. A further ad-
+vantage with iCBT is that it can reduce the waiting time
+to initiate treatment. The waiting time for group treat-
+ment for problem gambling at the Stockholm Center for
+Dependency Disorders can vary greatly between clinics
+and seasons: patients may have to wait between 1 and 12
+months, depending on demand; such a long wait is often
+too long when considering treatment-relevant factors
+such as motivational windows that often co-occur with
+treatment-seeking [ 48].
+Second, we have used a bottom-up approach in the
+treatment development process. This includes deriving
+the treatment content from in-depth clinical interviews
+with treatment-seeking gamblers, research on the learn-
+ing, and maintenance processes of gambling behavior, as
+well as the pathway model for PG [ 2]. Also, we designed
+the treatment protocol to build on a simple, delimited
+set of interventions of presumed greatest importance.
+This is contrary to typical addiction treatments that offer
+a smorgasbord of exercises and treatment rationales in
+an attempt to capture all relevant aspects that may apply
+differently to different patients. As a research field, the
+study of treatment for problem gambling is still in its in-
+fancy. Current CBT protocols for problem gambling are
+seldom based on a functional analysis on why problem
+gambling behavior persists over time despite negative
+consequences. This is so, despite the fact that problem
+gambling is a phenomenon that has generated basic
+Fig. 3 Power curves as a function of post-treatment means, SDs, and within-r, with line weights according to resulting effect sizeMolander et al. Pilot and Feasibility Studies           (2020) 6:106 Page 8 of 11
+research on the learning processes involved. In general,
+a broad mixture of general CBT components, which
+have been found effective for other conditions such as
+depression, anxiety, or alcohol problems, have often
+been arbitrarily combined into treatment protocols [ 49],
+while interventions targeting key gambling processes
+such as “chasing losses, ”or“loss of control ”[2,50] have
+been lacking. In contrast, utilizing a few, carefully se-
+lected treatment components, will hopefully enable a
+more clear definition of what to prioritize in treatment,
+opportunities for continuous applied behavior change, as
+well as better controlled studies in terms of mediating
+and moderating factors.
+Third, this study aims to evaluate novel treatment con-
+tent in an iCBT format without prior face-to-face evalu-
+ation. This is uncommon, but in view of the large body
+of evidence indicating that iCBT yields outcomes com-
+parable to face-to-face treatment [ 51], the increasing ac-
+ceptance of iCBT as a treatment form, and the
+availability of an eClinic within the Stockholm Center
+for Dependency Disorders as the trial setting, we have
+opted to eliminate the step of face-to-face evaluation, in-
+stead using telephone and video meetings, prior to the
+iCBT launch in this pilot and feasibility trial. Addition-
+ally, we see the use of the nationally available SaT digital
+platform, as enabling rapid development, deployment
+and dissemination, evaluation, and optimization of novel
+treatment interventions into routine care.
+The study will also be subject to some limitations. A
+non-randomized pilot and feasibility trial will not yield
+knowledge on whether observed effects are causal, nor
+enable evaluation of effects for specific subgroups of
+gamblers through randomization to typical or subgroup-
+tailored treatment. By design, this single-arm study will
+only provide an uncontrolled estimate of the treatment
+effect and not of the spontaneous remission or
+treatment-as-usual, to which the treatment effect will be
+compared in future randomized trials. However, non-
+randomized pilot trial designs are common as a first step
+in the development and evaluation of novel interven-
+tions. Apart from evaluating acceptability, feasibility,
+possible effectiveness, and potential negative effects, the
+pilot outcomes of this study will hopefully provide some
+clues as to whether further treatment adaptations for
+problem gambling and comorbidity specifically, might be
+necessary, a research question which can then be ex-
+plored in a future randomized controlled trial.
+Supplementary information
+Supplementary information accompanies this paper at https://doi.org/10.
+1186/s40814-020-00647-5 .
+Additional file 1. TIDIER.Abbreviations
+CBT: Cognitive behavioral therapy; DSM-5: Diagnostic and Statistical Manual
+of Mental Disorders, 5th edition; iCBT: Internet-delivered cognitive behavioral
+therapy; ISRII: International Society for Research on Internet Interventions;
+REGAPS: Responding to and Reducing Gambling Problems –Studies in Help-
+seeking, Measurement, Comorbidity and Policy Impacts; SaT: The Stöd och
+Behandling (support and treatment) platform
+Acknowledgements
+This work has not been published previously; however, parts of it were
+presented at a symposium on Internet Interventions for Problem Gambling
+at the 10th International Conference of the International Society for Research
+on Internet Interventions (ISRII): The Next Generation, Auckland, New
+Zealand, February 2019. We would like to acknowledge and thank the
+attending presenters and participants for fruitful comments and discussions.
+We would also like to thank Miriam Jakobson and Mikael Gajecki at the
+Addiction eClinic, as well as Amanda Bondestam at the National Swedish
+Helpline for gamblers for reviewing the treatment program.
+Trial status
+The trial is ongoing. Recruitment commenced in November 2019, and an
+option for online self-referral to the Addiction eClinic was introduced in
+January 2020. Recruitment is planned to continue until Autumn 2020.
+Authors ’contributions
+OM, PL, and AHB conceived the study. OM developed the treatment
+protocol specifics in collaboration with JR and JB. AHB, JR, JB, PC, and PL
+provided expert comments on the treatment protocol. OM wrote the initial
+draft of the manuscript, and all authors participated actively in shaping the
+final submitted version. The author(s) read and approved the final
+manuscript.
+Funding
+This current study, and the larger research project, has several funding
+sources. OM and AHB participated in this work within the frame of the
+Swedish program grant “Responding to and Reducing Gambling Problems –
+Studies in Help-seeking, Measurement, Comorbidity and Policy Impacts ”
+(REGAPS), financed by the Swedish Research Council for Health, Working Life
+and Welfare (Forte), grant number 2016-07091. OM is funded for salary by
+development funds from the Stockholm Health Care Services, Stockholm Re-
+gion. AHB is funded for salary by the Swedish Research Council (K2012-61-P-
+22131-01-6). PL, and clinician resources, is funded by a grant from the inde-
+pendent Research Council of Svenska Spel, the Swedish government-
+operated gambling service provider. PL is also funded by a postdoc grant
+from the Center for Psychiatry Research, Karolinska Institutet. The other au-
+thors have no funding to report. Open access funding provided by Karolinska
+Institutet.
+Availability of data and materials
+No data is available.
+Ethics approval and consent to participate
+This study has been approved by the Regional Ethics Board of Stockholm,
+Sweden (ref. no. 2019-05479). All participants will sign an informed consent
+before being enrolled in the study.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1Center for Psychiatry Research, Department of Clinical Neuroscience,
+Karolinska Institutet and Stockholm Health Care Services, Region Stockholm,
+Stockholm, Sweden.2Stockholm Centre for Dependency Disorders,
+Stockholm Health Care Services, Region Stockholm, Stockholm, Sweden.
+3Department of Psychology, Stockholm University, Stockholm, Sweden.
+4Department of Public Health Sciences, Stockholm University, Stockholm,
+Sweden.5Department of Psychology, Uppsala University, Uppsala, Sweden.Molander et al. Pilot and Feasibility Studies           (2020) 6:106 Page 9 of 11
+Received: 22 August 2019 Accepted: 6 July 2020
+References
+1. Shaffer HJ, Martin R. Disordered gambling: etiology, trajectory, and clinical
+considerations. Annual Review of Clinical Psychology. 2011;7:483 –510.
+2. Blaszczynski A, Nower L. A pathways model of problem and pathological
+gambling. Addiction. 2002;97(5):487 –99.
+3. American Psychiatric Association. Diagnostic and Statistical Manual of
+Mental Disorders. 5th ed. Washington, DC; 2013.
+4. Socialstyrelsen. Behandling av spelmissbruk och spelberoende.
+Kunskapsstöd med nationella rekommendationer till hälso- och sjukvården
+och socialtjänsten. 2017. Available from: http://www.socialstyrelsen.se/Lists/
+Artikelkatalog/Attachments/20774/2017-12-20.pdf .
+5. Newman SC, Thompson AH. A population-based study of the association
+between pathological gambling and attempted suicide. Suicide & Life-
+Threatening Behavior. 2003;33(1):80 –7.
+6. Rychtarik R, McGillicuddy N. Preliminary evaluation of a coping skills training
+program for those with a pathological-gambling partner. Journal of
+Gambling Studies. 2006;22(2):165 –78.
+7. D ąbrowska K, Moskalewicz J. Wieczorek \Lukasz. Barriers in access to the
+treatment for people with gambling disorders. Are they different from
+those experienced by people with alcohol and/or drug dependence?
+Journal of Gambling Studies. 2017;33(2):487 –503.
+8. Abbott M, Romild U, Volberg R. The prevalence, incidence, and gender and
+age-specific incidence of problem gambling: results of the Swedish
+longitudinal gambling study (Swelogs). Addiction. 2018;113(4):699 –707.
+9. Cowlishaw S, Merkouris S, Chapman A, Radermacher H. Pathological and
+problem gambling in substance use treatment: A systematic review and
+meta-analysis. Journal of Substance Abuse Treatment. 2014;46(2):98 –105.
+10. Dahlberg M, Anderberg M. Att upptäcka spelproblem –ett pilotprojekt vid
+ett socialkontor. Socialmedicinsk Tidskr. 2015;92(4):505 –18.
+11. Nehlin C, Nyberg F, Jess K. Brief intervention within primary care for at-risk
+gambling: a pilot study. Journal of Gambling Studies. 2016;32(4):1327 –35.
+12. Cowlishaw S, Merkouris S, Dowling N, Anderson C, Jackson A, Thomas S.
+Psychological therapies for pathological and problem gambling. Cochrane
+Depress Anxiety Neurosis Group. 2012;11.
+13. Pallesen S, Mitsem M, Kvale G, Johnsen BH, Molde H. Outcome of
+psychological treatments of pathological gambling: a review and meta-
+analysis. Addiction. 2005;100(10):1412 –22.
+14. Carlbring P, Smit F. Randomized trial of internet-delivered self-help with
+telephone support for pathological gamblers. Journal of Consulting and
+Clinical Psychology. 2008;76(6):1090 –4.
+15. Carlbring P, Degerman N, Jonsson J, Andersson G. Internet-based treatment
+of pathological gambling with a three-year follow-up. Cognitive Behaviour
+Therapy. 2012;41(4):321 –34.
+16. van der Maas M, Shi J, Elton-Marshall T, Hodgins DC, Sanchez S, Lobo DS,
+et al. Internet-based interventions for problem gambling: scoping review.
+JMIR Ment Health. 2019 [cited 2019 Apr 8];6(1). Available from: https://www.
+ncbi.nlm.nih.gov/pmc/articles/PMC6329421/ .
+17. Slutske WS. Natural recovery and treatment-seeking in pathological
+gambling: results of two U.S. national surveys. The American Journal of
+Psychiatry. 2006;163(2):297 –302.
+18. Suurvali H, Cordingley J, Hodgins D, Cunningham J. Barriers to Seeking Help
+for Gambling Problems: A Review of the Empirical Literature. Journal of
+Gambling Studies. 2009;25(3):407 –24.
+19. Orford J. Problem gambling and other behavioural addictions. London:
+Office of Science and Technology, UK Government; 2003.
+20. Orford J. Asking the right questions in the right way: the need for a shift in
+research on psychological treatments for addiction. Addiction. 2008;103(6):
+875–85.
+21. Håkansson A, Mårdhed E, Zaar M. Who seeks treatment when medicine
+opens the door to pathological gambling patients —psychiatric
+comorbidity and heavy predominance of online gambling. Frontiers in
+Psychiatry. 2017;8.
+22. Dowling NA, Cowlishaw S, Jackson AC, Merkouris SS, Francis KL, Christensen
+DR. Prevalence of psychiatric co-morbidity in treatment-seeking problem
+gamblers: a systematic review and meta-analysis. The Australian and New
+Zealand Journal of Psychiatry. 2015;49(6):519 –39.23. Dowling NA, Merkouris SS, Lorains FK. Interventions for comorbid problem
+gambling and psychiatric disorders: Advancing a developing field of
+research. Addictive Behaviors. 2016;58:21 –30.
+24. Ramnerö J, Molander O, Lindner P, Carlbring P. What can be learned about
+gambling from a learning perspective? A narrative review. Nord Psychol.
+2019:1 –20.
+25. Des Jarlais DC, Lyles C, Crepaz N. Improving the reporting quality of
+nonrandomized evaluations of behavioral and public health interventions:
+the TREND statement. American Journal of Public Health. 2004;94(3):361 –6.
+26. Ferris J, Wynne H. The Canadian Problem Gambling Index: Final Report.
+2001;.
+27. Molander O, Volberg R, Sundqvist K, Wennberg P, Månsson V, Berman AH.
+Development of the gambling disorder identification test (G-DIT): protocol
+for a delphi method study. JMIR Res Protoc. 2019 [cited 2019 Feb 17];8(1).
+Available from: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329424/ .
+28. Grant JE, Steinberg MA, Kim SW, Rounsaville BJ, Potenza MN. Preliminary
+validity and reliability testing of a structured clinical interview for
+pathological gambling. Psychiatry Research. 2004;128(1):79 –88.
+29. Sheehan DV, Lecrubier Y, Sheehan KH, Amorim P, Janavs J, Weiller E, et al. The
+Mini-International Neuropsychiatric Interview (M.I.N.I.): the development and
+validation of a structured diagnostic psychiatric interview for DSM-IV and ICD-
+10. The Journal of Clinical Psychiatry. 1998;59(Suppl 20):22 –33 quiz 34-57.
+30. Nower L, Blaszczynski A. Development and Validation of the Gambling
+Pathways Questionnaire (GPQ). Psychology of Addictive Behaviors. 2016;
+Available from: https://www.ncbi.nlm.nih.gov/pubmed/27936817 .
+31. Attkisson CC, Zwick R. The client satisfaction questionnaire: psychometric
+properties and correlations with service utilization and psychotherapy
+outcome. Evaluation and Program Planning. 1982;5(3):233 –7.
+32. Rozental A, Kottorp A, Forsström D, Månsson K, Boettcher J, Andersson G,
+et al. The Negative Effects Questionnaire: psychometric properties of an
+instrument for assessing negative effects in psychological treatments.
+Behavioural and Cognitive Psychotherapy. 2019:1 –14.
+33. Devilly GJ, Borkovec TD. Psychometric properties of the credibility/
+expectancy questionnaire. Journal of Behavior Therapy and Experimental
+Psychiatry. 2000;31(2):73 –86.
+34. Hatcher RL, Gillaspy JA. Development and validation of a revised short
+version of the working alliance inventory. Psychotherapy Research. 2006;
+16(1):12 –25.
+35. Kim SW, Grant JE, Potenza MN, Blanco C, Hollander E. The Gambling
+Symptom Assessment Scale (G-SAS): a reliability and validity study.
+Psychiatry Research. 2009;166(1):76 –84.
+36. Hodgins DC, Makarchuk K. Trusting Problem Gamblers: Reliability and
+Validity of Self-Reported Gambling Behavior. Psychology of Addictive
+Behaviors. 2003;17(3):244 –8.
+37. Weinstock J, Whelan JP, Meyers AW. Behavioral assessment of gambling: an
+application of the timeline followback method. Psychological Assessment.
+2004;16(1):72 –80.
+38. Kroenke K, Spitzer RL, Williams JB. The PHQ-9: validity of a brief depression
+severity measure. Journal of General Internal Medicine. 2001;16(9):606 –13.
+39. Spitzer RL, Kroenke K, Williams JB, Lowe B. A brief measure for assessing
+generalized anxiety disorder: the GAD-7. Archives of Internal Medicine. 2006;
+166(10) Available from: http://archinte.jamanetwork.com/pdfaccess.
+ashx?url=/data/journals/intemed/5536/ioi60000.pdf .
+40. Saunders JB, Aasland OG, Babor TF, de La Fuente JR, Grant M. Development
+of the Alcohol Use Disorders Identification Test ( AUDIT): WHO Collaborative
+Project on Early Detection of Persons with Harmful Alcohol Consumption –II.
+Addiction (Abingdon, England). 1993;88(6):791.
+41. Berman AH, Bergman H, Palmstierna T, Schlyter F. Evaluation of the Drug
+Use Disorders Identification Test ( DUDIT) in Criminal Justice and
+Detoxification Settings and in a Swedish Population Sample. European
+Addiction Research. 2005;11(1):22 –31.
+42. Skevington SM, Lotfy M, O ’Connell KA. The World Health Organization ’s
+WHOQOL-BREF quality of life assessment: Psychometric properties and
+results of the international field trial. A Report from the WHOQOL Group.
+Quality of Life Research. 2004;13(2):299 –310.
+43. Baron E, Dickerson M, Blaszczynski A. ‘The scale of gambling choices ’:
+preliminary development of an instrument to measure impaired control of
+gambling behaviour. High Stakes Nineties. 1995;2:153 –68.
+44. Steenbergh TA, Meyers AW, May RK, Whelan JP. Development and
+validation of the Gamblers ’Beliefs Questionnaire. Psychology of Addictive
+Behaviors. 2002;16(2):143.Molander et al. Pilot and Feasibility Studies           (2020) 6:106 Page 10 of 11
+45. Clark DM. Developing new treatments: on the interplay between theories,
+experimental science and clinical innovation. Behaviour Research and
+Therapy. 2004;42(9):1089 –104.
+46. Hesser H. Modeling individual differences in randomized experiments using
+growth models: Recommendations for design, statistical analysis and
+reporting of results of internet interventions. Internet Interventions. 2015;
+2(2):110 –20.
+47. Nilsson A, Magnusson K, Carlbring P, Andersson G, Gumpert CH. The
+development of an Internet-based treatment for problem gamblers and
+concerned significant others: A pilot randomized controlled trial. Journal of
+Gambling Studies. 2018;34(2):539 –59.
+48. Petry NM. Stages of Change in Treatment-Seeking Pathological Gamblers.
+Journal of Consulting and Clinical Psychology. 2005;73(2):312 –22.
+49. Gooding P, Tarrier N. A systematic review and meta- analysis of cognitive-
+behavioural interventions to reduce problem gambling: Hedging our bets?
+Behaviour Research and Therapy. 2009;47(7):592 –607.
+50. Chamberlain SR, Stochl J, Redden SA, Odlaug BL, Grant JE. Latent class
+analysis of gambling subtypes and impulsive/compulsive associations: Time
+to rethink diagnostic boundaries for gambling disorder? Addictive
+Behaviors. 2017;72:79 –85.
+51. Carlbring P, Andersson G, Cuijpers P, Riper H, Hedman-Lagerlöf E. Internet-
+based vs. face-to-face cognitive behavior therapy for psychiatric and
+somatic disorders: an updated systematic review and meta-analysis.
+Cognitive Behaviour Therapy. 2018;47(1):1 –18.
+Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.Molander et al. Pilot and Feasibility Studies           (2020) 6:106 Page 11 of 11

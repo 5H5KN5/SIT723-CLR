@@ -1,0 +1,372 @@
+COMMENTARY Open Access
+Optimising the value of the evidence
+generated in implementation science: the
+use of ontologies to address the challenges
+Susan Michie1*and Marie Johnston2
+Abstract
+Implementing research findings into healthcare practice and policy is a complex process occurring in diverse
+contexts; it invariably depends on changing human behaviour in many parts of an intricate implementation system.
+Questions asked with the aim of improving implementation are multifarious variants of ‘What works, compared
+with what, how well, with what exposure, with what behaviours (for how long), for whom, in what setting and
+why? ’. Relevant evidence is being published at a high rate, but its quantity, complexity and lack of shared
+terminologies present challenges. The achievement of efficient, effective and timely synthesis of evidence is
+facilitated by using ‘ontologies ’to systematically structure and organise the evidence about constructs and their
+relationships, using a controlled, well-defined vocabulary.
+Background
+Implementing research evid ence into practice depends on
+changing human behaviour —at individual, organisational,
+community and population levels [1]. The pathways of
+implementation are generally complex, weaving in non-
+linear fashions through multi-level systems; but at every
+level, practice only changes when people do things differ-
+ently. People may be managers, service commissioners and
+providers, ancillary, administrative and technical staff,
+policy-makers, politicians amongst others.
+A considerable body of evidence about behaviour
+change in relation to health has accumulated, as evidenced
+by systematic reviews published in the Cochrane Library
+(Cochrane Effective Practice and Organisation of Care
+Group (EPOC) [2]). This evidence can be drawn upon to
+inform implementation. Frameworks abound, with a
+cross-disciplinary review identifying 83 theories [3, 4].
+Many have been applied to implementation behaviours,
+mainly healthcare professionals ’behaviours such as
+clinical assessments and procedures, prescribing, advising
+and test ordering [5]. However, despite some successes,
+interventions to change behaviour have had modest and
+variable success. This to some extent reflects the largeheterogeneity in interventions resulting in part from their
+complexity, with many interacting components, both the
+techniques themselves and their delivery features (e.g.
+mode, source and dose). In addition, contexts are hetero-
+geneous with huge variation in intervention setting and
+target population, and context may influence the effective-
+ness of interventions. Although the majority of implemen-
+tation and behavioural intervention research is conducted
+in the USA, the majority of global health challenges
+concern settings and populations in very different
+countries, cultures and contexts. A further source of
+heterogeneity is the variety in study methods used in
+intervention evaluations.
+To make significant improvements, we want to be able to
+answer with confidence, variants of the questions posed by
+implementation and other researchers, policy makers and
+practitioners: ‘What works, compared with what, how well,
+with what exposure, with wha t behaviours (for how long),
+for whom, in what setting and why? ’a n dw ew a n tt ob ea b l e
+to do this for questions that often lack large amounts of
+high-quality evidence. This will require very extensive
+searches to identify evidence and the ability to make
+inferences where evidence is lacking. Evidence of which
+behaviour change interventions are effective is required by
+a wide range of sciences (including implementation,
+behavioural, psychological , clinical, human factors and* Correspondence: s.michie@ucl.ac.uk
+1Centre for Behaviour Change, University College London, 1-19 Torrington
+Place, London WC1E 7HB, UK
+Full list of author information is available at the end of the article
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.Michie and Johnston Implementation Science  (2017) 12:131 
+DOI 10.1186/s13012-017-0660-2
+organisational sciences) and by those involved in develop-
+ing policy and implementing interventions in practice.
+Limitations of current efforts to generate and
+apply evidence about behaviour change
+Current efforts to systematically generate and apply the
+available evidence about behaviour change are limited by
+the quantity of evidence, its complexity and the lack of
+standardised terminology and structures for reporting
+interventions and their evaluations.
+There is no shortage of publications on behaviour
+change and interventions. For example, Google Scholar
+searches identified over 145,000 publications for
+‘behaviour change intervention ’in 2016 which reflects
+the high publication rate for the last 20 years. At this
+pace, only a very efficient system could aggregate the
+evidence and we currently lack such a system. Our
+limited search and review methods may additionally
+contribute to the problem of reproducibility of results as
+cognitive biases may influence our search terms and
+interpretation of findings [6]. As a result, it is difficult to
+ascertain what we know and where there are gaps in the
+evidence base. Even where good evidence exists and is
+synthesised, the resulting review and recommendations
+are inevitably out of date by the time it is complete, due
+to the laborious work involved [7].
+The issue of quantity of evidence is exacerbated by its
+complexity. An effective aggregation of evidence should
+take account of the active content and delivery of the
+interventions, the theoretical basis for the intervention,
+the characteristics of populations and settings in
+addition to specifying the target behaviours and the
+methods of investigation. However, while evidence
+continues to be generated at a fast pace, there is no
+agreed framework for accumulating that evidence and as
+a result, evidence is fragmented and gaps in the evidence
+are difficult to identify.
+Evidence synthesis is furth er hampered by the wide vari-
+ability and quality of research methods used to evaluate the
+effectiveness of interventions. Even for the same behaviour,
+outcomes may be assessed in different ways, e.g. objective
+versus self-report measure s, with different follow-up
+periods. Even when a randomised controlled trial design is
+used, interpretation of findings can depend on the support
+or treatment given to the control groups.
+Complexity is exacerbated when reporting of interven-
+t i o n sa n ds t u d i e si si n c o m p l e t e [8], a problem that is greater
+for behavioural than other non-pharmacological trials [9].
+As a result, attempts to advance the science of behaviour
+change are hampered and effective interventions cannot be
+implemented reliably in practice. This means that there
+continues to be wastage of evidence due to the inadequacy
+of our terminology and structures for reporting behaviour
+change and interventions.In sum, there is currently too much, incompletely
+reported evidence on behaviour change interventions for
+current methods to synthesise within an acceptable time
+frame. In addition, the systems available for aggregation of
+t h ee v i d e n c er e f l e c tac o m p l e x i t yr e q u i r i n gm o r eh u m a n
+and funding resources than are available. Although these
+points have been made about behaviour change interven-
+tions, they apply also to implementation interventions.
+The potential of ‘Ontologies ’to advance
+collaborative and cumulative science
+Recent advances in behavioural, computing and informa-
+tion sciences provide a step change in the possibilities
+for addressing complex questions efficiently, effectively
+and in a timely manner. Developments in information
+science include automating parts of the process such as
+the evaluation of risk of bias in trials. Methods of
+making synthesised evidence accessible are advancing
+but depend on success in generating useful search terms
+for accessing the accumulated evidence. In computer
+science, developments such as natural language process-
+ing, machine learning and artificial intelligence provide
+new opportunities for synthesising the burgeoning and
+fragmented scientific literature and making inferences
+where gaps exist [10, 11]. Computing systems have
+enabled more efficient identification of published reports
+of interventions [12] reducing the human load and
+increasing the speed of evidence synthesis. In addition,
+they offer the potential to integrate the evidence more
+effectively [13] and, in the long term, provide novel
+insights by identifying patterns and associations not
+detectable by current methods.
+However, a review of automated evidence extraction
+methods noted the incompleteness of methods, pointing
+to the importance of having a strong framework or
+‘ontology ’for organising the information that might be
+extracted [14]. An ontology is a systematic structure for
+organising knowledge about (1) entities (constructs)
+using a controlled vocabulary for labels and definitions
+and (2) their inter-relationships. They facilitate codifica-
+tion of this knowledge in a computer-readable format to
+enable organisation, reuse, integration and analysis [15].
+In addition, the systematic organisation of knowledge by
+ontologies may lead to the generation of additional
+knowledge which is present but undetected in the
+evidence base as computers can investigate patterns in
+the evidence more rapidly and without the preconcep-
+tions of humans.
+Developments in behavioural science are providing
+shared terminology and structures for conceptualising
+behaviour change interventions providing a method for
+more co-ordinated extractio n and synthesis of evidence.
+Ninety-three behaviour change techniques, the active ingre-
+dients of behaviour change interventions, had been definedMichie and Johnston Implementation Science  (2017) 12:131 Page 2 of 4
+by 2013 [16, 17] organised hierarchically and shown to be
+used reliably; and others have since been identified. Mean-
+while, statistical methods of combining techniques to
+explain outcomes are being advanced and initial typologies
+of context have been developed in relation to interventions
+[18], behaviours [19] and implementation [20]. More
+recently, a hierarchical taxonomy of modes of delivery
+based on more than 60 unique modes in use in published
+literatures has been developed [21].
+Structures for conceptualising behaviour change evalua-
+tions and interventions have been developed such as
+Cochrane ’s PICO ontology (specifying the population/
+problem, intervention, controls and outcomes) [22], and
+TIDieR (Template for Intervention Description and Repli-
+cation) template for reporting the essential components of
+interventions offers consensus methods for organising and
+thus simplifying complexity [8]. The use of ontologies
+goes some way to capitalise on recent developments in
+order to address many of the problems raised above.
+Behavioural science and implementation science could
+gain enormously by drawing on computational methods
+to optimise the value of current evidence. However, in
+order to make these gains, we need to make our evidence
+computer readable. This will require a consensus-based
+system of organising our knowledge that identifies the key
+‘entities ’which define our evidence and which can be reli-
+ably recognised, on a limited scale, by humans. In sum, a
+behaviour change intervention ontology is required to
+allow accumulated evidence to be computer readable as a
+basis for more rapid and effective evidence synthesis.
+Implications for implementation science
+If implementation science continues to depend on human
+integration of evidence using heterogeneous terminologies,
+we will accumulate more system atic reviews but is unlikely
+to achieve the theoretical understanding about behaviour
+change that is needed by implementation researchers and
+practitioners, and the research, policy and practice commu-
+nities more broadly.
+The Human Behaviour Change Project, funded by the
+Wellcome Trust from 2016 to 2020, aims to build on the
+scientific developments to provide a step change in our
+ability to synthesise evidence at scale, speed and granularity
+[23, 24]. It will, using artific ial intelligence and machine
+learning, develop and evaluate a ‘knowledge system ’that
+continually scans the world literature on behaviour change
+interventions, automatically extracts key information,
+synthesises and interprets findings to generate new insights
+about behaviour change and i mprove prediction of inter-
+vention effectiveness.
+The project will be collaborative throughout, generating
+data that can be used by the research community to
+address a wide range of research questions and involving a
+large international consortium of stakeholders and scientificadvisors. The project will also build a user interface to allow
+researchers to access up-to-d ate syntheses and interpreta-
+tions of evidence.
+We believe that ‘business as usual ’is not an option if we
+are to make the step changes in evidence synthesis and in
+our capacity to answer the ‘big’shared question for imple-
+mentation and behavioural science: What works, compared
+with what, how well, with what exposure, with what
+behaviours (for how long), for whom, in what settings and
+why? Ontologies offer a way forward by enabling us to
+structure our knowledge to make it recognisable to com-
+puters in order to gain the scale and completeness required.
+Implications for research agenda
+This work is in its infancy and suggests a wide range of
+research questions, a few of which we set out here:
+1. Are there important aspects of implementation
+interventions which we cannot currently report
+and which (a) would benefit from the
+development of an ontology or (b) where an
+ontology is likely to be impossible?
+2. How acceptable and feasible are taxonomies and
+ontologies to those conducting, reporting,
+interpreting, synthesising and implementing evidence?
+3. Do taxonomies and ontologies lead to evidence
+reports which
+a. Are more easily understood?
+b. Are interpreted accurately, i.e. as in the original
+intervention? and
+c. Lead to faster, more precise implementation of
+effective interventions?
+Acknowledgements
+Our thanks to Marta Marques, Emma Norris, Ildiko Tombor, Holly Walton, Olga
+Perski and Hilary Groarke for the comments on an earlier draft of this editorial.
+Funding
+The project is funded by a Wellcome Trust collaborative award [The Human
+Behaviour-Change Project: Building the science of behaviour change for
+complex intervention development ’, 201,524/Z/16/Z].
+Availability of data and materials
+Data sharing is not applicable to this article as no datasets were generated
+or analysed for this commentary.
+Authors ’contributions
+SM and MJ conceived the commentary, completed its drafting and approved
+the final manuscript. Both authors read and approved the final manuscript.
+Ethics approval
+Not applicable
+Consent for publication
+Not applicable
+Competing interests
+The authors declare that they have no competing interests.Michie and Johnston Implementation Science  (2017) 12:131 Page 3 of 4
+Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Author details
+1Centre for Behaviour Change, University College London, 1-19 Torrington
+Place, London WC1E 7HB, UK.2Aberdeen Health Psychology Group,
+University of Aberdeen, Aberdeen, UK.
+Received: 7 August 2017 Accepted: 30 October 2017
+References
+1. National Institute for Health and Care Excellence: Behaviour change: general
+approaches [NICE Public Health Guidance 6]. 2007, London: Available from:
+https://www.nice.org.uk/guidance/ph6.
+2. Cochrane Library. Cochrane. 2009. www.cochranelibrary.com. Accessed 18
+June 2017.
+3. Davis R, Campbell R, Hildon Z, Hobbs L, Michie S. Theories of behaviour and
+behaviour change across the social and behavioural sciences: a scoping
+review. Health Psychol Rev. 2015;9:323 –44.
+4. Michie S, West R, Campbell R, Brown J, Gainforth H. An ABC of behaviour
+change theories. London: Silverback Publishing; 2014.
+5. Potthoff S, Presseau J, Sniehotta FF, Johnston M, Elovainio M, Avery L.
+Planning to be routine: habit as a mediator of the planning-behaviour
+relationship in healthcare professionals. Implement Sci. 2017;12:1 –10.
+6. Munafò MR, Nosek BA, Bishop DV, Button KS, Chambers CD, du Sert NP,
+Simonsohn U, Wagenmakers E-J, Ware JJ, Ioannidis JP. A manifesto for
+reproducible science. Nature Human Behaviour. 2017;1:1 –9.
+7. Elliott JH, Turner T, Clavisi O, Thomas J, Higgins JP, Mavergames C, Gruen
+RL. Living systematic reviews: an emerging opportunity to narrow the
+evidence-practice gap. PLoS Med. 2014;11:1 –6.
+8. Hoffmann TC, Glasziou PP, Boutron I, Milne R, Perera R, Moher D, Altman
+DG, Barbour V, Macdonald H, Johnston M. Better reporting of interventions:
+template for intervention description and replication (TIDieR) checklist and
+guide. BMJ. 2014;348:1 –12.
+9. McCleary N, Duncan EM, Stewart F, Francis JJ. Active ingredients are
+reported more often for pharmacologic than non-pharmacologic
+interventions: an illustrative review of reporting practices in titles and
+abstracts. Trials. 2013;14:146.
+10. Thomas J. Diffusion of innovation in systematic review methodology: why is
+study selection not yet assisted by automation. OA Evidence-Based
+Medicine. 2013;1:1 –6.
+11. Lefebvre C, Glanville J, Wieland LS, Coles B, Weightman AL. Methodological
+developments in searching for studies for systematic reviews: past, present
+and future? Systematic reviews. 2013;2:78.
+12. Shemilt I, Simon A, Hollands GJ, Marteau TM, Ogilvie D, O ’Mara-Eves A, Kelly
+MP, Thomas J. Pinpointing needles in giant haystacks: use of text mining to
+reduce impractical screening workload in extremely large scoping reviews.
+Research Synthesis Methods. 2014;5:31 –49.
+13. Hoang LK, Bekhuis T, Schneider J: Towards automatic data extraction from
+clinical research reports: a case study of a systematic review of oral pain
+relief .In The iSchool at Illinois 2016 Research Showcase; Illinois. 2016.
+14. Jonnalagadda SR, Goyal P, Huffman MD. Automating data extraction in
+systematic reviews: a systematic review. Systematic Reviews. 2015;4:78.
+15. Larsen KR, Michie S, Hekler EB, Gibson B, Spruijt-Metz D, Ahern D, Cole-Lewis H,
+Ellis RJB, Hesse B, Moser RP. Behavior change interventions: the potential of
+ontologies for advancing science and practice. J Behav Med. 2017;40:6 –22.
+16. Michie S, Richardson M, Johnston M, Abraham C, Francis J, Hardeman W,
+Eccles MP, Cane J, Wood CE. The behavior change technique taxonomy (v1)
+of 93 hierarchically clustered techniques: building an international
+consensus for the reporting of behavior change interventions. Ann Behav
+Med. 2013;46:81 –95.
+17. Michie S, Wood CE, Johnston M, Abraham C, Francis J, Hardeman W.
+Behaviour change techniques: the development and evaluation of a
+taxonomic method for reporting and describing behaviour change
+interventions (a suite of five studies involving consensus methods,
+randomised controlled trials and analysis of qualitative data). Health Technol
+Assess. 2015;19:1 –188.
+18. Bishop FL, Fenge-Davies AL, Kirby S, Geraghty AW. Context effects and
+behaviour change techniques in randomised trials: a systematic reviewusing the example of trials to increase adherence to physical activity in
+musculoskeletal pain. Psychol Health. 2015;30:104 –21.
+19. Rodríguez ND, Cuéllar MP, Lilius J, Calvo-Flores MD. A survey on ontologies for
+human behavior recognition. ACM Computing Surveys (CSUR). 2014;46:43.
+20. Squires JE, Graham ID, Hutchinson AM, Michie S, Francis JJ, Sales A, Brehaut
+J, Curran J, Ivers N, Lavis J. Identifying the domains of context important to
+implementation science: a study protocol. Implement Sci. 2015;10:135.
+21. Carey R, Evans F, Horan M, Johnston M, West R, Michie S. Describing the
+‘how ’of behaviour change: a taxonomy of modes of delivery. In: UK Society
+for Behavioural Medicine; Cardiff; 2016.
+22. Cochrane PICO Ontology .http://linkeddata.cochrane.org/pico-ontology.
+Accessed 20 July 2017.
+23. Human Behaviour-Change Project Website .www.humanbehaviourchange.
+org. Accessed 20 July 2017.
+24. Michie S, Thomas J, Johnston M, MacAonghusa P, Shawe-Taylor J, Kelly MP,
+Deleris L, Finnerty A, Marques M, Norris E, et al. The Human Behavior-
+Change Project: harnessing the power of artificial intelligence and machine
+learning for evidence synthesis and interpretation. Implementation Science.
+2017;12:121.
+•  We accept pre-submission inquiries  
+  Our selector tool helps you to ﬁnd the most relevant journal
+  We provide round the clock customer support 
+  Convenient online submission
+  Thorough peer review
+  Inclusion in PubMed and all major indexing services 
+  Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submitSubmit your next manuscript to BioMed Central 
+and we will help you at every step:Michie and Johnston Implementation Science  (2017) 12:131 Page 4 of 4

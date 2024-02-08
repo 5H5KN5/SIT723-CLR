@@ -1,0 +1,561 @@
+Dose-Response Research in Digital Health Interventions: 
+Concepts, Considerations, and Challenges
+Megan A. McVay ,
+University of Florida, Duke University School of Medicine
+Gary G. Bennett ,
+Duke University, Duke Global Health Institute
+Dori Steinberg ,
+Duke University School of Nursing, Duke Global Health Institute
+Corrine I. Voils
+William S. Middleton Veterans Memorial Hospital, University of Wisconsin School of Medicine and 
+Public Health
+Abstract
+To optimize digital health interventions, intervention creators must determine what intervention 
+dose will produce the most substantial health behavior change—the dose-response relationship—
+while minimizing harms or burden. In this manuscript we present important concepts, 
+considerations, and challenges in studying dose-response relationships in digital health 
+interventions. We propose that interventions make three types of prescriptions: (1) intervention 
+action prescriptions , prescriptions to receive content from the intervention, such as to read text or 
+listen to audio; (2) participant action prescriptions , prescriptions to produce and provide content to 
+the intervention, such as to send text messages or post intervention-requested photos on social 
+media; and (3) behavioral target action prescriptions , prescriptions to engage in behaviors outside 
+the intervention, such as changing food intake or meditating. Each type of prescription has both an 
+intended dose (i.e., what the intervention actually prescribes) and an enacted dose (i.e., what 
+portion of the intended dose is actually completed by the participant). Dose parameters of 
+duration, frequency, and amount can be applied to each prescription type. We consider adaptive 
+interventions and interventions with ad libitum  prescriptions as examples of tailored doses. 
+Researchers can experimentally manipulate intended dose to determine the dose-response 
+relationship. Enacted dose cannot generally be directly manipulated; however, we consider the 
+applicability of “controlled concentration” research design to the study of enacted dose. We 
+consider challenges in dose-response research in digital health interventions, including 
+characterizing amount with self-paced activities and combining doses across modality. The 
+Correspondence concerning this article should be addressed to Megan McVay, Department of Health Education and Behavior, College 
+of Health and Human Performance, University of Florida; PO Box 118210, Gainesville FL 32611. megan.mcvay@ufl.edu.
+Megan A. McVay, Department of Health Education and Behavior, University of Florida and Department of Psychiatry and Behavioral 
+Science, Duke University; Gary G. Bennett, Department of Psychology and Neuroscience, Duke University, and Duke Global Health 
+Institute; Dori Steinberg, Duke University School of Nursing and Duke Institute of Global Health; Corrine I. V oils, William S. 
+Middleton Veterans Memorial Hospital, and University of Wisconsin School of Medicine and Public Health.
+Gary Bennett holds equity in CoeusHealth, and serves as a scientific advisor to Nutrisystem and Interactive Health. He is a member of 
+the board of directors at Girl Trek. Dori Steinberg is a consultant with Omada Health.
+HHS Public Access
+Author manuscript
+Health Psychol . Author manuscript; available in PMC 2020 December 01.
+Published in final edited form as:
+Health Psychol . 2019 December ; 38(12): 1168–1174. doi:10.1037/hea0000805.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+presented concepts and considerations may help contribute to the optimization of digital health 
+interventions.
+MESH Keywords
+Health Behavior; Treatment Adherence and Compliance; Treatment Outcome; telemedicine; 
+behavioral research; research design
+Designing digital interventions to improve health behavior requires making decisions about 
+how much intervention to deliver and how to distribute that delivery over time. This is a 
+matter of designing the intervention dose. Dose, like other elements of digital health 
+interventions, should be selected based on empirical evidence of what will produce the most 
+substantial behavioral change--the dose-response relationship--while minimizing harms or 
+burden. Dose is a critical feature of an intervention. An intervention may be ineffective if the 
+dose is too small or too large, even with otherwise perfectly selected and executed behavior 
+change techniques. Thus, the study of dose in digital health interventions is essential for 
+progress in developing maximally effective digital health interventions. Existing literature on 
+the dose-response relationship has primarily focused on traditional intervention modalities 
+such as in-person sessions or synchronous telephone calls ( Lin et al., 2014 ; Martín Cantera 
+et al., 2015 ; Powers, Vedel, & Emmelkamp, 2008 ). It is not clear if dose-response 
+relationships observed in traditional intervention modalities apply to digital health 
+interventions, which, more often than traditional interventions, are dynamic, delivered in 
+individuals’ natural environments, and are delivered using frequent, brief contacts (e.g., 
+daily text messages or social media postings).
+The study of dose-response relationships in digital health interventions will be most 
+productive if the concept of dose is clearly and consistently operationalized. Existing 
+writings on operationalization of dose in behavioral interventions ( Manojlovich & Sidani, 
+2008 ; V oils et al., 2012 , 2014 ) do not address how dose concepts and parameters apply to 
+digital health interventions. Given the differences between traditional and digital health 
+interventions, there is a need to update the conceptualization of dose to better fit elements of 
+digital health interventions. Thus, in the current manuscript we present a modified 
+conceptualization of dose and provide suggestions for operationalizing and quantifying dose 
+in digital health interventions. We purposefully design this conceptualization to apply across 
+intervention modalities (including in-person modality) to facilitate discussion among 
+researchers working in different modalities and to account for the many interventions that 
+involve multiple modalities. After presenting a refined conceptualization of dose, we 
+describe how this conceptualization might inform empirical research aiming to identify 
+optimal doses for digital health interventions. Finally, we consider challenges that can arise 
+when conducting dose-response research in digital health interventions and present strategies 
+to overcome these challenges. The aim of our manuscript is to stimulate discussion, rather 
+than to present a definitive or prescriptive description of these topics.McVay et al. Page 2
+Health Psychol . Author manuscript; available in PMC 2020 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Conceptualizing Dose for Dose-Response Research in Digital Health 
+Interventions
+Dose, when applied to behavior change interventions, has been described as how much of an 
+intervention has been delivered and received ( V oils et al., 2012 , 2014 ). The parameters of 
+dose that have been suggested include duration, frequency, and amount ( Manojlovich & 
+Sidani, 2008 ; V oils et al., 2012 ). Duration is the total length of time over which an 
+intervention is delivered; frequency is how often contact is made; and amount is the length 
+of each contact. For example, an intervention can deliver content for a duration of six 
+months at a frequency of twice per week, with each contact having an amount of one hour. 
+Total number of contacts can be described by multiplying duration and frequency, while the 
+total dose can be described by multiplying duration, frequency, and amount ( V oils et al., 
+2012 ). Other ways of characterizing dose are tailored versus untailored and fixed versus 
+variable ( V oils et al., 2012 ). An intervention with a tailored dose provides different doses to 
+different individuals based on individual characteristics, whereas an untailored dose provides 
+the same dose across all participants. An intervention with a variable dose provides different 
+doses across time during the intervention, whereas a fixed dose provides a consistent dose 
+across time.
+Determining What Counts Towards Dose in Digital Health Intervention.
+A central challenge in applying these dose parameters to digital health interventions is 
+determining to which components of the intervention dose should be applied. To explore this 
+potential challenge, we consider the example of Track , a digital health intervention for 
+weight loss among adults with obesity developed by Bennett and colleagues (2018) . In 
+Track, participants are assigned individualized diet and physical activity goals informed by 
+their response to a series of questions. On a weekly basis, they receive a text message or an 
+Interactive V oice Response (IVR) message (modality of message is based on participant 
+preference) requesting that they report their progress on these goals over the prior week. 
+They then have the opportunity to text or verbally respond to the IVR system to indicate 
+extent of achievement of their goal. Based on their responses, the intervention sends a text or 
+IVR message to the participant with feedback to encourage future goal attainment. The 
+Track intervention also includes 30-minute counseling phone calls with a coach that occur 
+every two weeks initially then every four weeks. To apply the dose parameters of frequency, 
+amount, and duration to Track, one must first decide to which intervention elements these 
+parameters apply. With Track, dose can apply to: texts/IVR calls sent by the intervention to 
+the participant asking about goal attainment; texts/IVR calls sent by the participant to the 
+intervention to report their goal attainment; texts/IVR calls sent by the intervention to the 
+participant containing tailored feedback; counseling calls; and/or those activities that 
+participants do in response to the intervention, such as walking more or increasing the 
+frequency of grocery shopping. If dose can be applied to all of these components, then one 
+must consider if they should be combined to provide one total dose of the intervention or if 
+there are meaningful differences in these components that warrant presenting dose 
+separately for different components.McVay et al. Page 3
+Health Psychol . Author manuscript; available in PMC 2020 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+To determine what counts towards dose, it may be useful to focus on the behavioral 
+prescription of the intervention—i.e., what the intervention asks the participants to do. 
+Interventions’ behavioral prescriptions can be grouped into three meaningful categories: (1) 
+prescriptions that participants receive content from the intervention, which can be called 
+intervention action prescription ; (2) prescriptions that participants produce and provide 
+content to the intervention, which can be called participant action prescription ; (3) 
+prescriptions that participants engage in behaviors outside the intervention, which can be 
+called behavioral target prescription  (see Figure 1). There are commonalities of this 
+categorization with existing conceptualizations of behavioral interventions. For example, the 
+expert-developed ORBIT model of intervention development and testing distinguishes 
+between the delivery of intervention and the behaviors in which participants engage (i.e., the 
+behavioral targets; Czajkowski et al., 2015 ). Additionally, researchers in the area of 
+intervention fidelity have distinguished between the delivery of the intervention and the 
+receipt of the intervention ( Bellg et al., 2004 ). In the next section, each of the three proposed 
+prescriptions are considered in detail.
+Intervention action prescription.— Intervention action prescription  refers to the 
+intervention content participants are asked to receive. Depending on the modality, receiving 
+can involve reading content (e.g., reading a mobile application notification), listening to 
+content (e.g., listening to a message on a smart speaker), viewing content (e.g., watching a 
+video in a social media feed), or some combination of these actions. Intervention action 
+prescriptions are often stated explicitly by the intervention. For example, when individuals 
+enroll in an intervention, they may be instructed to attend a one-hour group session each 
+week for eight weeks, to enter a virtual reality world for 30 minutes once per week, or to 
+log-in to their Twitter account daily to read messages from the study group. In some cases, 
+the intervention action prescription is prescribed not only through explicit communication, 
+but also is “pushed” by the intervention to participants ( Klasnja & Pratt, 2012 ). Pushing 
+content refers to a practice used by many digital health interventions in which content is 
+delivered in a way that is intended to be integrated into their typical technology usage and 
+thus is difficult to ignore. Examples include sending an email to a regularly used e-mail 
+account, placing a post to appear in participants’ stream of social media, or sending a text 
+message or an app notification to participants’ smart phones. The Track intervention, 
+described previously, pushes text messages to participants’ smart phones; participants are 
+thus prescribed to read these messages and respond accordingly.
+Participant action prescription.— Participant action prescription  refers to what the 
+intervention asks the participant to produce and deliver in response to the intervention. 
+Examples of participant action prescriptions include requesting a participant to send a text 
+message indicating progress on a goal (as in the Track example); prompting participants to 
+post a photo of themselves exercising on social media; encouraging participants to “talk” to 
+a virtual person while in a virtual reality world; or asking participants to make an audio 
+recording describing their mood.
+Some interventions involve rapid exchange between interdependent intervention actions and 
+participant actions. For example, a text messaging intervention can involve a constant McVay et al. Page 4
+Health Psychol . Author manuscript; available in PMC 2020 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+exchange of texts with an interventionist (or bot). In the proposed framework, texts sent by 
+the intervention comprise the intervention action prescription , and the request that the 
+participant will respond is the participant action prescription . Describing the dose of these 
+frequent, interdependent interactions poses a challenge, which is considered later.
+Behavioral target prescription.— Behavioral target prescription  refers to requests by the 
+intervention to engage in the health behavioral targets of the intervention. This can include 
+instructions to meditate twice a day; requests to consume more fruits and vegetables; or 
+reminders to participants to take their medications. Behavioral target prescriptions may 
+require intermediary behaviors that are implied rather than explicitly stated. For example, 
+participants in the Track program may be assigned the goal of eating at least three fruits and 
+vegetables per day; this also has the implicit prescription that the individual may need to go 
+to the grocery store to buy these fruits and vegetables. On occasion, an intervention may 
+influence individuals to engage in behaviors that are not directly prescribed by the 
+intervention. For example, an intervention focused on stress reduction may inspire a 
+participant to start using a meditation app, even if meditation was not prescribed. This 
+“spontaneous” engagement in health-related activities (digitally mediated or otherwise) can 
+be observed and described by the research team; however, because it does not involve 
+prescribed activities, it would not count as part of dose in the present conceptualization.
+The dose of the behavioral target prescriptions may have an important influence on 
+outcomes, as it contributes to the total amount of time a participant devotes to the 
+intervention. In the remainder of this manuscript, we focus on intervention and participant 
+action prescriptions because they involve direct interaction between the participant and the 
+intervention.
+Intended and enacted dose for intervention and participant action prescriptions.
+Previous conceptualizations of dose distinguished between how much intervention was 
+intended by the intervention developers or implementers, called intended dose , and how 
+much was actually received by the participants, called received dose  (Saunders, Evans, & 
+Joshi, 2005 ; V oils et al., 2012 ). These dose concepts can be applied to digital health 
+interventions, and can be applied separately to the intervention action prescription and the 
+participant action prescription (see Table 1). Enacted dose  is used herein in place of received 
+dose because it is inclusive of both intervention action and participant action prescriptions. 
+These types of doses can be described using the dose parameters previously presented—
+frequency, amount, and duration.
+Application of the dose parameter amount to digital health interventions is worth additional 
+consideration. Describing the dose amount can be challenging in some digital health 
+interventions, owing to the self-paced nature of many elements (e.g., reading of texts, 
+navigating interactive web interventions) and individual differences (e.g., reading speed). 
+For textual content, it may be sufficient to describe amount in terms of the number of words 
+or characters. In other cases, it may be useful to convert written and other digital health 
+content to a time unit, such as when comparing across different formats. Given that the 
+average reader with an eighth grade level of education can read about 150 words per minute McVay et al. Page 5
+Health Psychol . Author manuscript; available in PMC 2020 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+(Hasbrouck & Tindal, 2015.), one approach to translating textual data into time units is to 
+describe content with 150 words or less as having an amount of one minute and content over 
+150 words a time value based on 150 words/minute. Alternatively, a time unit for an 
+intervention can be estimated by having a small sample of participants complete an 
+intervention task, perhaps during pilot testing, to identify an average or range of times.
+Case studies.— We now present case studies to demonstrate the application of these dose 
+parameters on digital health interventions. Consider again the Track intervention. One of the 
+prescriptions is for participants to read weekly brief text messages (about 20–30 words) 
+asking about goal progress. This is an intervention action prescription because the 
+intervention is asking participants to receive this intervention content. The intended dose of 
+this component can be characterized as duration of 12 months and frequency of once per 
+week. The amount can be summarized as one minute based on the number of words 
+presented to participants. The enacted intervention prescription dose for this intervention is 
+how many of these IVR messages were listened to or text messages were read. The 
+feasibility of determining the enacted dose varies depending on the technology used. In this 
+example, the portion of IVR calls answered may be easy to obtain and provide a partial 
+indicator of enacted dose for those participants who selected the IVR mode. With use of 
+certain technology, it is also possible to determine if a text message was viewed.
+Track participants are also asked to send a weekly text message indicating if they met their 
+goals. This is a participant action prescription  because they are asked to provide content to 
+the intervention. The intended duration of this prescription is 12 months and frequency is 
+once per week. There is no pre-specified number of words requested from participants, 
+making the assignment of an intended amount unclear. However, given that the mode is 
+texting and that participants are asked to answer a brief question, it can be assumed that the 
+amount is one minute. Alternatively, the amount parameter may be deemed irrelevant to this 
+particular intervention. The enacted dose of this participant action prescription can be 
+determined by recording how many responses were sent to the intervention.
+We next consider another digital health intervention, Tweet2Quit, a social media-based 
+smoking cessation intervention that has been piloted ( Pechmann, Delucchi, Lakon, & 
+Prochaska, 2017 ) and is now being tested in a fully powered randomized controlled trial. 
+Tweet2Quit intervention components include: a one-time automated email encouraging 
+participants to start tweeting at least daily; a series of five automated emails with links to 
+smokefree.gov  modules (delivered at varying intervals); daily “auto-question” tweets to the 
+group from the intervention; and daily “auto-feedback” text messages, sent to participants’ 
+smart phones that encourage them to tweet. The intended intervention action prescription is 
+as follows: (1) read automated emails and modules at smokefree.gov , which has a variable 
+dose with a duration of 22 days and average frequency of every 5.5 days; (2) read Twitter 
+auto-question messages, which have a duration of 100 days and frequency of daily; and (3) 
+read auto-feedback text messages, which have a duration of 100 days and frequency of daily. 
+The enacted intervention action of reading the smokefree.gov  module can be partially 
+estimated by determining how often the modules sent via email were opened. However, it 
+may not be feasible to determine if the tweets were read. For Tweet2quit, the intended 
+participant action prescription is to tweet daily over the course of the intervention, which has McVay et al. Page 6
+Health Psychol . Author manuscript; available in PMC 2020 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+a duration of 100 days and frequency of once per day. The amount parameter for this 
+prescription can be expressed in number of words prescribed to read or translated into a 
+minute unit. The enacted participant action dose in this example is how much the 
+participants tweet; the authors reported that an average of 72 tweets were written per 
+participant, out of the prescribed 100 ( Pechmann, Delucchi, Lakon, & Prochaska, 2017 ). 
+Note that this value combines frequency (1/day) and duration (100 days) to provide total 
+number of contacts.
+Tailored and ad libitum interventions.— Digital health interventions have substantial 
+promise for facilitating interventions that are precisely tailored to characteristics of the 
+participants—that is, adaptive interventions. Examples of adaptive intervention approaches 
+include just-in-time adaptive interventions ( Nahum-Shani et al., 2016 .) and control systems 
+engineering-based approaches ( Hekler et al., 2018 ). Adaptive interventions can tailor both 
+the content and the intended dose. Consider an intervention that aims to improve adherence 
+to oral medication for patients with diabetes by delivering a text message reminder only 
+when the electronic pill container is not opened in a pre-specified time ( Vervloet et al., 
+2012 ). The intended intervention action frequency can be described as 0–1 times/day. 
+Describing the enacted dose of tailored interventions requires additional considerations. It 
+may be most appropriate for enacted dose to be presented in relation to the intended dose for 
+each particular participant based on the tailoring schema used. Alternatively, a range of 
+enacted doses can be presented.
+One important sub-type of tailored dose is ad libitum , in which no specific dosage of use is 
+prescribed. Rather, with ad libitum  prescriptions participants either are instructed to use the 
+intervention according to their need or desire or are not given any explicit instructions on 
+usage frequency, amount, or duration. All or just some components of an intervention may 
+have an ad libitum  dose. Consider as an example Healthy Mind, an app-based intervention 
+that includes nine different stress management tools ( Morrison et al. 2017 ). Healthy Mind 
+participants are informed that they can use these tools “on demand” and are sent periodic 
+push notification messages encouraging use of the tools. A dose can be described for both 
+the push notifications and for the stress management tools. The dose of the push 
+notifications may be described in terms of the standard parameters of frequency, duration, 
+and amount. Describing the dose of the stress management tool component is less 
+straightforward. The prescription for these tools may be best described as having a minimum 
+dose corresponding to the dose of the notifications sent (since these notifications are 
+functioning as “prescriptions”) as well as having an ad libitum  dose beyond that minimum 
+dose (since participants can use the tools beyond those times when they receive push 
+notifications).
+Passively acquired data.— Some interventions collect data on participant behavior that 
+does not require participant input, such as step counts or Global Positioning System (GPS) 
+location acquired from a smart phone. In many cases, these data are used to provide tailored 
+intervention content. As an example, the HeartStep intervention uses automatically acquired 
+geolocation information and other data to tailor the content, timing, and frequency of 
+physical activity recommendations ( Klasnja et al 2018 ). Thus, different doses of intervention McVay et al. Page 7
+Health Psychol . Author manuscript; available in PMC 2020 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+are delivered across individuals and across time. Although passively acquired data can 
+influence dose, the acquired data are not counted as part of the intervention dose per the 
+currently presented conceptualization because there is no action prescribed to the 
+participant.
+Implications for the Empirical Study of Dose
+Intended Dose
+Researchers interested in optimizing intervention dose can manipulate the intended 
+intervention action dose and/or the intended participant action dose and observe outcomes of 
+interest ( V oils et al., 2012 ). With regard to intervention action dose, researchers can 
+systematically vary what is asked of participants to receive. For example, researchers can 
+randomize individuals to be asked to complete daily or weekly virtual reality sessions or to 
+receive a text message daily or weekly. Morrison et al. (2017)  randomized participants to 
+three different doses of app notifications in the previously described Healthy Minds 
+intervention: daily, every 72 hours, or at intervals tailored based on participant data. While 
+this is an example of testing frequency, other dose parameters can be varied. For example, a 
+three-level factorial study can vary the prescription of duration (12 vs. 24 weeks), frequency 
+(one per week vs. once per day), and amount (one vs. three minutes).
+As with intervention action dose, the effects of participant action dose  on outcomes can be 
+studied by systematically varying what participants are prescribed to produce. In the 
+Tweet2quit intervention, researchers can examine effects of requesting that participants write 
+one tweet per week versus one tweet per day. Factorial design can be used to simultaneously 
+manipulate both intervention and participant action dose. For example, a currently ongoing 
+study by Bennett and colleagues ( Bennett, 2018 ) is varying whether individuals are sent 
+texts once per week or daily; this is a test of the intervention action prescription dose. In the 
+same study, they are also randomizing individuals to different prescribed frequency of 
+response; this is a test of participation action prescription dose. For interventions with 
+tailored doses, researchers can utilize experimental studies to determine the most effective 
+tailoring schema. For example, researchers can systematically vary different tailoring 
+schemes and ranges of intended dose. In addition to these experimental methods, researchers 
+can use non-randomized approaches to evaluate dose-response for intended intervention 
+action and participant action prescriptions (see V oils et al., 2012 , 2014 ).
+Dose can also be categorized and studied based on the specific behavior change techniques 
+used ( Tate et al., 2016 ). In the Track intervention, for example, dose can be described 
+separately for self-monitoring technique and feedback on self-monitoring. Many digital 
+health intervention modalities lend themselves to this fine-grained analysis and thus provide 
+an opportunity for further probing of mechanisms of change.
+Enacted Dose
+Unlike manipulating intended dose, researchers cannot directly manipulate enacted dose 
+because the enacting is at the discretion of the participant. Thus, research on the relation McVay et al. Page 8
+Health Psychol . Author manuscript; available in PMC 2020 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+between enacted dose and response is necessarily observational and subject to limitations in 
+identifying causal relationships.
+The difficulty of determining the relationship between enacted dose and outcomes has a 
+parallel in the field of clinical pharmacology. In clinical pharmacology, investigators are 
+interested in understanding how specific blood concentrations of a drug (vs. the amount of 
+drug ingested or administered) influence clinical outcomes. This is challenging, however, 
+because individual differences in metabolism of the same delivered drug dose can result in 
+different blood concentrations, biasing estimates of the blood concentration-outcomes 
+relationship. A parallel in digital health interventions is that the same intended dose can 
+result in different enacted dose due to individual differences, biasing estimates of the enacted 
+dose-outcome relationship. In clinical pharmacology, this challenge has been addressed via 
+concentration-controlled trials ( Sanathanan & Peck, 1991 ), in which participants are 
+randomized to a specified blood concentration of a drug, their blood concentration levels are 
+continuously monitored, and the delivered dose is adjusted to achieve the assigned blood 
+concentration. A parallel design in digital health behavioral interventions might involve 
+randomizing participants to a targeted enacted dose, continuously monitoring their achieved 
+enacted dose, and delivering more dose as needed to obtain the assigned enacted dose. For 
+example, consider a study aiming to compare daily versus weekly viewing (i.e., enacted 
+dose) of smoking cessation motivational messages that are delivered by participants clicking 
+on a web link embedded in text messages. A concentration-controlled design might involve 
+monitoring participants’ opening of the web link and sending additional text messages in 
+order to obtain the assigned amount of enacted dose. Such an approach is consistent with an 
+adaptive design, in which participants may receive different intervention elements as a 
+function of their initial response to an intervention. A potential challenge with this approach 
+is that participants who are not initially engaging may not be responsive to efforts to increase 
+engagement. Additionally, for this approach to work there must be an accurate indicator of 
+enacted dose that can be continuously monitored.
+Researchers can also study enacted dose by manipulating intervention features that are 
+hypothesized to effect enacted dose. For example, researchers may hypothesize that 
+participants will be more likely to read a text and respond to a text (i.e., have a greater 
+enacted dose) if it is delivered at certain times of day. To test this, the researchers can 
+randomize participants to be sent texts at different times of day and examine effects on 
+enacted dose and clinical outcomes of interest.
+One notable intervention characteristic that may affect enacted dose is the intended dose of 
+the intervention ( V oils et al., 2014 ). Intended dose may affect enacted dose by setting 
+expectation of participants’ actions and by providing an upper limit on the dose (i.e., highest 
+possible amount of content in which they can engage). Further, an intended dose that is very 
+low may lead to a lack of engagement in the intervention, thus leading to less enacted dose. 
+Alternatively, an intended dose may be high enough that it is viewed as burdensome or 
+annoying, leading to withdrawal and a lower enacted dose, or lack of willingness to initiate 
+the intervention in the first place ( V oils et al., 2014 ; see further discussion below). Thus, 
+researchers manipulating intended dose in an experimental design should examine the effect McVay et al. Page 9
+Health Psychol . Author manuscript; available in PMC 2020 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+on enacted dose to help guide interpretations of outcomes and refine intervention dose for 
+future studies.
+The concepts of enacted dose and intervention engagement  are closely related. While 
+intervention engagement in digital health has been defined in many ways, a recent literature 
+review developed an integrative definition of engagement that proposes two elements: extent 
+of usage of an intervention, and subjective experience characterized by “attention, interest, 
+and affect.” ( Perski, Blandford, West, & Michie, 2017 ). Enacted dose as presented here has 
+complete conceptual overlap with the usage component of engagement but does not overlap 
+with the subjective experience portion. Researchers focusing on the usage components of 
+engagement may consider applying the concepts outlined herein by distinguishing between 
+engagement with the intervention action prescription and participant action prescription.
+Intervention Burden and Adverse Events
+Adverse events, unanticipated problems, and intervention burden are integral to consider 
+when designing an intervention. An adverse event is an “untoward or unfavorable medical 
+occurrence,” physical or psychological, attributed to an intervention ( Unanticipated 
+Problems Involving Risks & Adverse Events Guidance, 2007 ). Intervention burden is a 
+subjective experience of the participant in which the intervention requirements are greater 
+than the participants’ resources at a point in time ( Nahum-Shani et al., 2016 .). Burden and 
+adverse events can be influenced by characteristics of the individual (e.g., monetary 
+resources, motivation), the environment, and the intervention. Notably, intervention-related 
+burden and risk of adverse events may differ for in-person compared to digital health 
+interventions. For example, an in-person intervention may be perceived as burdensome if it 
+requires a long drive to an intervention site. A digital health intervention may be perceived 
+as burdensome if it interrupts participants’ daily activities with intrusive notifications 
+(Dennison, Morrison, Conway, & Yardley, 2013 ). Intervention burden and adverse events are 
+undesirable on their own accord and may make an intervention less effective, such as by 
+leading to intervention disengagement. Potentially, burden and adverse events can be 
+influenced by the intended dose of all three types of intervention prescriptions (intervention 
+action, participant action, and behavioral target). Researchers can systematically measure 
+how intended dose affects experience of burden and enacted dose, and if burden mediates 
+relationships between intended dose and outcomes.
+Overcoming Challenges in the Empirical Study of Dose-Response 
+Relationships.
+Combining Dose Prescriptions across Modalities.
+Many digital health interventions use multiple modalities. For example, Track uses both text 
+messages and counseling calls, while Tweet2quit sends text messages and tweets. When 
+studying the dose of these interventions, should these modalities be combined to make a 
+complete dose or should the dose of each be separately described? The answer should 
+depend on the purpose of the research study. On some occasions, researchers may wish to 
+study the dose of specific modalities separately. In other cases, the total dose of an McVay et al. Page 10
+Health Psychol . Author manuscript; available in PMC 2020 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+intervention across modalities may be of interest, for example, if the goal is to compare an 
+overall low dose and high dose.
+Describing Dose When Intervention and Participant Action Prescriptions Occur in 
+Interdependent Bursts.
+As previously noted, some interventions include components for which the intervention 
+actions and participant actions are interdependent and occur in rapid succession, such as 
+with a series of text messages from the intervention and participant, or conversations in a 
+virtual world (or real world) that typically involve inter-dependent exchanges of participant 
+and intervention actions. When conducting experimental studies, it may not be possible or 
+desired to control the total number of exchanges in these interactions. Instead, researchers 
+might focus on manipulating the frequency with which new bursts of communication are 
+started. For example, if researchers send text messages offering to engage in back-and-forth 
+dialogue to help with problem solving, they may be interested in varying if that initial text is 
+sent daily or three times a week (and ignoring the number of contacts within that burst of 
+communication). If studying enacted dose in these types of exchanges, however, researchers 
+may consider more fine-grained relationships.
+Conclusions
+Most research in dose-response relationship has focused on in-person modalities. As a 
+result, little is known about the optimal doses for digital health interventions. Further, 
+current treatment guidelines suggest doses based on research from in-person interventions, 
+which may not be appropriate for digital health interventions. Further discussion about dose 
+in digital health interventions and more dose-response research is warranted to optimize the 
+impact of digital health interventions.
+Acknowledgments
+This work was supported by a career development award to Dr. McVay (K23 HL127334) from the National Heart, 
+Lung, and Blood Institute, and a Research Career Scientist award to Dr. V oils (RCS 14–443) from Veteran’s Affairs 
+Health Services Research & Development. The views expressed in this article are those of the authors and do not 
+necessarily reflect the position or policy of the Department of Veterans Affairs. Funding agencies did not review or 
+approve of the manuscript.
+References
+Bellg AJ, Borrelli B, Resnick B, Hecht J, Minicucci DS, Ory M, … Treatment Fidelity Workgroup of 
+the NIH Behavior Change Consortium. (2004). Enhancing treatment fidelity in health behavior 
+change studies: best practices and recommendations from the NIH Behavior Change Consortium. 
+Health Psychology, 23(5), 443–451. 10.1037/0278-6133.23.5.443 [PubMed: 15367063] 
+Bennett GG, (2018). Charge: A text messaging-based weight loss intervention clinical trial registry. 
+Retrieved from https://clinicaltrials.gov/ct2/show/NCT03254940 .
+Bennett GG, Steinberg D, Askew S, Levine E, Foley P, Batch BC, … & DeVries A (2018). 
+Effectiveness of an app and provider counseling for obesity treatment in primary care. American 
+journal of preventive medicine, 55(6), 777–786. 10.1016/j.amepre.2018.07.005 [PubMed: 
+30361140] 
+Czajkowski SM, Powell LH, Adler N, Naar-King S, Reynolds KD, Hunter CM, … Charlson ME 
+(2015). From ideas to efficacy: The ORBIT model for developing behavioral treatments for chronic 
+diseases. Health Psychology, 34(10), 971–982. 10.1037/hea0000161 [PubMed: 25642841] McVay et al. Page 11
+Health Psychol . Author manuscript; available in PMC 2020 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Dennison L, Morrison L, Conway G, & Yardley L (2013). Opportunities and challenges for 
+smartphone applications in supporting health behavior change: qualitative study. Journal of Medical 
+Internet Research, 15(4), e86 10.2196/jmir.2583 [PubMed: 23598614] 
+Hasbrouck J, & Tindal G (2005). Oral reading fluency: 90 years of measurement. Behavioral Research 
+and Teaching Technical Report, 33.
+Hekler EB, Rivera DE, Martin CA, Phatak SS, Freigoun MT, Korinek E, … Buman MP (2018). 
+Tutorial for using control systems engineering to optimize adaptive mobile health interventions. 
+Journal of Medical Internet Research, 20(6), e214 10.2196/jmir.8622 [PubMed: 29954725] 
+Klasnja P & Pratt W (2012). Healthcare in the pocket: Mapping the space of mobile-phone health 
+interventions. Journal of Biomedical Informatics, 45(1), 184–198. 10.1016/j.jbi.2011.08.017 
+[PubMed: 21925288] 
+Klasnja P, Smith S, Seewald NJ, Lee A, Hall K, Luers B, … & Murphy SA (2018). Efficacy of 
+contextually tailored suggestions for physical activity: a micro-randomized optimization trial of 
+HeartSteps. Annals of Behavioral Medicine, 53(6), 573–582. 10.1093/abm/kay067
+Lin JS, O’Connor EA, Evans CV , Senger CA, Rowland MG, & Groom HC (2014). Behavioral 
+Counseling to Promote a Healthy Lifestyle for Cardiovascular Disease Prevention in Persons With 
+Cardiovascular Risk Factors: An Updated Systematic Evidence Review for the U.S. Preventive 
+Services Task Force. Rockville (MD): Agency for Healthcare Research and Quality (US) 
+Retrieved from http://www.ncbi.nlm.nih.gov/books/NBK241537/
+Manojlovich M & Sidani S (2008). Nurse dose: what’s in a concept? Research in Nursing & Health, 
+31(4), 310–319. 10.1002/nur.20265 [PubMed: 18231974] 
+Martín Cantera C, Puigdomènech E, Ballvé JL, Arias OL, Clemente L, Casas R, … Granollers S 
+(2015). Effectiveness of multicomponent interventions in primary healthcare settings to promote 
+continuous smoking cessation in adults: a systematic review. BMJ Open, 5(10). 10.1136/
+bmjopen-2015-008807
+Morrison LG, Hargood C, Pejovic V , Geraghty AW, Lloyd S, Goodman N, … & Yardley L (2017). The 
+effect of timing and frequency of push notifications on usage of a smartphone-based stress 
+management intervention: an exploratory trial. PloS one, 12(1), e0169162. [PubMed: 28046034] 
+Nahum-Shani I, Smith SN, Tewari A, Witkiewitz K, Collins LM, Spring B, & Murphy SA (2016). 
+Just-in-Time Adaptive Interventions (JITAIs): An Organizing Framework for Ongoing Health 
+Behavior Support. Methodology Center technical report, 2014, 14–126.
+Pechmann C, Delucchi K, Lakon CM, & Prochaska JJ (2017). Randomised controlled trial evaluation 
+of Tweet2Quit: a social network quit-smoking intervention. Tobacco Control, 26(2), 188–194. 
+10.1136/tobaccocontrol-2015-052768 [PubMed: 26928205] 
+Perski O, Blandford A, West R, & Michie S (2017). Conceptualising engagement with digital 
+behaviour change interventions: a systematic review using principles from critical interpretive 
+synthesis. Translational Behavioral Medicine, 7(2), 254–267. 10.1007/s13142-016-0453-1 
+[PubMed: 27966189] 
+Powers MB, Vedel E, & Emmelkamp PMG (2008). Behavioral couples therapy (BCT) for alcohol and 
+drug use disorders: A meta-analysis. Clinical Psychology Review, 28(6), 952–962. 10.1016/j.cpr.
+2008.02.002 [PubMed: 18374464] 
+Sanathanan LP & Peck CC (1991). The randomized concentration-controlled trial: an evaluation of its 
+sample size efficiency. Controlled Clinical Trials, 12(6), 780–794. [PubMed: 1665119] 
+Saunders RP, Evans MH & Joshi P (2005). Developing a process-evaluation plan for assessing health 
+promotion program implementation: a how-to guide. Health Promotion Practice, 6(2), 134–147. 
+10.1177/1524839904273387 [PubMed: 15855283] 
+Tate DF, Lytle LA, Sherwood NE, Haire-Joshu D, Matheson D, Moore SM, … Michie S (2016). 
+Deconstructing interventions: approaches to studying behavior change techniques across obesity 
+interventions. Translational Behavioral Medicine, 6(2), 236–243. 10.1007/s13142-015-0369-1 
+[PubMed: 27356994] 
+Unanticipated Problems Involving Risks & Adverse Events Guidance (2007). Retrieved from https://
+www.hhs.gov/ohrp/regulations-and-policy/guidance/reviewing-unanticipated-problems/
+index.html#Q2McVay et al. Page 12
+Health Psychol . Author manuscript; available in PMC 2020 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Vervloet M, van Dijk L, Santen-Reestman J, van Vlijmen B, van Wingerden P, Bouvy ML, & de 
+Bakker DH (2012). SMS reminders improve adherence to oral medication in type 2 diabetes 
+patients who are real time electronically monitored. International Journal of Medical Informatics, 
+81(9), 594–604. 10.1016/j.ijmedinf.2012.05.005 [PubMed: 22652012] 
+V oils CI, Chang Y , Crandell J, Leeman J, Sandelowski M, & Maciejewski ML (2012). Informing the 
+dosing of interventions in randomized trials. Contemporary Clinical Trials, 33(6), 1225–1230. 
+10.1016/j.cct.2012.07.011 [PubMed: 22841930] 
+V oils CI, King HA, Maciejewski ML, Allen KD, Yancy WS, & Shaffer JA (2014). Approaches for 
+informing optimal dose of behavioral interventions. Annals of Behavioral Medicine, 48(3), 392–
+401. 10.1007/s12160-014-9618-7 [PubMed: 24722964] McVay et al. Page 13
+Health Psychol . Author manuscript; available in PMC 2020 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Figure 1. 
+Relationship between intervention actions, participant actions, behavioral target actions, and 
+clinical outcomes.McVay et al. Page 14
+Health Psychol . Author manuscript; available in PMC 2020 December 01.
+Author Manuscript Author Manuscript Author Manuscript Author Manuscript
+Author Manuscript Author Manuscript Author Manuscript Author ManuscriptMcVay et al. Page 15
+Table 1
+Intended Dose and Enacted Dose for Intervention Action and Participant Actions.
+Intervention action Participant action
+Intended Dose Dose (duration, frequency, amount) of intervention 
+content prescribed for the participant to see, hear, and/or 
+read.Dose (duration, frequency, amount) of prescribed actions 
+(write, speak, photograph) for the participant to produce and 
+provide to the intervention.
+Enacted Dose Portion of content that the participant sees, hears, and/or 
+reads.Portion of prescribed actions that the participant produces and 
+provides to the intervention.
+Health Psychol . Author manuscript; available in PMC 2020 December 01.

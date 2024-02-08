@@ -1,0 +1,1033 @@
+RESEARCH Open Access
+Economic evaluation of a web-based menu
+planning intervention to improve childcare
+service adherence with dietary guidelines
+Penny Reeves1,2*, Kim Edmunds1,2, Zoe Szewczyk1,2, Alice Grady2,3,4, Sze Lin Yoong2,3,4, Luke Wolfenden2,3,4,
+Rebecca Wyse2, Meghan Finch1,2,3,4, Fiona Stacey3, John Wiggers2,3,4and Andrew Searles1,2
+Abstract
+Background: Despite the known benefits of healthy eating in childhood, few Australian childcare services provide
+food that is consistent with dietary guidelines. The effectiveness of a web-based menu planning intervention to
+increase childcare service provision of healthy foods and decrease provision of discretionary foods in long day-care
+services in Australia was assessed in a randomised controlled trial. Here we consider the costs, consequences, cost-
+effectiveness and budget impact of the intervention using data collected within the trial.
+Methods: The prospective trial-based economic evaluation involved 54 childcare services across New South Wales
+(NSW), Australia. Services were randomised to a 12-month intervention or usual care. The intervention involved
+access to a web-based menu planning and decision support tool and online resources. Effectiveness measures
+included mean number of food groups, overall menu and individual food group compliance with dietary
+guidelines, and mean servings of food groups at 12 months. Costs (reported in $AUD, 2017/18) were evaluated
+from both health sector and societal perspectives. The direct cost to support uptake of the intervention was
+calculated, as were costs to each childcare service. The incremental cost of the intervention was calculated as the
+net difference in the cost to undertake menu planning and review plus the direct cost of the intervention.
+Incremental cost-effectiveness ratios (ICERs) including uncertainty intervals were estimated for differences in costs
+and effects between intervention and control groups. A relative value index was calculated to determine overall
+value for money.
+Results: Over the 12 months of the trial, we calculated a difference in cost between usual practice and intervention
+groups of −$482 (95% UI −$859, −$56). While the measured increase in menu and food group compliance within
+the trial did not reach statistical significance, there were significant improvements in mean servings of fruit and
+discretionary food, represented in the cost-consequence analysis. The calculated relative value index of 1.1 suggests
+that the intervention returns acceptable value for money for the outcomes generated.
+(Continued on next page)
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ .
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.* Correspondence: Penny.reeves@hmri.org.au
+1Hunter Medical Research Institute (HMRI), New Lambton, New South Wales,
+Australia
+2School of Medicine and Public health, University of Newcastle, Callaghan,
+New South Wales 2308, Australia
+Full list of author information is available at the end of the article
+Reeves et al. Implementation Science            (2021) 16:1 
+https://doi.org/10.1186/s13012-020-01068-x
+(Continued from previous page)
+Conclusion: Compared to usual practice, web-based programmes may offer an efficient and sustainable alternative
+for childcare services to improve the provision of healthy foods to children in their care.
+Trial registration: Australian New Zealand Clinical Trials Registry ACTRN12616000974404
+Keywords: Cost-consequence, Economic evaluation, Dietary intervention, Childhood obesity prevention
+Background
+Obesity in early childhood, defined by the World Health
+Organisation (WHO) as 0 to 8 years of age [ 1], is associ-
+ated with a range of adverse social and health outcomes
+for children and the community. In 2016, the WHO esti-
+mated the number of overweight children under the age
+of five to be over 41 million [ 2]. Childhood obesity also
+represents a significant economic burden. In a recent re-
+view, Finkelstein and colleagues estimated the incremen-
+tal lifetime per capita medical cost of an obese child in
+the USA relative to a normal weight child to be $12,660
+to $19,630 (2012 USD) [ 3]. An Australian study esti-
+mated the direct healthcare costs of children with obes-
+ity aged 2 –4 years to be 1.62 (95% CI 1.12 –2.34, p=
+0.01) times those of healthy weight children [ 4,5]. The
+annual direct costs to the Australian healthcare system
+of early childhood obesity was calculated to be around
+$18 million ($2018 AUD) [ 4]. Two paediatric simulation
+studies in Germany [ 6,7] considered the economic im-
+pact of childhood overweight and obesity, estimating
+total lifetime costs of €1.8 billion (2010) for the current
+prevalent population.
+There are strong economic arguments for targeting
+early childhood obesity to reduce the economic and so-
+cial burden of obesity-related chronic disease across the
+lifespan. Dietary behaviour is a key driver of unhealthy
+weight gain in children [ 8]. Since dietary behaviours
+from early childhood are known to track into adulthoodContributions to the literature
+/C15Research has shown that there is very limited health
+economic evaluation applied to public health
+implementation-interventions, potentially resulting in under-
+investment in health promoting programmes.
+/C15We found there is value to both decision makers and
+researchers in measuring and valuing costs even when trial
+outcome results are modest.
+/C15These findings contribute to recognised gaps in the
+literature, including the measurement of the opportunity
+cost of implementation-interventions and the value of eco-
+nomic evidence to support decision-making in health.[9,10], it is recommended that population health initia-
+tives target improvement in the healthy eating behav-
+iours of young children to prevent the onset of obesity
+[2].
+On average across Organisation for Economic Co-
+operation and Development (OECD) countries, around
+33% of children aged 0 –2 are enrolled in early childhood
+education and care services. For children aged 3 –5 years,
+the enrolment rates are generally higher. In the majority
+of OECD countries, over 80% of children aged 3 –5 are
+enrolled in early childhood education and care or pri-
+mary school, with an average enrolment rate of 86.3%
+[11]. In Australia, approximately 61% of Australian chil-
+dren aged 0 –5 years attend a service-based form of early
+childhood education and care [ 12]. These data suggest
+that childcare services are an appropriate setting for in-
+terventions designed to influence healthy eating behav-
+iours in childhood, given the access they have to large
+numbers of children aged under 5 years, coupled with
+children consuming a substantial proportion of their
+overall energy intake in these settings [ 13]. In Australia,
+the provision of food in early childhood services is regu-
+lated and should be provided consistent with national
+dietary guidelines. However, international and Australian
+research has found that amongst services that provide
+food, menu dietary guidelines are poorly implemented
+[14–16]. Improving the implementation of dietary guide-
+lines in childcare services represents a considerable chal-
+lenge. Previous trials testing implementation support
+strategies such as the provision of educational materials,
+face-to-face meetings and/or audit and feedback for
+childcare cooks have demonstrated variable improve-
+ments in guideline adherence [ 15,17–20]. In the context
+of resource constraints and escalating healthcare costs,
+interventions need not be merely effective. They also
+need to be cost-effective and affordable to allow policy
+makers to select value-based programmes to be dissemi-
+nated at scale. Previous interventions have been labour
+intensive involving significant face-to-face support and
+dietitian-led assessment of menu compliance [ 18,21–
+23]. For this reason, web-based interventions are likely
+to deliver greater value, if proven effective.
+Recent systematic reviews have shown that economic
+evaluation is rarely applied to public health
+implementation-interventions, and the generation ofReeves et al. Implementation Science            (2021) 16:1 Page 2 of 12
+economic evidence has been identified as a priority for
+the field of implementation research [ 13,24,25]. Invest-
+ment in implementation has an opportunity cost. That
+is, the resources could be put to another use, the value
+of which is given up. To ensure the efficient and equit-
+able allocation of resources, as well as affordability, it is
+important to include measures of cost, alongside analysis
+of intervention consequences [ 26]. Cost-consequence
+analysis (CCA) has been recommended for complex
+public health interventions, such as implementation in-
+terventions, which are difficult to measure in a common
+outcome unit [ 26,27]. CCA is differentiated from cost-
+benefit analysis or cost-utility analysis in that it does not
+attempt to summarise outcomes in financial terms or in
+a single metric such as the quality-adjusted life year
+(quality-adjusted life year). Rather, outcomes are shown
+in their natural units, and decision makers can deter-
+mine for themselves whether the intervention is worth
+the investment [ 28]. The disadvantage is that without a
+clear decision rule, value determination is subjective and
+may lack transparency. Cost-effectiveness analyses
+(CEA) compare costs with natural units such as life
+years, number of foods served or number of cases
+averted, to provide an estimate of economic efficiency
+[29]. Providing these data enables comparison between
+interventions and allows decision makers to select strat-
+egies that will have the greatest impact given available
+resources [ 29]. To address gaps in the economic evi-
+dence, an economic evaluation was conducted alongside
+a randomised controlled trial of a web-based interven-
+tion to improve childcare service implementation of
+dietary guidelines. The economic evaluation was con-
+ducted with the dual aim of providing a valuation of the
+investment required to execute implementation-
+interventions in community settings and also to generate
+economic evidence analysis to permit a determination of
+value for money and inform the cost to scale-up the
+intervention. Both health sector and a modified societal
+perspective are presented as reference case analyses as
+recommended by the Second Panel on Cost-
+effectiveness in Health and Medicine [ 30].
+Methods
+Trial design, setting and sample
+The study was a single-blinded parallel group rando-
+mised controlled trial undertaken with childcare services
+within New South Wales (NSW), Australia. Details of
+the trial protocol have been published elsewhere [ 31]. In
+summary, the sample of 54 services was drawn from a
+pool of 252 long day care services in NSW that both
+provided food to children in care and were current cli-
+ents of a single specific childcare management software
+(CCMS) provider. The intervention involved access to a
+web-based menu planning and decision-support tool.Eligible services had to meet the following require-
+ments: (i) be open for ≥8 h each weekday; (ii) prepare
+and provide at least one main meal and two snacks to
+children onsite each weekday; (iii) have autonomy to
+make menu planning decisions within the service and;
+(iv) have a staff member responsible for menu planning
+(menu planners) with sufficient English to engage with
+the intervention. Excluded services were those that out-
+sourced menu planning, did not cater for children aged
+3–6 years, catered exclusively for special needs children,
+or were run by the NSW Department of Education and
+Communities. Twenty-seven services were randomised
+to intervention and 27 services to the control group.
+The trial was prospectively registered with the Austra-
+lian New Zealand Clinical Trials Registry (ACTR
+N12616000974404) and approved by the Hunter New
+England (approval no: 16/02/17/4.05) and the University
+of Newcastle (approval H-2016-0111) Human Research
+Ethics Committees.
+Economic study
+A prospective, trial-based economic evaluation of the
+intervention versus usual practice was conducted from
+both health care sector and modified societal perspec-
+tives over a 1-year time horizon, consistent with the
+length of the trial (12 months). All costs were calculated
+and reported in $AUD, 2017/18. The modified societal
+perspective was constrained to those who would be im-
+pacted financially by the intervention, health care pro-
+viders and childcare services.
+Usual practice (control)
+Relevant international, national and state guidelines rec-
+ommend that childcare services implement evidence-
+based practices to improve the provision of healthy food
+[32–34]. Childcare services in Australia that provide
+food to children are required by national accreditation
+standards to serve foods consistent with the Australian
+Dietary Guidelines (ADG) [ 35]. In NSW, the Caring for
+Children [ 34] resource outlines best practice dietary
+guidelines for the childcare sector, which are consistent
+with the ADG. Assessment and compliance officers in
+NSW regulate service accreditation and use the Caring
+for Children guidelines to determine if services meet ac-
+creditation standards in relation to dietary guidelines for
+the sector. Services in NSW are also required by law to
+list all food served to children whilst in care on menus
+and to make these menus publicly available. In this con-
+text, usual practice for childcare services across NSW
+comprises support from a health promotion officer
+employed by the local health district to implement the
+NSW state-wide obesity prevention programme for early
+childhood, Munch and Move [ 36]. Support is typically
+provided upon request from the childcare service, viaReeves et al. Implementation Science            (2021) 16:1 Page 3 of 12
+telephone or face-to-face contact, with referral to sup-
+porting resources. For menu planning, support may also
+be in the form of a menu review and provision of feed-
+back on compliance with dietary guidelines. Childcare
+services that were randomly allocated to the control
+group did not receive access to the directed implementa-
+tion support strategies described below.
+Menu planning support (intervention)
+The 12-month intervention targeted menu planners and
+nominated supervisors within each childcare service.
+The intervention comprised access to a web-based menu
+planning tool, titled feedAustralia , online resources, on-
+line reminders and feedback, as well as training and sup-
+port for menu planners and nominated supervisors to
+use the programme. The intervention was informed by
+previous research where more traditional modes of im-
+plementation support, such as printed resources, were
+trialled with limited success and uncertain cost-
+effectiveness [ 15]. In this trial, greater effect, sustainabil-
+ity and cost-effectiveness were anticipated by using a
+technology platform and online resources. Details of the
+components in this intervention are detailed in the ori-
+ginal effectiveness study [ 31]. In brief, the intervention
+comprised of the following: a web-based menu planning
+programme with decision support including automated
+menu planning, audit and feedback; online resources
+and reminders; communication strategies and manager-
+ial support; training and support to use the programme
+and a portable computer tablet.
+Identification, measurement and valuation of trial
+outcomes
+The aim of the implementation intervention was to in-
+crease menu compliance with recommended dietary
+guidelines for childcare services in the state (Caring for
+Children resource [ 34]). These guidelines require ser-
+vices to provide daily serves for each of the following
+food groups: (1) vegetables and legumes/beans (two
+serves); (2) fruit (one serve); (3) whole grain cereals,
+foods and breads (two serves); (4) lean meat and poultry,
+fish, eggs, tofu, seeds and legumes (3/4 serve); (5) milk,
+yoghurt, cheese and alternatives (one serve); and (6) no
+‘discretionary ’foods that are high in energy and low in
+nutrients (zero serves). Compliance was defined as the
+provision of the recommended number of serves for that
+food group per child per day over a 1-week period.
+The primary trial outcome was defined as the mean
+number of food groups compliant with dietary guide-
+lines: Compliance of the menu with nutrition guidelines
+was assessed using best practice assessment methods,
+based on calculation of the serves of each food group
+provided per child, per day. The assessment was con-
+ducted by a blinded dietitian who randomly selected 1week of each services ’current menu cycle for detailed
+menu review. At baseline, 1 week for the current menu
+cycle was randomly selected during the recruitment
+phone call for those services that consented. For follow-
+up, 1 week for the current menu cycle was again ran-
+domly selected (approximately 12 months later). The
+dietitian obtained all recipes, quantities of food served
+and number of children attending each day to enable de-
+tailed calculation of serves of food groups. The mean
+number of compliant food groups per service (a score
+out of six) was compared between intervention and con-
+trol groups at 12 months follow-up.
+Secondary outcomes were:
+(i) Compliance with guidelines for all food groups: The
+proportion of services compliant for all of the six
+food groups was compared between the
+intervention and control group as assessed via 1-
+week menu review at baseline and 12 months
+follow-up.
+(ii) Individual food group compliance with dietary
+guidelines: The proportion of services compliant
+with dietary guidelines for each of the six individual
+food groups was compared between the
+intervention and control group as assessed via 1-
+week menu review at baseline and 12 months
+follow-up.
+(iii)Mean servings of individual food groups: The mean
+number of serves for each of the six food groups
+provided on the menu was compared between the
+intervention and control groups as assessed via 1-
+week menu review at baseline and 12 months
+follow-up.
+Identification, measurement and valuation of resource
+use
+Micro-costing was used to calculate the incremental
+costs of the intervention compared to usual practice.
+Specific cost components, assumptions and sources of
+unit costs are provided in Table 1. Resource use associ-
+ated with the execution of the intervention was pro-
+spectively collected using a customised cost data capture
+template, designed by health economists from the
+Hunter Medical Research Institute and compiled by the
+health promotion officers delivering the intervention.
+Categories of cost included labour, materials, joint costs
+where costs are shared across multiple programmes and
+miscellaneous. Resource use was tagged according to
+stakeholder expense (public health, childcare service,
+other).
+Resource use data associated with the labour time
+spent undertaking menu planning and reviewing was
+collected for both intervention and usual practice ser-
+vices at baseline and follow-up. These data wereReeves et al. Implementation Science            (2021) 16:1 Page 4 of 12
+collected using survey instruments employed in the trial
+and completed by nominated supervisors and menu
+planners within each of the childcare services via tele-
+phone. Baseline and follow-up surveys included ques-
+tions on how much money the services usually spent on
+buying food and drinks for children per month.Labour costs, including opportunity costs incurred
+during the intervention uptake by childcare service staff
+(cooks, educators, supervisors and directors), were cap-
+tured in the form of staff time (hours) and valued using
+the midpoint from relevant Australian wage rate ranges
+[38]. All other resource use categories were valued usingTable 1 Micro costing assumptions and sources of unit costs
+Cost component Trial setting
+Details and assumptions Source of unit costs
+Local health district costs
+Labour
+Face to face training Health service-funded dietitians and project officers
+employed to support childcare centres to be compliant
+with dietary guidelinesWage rates
+HSM level D midpoint of $42.50 per hour including 30% on-
+costsSupport phone calls,
+newsletter and
+emails
+Optional online
+training offered to
+cooks
+Materials
+Tablets to enable
+portable access to
+web-resourcesTablets: Samsung Galaxy tablets provided to intervention
+centresTablets: Exact cost from project records $308.44 average 2016/
+2017 cost
+Stationery —printed
+resourcesPrinting:
+2 colour pagesPrinting: Exact cost from project records $0.10/0.65 per page
+Officeworks
+B&W/colour 2 colour pages
+Blank service action
+plan (colour)17 colour pages
+Certificate of
+participation in
+training4 colour pages
+Nutrition training
+manual2 B&W pages
+Support Officer
+Action Plan examples21 colour pages
+Training evaluation
+questionnaire
+FeedAustralia User
+Guide (colour)
+Phone calls Follow-up phone calls (3 per service)
+Online training phone calls (additional to follow-up phone
+calls)Exact cost from project records $0.30 Telstra local rate
+Travel and expenses Meals, travel and accommodation costs Exact cost from project records
+Travel by car valued using the NSW Treasury ‘TC17-10 Meal,
+Travelling and Related Allowances ’monetary rates per
+kilometre travelled [ 37]
+Childcare centre costs
+Labour Self-reported time in hours collected via baseline and
+follow-up using telephone surveysFair Work Australia award wage rates per hour [ 31] (lower,
+midpoint, upper) adjusted to include 30% overheads
+Cook ($26.13, $28.65, $32.25)
+Educator ($30.56,$33.75, $34.26)
+Supervisor ($35.28, $35.80, $36.44)
+Director L1 ≤39 children ($40.69, $43.26, $44.71)
+Director L2 40-59 children ($41.20, $43.65, $45.21)
+Director L3 ≥60 children ($41.70, $44.19, $45.72)Cook
+Supervisor
+Educator
+DirectorReeves et al. Implementation Science            (2021) 16:1 Page 5 of 12
+market rates. All costs were reported in 2017/18 Austra-
+lian dollars ($AUD).
+Economic analysis
+The costing analysis was undertaken from both health
+sector and modified societal perspectives. All analyses
+were carried out using the Microsoft Excel software Of-
+fice 365. The direct health sector cost to support uptake
+of the web-based menu planning intervention was calcu-
+lated. Costs to the childcare services in each study arm
+to undertake menu planning and reviewing were also
+calculated. The incremental cost of the intervention was
+calculated as the net difference in the cost to undertake
+menu planning and review (essential elements to plan-
+ning healthier menus that meet guidelines) plus the dir-
+ect cost of the intervention.
+Owing to the complex set of outcomes included in
+the effectiveness study, the evaluation included both
+CCA and CEA. The cost-consequence analysis reports
+the incremental cost of executing the intervention
+alongside the primary and secondary outcomes by
+way of a score-card. Cost-effectiveness analysis was
+also conducted to assess the productive efficiency of
+the intervention compared to usual practice. However,
+the absence of an explicit willingness to pay threshold
+for trial-specific cost-e ffectiveness results can make
+interpretation of the incremental cost-effectiveness ra-
+tio (ICER) difficult. A recent method of generating a
+threshold to aid decision making was published by
+Hyewon and Levine [ 39]. In this method, the cost
+and outcomes associated with usual practice, com-
+bined in an average cost-effectiveness ratio (ACER),
+are assumed to represent an implicit willingness-to-
+pay threshold, having already been implemented by
+the health care system or society. A relative value
+index (RVI) is calculated by dividing the usual prac-
+tice ACER by the ICER calculated for the new inter-
+vention. The decision rule follows that if the RVI is
+greater than 1 the intervention is offering additional
+outcomes at an ‘acceptable ’cost and should be imple-
+mented. That is, the incremental cost per unit in-
+crease in compliance score with the web-based
+intervention is lower than the cost per level of com-
+pliance attainable with usual practice.
+Cost-utility analysis, an alternate method of economic
+evaluation where intervention effects are measured in
+terms of impact on length of life and impact on quality
+of life (utility) summarised as quality-adjusted life years
+(QALYs), was not selected in this study for the reason
+that the underlying trial was an implementation trial.
+This trial was appropriately focussed on the measure-
+ment of compliance as the implementation outcome, as
+opposed to final health outcomes.Handling of bias and missing data
+To avoid bias in the economic analysis [ 40], any baseline
+differences in cost between the groups were adjusted by
+calculating trimmed or truncated means. Similarly, it is
+important not to ignore missing data. Inappropriate
+handling of missing data can lead to misleading infer-
+ences in economic evaluations [ 41]. While cost-
+effectiveness analyses conducted alongside trials are an
+important source of information for decision makers, tri-
+als rarely succeed in collecting all the required informa-
+tion [ 42]. Guidance for handling missing data in trial-
+based cost-effectiveness analyses and for treating missing
+cost data specifically recommends multiple imputation
+[43–45]. In this evaluation, the treatment of missing data
+was handled using a combination of methods: multiple
+imputation using linear regression models and quantile
+modelling.
+Uncertainty and sensitivity analyses
+To account for uncertainty due to sampling variation,
+nonparametric bootstrapping analysis with 2000 itera-
+tions was used. The bootstrapped ICERs were graphic-
+ally mapped on a cost-effectiveness plane and used to
+derive a cost-effectiveness acceptability curve (CEAC) in-
+dicating the probability of the intervention being cost-
+effective at various levels of society ’s willingness to pay
+per unit change in outcome [ 26]. The willingness to pay
+threshold was informed by the ACER calculated for
+usual practice [ 46].
+Sensitivity analysis is used to illustrate and assess the
+level of confidence that may be associated with the con-
+clusion of an economic evaluation [ 47]. In this study, we
+undertook several one-way sensitivity analyses. First, on
+the basis that labour time in menu planning and review
+was the largest driver of cost, we examined the robust-
+ness of results to changes in the value of the wage rates
+for childcare service staff involved in menu planning and
+review. In the base case analysis, the midpoint of rate
+ranges were used. In the sensitivity analysis, the upper
+and lower rates were used [ 38]. In the second sensitivity
+test, we conducted complete case analysis, including
+only those variables with no missing data for both inter-
+vention and usual practice services. Third, we adjusted
+for missing data making the less conservative assump-
+tion that the proportional change in childcare service
+cost for the known observations would apply to the
+missing data for both intervention and usual practice
+services.
+Results
+The impact of the intervention on the specified trial out-
+comes are presented in detail elsewhere [ 37]. Compared
+to usual practice services, intervention services achieved
+a non-significant increase in the primary outcome; theReeves et al. Implementation Science            (2021) 16:1 Page 6 of 12
+mean number of food groups on the menu that were
+compliant with dietary guidelines (relative effect size
+0.26; 95% CI −0.61 to 1.14; p= 0.55).
+Secondary outcomes were as follows: No service in ei-
+ther the intervention or usual practice arms were com-
+pliant with all six of the food groups at baseline, and
+none of the services in either group achieved compliance
+at 12 months follow-up. There were no significant differ-
+ences in compliance between groups for any of the six
+individual food groups at 12 months: vegetables (OR
+0.37; 95% CI 0.01 –10.82; p= 0.56), fruit (OR 2.46; 95%
+CI 0.41 –14.58; p= 0.32), cereals (OR 1.21; 95% CI 0.2 –
+7.51; p= 0.83), meat (OR 1.7; 95% CI 0.14 –20.56; p=
+0.68), dairy (OR 0.97; 95% CI 0.18 –5.18; p= 0.97) and
+discretionary foods (OR 0.99; 95% CI 0.06 –17.29; p=
+0.99). Significant increases were achieved in the mean
+servings of fruit (ES 0.21; 95% CI 0.02 –0.4; p= 0.03) and
+a significant reduction in the mean number of times per
+week that discretionary foods were provided (ES −0.33;
+95% CI −0.54 to −0.11; p= 0.003).
+The mean direct cost of implementing the intervention
+was calculated to be $1013 (95% UI $978, $1051) per
+service including labour time and materials (from the
+local health service perspective).
+At baseline, intervention services were calculated to
+spend a mean cost of $7094 per year on activity related
+to menu planning and review, compared to an adjusted
+trimmed mean of $8606 for usual practice services.
+The proportion of missing 12-month follow-up data
+pertaining to the self-reported costs of menu planning
+and reviewing was 37%. These data were missing due to
+differences between the baseline and follow-up surveys.
+There was also a poor response rate (40%) by services
+providing data on food and drink expenditure. These
+data were requested to be able to assess if the interven-
+tion had any direct financial consequences. The data that
+was provided showed variation in the baseline amount
+spent on food and drink per child (mean $2.56, range
+$0.8 –$5.00). From the follow-up data provided, it was
+not possible to determine if the intervention had re-
+sulted in changes to food and drink expenditure.
+Compared to usual practice services, intervention ser-
+vices spent less labour time on menu planning and
+reviewing both prior to the commencement of the study
+and at 12 months follow-up (Table 2).The linear regression modelling included a variety of
+alternate models reflecting (a) no adjustments, (b) ad-
+justments using trimmed annual costs for baseline dif-
+ferences and (c) imputation of missing values with
+percentage difference from non-missing outcomes (but
+no trimming). We also used quantile regression to
+examine follow-up yearly costs allowing for a conditional
+distribution. Quantile regression is a regression model in
+which a specified conditional quantile of the outcome
+(follow-up yearly costs) is expressed as a linear or non-
+linear function of the covariates in the model. The
+model was estimated at the 0.10, 0.25, 0.50, 0.75 and
+0.90 quantiles. Wald tests were implemented to test re-
+sults of heteroskedasticity for each covariate across each
+quantile.
+At 12 months follow-up, these costs were calculated to
+be $4634 for intervention services and $7640 for usual
+practice services. The mean difference in total cost
+(intervention plus menu planning and review invest-
+ment) was −$482 (95% UI −859, −$56). That is, the
+average cost per intervention service would be $482 less
+per year than for usual practice services.
+Cost-consequence analysis (CCA)
+The results of the cost-consequence analysis are dis-
+played in Table 3. Costs associated with the intervention
+and usual practice are presented as mean costs with 75%
+uncertainty intervals derived from the bootstrapped
+samples. As outlined above, costs were calculated using
+a bottom-up approach. Consequences were included
+that represent the primary and secondary study out-
+comes: mean compliance score, individual food group
+compliance and mean servings of individual food groups.
+Mean outcomes are presented alongside the boot-
+strapped generated uncertainty intervals.
+Cost-effectiveness analysis
+While the intervention achieved improvements in ser-
+vice menus, the primary outcome of a statistically signifi-
+cant increase in overall compliance of menus with
+implementation of dietary guidelines was not met. For
+this reason, the cost-effectiveness analysis included cal-
+culation of incremental cost-effectiveness ratios for both
+the primary outcome and for those secondary outcomes
+showing significant improvements in the mean number
+Table 2 Resource utilisation and cost by study group
+Usual practice mean, 95% UI Intervention mean, 95% UI
+Intervention delivery cost $0 $1013 ($927, $1096)
+Childcare centre labour cost of menu planning and reviewing (Baseline) $8606a$7094
+Childcare centre labour cost of menu planning and reviewing (Follow-up) $7640 $4634
+Incremental difference (95% UI) −$482 ( −$1008, −$57)
+aTrimmed meanReeves et al. Implementation Science            (2021) 16:1 Page 7 of 12
+of servings of individual food groups (fruit and discre-
+tionary food).
+The calculation of a cost saving associated with the
+intervention coupled with positive effect sizes for the
+outcomes listed above resulted in dominant ICERs. That
+is, the intervention is both less costly and more effective
+than usual practice.
+Using the sample data from the usual practice group,
+the average cost-effectiveness ratio (ACER) for usual
+practice was calculated to be −$2897. As described
+above, this ratio constitutes an implicit benchmark
+threshold and reflects the opportunity cost to implement
+the intervention [ 46]. In this analysis, the RVI was calcu-
+lated to be 1.11 and should be interpreted to mean that
+the intervention offers greater outcomes at an ‘accept-
+able ’cost and should be implemented.
+Uncertainty and sensitivity analysis
+The joint distribution of the incremental costs and com-
+pliance effects for the primary outcome measure is
+shown in Fig. 1.Fifty-four percent of the bootstrap replicates were lo-
+cated in quadrant I (intervention dominant with less cost
+and improved compliance), and 78% of the replicates
+were located across quadrants I and IV (less costly). The
+result uncertainty characterised by the distribution of
+the bootstrap replicates reflects variability both in out-
+come and cost. Such variability is unsurprising given the
+study was conducted in a diverse population of
+community-based childcare services.
+Three specific one-way sensitivity analyses were con-
+ducted. The results are shown in Fig. 2. First, we exam-
+ined the robustness of results to using alternative
+(higher and lower) wage rates for childcare service staff
+involved in menu planning and review. Using the pub-
+lished wage ranges for these roles resulted in a 7% de-
+crease/increase in the childcare service costs at baseline
+and follow-up. Second, we examined the effect of per-
+forming a complete case analysis where all observations
+with missing data were removed. This resulted in a posi-
+tive net difference in childcare service cost between
+intervention and usual practice services. Third, we
+adopted a less conservative approach andTable 3 Summary of costs and consequences
+Usual practice mean, 95% UI Intervention mean, 95% UI Difference mean, 95% UI
+Costs
+Intervention cost $0 ($0, $0) $1013 ($927, $1096) $1013 ($927, $1096)
+Childcare centre cost of menu planning and review −$966 ( −$1339, −$564) −$2460 ( −$3320, −$1653) −$1494 ( −$2755, −$313)
+Total cost −$482 ( −$1008, −$57)
+Consequences
+Primary outcome result: non-significant increase in the mean number of food groups that were compliant with guidelines
+Compliance scores 0.33 (-0.22, 0.93) 0.52 (-0.074, 1.22) 0.19 (0.15, 0.30)
+Secondary outcome results:
+(1) Non-significant increases in compliance for food groups: fruit, dairy and alternatives and discretionary
+Individual food group compliance scores
+Fruit 0 ( −0.26, 0.26) 0.15 (0, 0.32) 0.15 (0.04, 0.22)
+Vegetables 0.15 (0, 0.30) 0.04 ( −0.07, 0.19) −0.11 (−0.15,−0.07)
+Cereals and breads −0.07 (−0.26, 0.15) −0.07 (−0.30, 0.15) 0 ( −0.04, 0.04)
+Meat and alternatives 0.15 ( −0.11, 0.41) 0.15 ( −0.07, 0.41) 0 ( −0.04, 0.04)
+Dairy and alternatives 0.04 ( −0.07, 0.19) 0.11 ( −0.04, 0.26) 0.07 (0.04, 0.11)
+Discretionary 0.07 ( −0.07, 0.22) 0.15 (0, 0.33) 0.07 (0.04, 0.11)
+(2) Significant improvements in mean servings for fruit and discretionary food groups and non-significant changes in mean servings for vegetables,
+cereals and breads and meat and alternatives
+Individual food group mean number of servings:
+Fruit −0.01 (−0.37, 0.35) 0.28 ( −0.06, 0.62) 0.29 (0.27,0.31)
+Vegetables −0.08 (−0.73, 0.54) 0.7 (0.19, 1.24) 0.77 (0.67, 0.92)
+Cereals and breads −0.20 (−0.91, 0.53) 0.14 ( −0.37, 0.66) 0.34, (0.09, 0.54)
+Meat and alternatives −0.17 (−0.44, 0.07) 0.21 (0.06, 0.39) 0.38 (0.32, 0.49)
+Dairy and alternatives −0.21 (−0.53, 0.07) −0.30 (−0.68, 0.02) −0.09 (−0.15,−0.05)
+Discretionary 0 ( −0.48, 0.48) −0.48 (−0.78,−0.22) −0.48 (−0.70,−0.30)Reeves et al. Implementation Science            (2021) 16:1 Page 8 of 12
+accommodated missing data by adjusting the last obser-
+vation carried forward cost variables by the proportional
+change observed in the observable follow-up cost vari-
+ables. This resulted in the largest cost saving estimate
+between intervention and usual practice services of
+$913.
+Discussion
+There is dearth of economic evaluations of approaches
+to improve and sustain the implementation of public
+health interventions across a range of settings [ 24]. Spe-
+cifically, there are no comparable economic evaluations
+of implementation-interventions in this setting focussed
+on childhood obesity. More broadly, there are published
+economic evaluations of early childhood obesity preven-
+tion interventions conducted in other countries [ 48–50],
+and these studies are typically inconclusive in their as-
+sessment of cost-effectiveness given uncertainty in mea-
+sures of effect.This study is one of few economic evaluations in the
+field of implementation science applied to preventive
+health. For policy makers and practitioners interested in
+implementation strategies to improve and sustain nutri-
+tion in childhood and reduce the risk of obesity amongst
+children in early childhood, this study addresses an evi-
+dence gap and provides information relevant to decision
+making. While there is uncertainty in the effectiveness
+of the intervention in increasing the overall compliance
+of menus with implementation of dietary guidelines in
+childcare services, significant improvements in the mean
+servings of individual healthy food groups were found.
+Effect size uncertainty notwithstanding, economic evalu-
+ations should still be conducted because one interven-
+tion may be comparatively cost-reducing, as appears to
+be the case in this study.
+Further, the costing analysis conducted within the eco-
+nomic evaluation is vital to inform the future costs to
+sustain and scale the intervention. Funding stability,Fig. 1 Bootstrapped results on the cost-effectiveness plane for compliance score outcome. Q1: Intervention dominates —more effective and less
+costly; QII: ICER —more effective with higher costs; QIII: Intervention is dominated —less effective and more costly; QIV: ICER —less effective with
+less costReeves et al. Implementation Science            (2021) 16:1 Page 9 of 12
+establishing a consistent financial programme base, has
+been reported to be a critical factor in ensuring sustain-
+ability [ 51]. In this study, the approach to identifying,
+measuring and valuing resource use across the stake-
+holders allows funding stability to be assessed. A clear
+strength of the analysis is the prospective nature of the
+economic evaluation conducted within the RCT study
+design. This allowed for the resource use data to be
+more accurately captured from each of the invested
+stakeholders at both the baseline and follow-up points in
+the study. Appropriately for trials of implementation-
+interventions, the analysis was restricted to intermediate
+outcomes relevant to improving guideline compliance
+[52]. Overall, the results of this study suggest that it is
+possible for implementation strategies to deliver eco-
+nomic value even when the intervention outcomes are
+modest. These results advance economic evaluation of
+obesity prevention through increasing the efficiency of
+existing evidence-based policy. However, a number of
+limitations should also be recognised. First, while the ap-
+plication of CCA to implementation strategies may be
+appropriate given the range of outcomes in the trial,
+CCA does not provide a clear decision metric, and with-
+out an explicit acknowledgement by decision makers re-
+garding their willingness to pay for increased
+compliance, or value propositions based on cost-
+consequence score cards, interpretation of the calculated
+incremental cost-effectiveness ratio (ICER) is hampered.
+In this analysis, additional evidence to inform and aid
+decision making was provided by calculation of the rela-
+tive value index presented in conjunction with the cost-consequence analysis. Second, the data collection regard-
+ing childcare service labour time spent conducting menu
+planning and review relied on self-reports from the ser-
+vices. Despite randomisation, there was a difference be-
+tween study arms in the childcare service costs at
+baseline. The difference was attributed to one outlier in
+the usual practice group who reported costs that were
+four standard deviations from the mean and two outliers
+who reported costs that were two standard deviations
+from the mean. Since the data were self-reported, it is
+unclear if these were true differences in time spent con-
+ducting menu planning and reviews or if there were er-
+rors in reporting. In the analysis, the skewness was
+accounted for using a trimmed mean to mitigate the ef-
+fects of the outliers.
+Second, as described in the ‘Methods ’section, meas-
+urement of the primary and secondary outcomes was
+constrained to a single week at baseline and a single
+week at follow-up, selected at random. While compli-
+ance was assessed using best practice assessment
+methods, it is an assumption that the observations made
+during the single, short time points are representative.
+Finally, the economic evaluation was not able to ad-
+equately measure any financial consequences such as
+changes in the acquisition cost of food and drink. Both
+baseline and follow-up questions were asked of childcare
+services regarding food budgets, but the data returned
+was of insufficient quality to be included in the analysis.
+Given the lack of economic evidence and uncertainty
+in the little evidence that does exist, there is an argu-
+ment for the application of value of information analysis
+Fig. 2 Sensitivity analysis results —difference from base case in mean incremental cost per childcare centreReeves et al. Implementation Science            (2021) 16:1 Page 10 of 12
+and value of implementation analysis in addition to
+applied economic evaluation. Value of information
+analysis provides a monetary value for the potential
+benefits of research that can be compared with the
+costs to determine if furt her research is worthwhile
+[53,54]. Value of implementation analysis is a means
+of identifying the potential value of investing in im-
+plementation policies [ 55]. Taking the results from
+this economic analysis, the combination of approaches
+would inform decision making in two ways. First, it
+would support the decision to invest in implementa-
+tion or not and second could be used to determine if
+further implementation trials are warranted [ 53].
+Conclusion
+Robust economic evaluation evidence should form basis
+of decision making in health. In this study, the trial-
+based economic evaluation showed that, compared to
+usual practice, web-based programmes may offer an effi-
+cient and sustainable alternative for childcare services to
+improve the provision of healthy foods to children in
+their care.
+Abbreviations
+ACER: Average cost-effectiveness ratio; AUD: Australian dollars; CCA: Cost-
+consequence analysis; CCMS: Childcare management software; CEA: Cost-
+effectiveness analysis; CEAC: Cost-effectiveness acceptability curves;
+CI: Confidence interval; ICER: Incremental cost-effectiveness ratio; LOCF: Last
+observation carried forward; NSW: New South Wales; RCT: Randomised
+controlled trial; RVI: Relative value index; UI: Uncertainty interval
+Acknowledgements
+The authors wish to thank participating childcare services, parents and
+children, the expert advisory group, and data collection staff. Specific thanks
+is extended to the project partners Ruby O ’Rourke, David Salajan, Victoria
+Flood, Chris Rissel and Karen Gillham, as well as our research support team
+Kirsty Seward, Renee Neal, Nicole Pond, Alison Fielding, Danielle Wilton,
+Christophe Lecathelinais, Courtney Barnes, Sue Green and Xenia Dolja-Gore
+for their contribution to the conduct of the study.
+Authors ’contributions
+AS, JW, LW, MF, RW, SY and AG developed the original research concept and
+developed the study design. AG, MF, RW and SY managed the study and
+acquired study data. PR, KE and ZS developed data collection templates and
+advised on the acquisition of economic data. PR, KE and ZS conducted the
+economic evaluation and developed the draft manuscript. All authors made
+substantial contributions to the manuscript development, read and
+approved the final manuscript.
+Funding
+This project is funded by the National Health and Medical Research Council
+(NHMRC) project grant (APP1102943) and Cancer Council NSW (PG16-05)
+(CCNSW). The NHMRC and CCNSW have played no role in the conduct of
+the trial. The content of this publication is the responsibility of the authors
+and do not reflect the views of NHMRC or CCNSW. Hunter New England
+Population Health and the University of Newcastle provided infrastructure
+funding. HealthyAustralia Ltd and HubHello Pty Ltd provided in-kind support.
+LW is a Hunter New England Clinical Research Fellow and is supported by
+Heart Foundation Future Leader Fellowship (Award No. 101175) and an
+NHMRC Career Development Fellowship (APP1128348). MF is a clinical re-
+search fellow funded by Hunter New England Population Health and the
+Health Research and Translation Centre, Partnerships, Innovation and Re-
+search, Hunter New England Local Health District. SY is a postdoctoralresearch fellow funded by the National Heart Foundation (Award No.
+100547) and Australian Research Council (DE170100382).
+Availability of data and materials
+The research team acknowledges the importance of making research data
+publicly available. Access to the data from this study may be made available
+to external collaborators following the development of data transfer
+agreements.
+Ethics approval and consent to participate
+Trial Registration: Australian New Zealand Clinical Trials Registry ACTR
+N12616000974404
+Consent for publication
+Not applicable.
+Competing interests
+Ruby O ’Rourke is Chief Executive Officer of Healthy Australia Ltd and
+HubHello Pty Ltd. David Salajan is the Head of Social Impact Program
+Development of Healthy Australia and HubHello Pty Ltd. The authors have
+no other competing interests to declare.
+Author details
+1Hunter Medical Research Institute (HMRI), New Lambton, New South Wales,
+Australia.2School of Medicine and Public health, University of Newcastle,
+Callaghan, New South Wales 2308, Australia.3Hunter New England
+Population Health, Wallsend, New South Wales 2287, Australia.4Priority
+Research Centre for Health Behaviour, University of Newcastle, Callaghan,
+NSW, Australia.
+Received: 24 June 2020 Accepted: 1 December 2020
+References
+1. World Health Organisation. Early child development WHO guideline.
+Geneva: World Health Organisation; 2020. Retrieved from https://www.who.
+int/publications/i/item/improving-early-childhood-development-who-
+guideline .
+2. Organization. WH. Report of the commission on ending childhood obesity.
+Geneva: WHO; 2016.
+3. Finkelstein EA, Graham WC, Malhotra R. Lifetime direct medical costs of
+childhood obesity. Pediatrics. 2014;133(5):854 –62.
+4. Brown V, Moodie M, Baur L, Wen LM, Hayes A. The high cost of obesity in
+Australian pre-schoolers. Aust N Z J Public Health. 2017;41(3):323 –4.
+5. Hayes AJ, Brown V, Tan EJ, Chevalier A, D'Souza M, Rissel C, Moodie ML. Patterns
+and costs of health-care utilisation in Australian children: The first 5 years. J
+Paediatr Child Health. 2018;55(7):802-8. https://doi.org/10.1111/jpc.14292 .
+6. Sonntag D, Ali S, De Bock F. Lifetime indirect cost of childhood overweight
+and obesity: a decision analytic model. Obesity (Silver Spring, Md). 2016;
+24(1):200 –6.
+7. Sonntag D, Ali S, Lehnert T, Konnopka A, Riedel-Heller S, Konig HH.
+Estimating the lifetime cost of childhood obesity in Germany: results of a
+Markov Model. Pediatr Obes. 2015;10(6):416 –22.
+8. Liberali R, Kupek E, Assis MAA. Dietary patterns and childhood obesity risk: a
+systematic review. Child Obes. 2020;16(2):70-85. https://doi.org/10.1089/chi.
+2019.0059.
+9. Craigie AM, Lake AA, Kelly SA, Adamson AJ, Mathers JC. Tracking of obesity-
+related behaviours from childhood to adulthood: a systematic review.
+Maturitas. 2011;70(3):266 –84.
+10. Shrestha R, Copenhaver M. Long-term effects of childhood risk factors on
+cardiovascular health during adulthood. Clin Med Rev Vascul Health. 2015;7:1 –5.
+11. Organisation for Economic Co-operation and Development (OECD). OECD
+Family Database, OECD - Social Policy Division - Directorate of Employment,
+Labour and Social Affairs. 2018. Retrieved from http://www.oecd.org/els/
+family/database.htm . Accessed 29 Nov 2019.
+12. Australian Bureau of Statistics. Catalogue 4402.0 - Childhood education and
+care, Australia. 2017.
+13. Wolfenden L, Jones J, Williams CM, Finch M, Wyse RJ, Kingsland M, et al.
+Strategies to improve the implementation of healthy eating, physical
+activity and obesity prevention policies, practices or programmes within
+childcare services. Cochrane Database Syst Rev. 2016;10:Cd011779.Reeves et al. Implementation Science            (2021) 16:1 Page 11 of 12
+14. Benjamin Neelon SE, Vaughn A, Ball SC, McWilliams C, Ward DS. Nutrition
+practices and mealtime environments of North Carolina child care centers.
+Child Obes (Print). 2012;8(3):216 –23.
+15. Finch M, Seward K, Wedesweiler T, Stacey F, Grady A, Jones J, et al.
+Challenges of increasing childcare center compliance with nutrition
+guidelines: a randomized controlled trial of an intervention providing
+training, written menu feedback, and printed resources. Am J Health
+Promot. 2018. https://doi.org/10.1177/0890117118786859 .
+16. Gerritsen S, Wall C, Morton S. Child-care nutrition environments: results from
+a survey of policy and practice in New Zealand early childhood education
+services. Public Health Nutr. 2016;19(9):1531 –42.
+17. Bell AC, Davies L, Finch M, Wolfenden L, Francis JL, Sutherland R, et al. An
+implementation intervention to encourage healthy eating in centre-based
+child-care services: impact of the Good for Kids Good for Life programme.
+Public Health Nutr. 2015;18(9):1610 –9.
+18. Seward K, Wolfenden L, Finch M, Wiggers J, Wyse R, Jones J, et al.
+Improving the implementation of nutrition guidelines in childcare centres
+improves child dietary intake: findings of a randomised trial of an
+implementation intervention. Public Health Nutr. 2018;21(3):607 –17.
+19. Williams CL, Bollella MC, Strobino BA, Spark A, Nicklas TA, Tolosi LB, et al.
+“Healthy-start ”: outcome of an intervention to promote a heart healthy diet
+in preschool children. J Am Coll Nutr. 2002;21(1):62 –71.
+20. Yoong SL, Grady A, Seward K, Finch M, Wiggers J, Lecathelinais C, et al. The
+impact of a childcare food service intervention on child dietary intake in
+care: an exploratory cluster randomized controlled trial. Am J Health
+Promot. 2019. https://doi.org/10.1177/0890117119837461 .
+21. Finch M, Seward K, Wedesweiler T, Stacey F, Grady A, Jones J, et al.
+Challenges of increasing childcare center compliance with nutrition
+guidelines: a randomized controlled trial of an intervention providing
+training, written menu feedback, and printed resources. Am J Health
+Promot. 2019;33(3):399 –411.
+22. Grady A, Stacey F, Seward K, Finch M, Jones J, Yoong SL. Menu planning
+practices in early childhood education and care - factors associated with
+menu compliance with sector dietary guidelines. Health Promot J Austr.
+2019;31(2):216-23. https://doi.org/10.1002/hpja.286.
+23. Seward K, Finch M, Yoong SL, Wyse R, Jones J, Grady A, et al. Factors that
+influence the implementation of dietary guidelines regarding food
+provision in centre based childcare services: a systematic review. Prev Med.
+2017;105:197 –205.
+24. Reeves P, Edmunds K, Searles A, Wiggers J. Economic evaluations of public
+health implementation-interventions: a systematic review and guideline for
+practice. Public Health. 2019;169:101 –13.
+25. Hodder RK, O ’Brien KM, Stacey FG, Wyse RJ, Clinton-McHarg T, Tzelepis F, et al.
+Interventions for increasing fruit and vegetable consumption in children aged
+five years and under. Cochrane Database Syst Rev. 2018;5:Cd008552.
+26. Drummond M, Sculpher MJ, Claxton K, Stoddart GL, Torrance GW. Methods
+for the economic evaluation of health care programmes. 4th ed. Oxford:
+Oxford University Press; 2015.
+27. National Institute for Health and Care Excellence. How NICE measures value
+for money in relation to public health interventions. London; 2013. http://
+www.nice.org.uk .
+28. National Institute for Health and Care Excellence. How NICE Measures Value
+for Money in Relation to Public Health Interventions. 2013. Retrieved from
+https://www.nice.org.uk/Media/Default/guidance/LGB10-Briefing-20150126.
+pdf. Accessed 30 Nov 2019.
+29. Mauskopf JA, Sullivan SD, Annemans L, Caro J, Mullins CD, Nuijten M, et al.
+Principles of good practice for budget impact analysis: report of the ISPOR
+Task Force on good research practices--budget impact analysis. Value
+Health. 2007;10(5):336 –47.
+30. Sanders GD, Neumann PJ, Basu A, Brock DW, Feeny D, Krahn M, et al.
+Recommendations for conduct, methodological practices, and reporting of
+cost-effectiveness analyses: second panel on cost-effectiveness in health
+and medicine. JAMA. 2016;316(10):1093 –103.
+31. Yoong SL, Grady A, Wiggers J, Flood V, Rissel C, Finch M, et al. A
+randomised controlled trial of an online menu planning intervention to
+improve childcare service adherence to dietary guidelines: a study protocol.
+BMJ Open. 2017;7(9):e017498.
+32. Commonwealth of Australia. Get up and grow: Healthy eating and physical
+activity for early childhood. In: Department of Health and Aging C, editor.
+2012. Retrieved from https://www1.health.gov.au/internet/main/publishing.
+nsf/Content/phd-gug-directorscoord . Accessed 15 Nov 2019.33. Larson N, Ward DS, Neelon SB, Story M. What role can child-care settings
+play in obesity prevention? A review of the evidence and call for research
+efforts. J Am Diet Assoc. 2011;111(9):1343 –62.
+34. NSW Ministry of Health. Caring for children birth to 5 years (food, nutrition
+and learning experiences). 2016. http://www.health.nsw.gov.au/heal/
+Publications/caring-for-children-manual.pdf .
+35. NSW Ministry of Health. Caring for Children Birth to 5 years (Food, Nutrition
+and Learning Experiences) (Internet). 2016. Retrieved from http://www.
+health.nsw.gov.au/heal/Publications/caring-for-children-manual.pdf .
+Accessed 29 Nov 2019.
+36. National Health and Medical Research Council. Australian Dietary Guidelines
+[Internet]. Canberra: National Health and Medical Research Council. https://
+www.nhmrc.gov.au/about-us/publications/australian-dietary-guidelines .
+Accessed 07 Jan 2019.
+37. Grady A, Wolfenden L, Wiggers J, Rissel C, Finch M, Flood V, Salajan D,
+O'Rourke R, Stacey F, Wyse R, Lecathelinais C, Barnes C, Green S, Herrmann
+V, Yoong SL. Effectiveness of a web-based menu-planning intervention to
+improve childcare service compliance with dietary guidelines: Randomized
+Controlled Trial. J Med Internet Res 2020;22(2):e13401.
+38. Fair Work Commission. Fairwork Australia Children ’s Services Award 2010
+ma000120. 2018, https://www.fwc.gov.au/documents/documents/modern_
+awards/pdf/ma000120.pdf .
+39. Hyewon HL, Levine M. Determing the threshold of acceptability of an ICER when
+natural health units are used. J Popul Ther Clin Pharmacol. 2012;19(2):e234 –8.
+40. van Asselt AD, van Mastrigt GA, Dirksen CD, Arntz A, Severens JL, Kessels
+AG. How to deal with cost differences at baseline. Pharmacoeconomics.
+2009;27(6):519 –28.
+41. Little RJ, Rubin DB. Statistical analysis with missing data. Hoboken: Wiley;
+2019.
+42. Bell ML, Fiero M, Horton NJ, Hsu CH. Handling missing data in RCTs; a
+review of the top medical journals. BMC Med Res Methodol. 2014;14:118.
+43. Faria R, Gomes M, Epstein D, White IR. A guide to handling missing data in
+cost-effectiveness analysis conducted within randomised controlled trials.
+Pharmacoeconomics. 2014;32(12):1157 –70.
+44. Briggs A, Clark T, Wolstenholme J, Clarke P. Missing... presumed at random:
+cost-analysis of incomplete data. Health Econ. 2003;12(5):377 –92.
+45. Oostenbrink JB, Al MJ. The analysis of incomplete cost data due to dropout.
+Health Econ. 2005;14(8):763 –76.
+46. Claxton K, Martin S, Soares M, Rice N, Spackman E, Hinde S, et al. Methods
+for the estimation of the NICE cost effectiveness threshold. York: Centre for
+Health Economics UoYH; 2013.
+47. Consortium YHE. Sensitivity analysis [online]. 2016. https://www.yhec.co.uk/
+glossary/sensitivity-analysis/ . Accesed 20 Oct 2019.
+48. Canaway A, Frew E, Lancashire E, Pallan M, Hemming K, Adab P, et al.
+Economic evaluation of a childhood obesity prevention programme for
+children: results from the WAVES cluster randomised controlled trial
+conducted in schools. PLoS One. 2019;14(7):e0219500.
+49. Döring N, Zethraeus N, Tynelius P, de Munter J, Sonntag D, Rasmussen F.
+Economic evaluation of PRIMROSE-a trial-based analysis of an early childhood
+intervention to prevent obesity. Front Endocrinol (Lausanne). 2018;9:104.
+50. Doring N, Mayer S, Rasmussen F, Sonntag D. Economic evaluation of
+obesity prevention in early childhood: methods, limitations and
+recommendations. Int J Environ Res Public Health. 2016;13(9):911.
+51. Luke DA, Calhoun A, Robichaux CB, Elliott MB, Moreland-Russell S. The
+program sustainability assessment tool: a new instrument for public health
+programs. Prev Chronic Dis. 2014;11:130184.
+52. Hoomans T, Severens JL. Economic evaluation of implementation strategies
+in health care. Implement Sci. 2014;9:168.
+53. Fenwick E, Claxton K, Sculpher M. The value of implementation and the
+value of information: combined and uneven development. Med Decis
+Making. 2007;28(1):21 –32.
+54. Ginnelly L, Claxton K, Sculpher MJ, Golder S. Using value of information
+analysis to inform publicly funded research priorities. Appl Health Econ
+Health Policy. 2005;4(1):37 –46.
+55. Sculpher M. Evaluating the cost-effectiveness of interventions designed to
+increase the utilization of evidence-based guidelines. Fam Pract. 2000;
+17(Suppl 1):S26 –31.
+Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.Reeves et al. Implementation Science            (2021) 16:1 Page 12 of 12

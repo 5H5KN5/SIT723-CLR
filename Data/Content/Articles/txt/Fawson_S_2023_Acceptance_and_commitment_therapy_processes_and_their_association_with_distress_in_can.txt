@@ -1,0 +1,904 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rhpr20
+Health Psychology Review
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rhpr20
+Acceptance and commitment therapy processes
+and their association with distress in cancer: a
+systematic review and meta-analysis
+Sophie Fawson, Zoe Moon, Katherine Novogrudsky, Faye Moxham, Katie
+Forster, Insun Tribe, Rona Moss-Morris, Caroline Johnson & Lyndsay D.
+Hughes
+To cite this article:  Sophie Fawson, Zoe Moon, Katherine Novogrudsky, Faye Moxham,
+Katie Forster, Insun Tribe, Rona Moss-Morris, Caroline Johnson & Lyndsay D. Hughes (25
+Sep 2023): Acceptance and commitment therapy processes and their association with
+distress in cancer: a systematic review and meta-analysis, Health Psychology Review, DOI:
+10.1080/17437199.2023.2261518
+To link to this article:  https://doi.org/10.1080/17437199.2023.2261518
+© 2023 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+View supplementary material 
+Published online: 25 Sep 2023.
+ Submit your article to this journal 
+Article views: 31
+ View related articles 
+View Crossmark data
+
+REVIEW ARTICLE
+Acceptance and commitment therapy processes and their
+association with distress in cancer: a systematic review and meta-
+analysis
+Sophie Fawsona,b, Zoe Moona,c, Katherine Novogrudskya, Faye Moxhama,
+Katie Forstera, Insun Tribea, Rona Moss-Morrisa, Caroline Johnsondand
+Lyndsay D. Hughesa
+aPsychology Department, King ’s College London, London, UK;bNIHR Maudsley Biomedical Research Centre,
+London, UK;cSchool of Pharmacy, University College London, London, UK;dImperial College Healthcare NHS Trust,
+London, UK
+ABSTRACT
+Around 42% of individuals with cancer experience distress. Acceptance
+and commitment therapy (ACT) can reduce distress, but e ﬀects are
+small, and mechanisms unclear. This review aimed to identifyassociations between ACT processes and distress in cancer. Search
+terms included cancer, ACT processes, self-compassion, and distress. Sixonline databases and grey literature were searched until March 2022. Of
+6555 papers screened, 108 studies were included with 17,195
+participants. Five meta-analyses of 77 studies were conducted. Random
+eﬀects meta-analyses of correlations revealed higher scores on ﬂexible
+processes (acceptance, present moment awareness, self-compassion)
+were associated with lower distress ( r
+pooled = -0.24, -0.39, -0.48,
+respectively); whilst higher scores on in ﬂexible processes (experiential
+avoidance, cognitive fusion) were associated with higher distress
+(rpooled = 0.58, 0.57, respectively). Meta-analyses displayed moderate-to-
+high heterogeneity with most studies assessed as low risk of bias. Meta-
+regressions revealed no signiﬁcant moderators (stage, time since
+diagnosis, gender and age). This review provides a theoretically aligned
+evidence base for associations between ACT processes and distress in
+cancer, supporting elements of ACT theory and providing targeted
+directions for intervention development. Due to limited evidence, futureresearch should focus on self-as-context, values and committed action
+and conduct mediation analysis in controlled trials of ACT processes on
+distress in cancer.ARTICLE HISTORY
+Received 14 September 2022
+Accepted 15 September
+2023
+KEYWORDS
+Cancer; oncology; meta-
+analysis; distress; acceptanceand commitment therapy;
+self-compassion
+1. Introduction
+Cancer poses a signi ﬁcant emotional, ﬁnancial and social burden on individuals. Incidence is rising
+worldwide with 19.3 million new cases in 2020 and annual economic costs estimated at US$1.16 tril-
+lion (Sung et al., 2021 ;World Cancer Report: Cancer Research for Cancer Prevention ,2020 ; World Health
+Organization, 2021 ). There are many challenges associated with cancer diagnosis and treatment
+which can cause signi ﬁcant distress to patients, including increased medical appointments and
+© 2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/4.0/ ),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which thisarticle has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.CONTACT Lyndsay D. Hughes lyndsay.hughes@kcl.ac.uk
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/17437199.2023.2261518 .HEALTH PSYCHOLOGY REVIEW
+https://doi.org/10.1080/17437199.2023.2261518
+unpleasant procedures, psychological and physical symptoms and fears around recurrence, spread
+and the future (Mathew et al., 2021 ; Niedzwiedz et al., 2019 ). Psychological or emotional distress,
+often characterised by symptoms of anxiety and depression, can be de ﬁned as an emotional state
+of suﬀering (Drapeau et al., 2012 ). Distress is up to twice as prevalent in cancer populations than
+in the general population, with estimates of 17-42% for anxiety symptoms and 4-24% for depressivesymptoms, persisting throughout diagnosis, primary treatment, palliative treatment and long-term
+survivorship (Brandenbarg et al., 2019 ; Brunckhorst et al., 2021 ; Hashemi et al., 2020 ; Hinz et al., 2010 ;
+Krebber et al., 2014 ; Linden et al., 2012 ; Mitchell et al., 2013 ; Niedzwiedz et al., 2019 ; Walker et al.,
+2013 ).
+High levels of distress in individuals with cancer can result in higher personal and healthcare costs
+and poorer health outcomes in terms of reduced quality of life, treatment non-adherence, poorer
+rates of recurrence and survival (DiMatteo & Haskard-Zolnierek, 2011 ; Fangand & Schnoll, 2002 ;
+Onitilo et al., 2006 ). Guidelines worldwide recommend that distress is routinely measured based
+on the premise that identifying, evaluating, and managing distress in patients with cancer is asimportant as physical health care (National Comprehensive Cancer Network, NCCN, Holland &
+Bultz, 2007 ; CSG4, National Institute for Clinical Excellence, 2004 ).
+Research exploring Acceptance and commitment therapy (ACT) as an approach to managing dis-
+tress in cancer has increased over the last 10 years. ACT is a third-wave cognitive behaviouralapproach aiming to increase psychological ﬂexibility; de ﬁned as the ability to be open and aware
+in the present moment whilst engaging in meaningful, valued activity (Graham et al., 2016 ; Hayes
+et al., 2006 ). ACT is an approach that evolved from but di ﬀers from conventional Cognitive behav-
+ioural therapy (CBT). ACT focuses on our relationship with or responses to thoughts and emotions
+rather than on disrupting or changing unhelpful thoughts and emotions, which can exacerbate dis-tress (Harris, 2019 ; Hayes et al., 2006 ; Ruiz, 2010 ). ACT is proposed to work through increasing
+psychological ﬂexibility, which is the ability to fully connect with the present moment in order to
+engage behavioural patterns supporting movement towards valued ends (Hayes et al., 2006 ). ACT
+encompasses six core ﬂexible processes or psychological skills (Bennett & Oliver, 2019 ; Graham
+et al., 2016 ; Harris, 2019 ; Hayes et al., 2013 ; Hayes et al., 2006 ; Hayes et al., 2011 ).Acceptance is
+the awareness and willingness to experience private thoughts, feelings and emotions withouttrying to change or control them. Defusion refers to changing the relationship with, or detaching
+from thoughts, images and memories in order to alter their function and reduce their literal
+quality; and developing the ability to recognise thoughts as thoughts and not fact. Present
+moment
+awareness is the non-judgemental contact with the internal and external world such that
+an individual can consciously connect with and engage in whatever is happening in the presentmoment. Self-as-context is the awareness of one ’s own internal experience without attachment
+and the recognition of the self as the context from which thoughts, beliefs, emotions and memories
+can be observed. Values are qualities of ongoing action based on knowing what matters to an indi-
+vidual. Lastly, committed action refers to workable values driven goals and action. The six ﬂexible pro-
+cesses have corresponding in ﬂexible processes (collectively termed as psychological in ﬂexibility)
+contributing to psychopathology and su ﬀering (Hayes et al., 2006 ; Hayes et al., 2013 ). These are
+experiential avoidance, which refers to the attempts to change or avoid uncomfortable thoughts
+or emotions; cognitive fusion , which is seeing the thought as an absolute re ﬂection of reality such
+that it dominates awareness and in ﬂuences behaviour; loss of contact with the present moment,
+whereby individuals cannot connect with and engage in the present moment; self-as-content ,
+which refers to being attached to our internal experience and stuck with stories we have about our-selves; lack of awareness of one’ s values or remoteness from values; and inaction, which is unworkable
+action that is not guided by values (Hayes et al., 2006 ; Hayes et al., 2013 ). Self-compassion is implied
+throughout the model and, although not an explicit process, is a close concept and key feature ofACT in practice (Ne ﬀ& Tirch, 2013 ). Self-compassion is the process of being kind and understanding
+towards oneself in di ﬃcult situations, whilst holding thoughts and feelings non-judgementally and
+mindfully, as though part of a wider human experience (Ne ﬀ,2003 ).2 S. FAWSON ET AL.
+ACT may be a particularly useful approach for patients with cancer. ACT views distress and su ﬀering
+as normal parts of the universal human experience and sees di ﬃcult thoughts and emotions as
+common and realistic responses to a cancer diagnosis. ACT seeks to encourage the development of
+psychological ﬂexibility through processes such as valued living, enabling individuals to pursue mean-
+ingful activity even in the presence of di ﬃculties such as distress and disruptions to daily living caused
+by treatment, medical appointments and recovery time whilst living with cancer (González-Fernández &Fernández-Rodríguez, 2019 ). ACT has also been shown to e ﬀectively support those with chronic pain
+and sleep di ﬃculties, symptoms commonly associated with cancer treatment (Mosher et al., 2018 ;
+NG193, National Institute for Clinical Excellence, 2021 ) and although not the main aim of ACT,
+symptom or distress reduction is often found to be a secondary bene ﬁt (Graham et al., 2016 ). Whilst
+there are a number of techniques associated with ACT, it can be delivered in a protocolised format,
+and this is commonly undertaken in research trials to ensure ﬁdelity. However, ACT is a process-oriented
+psychological intervention and experienced clinicians will conduct sessions in a process-focussedmanner, basing their intervention on dynamic assessments of a client ’s presentation and moving
+between ACT processes as indicated (Bennett & Oliver, 2019 ). Therefore, understanding the relevant
+impact and contribution of the processes can aid the formulation of this dynamic assessment.
+Several reviews have sought to determine the eﬀ ectiveness of ACT interventions in cancer with
+diﬀerent outcomes, although the results were only narratively synthesised. In a systematic review,
+Mathew et al. ( 2021 ) found small positive eﬀ ects in terms of anxiety and depression in 13 trials eval-
+uating ACT for cancer survivors. Furthermore, a review of 19 trials of all cancer types and stages byGonzález-Fernández and Fernández-Rodríguez ( 2019 ) reported signi ﬁcant improvements in
+emotional states (anxiety, depression, emotional distress) and quality of life following ACT interven-tion, including up to 12 months later. Similar conclusions have been reported in systematic reviewsand meta-analyses of ACT-based interventions for other long term physical conditions with some
+large eﬀ ects found for reductions in distress (Graham et al., 2016 ; Ngan et al., 2021 ).
+Although these reviews provide promising evidence for the potential e ﬀectiveness of ACT inter-
+ventions for reducing distress, the included trials are often small, low quality, and with limitations tostudy design (Fashler et al., 2018 ; González-Fernández & Fernández-Rodríguez, 2019 ; Hulbert-Wil-
+liams, Storey, & Wilson, 2015 ; Salari et al., 2021 ). The impact and contribution of these reviews are
+therefore limited as meta-analyses could not be conducted due to variation in study designs (i.e.,limited randomised controlled trials) and outcome measures, meaning pooled e ﬀect sizes are not
+reported. In addition, the included trials do not evaluate processes of change. ACT identi ﬁes likely
+mechanisms of action, however ideally, mediation analysis of ACT trials in cancer is needed toprovide empirical support for the proposal of the key mechanisms of change through which inter-
+ventions act on distress. A theoretical understanding of these processes of change in relation tocontext, is a vital part of the updated Medical Research Council (MRC) framework for developing
+complex interventions (Skivington et al., 2021 ) and may improve the eﬃ cacy of future interventions
+by building support for which of the ACT processes are amenable to change, and which are needed
+to change to improve a speciﬁ c outcome. Identifying the change in processes which elicits a change
+in outcomes from the intervention will help identify the key mechanisms for those with cancer.
+Exploring the evidence-base for speciﬁ c
+ ACT processes may also improve accessibility and cost-e ﬀec-
+tiveness as there is potential for them to be used in briefer more targeted interventions for patients
+who do not necessarily need specialist interventions delivered by an experienced clinician (Dindo
+et al., 2017 ; Richards, 2012 ). Alternatively, processes could be ﬂexibly incorporated into other theor-
+etically consistent interventions. In the absence of published mediation studies of randomised con-
+trolled trials which would be the strongest level of evidence, associations between ACT processes
+and distress in observational studies in cancer can be explored and meta-analysed. This providesaﬁrst step in highlighting the ACT model in the context of cancer distress and the processes
+which may be key to target in future interventions.
+To ensure the validity of a theory underlying an intervention, the theory needs to be tested and
+supported with a solid evidence base and the components of models should also be tested inHEALTH PSYCHOLOGY REVIEW 3
+studies, in di ﬀerent contexts, before interventions are conducted (Hayes et al., 2013 ; Levin et al.,
+2012 ). Data in the context of ACT in cancer is less well established than in mental health and pain
+(Dindo et al., 2017 ), so this review aims to provide the ﬁrst step to a thorough understanding of
+ACT processes in this context. This will add to the theoretical evidence base, facilitating the devel-
+opment of eﬀ ective, parsimonious and appropriate interventions that maximise the potential of
+therapy.
+To our knowledge, this is the ﬁrst review to consolidate evidence for the relationship between
+each ACT process, including the ACT-adjunct process of self-compassion, and distress in patientswith cancer, providing a theoretical grounding of the mechanistic processes of ACT as applied to
+cancer. Previous reviews have investigated individual ACT constructs in cancer. A meta-analysis by
+Secinti et al. ( 2019 ) found acceptance had a small to moderate, signi ﬁcant negative association
+with distress ( r= -0.31). In addition, a narrative systematic review on self-compassion in chronic phys-
+ical illness (half of the samples with cancer patients), found moderate to large negative associationswith anxiety and depression (Hughes et al., 2021 ). The current review addresses limitations to these
+previous reviews by including all ACT processes and self-compassion, reviewing grey literature to
+reduce publication bias and conducting robust meta-analysis. Conducting meta-analyses may also
+allow for moderators to be tested. Previous research is inconclusive for the clinical and demographicfactors that may be associated with distress, however, these results give an indication of the mod-
+erators to test (Secinti et al., 2019 ). To understand if experiences are similar across cancer diagnoses
+(transdiagnostic), type of diagnosis would need to be tested as a moderator. However, individual
+research studies often recruit and combine a variety of cancer types in their analysis, with some con-
+sisting of very small samples of each cancer. Therefore, completing subgroup or moderator analysis
+based on cancer type may not be possible or appropriate. Moreover, as cancer samples are oftensplit between early or advanced stage and extent of disease has been found to be associated
+with distress (Strong et al., 2007 ) it may be more appropriate to explore cancer stage as a moderator.
+In addition, exploring whether relationships between ACT processes and distress diﬀ er for age, time
+since diagnosis and gender, may be useful to help target interventions incorporating ACT processes.It has been found that women, younger age at diagnosis and those with a more recent diagnosis
+experience greater distress, although as previously suggested, results are often mixed (e.g.,Carlson et al., 2019 ; Secinti et al., 2019 ).
+Therefore, the primary objective of this review is to: identify the strength of associations between
+ACT processes (including the ACT adjunct process of self-compassion) and distress (e.g., depression,anxiety, emotional wellbeing) in patients with cancer using meta-analyses where possible and nar-
+rative review where there are insuﬃ cient studies for meta-analysis. The secondary objective is to:
+identify which ACT processes mediate distress outcomes in ACT interventions for patients with
+cancer. The review will also explore stage of cancer, time since diagnosis, gender and age as mod-
+erators of the relationship between ACT processes and distress.
+2. Methods
+This systematic review and meta-analysis have been conducted in line with PRISMA 2020 (Page et al.,
+2021b ) and JARS-Quant for reporting meta-analysis guidelines (Appelbaum et al., 2018 ). The review
+is registered on PROSPERO, CRD42020166458 version 4.
+2.1. Eligibility criteria
+Studies were included if they conducted research with adults diagnosed with cancer, not at end oflife, and reported associations between at least one ACT-related process and a distress outcome.
+Outcomes and processes must have been measured using validated measures that score the
+whole process (subscales of constructs of processes were not included, e.g., facets of presentmoment awareness measures; see supplementary materials, Table S1). Observational designs were4 S. FAWSON ET AL.
+eligible, as well as clinical trials that either analysed baseline data or reported mediation analysis of
+an ACT process on a distress outcome in a Randomised Controlled Trial (RCT). See Table 1 for further
+details on eligibility criteria.
+2.2. Information sources
+Six electronic databases were searched: OVID (PsychInfo, MedLine & Embase), CINAHL, Web of
+Science and Cochrane library (CENTRAL); as well as ﬁve grey literature sources: SSRN, OpenGrey,
+WorldCat Dissertations and Theses, EThOS, Health Management Information Centre (HMIC) Ovid;
+with no date restrictions. The search was run between 28/02/2022 and 02/03/2022. The reference
+lists of included studies and other relevant reviews were hand searched.
+2.3. Search strategy and selection process
+The search strategy for all databases is available in supplementary materials (Table S2). Author SFmanaged records using EndNote version X9.3. The selection of eligible studies followed the
+PRISMA methodology (Page et al., 2021b ). Duplicates were removed using the deduplication tool
+on EndNote and then by hand reviewing. Author SF independently screened all titles and abstracts
+using the PICOS criteria (stage one). KN and FM independently screened 100% between them.
+Studies deemed ineligible at this stage were removed, and the remainder moved to stage twoscreening. In stage two, full-text versions of all papers were retrieved and screened by SF using a
+prede ﬁned screening table in MS Excel. Two independent reviewers (KF and FM) also screened
+79% of full-text papers. Cohen ’s Kappa scores were calculated to determine interrater reliability
+and showed substantial agreement at stage one (k = 0.65 –0.73) and almost perfect agreement at
+stage 2 (k = 0.71 –0.84). Disagreements were discussed and resolved with the supervising corre-
+sponding author (LH).
+2.4. Data items and collection process
+A prede ﬁned data extraction table in MS Excel was piloted on three papers, and study location and
+ethnicity were added. Data extraction followed the PICOS criteria and included: study location,Table 1. Inclusion and exclusion criteria for the studies in the review.
+Inclusion criteria Exclusion criteria
+Population Adult patients (18+) with an adult diagnosis of
+cancer (any type/stage), treated with curative
+intent or palliative care (not end of life).Patients under 18 years old, those without a
+diagnosis of cancer or adults who received adiagnosis as a child and/or those receiving end
+of life care (life expectancy <6 months).
+Exposure/
+intervention
+(predictor variables)Studies presenting statistical tests of associations
+between validated measures of processes of ACT(see eligible processes outlined in Table S1) and
+the outcome.Measures not validated. See Table S1 for further
+information regarding de ﬁnitions of ACT
+processes included/excluded.
+Outcome Validated measures of distress (anxiety, depression,
+psychological/emotional distress, mood).Measures of distress not validated. Studies that
+do not measure distress.
+Study Design Observational designs (i.e., cross sectional,
+prospective, cohort, baseline RCT) reporting
+bivariate relationships or multivariate modelsbetween the intervention variables andoutcomes above. Additionally, RCTs for ACT
+based interventions if they explore ACT
+mediators on distress outcomes.ACT RCTs that do not analyse mediators/
+processes of change, or do not analyse baselinedata. Qualitative studies.
+Other Studies can use primary or secondary data, be
+conducted in any country, but must be published
+in English.Studies not in English and where full texts cannot
+be accessed.
+Note : ACT = Acceptance and commitment therapy; RCT = Randomised Controlled TrialHEALTH PSYCHOLOGY REVIEW 5
+sample size, the proportion of males/females, mean age of the sample, ethnicity, diagnosis, time
+since diagnosis, treatment, study design, ACT process and measurement, outcome and measure-ment, means and standard deviations of the primary outcomes, type of analysis conducted and
+results (e ﬀect estimates and precision where reported). Data were grouped into each ACT process
+in the data extraction table ( note: some studies tested more than one process). Author SF extracted
+the data, and two independent reviewers (IT and FM) cross-checked 70% of papers for extractionerrors, including all meta-analysis data. Four authors were contacted to correct errors in published
+papers or to provide data where missing (i.e., from supplementary materials not publicly accessible),and two replied (see * on Table S5 and S6).
+2.5. Risk of bias assessments
+Risk of bias was assessed in all studies using a checklist adapted from ROBINS-E (Morgan et al., 2017 )
+and a checklist used by Pasma et al. ( 2013 ) following guidelines on areas of bias (Dekkers et al., 2019 ;
+Sanderson et al., 2007 ). This assessment was developed as it is recommended that a risk of bias
+assessment checklist is suitable for the speciﬁ c studies included in the review (Dekkers et al.,
+2019 ), in this case observational. No RCTs were included so an additional risk of bias tool was not
+needed. Author SF assessed each study using a checklist of up to 11 elements including the assess-
+ment of selection bias, response bias, attrition bias for longitudinal studies, bias due to missing data
+and analysis of confounders. Low, moderate or high risk and overall bias was stated (see Table S8).Author FM independently assessed 50% with moderate agreement (k = 0.55) and discrepancies were
+discussed until agreement. The GRADE tool (Guyatt et al., 2008 ) to assess bias across studies was
+used, providing an overall quality of evidence rating per process and outcome, considering the con-
+sistency of results, precision, publication and reporting bias. This was based on each meta-analysis.
+Outcomes for each process started at ‘low quality of evidence ’due to their observational nature and
+were downgraded if they scored ‘serious’ for any criteria. Quality could be upgraded if they had a
+large eﬀ ect (Guyatt et al., 2008 ). Indirectness was not assessed as all papers were of the population
+of interest. Publication bias was assessed using funnel plots if there was a minimum of 10 studies
+(Page et al., 2021a ).
+2.6. E ﬀect measures
+Correlations and regression coe ﬃcients were the most reported measures of eﬀ ect size. Three
+studies reported tests of mean di ﬀerence, whilst another reported a Mann Whitney U test. No
+other e ﬀect measures were used. In narrative synthesis, e ﬀect estimates are presented with the direc-
+tion of eﬀ ect and summarised based on how many studies show estimates in the same direction.
+Due to the lack of studies reporting regression analyses and high heterogeneity between thosethat did, all regression data are narratively synthesised. No relevant RCTs were found reportingmediation or process analysis.
+2.7. Synthesis methods
+Strong correlations are generally found between distress measures in cancer implying a similar con-struct is being measured (Pandey et al., 2007 ; Rabkin et al., 2009 ). Therefore as in similar meta-ana-
+lyses of distress outcomes (e.g., Winger et al., 2016 ), measures including anxiety, depression, distress,
+negative a ﬀect and emotional stress were combined where possible and average correlations calcu-
+lated if they were comparable in terms of de ﬁnition of measurement and where correlations with
+measures of individual ACT processes in each study were similar. Correlations were Fisher ’s Z-trans-
+formed, the mean calculated and then back transformed to an rcorrelation using R Studio code (R
+Core Team., 2020 ). ACT process measures were also synthesised where measurements were compar-
+able in de ﬁnition (e.g., values importance and values success were not considered comparable6 S. FAWSON ET AL.
+deﬁnitions of values). A meta-analysis was run for each process (or the overall process of psychologi-
+calﬂexibility) and distress if at least k= 5 studies used the same type of correlations e.g., Pearson ’sr
+(recommendations range from 2-8 as minimum; Jackson & Turner, 2017 ; Rhodes & Smith, 2006 ; Ryan,
+2016 ). The random eﬀ ects model considered between-study di ﬀerences and sampling variation and
+was used with the Restricted Maximum Likelihood (REML) estimator for tau squared (variance
+between studies) due to the continuous outcome data (Harrer et al., 2021 ; Langan et al., 2019 ).
+The ‘metacor ’package on R Studio (Laliberte, 2019 ) used Fisher’ s Z-transformation to estimate
+pooled correlations and reports 95% con ﬁdence intervals (CI; see code in supplementary materials
+S3). In line with Cohen ( 1988 ),r< 0.1 is interpreted as a trivial eﬀ ect,r≥0.1 is interpreted as a small
+eﬀect, r≥0.3 is a medium eﬀ ect and r≥0.5 is interpreted as a large eﬀ ect. Heterogeneity was
+assessed using I2, which is the percentage of the variability in eﬀ ect sizes (<40% low heterogeneity,
+50-100% moderate to high heterogeneity; Deeks et al., 2022 ). To explore heterogeneity, as decided
+a-priori , moderator analysis was conducted with stage of diagnosis, rather than by cancer type due to
+the mixed cancer samples being included in many studies. Moderator analysis was conducted usingthe meta-regression function of metacor in R Studio and if the minimum number of studies was k=
+10 (Borenstein et al., 2009 ). Exploratory post-hoc moderator analyses were conducted on age,
+gender and time since diagnosis where there were su ﬃcient studies, as these factors have been
+found to be associated with distress and ACT processes in previous research (e.g., Carlson et al.,
+2019 ; Secinti et al., 2019 ). Where there was insuﬃ cient data to complete meta-analysis for individual
+processes, the data are narratively synthesised, reporting correlations and standardised beta coe ﬃ-
+cients (or unstandardised if standardised betas were not reported). Additional data for processes thatwere meta-analysed but where the data could not be reasonably incorporated, have been narratively
+synthesised and are available in supplementary materials to provide a complete summary of avail-able data.
+3. Results
+3.1. Study selection
+Figure 1 displays the search results and the number of papers screened at each stage. After dupli-
+cates were removed, 6555 were screened at stage one based on titles and abstracts, and 477 full
+texts were screened at stage two. One hundred and ten manuscripts (108 studies) were included
+in this systematic review, with 77 included in at least one meta-analysis. Most full texts excluded
+were due to studies not having distress as an outcome ( n= 46), no ACT process ( n= 116), not report-
+ing relevant analyses ( n= 29) or not being published in English ( n= 27). The majority of RCTs
+excluded were due to not completing mediation analysis ( n= 34) and, if they did, not consisting
+of an ACT intervention or being a single-arm trial ( n= 21).
+3.2. Study characteristics
+Study characteristics and a reference list of all included studies can be found in supplementary
+materials (Table S4). Studies are listed in alphabetical and numerical order and are therefore refer-
+enced with this corresponding number throughout this review. In the 110 studies, sample sizes
+ranged from 14-922 and included a total of 17,195 participants (108 samples). The present reviewincluded 18 grey literature studies. The majority were carried out in the USA/Canada ( n= 44), with
+30 across Europe, 11 in China and eight in Australia/New Zealand. The remaining studies were con-ducted in Brazil, Jordan, Nigeria, Egypt, Japan, Taiwan, Singapore, Iran, Israel and Malaysia. Themajority used either a breast cancer sample ( n= 41) or a mixed cancer sample ( n= 36). Seventy-
+one studies reported depression as an outcome, with 54 studies reporting anxiety, and 39 reportingdistress. Some studies reported emotional/psychological wellbeing ( n= 13), emotional stress/dys-
+function ( n= 12) and negative a ﬀect ( n= 6) as outcomes.HEALTH PSYCHOLOGY REVIEW 7
+3.3. Risk of bias within studies
+The risk of bias scoring is available in supplementary materials (Table S8). The methodological quality
+of studies was generally good, with a low risk of bias overall score for 68% of studies. Almost all
+studies reported a priori outcomes and/or hypotheses to reduce bias in reported outcomes, used
+validated process and outcome measures and reported signi ﬁcance values, scoring consistently
+low for risk of bias. Twenty- ﬁve per cent of studies failed to report detailed recruitment processes
+and received ‘unclear ’for risk. These details are essential to allow replication and would give a
+clearer indication of potential selection bias in recruitment. Response rates were also unclear,
+meaning risk of bias could not be assessed (53%) or were scored as moderate/high (22%), indicating
+potential non-response bias and di ﬃculties with assessing representation of samples. Strategies for
+dealing with missing data (58%) and a priori sample size calculations (41%) were often not reported.
+Studies often failed to assess and/or control for confounders leading to potential biases in the esti-mates reported.
+3.4. Results of meta-analyses
+Syntheses are structured by ACT process. Five meta-analyses (pooled estimates are displayed inTable 2) were conducted between distress and experiential avoidance, acceptance, cognitive
+fusion, present moment awareness, and self-compassion (raw data are available in supplementary
+materials, Table S5 and Figures 2– 6display all forest plots). Narrative synthesis on data that could
+not be incorporated into the following meta-analyses are presented in supplementary materials
+Figure 1. PRISMA ﬂow diagram of included studies.8 S. FAWSON ET AL.
+S7 to provide a complete overview of available data including regression data controlling for
+covariates.
+3.4.1. Experiential avoidance
+Twenty- ﬁve studies explored experiential avoidance and distress outcomes: 18 cross-sectional and 7
+longitudinal. Most studies were mixed cancer ( n= 10) or breast cancer ( n= 6), with ﬁve haematolo-
+gical, one thyroid, one prostate, one colorectal and one gynaecological sample. Sample sizes varied
+from 14-922. Seventeen studies were included in the meta-analysis. There was a signi ﬁcant pooled
+eﬀect with a strong positive correlation between experiential avoidance and distress ( rpooled = 0.58,
+95% CI 0.52, 0.64). Heterogeneity was high ( I2= 72%; see Figure 2 for forest plot).
+3.4.2. Acceptance
+Thirty-three studies explored acceptance (measured by the COPE or brief COPE; Carver, 1997 ; Carver
+et al., 1989 ), self-acceptance, emotional acceptance and pain acceptance, in breast cancer ( n= 14),
+mixed cancer samples ( n= 10), gynaecological ( n= 3), and one study each in head and neck,
+brain, gastrointestinal, blood, colorectal and melanoma. Sample sizes ranged from 14 to 460, with27 cross-sectional (including one baseline RCT), and six longitudinal studies. There were suﬃ cient
+data to run a random eﬀ ects meta-analysis for acceptance and distress. The pooled correlation
+was signi ﬁcant, although with a small eﬀ ect ( r
+pooled = -0.24, 95% CI -0.34, -0.15, k= 16; see Figure 3
+for forest plot). Only studies using the COPE measure were included in the meta-analysis.Table 2. Display of pooled estimates for random eﬀ ects models.
+ACT process and distress nk r pooled 95% CI I2
+Experiential avoidance 1822 17 0.58 0.52, 0.64 72.0%
+Acceptance 2393 16 -0.24 -0.34, -0.15 78.8%
+Cognitive fusion 966 8 0.57 0.47, 0.65 70.5%
+Present moment awareness 5146 30 -0.39 -0.47, -0.29 92.5%
+Self-compassion 3525 20 -0.48 -0.52, -0.43 65.7%
+Note: n= overall sample size; k= number of e ﬀect sizes included; rpooled = pooled correlation; CI = con ﬁdence interval; I2= test of
+heterogeneity.
+Figure 2. Meta-analysis for experiential avoidance and distress outcomes.HEALTH PSYCHOLOGY REVIEW 9
+Heterogeneity was moderately high ( I2= 78.8%). Five studies reported non-signiﬁ cant, small eﬀ ects,
+with two in the opposite direction than expected, one a grey literature study (17,26).
+3.4.3. Cognitive fusion
+Eight cross-sectional studies explored cognitive fusion with distress outcomes with samples ranging
+from 61 to 203. Six were mixed samples (8,15,32,52,62,75), one was a breast cancer sample (96), and
+one was thyroid cancer (57). There were su ﬃcient data to run a random eﬀ ects meta-analysis for cog-
+nitive fusion and distress. The pooled correlation was signi ﬁcant, with a large positive eﬀ ect (rpooled =
+0.57, 95% CI 0.47, 0.65, k= 8). Heterogeneity was high ( I2= 71%; see Figure 4 for forest plot).
+3.4.4. Present moment awareness
+Thirty-four studies explored present moment awareness (using mindfulness measures) and distress
+in various cancer samples (mixed n= 12, breast n= 9, gastrointestinal n= 6, lung n= 4, blood n=2
+and prostate n= 1). Sample sizes varied from 41 to 441. Thirty-two were cross-sectional (including
+Figure 3. Meta-analysis for acceptance and distress outcomes.
+Figure 4. Meta-analysis for cognitive fusion and distress outcomes.10 S. FAWSON ET AL.
+one baseline RCT), and two were longitudinal. There were su ﬃcient data to run a random-e ﬀects
+meta-analysis using correlations for total mindfulness measure scores with distress outcomes.
+There was a signi ﬁcant medium pooled eﬀ ect for present moment awareness and distress ( rpooled
+= -0.39, 95% CI -0.47, -0.29, k= 30). Heterogeneity was very high ( I292.5%; see Figure 5 for forest
+plot). Two grey literature studies report results in the opposite direction to the other studies (8,9).
+3.4.5. Self-compassion
+Twenty-four studies tested self-compassion and distress outcomes in mostly breast cancer ( n= 10)
+and mixed samples ( n= 8), with two samples each for lung and colorectal cancer and one sample
+each for prostate and gastrointestinal cancers. Sample sizes varied from 58-301. Twenty-one
+studies were cross-sectional and three longitudinal. There were su ﬃcient data from twenty
+studies to run a meta-analysis. The random eﬀ ects meta-analyses showed there was a signi ﬁcant
+medium pooled eﬀ ect with self-compassion inversely correlated with distress ( rpooled = -0.48, 95%
+CI -0.52, -0.43, k= 20). There was moderate heterogeneity ( I2= 65.7%; see Figure 6 for forest plot).
+3.5. Moderator analysis
+Heterogeneity was present in all ﬁve meta-analyses. Moderator analysis was conducted with stage of
+diagnosis. There were less than 10 studies for the cognitive fusion meta-analysis, so this was
+Figure 5. Meta-analysis for present moment awareness and distress outcomes.HEALTH PSYCHOLOGY REVIEW 11
+excluded from all further analysis. Stage of diagnosis did not signi ﬁcantly moderate any of the
+relationships between processes and distress (see Table 3). For exploratory moderator analysis,
+age, gender and time since diagnosis were analysed (there were less than 10 studies for both experi-
+ential avoidance and acceptance with the moderator ‘time since diagnosis ’so these were not
+included). There were no moderator eﬀ ects on the relationship between any of the processes and
+distress (see Table 3).
+3.6. Narrative synthesis of remaining processes
+Meta-analyses could not be conducted on self-as-context, committed action, values and
+overall psychological ﬂexibility due to the limited number of studies for each process, so a
+Figure 6. Meta-analysis for self-compassion and distress outcomes.
+Table 3. Moderator analysis.
+Process and distress Moderator kn I2R2B SE 95% CI
+Experiential avoidance Stage 13 1410 62.67% 0.00% 0.000 0.001 -0.002, 0.003
+Age 17 1822 68.85% 20.94% 0.011 0.011 -0.002, 0.021
+Gender 17 1822 69.80% 17.29% 0.002 0.002 -0.001, 0.010
+Acceptance Stage 13 2025 85.47% 0.00% -0.001 0.002 -0.005, 0.004
+Age 16 2393 79.46% 6.71% 0.011 0.011 -0.004, 0.022Gender 15 2172 79.68% 13.16% -0.003 0.002 -0.011, 0.001
+Present moment awareness Stage 28 4850 93.85% 0.00% 0.000 0.002 -0.004, 0.004
+Age 26 4162 92.87% 2.29% -0.013 0.011 -0.034, 0.010
+Gender 30 5146 93.34% 0.00% -0.000 0.002 -0.004, 0.004
+Time since diagnosis 14 1940 87.56% 2.46% -0.065 0.060 -0.173, 0.044
+Self-compassion Stage 13 2394 73.93% 0.00% 0.001 0.004 -0.007, 0.009
+Age 17 3035 70.56% 0.00% 0.002 0.005 -0.010, 0.011
+Gender 20 3525 66.09% 0.00% -0.001 0.001 -0.003, 0.001
+Time since diagnosis 10 1703 58.27% 16.01% -0.023 0.021 -0.064, 0.020
+Note: n= overall sample size; k= number of e ﬀect sizes included; I2= residual heterogeneity; R2= amount of heterogeneity
+accounted for; B = estimate; SE = standard error; CI = con ﬁdence interval; time since diagnosis was not run as a moderator
+for experiential avoidance or acceptance and distress due to there being less than 10 eligible studies; no moderator analysiswas run for cognitive fusion due to less than 10 studies overall.12 S. FAWSON ET AL.
+narrative synthesis was completed (details of extracted information and data are available in Table
+S6).
+3.6.1. Self-as-context
+One dissertation explored self-as-context in a mixed cancer sample of 164 (8). There was a signi ﬁcant
+negative correlation between self-as-context and depression ( r= -0.22); however, a non-signiﬁ cant
+association was found for anxiety ( r= 0.10).
+3.6.2. Committed action and values
+One cross-sectional study (75) was conducted with 75 mixed cancer participants. There were signi ﬁ-
+cant moderate-strong negative correlations between the engaged living scale (measuring com-mitted action and values) and distress outcomes ( r= -0.50 to -0.56). In regression analyses,
+engaged living was signi ﬁcantly associated with lower depression ( β= -0.33), however, it was not sig-
+niﬁcantly associated with lower anxiety.
+3.6.3 Committed action
+Two studies (8,97) explored committed action with distress outcomes. These cross-sectional studiesincluded breast cancer and mixed cancer sample ( n= 82 and 164). In one study (97), there were sig-
+niﬁcant, moderate negative correlations for committed action and distress outcomes ( r= -0.46 to
+-0.53). However, in the grey literature study (8), associations in the opposite direction were foundwith committed action signi ﬁcantly positively associated with distress outcomes ( r= 0.32 to 0.36).
+3.6.4. Values
+Five cross-sectional studies (8,22,52,62,63) and one longitudinal study (47) explored values in four
+mixed and two breast cancer samples, with samples from 32-203. A meta-analysis was not con-
+ducted as values measures were not comparable in de ﬁnition. Value progress, success and impor-
+tance was negatively correlated with anxiety, depression and distress (8,22,52,62,63; r= -0.43 to
+-0.16), whilst value obstruction was positively associated with anxiety and depression (52,62,63; r
+= 0.61 to 0.66). In line with this, those who were anxious or depressed reported worse discrepanciesbetween value importance and value attainment in di ﬀerent domains, at di ﬀerent time points com-
+pared to those who were not anxious or depressed (47). Another study found similar conclusions forvalues success in di ﬀerent value domains being positively correlated with emotional wellbeing (22; r
+= 0.34 to 0.50). However, greater commitment to family values was negatively correlated with
+emotional wellbeing ( r= -0.29), and values success in romantic relationships was negatively associ-
+ated with emotional wellbeing in females (22; β= -0.26), whilst controlling for avoidance.
+3.6.5. Overall psychological ﬂexibility
+Two cross-sectional studies (60,84) measured overall psychological ﬂexibility, with samples ranging
+from 144 to 286, both consisting of prostate cancer. There were strong, negative associations forpsychological ﬂexibility and distress ( r= -0.69 and -0.67), and psychological ﬂexibility was signi ﬁ-
+cantly associated with lower distress when controlling for age, self-esteem and stoicism ( β= -0.41)
+and fear of recurrence ( β= -0.56).
+3.7. Risk of bias across studies
+The GRADE assessment was used to assess bias across study outcomes in meta-analyses (Guyatt
+et al., 2008 ). Overall, the quality of evidence was very low for three processes and low for two pro-
+cesses (see Table S9 in supplementary materials). The meta-analyses for acceptance and present
+moment awareness scored serious or very serious in more than one domain. All meta-analyses
+scored serious or very serious for inconsistency as heterogeneity scores were high. However, datawere relatively precise with four out of ﬁve meta-analyse scoring not serious for imprecision andHEALTH PSYCHOLOGY REVIEW 13
+none were serious for reporting bias. For a summary of the assessment of narrative syntheses see
+supplementary materials S9.
+4. Discussion
+This review has been the ﬁrst to quantify the direction and strength of relationships using meta-
+analysis between ACT processes, including the ACT-adjunct process of self-compassion, and distress
+in patients with cancer. Empirical research in this area has increased over recent years, with 26
+studies published between 2020 and 2022 alone, making this systematic review and meta-analysis
+particularly timely to guide the direction and quality of future research. This review provides a com-
+prehensive overview by including a total of 110 manuscripts. Meta-analyses revealed signi ﬁcant
+associations between ACT processes and distress outcomes for people with cancer, whereby
+higher scores on ﬂexible processes (present moment awareness, acceptance, and self-compassion)
+are associated with lower distress, and higher scores on in ﬂexible processes (experiential avoidance,
+cognitive fusion) are associated with higher distress. This aligns with previous separate reviews onacceptance, self-compassion, and distress in cancer and other physical health populations
+(Hughes et al., 2021 ; Secinti et al., 2019 ). Narrative syntheses indicate that less investigated processes
+of values and overall psychological ﬂexibility show promising moderate to strong associations with
+distress in the directions expected. However, only three studies explored self-as-context and com-mitted action, with mixed results. This review provides empirical support for the theorised relation-ships between distress in patients with cancer and the ﬂexible and in ﬂexible processes depicted in
+the ACT model, with directions of association as suggested by the model.
+Meta-analyses revealed large signi ﬁcant positive relationships between distress and experiential
+avoidance and distress and cognitive fusion indicating that greater in ﬂexibility is associated with
+greater levels of distress. Self-compassion had a moderate negative pooled correlation with distresswhile present moment awareness had a slightly weaker, moderate negative pooled correlation withdistress suggesting greater levels of these ﬂexible processes are associated with lower levels of dis-
+tress. The weakest relationship was observed between acceptance and distress. Data from themajority of cross-sectional regression analyses whilst controlling for covariates support theseresults, providing additional support for the relationships between these ACT processes and distress,
+over and above some demographic/clinical and/or psychological variables. However, these data are
+limited for cognitive fusion and only experiential avoidance had data from longitudinal studies tosupport this process predicting distress over time. Results were however across a variety of cancer
+samples. Similar relationships have been found in other physical health populations, such as in ﬂam-
+matory bowel disease, multiple sclerosis and diabetes (Hughes et al., 2021 ; Jedel et al., 2013 ; Pagnini
+et al., 2019 ; Trindade et al., 2016 ,2018 ; Valvano et al., 2016 ). In line with the in ﬂexible processes in
+ACT, fusing with or avoiding di ﬃcult emotions, thoughts or memories was associated with distress. It
+is understandable that people with cancer and other physical health conditions may have particu-
+larly di ﬃcult emotions and thoughts around future recurrence/relapse, mortality, ongoing treat-
+ment, and memories from past treatment; however, responding to these in an in ﬂexible way may
+be problematic. Conversely, the ﬂexible processes of being present and, especially being self-com-
+passionate in facing di ﬃculties, were associated with lower distress. The transdiagnostic evidence
+across di ﬀerent physical health conditions for these relationships, from previous research as well
+as this review, supports the universal processes approach of ACT which is designed to be auniﬁed process-driven model to reduce su ﬀering and improve wellbeing (Hayes, 2019 ). The
+uniﬁed, process-based model can help to promote e ﬀective treatment strategies across conditions
+that experience similar unpleasant sensations and uncertainty. This transdiagnostic approach maybroaden the access and availability of treatment, potentially improving outcomes for patients
+with cancer.
+The smallest relationship was found between acceptance and distress, with a weak negative
+pooled correlation observed. Although a weak relationship was found, this is in the direction14 S. FAWSON ET AL.
+expected with greater acceptance associated with lower levels of distress. Some cross-sectional
+regression data controlling for covariates supported this relationship, however there was a lack oflongitudinal studies conducted. According to ACT, the willingness to experience diﬃ cult emotions
+and thoughts should be associated with better psychological outcomes (Hayes et al., 2006 ). The
+small eﬀ ect found in this review may be due to measurements of acceptance being developed
+from di ﬀerent theoretical models and de ﬁnitions, such that acceptance was not adequately opera-
+tionally de ﬁned to ensure consistency across participants completing the measures (McAndrews
+et al., 2019 ). For example, the COPE inventory (Carver, 1997 ; Carver et al., 1989 ) was included in
+this review as a measure of acceptance as it has an active/process stance which ACT proposes,
+rather than acceptance as an end point or as resignation which is incongruent with the ACT
+model (Hayes et al., 2006 ; Hulbert-Williams & Storey, 2016 ). However, due to the variation of
+deﬁnitions of acceptance (McAndrews et al., 2019 ), the COPE may be interpreted by participants
+as coping with the diagnosis label itself or another stressful life event, rather than the ongoingprocess of living with cancer. It may therefore fail to capture the experiential, ACT-based processlike the emotional acceptance scale (Politi et al., 2007 ). Whilst data were insuﬃ cient for meta-analysis
+using this subscale, the narrative synthesis supports this, with moderate relationships found with dis-tress. The results are similar to a previous review (Secinti et al., 2019 ) which used an integrated model
+of acceptance, combining all coping measures, ACT measures and acceptance of illness measures,
+not necessarily all congruent with the ACT process model stance. The fact that small to moderate
+eﬀects were found suggests neither method is adequately measuring the core ACT process of accep-
+tance. Combining measures which are conceptually distinct from one another may also be unhelpful
+when deciding on de ﬁnitions and models when developing interventions. Clear evidence for the-
+ories is needed to drive intervention development and speci ﬁcally inclusion of processes of
+change. Similar to recommendations by Secinti et al. ( 2019 ), the current results suggest that the
+development of a measure of acceptance which encapsulates more of the cancer experience and
+in an ACT congruent way is needed, providing a clearer de ﬁnition and conceptualisation for
+future research.
+Although not a central tenet of the psychological ﬂexibility model, self-compassion ﬁts with the
+ACT approach in bringing awareness to su ﬀering and distress as shared aspects of the human experi-
+ence, to be acknowledged without self-criticism, a potentially pertinent process for those with
+cancer. Therefore, although self-compassion is interwoven throughout ACT in practice and training
+and seen as a potential mechanism of change, it is not adequately conceptualised within the model(Carvalho et al., 2022 ;N eﬀ& Tirch, 2013 ). The lack of formal inclusion in the model poses the question
+of how this process is utilised in ACT therapy, how it is developed if there is no clear theoreticalunderpinning, and whether it depends on the therapists ’skill. It also gives rise to uncertainty regard-
+ing the actual core processes of ACT (Arch et al., 2022 ). Although self-compassion is an inherent value
+in ACT (Luoma & Platt, 2015 ), Neﬀand Tirch ( 2013 ) suggest explicit self-compassion exercises are
+needed to develop the process which can act as a mechanism of change for outcomes. Theresults of this review suggest that there is a moderate negative association between self-compassion
+and distress, such that patients with higher levels of self-compassion report less distress. This,
+coupled with the ﬁndings
+of Hughes et al. ( 2021 ) and evidence that self-compassion interventions
+reduce distress (K ılıç et al., 2021 ), suggests that a more formal description and conceptualisation
+of self-compassion should be incorporated into the ACT model to promote good intervention devel-opment and delivery.
+Analyses revealed no signi ﬁcant moderators for any of the relationships between these ACT pro-
+cesses and distress. This suggests the relationships between the processes and distress did not diﬀ er
+for diﬀerent stages of diagnosis, age, gender or time since diagnosis. Type of cancer was not tested
+as a moderator due to the mixed cancer diagnoses within samples. Time since diagnosis and break-
+down of stages was often poorly reported so these results should be interpreted with caution and
+may need further research to con ﬁrm these relationships. However, previous research is generally
+mixed in ﬁnding clinical and demographic factors associated with these processes and outcomesHEALTH PSYCHOLOGY REVIEW 15
+such as distress, indicating that this may remain true transdiagnostically (Secinti et al., 2019 ). It may
+be that these factors are not key moderators and therefore the relationships between processes and
+distress do not di ﬀer throughout the cancer journey or for individuals of di ﬀerent ages, stages and
+gender. Therefore, interventions based on these processes may be suitable for a broad population ofcancer patients, potentially making implementation easier.
+Few studies investigated committed action, values, self-as-context and overall psychological ﬂexi-
+bility, so results must be interpreted with caution. A narrative synthesis of the available data ident-iﬁed some associations with distress in the expected directions, with these ﬂexible processes
+associated with lower distress in cross-sectional studies. It is surprising that there are so few
+studies providing an evidence-base for values in cancer as this is often reported as key content in
+ACT interventions for cancer patients (e.g., Mathew et al., 2021 ). However, these processes are con-
+sistently understudied in ACT literature (Arch et al., 2022 ). Values can be a di ﬃcult construct to
+measure as they are ongoing and dynamic in ACT (Barrett et al., 2019 ), and scales vary in their
+measurement with obstruction, progress and/or importance used and the process of values clarityrarely measured (McLoughlin & Roche, 2022 ). The importance of di ﬀerent values may understand-
+ably change over time and throughout the cancer journey, so there is potential to explore thisprocess at di ﬀerent points (Lampic et al., 2002 ) and may be important in the development of tailored
+ACT interventions. Both values and self-as-context are further examples of processes that are either
+diﬃcult to de ﬁne or have variations in their de ﬁnitions which can introduce uncertainty in how they
+are perceived and understood (Barrett et al., 2019 ; Zettle et al., 2018 ). It is, therefore, hard to deter-
+mine the saliency of these constructs in the model for cancer.
+The ACT theory and framework have been used to inform psychological interventions for distress
+in those with cancer. Still, the key mechanisms through which the intervention is hypothesised to
+work are often not identi ﬁed in this population. Process-Based Therapy (PBT), a more recent inter-
+vention approach proposed by Hayes and Hofmann ( 2018 ), suggests evidence-based processes of
+change should be identi ﬁed and used rather than a traditional protocolised approach (Hayes
+et al., 2020 ). They suggest this approach should be at an individual, personalised level, for a
+speciﬁ c outcome (such as distress) and for appropriate contexts such as cancer, which could increase
+the eﬃ cacy and eﬀ ectiveness of interventions. The current reviews ’results support this approach as
+it provides evidence for key mechanisms associated with distress which could be developed as
+briefer, more targeted process-based interventions or be ﬂexibly incorporated with other theoreti-
+cally aligned interventions. In addition, where appropriate, theories themselves should be tested
+and re ﬁned or adapted in their application to a speciﬁ c population considering the empirical evi-
+dence as it emerges (Levin et al., 2012 ). This review has highlighted key relationships between
+ﬂexible and in ﬂexible processes and distress in cancer providing evidence for theory development
+to inform more successful process-based interventions for those with cancer. However, identifying
+the lack of evidence for certain key processes depicted in the model, highlights a limitation to the
+model when applied to cancer and proposes the pathway for future research.
+4.1. Implications of current ﬁndings
+Understanding the key evidence-based mechanisms from the ACT model means intervention devel-
+opment can be guided by which variables should be targeted or emphasised. Successful psychologi-
+cal interventions targeting key mechanisms for managing distress in cancer have potential to reducecosts on multiple levels, including for individuals, medical systems and wider health networks (Chat-
+terton et al., 2016 ). On an individual level, distress is linked to poor adherence to ongoing treatment
+and medical recommendations, increased recurrence and poorer survival rates, so addressing this
+outcome is imperative (DiMatteo & Haskard-Zolnierek, 2011 ; Fangand & Schnoll, 2002 ). In addition,
+identifying processes that may be predictors of distress could inform screening strategies to identifythose at risk of developing distress, encouraging suitable early intervention (Hulbert-Williams &Storey, 2016 ). It could be particularly important to identify experiential avoidance and/or cognitive16 S. FAWSON ET AL.
+fusion at diagnosis as these processes had the strongest associations with distress across the
+diﬀerent cancer samples.
+4.2. Strengths and limitations
+There are several limitations to this review which need to be considered. Firstly, most studies were
+cross-sectional, meaning only meta-analyses of correlations could be conducted, limiting the ability
+to make assumptions regarding causality. The longitudinal data available were very limited and pro-vided mixed results. Second, the meta-analyses and GRADE assessment identi ﬁed signi ﬁcant hetero-
+geneity across studies. This could be due to variations in process and outcome measures used as wellas limits to the number of studies and sample sizes included. Due to the nature of the GRADE assess-ment depicting observational studies as low-quality evidence, all meta-analyses were scored as low
+or very low-quality, implying that further data are likely to be substantially diﬀ erent from the esti-
+mated results (Guyatt et al., 2008 ). However, considering the number of studies included in the
+meta-analyses, the precision and low reporting bias, further data are likely to support the overall con-clusions of the meta-analyses (particularly in the case of the directions of e ﬀects) in this review.
+Excluding patients facing end of life was one means by which heterogeneity was sought to be
+reduced. This review attempted to reduce publication bias by including grey literature, by using
+key terms for searching and conducting a wide search with several electronic databases.
+However, some relevant articles may not have been identi ﬁed, and conference abstracts were not
+included. Some studies had non-signiﬁ cant results or contradictions to expected results and some
+of these were grey literature, studies with small sample sizes and/or those of low quality. It is impor-tant that more high-quality research is published to avoid potential publication bias. The review isalso susceptible to language bias as only English-language papers were included. Several areas of
+study methodology indicated an unknown or high risk of bias. Despite these limitations, the
+current review is the ﬁrst to consolidate data on all ACT processes and the ACT-adjunct process of
+self-compassion and their association with distress in cancer.
+There are also wider limitations associated with this ﬁeld of research. The AAQ (Bond et al., 2011 ;
+Hayes et al., 2004 ) was used in 21 studies to measure experiential avoidance, however, the measure
+has been widely criticised for its strong correlations with distress due to measurement overlap
+(Tyndall et al., 2019 ). This was demonstrated in this review; however, overall results were supported
+by data from the alternative measures. As there were insuﬃ cient studies, formal subgroup analysis
+could not be conducted, which is an important consideration for future research. Findings shouldtherefore be interpreted with some caution and alternative measures of experiential avoidance
+used when measuring associations with distress. Most studies in this review were cross-sectionaland it is therefore recommended that more longitudinal studies are conducted to explore which pro-
+cesses predict distress over time as well as identifying the stability of these relationships. A diagnosis
+of cancer may require continual self-management and adjustment to changes in treatment andstatus. Understanding how the key processes are relevant to an individual ’s experience of living
+with cancer will help tailor future research and interventions (McCanney et al., 2018 ). Despite
+many trials of ACT interventions in cancer being conducted, RCTs did not complete mediation orprocess analysis meaning the strongest evidence for the e ﬀect of processes on distress could not
+be synthesised.
+4.3. Future directions
+Future research should look to conduct gold standard RCTs including mediation analysis to establishwhether ACT-based treatment produces change in the corresponding processes such as reducing
+inﬂexibility or increasing ﬂexible skills, which reduce distress. In addition, mediation analysis in longi-
+tudinal observational studies would provide further insight into the processes as mechanisms in
+relationships of independent variables and the outcome of distress. A key area of unclear bias inHEALTH PSYCHOLOGY REVIEW 17
+the included observational studies was the failure to report justi ﬁcation of sample size which is
+important to inform recruitment and determine the power and interpretation of data. Researchers
+publishing studies in line with guidelines such as STROBE (Cuschieri, 2019 ) would allow for more
+transparent reporting and a clearer assessment of risk of bias. Measures also need to be developedto capture the ACT process as de ﬁned. Further research on determining clearer de ﬁnitions would aid
+stronger measurement development and consistency when responding to questionnaires. This
+would allow the model and potential mechanisms of change to be adequately tested to support
+intervention development and provide evidence of these processes translating into change (Archet al., 2022 ). Additionally, work needs to ensure de ﬁnitions are adequately translated and under-
+stood across di ﬀerent cultures, particularly in measurement development, as di ﬀerences have
+been found (e.g., Trindade et al., 2021 ).
+5. Conclusions
+Overall, the present review is the ﬁrst to consolidate the literature on ACT processes and distress in
+cancer and provides evidence from 110 manuscripts that have applied components of the ACT
+model to cancer. Most of the processes included in the meta-analyses had moderate to large associ-
+ations with distress, supporting the use of the ACT model to understand distress in cancer. Acrosscancer diagnoses, the strongest associations were found for use of the in ﬂexible processes of experi-
+ential avoidance and cognitive fusion and increased distress, whilst the use of more ﬂexible pro-
+cesses, namely present moment awareness and self-compassion, were associated with lowerdistress. Our search failed to identify any RCTs which explored ACT processes as mediators of
+change in ACT interventions for distress in cancer and should be the focus for future studies.
+Further research needs to be conducted to identify relationships between distress and self-as-context, committed action, values and overall psychological ﬂexibility. There was a paucity of longi-
+tudinal research conducted across all processes, which would allow the predictive ability of ACT pro-cesses on distress in cancer to be examined. Measures of processes also need to be developed basedon clear conceptual de ﬁnitions. Research developments in this area will help address and under-
+stand the maintenance and alleviation of the common experience of distress in those with cancer.
+Acknowledgements
+The views expressed are those of the author and not necessarily those of the NHS, the NIHR or theDepartment of Health and Social Care.
+Disclosure statement
+No potential conﬂ ict of interest was reported by the author(s).
+Funding
+Sophie Fawson is in receipt of a PhD studentship funded by the National Institute for Health and Care Research (NIHR)
+Biomedical Research Centre at South London and Maudsley NHS Foundation Trust and King ’s College London.
+ORCID
+Sophie Fawson http://orcid.org/0000-0001-5907-0562
+Zoe Moon http://orcid.org/0000-0002-5242-1718
+Katherine Novogrudsky http://orcid.org/0000-0003-3482-6727
+Faye Moxham http://orcid.org/0000-0001-6723-2162
+Rona Moss-Morris http://orcid.org/0000-0002-2927-3446
+Lyndsay D. Hughes http://orcid.org/0000-0003-4907-016818 S. FAWSON ET AL.
+References
+Appelbaum, M., Cooper, H., Kline, R. B., Mayo-Wilson, E., Nezu, A. M., & Rao, S. M. ( 2018 ). Journal article reporting stan-
+dards for quantitative research in psychology: The APA Publications and Communications Board task force report.
+American Psychologist ,73(1), 3 –25.https://doi.org/10.1037/amp0000191
+Arch, J. J., Fishbein, J. N., Finkelstein, L. B., & Luoma, J. B. ( 2022 ). Acceptance and commitment therapy processes and
+mediation: Challenges and How to address them. Behavior Therapy, doi:https://doi.org/10.1016j.beth.2022.07.005
+Barrett, K., O ’Connor, M., & McHugh, L. ( 2019 ). A systematic review of values-based psychometric tools within accep-
+tance and commitment therapy (ACT). The Psychological Record, 69(4), 457 –485. doi:https://doi.org/10.
+1007s40732-019-00352-7
+Bennett, R., & Oliver, J. E. ( 2019 ).Acceptance and commitment therapy: 100 key points and techniques . Routledge.
+Bond, F. W., Hayes, S. C., Baer, R. A., Carpenter, K. M., Guenole, N., Orcutt, H. K., & Zettle, R. D. ( 2011 ). Preliminary psycho-
+metric properties of the acceptance and action questionnaire –II: A revised measure of psychological in ﬂexibility and
+experiential avoidance. Behavior Therapy, 42(4), 676 –688. doi:https://doi.org/10.1016j.beth.2011.03.007
+Borenstein, M., Hedges, L. V., Higgins, J. P. T., & Rothstein, H. R. ( 2009 ).Meta-Regression. In introduction to meta-analysis
+(pp. 187-203). John Wiley & Sons Ltd.
+Brandenbarg, D., Maass, S. W., Geerse, O. P., Stegmann, M. E., Handberg, C., Schroevers, M. J., & Duijts, S. F. ( 2019 ). A
+systematic review on the prevalence of symptoms of depression, anxiety and distress in long-term cancer survivors:
+Implications for primary care. European Journal of Cancer Care ,28(3), 1 –14.https://doi.org/10.1111/ecc.13086
+Brunckhorst, O., Hashemi, S., Martin, A., George, G., Van Hemelrijck, M., Dasgupta, P., Stewart, R., & Ahmed, K. ( 2021 ).
+Depression, anxiety, and suicidality in patients with prostate cancer: A systematic review and meta-analysis of obser-vational studies. Prostate Cancer and Prostatic Diseases, https://doi.org/10.1038/s41391-020-00286-0
+Carlson, L. E., Zelinski, E. L., Toivonen, K. I., Sundstrom, L., Jobin, C. T., Damaskos, P., & Zebrack, B. ( 2019 ). Prevalence of
+psychosocial distress in cancer patients across 55 North American cancer centers. Journal of Psychosocial Oncology ,
+37(1), 5 –21.https://doi.org/10.1080/07347332.2018.1521490
+Carvalho, S. A., Gillanders, D., Forte, T., Trindade, I. A., Pinto-Gouveia, J., Lapa, T., Valentim, A., Santos, E., Paciência, J.,
+Guiomar, R., & Castilho, P. ( 2022 ). Self-compassion in acceptance and commitment therapy for chronic pain: A
+pilot study. Scandinavian Journal of Pain ,doi:https://doi.org/10.1515sjpain-2021-0214
+Carver, C. S. ( 1997 ). You want to measure coping but your protocol ’too
+long: Consider the brief cope. International
+Journal of Behavioral Medicine ,4(1), 92 –100. doi:https://doi.org/10.1207s15327558ijbm0401_6
+Carver, C. S., Scheier, M. F., & Weintraub, J. K. ( 1989 ). Assessing coping strategies: A theoretically based approach. Journal
+of Personality and Social Psychology ,56(2), 267. doi:https://doi.org/10.10370022-3514.56.2.267
+Chatterton, M. L., Chambers, S., Occhipinti, S., Girgis, A., Dunn, J., Carter, R,, Shih, S., & Mihalopoulos, C. ( 2016 ). Economic
+evaluation of a psychological intervention for high distress cancer patients and carers: Costs and quality-adjusted life
+years. Psycho-Oncology ,25(7), 857 –864. https://doi.org/10.1002/pon.4020
+Cohen, J. ( 1988 ).The signi ﬁcance of a product moment r. In statistical power analysis for the behavioral sciences . (2nd ed.).
+Lawrence Erlbaum Associates.
+Cuschieri, S. ( 2019 ). The STROBE guidelines. Saudi Journal of Anaesthesia ,13(Suppl 1), 31 –s34. https://doi.org/10.4103/
+sja.SJA_543_18
+Deeks, J., Higgins, J., & Altman, D. ( 2022 ). Chapter 10: Analysing data and undertaking meta-analyses. In J. P. T. Higgins, J.
+Thomas, J. Chandler, M. Cumpston, T. Li, M. J. Page, & V. A. Welch (Eds.), Cochrane handbook for systematic reviews of
+interventions (version 6.3). Cochrane.
+Dekkers, O. M., Vandenbroucke, J. P., Cevallos, M., Renehan, A. G., Altman, D. G., & Egger, M. ( 2019 ). COSMOS-E: Guidance
+on conducting systematic reviews and meta-analyses of observational studies of etiology. PLOS Medicine ,16(2),
+e1002742. https://doi.org/10.1371/journal.pmed.1002742
+DiMatteo, M. R., & Haskard-Zolnierek, K. B.. ( 2011 ). Impact of Depression on Treatment Adherence and Survival from
+Cancer. In D. W. Kissane, M. Maj, & N. Sartorius (Eds.), Depression and Cancer (pp. 101 –124). John Wiley & Sons, Ltd.
+Dindo, L., Van Liew, J. R., & Arch, J. J. ( 2017 ). Acceptance and commitment therapy: A transdiagnostic behavioral inter-
+vention for mental health and medical conditions. Neurotherapeutics ,14(3), 546 –553. https://doi.org/10.1007/
+s13311-017-0521-3
+Drapeau, A., Marchand, A., & Beaulieu-Prévost, D. ( 2012 ). Epidemiology of psychological distress. Mental Illnesses-
+Understanding, Prediction and Control ,69(2), 105 –106.
+Fangand, C. Y., & Schnoll, R. A. ( 2002 ). Impact of psychological distress on outcomes in cancer patients. Expert Review of
+Pharmacoeconomics & Outcomes Research ,2(5), 495–506. doi:https://doi.org/10.158614737167.2.5.495
+Fashler, S. R., Weinrib, A. Z., Azam, M. A., & Katz, J. ( 2018 ). The use of acceptance and commitment therapy in oncology
+settings: A narrative review. Psychological Reports ,121(2), 229 –252. doi:https://doi.org/10.11770033294117726061
+González-Fernández, S., & Fernández-Rodríguez, C. ( 2019 ). Acceptance and commitment therapy in cancer: Review of
+applications and ﬁndings. Behavioral Medicine ,45(3), 255 –269. https://doi.org/10.1080/08964289.2018.1452713
+Graham, C. D., Gouick, J., Krahe, C., & Gillanders, D. ( 2016 ). A systematic review of the use of acceptance and commit-
+ment therapy (ACT) in chronic disease and long-term conditions. Clinical Psychology Review, 46,4 6–58.doi:https://
+doi.org/10.1016j.cpr.2016.04.009HEALTH PSYCHOLOGY REVIEW 19
+Guyatt, G. H., Oxman, A. D., Vist, G. E., Kunz, R., Falck-Ytter, Y., Alonso-Coello, P., & Schünemann, H. J. ( 2008 ). GRADE: An
+emerging consensus on rating quality of evidence and strength of recommendations. bmj,336(7650), 924. https://
+doi.org/10.1136/bmj.39489.470347.AD
+Harrer, M., Cuijpers, P., Furukawa, T. A., & Ebert, D. D. ( 2021 ).Doing meta-analysis With R: A hands-On guide (1st ed.). Boca
+Raton . Chapman & Hall/CRC Press.
+Harris, R. ( 2019 ).ACT made simple (2nd ed.). New Harbinger.
+Hashemi, S.-M., Raﬁ emanesh, H., Aghamohammadi, T., Badakhsh, M., Amirshahi, M., Sari, M., Niaz, B., & Roudini, K. ( 2020 ).
+Prevalence of anxiety among breast cancer patients: A systematic review and meta-analysis. Breast Cancer ,27(2),
+166–178. https://doi.org/10.1007/s12282-019-01031-9
+Hayes, S. C. ( 2019 ). Acceptance and commitment therapy: Towards a uni ﬁed model of behavior change. World
+Psychiatry ,18(2), 226 –227. https://doi.org/10.1002/wps.20626
+Hayes, S. C., & Hofmann, S. G. ( 2018 ).Process-based CBT: The science and core clinical competencies of cognitive behavioral
+therapy . New Harbinger Publications.
+Hayes, S. C., Hofmann, S. G., & Ciarrochi, J. ( 2020 ). A process-based approach to psychological diagnosis and treatment:
+The conceptual and treatment utility of an extended evolutionary meta model. Clinical Psychology Review, 82,
+101908. doi:https://doi.org/10.1016j.cpr.2020.101908
+Hayes, S. C., Levin, M. E., Plumb-Vilardaga, J., Villatte, J. L., & Pistorello, J. ( 2013 ). Acceptance and commitment therapy
+and contextual behavioral science: Examining the progress of a distinctive model of behavioral and cognitive
+therapy. Behavior Therapy, 44(2), 180 –198. doi:https://doi.org/10.1016j.beth.2009.08.002
+Hayes, S. C., Luoma, J. B., Bond, F. W., Masuda, A., & Lillis, J. ( 2006 ). Acceptance and commitment therapy: Model, pro-
+cesses and outcomes. Behaviour Research and Therapy, 44(1), 1 –25.doi:https://doi.org/10.1016j.brat.2005.06.006
+Hayes, S. C., Strosahl, K., Wilson, K. G., Bissett, R. T., Pistorello, J., Toarmino, D., Polusny, M. A., Dykstra, T. A., Batten, S. V.,
+Bergan, J., Stewart, S. H., Zvolensky, M. J., Eifert, G. H., Bond, F. W., Forsyth, J. P., Karekla, M., McCurry, S. M., & Bergan, J.(2004 ). Measuring experiential avoidance: A preliminary test of a working model. The Psychological Record, 54(4),
+553–578. doi:https://doi.org/10.1007BF03395492
+Hayes, 
+S. C., Strosahl, K. D., & Wilson, K. G. ( 2011 ).Acceptance and commitment therapy: The process and practice of
+mindful change (second ed.) . The Guildford Press.
+Hinz, A., Krauss, O., Hauss, J., Höckel, M., Kortmann, R., Stolzenburg, J., & Schwarz, R. ( 2010 ). Anxiety and depression in
+cancer patients compared with the general population. European Journal of Cancer Care ,19(4), 522 –529. https://doi.
+org/10.1111/j.1365-2354.2009.01088.x
+Holland, J., & Bultz, B. ( 2007 ). Holland JC, Bultz BD National comprehensive Cancer Network (NCCN)The NCCN guideline
+for distress management: A case for making distress the sixth vital sign. Journal of the National Comprehensive Cancer
+Network ,5(1), 3 –7.Journal of the National Comprehensive Cancer Network: JNCCN ,5, 3-7. https://doi.org/10.6004/
+jnccn.2007.0003
+Hughes, M., Brown, S. L., Campbell, S., Dandy, S., & Cherry, M. G. ( 2021 ). Self-compassion and anxiety and depression in
+chronic physical illness populations: A systematic review. Mindfulness ,12(7), 1597 –1610. doi:https://doi.org/10.
+1007s12671-021-01602-y
+Hulbert-Williams, N. J., & Storey, L. ( 2016 ). Psychological ﬂexibility correlates with patient-reported outcomes indepen-
+dent of clinical or sociodemographic characteristics. Supportive Care in Cancer ,24(6), 2513 –2521. doi:https://doi.org/
+10.1007s00520-015-3050-9
+Hulbert-Williams, N. J., Storey, L., & Wilson, K. G. ( 2015 ). Psychological interventions for patients with cancer:
+Psychological ﬂexibility and the potential utility of acceptance and commitment therapy. European Journal of
+Cancer Care ,24(1), 15 –27.https://doi.org/10.1111/ecc.12223
+Jackson, D., & Turner, R. ( 2017 ). Power analysis for random-e ﬀects meta-analysis. Research Synthesis Methods ,8(3), 290 –
+302. doi:https://doi.org/10.1002jrsm.1240
+Jedel, S., Merriman, P., Ho ﬀman, A., Swanson, B., Fogg, L. F., & Keshavarzian, A. ( 2013 ). Relationship of mindfulness,
+quality of life, and psychiatric symptoms Among patients with ulcerative colitis. Mindfulness ,4(4), 296 –300.
+https://doi.org/10.1007/s12671-012-0128-z
+Kılıç, A., Hudson, J., McCracken, L. M., Ruparelia, R., Fawson, S., & Hughes, L. D. ( 2021 ). A systematic review of the e ﬀec-
+tiveness of self-compassion-related interventions for individuals with chronic physical health conditions. Behavior
+Therapy, 52(3), 607 –625. doi:https://doi.org/10.1016j.beth.2020.08.001
+Krebber, A. M. H., Bu ﬀart, L. M., Kleijn, G., Riepma, I. C., Bree, R., Leemans, C. R., Becker, A., Brug, J., Straten, A., Cuijpers, P.,
+& Verdonck-de Leeuw, I. M. ( 2014 ). Prevalence of depression in cancer patients: A meta-analysis of diagnostic inter-
+views and self-report instruments. Psycho-Oncology ,23(2), 121 –130. https://doi.org/10.1002/pon.3409
+Laliberte, E. ( 2019 ). metacor: Meta-Analysis of Correlation Coeﬃcients. (Version R package version 1.0-2.1). https://CRAN.
+R-project.org/package = metacor.
+Lampic, C., Thurfjell, E., Bergh, J., Carlsson, M., & Sjödén, P. O. ( 2002 ). Life values before versus after a breast cancer diag-
+nosis*. Research in Nursing & Health ,25(2), 89 –98.doi:https://doi.org/10.1002nur.10029
+Langan, D., Higgins, J. P., Jackson, D., Bowden, J., Veroniki, A. A., Kontopantelis, E., Viechtbauer, W., & Simmonds, M.
+(2019 ). A comparison of heterogeneity variance estimators in simulated random-e ﬀects meta-analyses. Research
+Synthesis Methods ,10(1), 83 –98.doi:https://doi.org/10.1002jrsm.131620 S. FAWSON ET AL.
+Levin, M. E., Hildebrandt, M. J., Lillis, J., & Hayes, S. C. (2012 ). The impact of treatment components suggested by the
+psychological ﬂexibility model: A meta-analysis of laboratory-based component studies. Behavior Therapy, 43(4),
+741–756. doi:https://doi.org/10.1016j.beth.2012.05.003
+Linden, W., Vodermaier, A., Mackenzie, R., & Greig, D. ( 2012 ). Anxiety and depression after cancer diagnosis: Prevalence
+rates by cancer type, gender, and age. Journal of A ﬀective Disorders ,141(2-3), 343 –351. https://doi.org/10.1016/j.jad.
+2012.03.025
+Luoma, J. B., & Platt, M. G. ( 2015 ). Shame, self-criticism, self-stigma, and compassion in acceptance and commitment
+therapy. Current Opinion in Psychology ,2,9 7–101. doi:https://doi.org/10.1016j.copsyc.2014.12.016
+Mathew, A., Doorenbos, A. Z., Jang, M. K., & Hershberger, P. E. ( 2021 ). Acceptance and commitment therapy in adult
+cancer survivors: A systematic review and conceptual model. Journal of Cancer Survivorship ,https://doi.org/10.
+1007/s11764-020-00938-z
+McAndrews, Z., Richardson, J., & Stopa, L. ( 2019 ). Psychometric properties of acceptance measures: A systematic review.
+Journal of Contextual Behavioral Science ,12, 261 –277. doi:https://doi.org/10.1016j.jcbs.2018.08.006
+McCanney, J., Winckworth-Prejsnar, K., Schatz, A. A., Nardi, E. A., Dwyer, A. J., Lieu, C., Biru, Y., & Carlson, R. W. ( 2018 ).
+Addressing survivorship in cancer care. Journal of the National Comprehensive Cancer Network, 16(7), 801 –806.
+https://doi.org/10.6004/jnccn.2018.7054
+McLoughlin, S., & Roche, B. T. ( 2022 ). ACT: A process-based therapy in search of a process. Behavior Therapy, doi:https://
+doi.org/10.1016j.beth.2022.07.010
+Mitchell, A. J., Ferguson, D. W., Gill, J., Paul, J., & Symonds, P. ( 2013 ). Depression and anxiety in long-term cancer survivors
+compared with spouses and healthy controls: A systematic review and meta-analysis. The Lancet Oncology ,14(8),
+721–732. https://doi.org/10.1016/s1470-2045(13)70244-4
+Morgan, R., Sterne, J., Higgins, J., Thayer, K., Schunemann, H., Rooney, A., & Taylor, K. ( 2017 ). Abstracts of the global evi-
+dence summit. South Africa ,9.doi:https://doi.org/10.100214651858.CD201702
+Mosher, C. E., Secinti, E., Li, R., Hirsh, A. T., Bricker, J., Miller, K. D., Miller, K. D., Schneider, B., Storniolo, A. M., Mina, L.,
+Newton, E. V., Champion, V. L., & Johns, S. A. (2018 ). Acceptance and commitment therapy for symptom interference
+in metastatic breast cancer patients: A pilot randomized trial. Supportive Care in Cancer ,26(6), 1993 –2004. https://doi.
+org/10.1007/s00520-018-4045-0
+National Institute for Clinical Excellence, N. ( 2004 ).Improving Supportive and Palliative Care for Adults with Cancer .
+https://www.nice.org.uk/guidance/csg4 .
+National Institute for Clinical Excellence, N. ( 2021 ).Chronic pain (primary and secondary) in over 16s: assessment of all
+chronic pain and management of chronic primary pain .https://www.nice.org.uk/guidance/ng193 .
+Neﬀ,K .D .( 2003 ). The development and validation of a scale to measure self-compassion. Self and Identity ,2(3), 223 –250.
+https://doi.org/10.1080/15298860309027
+Neﬀ, K. D., & Tirch, D. ( 2013 ). Self-compassion and ACT. In Mindfulness, acceptance, and positive psychology: The seven
+foundations of well-being (pp. 78-106).
+Ngan, H. Y., Chong, Y. Y., & Chien, W. T. ( 2021 ). Eﬀects of mindfulness- and acceptance-based interventions on diabetes
+distress and glycaemic level in people with type 2 diabetes: Systematic review and meta-analysis. Diabetic Medicine ,
+38(4), 1 –15.https://doi.org/10.1111/dme.14525
+Niedzwiedz, C. L., Knifton, L., Robb, K. A., Katikireddi, S. V., & Smith, D. J. ( 2019 ). Depression and anxiety among people
+living with and beyond cancer: A growing clinical and research priority. BMC Cancer ,19(1), 1. https://doi.org/10.1186/
+s12885-019-6181-4
+Onitilo, A. A., Nietert, P. J., & Egede, L. E. ( 2006 ). Eﬀect of depression on all-cause mortality in adults with cancer and
+diﬀerential e ﬀects by cancer site. General Hospital Psychiatry ,28(5), 396 –402. doi:https://doi.org/10.1016j.
+genhosppsych.2006.05.006
+Page, M., Higgins, J., & Sterne, J. ( 2021a ). Chapter 13: Assessing risk of bias due to missing results in a synthesis. Cochrane
+Handbook for Systematic Reviews of Interventions Version 6.2 (Updated February 2021). In.
+Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Ho ﬀmann, T. C., Mulrow, C. D., Shamseer, L., Tetzla ﬀ, J. M., Akl, E. A.,
+Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E.,
+McDonald, S., …Moher, D. ( 2021b ). The PRISMA 2020 statement: An updated guideline for reporting systematic
+reviews. Systematic Reviews ,10(1), 89. doi:https://doi.org/10.1186s13643-021-01626-4
+Pagnini, F., Cavalera, C., Rovaris, M., Mendozzi, L., Molinari, E., Phillips, D., & Langer, E. ( 2019 ). Longitudinal associations
+between mindfulness and well-being in people with multiple sclerosis. International Journal of Clinical and Health
+Psychology ,19(1), 22 –30.doi:https://doi.org/10.1016j.ijchp.2018.11.003
+Pandey, M., Devi, N., Thomas, B. C., Vinod Kumar, S., Krishnan, R., & Ramdas, K. ( 2007 ). Distress overlaps with anxiety and
+depression in patients with head and neck cancer. Social and Behavioral Dimensions of Cancer ,16(6), 582 –586.
+Pasma, A., van ’t Spijker, A., Hazes, J. M. W., Busschbach, J. J. V., & Luime, J. J. ( 2013 ). Factors associated with adherence to
+pharmaceutical treatment for rheumatoid arthritis patients: A systematic review. Seminars in Arthritis and
+Rheumatism ,43(1), 18 –28.doi:https://doi.org/10.1016j.semarthrit.2012.12.001
+Politi, M. C., Enright, T. M., & Weihs, K. L. ( 2007 ). The e ﬀects of age and emotional acceptance on distress among breast
+cancer patients. Supportive Care in Cancer ,15(1), 73 –79.https://doi.org/10.1007/s00520-006-0098-6HEALTH PSYCHOLOGY REVIEW 21
+Rabkin, J. G., McElhiney, M., Moran, P., Acree, M., & Folkman, S. ( 2009 ). Depression, distress and positive mood in late-
+stage cancer: A longitudinal study. Psycho-oncology: Journal of the psychological .Social and Behavioral Dimensions of
+Cancer ,18(1), 79 –86.
+R Core Team. ( 2020 ). R: A language and environment for statistical computing (Version 4.0.3). Vienna, Austria R
+Foundation for Statistical Computing. https://www.R-project.org/ .
+Rhodes, R. E., & Smith, N. ( 2006 ). Personality correlates of physical activity: A review and meta-analysis. British Journal of
+Sports Medicine ,40(12), 958 –965. doi:http://doi.org/10.1136bjsm.2006.028860
+Richards, D. A. ( 2012 ). Stepped care: A method to deliver increased access to psychological therapies. The Canadian
+Journal of Psychiatry ,57(4), 210 –215. doi:https://doi.org/10.1177070674371205700403
+Ruiz, F. J. ( 2010 ). A review of acceptance and commitment therapy (ACT) empirical evidence: Correlational, experimental
+psychopathology, component and outcome studies. International Journal of Psychology and Psychological Therapy,
+10(1), 125 –162.
+Ryan, R. ( 2016 ).Cochrane Consumers and Communication Group reviews: meta-analysis .http://cccrg.cochrane.org.
+Salari, N., Rezaie, L., Khazaie, H., Bokaee, S., Ghasemi, H., Mohammadi, M., & Khaledi-Paveh, B. ( 2021 ). The e ﬀect of accep-
+tance and commitment therapy on anxiety and depression in patients with cancer: A systematic review. Current
+Psychology , 5694 –5716. doi:https://doi.org/10.1007s12144-021-01934-x
+Sanderson, S., Tatt, I. D., & Higgins, J. P. ( 2007 ). Tools for assessing quality and susceptibility to bias in observational
+studies in epidemiology: A systematic review and annotated bibliography. International Journal of Epidemiology ,
+36(3), 666 –676. https://doi.org/10.1093/ije/dym018
+Secinti, E., Tometich, D. B., Johns, S. A., & Mosher, C. E. ( 2019 ). The relationship between acceptance of cancer and dis-
+tress: A meta-analytic review. Clinical Psychology Review, 71,2 7–38.doi:https://doi.org/10.1016j.cpr.2019.05.001
+Skivington, K., Matthews, L., Simpson, S. A., Craig, P., Baird, J., Blazeby, J. M., Skivington, K., Matthews, L., Simpson, S. A.,
+Craig, P., Baird, J., Blazeby, J. M., Boyd, K. A., Craig, N., French, D. P., McIntosh, E., Petticrew, M., Rycroft-Malone, J.,
+White, M., & Moore, L. ( 2021 ). A new framework for developing and evaluating complex interventions: Update of
+medical research council guidance. bmj,374),doi:https://doi.org/10.1136bmj.n2061
+Strong,
+V., Waters, R., Hibberd, C., Rush, R., Cargill, A., Storey, D., Strong, V., Waters, R., Hibberd, C., Rush, R., Cargill, A.,
+Storey, D., Walker, J., Wall, L., Fallon, M., & Sharpe, M. ( 2007 ). Emotional distress in cancer patients: The Edinburgh
+cancer centre symptom study. British Journal of Cancer ,96(6), 868 –874. https://doi.org/10.1038/sj.bjc.6603626
+Sung, H., Ferlay, J., Siegel, R. L., Laversanne, M., Soerjomataram, I., Jemal, A., & Bray, F. ( 2021 ). Global cancer statistics
+2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA: A Cancer
+Journal for Clinicians ,71(3), 209 –249. doi:https://doi.org/10.3322caac.21660
+Trindade, I. A., Ferreira, C., & Pinto-Gouveia, J. ( 2016 ). Inﬂ ammatory bowel disease: The harmful mechanism of experi-
+ential avoidance for patients ’quality of life. Journal of Health Psychology ,21(12), 2882 –2892. https://doi.org/10.1177/
+1359105315587142
+Trindade, I. A., Ferreira, C., & Pinto-Gouveia, J. ( 2018 ). The longitudinal e ﬀects of emotion regulation on physical and
+psychological health: A latent growth analysis exploring the role of cognitive fusion in in ﬂammatory bowel
+disease. British Journal of Health Psychology ,23(1), 171 –185. https://doi.org/10.1111/bjhp.12280
+Trindade, I. A., Ferreira, N. B., Mendes, A. L., Ferreira, C., Dawson, D., & Golijani-Moghaddam, N. ( 2021 ). Comprehensive
+assessment of acceptance and commitment therapy processes (CompACT): measure re ﬁnement and study of
+measurement invariance across Portuguese and UK samples. Journal of Contextual Behavioral Science ,21,3 0–36.
+doi:https://doi.org/10.1016j.jcbs.2021.05.002
+Tyndall, I., Waldeck, D., Pancani, L., Whelan, R., Roche, B., & Dawson, D. L. ( 2019 ). The acceptance and action question-
+naire-II (AAQ-II) as a measure of experiential avoidance: Concerns over discriminant validity. Journal of Contextual
+Behavioral Science ,12, 278 –284. doi:https://doi.org/10.1016j.jcbs.2018.09.005
+Valvano, A., Floyd, R. M., Penwell-Waines, L., Stepleman, L., Lewis, K., & House, A. ( 2016 ). The relationship between cog-
+nitive fusion, stigma, and well-being in people with multiple sclerosis. Journal of Contextual Behavioral Science ,5(4),
+266–270. doi:https://doi.org/10.1016j.jcbs.2016.07.003
+Walker, J., Holm Hansen, C., Martin, P., Sawhney, A., Thekkumpurath, P., Beale, C., Mulrow, C. D., Shamseer, L., Tetzla ﬀ,J .
+M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W.,Mayo-Wilson, E., …Moher,
+D. ( 2013 ). Prevalence of depression in adults with cancer: A systematic review. Annals
+of Oncology ,24(4), 895 –900. https://doi.org/10.1093/annonc/mds575
+Winger, J. G., Adams, R. N., & Mosher, C. E. ( 2016 ). Relations of meaning in life and sense of coherence to distress in
+cancer patients: A meta-analysis. Psycho-Oncology ,25(1), 2 –10.https://doi.org/10.1002/pon.3798
+World Cancer Report: Cancer Research for Cancer Prevention. ( 2020 ). (C. Wild, E. Weiderpass, & B. Stewart Eds.): Lyon:
+International Agency for Research on Cancer.
+World Health Organization. ( 2021 ). Cancer. https://www.who.int/health-topics/cancer#tab = tab_1.
+Zettle, R. D., Gird, S. R., Webster, B. K., Carrasquillo-Richardson, N., Swails, J. A., & Burdsal, C. A. ( 2018 ). The self-as-context
+scale: Development and preliminary psychometric properties. Journal of Contextual Behavioral Science ,10,6 4–74.doi:
+https://doi.org/10.1016j.jcbs.2018.08.01022 S. FAWSON ET AL.

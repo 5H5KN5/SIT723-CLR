@@ -1,0 +1,1025 @@
+METHODOLOGY Open Access
+Action, actor, context, target, time (AACTT):
+a framework for specifying behaviour
+Justin Presseau1,2,3*, Nicola McCleary1,2, Fabiana Lorencatto4, Andrea M. Patey1, Jeremy M. Grimshaw1,2,5and
+Jill J. Francis6
+Abstract
+Background: Designing implementation interventions to change the behaviour of healthcare providers and other
+professionals in the health system requires detailed specification of the behaviour(s) targeted for change to ensure
+alignment between intervention components and measured outcomes. Detailed behaviour specification can help
+to clarify evidence-practice gaps, clarify who needs to do what differently, identify modifiable barriers and enablers,
+design interventions to address these and ultimately provides an indicator of what to measure to evaluate an
+intervention ’s effect on behaviour change. An existing behaviour specification framework proposes four domains
+(Target, Action, Context, Time; TACT), but insufficiently clarifies who is performing the behaviour (i.e. the Actor).
+Specifying the Actor is especially important in healthcare settings characterised by multiple behaviours performed
+by multiple different people. We propose and describe an extension and re-ordering of TACT to enhance its utility
+to implementation intervention designers, practitioners and trialists: the Action, Actor, Context, Target, Time (AACTT)
+framework. We aim to demonstrate its application across key steps of implementation research and to provide tools
+for its use in practice to clarify the behaviours of stakeholders across multiple levels of the healthcare system.
+Methods and results: We used French et al. ’s four-step implementation process model to describe the potential
+applications of the AACTT framework for (a) clarifying who needs to do what differently, (b) identifying barriers and
+enablers, (c) selecting fit-for-purpose intervention strategies and components and (d) evaluating implementation
+interventions.
+Conclusions: Describing and detailing behaviour using the AACTT framework may help to enhance measurement
+of theoretical constructs, inform development of topic guides and questionnaires, enhance the design of
+implementation interventions and clarify outcome measurement for evaluating implementation interventions.
+Keywords: Behaviour, Framework, Behaviour specification, TACT, Behaviour change, Health professional behaviour
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated.* Correspondence: jpresseau@ohri.ca
+1Clinical Epidemiology, Ottawa Hospital Research Institute, Ottawa, Canada
+2School of Epidemiology and Public Health, University of Ottawa, Ottawa,
+Canada
+Full list of author information is available at the end of the article
+Presseau et al. Implementation Science          (2019) 14:102 
+https://doi.org/10.1186/s13012-019-0951-x
+Background
+Innovations in health research have the potential to im-
+prove health but harnessing this potential requires that
+effective innovations be translated into routine health-
+care. Unfortunately, evidence-practice gaps continue to
+be documented: medicines are inappropriately pre-
+scribed [ 1], patient safety practices are not enacted [ 2]
+and harmful practices persist [ 3]. Sub-optimal clinical
+practices (over, under and misuse of tests/treatments)
+result in avoidable morbidity and mortality [ 4]. Such
+gaps in care are consistent across countries and clinical
+areas, leading some to suggest that health research is ‘all
+breakthrough, no follow through ’[5]. Implementation
+science emerged in response to this, focusing on the
+rigorous scientific study and development of a cumula-
+tive evidence-base for how best to address evidence-
+practice gaps. A foundational requirement of implemen-
+tation is the need for someone (usually more than one
+person or group), somewhere (from organisational lead-
+ership through to those providing direct patient care)
+doing something (usually more than one thing) differ-
+ently . In short, taking up new evidence requires health-
+care providers and other health system stakeholders to
+change their behaviour.
+Given the centrality of behaviour in implementation
+science, there is a need for describing behaviour as
+clearly as possible. Doing so may help to (a) clarify
+evidence-practice gaps, (b) clarify the various people and
+groups at different levels that need to do something dif-
+ferently, (c) identify modifiable barriers and enablers and
+design implementation interventions to address them,
+(d) provide an indicator of what to measure to evaluatean intervention ’s effect and (e) ultimately facilitate evi-
+dence synthesis. A generalisable framework may help to
+ensure consistency in the description and specification
+of behaviour in implementation research.
+In the mid-twentieth century, after social psychologists
+identified that scores on attitude measures were not as-
+sociated with actual behaviour [ 6], Fishbein [ 7] proposed
+that the low predictive validity of attitude measures
+could be addressed by assessing attitude to an action
+(e.g. voting for a specific political party) rather than
+assessing attitude to the target of that action (e.g. the
+political party). While now taken for granted, this focus
+on the action led to a paradigm shift in attitude-
+behaviour research and was a key principle underlying
+the Theory of Reasoned Action. Extending the approach,
+Ajzen [ 8] proposed the Theory of Planned Behaviour for
+predicting and explaining human behaviour in a specific
+context at a specific time. Together, these ideas gave rise
+to the specification of behaviour according to what be-
+came known as TACT: Target, Action, Context, Time
+[9]. Similarly, Michie and Johnston [ 10] proposed that
+when behaviours are described in terms of what, who,
+when, where and how, they are more actionable and
+hence more likely to be performed.
+Clear specification of the behaviour is a key though often
+overlooked first step in conducting implementation re-
+search for a range of study objectives, such as identifying
+influences (barriers and enablers, and determinants) on
+behaviour or designing implementation interventions to
+support behaviour change among stakeholders in the
+health system. Despite half a century of guidance on behav-
+iour specification, research is frequently published in which
+the behaviour is poorly specified. A systematic review of 67
+reports of behaviour change interventions found that the
+Action domain was clearly specified in 69% of reports, and
+that all components of the TACT framework were
+described in only 5 (7.5%) reports [ 11]. Poor specification
+makes it difficult to measure behaviour and behaviour
+change. Clear specification facil itates strong compatibility
+between the behaviour under investigation and the theore-
+tical constructs that predict that behaviour, which enhances
+prediction (cf. the principle of compatibility) [ 12,13].
+Consider the following description of a potential
+guideline-recommended clinical behaviour for primary
+care practitioners: ‘For people with diabetes, record a
+blood pressure reading in the patient ’s medical records ’
+(Example 1). Using the TACT framework to unpack this
+recommendation, the two specified components are the
+Target (people with diabetes) and the Action (record a
+blood pressure reading in the patient ’s medical record).
+While a seemingly straightforward description, it is not
+clear who should do the behaviour and when and where
+it should take place. Leaving this implicit introduces am-
+biguity that may undermine change efforts as well asContributions to the literature
+/C15Behaviour change is a fundamental outcome of interest in
+implementation science and underpins change at multiple
+health care levels, but behaviour is often not clearly specified
+/C15Detailed behaviour specification helps to clarify evidence-
+practice gaps, clarify who needs to do what differently,
+identify barriers and enablers, design interventions and
+provides an indicator of what to measure to evaluate an
+intervention ’s effect on behaviour change
+/C15Existing frameworks (TACT) do not clarify the Actor(s)
+(e.g. clinicians) performing the behaviour, an important
+distinction given multiple Actors and multiple Actions of
+interest in implementation science
+/C15We propose an extension: the Action, Actor, Context, Target,
+Time (AACTT) framework for behaviour specification
+/C15We provide practical tools to aid in AACTT-specification for a
+range of implementation study designsPresseau et al. Implementation Science          (2019) 14:102 Page 2 of 13
+measurement of whether or not the behaviour has been
+performed.
+Drawing upon Fishbein and Ajzen ’s[9] early advice, a
+clearer, more actionable specification could be: ‘For
+people with diabetes ( Target ), record a blood pressure
+reading in the patient ’s medical records ( Action ) in the
+primary care clinic ( Context ) when they attend for their
+annual diabetes review ( Time )’(Example 2). Example 2
+specifies further components of the behaviour: Time
+(when patients attend) and Context (primary care clinic).
+This enhanced specification corresponds to the TACT
+framework, but still lacks a fundamental component:
+who (i.e. which person or people on the primary care
+team) is responsible for performing the Action. Further-
+more, Example 2 arguably involves a sequence of
+discrete Actions (taking the blood pressure reading,
+accessing the patient ’s medical records, entering the
+blood pressure reading into the record). It may also in-
+clude ancillary behaviours such as inviting the patient to
+attend the clinic for the annual review. These actions
+may be performed by different primary care staff (e.g.
+physician, nurse, administrator) to support the focal be-
+haviour of interest. This dimension of specification is
+not included in the TACT framework, which assumes
+that the individual is performing the behaviour for them-
+selves. In implementation research, individuals often
+perform a behaviour for someone else ’s benefit (i.e. the
+Target, such as a patient). We propose to expand the
+TACT framework to guide specification of behaviour in
+terms of not only Target, Action, Context and Time but
+also Actor —the person(s) who will perform the Ac-
+tion(s). By clarifying the Actor, the Action then becomes
+clearer and more specific, allowing for clarification of
+complex behaviours (or sequences of behaviour) in
+terms of different Actions performed by different Actors
+in the health care setting at different times (i.e. prepara-
+tory and sequential Actions).
+AACTT: an expanded framework for specifying behaviour
+We propose the AACTT framework (Action, Actor,
+Context, Target, Time) for specifying behaviour. Re-
+arranging the order of domains in the framework reflects
+a more easily defined sequence for specifying behaviour
+than TACT that naturally begins with the Action and
+who performs it.
+Although it may sometimes seem obvious who is to
+perform the Action, for behaviours that are performed
+by healthcare professionals or teams for, with or on be-
+half of their patients, specification of the Actor is par-
+ticularly helpful. Indeed, healthcare delivery behaviours
+have been described as ‘collective behaviours ’, suggesting
+that role confusion may be a barrier to performance [ 14]
+that could be illuminated by careful specification of the
+behaviour at the outset using AACTT.While Action and Actor are important, specification of
+Context and Time allows the responder to keep these
+elements in mind when answering a questionnaire,
+responding in an interview or changing their behaviour.
+Behaviours are inherently tied to the time and place in
+which they occur, and thus clarification of these ele-
+ments provides an opportunity to situate analyses of bar-
+riers and enablers and intervention design within the
+contexts that behaviours take place. Recent theoretical
+advances emphasise the role of associative processes in
+behaviour [ 15], including automatic processes [ 16–19].
+Specification of contextual and temporal cues in ques-
+tionnaire items, interview topic guides and observational
+tools may increase the validity of responses, especially if
+the behaviour has an element of automaticity. Context
+and time may also be important for identifying when
+and where it is appropriate to perform an Action, thus
+informing implementation efforts.
+When considering the behaviour of individuals and
+teams as they deliver health care, a further refinement of
+the‘Target ’domain is appropriate. ‘Target ’is often ex-
+plained as (performing) an Action tosomeone, i.e. who
+the behaviour is targeted at. However, current models of
+healthcare delivery place a focus on patients as active
+participants in their health care, and thus as a collabor-
+ator with the healthcare professional. Hence, rather than
+performing an Action toa passive recipient, the health-
+care professional may act with orforthe patient. Thus, it
+is recommended that researchers frame (i) Action and
+(ii) Target as (i) doing what? (ii) to,for,with oron behalf
+ofwhom?
+In doing so, the Actor-Target relationship need not
+only reflect a healthcare professional-patient relation-
+ship. As demonstrated in Fig. 3, for healthcare profes-
+sionals working in a team, one healthcare professional ’s
+(Actor A) behaviour (Action A) may be for the benefit
+of another healthcare professional (Target A), enabling
+the latter ’s subsequent behaviour (Action B). Such hori-
+zontal sequences within teams also apply to specifying
+the behaviour of vertical sequences of behaviour within
+the health system, where a policymaker ’s (Actor A) be-
+haviour (Action A) sets the stage for a healthcare ad-
+ministrator (Target A/Actor B) to perform a behaviour
+within their role (Action B) that benefits the healthcare
+professional (Target B/Actor C) and enables them to
+provide care (Behaviour C) to benefit their patients
+(Target C). Thus, a given Actor ’s Target can also be
+another Actor in the system.
+AACTT provides common elements that can be used
+for consistent description and specification of behaviour.
+By extension, AACTT can be used to describe the
+sequence of multiple behaviours of multiple Actors at
+different levels of the organisation required to enact
+change. For instance, in the case of promoting handPresseau et al. Implementation Science          (2019) 14:102 Page 3 of 13
+hygiene in hospital, AACTT provides a means for clari-
+fying the behaviour of those engaging in hand sanitizing
+behaviour, but also the leadership in the organisation
+whose policy-enacting behaviour sets the stage for mid-
+dle management to engage in procurement behaviour to
+provide hand sanitizing stations and gels, through to
+maintenance staff engaging in refilling behaviour to
+ensure sanitizing gel is available for the healthcare
+providers. Each behaviour by these organisational Actors
+is required for healthcare providers to engage in hand-
+sanitizing activities. Rather than making implicit as-
+sumptions about such a sequence of behaviours or
+describing them as separate organisational factors, the
+AACTT framework helps to unpack the complexity and
+clarify the responsibility of all behaviours in organisa-
+tional health settings, providing a clear opportunity for
+behavioural approaches to inform organisational change.
+The level of granularity or aggregation in the specifica-
+tion of each AACTT domain should be defined by what
+is measurable, useful and practical for the given applica-
+tion, to ensure practical utility.
+In summary, we propose a new framework: AACTT
+(Action, Actor, Context, Target, Time —see Table 1for
+definitions and examples) to allow for the careful delin-
+eation of ‘who does what; to, for or with whom; when;
+where? ’[10]. Herein, our aim is to demonstrate how the
+AACTT framework can be used within the main steps
+of an implementation research process and to provide a
+simple tool that implementation researchers and practi-
+tioners can use to apply the AACTT framework to
+specify the behaviour(s) of stakeholders.
+Methods
+We used French ’s four-step implementation process model
+[20] to exemplify how AACTT can be applied to each of
+the key steps of the implementation process: Step 1 (clarify-
+i n gw h on e e d st od ow h a td i f f e rently), Step 2 (using a the-
+oretical framework, which barriers and enablers need to be
+addressed), Step 3 (which intervention components couldovercome the modifiable barriers and enhance the enablers)
+and Step 4 (how can behaviour change be measured and
+understood). We selected French ’s process model to guide
+the demonstration of AACTT ’s application given that its
+foundational step involves clarifying the behaviour.
+H o w e v e r ,A A C T Ta l i g n sw i t ho t h e rp r o c e s sm o d e l s( e . g .
+Knowledge-to-Action Framework [ 21], the UK MRC
+framework for developing and evaluating complex interven-
+tions [ 22] and process evaluations [ 23]). At each step, we
+identified how the AACTT framework could be applied
+and provide published examples across a range of
+methodological approaches which align with those
+commonly used in implementation research [ 24].
+Results
+Step 1 —Using AACTT to identify who needs to do what,
+differently, when and where
+The AACTT framework can be used at this foundational
+step of implementation research to ensure coverage across
+key behaviours (Actions), stake holders (Actors, Targets) in
+the particular settings (Time , Context) of desired perform-
+ance. This helps ensure that subsequent steps remain con-
+sistent with the AACTT-specifi ed behaviour(s) established
+at the outset. Application of the AACTT framework at this
+step can help to identify which individuals at which levels
+of an organisational hierarchy need to do something differ-
+ently to implement an evidence-based practice (or indeed
+de-implement an outdated or non-evidenced practice).
+Actors often include healthcare professionals, but may also
+involve their colleagues within a team, administrative staff
+and middle and upper management whose own Actions fa-
+cilitate the clinical behaviour of the health professional, and
+ultimately patients and citiz ens behaviour. One can extend
+Actors to people at multiple levels in a healthcare system,
+e.g. organisational leadership , policy makers and political
+Actors, whose own behaviours may be centrally important
+to ensuring that the health p rofessional can engage in a
+given guideline-recommended behaviour under investiga-
+tion. The AACTT framework can be employed to unpackTable 1 AACTT framework definitions and examples
+AACTT
+domainsDefinition1Examples
+Action A discrete observable behaviour Prescribing antihypertensives, providing a referral to a specialist,
+washing hands, setting a policy
+Actor The individual or group of individuals who perform (or
+should/could) the ActionPrimary care physician, pharmacist, social worker, resident,
+administrator, middle manager, head of unit, policymaker
+Context The physical, emotional or social setting in which the
+Actor performs (or should/could) the ActionExamination room, doctor ’s office, outside a patient room, in a
+boardroom, stressful vs. calm situation, when patients ’relatives
+are present or not
+Target The individual or group of individuals for/with/on behalf of whom
+the Actor performs the ActionPatient with diabetes and blood pressure above 140/80 mmHg,
+patient wanting to quit smoking
+Time The time period and duration that the Actor performs the
+Action in the Context with/for the TargetAt annual review, next time a patient visits, every week, over the
+next 6 months
+1from Francis et al (2004)Presseau et al. Implementation Science          (2019) 14:102 Page 4 of 13
+complex organisational and hier archical inter-relationships
+into the multiple observable, measurable (and changeable)
+Actions of individuals at each level. This can provide the
+basis for clarifying whose beh aviour to focus on in a given
+investigation. Figures 1,2and3provide generalisable work-
+sheets with a worked example that can be used by imple-
+mentation researchers and practitioners, on their own or as
+part of a stakeholder engagement activity, to clarify who
+needs to do what, differently (see also Additional file 1for
+blank versions of each worksheet).
+The implication of identifying who needs to do what
+differently also suggests a need to clarify a gap in care.In specifying behaviour using the AACTT framework, it
+may become clearer where specifically evidence-practice
+gaps exist (i.e. specifically whose behaviour in what
+settings and time) rather than broader generalisations of
+evidence of gaps in care typically available to justify a
+focused implementation diagnostic effort.
+Step 2 —Using the AACTT framework to inform
+investigations to identify barriers and enablers
+Having an AACTT-specified behaviour(s) can inform
+more focused investigations into the barriers and drivers
+of Actions for each Actor. A key benefit to specifying
+Fig. 1 AACTT specification tool for a single Action, with worked example applied to improving hand hygienePresseau et al. Implementation Science          (2019) 14:102 Page 5 of 13
+the Actor using this framework is that it helps to iden-
+tify which specific agents one should engage with in
+eliciting their barriers and enablers to performing the
+Action; focusing consideration down specifically on
+those who are or could perform the Action. This may
+help in qualitative and quantitative approaches to in-
+vestigating barriers and enab lers, including interviews/
+focus groups to generate qualitative data and
+questionnaire-based quantit ative data operationalizing
+theoretical constructs hypothesised to correlate with
+implementation behaviour. At the initial stages of
+inquiry, it may not yet be clear who all these potential
+Actors and Actions are but AACTT specification al-
+lows this to be further clarified and be made explicit.
+Initial broad specification at a higher level (e.g. primary
+care staff including nurses and physicians) may help to
+recognise the potential for multiple Actors to under-
+take the same Action, and to explore during the barrier
+elicitation whether this diffusion of responsibility is
+problematic (and thus may benefit from greaterspecification for each Actor to promote role clarity) or
+acceptable/desirable (in which case a given setting may
+find it useful to allocate clear responsibility).
+Interviews/focus groups An AACTT-specified behav-
+iour provides greater focus to an interview or focus
+group to maximise the likelihood that responses are
+reflective of the specific Actions of the Actors situated in
+a time and place, which may also help with recall. Speci-
+fying the Actor up front helps to inform recruitment so
+that the respondents are those actually tasked with the
+Action (as opposed to others speaking on their behalf).
+Topic guides can then be designed to ensure that inter-
+view and focus group prompts are consistently focused
+on the AACTT-specified behaviours of the respondents
+(Actors). For instance, a broadly specified behaviour
+such as ‘improving blood pressure prescribing for pa-
+tients with type 2 diabetes ’lacks AACTT-specificity and
+thus interview/focus group questions aiming to unpack
+views on readiness to change [ 25], beliefs about
+Fig. 2 AACTT specification for focal and ancillary Actions of multiple Actors, Contexts and Times, with worked example applied to improving
+hand hygienePresseau et al. Implementation Science          (2019) 14:102 Page 6 of 13
+consequences and social influences [ 26,27] or imple-
+mentation climate and culture [ 28] may remain at a level
+that does not clarify how those views translate into un-
+derstanding who needs to do what differently and why
+they do or do not. In contrast, while ‘increasing the dose
+of existing antihypertensive medication (Action) by a
+family physician (Actor) during annual diabetes review
+(Context) for their patients with type 2 diabetes (Target)
+when their blood pressure is above 140/80 mmHg
+despite previous management (Time) ’provides an
+admittedly longer description, the specificity allows
+much greater insight into the factors that may determine
+this behaviour than might otherwise be missed by a
+broader specification. Describing the AACTT upfront
+also allows similar topic guides to be tailored to different
+Actors who may be engaging in the same or different
+Actions.This is particularly aided when using theoretical
+frameworks to inform interview topic guide develop-
+ment, such as when using the Theoretical Domains
+Framework [ 26,27], COM-B within the Behaviour
+Change Wheel [ 29] or Consolidated Framework for
+Implementation Research [ 28,30,31] to elicit views
+about barriers and enablers that are rooted in a given
+domain or construct. An AACTT-specified behaviour
+can also help a directed content analysis of theory-
+informed interviews by providing the capacity to code
+barriers and enablers described by respondents directly
+linked to a given AACTT-specified behaviour, to ensure
+that the barriers identified are in fact related to the
+Actions and Actors of interest. Importantly, AACTT-
+specification ensures that barriers and enablers are spe-
+cifically those linked to a particular Actor and behaviour
+in the time and context of performance, rather than
+Fig. 3 AACTT specification tool for team-based Actions and Actors with variable Target and consistent Context and Time, with worked examples
+applied to diabetes carePresseau et al. Implementation Science          (2019) 14:102 Page 7 of 13
+vague and broad barriers/enablers. This facilitates more
+targeted intervention development in Step 3.
+Questionnaires The original TACT framework was
+established to inform the careful development of ques-
+tionnaire items to operationalise constructs from the
+Theory of Reasoned Action, and then the Theory of
+Planned Behaviour that were used to predict behaviour
+using cross-sectional and prospective designs. This ap-
+proach, known as the principle of compatibility, involves
+developing questionnaire items tailored to the specific
+Target, Action, Context and Time to ensure consistency
+between the items measuring theoretical constructs and
+the subsequent behaviour being predicted while ensuring
+rigour in operationalisation of the theoretical constructs.
+The TACT-informed principle of compatibility was
+widely adopted in the 1980s and 1990s when testing of
+the Theory of Reasoned Action and Theory of Planned
+Behaviour grew in popularity in social and health psy-
+chology. At the turn of the century, these social cogni-
+tion models began to be adapted and adopted for use in
+implementation research to predict the behaviour of
+healthcare professionals. Francis and colleagues devel-
+oped specific guidance for developing Theory of Planned
+Behaviour-based questionnaires for use to understand
+and predict health care professional behaviour [ 32]. This
+highly cited and influential guidance provided a descrip-
+tion of how the TACT framework could be applied in
+this setting and influenced subsequent rigorous develop-
+ment of Theory of Planned Behaviour questionnaires to
+understand how its constructs explain variability in the
+behaviour of health care professionals (see Godin et al
+2008 for a review [ 33]). Such methods were also then
+adopted to operationalise other theories, while to date this
+has largely been confined to theories of behaviour [ 34],
+there is an opportunity to consider how AACTT-
+specification can be integrated into the operationalisation
+of questionnaire items for other theories, models and
+frameworks used in implementation science and in particu-
+lar those for which there is concerted effort to developed
+measures such as Consolidat ed Framework for Implemen-
+tation Research [ 35], Organizational Readiness for Change
+[36] and Normalization Process Theory [ 37]. Huijg and col-
+leagues ([ 38], see their Table 5) developed and established
+the discriminant content validity of questionnaire items
+designed to assess domains from the Theoretical Domains
+Framework in such a way to allow any Action, Actor, Con-
+text, Target, Time to be integrated into the measure, and
+Eccles and colleagues operationalized questionnaires con-
+sistent with AACTT for a range of theories of behaviour
+([34] see the Additional file 2 in Huijg et al. for examples of
+the questionnaire items that they developed). Opportunities
+present themselves for similar a daptations for other models,
+theories and frameworks.Step 3 —Using AACTT to inform selecting and
+operationalizing implementation intervention
+components to address barriers and enablers
+Best practice in implementation intervention develop-
+ment involves selecting evidence-based techniques and
+strategies that address the barriers and enablers identi-
+fied [ 39], and clarifying who delivers and receives the
+intervention, how, when, where and how much [ 40].
+Implementation intervention developers have a range of
+tools at their disposal for selecting and specifying inter-
+ventions: high-level descriptors of implementation stra-
+tegies such as those described in Cochrane ’s Effective
+Practice and Organisation of Care (EPOC) [ 41] and Ex-
+pert Recommendation for Implementing Change (ERIC)
+[42] taxonomies and the Behaviour Change Wheel [ 29],
+as well as fine-grained descriptors of techniques such as
+those proposed in Behaviour Change Techniques Tax-
+onomy [ 43], Intervention Mapping [ 44] or emerging
+tools for linking behaviour change techniques to mecha-
+nisms of action [ 45]. Regardless of the strategies and
+techniques, it can help to know specifically whose
+(Actor) behaviour (Action) is being targeted for change
+with the strategies/techniques, and where (Context) and
+when (Time) the behaviour is expected to be performed,
+for/with whom (Target). This may help in narrowing
+and prioritizing amongst potential strategies and tech-
+niques. By having AACTT-specified behaviours defined,
+many of these decisions are made clearer and help to
+operationalise the strategies themselves. For instance,
+clearly articulated AACTT-specified behaviour can (i)
+inform selection of performance indicators provided to
+primary care physicians as part of an Audit and Feed-
+back (A&F) intervention, (ii) ensure that the A&F inter-
+vention is directed to the correct Actors and (iii) that it
+reflects the context and times of performance and (iv)
+that the data reflect the Target patients.
+A multicomponent intervention involving multiple
+behaviours and Actors can also be aided by AACTT spe-
+cification. For instance in a hospital setting, an interven-
+tion to improve hand hygiene may involve the focal
+behaviour of sanitizing hands using alcohol-based gel
+(Action) performed by nursing staff, surgeons, residents
+(Actors), as well as ancillary behaviours such as purchas-
+ing hand sanitiser (by administrators) and checking/
+refilling dispensers (by cleaning staff) that are necessary
+in supporting the focal behaviour. Other settings, such
+as primary care, might similarly involve a focal Action of
+initiating a new medication or deprescribing another as
+well as ancillary Actions, each with respective Actors
+(e.g. family doctors, nurse practitioners, nurses, adminis-
+trative staff, practice managers). Community settings
+could also involve other professional groups (e.g. social
+workers), parents/carers and teachers. For example, re-
+garding implementing dietary menu guidelines in dayPresseau et al. Implementation Science          (2019) 14:102 Page 8 of 13
+care (nursery) services [ 46], the action could be ‘prepar-
+ing food consistent with childhood dietary guidelines ’,
+the actor could be ‘cooks ’, the context ‘in the day care
+centre kitchen ’, the target ‘children attending day care ’
+and the time ‘at lunch every week day ’. Regardless of the
+apparent complexity of the implementation intervention
+being developed, the AACTT framework can provide
+transparency and clarity in terms of whose behaviour is
+targeted by the strategies in the intervention.
+Step 4 —Using AACTT to specify how behaviour change
+can be measured and understood
+The application of the AACTT framework in previous
+steps ensures compatibility with the measures used to
+assess change in Step 4. Implementation researchers are
+often interested in both whether an intervention changes
+behaviour (outcome) as well as explaining the (theory-
+informed) mechanisms through which change occurs.
+Intervention outcome evaluation Irrespective of the
+design used to evaluate an implementation intervention,
+a measure or indicator of behaviour is often central to
+demonstrating change. In some instances, outcome
+measurement is embedded within available routinely col-
+lected data, such as prescribing, ordering and referring,
+or specific process data collected locally or as part of lar-
+ger scale initiatives (e.g. Quality and Outcomes Frame-
+work in the UK) and national audits. When such data
+are accessible, they provide a pragmatic, low-burden
+means of evaluating implementation interventions. How-
+ever, this often involves having to balance consideration
+of pragmatism with those of measurement specificity.
+While the likelihood is low that routinely collected data
+perfectly correspond with the Action performed by the
+targeted Actor in the Context and Time for the Target
+designed for the intervention, having an AACTT-
+specification allows clarity of the degree (or not) of this
+correspondence. While it is true that in randomised de-
+signs, any additional ‘noise ’introduced by pragmatic
+outcome measures would at least be balanced by the
+randomisation, the more ‘noise ’(i.e. error variance) the
+less power to detect change in the actual outcome of
+interest, which has implication for sample size calcula-
+tions. Thus, even in randomised designs, AACTT-
+specification provides an opportunity to establish the
+degree of correspondence between the targeted behav-
+iour(s) and the indicators of behaviour available to assess
+the degree of noise (error) in the outcome.
+In evaluations where no routinely collected data are
+available, outcome measures are sometimes developed
+for the intervention evaluation itself. In such instances,
+the added advantage of AACTT specification is that it
+can directly guide which data to collect and provides full
+control over what ‘counts ’as performance both in termsof the behaviour of interest as well as ancillary be-
+haviours that necessarily support the behaviour of interest
+but in themselves are not sufficient.
+Intervention process evaluation In addition to evaluat-
+ing whether an implementation intervention is effective,
+it is important to understand the mechanisms through
+which this effect occurred both in terms of changing the
+targeted mediating constructs (mechanisms of change)
+and assessing delivery and receipt as designed (fidelity).
+AACTT-specified behaviours provide the same advan-
+tage as in Step 2 for informing the design of qualitative
+or quantitative assessment of mechanisms of change
+alongside outcome assessment, such as in theory-based
+process evaluations [ 47–49]. Using AACTT to inform
+the wording of process measures that operationalise the
+theoretical constructs targeted for change provides mea-
+sures of mediators tied directly to the behaviour the
+intervention is targeting for change. This provides more
+direct correspondence between mechanism and out-
+comes. In this instance, AACTT-specification provides
+greater measurement sensitivity.
+AACTT-specification also allows for more careful as-
+sessment of fidelity (and adaptation) of delivery and re-
+ceipt of an implementation intervention by providing
+structure and transparency in terms of who should re-
+ceive the intervention (Actor) and which Action(s) under
+which circumstances (Time, Context) for which Targets.
+This specificity and transparency can clarify what and
+whom to track to assess fidelity and adaptation. Table 2
+provides worked examples of AACTT specifications
+across study designs.
+Discussion
+Herein, we introduced the AACTT framework that can
+be used to inform the careful specification of behaviour
+for implementation research and practice and provided a
+generalisable worksheet to facilitate use of the frame-
+work (worked examples in Figs. 1,2and3, blank work-
+sheets in Additional file 1). AACTT can be applied
+across key steps of implementation research and practice
+advocated by process models [ 20–22] to transparently
+define and measure behaviour(s) in terms of who per-
+forms them, for/with whom, when and where. AACTT
+formalises a natural progression of the TACT framework
+developed by Fishbein and popularised in social and
+health psychology for more direct application to behav-
+iour where the individual is performing a behaviour for
+someone else ’s (i.e. Target) benefit. This has direct appli-
+cation not only in implementation science applied to
+healthcare settings but also public health –, social
+welfare –and family-based settings in which someone
+performs an Action for someone else (e.g. school- and
+family-focused interventions) [ 46,50].Presseau et al. Implementation Science          (2019) 14:102 Page 9 of 13
+Table 2 Worked examples of AACTT-specified behaviours across study designs
+Study
+designInterviews
+(qualitative) [ 55]Questionnaire
+(quantitative) [ 34]Intervention
+development [ 56]Cluster randomised
+trial [ 57]Fidelity assessment
+(process evaluation) [ 58]Mechanism of change (process
+evaluation) [ 59]
+Action Managing back pain
+without X-rayPrescribing additional
+antihypertensive drugsProvision of sexual
+counselling group
+sessionsExamining feet yourself
+and/or referring for foot
+examProviding behavioural support for
+smoking cessation (detailed by
+component behaviour change
+techniques)Advising patient to make an
+appointment for retinal screening
+within the next 12 months
+Actor Chiropractors General practitioners Cardiac rehabilitation
+healthcare staffGeneral practitioner and
+nurseTrained specialist stop smoking
+advisorFamily doctors
+Context Private clinics
+(Canada, USA with
+an HMO)Practice clinic Hospitals in the
+Republic of IrelandPractice clinic English stop-smoking service clinic
+in East London and North EnglandExamination room in family practice
+Target Patient with acute
+low back painPatients with type 2 diabetes
+whose blood pressure (BP) is
+5 mmHg above a target of
+140 mmHg systolic BP or
+80 mmHg diastolic BP even
+following previous managementPatients aged 18+
+with cardiovascular
+diseasePatients with type 2
+diabetesSmokers trying to quit Specific patient scenario: 57-year-old
+woman with type 2 diabetes on metformin
+500 mg, non-smoker, no other medication,
+A1C < 7%, BMI 25, BP 125/75, normal foot
+exam, attended retinal screening over
+12 months ago
+Time During patient visit Over the next 12 months During Phase III
+cardiac rehabilitationIn the last 12 months Over four weekly sessions During annual diabetes checkupPresseau et al. Implementation Science          (2019) 14:102 Page 10 of 13
+Using the Theory Comparison and Selection Tool (T-
+CaST) and checklist [ 51], the AACTT framework is de-
+signed to be usable (includes relevant domains, has been
+developed so that key stakeholders can use it, we provide
+steps for its application and methods for promoting its
+application across a range of possible studies and an ex-
+planation for how the domains influence each other),
+testable/valid (can form the basis for testable hypoth-
+eses, includes face-valid explanations and has been used
+in empirical studies), applicable (focuses on a key imple-
+mentation outcome, can be applied across a range of
+methods and across a range of analytical levels, popula-
+tions and conditions and is generalisable across disci-
+plines) and is likely to be acceptable (to key stakeholders,
+and is the historical evolution of a framework rooted in a
+particular discipline). Thus, in principle it fulfils all the
+criteria for use of a framework by implementation science
+researchers and practitioners, though its actual usability,
+testability, applicability and acceptability will ultimately be
+determined through application of the tool across a range
+of types of implementation research [ 52].
+Michie and Johnston made a call for making clinical
+practice guidelines more specific by specifying ‘what ’,
+‘who’,‘when ’,‘where ’and ‘how’[10]. While sharing some
+similarities with AACTT, there are three important
+differences that distinguish AACTT and underscore its
+potential added utility. First, the ‘who’in Michie and
+Johnston ’s recommendations refers to the ‘Actor ’but
+does not make any mention of ‘to, for or with whom ’
+the action is performed (i.e. the ‘Target ’in AACTT,
+which may be a patient, a healthcare team member or
+other organisational actor). Second, the ‘where ’is spe-
+cific to a physical location, whereas ‘Context ’in AACTT
+can refer to a broader set of contexts that include the
+physical location but could also include a context that is
+internal to the actor (e.g. emotional context of a stressful
+versus a calm situation) or the social context (e.g. when
+patients ’relatives are present). Third, in proposing
+AACTT as an extension to Fishbein and Ajzen ’s TACT
+framework, we are deliberate in ensuring cumulative
+theory and methods development as it extends to
+applications within implementation science.
+Existing calls for better specification and reporting
+have focused on the description and labelling of imple-
+mentation intervention strategies (e.g. with taxonomies
+of change strategies such as the ERIC [ 42] and BCT [ 43]
+taxonomies) and on the wider components of interven-
+tions (e.g. with checklists such as TIDIER [ 40]). Within
+implementation science, Proctor, Powell and McMillen
+[53] proposed seven domains for specifying implementa-
+tion strategies per se, including who delivers the strategy
+(actors), how they deliver the strategy (actions), what
+and to whom the strategy is directed (action target), the
+sequence of strategy delivery (temporality), intensity(dose), implementation outcomes affected and justifica-
+tion. While some of the Proctor et al. domains share
+similar or overlapping nomenclature with AACTT (i.e.
+Actor, Action, Time), the scope of intended application
+of each framework and its domains differs. As exempli-
+fied in Table 1, in the AACTT framework ‘Actor ’refers
+to the individuals or groups performing the behaviour
+that could be the recipient of an implementation strat-
+egy, the ‘Action ’refers specifically to the behaviour being
+performed by the Actor and is the object of change and
+‘Time ’refers to when that behaviour is performed. Thus,
+whereas the seven dimensions proposed by Proctor et al.
+focus on detailing the delivery of an implementation strat-
+egywithin an implementation intervention, AACTT do-
+mains focus uniquely on detailing behaviour(s) .T h u s ,i n
+the context of an implementation intervention that would
+be specified with Proctor et al. ’s dimensions, the behaviour
+specified using AACTT would be an outcome that the
+(now well-specified) implementation strategy aims to
+change. Thus, AACTT is designed for specifying be-
+haviour as the object of change, rather than specifying
+implementation strategies designed to bring about
+that change.
+Conclusion
+The careful description of outcomes and measures is of
+central importance to the development of a cumulative
+and generalisable science. The AACTT framework pro-
+vides a means for establishing the core elements of
+behaviour targeted for change. The framework can be
+applied to describe the behaviour of Actors at multiple
+organisational levels. The framework facilitates the sys-
+tematic description of who needs to do what differently,
+understanding what may stop or help them from doing
+so, how to support them to address barriers to change
+and how to demonstrate that such support worked.
+AACTT is compatible with any theory, model or frame-
+work in which behaviour is the focus of inquiry and thus
+has the potential to be integrated alongside key theoretical
+approaches used in the field. Given on-going efforts to
+systematise the measurement of theoretical constructs
+[54], and description of intervention components [ 41–43],
+there is a need for ensuring that the object of change, i.e.
+behaviour, is equally as carefully described and under-
+stood. This will ultimately contribute to a greater capacity
+to synthesise research over time.
+Supplementary information
+Supplementary information accompanies this paper at https://doi.org/10.
+1186/s13012-019-0951-x .
+Additional file 1. Blank worksheets for single-actor and multiple-actor/
+action AACTT specification.Presseau et al. Implementation Science          (2019) 14:102 Page 11 of 13
+Abbreviations
+AACTT: Action, Actor, Context, Target, Time; A&F: Audit and Feedback; COM-
+B: Capability, opportunity, motivation, behaviour; EPOC: Effective Practice and
+Organisation of Care; ERIC: Expert Recommendation for Implementing Change;
+TACT: Target, Action, Context, Time; T-CaST: Theory Comparison and Selection Tool
+Acknowledgements
+We thank Ian D. Graham for thought provoking discussions on the order in
+which to present the framework ’s domains.
+Authors ’contributions
+JJF conceived the idea and all authors substantively developed the idea. JP
+and JJF drafted the manuscript. All authors contributed to refining the
+manuscript. All authors read and approved the final manuscript.
+Funding
+JMG is supported by a Tier 1 Canada Research Chair in Health Knowledge
+Transfer and Uptake and a CIHR Foundation grant for related work.
+Availability of data and materials
+Not applicable.
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+JP is an associate editor and JMG and FL are on the editorial board for
+Implementation Science but were not involved in the management or
+decisions made for this manuscript.
+Author details
+1Clinical Epidemiology, Ottawa Hospital Research Institute, Ottawa, Canada.
+2School of Epidemiology and Public Health, University of Ottawa, Ottawa,
+Canada.3School of Psychology, University of Ottawa, Ottawa, Canada.
+4Centre for Behaviour Change, University College London, London, UK.
+5Department of Medicine, University of Ottawa, Ottawa, Canada.6School of
+Health Sciences, City University of London, London, UK.
+Received: 25 July 2019 Accepted: 22 October 2019
+References
+1. Barnett ML, Linder JA. Antibiotic prescribing for adults with acute bronchitis
+in the United States, 1996-2010. JAMA. 2014;311:2020.
+2. Erasmus V, Daha TJ, Brug H, Richardus JH, Behrendt MD, Vos MC, et al.
+Systematic review of studies on compliance with hand hygiene guidelines
+in hospital care. Infect Control Hosp Epidemiol. 2010;31:283 –94.
+3. Gonzalez-Urzelai V, Palacio-Elua L, Lopez-de-Munain J. Routine primary care
+management of acute low back pain: adherence to clinical guidelines. Eur
+Spine J. 2003;12:589 –94.
+4. Institute of Medicine. Committee on Quality of Health Care in America.
+Crossing the quality chasm: a new health system for the 21st century.
+Washington DC: National Academies Press; 2001.
+5. Woolf SH. Unhealthy Medicine: All breakthrough, no follow-throw.
+Washington Post [Internet]. 2006; Available from: https://www.
+washingtonpost.com/archive/opinions/2006/01/08/unhealthy-medicine-
+span-classbankheadall-breakthrough-no-follow-throughspan/d3b838a9-
+db0b-4b23-a410-c5de185f51d0/
+6. LaPiere RT. Attitudes vs. actions. Soc Forces. 1934;13:230 –7.
+7. Fishbein M, editor. Attitude and the prediction of behaviour (Chapter 51). In:
+Readings in attitude theory and measurement. New York: Wiley; 1967.
+p. 477 –492.
+8. Ajzen I. The theory of planned behavior. Organ Behav Hum Decis Process.
+1991;50:179 –211.
+9. Fishbein M, Ajzen I. Defining and predicting behaviour (Chapter 2). In:
+Predicting and changing behavior: the reasoned action approach. New
+York: Psychology Press; 2010. p. 29 –73.10. Michie S, Johnston M. Changing clinical behaviour by making guidelines
+specific. BMJ. 2004;328:343 –5.
+11. Miller M. How well is the target behaviour specified in reports of behaviour
+change interventions for health care professionals? A systematic review of
+reporting practice [Master ’s thesis]: City University of London; 2015.
+12. Ajzen I, Fishbein M. Attitude-behavior relations: a theoretical analysis and
+review of empirical research. Psychol Bull. 1977;84:888 –918.
+13. Siegel JT, Navarro MA, Tan CN, Hyde MK. Attitude –behavior consistency, the
+principle of compatibility, and organ donation: a classic innovation. Health
+Psychol. 2014;33:1084 –91.
+14. Eccles MP, Hrisos S, Francis JJ, Steen N, Bosch M, Johnston M. Can the
+collective intentions of individual professionals within healthcare teams
+predict the team ’s performance: developing methods and theory.
+Implement Sci. 2009;4:24.
+15. Strack F, Deutsch R. Reflective and impulsive determinants of social
+behavior. Personal Soc Psychol Rev. 2004;8:220 –47.
+16. Gardner B, Lally P, Wardle J. Making health habitual: the psychology of
+‘habit-formation ’and general practice. Br J Gen Pract. 2012;62:664 –6.
+17. Potthoff S, Rasul O, Sniehotta FF, Marques M, Beyer F, Thomson R, et al. The
+relationship between habit and healthcare professional behaviour in clinical
+practice: a systematic review and meta-analysis. Health Psychol Rev.
+2019;13:73 –90.
+18. Potthoff S, Presseau J, Sniehotta FF, Breckons M, Rylance A, Avery L.
+Exploring the role of competing demands and routines during the
+implementation of a self-management tool for type 2 diabetes: a theory-
+based qualitative interview study. BMC Med Inform Decis Mak. 2019;19:23.
+19. Presseau J, Johnston M, Heponiemi T, Elovainio M, Francis JJ, Eccles MP,
+et al. Reflective and automatic processes in health care professional
+behaviour: a dual process model tested across multiple behaviours. Ann
+Behav Med. 2014;48:347 –58.
+20. French SD, Green SE, O ’Connor DA, McKenzie JE, Francis JJ, Michie S, et al.
+Developing theory-informed behaviour change interventions to implement
+evidence into practice: a systematic approach using the Theoretical
+Domains Framework. Implement Sci. 2012;7:38.
+21. Graham ID, Logan J, Harrison MB, Straus SE, Tetroe J, Caswell W, et al. Lost
+in knowledge translation: Time for a map? J Contin Educ Health Prof.
+2006;26:13 –24.
+22. Craig P, Dieppe P, Macintyre S, Michie S, Nazareth I, Petticrew M.
+Developing and evaluating complex interventions: the new Medical
+Research Council guidance. BMJ. 2008;337:a1655.
+23. Moore GF, Audrey S, Barker M, Bond L, Bonell C, Hardeman W, et al. Process
+evaluation of complex interventions: Medical Research Council guidance.
+BMJ. 2015;350:h1258.
+24. Brown CH, Curran G, Palinkas LA, Aarons GA, Wells KB, Jones L, et al. An
+overview of research and evaluation designs for dissemination and
+implementation. Annu Rev Public Health. 2017;38:1 –22.
+25. Weiner BJ. A theory of organizational readiness for change. Implement Sci
+[Internet]. 2009;4:67.
+26. Michie S, Johnston M, Abraham C, Lawton R, Parker D, Walker A, et al.
+Making psychological theory useful for implementing evidence based
+practice: a consensus approach. Qual Saf Health Care. 2005;14:26 –33.
+27. Atkins L, Francis JJ, Islam R, O ’Connor D, Patey A, Ivers NM, et al. A guide to
+using the Theoretical Domains Framework of behaviour change to
+investigate implementation problems. Implement Sci. 2017;12:77.
+28. Damschroder LJ, Aron DC, Keith RE, Kirsh SR, Alexander JA, Lowery JC.
+Fostering implementation of health services research findings into practice:
+a consolidated framework for advancing implementation science.
+Implement Sci. 2009;4:50.
+29. Michie S, van Stralen MM, West R. The behaviour change wheel: a new
+method for characterising and designing behaviour change interventions.
+Implement Sci. 2011;6:42.
+30. Birken SA, Powell BJ, Presseau J, Kirk MA, Lorencatto F, Gould NJ, et al.
+Combined use of the Consolidated Framework for Implementation
+Research (CFIR) and the Theoretical Domains Framework (TDF): a systematic
+review. Implement Sci. 2017;12:2.
+31. Kirk MA, Kelley C, Yankey N, Birken SA, Abadie B, Damschroder L. A
+systematic review of the use of the Consolidated Framework for
+Implementation Research. Implement Sci. 2015;11:72.
+32. Francis JJ, Eccles MP, Johnston M, Walker A, Grimshaw J, Foy R, et al.
+Constructing questionnaires based on the theory of planned behaviour: a
+manual for health services researchers]. Centre for Health Services Research:Presseau et al. Implementation Science          (2019) 14:102 Page 12 of 13
+University of Newcastle upon Tyne; 2004. Available from: http://openaccess.
+city.ac.uk/1735/
+33. Godin G, Bélanger-Gravel A, Eccles MP, Grimshaw J. Healthcare
+professionals ’intentions and behaviours: a systematic review of studies
+based on social cognitive theories. Implement Sci. 2008;3:36.
+34. Eccles MP, Hrisos S, Francis JJ, Stamp E, Johnston M, Hawthorne G, et al.
+Instrument development, data collection, and characteristics of practices,
+staff, and measures in the Improving Quality of Care in Diabetes (iQuaD)
+Study. Implement Sci. 2011;6:61.
+35. Kegler MC, Liang S, Weiner BJ, Tu SP, Friedman DB, Glenn BA, et al.
+Measuring constructs of the consolidated framework for implementation
+research in the context of increasing colorectal cancer screening in federally
+qualified health center. Health Serv Res. 2018;53:4178 –203.
+36. Helfrich CD, Li Y-F, Sharp ND, Sales AE. Organizational readiness to change
+assessment (ORCA): development of an instrument based on the Promoting
+Action on Research in Health Services (PARIHS) framework. Implement Sci.
+2009;4:38.
+37. Rapley T, Girling M, Mair FS, Murray E, Treweek S, McColl E, et al. Improving
+the normalization of complex interventions: part 1 - development of the
+NoMAD instrument for assessing implementation work based on
+normalization process theory (NPT). BMC Med Res Methodol. 2018;18:133.
+38. Huijg JM, Gebhardt WA, Crone MR, Dusseldorp E, Presseau J. Discriminant
+content validity of a theoretical domains framework questionnaire for use in
+implementation research. Implement Sci. 2014;9:11.
+39. Michie S, Johnston M, Francis JJ, Hardeman W, Eccles M. From theory to
+intervention: mapping theoretically derived behavioural determinants to
+behaviour change techniques. Appl Psychol. 2008;57:660 –80.
+40. Hoffmann TC, Glasziou PP, Boutron I, Milne R, Perera R, Moher D, et al.
+Better reporting of interventions: template for intervention description and
+replication (TIDieR) checklist and guide. BMJ. 2014;348:g1687.
+41. Effective Practice and Organisation of Care (EPOC). EPOC Taxonomy. Oslo:
+Norwegian Knowledge Centre for the Health Services; 2002. Available at:
+https://epoc.cochrane.org/epoc-taxonomy .
+42. Powell BJ, Waltz TJ, Chinman MJ, Damschroder LJ, Smith JL, Matthieu MM,
+et al. A refined compilation of implementation strategies: results from the
+Expert Recommendations for Implementing Change (ERIC) project.
+Implement Sci. 2015;10:21.
+43. Michie S, Richardson M, Johnston M, Abraham C, Francis JJ, Hardeman W,
+et al. The behavior change technique taxonomy (v1) of 93 hierarchically
+clustered techniques: building an international consensus for the reporting
+of behavior change interventions. Ann Behav Med. 2013;46:81 –95.
+44. Kok G, Gottlieb NH, Peters G-JY, Mullen PD, Parcel GS, Ruiter RAC, et al. A
+taxonomy of behaviour change methods: an Intervention Mapping
+approach. Health Psychol Rev. 2016;10:297 –312.
+45. Centre for Behaviour Change. Theory and Techniques Tool. Theory and
+Techniques Tool. 2019. Available from: https://theoryandtechniquetool.
+humanbehaviourchange.org/
+46. Seward K, Wolfenden L, Wiggers J, Finch M, Wyse R, Oldmeadow C, et al.
+Measuring implementation behaviour of menu guidelines in the childcare
+setting: confirmatory factor analysis of a theoretical domains framework
+questionnaire (TDFQ). Int J Behav Nutr Phys Act. 2017;14:45.
+47. McIntyre SA, Francis JJ, Gould NJ, Lorencatto F. The use of theory in process
+evaluations conducted alongside randomized trials of implementation
+interventions: a systematic review. Transl Behav Med. 2018:iby110; Available
+from: https://doi.org/10.1093/tbm/iby110/5208274
+48. Presseau J, Grimshaw JM, Tetroe JM, Eccles MP, Francis JJ, Godin G, et al. A
+theory-based process evaluation along side a randomised controlled trial of
+printed educational messages to in crease primary care physicians ’prescription of
+thiazide diuretics for hypertension [ISRCTN72772651]. Implement Sci. 2016;11:121.
+49. Grimshaw JM, Zwarenstein M, Tetroe JM, Godin G, Graham ID, Lemyre L, et al.
+Looking inside the black box: a theory-based process evaluation alongside a
+randomised controlled trial of printed educational materials (the Ontario
+printed educational message, OPEM) to improve referral and prescribing
+practices in primary care in Ontario. Canada. Implement Sci. 2007;2:38.
+50. Wolfenden L, Yoong SL, Williams CM, Grimshaw J, Durrheim DN, Gillham K,
+et al. Embedding researchers in health service organizations improves
+research translation and health service performance: the Australian Hunter
+New England Population Health example. J Clin Epidemiol. 2017;85:3 –11.
+51. Birken SA, Rohweder CL, Powell BJ, Shea CM, Scott J, Leeman J, et al.
+T-CaST: an implementation theory comparison and selection tool.
+Implement Sci. 2018;13:143.52. Hull L, Goulding L, Khadjesari Z, Davis R, Healey A, Bakolis I, et al. Designing
+high-quality implementation research: development, application, feasibility
+and preliminary evaluation of the implementation science research
+development (ImpRes) tool and guide. Implement Sci. 2019;14:80.
+53. Proctor EK, Powell BJ, McMillen JC. Implementation strategies:
+recommendations for specifying and reporting. Implement Sci. 2013;8:139.
+54. Lewis CC, Mettert KD, Dorsey CN, Martinez RG, Weiner BJ, Nolen E, et al. An
+updated protocol for a systematic review of implementation-related
+measures. Syst Rev. 2018;7:66.
+55. Bussières AE, Patey AM, Francis JJ, Sales AE, Grimshaw JM. Identifying factors
+likely to influence compliance with diagnostic imaging guideline
+recommendations for spine disorders among chiropractors in North
+America: a focus group study using the Theoretical Domains Framework.
+Implement Sci. 2012;7:82.
+56. McSharry J, Murphy PJ, Byrne M. Implementing international sexual counselling
+guidelines in hospital cardiac rehabilitation: development of the CHARMS
+intervention using the Behaviour Change Wheel. Implement Sci. 2016;11:134.
+57. Presseau J, Mackintosh J, Hawthorne G, Francis JJ, Johnston M, Grimshaw JM,
+et al. Cluster randomised controlled trial of a theory-based multiple behaviour
+change intervention aimed at healthcare professionals to improve their
+management of type 2 diabetes in primary care. Implement Sci. 2018;13:65.
+58. Lorencatto F, West R, Christopherson C, Michie S. Assessing fidelity of
+delivery of smoking cessation behavioural support in practice. Implement
+Sci. 2013;8:40.
+59. Grimshaw JM, Presseau J, Tetroe J, Eccles MP, Francis JJ, Godin G, et al.
+Looking inside the black box: results of a theory-based process evaluation
+exploring the results of a randomized controlled trial of printed educational
+messages to increase primary care physicians ’diabetic retinopathy referrals
+[Trial registration number ISRCTN72772651]. Implement Sci. 2014;9:86.
+Publisher ’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.Presseau et al. Implementation Science          (2019) 14:102 Page 13 of 13

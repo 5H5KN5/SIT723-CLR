@@ -1,0 +1,1169 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rhpb20
+Health Psychology and Behavioral Medicine
+An Open Access Journal
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rhpb20
+A theory-based video intervention to enhance
+communication and engagement in online health
+communities: two experiments
+Michael Kilb, Oliver Dickh äuser & Jutta Mata
+To cite this article:  Michael Kilb, Oliver Dickh äuser & Jutta Mata (2022) A theory-based video
+intervention to enhance communication and engagement in online health communities:
+two experiments, Health Psychology and Behavioral Medicine, 10:1, 199-228, DOI:
+10.1080/21642850.2022.2032074
+To link to this article:  https://doi.org/10.1080/21642850.2022.2032074
+© 2022 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+View supplementary material 
+Published online: 09 Feb 2022.
+Submit your article to this journal 
+Article views: 2005
+View related articles 
+View Crossmark data
+
+RESEARCH ARTICLE
+A theory-based video intervention to enhance
+communication and engagement in online healthcommunities: two experiments
+Michael Kilba, Oliver Dickhäuseraand Jutta Mataa,b,c
+aDepartment of Psychology, School of Social Sciences, University of Mannheim, Mannheim, Germany;
+bMannheim Center for Data Science, University of Mannheim, Mannheim, Germany;cCenter for Adaptive
+Rationality, Max Planck Institute for Human Development, Berlin, Germany
+ABSTRACT
+Background: Online communities and social networking sites have
+great potential for supporting health behavior change. However,
+interventions vary greatly in participants ’engagement rates and,
+consequently, their e ﬀectiveness. Theory-based interventions in
+real-world contexts are needed to further increase engagement
+and e ﬀectiveness.
+Methods: We experimentally tested whether a video intervention
+teaching Self-Determination-Theor y-based communication strategies
+increases need-supportive communication strategy use over oneweek (Study 1, N= 76) and perceived need support, engagement,
+and goal attainment in a behavior change intervention supported
+by a forum-based online community (Study 2, N= 537). In Study 2,
+participants chose a goal (increasing either fruit or vegetable
+consumption or increasing moderate or vigorous physical activity)and joined an online community for 2 weeks. Data from both
+experiments were analyzed with mixed models and follow-up tests.
+Results: In Study 1, participants in the intervention but not in the
+control group showed an increase in the number of need-
+supportive communication strategies used both immediately andone week after the intervention ( condition × time interaction, partial
+η
+2= 0.31). In Study 2, participants who watched the intervention
+video had a higher number of postings and reported a higher
+subjective forum use frequency (but not a higher number of logins)
+compared to participants who wat ched the control video. However,
+the e ﬀect on the subjective forum visit frequency was not robust.
+There were no intervention e ﬀects on perceived need support, goal
+attainment, or secondary outcomes. The results might be explained
+by low application of need-supportive communication strategies.
+Conclusion: A brief video intervention may be a suitable, low-cost
+intervention to promote need-suppo rtive communication strategy
+use, bene ﬁtting both engagement and behavior change. Future
+studies should incorporate additional means to further improvecommunication strategy uptake and engagement in online
+communities.ARTICLE HISTORY
+Received 31 August 2021
+Accepted 14 January 2022
+KEYWORDS
+Social networking sites;online communities;
+behavior change
+interventions; need-support;self-determination theory
+© 2022 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/
+licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited.CONTACT Michael Kilb kilb@uni-mannheim.de
+Supplemental data for this article can be accessed https://doi.org/10.1080/21642850.2022.2032074 .HEALTH PSYCHOLOGY AND BEHAVIORAL MEDICINE
+2022, VOL. 10, NO. 1, 199 –228
+https://doi.org/10.1080/21642850.2022.2032074
+1. Introduction
+1.1. Background
+Lifestyle behaviors, such as physical inacti vity or a poorly balanced diet, are the main
+risk factors for premature mortality and di sability caused by noncommunicable dis-
+eases (GBD 2017 Diet Collaborators, 2019 ; GBD 2019 Risk Factors Collaborators,
+2020 ;L e ee ta l . , 2012 ). Worldwide, there is a high ne ed for interventions tackling
+these lifestyle behaviors. An important medium for reaching a high proportion of
+the population with interventions is the int ernet. Across the globe, access to the inter-
+net has grown rapidly in the last decade (In ternational Telecommunication Union,
+2020 ;R o s e r ,R i t c h i e ,&O r t i z - O s p i n a , 2015 ). In 2020, the International Telecommuni-
+cation Union estimated that in 2019, 51% of the world population used the internet –
+for example, 77% of individuals in the Uni ted States, 82% in Europe, and 29% in Africa
+(International Telecommunication Union, 2020 ). In 2020, 89% of the German popu-
+lation over age 14 used the internet occasionally, and 72% used it daily (Beisch &
+Schäfer, 2020 ) .O n ea t t r a c t i v ev e h i c l ef o rd e l i v e r i n gb e h a v i o rc h a n g ei n t e r v e n t i o n s
+on a large scale is online communities, such as those found on social networking
+sites, including Facebook, Instagram, Twi tter, and Reddit. In 2021, most U.S. adults
+used social networking sites: 69% used Facebook, 40% Instagram, and 18% Reddit(Pew Research Center, 2021 ). In Germany in 2020, 37% of the population over 14
+used Facebook and 25% Instagram (Beisch & Schäfer, 2020 ). Social networking sites
+provide the opportunity to connect peop le worldwide through person-to-person
+relationships or building online communities.
+Social networking sites are increasingly be ing used for health behavior change inter-
+ventions (Dahl, Hales, & Turner-McGrievy, 2016 ;H o u ,C h a r l e r y ,&R o b e r s o n , 2014 ;
+Maher, Ryan, Kernot, Podsiadly, & Keenihan, 2016 ;P e t k o v i ce ta l . , 2021 ), typically
+as a platform to disseminate intervention ma terials (e.g. Napolitano, Hayes, Bennett,
+Ives, & Foster, 2013 )o ra sa na d d - o ni nm u l t i c o m p o n e n ti n t e r v e n t i o n st op r o v i d ea
+supportive environment for behavior change (e.g. Godino et al., 2016 ). Because these
+platforms are widely integrated into daily social life, they allow to easily reach a widerange of populations with evidence-based health behavior change interventions
+(Arigo et al., 2019 ;P e t k o v i ce ta l . , 2021 ). They also likely increase the dose of
+eﬀective ingredients of behavioral interventions ( ‘behavior change techniques ’;
+Michie et al., 2013 ), as they are remotely and continuously accessible, and frequently
+used (Mata & Baumann, 2017 ). They also provide unique features for interacting
+with like-minded people in private online spaces such as private forums or Facebook
+groups, increasing social support and social in ﬂuence (Dahl et al., 2016 ; Zhang et al.,
+2016 ). Findings are mixed but results of severa l meta-analyses suggest a small positive
+eﬀect of interventions using social networking sites for health behavior change (Laranjo
+et al., 2015
+;P e t k o v i ce ta l . , 2021 ;W a r i n ge ta l . , 2018 ; Williams, Hamm, Shulhan, Van-
+dermeer, & Hartling, 2014 ;Y a n g , 2017 ). Nevertheless, little is known about potential
+mechanisms underlying these e ﬀects because social networking sites ’unique e ﬀects
+are rarely isolated, and hypothesized intermediate outcomes are hardly ever tested(Waring et al., 2018 ; Yang, 2017 ). There are also some challenges when using online
+communities and social networking sites a s health behavior ch ange interventions,
+such as privacy concerns (Arigo et al., 2019 ; Klassen, Douglass, Brennan, Truby, &200 M. KILB ET AL.
+Lim, 2018 ), adapting intervention contents (Pagoto et al., 2016 ), or open questions
+regarding necessary levels of engagement and factors in ﬂuencing engagement (Arigo
+et al., 2019 ; Miller et al., 2019 ;S h o r te ta l . , 2018 ).
+One of the biggest problems of these interventions is a typically low user engage-
+ment. There are di ﬀerent ways of measuring actual and perceived engagement with
+server data or self-report, such as the n umber of logins, the number of postings
+written, the number of posts viewed, or t he number of provided reactions, which
+can be categorized into broader categories, e.g. frequency or intensity of engagement
+(Short et al., 2018 ). Engagement varies substantiall y between studies and typically
+declines over the intervention period (Arigo, Pagoto, Carter-Harris, Lillie, &Nebeker, 2018 ;W a r i n ge ta l . , 2018 ; Yang, 2017 ). Research shows that there is often
+a high number of non-users and passive users ( lurkers), who do not or only rarely con-
+tribute to the interactions within online co mmunities and social networking sites, and
+a low number of very active users (power users) who contribute most of the inter-
+actions (Carron-Arthur, Ali, Cunningham, & Gri ﬃths, 2015 ; Edelmann, 2016 ;
+Hampton, Goulet, Marlow, & Rainie, 2012 ). However, even in the most extreme
+form of lurking (i.e. never posting or contributing to online communities and insocial networking sites) , lurkers might still pro ﬁt from silently using the platform
+and viewing the content (Edelmann, 2016 ). Engagement is positively related to inter-
+vention outcomes: For example, frequency and number of postings as well as thenumber of reactions predict weight loss s uccess in social-networking-site-based
+weight loss interventions (Pagoto et al., 2017 ; Xu & Cavallo, 2021 ). Still, the optimal
+kind (e.g. actively posting vs. passively viewing conte nt) and amount of engagement
+for intervention success in digi tal health behavior interve ntions is often unclear and
+could depend on person and/ or intervention characteristics (Miller et al., 2019 ;
+S h o r te ta l . , 2018 ). Furthermore, the e ﬀects of di ﬀerent forms of engagement in
+online communities and social networki ng sites likely depend on the amount and
+actual content of the other users ’postings and reactions (Xu & Cavallo, 2021 ).
+Since at least some level of engagement is nec essary for intervention success, interven-
+tions should ensure that participants stay e ngaged through the intervention period. It
+should, however, be noted that in some cases sustained engagement may not be
+necessary. For example, when participants ﬁnd eﬀective behavior change techniques
+early in the intervention and can carry them out by themselves, thus, do notdepend on the intervention context. Charact eristics of a digital behavior change inter-
+vention, particularly the experience and in teraction within online communities, can
+inﬂuence the engagement of participants (Perski, Blandford, West, & Michie, 2017 ).
+Providing a more supportive and helpful e nvironment is a promising approach to
+increase participants ’engagement within online communities. Given that engagement
+is essential for positive intervention outc omes, strategies for increasing engagement
+may be at least as important as the intervention itself. One way to simultaneouslyincrease engagement and successful behav ior change in interventions involving
+online communities and social networking sites is to target interpersonal communi-
+cation, one of their core features. Self-Determination Theory (SDT; Deci & Ryan,2000 ; Ryan & Deci, 2017 ) can provide a theoretical framework to understand interper-
+sonal communication in online communities.HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 201
+1.2. Self-determination theory
+SDT (Deci & Ryan, 2000 ; Ryan & Deci, 2017 ) is a well-established macrotheory on
+human motivation, according to which there are 3 basic psychological needs: need for
+autonomy, relatedness, and competence. The ful ﬁllment of these needs is assumed to
+energize and foster human motivation (Deci & Ryan, 2000 ; Ryan & Deci, 2017 ), particu-
+larly a more autonomous form of motivation (Ng et al., 2012 ). Autonomous motivation
+is important for the long-term regulation of health behaviors (Kwasnicka, Dombrowski,White, & Sniehotta, 2016 ), such as eating a healthy diet (Teixeira, Patrick, & Mata, 2011 ).
+Findings from interventions suggest that changes in perceived need support are associ-
+ated with changes in autonomous motivation and successful behavior change (Ntouma-nis et al., 2021 ). Importantly, a person ’s social environment can be need-supportive
+(often also referred to as autonomy supportive), thus supporting or undermining the
+fulﬁllment of the 3 basic psychological needs (Deci & Ryan, 2000 ; Ryan & Deci, 2017 ;
+Ryan, Patrick, Deci, & Williams, 2008 ).
+In the last decade, e ﬀorts have been made to integrate motivational theories such as
+SDT and more traditional social cognition models such as the theory of planned behavior
+(TPB; Ajzen, 1991 ), a theory that has been successfully applied to predict health behavior
+(McEachan, Conner, Taylor, & Lawton, 2011 ,2016 ). This theoretical integration suggests
+that a relatively more autonomous motivation may in ﬂuence behavior at least partly via
+attitudes, subjective norms, and perceived behavioral control (Hagger & Chatzisarantis,2009 ). A more re ﬁned version of the theory of planned behavior, the reasoned action
+approach (Fishbein & Ajzen, 2011 ), further di ﬀerentiates di ﬀerent sub-facets of these
+three constructs, namely experiential and instrumental attitudes, descriptive and injunc-
+tive norms, capacity (related to self-e ﬃcacy) and autonomy (Fishbein & Ajzen, 2011 ;
+McEachan et al., 2016 ).
+1.3. An SDT-view on interpersonal communication
+Health behavior change interventions can be more or less need-supportive (Gillison,
+Rouse, Standage, Sebire, & Ryan, 2019 ; Ryan et al., 2008 ; Silva, Marques, & Teixeira,
+2014 ); the interpersonal communication between users in digital social environments,
+the key feature of interventions involving online communities and social networking
+sites, therefore play a central role (e.g. Ntoumanis, Quested, Reeve, and Cheon ( 2017 );
+Su and Reeve ( 2011 ) for ﬁndings in sports and teaching). Compared to increasing
+engagement, which focuses on the quantity of social interactions in online communities
+and social networking sites (e.g. number of logins, postings, or reactions), increasing
+need-supportive communication focuses on the style and quality of social interactions.
+Need-supportive communication has been described as an empathetic and patient
+rather than pressuring communication style (Ntoumanis et al., 2017 ). In need-supportive
+communication, one acknowledges others ’perspectives and feelings, provides meaning-
+ful rationales, o ﬀers choices, nurtures inner motivational resources, and uses noncontrol-
+ling language (Su & Reeve, 2011 ). Further, it is possible to learn to use a need-supportive
+communication style with others through training (Su & Reeve, 2011 ). Importantly, no
+such interventions have been developed and tested in the context of health behaviorinterventions involving online communities or social networking sites. This is an202 M. KILB ET AL.
+important lack of research as online communities are usually large, and interventions
+involving social networking sites that have the power to reach a wide range of people
+potentially are particularly promising.
+1.4. Increasing need-supportive communication in ﬂuences behavior change
+and engagement
+Promoting a need-supportive communication style within online communities should con-
+tribute to need ful ﬁllment and perceived need support, autonomous motivation, and suc-
+cessful behavior change (Gillison et al., 2019; Ntoumanis et al., 2021). Building on the
+integrated SDT-TPB model (Hagger & Chatzisarantis, 2009) and the advancement of the
+TPB to the reasoned action approach, we expect intervention e ﬀects on behavior change
+to be at least partially mediated by changes in autonomous (but not controlled) motivation
+(Ng et al., 2012; Ntoumanis et al., 2021), and by changes in attitudes, social norms, and self-
+eﬃcacy (McEachan et al., 2016; Sheeran et al., 2016). Higher need ful ﬁllment may further
+lead to higher perceived social support, one key mechanism of health behavior change,which is usually targeted with social-networking-site and online-community-based health
+behavior interventions (Dahl et al., 2016; Petkovic et al., 2021), because participants feel
+understood and supported. Increased need support could also positively impact engagementand participation within online communities by improving users ’experiences, and in con-
+sequence make interventions more successful (Perski et al., 2017;W a r i n ge ta l . , 2018).
+1.5. Aims and overview
+This paper describes 2 studies evaluating a brief SDT-based intervention with the goal of
+instructing participants about need-supportive communication strategies within online
+communities. In Study 1, we developed a brief intervention video and tested –in an exper-
+imental setting –how this intervention changed communication strategies. We expected an
+increased use of the six targeted SDT-based need-supportive communication strategies from
+baseline to follow-up in the intervention group, but not the control group. In Study 2, wetested the e ﬀects of the intervention video on goal attainment, perceived need support,
+and engagement (primary outcomes) in the context of a behavior change intervention sup-
+ported by a forum-based online community. Additionally, we examined the e ﬀect of the
+intervention on the following secondary outcomes, which could explain a potential positiveeﬀect of the intervention on goal attainment: autonomous motivation, experiential and
+instrumental attitudes, self-e ﬃcacy, perceived descriptive and perceived injunctive norms,
+and perceived social support. For all outcomes, we expected positive e ﬀects of the interven-
+tion video, that is, higher values in the intervention group compared to the control group.
+Based on the existing literature, we did not expect a positive e ﬀect on controlled motivation.
+2. Materials and methods
+2.1. Design and procedure
+In Study 1, participants were recruited online via the study management system of a
+German University as well as word-of-mouth recommendations. After providingHEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 203
+baseline data, participants were given 3 fabricated Facebook postings that consisted of a
+problem description in the nutrition context. Participants were asked to write a response
+to each of the postings (pre-intervention time point). Subsequently, participants wererandomized to watch either the intervention containing information about need-suppor-tive communication strategies or the control video containing more general communi-
+cation tips (see below for intervention development). Thereafter, they answered short
+questions about the video and received a written summary of the communication strat-egies to ensure that all participants remembered the strategies. They were then asked to
+respond to 3 similarly structured Facebook postings and to apply the newly learned com-
+munication strategies in their responses (post-intervention time point). After 1 week,participants responded to 3 additional Facebook postings, with the instruction to use
+the learned communication strategies, but without watching the video again (1-week
+follow-up time point). The study was conducted in accordance with the Declaration ofHelsinki.
+In Study 2, which was preregistered on the Open Science Framework ( https://osf.io/
+x7uv2 ), participants were recruited in two recruitment phases via advertisements in
+oﬄine and online media, as well as Facebook ads. The intervention content was coded
+using the behavior change technique (BCT) taxonomy v1 (Michie et al., 2013 ) and the
+motivation and behavior change techniques (MBCTs) taxonomy for interventions
+based on Self-Determination Theory (Teixeira et al., 2020 ). The study was advertised
+as a‘health challenge ’to change one ’s eating or physical activity behavior for 2 weeks
+while participating in a forum-based online community. To increase adherence and
+decrease dropout from the study, we gave participants the choice between 4 di ﬀerent
+goals: increase fruit intake, increase vegetable intake, increase moderate physical activity,
+or increase vigorous physical activity. Participants could ﬁrst choose the behavioral
+domain (physical activity vs. eating fruits and vegetables) after which they couldchoose the more speci ﬁc goal (see Appendix A). Participants were encouraged to
+choose a behavior which they do not show frequently and want to increase. All partici-
+pants received the goal to increase intake or activity by 33% (BCT 1.1 Goal setting
+(behavior)). The behavioral target (number of portions or minutes of activity) was auto-matically calculated in the baseline assessment by using the individual baseline values of
+the selected behavior. After completing baseline questionnaires, participants were ran-
+domized to watch either the intervention or the control video. Next, participants wereinvited to join the forum-based online community that was established for their behav-
+ioral goal and intervention type where they could support each other (BCT 3.1. Social
+support (unspeci ﬁed)). Appendix A contains an overview of all self-selected decisions
+and randomizations. The online communities were created exclusively for the study par-
+ticipants. A screenshot of one of the online communities can be seen in Appendix
+B. Participants subsequently worked on their goals for 2 weeks, after which they wereasked to complete the follow-up questionnaire to assess primary and secondaryoutcome variables. Links to the videos and written summaries of the communication
+strategies were placed as community rules at the top of the forums and were accessible
+during the intervention period. One moderator monitored the postings in the forumsover the intervention period to answer technical questions and to detect potential
+hostile postings. The moderator did not provide any other additional advice to partici-
+pants. Participants were sent up to 2 reminder e-mails to answer the follow-up204 M. KILB ET AL.
+questionnaire. The study was approved by the Institutional Review Board of the Univer-
+sity of Mannheim (11/2020).
+2.2. Intervention development
+We developed a brief educational video based on SDT (Deci & Ryan, 2000 ;R y a n&
+Deci, 2017 ) with 6 communication strategies to address need-supportive communi-
+cation (see Figure 1 ). Additionally, we created a control video with general netiquette
+rules. Netiquette means general tips and rule s for respectfully interacting in online
+communities. Typical rules vary by platfo r m so re v e nb ys u b - f o r u m s( e . g .i nR e d d i t ,
+every sub-reddit can create own community guidelines). For our control video, we
+included key rules which focus on the und erstandability of postings and a non-
+hostile community environment but did not overlap with the SDT-based need-suppor-
+tive communication strateg ies. The included rules were ‘stay on topic ’,‘adapt to target
+audience ’,‘be respectful ’,‘avoid ambiguities and abbreviations ’, and ‘pay attention to
+spelling and grammar ’.T h e ﬁnal videos have a duration of about 3 min and were
+created with the software Powtoon. Both videos were designed to be as similar as poss-
+ible and consisted of a short introd uction to social networking sites ’and online com-
+munities ’advantages in supporting behavior change and goal attainment. Participants
+were then introduced to the di ﬀerent communication strategies, and the intervention
+video also contained brief information about the 3 basic psychological needs. Finally,both videos contained a written communica tion example with the application of the
+respective communication strategies (BCT 4.1 Instructions on how to perform the
+behavior). Potential communication strate gies were derived from 2 meta-analyses on
+SDT-based interventions (Gillison et al., 2019 ; Su & Reeve, 2011 ). The ﬁrst author
+and 5 master ’s students (in psychology) discussed possible communication strategies
+Figure 1. Screenshot of the intervention video with the communication strategies based on Self-
+Determination Theory (content translated from German to English).HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 205
+and their applicability in the context of wri tten online communicat ion. Two strategies
+for each basic psychological need were det ermined by joint discussion (MBCT 3. Use
+noncontrolling, informational language ; MBCT 6. Provide choice; MBCT 8. Acknowl-
+edge and respect perspectives and feelings; MBCT 13. Providing opportunities forongoing support; MBCT 15. Address obstacles for change; MBCT 18. O ﬀer construc-
+tive, clear, and relevant feedback).
+2.3. Measures
+2.3.1. Study 1
+Demographic characteristics included age, gender, and highest educational attainment.
+Educational attainment level was subsequently coded according to the InternationalStandard Classi ﬁcation of Education (ISCED; UNESCO Institute for Statistics, 2012 )
+and recommendations by Eurostat (Eurostat, 2021 ) as low (ISCED levels 0 –2),
+medium (ISCED levels 3 and 4), and high (ISCED levels 5 –8).
+Theﬁrst author and 5 Master ’s students who were involved in the development of the
+video intervention developed a ﬁrst version for a coding scheme through joint discus-
+sions. Two trained Bachelor students in psychology blind to the experimental conditioncoded 20 responses separately. Both raters and the ﬁrst author discussed the results,
+resolved disagreements, and re ﬁned the coding scheme. Subsequently, both raters
+coded 29% (170/595) of the written responses (use of each of the 6 strategies; no = 0
+vs. yes = 1) to estimate interrater reliability. Interrater agreement, calculated withReCal OIR (Freelon, 2013 ), was adequate to good (percentage agreement = 76.5% –
+95.3%; Krippendor ﬀ’sα= .51 –.80; see Appendix C). In the next step, the coding
+scheme was further re ﬁned through discussions between the two raters and the ﬁrst
+author; because of good inter-rater agreement, the ﬁnal coding was conducted by one
+of the raters. Subsequently, the outcome variable need-supportive communication strat-
+egy use was calculated using the sum of the applied SDT-based communication strategiesfor every measurement time point (preintervention, postintervention, and 1-week
+follow-up). At every time point, participants wrote 3 responses to postings (3 responses
+with up to 6 need-supportive communication strategies used per posting; possible range:0–18 uses).
+2.3.2. Study 2
+Demographic characteristics included age, gender, highest educational attainment, andhighest professional degree, derived from the longitudinal German Internet Panel
+study (Blom, Gathmann, & Krieger, 2015 ,2018 ). Educational attainment level was
+coded as in Study 1. Occupational skill level was coded according to the InternationalStandard Classi ﬁcation of Occupations (ISCO; International Labour O ﬃce,2012 )a s
+ISCO skill level 1 (low, e.g. unskilled worker), level 2 (medium, e.g. skilled worker),
+level 3 (high, e.g. higher skilled worker), and level 4 (very high, e.g. academic job).ISCO levels 3 and 4 were subsequently integrated into one category (high to very high).
+Other control variables included if participants followed an omnivore diet (0 vs. 1) or a
+weight loss diet (0 vs. 1), if participants had a fructose intolerance (0 vs. 1), and the meannumber of other active community members in the individual intervention period, whichcould have di ﬀered between the di ﬀerent online communities and recruitment phases.206 M. KILB ET AL.
+2.3.2.1. Primary outcomes. Perceived need support in the online community was
+measured with the 15-item Virtual Care Climate Questionnaire which is based on
+Self-Determination Theory and other established questionnaires for assessing perceivedautonomy-support (Smit, Dima, Immerzeel, Putte, & Williams, 2017 ; example item: ‘The
+other forum users give me the feeling that I myself can choose a way to increase my
+TARGET BEHAVIOR by a third ’; Cronbach ’sα= .92). The questionnaire assesses per-
+ceived autonomy/ need-support in virtual settings (e.g. Smit et al., 2017 ).
+Goal attainment scores were calculated by dividing the values of the self-reported beha-
+viors at follow-up (e.g. number of vegetable portions or weekly minutes of moderate
+physical activity) by the behavioral goal (i.e. baseline behavior increased by 33%). Avalue of 1.0 thus represents 100% goal attainment.
+Physical activity was measured (in minutes per week) with 2 items each for moderate
+physical activity and vigorous physical activity derived from the International PhysicalActivity Questionnaire Short Form (Craig et al., 2003 ; Kim, Park, & Kang, 2013 ).
+Example items for moderate physical activity include ‘During the last 7 days, on how
+many days did you do moderate physical activities (breathing and heartbeat areincreased, speaking is still easy, but singing is no longer possible) like carrying lightloads, riding a bicycle at normal speed, doing strenuous household chores, playing
+actively with children, or doing moderate-intensity sports and endurance sessions at
+home, in the gym, or out in the fresh air? Do not include walking ’and‘How much
+time did you usually spend doing moderate physical activities on one of those days? ’
+Fruit and vegetable intake was measured with the 2 open-ended questions ‘How many
+daily portions of fruits/vegetables did you eat on average in the last 7 days? ’(cf.
+Chapman, Armitage, & Norman, 2009 ; Zhou, Gan, Hamilton, & Schwarzer, 2017 )
+after receiving information about typical portion sizes according to the German
+Federal Centre for Nutrition and the ‘Five-a-Day ’campaign (5 am Tag e.V., 2014 ;
+German Federal Centre for Nutrition, 2020 ).
+Engagement was measured with 3 indicators. The subjective forum visit frequency was
+measured with the item ‘How often did you visit the online forum during the challenge
+period? ’(response scale from 1 = not at all to 7 = multiple times daily). The number of
+logins and the number of postings within the 2-week intervention period were deter-
+mined for each participant from the objective server data.
+To examine whether the intervention had the hypothesized e ﬀect, we again calculated
+the need-supportive communication strategy use for every posting (possible range: 0 –6)
+as an additional proximal outcome. Strategy use, along with other variables such as if a
+posting contained self-monitoring (0 vs. 1) or a problem description (0 vs. 1), was codedby 2 trained raters who also initially extended the coding manual of Study 1 in joint dis-
+cussions. The raters were blind to the experimental condition. After coding and compar-
+ing 50 postings and the re ﬁnement of the initial coding manual, 10.24% (166/1621) of the
+postings were coded by both raters to calculate interrater agreement, which was good(percentage agreement = 91.0% –98.2%; Krippendor ﬀ’sα= .27 –.92; see Appendix C).
+The rest of the postings were divided among the 2 raters who each coded half of the
+postings.
+2.3.2.2. Secondary outcomes. Perceived social support was measured with 9 items
+adapted from the Child and Adolescent Social Support Scale for Healthy BehaviorsHEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 207
+(Menon & Demaray, 2013 ), for example, ‘The other forum users encourage me to main-
+tain or increase my current TARGET BEHAVIOR ’; Cronbach ’sα= .92.
+Instrumental and experiential attitude were measured with 5 and 4 semantic di ﬀeren-
+tial scales, respectively, (Conner, Rhodes, Morris, McEachan, & Lawton, 2011 ; Lawton,
+Conner, & McEachan, 2009 ). Items include ‘For me, maintaining or increasing my
+TARGET BEHAVIOR would be: useless –useful ’and‘For me, maintaining or increasing
+my TARGET BEHAVIOR would be: unpleasant –pleasant ’; Cronbach ’sα= .87 for each.
+Self-eﬃcacy was measured with 4 items adapted from the preaction and maintenance
+self-eﬃcacy scales of the Health Action Process Approach measures (Schwarzer, 2007 ;
+Sniehotta, Scholz, & Schwarzer, 2005 ), for example, ‘I am sure I can maintain or increase
+my TARGET BEHAVIOR, even if I do not see success at once ’; Cronbach ’sα= .78.
+Perceived descriptive and injunctive norms were measured with 3 items for each con-
+struct following the recommendations for social norm items of the Reasoned ActionApproach (Fishbein & Ajzen, 2011 ), such as ‘I think most forum members intend to
+maintain or increase their TARGET BEHAVIOR ’and‘I think most forum members
+expect me to maintain or increase my TARGET BEHAVIOR ’; Cronbach ’sα= .92 and
+.95.
+Autonomous motivation and controlled motivation were measured with 10 items
+adapted from the Behavioral Regulation Sports Questionnaire (Lonsdale, Hodge, &
+Rose, 2008 ). Speci ﬁcally, for each behavioral regulation form, two items with the
+highest item loadings were chosen and adapted to ﬁt the target behavior. Subsequently,
+intrinsic motivation, integrated motivation, and identi ﬁed motivation scores were com-
+bined to measure autonomous motivation; introjected motivation and external motiv-ation scores were combined to measure controlled motivation. Example items include
+‘I intend to maintain or increase my TARGET BEHAVIOR because it ’s fun ’and‘I
+intend to maintain or increase my TARGET BEHAVIOR because I feel pressure from
+other people to do so ’; Cronbach ’sα= .78 and .67.
+2.4. Statistical analyses
+Analyses of both studies were conducted with study completers (available follow-up data)
+using R version 4.0.1. To test the e ﬀects of the condition and time variables, lmerTest was
+used to estimate linear mixed models, and glmmADMB was used to estimate nonlinear
+mixed models. The R package emmeans was used to conduct Tukey-corrected post hoc
+contrasts with estimated marginal means. The R package performance was used to testfor overdispersion and zero in ﬂation in the nonlinear mixed models. The R package com-
+pareGroups was used to compare the di ﬀerent subgroups of the sample.
+2.4.1. Study 1
+The condition variable (intervention vs. control) and the time variable (preintervention
+vs. postintervention vs. follow-up) were e ﬀect-coded, so main and interaction e ﬀects can
+be interpreted independently. The intervention condition ’s and time variable ’seﬀects on
+need-supportive communication strategy use were tested with a linear mixed model with
+the diﬀerent measurement time points nested within persons and a random intercept on
+the person level. Analysis of variance type III tables were calculated with the R packagecar.208 M. KILB ET AL.
+2.4.2. Study 2
+The condition variable was dummy coded in Study 2 to compare the two groups at
+follow-up directly. Outliers were handled using winsorization based on 3 times themedian absolute deviation (Leys, Ley, Klein, Bernard, & Licata, 2013 ) and including
+them in the analyses for most outcomes to preserve statistical power (Leys, Delacre,
+Mora, Lakens, & Ley, 2019 ). We used the raw values for the count variables number
+of logins and number of postings because the data were highly skewed to the rightand represented objective data points (see below for statistical models applied). All ana-
+lyses were conducted twice, once using winsorized values and once excluding outliers.
+Instead of analyzing the engagement descriptively via the number of forum entries/threads and number of responses per entry (as preregistered) we chose a more ﬁnely
+grained approach and analyzed the e ﬀect of the condition on the number of postings
+at the person level as an intensity measure of engagement (see also Short et al., 2018
+for similar approaches). This decision was made to (1) increase the sample size for the
+analyses (there were only few entries, but many responses to entries) and to (2)
+account for the clustering of postings within participants and participants within thediﬀerent forums. Additionally, we analyzed the number of logins and the subjective
+forum visit frequency as engagement measure. The number of logins can be seen as a
+frequency measure of engagement (Short et al., 2018 ) which we use as an indicator of
+the engagement of lurkers who do not post in the forums but may still bene ﬁt by pas-
+sively viewing the content (Edelmann, 2016 ). We additionally analyzed the subjective
+forum visit frequency to see if the results for this more indirect form of engagement
+match in measures of both actual and perceived engagement. The intervention con-dition ’seﬀects on the outcomes were tested with linear mixed models for all primary
+and secondary outcome variables except for the number of logins and postings. The
+eﬀect on the number of logins and postings was tested with negative-binomial-distribu-
+ted mixed models because the variables represented counts and the presence of substan-tial overdispersion (Gelman & Hill, 2006 ). Additionally, we modeled zero in ﬂation if
+detected (Gelman & Hill, 2006 ). As an additional proximal outcome, we estimated the
+intervention condition ’seﬀect on the coded need-supportive communication strategy
+use on the posting level with a Poisson-distributed mixed model. The mixed models con-
+tained the maximal random e ﬀect structure justi ﬁed by design to maximize generalizabil-
+ity and control type-I error rate (Barr, Levy, Scheepers, & Tily, 2013 ; Musca et al., 2011 ).
+That is, for the number of need-supportive communication strategies, we included
+random intercepts and random slopes (predictor: condition) for participants and
+forums to account for potential systematic di ﬀerences in mean levels (random intercepts)
+and intervention-e ﬀects (random slopes) between participants and in the di ﬀerent
+forums because the observations (Level 1) were clustered within participants (Level 2)
+and forums (Level 3). For all other outcomes (e.g. number of logins and goal attainment),we included random intercepts and slopes (predictor: condition) for the cluster variableforum to account for potential systematic di ﬀerences in mean levels (random intercepts)
+and intervention-e ﬀects (random slopes) in the di ﬀerent forums because participants
+(Level 1) were clustered within forums (Level 2). For most outcomes, the models did con-verge. We only excluded the random slope in the models for the outcomes perceived
+need-support and experiential attitude because of non-convergence. All models further
+included control variables (only variables where systematic di ﬀerences between theHEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 209
+two conditions or between the self-selected goal types were detected) and baseline values
+of the dependent variables (when available). To check the robustness of our results, the
+analyses were conducted with all participants who registered in the forum and providedfollow-up data, regardless of whether they used the forum (following the intention-to-treat principle), as well as with participants who visited the forum more than once
+(per-protocol analyses; see the ﬂowchart in Figure 2 ). With the per-protocol analyses
+we aimed to exploratorily examine if potential intervention e ﬀects would replicate in
+the smaller but less noisy sample of actual users of the online communities. The
+results of the intention-to-treat analyses with winsorized values are reported in the
+main text, tables, and ﬁgures, if not stated otherwise. We refrained from testing the
+expected indirect e ﬀects of the intervention video on behavior change because we did
+notﬁnd any e ﬀects on the expected mediators in the ﬁrst place.
+For sample size estimation in Study 2, we relied on previous short-term intervention
+studies targeting the provision of need support that suggested a medium to strong e ﬀect
+size on average; however, the lower level bound of the con ﬁdence interval implies that the
+eﬀect size could also be small (Su & Reeve, 2011 ). We therefore conservatively estimated a
+required sample size of N= 292 ( n= 146 in each experimental group) to detect small
+eﬀect sizes with a power of .80 at an αlevel of .05 (see preregistration).
+3. Results
+3.1. Study 1
+3.1.1. Participants and descriptive statistics
+A total of 99 participants completed the baseline questionnaire, of whom 77% (76/99) alsocompleted the follow-up questionnaire after 1 week. There were no signi ﬁcant baseline
+diﬀerences in demographic characteristics between completers and noncompleters. Partici-
+pants in the ﬁnal data set were mostly female (59/99, 78%), had a mean age of M=2 5 . 2y e a r s
+Figure 2. Participant ﬂowchart for Study 2.210 M. KILB ET AL.
+(SD= 11.4 years), and had medium to high educational attainment. There were no signi ﬁ-
+cant baseline di ﬀerences in demographic characteristics and need-supportive communi-
+cation strategy use preintervention between the two experimental conditions (see Table 1 ).
+3.1.2. Need-supportive communication strategy use
+For the outcome need-supportive communication strategy use, there was a signi ﬁcant main
+eﬀect of condition ( F(1,72.92) = 14.91; p< .001; partial η2= 0.17), a signi ﬁcant main e ﬀect of
+time ( F(2,148.17) = 23.75; p< .001; partial η2=0 . 2 4 ) ,a n das i g n i ﬁcant interaction e ﬀect of
+condition × time ( F(2,148.17) = 33.75; p< .001; partial η2= 0.31). Post hoc contrasts with
+Tukey adjustment showed that the number of need-supportive communication strategies
+used in the written responses increased in the intervention condition from preinterventionto postintervention (estimate = –4.71, SE=0 . 5 0 ; t(148) = –9.45; p< .001; Cohen ’sd=–2.16,
+95% CI [ −2.91 to –1.41]) and from preintervention to follow-up (estimate = –4.58, SE=0 . 5 0 ;
+t(148) = –9.27; p< .001; Cohen ’sd=–2.10, 95% CI [ –2.61 to –1.59]), but there were no sig-
+niﬁcant changes in the control condition (all ps > .240). There was no di ﬀerence in the mean
+number of need-supportive communication strategies used between the two groups at base-
+line (estimate = 0.83, SE=0 . 7 8 ; t(132) = 1.07; p= .288; Cohen ’sd=0 . 3 8 , 9 5 % C I [ –0.33–
+1.09]), but the intervention condition had a higher mean number of need-supportive com-munication strategies used postintervention (estimate = –4.71, SE=0 . 7 8 ; t(133) = –6.05; p
+< .001; Cohen ’sd=–2.16, 95% CI [ –2.96 to –1.37]) and at 1-week follow-up (estimate = –
+3.72, SE=0 . 7 8 ; t(132) = –4.80; p< .001; Cohen ’sd=
+–1.71, 95% CI [ –2.47 to –0.95]; for all
+means and standard errors, see Figure 3 ).
+3.2. Study 2
+3.2.1. Participants and descriptive statistics
+A total of 1400 participants completed the baseline assessment. After study dropout (lostto follow-up) and exclusion of 11 participants because they did not register in the forum,
+n= 537 participants could be included in the intention-to-treat analyses for most
+Table 1. Baseline characteristics and participant di ﬀerences in the control and intervention conditions
+(Study 1).
+VariableControl
+group
+(n= 36)Intervention
+group
+(n= 40) p
+Demographic characteristics
+Age (years), M(SD) 26.00 (13.30) 24.52 (9.53) .584
+Female, n(%) 29 (81) 30 (75) .594
+Educational attainment, n(%)
+Low (ISCED 0 –2) 0 (0) 0 (0) .881
+Medium (ISCED 3 & 4) 28 (78) 32 (80)High (ISCED 5 –8) 7 (19) 8 (20)
+Other 1 (3) 0 (0)
+Outcome (preintervention)
+Need-supportive communication strategy use (number of need-supportive
+communication strategies), M(SD)5.47 (3.1) 4.65 (2.51) .211
+Note: The control and intervention groups were compared with Welch ’s two-sample ttests (means) or Fisher ’s exact tests
+(proportions) whereby pshows the signi ﬁcance level of the comparisons. ISCED = International Standard Classi ﬁcation
+of Education.HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 211
+outcomes (537/1400, 38.36%). N= 320 participants could be included in the per-protocol
+analyses after excluding participants who did not log in more than once (320/1400,
+22.86%; see participant ﬂowchart in Figure 2 ).
+There was a higher dropout in the intervention condition compared to the control
+condition ( OR0.70, 95% CI [0.56 –0.87]; p= .001). Furthermore, study completers
+made on average more postings ( t(637.95) = –8.48; p< .001; Cohen ’sd= 0.55, 95% CI
+[0.43 –0.66]), logged in more often ( t(648.01) = –8.64; p< .001; Cohen ’sd= 0.56, 95%
+CI [0.44 –0.67]), and had a lower fruit intake at baseline ( t(1169.10) = 2.04; p= .041;
+Cohen ’sd=–0.11, 95% CI [ –0.22–0.00]). There were no signi ﬁcant baseline di ﬀerences
+in participant characteristics between the control and intervention group besides a lowervegetable intake at baseline in intervention participants, t(526.86) = 1.94; p= .048;
+Cohen ’sd=–0.17, 95% CI [ –0.34–0.00] (see Table 2 ). As would be expected, we found
+baseline di ﬀerences between participants who had self-selected di ﬀerent behavioral
+goals. Therefore, we included these variables as control variables in the mixed models
+(see Appendix D for a detailed overview of baseline di ﬀerences between the di ﬀerent
+goal-type conditions).
+In the two-week intervention period, there were N= 1130 postings in total in the
+forums. Participants created on average M= 2.07 ( SD= 3.88) postings. One half of par-
+ticipants (273/537, 50.8%) posted at least once, and 31.7% (170/537) posted more than
+once (273/1400, 19.5% and 170/1400, 12.1% of initially randomized participants).Among all postings, 25.22% (285/1130) were categorized as self-monitoring postings,
+Figure 3. Mean number of need-supportive communication strategies used (Study 1).
+Note: Means and standard errors (error bars) for the number of need-supportive communication strategies used in the
+responses to ﬁctive online postings, by measurement time and experimental condition.212 M. KILB ET AL.
+32.57% (368/1130) contained a problem description by participants, 27.88% (315/1130)
+contained goal setting, and 17.96% (203/1130) contained a personal introduction. Par-ticipants logged in M= 3.54 ( SD= 4.97) times on average. Most participants who regis-
+tered in the forums (503/537, 93.67%) logged in at least once and around two third (320/
+537, 59.59%) logged in more than once.Table 2. Baseline characteristics and participant di ﬀerences in the control and intervention group
+(Study 2).
+VariableControl group
+(n= 301)Intervention group
+(n= 236) p
+Demographic characteristics
+Age (years), M(SD) 42.02 (11.64) 43.46 (11.30) .150
+Body mass index (kg/m2),M(SD) 28.52 (6.52) 28.57 (6.69) .939
+Female, n(%) 294 (97.7) 231 (97.9) .999
+Educational attainment, n(%) .999
+Low (ISCED 0 –2) 3 (1.0) 2 (0.9)
+Medium (ISCED 3 & 4) 138 (45.9) 108 (45.8)
+High (ISCED 5 –8) 159 (52.8) 126 (53.4)
+NA 1 (0.3) 0 (0.0)
+Occupational skill level, n(%) .942
+Low (ISCO skill level 1, e.g. unskilled worker) 24 (8.0) 16 (6.8)
+Medium (ISCO skill level 2, e.g. skilled worker) 117 (38.9) 92 (39.0)
+High (ISCO skill levels 3 & 4, e.g. higher skilled worker/academic job) 159 (52.8) 127 (53.8)NA 1 (0.3) 1 (0.4)
+Professional position, n(%) .300
+Full-time employees 152 (50.5) 108 (45.8)
+Part-time employees 74 (24.6) 73 (30.9)Students (higher education) 25 (8.3) 23 (9.8)Other 50 (16.6) 32 (13.6)
+Goal type, n(%) .695
+Fruit intake 20 (6.6) 15 (6.4)Vegetable intake 84 (27.9) 56 (23.7)Moderate physical activity 84 (27.9) 67 (28.4)
+Vigorous physical activity 113 (37.5) 98 (41.5)
+Outcomes (baseline)
+Fruit intake (no. portions), M(SD) 1.51 (1.01) 1.50 (0.94) .957
+Vegetable intake (no. portions), M(SD) 2.05 (1.41) 1.83 (1.25) .048
+Moderate physical activity (min/week), M(SD) 214.70 (193.09) 203.23 (192.77) .494
+Vigorous physical activity (min/week), M(SD) 33.19 (35.72) 32.56 (35.51) .837
+Autonomous motivation, M(SD) 3.94 (1.00) 3.85 (0.92) .311
+Controlled motivation, M(SD) 4.12 (1.52) 4.17 (1.51) .720
+Instrumental attitude, M(SD) 7.00 (0.00) 7.00 (0.00) N/A
+a
+Experiential attitude, M(SD) 5.50 (1.14) 5.55 (1.14) .593
+Self-e ﬃcacy, M(SD) 3.82 (0.67) 3.78 (0.68) .582
+Perceived descriptive norms, M(SD) 3.88 (0.68) 3.95 (0.68) .219
+Perceived injunctive norms, M(SD) 3.94 (0.78) 4.01 (0.80) .271
+Other
+Number of other active forum members, M(SD) 165.92 (93.77) 167.57 (95.09) .841
+Omnivore diet, n(%) 185 (61.5) 153 (64.8) .472
+Weight loss diet, n(%) 70 (23.3) 53 (22.5) .837
+Fructose intolerance, n(%) 288 (95.7) 226 (95.8) .999
+Note: The control and intervention groups were compared with Welch ’s two-sample ttests (means) or Fisher ’s exact tests
+(proportions), whereby pshows the signi ﬁcance of the comparisons. The outcomes goal attainment, perceived need
+support, perceived social support, number of logins, number of postings, and subjective forum use frequency are
+only available at follow-up. ISCED = International Standard Classi ﬁcation of Education. ISCO = International Standard
+Classiﬁcation of Occupations. NA = Missing values. N/A = Not applicable.
+aNot applicable because the distribution of the variable was highly skewed and there was little variance; after winsoriza-
+tion, all participants scored the highest value on the scale (7).HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 213
+3.2.2. Proximal outcome: need-supportive communication strategy use
+To examine whether our manipulation (i.e. watching the intervention or the control
+video) in ﬂuenced the use of need-supportive communication strategies, we descriptively
+analyzed the proportion of postings with a speci ﬁc number of strategies used per posting
+(maximum of 6 strategies per posting) in the N= 1130 included postings, separated by
+condition. As shown in Figure 4 , most postings (63.87% (350/548) of participants ’post-
+ings in the control condition, 65.46% (381/582) of participants ’postings in the interven-
+tion condition) contained only one need-supportive communication strategy.
+Additionally, in the mixed model, there was no signi ﬁcant e ﬀect of condition on the
+number of applied strategies on the posting level ( B=–0.01, SE= 0.05; z=–0.28; p
+= .778). This means that participants in the intervention condition did not use need-sup-
+portive communication strategies more frequently than participants in the control con-
+dition ( MIntervention = 1.44, SDIntervention = 0.76; MControl = 1.48, SDControl = 0.74). There
+were no intercept and slope variances (see Appendix E1), meaning that there were no
+diﬀerences in the mean levels of need-supportive communication strategy use between
+participants and the di ﬀerent forums. The e ﬀect of the video intervention did also not
+vary by participants and forums. The results did not change in the model with partici-pants who visited the forum more than once.
+3.2.3. Primary outcomes
+Not in line with the preregistered hypotheses, there were no statistically signi ﬁcant eﬀects
+of the intervention video on perceived need support, goal attainment, and most of the
+Figure 4. Percentage of postings with a speci ﬁc number of need-supportive communication strat-
+egies based on Self-Determination Theory by experimental condition (Study 2).
+Note: The maximum possible number of strategies per posting is 6. Error bars represent 95% con ﬁdence intervals.214 M. KILB ET AL.
+engagement variables (see Table 3 for all primary and secondary outcomes). There was
+only a statistically signi ﬁcant eﬀect of the intervention video on the number of postings
+(B= 0.31, SE= 0.15; z= 1.99; p= .046), as expected. More speci ﬁcally, participants who
+watched the intervention video tended to have a higher number of postings comparedto participants who watched the control video (see Table 3 ). Overall, there was little evi-
+dence for substantial slope variances for the e ﬀect of the video intervention on the
+primary outcomes (see Appendix E1), meaning that the e ﬀects did not vary between
+forums. For the outcomes ‘goal attainment ’and ‘subjective forum visit frequency ’
+there were also no substantial intercept variances, meaning that there were no systematic
+diﬀerences in the mean-levels of the outcome variables in the di ﬀerent forums. Most of
+the results did not change after excluding outliers based on the median absolute deviation
+or with participants who visited the forum more than once. One exception (when exclud-
+ing outliers instead of winsorization) was a statistically signi ﬁcant eﬀect of the interven-
+tion video on the subjective forum visit frequency ( B= 0.28, SE= 0.10; t(514) = 2.71; p
+= .007). However, in participants visiting the forum more than once, the e ﬀect on sub-
+jective forum visit frequency was not statistically signi ﬁcant anymore (independent of
+the type of outlier handling). We also report sub-group analyses for the di ﬀerent
+health behaviors and goal types in Appendix F.
+Table 3. Intervention e ﬀects and estimated marginal means for intervention and control condition
+from mixed models (Study 2).
+VariableEstimated marginal
+mean ( SE)Intervention e ﬀect estimate
+B(SE)ap
+Control
+group
+(n= 301)Intervention
+group
+(n= 236)
+Proximal outcomes
+Number of need-supportive
+communication strategiesb1.48 (0.03) 1.44 (0.03) −0.01 (0.05) .778
+Primary outcomes
+Perceived need support 3.03 (0.16) 3.08 (0.17) 0.05 (0.22) .840Goal attainment 1.12 (0.07) 1.22 (0.07) 0.11 (0.09) .260Number of postings
+b1.81 (0.20) 2.42 (0.28) 0.31 (0.15) .046
+Number of loginsb3.51 (0.33) 3.59 (0.25) 0.10 (0.08) .250
+Subjective forum visit frequency 2.47 (0.10) 2.71 (0.10) 0.24 (0.13) .101
+Secondary outcomes
+Autonomous motivation 3.99 (0.06) 3.96 (0.09) −0.03 (0.10) .795
+Controlled motivation 4.20 (0.10) 4.09 (0.11) –0.11 (0.13) .384
+Self-e ﬃcacy 3.39 (0.04) 3.39 (0.05) –0.01 (0.06) .915
+Experiential attitude 5.13 (0.11) 5.20 (0.12) 0.07 (0.16) .669Instrumental attitude 6.58 (0.03) 6.64 (0.04) 0.06 (0.05) .319
+Perceived descriptive norms 3.77 (0.09) 3.77 (0.05) 0.00 (0.10) .977
+Perceived injunctive norms 3.38 (0.08) 3.47 (0.08) 0.09 (0.10) .389Perceived social support 3.23 (0.18) 3.28 (0.15) 0.05 (0.22) .813
+Note: Analyses were conducted with winsorized values and the e ﬀect of the intervention condition (dummy coded) is
+controlled for baseline values of the outcome, variables with baseline di ﬀerences between completers and noncompl-
+eters, and between the 4 self-selected goal types, that is age, fruit intake, vegetable intake, moderate physical activity,vigorous physical activity, body mass index, perceived descriptive norms, perceived injunctive norms, and the mean
+number of active forum users. The raw values were used for the poisson-distributed count variables number of
+need-supportive communication strategies, number of logins and number of postings.
+aDiﬀerences between estimated marginal means and estimates originate from rounding.
+bFor the number of postings and the number of logins, the intervention ’seﬀect is multiplicative ( eestimate) rather than
+additive since the models use a log-link-function for the count data. M(SE) represents the raw values because estimated
+marginal means could not be derived for nonlinear mixed models.HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 215
+3.2.4. Secondary outcomes
+There were no statistically signi ﬁcant e ﬀects of the intervention video on autonomous
+motivation, controlled motivation, self-e ﬃcacy, perceived social support, experiential
+attitude, instrumental attitude, descriptive behavioral norms, or injunctive behavioralnorms (see Table 3 ), which again was not in line the preregistered hypotheses. Overall,
+there were small to non-existent intercept and slope variances (see Appendix E2),
+meaning that the e ﬀect of the video intervention did not vary between the di ﬀerent
+forums, and that there were no systematic di ﬀerences in the mean-levels of the
+outcome variables in the di ﬀerent forums. The results did not change when outliers
+were excluded based on median absolute deviation or in models including only partici-pants who visited the forum more than once.
+4. Discussion
+4.1. Principal results
+Consistent with our hypothesis, young adults who watched the intervention video with
+need-supportive communication strategies almost doubled their strategy use in writtenresponses to ﬁctive online postings immediately after watching the video and at 1-
+week follow-up in Study 1. In contrast, participants who watched a control video on neti-
+quette rules showed no such increase directly after the intervention or at follow-up. Theseresults suggest that a 3-minute educational video is su ﬃcient to learn need-supportive
+communication strategies and apply them, at least for 1 week.
+In Study 2, we tested whether this e ﬀect translates to a real-world online community,
+improving communication climate and perceived need support, using the same interven-tion videos. Not in line with our preregistered hypotheses, we found that participants in
+the intervention condition reported neither higher perceived need support from the
+other community members nor higher goal attainment compared to participants inthe control condition. Goal attainment was generally very high: In both groups, partici-
+pants reached on average more than 100% of their individual goals at the end of the inter-
+vention. We did only ﬁnd mixed evidence regarding higher engagement in participants
+in the intervention condition. More speci ﬁcally, they tended to have a higher perceived
+forum use (subjective forum visit frequency), but not actual forum use (number of
+logins); however, this e ﬀect was only inconsistent and not robust. Importantly, in line
+with our hypothesis, participants in the intervention condition showed a highernumber of postings, compared to participants in the control condition. Not in line
+with our hypotheses, we did not ﬁnd statistically signi ﬁcant di ﬀerences between the
+two conditions at follow-up regarding behavior-related self-e ﬃcacy, experiential or
+instrumental attitudes, perceived descriptive or injunctive norms, perceived social
+support, or autonomous or controlled motivation. These ﬁndings are not surprising
+given that we expected the e ﬀects on our secondary outcomes to be mediated by
+changes in perceived need support (Hagger & Chatzisarantis, 2009 ), which we did not
+ﬁnd in the ﬁrst place. The results can be explained by a missing e ﬀect of the video inter-
+vention on the proximal outcome need-supportive communication strategy use.
+Why did the strong increase in need-supportive communication strategy use not
+transfer from an experimental setting (Study 1) to a real-world setting (Study 2)?216 M. KILB ET AL.
+Regarding statistical power, we recruited an even higher sample size than preregistered
+(preregistered: N= 292 vs. ﬁnal sample size: N= 537). This was the case because we con-
+ducted a community-based experiment where all participants had to start together. Par-ticipants had the chance to register for the study until two days before the interventionbegan; everyone who registered within this time window was allowed into the study. We
+did not shorten the envisioned time window to ensure enough participants at follow-up
+because we expected substantial study dropout (cf. Eysenbach, 2005 ). The larger sample
+size allowed us to detect small e ﬀects of the video intervention in Study 2 with a higher
+statistical power than initially targeted (.80 at an αlevel of .05). This was bene ﬁcial for our
+analyses because the e ﬀect size for our intervention had to be estimated on several theor-
+etical assumption, because no similar intervention existed that could have informed this
+estimate. Additionally, Study 1 showed strong e ﬀects of the video intervention on need-
+supportive communication strategy use, suggesting that other reasons might underly themissing e ﬀects in Study 2. One reason could be that the strategies were not applicable to
+posting types that frequently occurred in the online communities. There was a substantial
+number of self-monitoring postings in which participants mainly tracked their goal pro-gress without substantial or meaningful social interaction with other participants. Thestrategies, in contrast, aim to support other individuals who struggle with behavior
+change by ful ﬁlling the basic psychological needs and enhancing the development of
+autonomous forms of motivation (Teixeira et al., 2020 ). Therefore, they are not appli-
+cable in self-monitoring posting. Further, all ﬁctive online postings in Study 1 contained
+descriptions of barriers to a healthy diet, for which communication strategies such as
+‘identifying problems and solutions ’, as explained in the intervention video, were
+easily applicable. In contrast, less than a third of postings in Study 2 contained a
+problem description by participants to which all need-supportive communication strat-
+egies could theoretically be applied.
+Additionally, goal attainment was very high in both groups, which is somewhat sur-
+prising because there is typically a so-called intention-behavior gap and people struggle
+with translating their intentions into behavior (Sheeran, 2002 ; Sheeran & Webb, 2016 ).
+Why might participants have been so successful in reaching their goals? There are atleast two reasons which might explain the ﬁnding. First, our overall intervention con-
+tained e ﬀective BCTs (goal setting, provision of social support via forum) in both exper-
+imental groups, which supports the enaction of intentions into behavior. Furthermore,participants also used e ﬀective BCTs by themselves (e.g. self-monitoring, which was a fre-
+quently occurring posting type). Eating and physical activity interventions that include
+self-monitoring and other BCTs from control theory (e.g. goal setting) have beenshown to be more e ﬀective than interventions who do not use them (Michie,
+Abraham, Whittington, McAteer, & Gupta, 2009 ). Second, the goals for participants
+were individualized, which make them more e ﬀective (Kwasnicka, Ntoumanis, & Snie-
+hotta, 2021 ). Participants could choose their target behavior and the goal was adapted
+to the baseline level of the speci ﬁc behavior. Research shows that goals are more
+eﬀective when they are speci ﬁc, personally relevant, and pursued for autonomous
+reasons (Kwasnicka et al., 2021 ). Because the intervention already included e ﬀective
+BCTs, participants might have not been in a high need for support by the other partici-
+pants for very speciﬁcproblems in the behavior change process –which was also re ﬂ
+ected
+in the low number of postings containing a problem description. Taken together, theHEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 217
+already successful behavior changes and high goal attainment in both groups may also
+partially explain the infrequent application of the need-supportive communication strat-
+egies, as they aim at supporting others who struggle with behavior change (Teixeira et al.,2020 ).
+Lastly, another potential explanation for why the SDT-based video intervention did not
+produce the expected e ﬀects could be the generally low engagement in the online commu-
+nities. Among participants who registered in the online community and provided follow-updata, one half contributed at least one post and around one third posted more than one. One
+reason for this could be that around half of the participants were also registered in at least
+one other online forum and around one third even actively participated –via reading and/or
+posting content –in other health-related online forums. This likely results in less time for
+using our study forum and might also reduce th e need of participants to use our forum for
+t h ee x c h a n g ea n ds u p p o r tw i t ho t h e rp e o p l ew i t hs h a r e dg o a l s .T h er e l a t i v e l yl o we n g a g e -ment rate limits the impact of the need-supportive communication strategies on our
+hypothesized outcomes because they may si mply not be applied frequently enough to
+change the perceived communication climate. Research suggests that a ‘critical mass ’is
+necessary to stimulate natural interaction within online communities and on social net-working sites in general, which –despite some interaction among participants –may
+have been too low. There are usually many passive users or lurkers within online commu-
+nities and on social networking sites (Carron-Arthur et al., 2015; Edelmann, 2016).
+Additionally, engagement rates in social-net working-site-based interventions typically
+vary substantially (Klassen et al., 2018;W a r i n ge ta l . , 2018; Williams et al., 2014). Research
+suggests that only about 10 –20% of users in online communities are actively contributing
+(Edelmann, 2016). This means that general engagement rates in our study at around 30%
+of our follow-up sample posting more than once, and around 60% logging in more than
+once were still comparably high. In addition, having few very active users is also important:One study estimated that removing the 1% of very active superusers in two large online
+communities about asthma –who contributed about 32% and 49% of the postings –
+would cause the communities to collapse (Joglekar et al., 2018). Therefore, superusers
+keep online communities thriving. As discussed earlier, passive participation is not equalto nonuse or nonengagement. Lurkers may still pro ﬁt from online communities and inter-
+ventions by silently using the platform (Edelmann, 2016).
+To sum up, high levels of goal attainment, low engagement, and low applicability of
+the need-supportive communication strategies to frequently occurring posting types
+might explain the missing e ﬀect of the intervention video on need-supportive com-
+munication strategy use. We expect that the e ﬀects of the video intervention might
+have been more pronounced if participants had shown stronger engagement and
+applied the need-supportive communication strategies more frequently in the interper-
+sonal interactions. Interestingly, we found some evidence for an increase in engage-ment in participants watching the interven tion video, even without increased need-
+supportive communication strategy use (in creased number of postings). One possible
+explanation for this ﬁnding could be that the mere expectation of an improved com-
+munication climate in the online communit y stimulated engagement. Nevertheless,
+the eﬀects were comparably small and might h ave been stronger and more reliable if
+the need-supportive communication strategies were applied more frequently in the
+interpersonal interactions.218 M. KILB ET AL.
+4.2. Theoretical and practical implications
+According to SDT (Deci & Ryan, 2000 ; Ryan et al., 2008 ; Ryan & Deci, 2017 ), a more
+need-supportive communication climate should lead to more autonomous and self-
+determined motivation, which should, in turn, lead to more e ﬀective behavior change.
+Additionally, it should positively in ﬂuence behavior-related attitudes, perceived social
+norms, and self-e ﬃcacy, according to the integrated SDT model (Hagger & Chatzisaran-
+tis,2009 ). Today, there is little research on need support in online communities and
+social networking sites. However, the results of previous o ﬄine randomized controlled
+trials show that health behavior interventions based on SDT can change perceived
+need support (Gillison et al., 2019 ; Ntoumanis et al., 2021 ). For example, in one SDT-
+based weight loss trial (Silva et al., 2008 ), providing a need-supportive environment
+led to higher perceived need support, autonomous motivation, behavior change, and
+weight loss, compared to a control group receiving a general health education curriculum
+(Silva et al., 2010 ,2011 ). Interestingly, increased autonomous motivation for physical
+activity even spilled over to eating behavior regulation (Mata et al., 2009 ). Thus, increas-
+ing need support may even bene ﬁt health behaviors that are not directly targeted in an
+intervention. A recent meta-analysis showed that interventions to improve the provisionof need support to others can be successful across di ﬀerent domains (Su & Reeve, 2011 ).
+It is important that future research further examines whether improving perceived need
+support in online communities and social networking sites leads to successful behaviorchange.
+While short interventions can improve the provision of need support (Su & Reeve,
+2011 ) and a short intervention format is generally promising for intervention delivery
+to large numbers of people (as typically found in online communities), short videosmay not be intense enough to change a person ’s communication style in a long-term
+ﬁeld context. Therefore, future studies could test whether the incorporation of regular
+refreshers of intervention materials, such as watching the video again or short remindersabout the key points, increases the expected e ﬀects. Yet another way to improve need-
+supportive communication strategy uptake and need-supportive communication could
+be to incentivize a proportion of the users for using the need-supportive communicationstrategies in their postings, making them peer role models. Relatedly, incentivizing par-
+ticipants for postings has been shown to increase engagement in a Facebook-delivered
+weight loss intervention (Pagoto et al., 2017 ). In addition, superusers or content modera-
+tors of online communities could receive more intense SDT-based training in need-sup-portive communication. For example, Inauen et al. ( 2017 ) trained and instructed
+confederate moderators in smartphone-based eating-related social support groups to
+model and ensure the provision of social support to participants by responding toevery posting with supportive messages and posting daily questions.
+4.3. Strengths and limitations
+One limitation of Study 1 was the highly controlled experimental setting and a relatively
+homogeneous sample. While this can impact the ecological validity and generalizabilityof the ﬁndings, this controlled setting allowed us to test whether a short intervention
+video can change communication strategies under ideal conditions.HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 219
+To address limitations inherent in a controlled experiment, we tested whether e ﬀects
+also applied in a real-world setting with a more heterogeneous sample (Study 2). While
+mostly women responded to our recruitment ads (e.g. print advertisement and Facebookads), other characteristics such as age and body mass index substantially varied. Ecologi-cal validity was further increased by allowing participants to select their behavioral goals.
+This better re ﬂects reality, where people usually choose to change a speci ﬁc behavior, and
+it ensured that participants selected behavioral domains with room for improvement.The self-selection resulted on the other hand in unbalanced cell sizes for each behavior.
+In the analyses, we circumvented possible resulting power problems by pooling partici-
+pants and focusing on goal attainment instead of the behavior itself in separate analyses.Nevertheless, this design feature also resulted in a di ﬀerent number of other active par-
+ticipants in the di ﬀerent forums. To account for this, we controlled for the mean number
+of other forum members in all analyses. To avoid such disbalance, future studies couldfocus on one behavior at a time (e.g. physical activity or vegetable intake) or include par-
+ticipants who choose di ﬀerent behaviors in the same forum. A more rigorous approach
+might be to randomize participants to the di ﬀerent goal behaviors. However, this could
+undermine participants ’motivation.
+Study 2 participants had a comparably high rate of dropout to follow-up (863/1400,
+61.6%). Surprisingly, there was a higher dropout in the intervention group compared
+to the control group. One potential reason for this is that it might have been morediﬃcult for participants to apply the need-supportive communication strategies (com-
+pared to the more general netiquette rules) in the interpersonal communication, result-
+ing in frustration and study dropout. This idea is indirectly supported by the fact that theuse of need-supportive communication strategies was generally very low. While high
+dropout rates in general are not unusual for internet-based interventions (Eysenbach,
+2005 ; Kelders, Kok, Ossebaard, & Gemert-Pijnen, 2012 ), the dropout in this study may
+have been in ﬂuenced by a low adherence-motivating structure (e.g. without face-to-
+face appointments, reminders, or content moderators), no delivery of intervention
+content via the online communities, and the lack of a monetary incentive for study par-
+ticipation. Nevertheless, we recruited even more participants than preregistered, as dis-cussed earlier. Because our intervention also aimed to increase engagement in the context
+of a mere community-support intervention, we did not include any additional strategies
+to target engagement. However, since engagement is typically low but important forintervention outcomes, the following strategies for enhancing engagement in interven-
+tions involving online communities or social networking sites in general could be
+helpful: including content moderators or (peer) role models (Inauen et al., 2017 ;
+Pagoto et al., 2017 ), increasing posting frequency, using call-to-actions in postings
+(Pagoto et al., 2016 ; Waring et al., 2018 ), using a combination of text, pictures, and
+videos in postings (Cavallo, Martinez, Webb Hooper, & Flocke, 2021 ; Waring et al.,
+2018 ), dependent on the possibilities of the speci ﬁc platform, and also creating a positive
+and supportive communication climate, as we intended with our intervention.
+One further limitation of Study 2 was the use of self-report questionnaires for fruit and
+vegetable intake and physical activity. For physical activity, assessments with question-naires can result in lower reliability or validity and lead to systematic overestimation
+(Helmerhorst, Brage, Warren, Besson, & Ekelund, 2012 ; Prince et al., 2008 ) or underes-
+timation of physical activity (Prince et al., 2008 ). Yet, self-reports with validated measures220 M. KILB ET AL.
+such as in our study are e ﬃcient, a ﬀordable, and can be easily administered in online
+forums. While accelerometers are not subject to recall bias, they can be very costly
+(Lee & Shiroma, 2014 ), not equally suitable for all kinds of activity (e.g. swimming, bicy-
+cling), and can produce di ﬀerent results depending on the model or how they are worn.
+Thus, they are di ﬃcult to use in an online-recruited study such as ours. Assessments of
+eating behavior such as food frequency questionnaires or 24-hour recall methods often
+rely on subjective measures that can lead to recall bias (Naska, Lagiou, & Lagiou,2017 ). To improve reliability of the fruit and vegetable intake assessment in our study,
+we provided written examples of portion sizes and pictures. Importantly, self-report is
+the most feasible method in online studies. Nevertheless, future studies could considernew assessment methods such as photo-based recording (König, Van Emmenis,
+Nurmi, Kassavou, & Sutton, 2021 ) that may increase usability and reduce participant
+burden. Importantly, while absolute levels of target behaviors may be biased in ourstudy, the goal attainment scores are informative, because both scores were measured
+with the same method within the same person, resulting in the same bias (e.g. systematic
+over- or underestimation) at every measurement point.
+For Study 2, we created new online communities explicitly for our participants.
+Additional analyses, however, suggested that most participants who completed the
+follow-up questionnaire would prefer to join a private Facebook group (vs. a forum).
+When conducting interventions involving social networking sites, one of the big ques-tions is whether to create a social networking site and online community from scratch
+or to use already established ones such as Facebook, Instagram, Twitter, or Reddit. In
+this decision, there is usually a trade-o ﬀbetween privacy and usability. Creating a
+social networking site from scratch for research purposes has the huge advantage that
+the data belongs to the researchers. There is no third-party company involved whose
+privacy guidelines must be applied. Furthermore, there is always full access to the necess-ary data. In addition, there are several challenges in using commercial applications forresearch (Arigo et al., 2019 ; Pagoto et al., 2016 ). For example, collected data typically
+belongs to the company and can be used for other purposes such as advertisement. It
+is essential to inform participants about the existing privacy guidelines and who hasaccess to what data. Another challenge is limited data access for researchers, which
+could even change during the project because application programming interface per-
+missions and restrictions frequently change. Advantages of commercial social network-ing site applications include their high usability, wide distribution, and integration into
+smartphones, thus allowing them to conveniently reach a large proportion of the popu-
+lation (Arigo et al., 2019 ). In line with this, one systematic review showed that interven-
+tions using private Facebook groups had the highest levels of engagement and acceptance
+(Klassen et al., 2018 ). Fortunately, there have been e ﬀorts to develop ethical standards for
+social networking site and social media research to protect user privacy, although they arestill mostly uncoordinated (Arigo et al., 2019 ; Pagoto & Nebeker, 2019 ).
+5. Conclusions
+Social networking sites and online communities have a huge potential for supporting
+behavior change, but user engagement is typically low, and the quality of interpersonalcommunication and interaction needs to be improved to maximize e ﬀects. AccordingHEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 221
+to SDT, promoting need-supportive communication could positively in ﬂuence both user
+engagement and behavior change. A brief video intervention could serve as a low-cost
+intervention to improve need-supportive communication. However, its applicabilityand eﬀectiveness in more ecologically valid contexts need further evaluation. Comp-
+lementary strategies such as training super-users or content moderators in need-suppor-
+tive communication may improve strategy uptake and intervention e ﬀects. Future
+intervention studies should incorporate additional strategies for improving user engage-ment to further stimulate natural interpersonal interaction among users.
+Acknowledgements
+We would like to thank Julia Graßho ﬀ, Kilian Timo Grebe, Miriam Leandra P ﬂeiderer, Chiara
+Reis, Julia Strauch, and Christopher Held for support in the development and initial validationof the videos and Nina Haberland, Anika Bales, and Insa Borm for the coding of need-supportivecommunication strategy use.
+Data availability statement
+The data that support the ﬁndings of this study are openly available in the Open Science Frame-
+work at https://osf.io/xsb2e/ .
+Disclosure statement
+No potential con ﬂict of interest was reported by the author(s).
+Funding
+The publication of this article was funded by the University of Mannheim.
+ORCID
+Michael Kilb http://orcid.org/0000-0001-9751-2499
+Oliver Dickhäuser http://orcid.org/0000-0002-3126-8398
+Jutta Mata http://orcid.org/0000-0003-2498-5054
+References
+5 am Tag e.V. ( 2014 , September 11). Was ist 5 am Tag . Retrieved from https://www.5amtag.de/
+wissen/was-ist-5-am-tag/
+Ajzen, I. ( 1991 ). The theory of planned behavior. Organizational Behavior and Human Decision
+Processes ,50(2), 179 –211. doi: 10.1016/0749-5978(91)90020-T
+Arigo, D., Jake-Scho ﬀman, D. E., Wolin, K., Beckjord, E., Hekler, E. B., & Pagoto, S. L. ( 2019 ). The
+history and future of digital health in the ﬁeld of behavioral medicine. Journal of Behavioral
+Medicine ,42(1), 67 –83. doi: 10.1007/s10865-018-9966-z
+Arigo, D., Pagoto, S., Carter-Harris, L., Lillie, S. E., & Nebeker, C. ( 2018 ). Using social media for
+health research: Methodological and ethical considerations for recruitment and interventiondelivery. DIGITAL HEALTH ,4, 2055207618771757. doi: 10.1177/2055207618771757222 M. KILB ET AL.
+Barr, D. J., Levy, R., Scheepers, C., & Tily, H. J. ( 2013 ). Random e ﬀects structure for con ﬁrmatory
+hypothesis testing: Keep it maximal. Journal of Memory and Language ,68(3), 255 –278. doi: 10.
+1016/j.jml.2012.11.001
+Beisch, N., & Schäfer, C. ( 2020 ). Internetnutzung mit großer dynamik: Medien, kommunikation,
+social media. Media Perspektiven ,9, 462 –481. Retrieved from https://www.ard-werbung.de/
+media-perspektiven/fachzeitschrift/2020/detailseite-2020/internetnutzung-mit-grosser-dynamik-medien-kommunikation-social-media/
+Blom, A. G., Felderer, B., Höhne, J. K., Krieger, U., Rettig, T., & SFB 884 ´Political economy of
+reforms, Universität Mannheim. ( 2018 ).German Internet Panel, Wave 31 —Core Study
+(September 2017) —Codebuch - (1.0.0) [Data set]. GESIS Data Archive. Retrieved from doi: 10.
+4232/1.13011
+Blom, A. G., Gathmann, C., & Krieger, U. ( 2015 ). Setting up an online panel representative of the
+general population: The German Internet panel. Field Methods ,27(4), 391 –408. doi: 10.1177/
+1525822X15574494
+Carron-Arthur, B., Ali, K., Cunningham, J. A., & Gri ﬃths, K. M. ( 2015 ). From help-seekers to
+inﬂuential users: A systematic review of participation styles in online health communities.
+Journal of Medical Internet Research ,17(12), e271. doi: 10.2196/jmir.4705
+Cavallo, D. N., Martinez, R., Webb Hooper, M., & Flocke, S. ( 2021 ). Feasibility of a social media-
+based weight loss intervention designed for low-SES adults. Translational Behavioral Medicine ,
+11(4), 981 –992. doi: 10.1093/tbm/ibaa070
+Chapman, J., Armitage, C. J., & Norman, P. ( 2009 ). Comparing implementation intention inter-
+ventions in relation to young adults ’intake of fruit and vegetables. Psychology & Health ,24(3),
+317–332. doi: 10.1080/08870440701864538
+Conner, M., Rhodes, R. E., Morris, B., McEachan, R., & Lawton, R. ( 2011 ). Changing exercise
+through targeting a ﬀective or cognitive attitudes. Psychology & Health ,26(2), 133
+–149.
+doi:10.1080/08870446.2011.531570
+Craig, C. L., Marshall, A. L., Sjöström, M., Bauman, A. E., Booth, M. L., Ainsworth, B. E., …Oja, P.
+(2003 ). International physical activity questionnaire: 12-country reliability and validity.
+Medicine & Science in Sports & Exercise ,35(8), 1381 –1395. doi: 10.1249/01.MSS.0000078924.
+61453.FB
+Dahl, A. A., Hales, S. B., & Turner-McGrievy, G. M. ( 2016 ). Integrating social media into weight
+loss interventions. Current Opinion in Psychology ,9,1 1–15. doi: 10.1016/j.copsyc.2015.09.018
+Deci, E. L., & Ryan, R. M. ( 2000 ). The “what ”and“why”of goal pursuits: Human needs and the
+self-determination of behavior. Psychological Inquiry ,11(4), 227 –268. doi: 10.1207/
+S15327965PLI1104_01
+Edelmann, N. ( 2016 ). What is lurking? A literature review of research on lurking. In G. Riva, B. K.
+Wiederhold, & P. Cipresso (Eds.), The psychology of social networking: Personal experience in
+online communities (pp. 159 –174). Warsaw: De Gruyter Open.
+Eurostat. ( 2021 , February 16). International Standard Classi ﬁcation of Education (ISCED) .
+Retrieved from https://ec.europa.eu/eurostat/statistics-explained/index.php/International_
+Standard_Classi ﬁcation_of_Education_
+(ISCED )#Implementation_of_ISCED_2011_.28levels_of_education.29
+Eysenbach, G. ( 2005 ). The law of attrition. Journal of Medical Internet Research ,7(1), e11. doi: 10.
+2196/jmir.7.1.e11
+Fishbein, M., & Ajzen, I. ( 2011 ).Predicting and changing behavior: The reasoned action approach .
+New York, NY: Psychology Press, Taylor & Francis Group.
+Freelon, D. ( 2013 ). Recal OIR: Ordinal, interval, and ratio intercoder reliability as a web service.
+International Journal of Internet Science ,8(1), 10 –16.
+GBD 2017 Diet Collaborators. ( 2019 ). Health e ﬀects of dietary risks in 195 countries, 1990 –2017: A
+systematic analysis for the Global Burden of Disease Study 2017. The Lancet ,393(10184), 1958 –
+1972. doi: 10.1016/S0140-6736(19)30041-8
+GBD 2019 Risk Factors Collaborators. ( 2020 ). Global burden of 87 risk factors in 204 countries
+and territories, 1990 –2019: A systematic analysis for the Global Burden of Disease Study
+2019. The Lancet ,396(10258), 1223 –1249. doi: 10.1016/S0140-6736(20)30752-2HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 223
+Gelman, A., & Hill, J. ( 2006 ).Data analysis using regression and multilevel/hierarchical models .
+New York, NY: Cambridge University Press.
+German Federal Centre for Nutrition. ( 2020 , February 2). Ernährungspyramide: Wie groß ist eine
+Portion? Die Hand als Maß für die richtige Portionsgröße . Retrieved from https://www.bzfe.de/
+ernaehrung/die-ernaehrungspyramide/die-ernaehrungspyramide-eine-fuer-alle/ernaehrungspyramide-wie-gross-ist-eine-portion/
+Gillison, F. B., Rouse, P., Standage, M., Sebire, S. J., & Ryan, R. M. ( 2019 ). A meta-analysis of tech-
+niques to promote motivation for health behaviour change from a self-determination theoryperspective. Health Psychology Review ,13(1), 110 –130. doi: 10.1080/17437199.2018.1534071
+Godino, J. G., Merchant, G., Norman, G. J., Donohue, M. C., Marshall, S. J., Fowler, J. H., …
+Patrick, K. ( 2016 ). Using social and mobile tools for weight loss in overweight and obese
+young adults (Project SMART): A 2 year, parallel-group, randomised, controlled trial. The
+Lancet Diabetes & Endocrinology ,4(9), 747 –755. doi: 10.1016/S2213-8587(16)30105-X
+Hagger, M. S., & Chatzisarantis, N. L. D. ( 2009 ). Integrating the theory of planned behaviour and
+self-determination theory in health behaviour: A meta-analysis. British Journal of Health
+Psychology ,14(2), 275 –302. doi: 10.1348/135910708X373959
+Hampton, K. N., Goulet, L. S., Marlow, C., & Rainie, L. ( 2012 ).Why most Facebook users get more
+than they give . Pew Research Center. Retrieved from https://www.pewresearch.org/internet/
+2012/02/03/why-most-facebook-users-get-more-than-they-give/
+Helmerhorst, H. H. J., Brage, S., Warren, J., Besson, H., & Ekelund, U. ( 2012 ). A systematic review
+of reliability and objective criterion-related validity of physical activity questionnaires.International Journal of Behavioral Nutrition and Physical Activity ,9(1), 103. doi: 10.1186/
+1479-5868-9-103
+Hou, S. I., Charlery, S. A. R., & Roberson, K. ( 2014 ). Systematic literature review of Internet inter-
+ventions across health behaviors. Health Psychology and Behavioral Medicine ,2(1), 455 –481.
+doi:10.1080/21642850.2014.895368
+Inauen, J., Bolger, N., Shrout, P. E., Stadler, G., Amrein, M., Rackow, P., & Scholz, U. ( 2017 ). Using
+smartphone-based support groups to promote healthy eating in daily life: A randomised trial.Applied Psychology: Health and Well-Being ,9(3), 303 –323. doi: 10.1111/aphw.12093
+International Labour O ﬃce. (2012 ). International Standard Classi ﬁcation of Occupations. ISCO-
+08. Structure, group de ﬁnitions and correspondence tables. Retrieved from https://www.ilo.org/
+public/english/bureau/stat/isco/docs/publication08.pdf
+International Telecommunication Union. ( 2020 ).Key ICT indicators for developed and developing
+countries, the world and special regions (totals and penetration rates) . Retrieved from https://
+www.itu.int/en/ITU-D/Statistics/Documents/facts/ITU_regional_global_Key_ICT_indicator_aggregates_Nov_2020.xlsx
+Joglekar, S., Sastry, N., Coulson, N. S., Taylor, S. J., Patel, A., Duschinsky, R., …Simoni, A. D.
+(2018 ). How online communities of people with long-term conditions function and evolve:
+Network analysis of the structure and dynamics of the Asthma UK and British LungFoundation online communities. Journal of Medical Internet Research ,20(7), e238. doi: 10.
+2196/jmir.9952
+Kelders, S. M., Kok, R. N., Ossebaard, H. C., & Gemert-Pijnen, J. E. V. ( 2012 ). Persuasive system
+design does matter: A systematic review of adherence to web-based interventions. Journal of
+Medical Internet Research ,14(6), e152. doi: 10.2196/jmir.2104
+Kim, Y., Park, I., & Kang, M. ( 2013 ). Convergent validity of the International Physical Activity
+Questionnaire (IPAQ): Meta-analysis. Public Health Nutrition ,16(3), 440 –452. doi: 10.1017/
+S1368980012002996
+Klassen, K. M., Douglass, C. H., Brennan, L., Truby, H., & Lim, M. S. C. ( 2018 ). Social media use
+for nutrition outcomes in young adults: A mixed-methods systematic review. International
+Journal of Behavioral Nutrition and Physical Activity ,15(1), 70. doi: 10.1186/s12966-018-
+0696-y
+König, L. M., Van Emmenis, M., Nurmi, J., Kassavou, A., & Sutton, S. ( 2021 ). Characteristics of
+smartphone-based dietary assessment tools: A systematic review. Health Psychology Review .
+doi:10.1080/17437199.2021.2016066224 M. KILB ET AL.
+Kwasnicka, D., Dombrowski, S. U., White, M., & Sniehotta, F. ( 2016 ). Theoretical explanations for
+maintenance of behaviour change: A systematic review of behaviour theories. Health Psychology
+Review ,10(3), 277 –296. doi: 10.1080/17437199.2016.1151372
+Kwasnicka, D., Ntoumanis, N., & Sniehotta, F. F. ( 2021 ). Setting performance and learning goals is
+useful for active and inactive individuals, if goals are personalized and ﬂexible: Commentary on
+Swann et al. (2020). Health Psychology Review ,15(1), 51 –55. doi: 10.1080/17437199.2020.
+1762107
+Laranjo, L., Arguel, A., Neves, A. L., Gallagher, A. M., Kaplan, R., Mortimer, N., …Lau, A. Y. S.
+(2015 ). The in ﬂuence of social networking sites on health behavior change: A systematic review
+and meta-analysis. Journal of the American Medical Informatics Association ,22(1), 243 –256.
+doi:10.1136/amiajnl-2014-002841
+Lawton, R., Conner, M., & McEachan, R. ( 2009 ). Desire or reason: Predicting health behaviors
+from a ﬀective and cognitive attitudes. Health Psychology ,28(1), 56 –65. doi: 10.1037/a0013424
+Lee, I.-M., & Shiroma, E. J. ( 2014 ). Using accelerometers to measure physical activity in large-scale
+epidemiological studies: Issues and challenges. British Journal of Sports Medicine ,48(3), 197 –
+201. doi: 10.1136/bjsports-2013-093154
+Lee, I.-M., Shiroma, E. J., Lobelo, F., Puska, P., Blair, S. N., & Katzmarzyk, P. T. ( 2012). Eﬀect of phys-
+ical inactivity on major non-communicable diseases worldwide: An analysis of burden of diseaseand life expectancy. The Lancet ,380(9838), 219 –229. doi: 10.1016/S0140-6736(12)61031-9
+Leys, C., Delacre, M., Mora, Y. L., Lakens, D., & Ley, C. ( 2019 ). How to classify, detect, and manage
+univariate and multivariate outliers, with emphasis on pre-registration. International Review of
+Social Psychology ,32(1), 1 –10. doi: 10.5334/irsp.289
+Leys, C., Ley, C., Klein, O., Bernard, P., & Licata, L. ( 2013 ). Detecting outliers: Do not use standard
+deviation around the mean, use absolute deviation around the median. Journal of Experimental
+Social Psychology ,49
+(4), 764 –766. doi: 10.1016/j.jesp.2013.03.013
+Lonsdale, C., Hodge, K., & Rose, E. A. ( 2008 ). The Behavioral Regulation in Sport Questionnaire
+(BRSQ): Instrument development and initial validity evidence. Journal of Sport and Exercise
+Psychology ,30(3), 323 –355. doi: 10.1123/jsep.30.3.323
+Maher, C., Ryan, J., Kernot, J., Podsiadly, J., & Keenihan, S. ( 2016 ). Social media and applications
+to health behavior. Current Opinion in Psychology ,9,5 0–55. doi: 10.1016/j.copsyc.2015.10.021
+Mata, J., & Baumann, E. ( 2017 ). The dose makes the poison: Theoretical considerations and chal-
+lenges of health-related POPC. In P. Vorderer, D. Hefner, L. Reinecke, & C. Klimmt (Eds.),Permanently online, permanently connected —Living and communicating in a POPC world
+(pp. 254 –263). New York, NY: Routledge.
+Mata, J., Silva, M. N., Vieira, P. N., Carraça, E. V., Andrade, A. M., Coutinho, S. R., …Teixeira, P. J.
+(2009 ). Motivational “spill-over ”during weight control: Increased self-determination and exer-
+cise intrinsic motivation predict eating self-regulation. Health Psychology ,28(6), 709 –716.
+doi:10.1037/a0016764
+McEachan, R. R. C., Conner, M., Taylor, N. J., & Lawton, R. J. ( 2011 ). Prospective prediction of
+health-related behaviours with the theory of planned behaviour: A meta-analysis. Health
+Psychology Review ,5(2), 97 –144. doi: 10.1080/17437199.2010.521684
+McEachan, R. R. C., Taylor, N., Harrison, R., Lawton, R., Gardner, P., & Conner, M. ( 2016 ). Meta-
+analysis of the reasoned action approach (RAA) to understanding health behaviors. Annals of
+Behavioral Medicine ,50(4), 592 –612. doi: 10.1007/s12160-016-9798-4
+Menon, V., & Demaray, M. K. ( 2013). Child and Adolescent Social Support Scale for Healthy beha-
+viors: Scale development and assessment of the relation between targeted social support and bodysize dissatisfaction. Children ’s Health Care ,42(1), 45 –66. doi: 10.1080/02739615.2013.753800
+Michie, S., Abraham, C., Whittington, C., McAteer, J., & Gupta, S. ( 2009 ). Eﬀective techniques in
+healthy eating and physical activity interventions: A meta-regression. Health Psychology ,28
+(6),
+690–701. doi: 10.1037/a0016136
+Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Hardeman, W., …Wood, C. E.
+(2013 ). The behavior change technique taxonomy (v1) of 93 hierarchically clustered techniques:
+Building an international consensus for the reporting of behavior change interventions. Annals
+of Behavioral Medicine ,46(1), 81 –95. doi: 10.1007/s12160-013-9486-6HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 225
+Miller, S., Ainsworth, B., Yardley, L., Milton, A., Weal, M., Smith, P., & Morrison, L. ( 2019 ). A
+framework for analyzing and measuring usage and engagement data (AMUsED) in digital inter-ventions: Viewpoint. Journal of Medical Internet Research ,21(2), e10966. doi: 10.2196/10966
+Musca, S., Kamiejski, R., Nugier, A., Méot, A., Er-ra ﬁy, A., & Brauer, M. ( 2011 ). Data with hier-
+archical structure: Impact of intraclass correlation and sample size on type-I error. Frontiers in
+Psychology ,2, 74. doi: 10.3389/fpsyg.2011.00074
+Napolitano, M. A., Hayes, S., Bennett, G. G., Ives, A. K., & Foster, G. D. ( 2013 ). Using Facebook
+and text messaging to deliver a weight loss program to college students. Obesity ,21(1), 25 –31.
+doi:10.1002/oby.20232
+Naska, A., Lagiou, A., & Lagiou, P. ( 2017 ). Dietary assessment methods in epidemiological
+research: Current state of the art and future prospects. F1000Research ,6, 926. doi: 10.12688/
+f1000research.10703.1
+Ng, J. Y. Y., Ntoumanis, N., Thøgersen-Ntoumani, C., Deci, E. L., Ryan, R. M., Duda, J. L., &
+Williams, G. C. ( 2012 ). Self-determination theory applied to health contexts: A meta-analysis.
+Perspectives on Psychological Science ,7(4), 325 –340. doi: 10.1177/1745691612447309
+Ntoumanis, N., Ng, J. Y. Y., Prestwich, A., Quested, E., Hancox, J. E., Thøgersen-Ntoumani, C., …
+Williams, G. C. ( 2021 ). A meta-analysis of self-determination theory-informed intervention
+studies in the health domain: E ﬀects on motivation, health behavior, physical, and psychological
+health. Health Psychology Review ,15(2), 214 –244. doi: 10.1080/17437199.2020.1718529
+Ntoumanis, N., Quested, E., Reeve, J., & Cheon, S. H. ( 2017 ). Need-supportive communication:
+Implications for motivation in sport, exercise, and physical activity. In B. Jackson, J. A.Dimmock, & J. Compton (Eds.), Persuasion and communication in sport, exercise, and physical
+activity (pp. 155 –169). Abingdon: Routledge.
+Pagoto, S., & Nebeker, C. ( 2019 ). How scientists can take the lead in establishing ethical practices
+for social media research. Journal of the American Medical Informatics Association ,26(4), 311 –
+313. doi: 10.1093/jamia/ocy174
+Pagoto, S., Waring, M., Olendzki, E., Oleski, J., May, C., & Evans, M. ( 2017 , January 4). The feasi-
+bility of incentivizing participation in an online social network weight loss program . Proceedings
+of the 50th Hawaii International Conference on System Sciences. doi: 10.24251/HICSS.2017.457
+Pagoto, S., Waring, M. E., May, C. N., Ding, E. Y., Kunz, W. H., Hayes, R., & Oleski, J. L. ( 2016 ).
+Adapting behavioral interventions for social media delivery. Journal of Medical Internet
+Research ,18(1), e24. doi: 10.2196/jmir.5086
+Perski, O., Blandford, A., West, R., & Michie, S. ( 2017 ). Conceptualising engagement with digital
+behaviour change interventions: A systematic review using principles from critical interpretivesynthesis. Translational Behavioral Medicine ,7(2), 254 –267. doi: 10.1007/s13142-016-0453-1
+Petkovic, J., Duench, S., Trawin, J., Dewidar, O., Pardo, J. P., Simeon, R., …Welch, V. ( 2021 ).
+Behavioural interventions delivered through interactive social media for health behaviour
+change, health outcomes, and health equity in the adult population. Cochrane Database of
+Systematic Reviews ,5,1–316.
+Pew Research Center. ( 2021).Social media use in 2021 . Retrieved from https://www.pewresearch.
+org/internet/wp-content/uploads/sites/9/2021/04/PI_2021.04.07_Social-Media-Use_FINAL.pdf
+Prince, S. A., Adamo, K. B., Hamel, M. E., Hardt, J., Gorber, S. C., & Tremblay, M. ( 2008 ). A com-
+parison of direct versus self-report measures for assessing physical activity in adults: A systema-tic review. International Journal of Behavioral Nutrition and Physical Activity ,5(1), 56. doi: 10.
+1186/1479-5868-5-56
+Roser, M., Ritchie, H., & Ortiz-Ospina, E. ( 2015 , July 14). Internet . Our World in Data. Retrieved
+from https://ourworldindata.org/internet
+Ryan, R. M., & Deci, E. L. ( 2017 ).Self-determination theory: Basic psychological needs in motiv-
+ation, development, and wellness . New York, NY: The Guilford Press.
+Ryan, R. M., Patrick, H., Deci, E. L., & Williams, G. C. ( 2008 ). Facilitating health behaviour change
+and its maintenance: Interventions based on self-determination theory. European Health
+Psychologist ,10(1), 2 –5. Retrieved from https://www.ehps.net/ehp/index.php/contents/article/
+view/ehp.v10.i1.p2226 M. KILB ET AL.
+Schwarzer, R. ( 2007 ).Health action process approach (HAPA) assessment tools . Retrieved from
+http://userpage.fu-berlin.de/~health/hapa_assessment.pdf
+Sheeran, P. ( 2002 ). Intention —behavior relations: A conceptual and empirical review. European
+Review of Social Psychology ,12(1), 1 –36. doi: 10.1080/14792772143000003
+Sheeran, P., Maki, A., Montanaro, E., Avishai-Yitshak, A., Bryan, A., Klein, W. M. P., …Rothman,
+A. J. ( 2016 ). The impact of changing attitudes, norms, and self-e ﬃcacy on health-related inten-
+tions and behavior: A meta-analysis. Health Psychology ,35(11), 1178 –1188. doi: 10.1037/
+hea0000387
+Sheeran, P., & Webb, T. L. ( 2016 ). The intention –behavior gap. Social and Personality Psychology
+Compass ,10(9), 503 –518. doi: 10.1111/spc3.12265
+Short, C. E., DeSmet, A., Woods, C., Williams, S. L., Maher, C., Middelweerd, A., …Crutzen, R.
+(2018 ). Measuring engagement in eHealth and mHealth behavior change interventions:
+Viewpoint of methodologies. Journal of Medical Internet Research ,20(11), e292. doi: 10.2196/
+jmir.9397
+Silva, M. N., Markland, D., Carraça, E. V., Vieira, P. N., Coutinho, S. R., Minderico, C. S., …
+Teixeira, P. J. ( 2011 ). Exercise autonomous motivation predicts 3-yr weight loss in women.
+Medicine & Science in Sports & Exercise ,43(4), 728 –737. doi: 10.1249/MSS.0b013e3181f3818f
+Silva, M. N., Markland, D., Minderico, C. S., Vieira, P. N., Castro, M. M., Coutinho, S. R., …
+Teixeira, P. J. ( 2008 ). A randomized controlled trial to evaluate self-determination theory for
+exercise adherence and weight control: Rationale and intervention description. BMC Public
+Health ,8(1), 234. doi: 10.1186/1471-2458-8-234
+Silva, M. N., Marques, M. M., & Teixeira, P. J. ( 2014 ). Testing theory in practice: The example of
+self-determination theory-based interventions. European Health Psychologist ,16(5), 171 –180.
+Retrieved from https://ehps.net/ehp/index.php/contents/article/view/ehp.v16.i5.p171
+Silva, M. N., Vieira, P. N., Coutinho, S. R., Minderico, C. S., Matos, M. G., Sardinha, L. B., &
+Teixeira, P. J. ( 2010 ). Using self-determination theory to promote physical activity and
+weight control: A randomized controlled trial in women. Journal of Behavioral Medicine ,33
+(2), 110 –122. doi: 10.1007/s10865-009-9239-y
+Smit, E. S., Dima, A. L., Immerzeel, S. A. M., Putte, B. v. d., & Williams, G. C. ( 2017 ). The Virtual
+Care Climate Questionnaire: Development and validation of a questionnaire measuring per-ceived support for autonomy in a virtual care setting. Journal of Medical Internet Research ,
+19(5), e155. doi: 10.2196/jmir.6714
+Sniehotta, F. F., Scholz, U., & Schwarzer, R. ( 2005 ). Bridging the intention –behaviour gap:
+Planning, self-e ﬃcacy, and action control in the adoption and maintenance of physical exercise.
+Psychology & Health ,20(2), 143 –160. doi: 10.1080/08870440512331317670
+Su, Y.-L., & Reeve, J. ( 2011 ). A meta-analysis of the e ﬀectiveness of intervention programs
+designed to support autonomy. Educational Psychology Review ,23(1), 159 –188. doi: 10.1007/
+s10648-010-9142-7
+Teixeira, P. J., Marques, M. M., Silva, M. N., Brunet, J., Duda, J. L., Haerens, L., …Hagger, M. S.
+(2020 ). A classi ﬁcation of motivation and behavior change techniques used in self-determi-
+nation theory-based interventions in health contexts. Motivation Science ,6(4), 438 –455.
+doi:10.1037/mot0000172
+Teixeira, P. J., Patrick, H., & Mata, J. ( 2011 ). Why we eat what we eat: The role of autonomous
+motivation in eating behaviour regulation. Nutrition Bulletin ,36(1), 102 –107. doi: 10.1111/j.
+1467-3010.2010.01876.x
+UNESCO Institute for Statistics. ( 2012 ).International standard classi ﬁcation of education: ISCED
+2011. UNESCO Institute for Statistics. Retrieved from http://www.uis.unesco.org/Education/
+Documents/isced-2011-en.pdf
+Waring, M. E., Jake-Scho ﬀman, D. E., Holovatska, M. M., Mejia, C., Williams, J. C., & Pagoto, S. L.
+(2018 ). Social media and obesity in adults: A review of recent research and future directions.
+Current Diabetes Reports ,18(6), 34. doi: 10.1007/s11892-018-1001-9
+Williams, G., Hamm, M. P., Shulhan, J., Vandermeer, B., & Hartling, L. ( 2014 ). Social media inter-
+ventions for diet and exercise behaviours: A systematic review and meta-analysis of randomisedcontrolled trials. BMJ Open
+,4(2), e003926. doi: 10.1136/bmjopen-2013-003926HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 227
+Xu, R., & Cavallo, D. ( 2021 ). Social network analysis of the e ﬀects of a social media –based weight
+loss intervention targeting adults of low socioeconomic status: Single-arm intervention trial.Journal of Medical Internet Research ,23(4), e24690. doi: 10.2196/24690
+Yang, Q. ( 2017 ). Are social networking sites making health behavior change interventions more
+eﬀective? A meta-analytic review. Journal of Health Communication ,22(3), 223 –233. doi: 10.
+1080/10810730.2016.1271065
+Zhang, J., Brackbill, D., Yang, S., Becker, J., Herbert, N., & Centola, D. ( 2016 ). Support or compe-
+tition? How online social networks increase physical activity: A randomized controlled trial.Preventive Medicine Reports ,4, 453 –458. doi: 10.1016/j.pmedr.2016.08.008
+Zhou, G., Gan, Y., Hamilton, K., & Schwarzer, R. ( 2017 ). The role of social support and self-
+eﬃcacy for planning fruit and vegetable intake. Journal of Nutrition Education and Behavior ,
+49(2), 100 –106.e1. doi: 10.1016/j.jneb.2016.09.005228 M. KILB ET AL.

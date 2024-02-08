@@ -1,0 +1,951 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rhpb20
+Health Psychology and Behavioral Medicine
+An Open Access Journal
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rhpb20
+A scoping review to ascertain the parameters
+for an evidence synthesis of psychological
+interventions to improve work and wellbeing
+outcomes among employees with chronic pain
+Joanna L. McParland, Pamela Andrews, Lisa Kidd, Lynn Williams & Paul
+Flowers
+To cite this article:  Joanna L. McParland, Pamela Andrews, Lisa Kidd, Lynn Williams
+& Paul Flowers (2021) A scoping review to ascertain the parameters for an evidence
+synthesis of psychological interventions to improve work and wellbeing outcomes among
+employees with chronic pain, Health Psychology and Behavioral Medicine, 9:1, 25-47, DOI:
+10.1080/21642850.2020.1863809
+To link to this article:  https://doi.org/10.1080/21642850.2020.1863809
+© 2021 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+View supplementary material 
+Published online: 28 Jan 2021.
+ Submit your article to this journal 
+Article views: 2636
+ View related articles 
+View Crossmark data
+ Citing articles: 2 View citing articles 
+
+REVIEW
+A scoping review to ascertain the parameters for an evidence
+synthesis of psychological interventions to improve work and
+wellbeing outcomes among employees with chronic pain
+Joanna L. McParlanda, Pamela Andrewsa, Lisa Kiddb, Lynn Williamscand
+Paul Flowersd
+aDepartment of Psychology, School of Health and Life Sciences, Glasgow Caledonian University, Glasgow,
+Scotland, UK;bSchool of Medicine, Dentistry and Nursing, University of Glasgow, Glasgow, Scotland, UK;
+cDepartment of Psychological Sciences and Health, Faculty of Humanities and Social Sciences, University of
+Strathclyde, Glasgow, Scotland, UK;dInstitute of Health and Wellbeing, University of Glasgow, Glasgow,
+Scotland, UK
+ABSTRACT
+Background: Psychological interventions have mixed e ﬀects on
+improving employee outcomes, partly due to signi ﬁcant variability
+across studies and a lack of focus on mechanisms of action. This
+scoping review reports on the parameters of these interventions
+and examines intervention content to bring clarity to this
+heterogeneous topic area and direct future systematic review work.
+Method: Six databases were searched (Cinahl, Cochrane, Embase,
+Medline, PsychINFO and Web of Science) from April 2010 to August
+2020, and a grey literature search was undertaken. Screening was
+undertaken independently by two authors. The results summarised
+country, participant and employment characteristics, psychological
+interventions and work, health and wellbeing outcomes. 10% of
+the papers were analysed to determine the feasibility of coding
+intervention descriptions for theory and behaviour change
+technique (BCT) components.
+Results: Database searches yielded 9341 titles, of which 91 studies
+were included. Most studies were conducted in Europe (78%) and
+included males and females (95%) ranging in age from 31-56.6
+years although other demographic, and employment information
+was lacking. Musculoskeletal pain was common (87%).
+Psychological interventions commonly included cognitive
+behavioural therapy (30%) and education (28%). Most studies
+employed a randomised control trial design (64%). Over half
+contained a control group (54%). Interventions were delivered in
+mostly healthcare settings (72%) by health professionals. Multiple
+outcomes were often reported, many of which involved measuring
+sickness absence and return-to-work (62%) and pain and general
+health (53%). Within the feasibility analysis, most papers met theARTICLE HISTORY
+Received 1 October 2020
+Accepted 9 December 2020
+KEYWORDS
+Scoping review; chronic pain;
+psychological interventions;
+employees
+© 2021 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/
+licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited.CONTACT Joanna L. McParland j.mcparland@gcu.ac.uk Department of Psychology, School of Health and Life
+Sciences, Glasgow Caledonian University, Glasgow, Scotland, UK
+Supplemental data for this article can be accessed https://doi.org/10.1080/21642850.2020.1863809
+This article has been corrected with minor changes. These changes do not impact the academic content of the article.HEALTH PSYCHOLOGY AND BEHAVIORAL MEDICINE
+2021, VOL. 9, NO. 1, 25 –47
+https://doi.org/10.1080/21642850.2020.1863809
+minimum criteria of containing one paragraph of intervention
+description, but none explicitly mentioned theory or BCTs.
+Conclusion: Psychological interventions for employees with
+chronic pain vary in their nature and implementation. We haveshown scoping reviews can be used to assess the feasibility of
+applying tools from health psychology to identify the content of
+these interventions in future systematic review work to improve
+intervention development.
+Introduction
+Pain is a major public health issue that is a burden on health and social care systems across the
+world. Chronic primary pain, de ﬁned as pain in one or more anatomical regions that persists
+or recurs for longer than three months (Nicholas et al., 2019)aﬀects up to half of the UK popu-
+lation at any one time (Fayaz et al., 2016). Evidence suggests that moderate or severe chronic
+pain can have a signi ﬁcant adverse impact on an individual ’s daily activities, including their
+working lives (Breivik, Eisenberg, & O ’Brien, 2013). Musculoskeletal pain, a common type
+of chronic pain, is among the leading causes of sickness absence in the UK and Europeand, along with presenteeism and changes in employment status bears a high economic
+cost associated with reduced productivity in the workplace (Patel et al., 2012;P h i l i p s ,
+2009). This burden is only set to increase with the ageing population and the removal of
+the retirement age in established economies (Holland & Clayton, 2019). From the employee
+perspective, not working is problematic because evidence suggests that healthy and safe work
+confers bene ﬁts for physical and mental health, and these bene ﬁts outweigh the risks associ-
+ated with long-term worklessness or prolonged sickness absence (Black, 2008).
+To address the burden of chronic pain among employees, there is a clear need for
+eﬀective interventions to be developed, implemented and scaled-up. Systematic reviews
+have reported on interventions involving workplace accommodations, service coordi-nation and health service provision including psychological support to reduce sickness
+absence and increase return-to-work among employees with pain and musculoskeletal
+disorders, but there is mixed evidence on the e ﬀectiveness of these interventions
+(Finnes et al., 2019; Pike, Hearns, & Williams, 2016; Wainwright, Wainwright, Coghill,
+Walsh, & Perry, 2019). Some evidence suggests that psychological interventions work
+best as part of multimodal interventions including e.g. workplace accommodations, and
+broader psychosocial factors (Cullen et al., 2018; Kamper et al., 2015), however there is
+little sense of how psychological interventions work or which particular intervention com-
+ponents are associated with e ﬀectiveness. One of the key problems with getting useful
+information out of the published literature is the signi ﬁcant heterogeneity in populations,
+occupation, content, delivery and setting of interventions (Main & Shaw, 2016).
+In the present study, we conducted a scoping review, the ﬁrst of its kind, to bring
+clarity to this ﬁeld through reporting on various parameters within the published litera-
+ture regarding psychological interventions among employees with chronic pain. The
+purpose of our scoping review was to shape the direction of future research in the
+ﬁeld through identifying gaps in knowledge and de ﬁning the parameters for future sys-
+tematic review work seeking to improve intervention design. The following questionsdirected the review: (1) What is the volume, geographical scope, population and26 J. L. MCPARLAND ET AL.
+employment characteristics of psychological interventions for employees with chronic
+pain?, (2) What are the characteristics of psychological interventions for employees
+with chronic pain?, (3) What are the primary and secondary outcomes of psychologicalinterventions for employees with chronic pain?
+The second aim of our research was to determine the viability of analysing the content
+of intervention descriptions in this body of literature for theory and behaviour change
+techniques. We do this by assessing the viability of using tools from health psychologyto help resolve problems of heterogeneous intervention descriptions. Within health psy-
+chology and behavioural science, a series of tools have recently been developed that
+provide a common language of intervention components. These are invaluable for resol-ving problems of varied and inconsistent descriptions of intervention content. From the
+behaviour change wheel approach (Michie, Strelan, & West, 2011) the common language
+of intervention content can be thought of on several related levels, including (i) ‘interven-
+tion functions ’that consider the type of intervention, (ii) the ‘theoretical domains ’, or the
+causal mechanisms that key intervention components moderate and (iii) the ‘behaviour
+change techniques ’(BCTs) that are often central to intervention content. Previous work
+by Palmer et al. ( 2012) examined BCTs present in interventions for employees with mus-
+culoskeletal disorders using an early behaviour change taxonomy but did not examine
+underlying causal mechanisms and their theoretical relevance. Critically, to be able to
+use these tools e ﬀectively, it must ﬁrst be established that there are adequate intervention
+descriptions or manuals available within the published literature. We examined the
+quality of intervention descriptions within a random sample of papers from the
+scoping review to determine whether they could usefully be subjected to this type ofanalysis, allowing us to de-risk this type of analysis in future systematic review work
+where the analysis of all intervention descriptions would be required.
+Materials and methods
+Approach to the scoping review
+Aﬁve-stage methodology for scoping reviews was adopted (Arksey & O ’Malley, 2005).
+This involved specifying the research question for the review (stage 1), developing the
+search strategy for study identi ﬁcation (stage 2), screening and selecting relevant
+studies (stage 3), developing a data extraction form (stage 4) and collating and summar-
+ising the review ﬁndings (Stage 5). Details of the stages are provided below. An a priori
+study protocol guided the conduct of the review. The protocol is unpublished but is avail-able from the ﬁrst author on request.
+Identi ﬁcation of relevant studies
+A comprehensive search strategy was developed in consultation with a specialist subject
+librarian and experts in the ﬁeld, including an employer and an employee with pain. Six
+databases were searched (Cinahl, Cochrane, Embase, Medline, PsychINFO and Web of
+Science) from 1st April 2010 until 1st April 2019, following the conduct of the last sig-niﬁcant review related to this work (Palmer et al., 2012). An updated search was con-
+ducted in August 2020. Search terms were searched as keywords and MeSH terms andHEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 27
+combined as appropriate. The search strategy was developed and piloted in one database
+(PsychINFO) before being applied to the remaining databases. The PsychINFO search
+strategy can be found in supplementary ﬁle 1.
+Peer-reviewed studies published in English that included adults (>16) with any type of
+chronic pain, de ﬁned as pain for at least three months duration, in paid full or part-time
+employment, who were either at work or on sick leave were included. Studies examining
+acute or subacute pain; interventions for employers alone or for those who were unem-ployed or in voluntary occupations were excluded. Studies involving psychological
+(including cognitive, behavioural, psychosocial) interventions seeking to improve work
+and health and wellbeing outcomes among employees with chronic pain were included,while interventions that did not include at least one psychological intervention com-
+ponent and at least one work outcome, or involved the prevention of pain were excluded.
+Studies could include any design with an intervention component, although editorials,commentaries and case studies were excluded. Any type of control condition could be
+included and could contain a psychological component if not included in the main inter-
+vention. The reference sections of included papers were searched for additional papers, aswere the reference sections of relevant book chapters and systematic reviews that wereexcluded from the scoping review. A limited grey literature search of pain-related and
+clinical websites and conference abstracts was also undertaken.
+Study selection
+Search results were exported into Zotero version 5.0.67.3, where duplicates were
+removed. Titles and abstracts were initially screened by one author (PA) and following
+this initial screening process the remaining titles were exported into Covidence. The
+study inclusion and exclusion criteria were applied to the titles and abstracts whichwere independently screened by two authors (PA and JM). Independent full-text screen-
+ing was also undertaken by these authors. Any disagreements between authors were dis-
+cussed and where consensus could not be reached a third author (LK) was consulted. Theupdate to the review was undertaken by JM and LK. Additionally, screening of reference
+lists of identi ﬁed book chapters, included studies and systematic reviews was conducted
+to identify any potential titles. Finally, conference abstracts and protocols were screenedfor publication status and possible inclusion.
+Charting, summarising and reporting data
+A data extraction tool was developed by the review team and piloted by two authors (PA
+and LK). One author (PA) independently extracted data from all studies. A second author(JM) independently extracted data from 10% of the studies and checked the extraction
+undertaken from a further 10% of the studies. Inconsistencies in extraction were resolved
+through discussion. Information was extracted on the year of study, country of study,number of participants and participate age, gender, ethnicity, education, marital status
+and pain condition; employment status, occupation and type of organisation (review ques-
+tion 1 (RQ 1)); type of intervention, study design, control condition, participant recruit-ment, intervention setting and who delivered the intervention (review question 2 (RQ2)), and primary and secondary outcomes (review question 3 (RQ 3)).28 J. L. MCPARLAND ET AL.
+The studies were grouped and categorised by country of origin (Word Health Organ-
+isation regions); participant and employment characteristics (age, sex, marital status,
+pain condition, ethnicity, education, pain condition, employment status, type of occu-pation and employer); characteristics of the psychological interventions (type of inter-vention, control condition, study design, recruitment, intervention setting and
+delivery), and work and health and wellbeing outcomes. The results are presented in
+the form of a numerical summary of frequencies within the data with an accompanyingnarrative descriptive summary of the results. We also reported gaps in knowledge that
+emerged from the narrative synthesis. Data categorisation was undertaken by two
+authors (PA and PF) and checked by a further two authors (JM and LK).
+Viability of intervention coding
+A random sample of n = 9 (10%) of the papers identi ﬁed within the scoping review were
+subjected to an analysis of the feasibility of coding intervention descriptions for detailed
+theoretical content and intervention components to de-risk future work. Two team
+members (LW and PF) independently examined the presence, length and quality of inter-vention descriptions, including the presence of explicitly mentioned BCTs using the
+Behaviour Change Technique Taxonomy v1 (BCTTv1) (Michie et al., 2013), theory of
+change, and Theoretical Domains Framework (TDF) domains (Cane, O ’Connor, &
+Michie, 2012). We selected these criteria as they provide us with a basis for determining
+the viability of coding theoretical content and intervention components. We chose to
+focus on explicitly mentioned BCTs as opposed to those that we could infer to determine
+the viability of coding these intervention descriptions. If the intervention descriptorsrequire inferred coding this has implications for the time that would be required to under-
+take this type of analysis in a future systematic review. Studies were examined on whether
+they (i) provided no intervention description; (ii) provided only a couple of sentences ofintervention description; (iii) provided an intervention description that was at least a para-
+graph (iv) provided an intervention description that was at least and paragraph and con-
+tained links to an intervention manual and further resources; (v) provided an interventiondescription that was at least a paragraph and contained a logic model or theory of change;
+(vi) provided a description of at least a paragraph and included a logic model, theory of
+change and made explicit mention of theory/TDF and BCTT plus links to manual/resources. The decision to choose this level of intervention description as a criterion wasbased on our previous work in this area and re ﬂects that intervention descriptions are typi-
+cally brief and comprise little detail (De Barra et al., 2018;H oﬀman et al., 2014). Accord-
+ingly, we determined that having the criterion of a paragraph of intervention descriptionwould enable us to determine if there was su ﬃcient information available for theory and
+BCT coding. We agreed prior to this analysis that at least 50% of the intervention descrip-
+tions sampled needed to contain at least one paragraph of intervention description todemonstrate the viability of conducting behavioural analyses in a future systematic review.
+Results
+The search of six databases yielded 9341 titles. Following the removal of 3274 duplicatesand 2524 papers that failed to meet the a priori inclusion criteria at initial screening, 3543HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 29
+papers underwent title/abstract screening, with 341 papers undergoing full-text screen-
+ing. Following this process, 91 papers were included in the ﬁnal review. A summary of
+the key features of the included papers is in supplementary ﬁle 2. Figure 1 summarises
+the selection process for the scoping review.
+Country, participant and employment characteristics (RQ 1)
+There were 36,108 participants across studies, with sample sizes ranging from 10 to
+6709 (mean = 397). With one exception, all studies reported the age characteristics
+of their sample, with age ranges from 31-56.6 years reported for the whole sample,
+with the majority of studies reporting a mean age below 50 years (not tabulated). Asindicated in Table 1 , most studies were conducted in European Countries (78% of
+studies), particularly Nordic countries. Few studies were conducted in the UK. Most
+studies included both males and females within the intervention and/or control
+Figure 1. PRISMA ﬂow diagram.30 J. L. MCPARLAND ET AL.
+groups. Over half reported education level, ﬁnding participants largely received com-
+pulsory education (up to 12 years in primary and secondary education). Fewer
+studies provided information on marital status or ethnicity. Those that did reportedparticipants to be mostly married and Caucasian. Musculoskeletal pain was reportedin most studies, most commonly back/spinal pain and general chronic pain/musculos-
+keletal pain ( Table 1 ).
+Few studies provided information on type of employer or employment characteristics.
+Just over a quarter of studies reported the type of job occupied by employees. Among
+these studies were self-reported ‘blue collar ’occupations (manual labour, cleaning, low
+skilled) healthcare professions (e.g. nurses, eldercare workers) and ‘white collar ’
+Table 1. Country, participant and employment characteristics.
+Characteristic Description Number of studies (% total)
+Country
+European country 71 (78)
+Norway 17
+Demark 12
+Sweden 11France 6Germany 8
+Finland 4
+Switzerland 4United Kingdom 3Amsterdam 2
+Netherlands 3
+Spain 1
+The Americans 15 (17)
+America 10
+Canada 5
+West Paci ﬁc 4 (4)
+Hong Kong 2Australia 1
+Singapore 1
+Unclear 1 (1)
+Sex Both males/females included 86 (95)
+One sex reported 4 (4)
+Sex not reported 1 (1)
+Pain condition Back/spinal pain 48 (53)
+Chronic/musculoskeletal 23 (25)Neck pain 8 (9)
+Other (e.g. endometriosis) 5 (6)
+Multiple (e.g. mental illness) 4 (4)Arthritis 3 (3)
+Ethnicity Not reported 81 (89)
+Reported 10 (11)
+Education level Reported 54 (59)
+Not reported 37 (41)
+Marital status Not reported 65 (71)
+Reported 26 (29)
+Type of employer Not reported 88 (97)
+Reported 3 (3)
+Employment status Not reported 78 (86)
+Reported 13 (14)
+Occupation type Not reported 65 (71)
+Reported 26 (29)
+Blue collar professions 10 (38.5)
+Healthcare/education 10 (38.5)
+White collar professions 5 (19)Military 1 (4)HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 31
+workers (e.g. management, ﬁnance) ( Table 1 ). These ﬁndings suggest there are clear gaps
+in relation to the relatively limited geographical location of the research and in the under-
+reporting of demographic and employment characteristics.
+Characteristics of the interventions (RQ 2)
+The interventions tended to be complex, in cluding multimodal elements for example
+physiological rehabilitation, exercise or medication management, in addition to
+psychological components. The psychological components of interventions often con-tained multiple components that drew explicitly upon approaches such as cognitive
+behavioural therapy (CBT) (30% of studies) (Angst et al., 2014 ; Asih, Neblett,
+Mayer, & Gatchel, 2018 ; Bergström, Jensen, Hagberg, Busch, & Bergstrom, 2012 ;
+Busch, Bodin, Bergstrom, & Jensen, 2011 ; Campello et al., 2012 ; Coole, Drummond,
+&W a t s o n , 2013 ;H a r r i se ta l . , 2017 ; Hartzell, Mayer, & Asih, 2014 ;I b r a h i m ,W e b e r ,
+Courvoisier, & Genevay, 2019 ;I r v i n ee ta l . , 2015 ; Johansen et al., 2019 ;J o r g e n s e n
+et al., 2011 ; Lambeek et al., 2010 ;L i n t o ne ta l . , 2016 ;L u t h ie ta l . , 2018 ;M a r c h a n d
+et al., 2015 ; Mayer, Choi, Howard, & Gatchel, 2013 ; Mochari-Greenberger, Andreo-
+poulos, Peters, & Pande, 2020 ; Myhre et al., 2014 ;P a t oe ta l . , 2010 ;P o u l a i ne ta l . ,
+2010 ; Rasmussen et al., 2016 ;R e m ee ta l . , 2016 ; Sander et al., 2020 ; Schlicker et al.,
+2020 ; Stein & Miclescu, 2013 ; Vindholmen, Hoigaard, & Haugen, 2016 ), counselling
+(8% of studies) (Calner et al., 2017 ; Ernsen & Lellefjell, 2014; Howard, Mayer, &
+Gatchel, 2012 ;J e n s e ne ta l . , 2012b ; Knappe, Briest, & Bethge, 2015; Kold, Hansen,
+Vedsted-Hansen, & Forman, 2012 ; Sjöström, Asplund, & Alricsson, 2013 ), acceptance
+and commitment therapy (4% of studies) (Berglund et al., 2018 ; Gismervik
+et al., 2020 ; Hara, Bjørngaard, Brage et al., 2018 ; Hara, Bjørngaard, Jacobsen et al.,
+2018 ), motivational interviewing (2% of studies) (Gross et al.,
+2017 ;P a r ke ta l . ,
+2018 )o rm i n d f u l n e s s - b a s e ds t r e s sr e d u ction (1% of studies) (Soler-Font
+et al., 2019 ). Other interventions adopted expli cit educational approaches (27.5% of
+studies) (Andersen et al., 2015 ;A n d e r s e ne ta l . , 2016 ; Bethge, Herbold, Trowitzsch,
+&J a c o b i , 2011 ;B u r t o ne ta l . , 2016 ; Busch et al., 2018 ; Chaléat-Valayer et al., 2016 ;
+Tavares Figueiredo et al., 2016 ; Frederiksen et al., 2017 ; Hampel, Kopnick, & Roch,
+2019 ;J e n s e ne ta l . , 2011 ; Jensen, Jensen, & Nielson, 2012a ;L u ke ta l . , 2010 ; Myhr
+&A u g e s t a d , 2013 ;N g u y e ne ta l . , 2017 ; Odeen et al., 2013 ; Pereira et al., 2019 ; Ran-
+tonen et al., 2018 ; Rantonen et al., 2012 ; Rantonen et al., 2014 ;R e ee ta l . , 2016 ;S a l t -
+ychev et al., 2014 ; Sorensen et al., 2010 ;S t a p e l f e l d te ta l . , 2011 ; Streibelt & Bethge,
+2014 ;W e r n e re ta l . , 2016 ). These interventions involved psychological strategies
+e.g. psychoeducation. Other interventions more generally reported the use of psycho-
+logical and/or behavioural principles (27. 5% of studies) (Becker, Angerer, Weber, &
+Muller, 2020 ; Beemster, van Bennekom, van Vel zen, Frings-Dresen, & Reneman,
+2020 ;B e r g s t r o m ,B e r g s t r o m ,H a g b e r g ,B o d i n ,&J e n s e n , 2010 ; Bramberg, Bergstrom,
+Jensen, Hagberg, & Kwak, 2017 ; Brendbekken et al., 2017 ;B r e n d b e k k e n ,V a k t s k j o l d ,
+Harris, & Tangen, 2018 ;B r o xe ta l . , 2010 ;C a b ye ta l . , 2016 ; Hammond et al., 2017 ;
+Hampel & Tlach, 2015 ; Hardison & Roll, 2017 ;H a r t ﬁel et al., 2017 ; Hutting et al.,
+2015 ; Law et al., 2016 ; Lebon, Rongières, Apredoaei, & Delclaux, 2017 ;L i n d h o l d te t
+al.,2017 ; McCubbin et al., 2014 ; Sandsjo et al., 2010 ;S u l l i v a n&S i m o n , 2012 ;S u l l i v a n32 J. L. MCPARLAND ET AL.
+&A d a m s , 2010 ; Sullivan, Adams, & Ellis, 2012 ; Tan et al., 2016 ;v a nV i l s t e r e ne ta l . ,
+2017a ;v a nV i l s t e r e ne ta l . , 2017b ;W e s t m a ne ta l . , 2010 )(Table 2 ).
+Most of the studies employed randomised control trial (RCT) designs, including
+cluster randomised control trials (64% of studies) ( Table 2 ). Thirty-one studies (34%)
+were part of a registered clinical trial. There was no control condition in n = 42
+(46%) of the studies (Angst et al., 2014; Asih et al., 2018; Beemster et al., 2020;
+Bergstrom et al., 2010;B u r t o ne ta l . , 2016;C a b ye ta l . , 2016; Hardison & Roll, 2017;
+Table 2. Intervention, control, design, recruitment and context of interventions.
+Variable DescriptionNumber of studies
+(% total)
+Intervention
+Cognitive behavioural therapy 27 (30)
+Educational approaches 25 (27.5)
+Interventions containing psychological/behavioural
+principles25 (27.5)
+Counselling 7(8)
+Acceptance and commitment therapy 4(4)
+Motivational interviewing 2(2)Mindfulness based stress reduction 1(1)
+Study design
+Randomised control trials 58 (64)
+Observational studies (including prospective, retrospective,
+case series and cohort studies)31 (34)
+Other 2 (2)
+Study part of clinical trial
+No 60 (66)Yes 31 (34)
+Control condition
+Control condition present 49 (54)
+Usual/standard care 30 (61)Type of control reported 19 (39)
+No control condition 42 (46)
+Method of participant
+recruitment reported80 (88)
+Clinical (rheumatology or rehabilitation) 29 (36)
+Health insurance databases 25 (31)
+Employers directly 13 (16)
+GP referral 11 (14)Occupational health 2 (3)
+Method of participant
+recruitment not reported11 (12)
+Intervention setting reported 76 (84)
+Number of settings 82Outpatient clinic 35 (43)
+Workplace 13 (16)
+Clinical/health centre 13 (16)Inpatient setting 11 (13)Other (e.g. web based, home) 10 (12)
+Intervention setting not reported 15 (16)
+Intervention delivery reported 91 (100)
+Number of persons delivering intervention: 217Physiotherapist 45 (21)
+General Practitioner/physician/specialist medic 41 (19)
+Psychologist/psychiatrist/counsellor 33 (15)Occupational therapist 26 (12)Social worker 15 (7)
+Physical/sports therapist 15 (7)
+Nurse 12 (5)Other (e.g. hypnotherapist, occupational health) 30 (14)HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 33
+Harris et al., 2017; Hartzell et al., 2014; Ibrahim et al., 2019; Johansen et al., 2019; Lebon
+et al., 2017; Lindholdt et al., 2017; Luthi et al., 2018; Mayer et al., 2013; McCubbin et al.,
+2014; Mochari-Greenberger et al., 2020; Pato et al., 2010; Poulain et al., 2010; Reme et al.,
+2016; Stein & Miclescu, 2013; Vindholmen et al., 2016; Calner et al., 2017; Ernsten & Lil-
+lefjell, 2014; Gismervik et al., 2020; Hara, Bjørngaard, Jacobsen et al., 2018; Howard et al.,
+2012; Jensen et al., 2011; Jensen et al., 2012a ; Kold et al., 2012; Luk et al., 2010; Myhr &
+Augestad, 2013; Pereira et al., 2019; Saltychev et al., 2014; Sorensen et al., 2010; Stapelfeldt
+et al., 2011; Streibelt & Bethge, 2014; Sjöström et al., 2013; Sullivan & Simon, 2012; Sul-
+livan & Adams, 2010; Sullivan et al., 2012; Tavares Figueiredo et al., 2016). Of the
+remaining 54% of studies containing a control group, 61% of them (Berglund et al.,2018; Bergström et al., 2012; Busch et al., 2011; Busch et al., 2018; Campello et al.,
+2012; Chaléat-Valayer et al., 2016; Frederiksen et al., 2017; Hara, Bjørngaard, Brage
+et al., 2018; Hart ﬁel et al., 2017; Hutting et al., 2015; Irvine et al., 2015; Jensen et al.,
+2012b ; Lambeek et al., 2010; Law et al., 2016; Linton et al., 2016; Nguyen et al., 2017;
+Odeen et al., 2013; Rantonen et al., 2012; Rantonen et al., 2014; Rantonen et al., 2018;
+Rasmussen et al., 2016; Ree et al., 2016; Sander et al., 2020; Sandsjo et al., 2010; Soler-
+Font et al., 2019; Tan et al. 2016; van Vilsteren et al., 2017a ; van Vilsteren et al.,
+2017b ; Werner et al., 2016; Westman et al., 2010) overtly reported ‘no intervention ’or
+‘usual’or‘standard ’care, although frequently little detail was provided on what ‘usual
+care’consisted of. The remaining studies (39%) reported a speci ﬁc control
+condition (Andersen et al., 2015,2016; Becker et al., 2020; Bethge et al., 2011; Bramberg
+et al., 2017; Brendbekken et al., 2017; Brendbekken et al., 2018; Brox et al., 2010; Coole
+et al., 2013; Gross et al., 2017; Hammond et al., 2017; Hampel et al., 2019; Hampel &
+Tlach, 2015; Jorgensen et al., 2011; Knapp et al. 2015; Marchand et al., 2015; Myhre et
+al.,2014; Park et al., 2018; Schlicker et al., 2020), for example, education or counselling
+(Table 2 ).
+Among the studies reporting the method of participant recruitment (88% of studies),
+the most frequent recruitment method was through a rehabilitation or rheumatology
+clinic, followed by an individual ’s health insurance provider. Interventions were deliv-
+ered in multiple settings, mostly healthcare settings including inpatient and outpatientclinics and clinical contexts or health centres ( Table 2 ). Interventions were frequently
+delivered by more than one professional, most frequently physiotherapists, medics,
+including General Practitioners, psychologists, psychiatrists or counsellors and occu-pational therapists. Given the complexity of the interventions, it was not possible to
+determine who delivered the psychological interventions alone, or the setting for the
+delivery of these interventions. As indicated in Table 2 , there was a lack of workplace
+involvement in the recruitment, setting and delivery of the interventions.
+Outcomes (RQ 3)
+It is di ﬃcult to de ﬁnitively report the number of employees were at work or on sick leave
+at the time of the intervention due to insu ﬃcient information or ambiguity around work
+status reported in some papers. The general pattern indicates that many more employees
+were on sick leave rather than at work. Over half of the studies (n=53, 58% of studies) didnot report secondary outcomes. Forty studies (44 %) reported multiple work-related out-comes (not tabulated).34 J. L. MCPARLAND ET AL.
+Table 3 shows the work outcomes measured across studies. More frequently, out-
+comes addressed sickness absence and return-to-work. Examples of measures of sickness
+absence and return-to-work include self-reported number of workdays lost due toabsence (Andersen et al., 2016; Beemster et al., 2020; Hampel & Tlach, 2015; Law et
+al.,2016; Poulain et al., 2010; Rasmussen et al., 2016; Jensen et al., 2012a ; Gismervik et
+al.,2020; Knapp et al., 2015; Soler-Font et al., 2019), patient registered data (Bergstrom
+et al., 2010; Bergström et al., 2012; Brendbekken et al., 2018; Busch et al., 2018; Jensen et
+al.,2012b ; Jorgensen et al., 2011; Odeen et al., 2013; Ree et al., 2016; Reme et al., 2016;
+Stein & Miclescu, 2013) or disability payments made (Bergstrom et al., 2010; Busch et
+al.,2011; Gross et al., 2017; Hara, Bjørngaard, Brage et al., 2018; Ibrahim et al., 2019;
+Jensen et al., 2011; Marchand et al., 2015; Myhre et al., 2014). Other outcomes, some
+of which were also indicators of return-to-work status, broadly measured the ability to
+participate in and be productive in work, including self-reported work ability ( Table
+3). This was measured, for example, using a measure of the Work Ability Index
+(Becker et al., 2020; Calner et al., 2017; Coole et al., 2013; Frederiksen et al., 2017; Johan-
+sen et al., 2019; Jorgensen et al., 2011; Hampel et al., 2019; Knapp et al., 2015; Rasmussen
+et al., 2016; Saltychev et al., 2014; Sandsjo et al., 2010; Sorensen et al., 2010). A change to
+employment status and presenteeism were less frequently measured ( Table 3
+).
+Health and wellbeing outcomes were measured in most studies (n=81, 89% of
+studies), with many studies measuring multiple outcomes (n = 75, 82% of studies)(not tabulated). As indicated in Table 3 , pain intensity was the most common
+outcome. This was frequently measured, for example, using the Visual Analogue
+Scale (Andersen et al., 2015,2016; Asih et al., 2018; Caby et al., 2016; Chaléat-
+Valayer et al., 2016; Calner et al., 2017; Coole et al., 2013; Ernsten & Lillefjell, 2014;
+Gross et al., 2017; Hammond et al., 2017; Hartzell et al., 2014; Jensen et al., 2011;
+Hutting et al., 2015; Lambeek et al., 2010; Lebon et al., 2017; Luk et al., 2010; Mayer
+et al., 2013; Myhr & Augestad, 2013; Park et al., 2018; Pato et al., 2010; Rantonen et
+al.,2012; Rantonen et al., 2014; Rantonen et al., 2018; Sandsjo et al., 2010; Sjöström
+et al., 2013; Tavares Figueiredo et al., 2016; van Vilsteren et al., 2017a ). General
+health outcomes were also common ( Table 3 ). These were measured, for example,
+using health-related quality of life measures, such as the SF-36 (Angst et al., 2014;
+Bethge et al., 2011; Calner et al., 2017; Gross et al., 2017; Howard et al., 2012; Jensen
+Table 3. Work, health and wellbeing outcomes.
+Outcomes DescriptionNumber of outcomes
+(% total)
+Work outcomes 135
+Sickness absence 46 (34)
+Return to work 38 (28)Work ability 28 (21)Employment status change (e.g. work type, job status) 14 (10)
+Presenteeism (including productivity) 9 (7)
+Health and wellbeing outcomes 228
+Pain 66 (29)General health outcomes (e.g. quality of life) 55 (24)
+Mood (depression and anxiety) 43 (19)
+Catastrophising and kinesiophobia 32 (14)Function 32 (14)HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 35
+et al., 2011; Jensen et al., 2012b ; Knapp et al., 2015; Kold et al., 2012; McCubbin et al.,
+2014; Mochari-Greenberger et al., 2020; Tan et al., 2016; Westman et al., 2010).Table 3
+also indicates that some outcomes were less commonly measured. These outcomesincluded mood, which was examined using, for example, the Hospital Anxiety andDepression scale (Angst et al., 2014; Berglund et al., 2018; Bethge et al., 2011;
+Chaléat-Valayer et al., 2016; Coole et al., 2013; Ernsten & Lillefjell., 2014; Hampel &
+Tlach, 2015; Hara, Bjørngaard, Jacobsen et al., 2018; Harris et al., 2017; Ibrahim et
+al.,2019; Johansen et al., 2019; Luthi et al., 2018; Marchand et al., 2015; Myhr & Auges-
+tad,2013; Poulain et al., 2010; Reme et al., 2016; Sjöström et al., 2013) catastrophising
+and kinesiophobia which were frequently measured using the Fear Avoidance andBelief Questionnaire (Campello et al., 2012; Chaléat-Valayer et al., 2016; Coole et al.,
+2013; Hara, Bjørngaard, Jacobsen et al., 2018; Harris et al., 2017; Jensen et al., 2012b ;
+Marchand et al., 2015; Myhre et al., 2014; Poulain et al., 2010; Tavares Figueiredo et
+al.,2016; Rantonen et al., 2012; Rantonen et al., 2014; Rantonen et al., 2018; Sorensen
+et al., 2010) and the Pain Catastrophising Scale (Campello et al., 2012; Hutting et al.,
+2015; Luthi et al., 2018; Sullivan et al., 2012; Sullivan & Adams, 2012; Sullivan &
+Simon, 2012
+; Westman et al., 2010), and physical function that often involved measur-
+ing disability using the Oswestry Disability Index (Brox et al., 2010; Campello et al.,
+2012; Harris et al., 2017; Hartzell et al., 2014; Luk et al., 2010; Marchand et al., 2015;
+Myhre et al., 2014; Rantonen et al., 2012; Rantonen et al., 2018; Reme et al., 2016;
+Sander et al., 2020; Schlicker et al., 2020) or the Roland-Morris Disability Questionnaire
+(Coole et al., 2013; Hart ﬁel et al., 2017; Lambeek et al., 2010; Jensen et al., 2011; Ran-
+tonen et al., 2012; Rantonen et al., 2014; Rantonen et al., 2018; Sorensen et al., 2010;
+Werner et al., 2016).
+Intervention coding
+Table 4 shows that of the 10% sample of papers coded (Bramberg et al., 2017; Gross et al.,
+2017; Hara, Bjørngaard, Jacobsen et al., 2018; Jensen et al. 2012a ; Linton et al., 2016;
+Sjöström et al., 2013; Sorensen et al., 2010; Tan et al., 2016; van Vilsteren et al., 2017b )
+the majority met the minimum criteria of containing at least one paragraph of interven-tion description, with an additional paper also providing a link to further resources.
+Therefore, as 89% of the sample met the pre-established criteria (50% at Level 2 or
+better) it can be concluded that it is possible to conduct a meaningful behavioural analy-sis of the intervention descriptions. In the sample of papers examined we found none that
+contained a theory of change, logic model, or explicitly mentioned BCTs.
+Table 4. Coding intervention descriptions.
+Level Detail of intervention description N %
+Level 0 No intervention description provided 0 0%
+Level 1 Only a couple of sentences of intervention description provided 1 11%Level 2 At least a paragraph on intervention description provided 7 78%Level 3 Description of at least a paragraph + links to manual/resources 1 11%
+Level 4 Description of at least a paragraph + includes a logic model, theory of change 0 0%
+Level 5 Description of at least a paragraph + includes a logic model, theory of change + makes explicit
+mention of theory/TDF and BCTT + links to manual/resources00 %36 J. L. MCPARLAND ET AL.
+Discussion
+This scoping review, the ﬁrst of its kind, provides a picture of the heterogeneity within
+the published literature on psychological interventions for employees with chronic
+pain. We conducted our review to shape the direction of future research in the ﬁeld
+through identifying gaps in knowledge and de ﬁning the parameters for future systematic
+review work. We were also particularly interested in establishing the viability of using
+tools from health psychology within subsequent systematic reviews to disentangle
+diverse and inconsistently described interventions.
+We found 91 papers reporting interventions that sought to improve work, health and
+wellbeing outcomes, published between 2010 and 2020. The studies were mostly con-
+ducted in European countries, particularly Scandinavian countries. Recipients of theinterventions tended to be young to middle-aged employees with a musculoskeletal con-dition, most commonly back or spinal pain who were recruited through health insurance
+databases or healthcare settings. There was a high level of complexity within the interven-
+tions. Many psychological interventions contained at least some components of CBT andwere often delivered as part of multimodal interventions containing complementary
+non-psychological elements in a RCT. Most of the interventions were delivered by
+non-psychologists such as physicians and allied health professionals in predominantlyhealthcare settings. Given the complexity of the interventions, it was not possible to
+determine who delivered the psychological interventions. Post-intervention outcomes
+tended to be multi-domain in nature, incorporating various measures concerned withreturn-to-work and sickness absence, in addition to physical and psychological function-
+ing. The ﬁndings of the scoping review are broadly consistent with the pattern of ﬁndings
+reported in recent systematic reviews on interventions for employees with pain and mus-culoskeletal disorders (Cullen et al., 2018; Finnes et al., 2019; Palmer et al., 2012; Pike et
+al.,2016; Wainwright et al., 2019). We have contributed to the ﬁeld through using our
+broad search strategy to provide detailed clarity on the current state of science in this het-
+erogeneous topic area in a way that is not captured by systematic reviews that often applyspeciﬁc parameters involving e.g. speci ﬁc types of psychological interventions or samples,
+such as those returning to work, to searches. Using our search strategy we were, for
+example, able to report on a vast array of psychological interventions delivered toemployees at work as well as on sick leave at the time of receiving an intervention,
+although insu ﬃcient reporting within papers largely made it di ﬃcult to distinguish
+between both groups.
+The scoping review synthesis has identi ﬁed gaps in knowledge to be addressed in
+future work. Firstly, more UK-based research is needed as the ﬁndings were dominated
+by research in Scandinavian countries where di ﬀerent welfare systems and employment
+policies make it di ﬃcult to generalise the ﬁndings to the UK context that has higher sick-
+ness absence rates Holland & Clayton, 2019; Holland & Clayton, 2011). Secondly, given
+the ageing workforce (Bevan, 2016), psychological interventions for employees over the
+age of 50 are needed as there was a notable absence of this research within the review.Thirdly, more research is needed to include employers within interventions as evidence
+suggests that healthcare settings, where most interventions were based, may be insu ﬃ-
+cient alone for pain management as there is a tendency to focus on clinical outcomesrather than work outcomes (Staal et al., 2013). Fourthly, there was an under-reportingHEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 37
+of employment and demographic characteristics across the studies that should be
+addressed in future research because the decision to return to work is a ﬀected not
+only by medical factors, but also by other, personal factors (Burdo ﬀ,2013; Wilkie &
+Pransky, 2012). The scoping review ﬁndings also lay the foundation for future systematic
+review work. The review has identi ﬁed numerous RCTs of psychological interventions
+that address work, health and wellbeing outcomes among employees with musculoske-
+letal disorders (Andersen et al., 2015; Andersen et al., 2016; Becker et al., 2020; Berglund
+et al., 2018; Bergström et al., 2012; Bethge et al., 2011; Busch et al., 2011; Bramberg et al.,
+2017; Brendbekken et al., 2017; Brendbekken et al., 2018; Brox et al., 2010; Calner et al.,
+2017; Campello et al. ( 2012); Chaléat-Valayer et al., 2016; Coole et al. ( 2013); Hart ﬁel et
+al. (2017); Frederiksen et al., 2017; Gismervik et al., 2020; Gross et al., 2017; Hammond et
+al.,2017; Hampel et al., 2019; Hara, Bjørngaard, Brage et al., 2018; Harris et al., 2017;
+Hutting et al., 2015; Irvine et al., 2015; Jensen et al., 2011; Jensen et al., 2012a ,2012b ; Jor-
+gensen et al., 2011; Knapp et al., 2015; Lambeek et al., 2010; Lindholdt et al., 2017; Linton
+et al., 2016; Marchand et al., 2015; Mhyre et al., 2014; Nguyen et al., 2017; Odeen et al.,
+2013; Park et al., 2018; Pato et al., 2010; Pereira et al., 2019; Rasmussen et al., 2016; Ran-
+tonen et al., 2012; Rantonen et al., 2014; Rantonen et al., 2018; Ree et al., 2016; Reme et
+al.,2016; Sander et al., 2020; Sandsjo et al., 2010; Schlicker et al., 2020; Soler-Font et al.,
+2019; Sorensen et al., 2010; Stapelfeldt et al., 2011; Streibelt & Bethge, 2014; Tan et al.,
+2016; van Vilsteren et al., 2017a ; van Vilsteren et al.. 2017b ; Werner et al., 2016;
+Westman et al., 2010). We have identi ﬁed a high level of complexity within these inter-
+ventions that should be addressed in future to disentangle the e ﬀects of di ﬀerent inter-
+vention components. We have also shown that it is viable to use health psychologytools to analyse intervention descriptions in a ﬁeld where an analysis of intervention
+functions, theoretical domains and BCTs is severely lacking within employee interven-
+tions. Analysing these interventions in this way may enable within a full systematicreview a focussed understanding of the most useful intervention content that could beused in future interventions and address the call for the development of more focussed,
+theory-led replicable employee interventions that can clearly articulate what works for
+whom and in which context (Costa-Black, 2014; Main & Shaw, 2020). Since psychologi-
+cal interventions are complex and can be delivered alongside non-psychological inter-
+ventions, additional interventions e.g. related to workplace accommodations (Main &
+Shaw, 2020) may also be considered within this evidence synthesis to determine how
+diﬀerent types of interventions operate to improve work outcomes.
+There are numerous strengths and limitations. One limitation is that only papers pub-
+lished in English were included, and so some key papers may have been missed. Secondly,despite our best e ﬀorts we had di ﬃculty accessing the full text for a small number of
+studies, and so may have excluded relevant papers., Thirdly, while we were able to de-
+risk future work through determining the viability of coding intervention content fortheory and BCTs, in checking only 10% of the papers we did not examine a representativesample of papers. A strength of this research was the use of a comprehensive search strat-
+egy which was developed in collaboration with key stakeholders and a subject specialist
+librarian. Secondly, the review was conducted by an experienced reviewer. Thirdly, thetitle/abstract and full-text screening was undertaken independently by two authors.
+Fourthly, we conducted the ﬁrst test of the viability of using health psychology tools to
+analyse intervention content in this context.38 J. L. MCPARLAND ET AL.
+Conclusion
+There is much variation in the nature and implementation of psychological interventions
+for employees with chronic pain. The scoping review has provided a picture of the par-
+ameters of psychological interventions for employees with chronic pain. We have ident-
+iﬁed patterns and gaps in knowledge to direct future research. We have also shown that it
+is possible to use scoping reviews to assess the feasibility of applying tools from health
+psychology to identify the active content of psychological interventions for employees
+with pain in future systematic review work to improve intervention development inthis heterogeneous ﬁeld.
+Acknowledgements
+The authors thank Julie Smith and Kirsten McCormick for their help developing the search strat-
+egy and undertaking the searches.
+Data availability statement
+Our data extraction table is available from the ﬁrst author on request.
+Disclosure statement
+No potential con ﬂict of interest was reported by the author(s).
+Funding
+This work was supported by the Chief Scientist O ﬃce under [grant number CGA/18/30].
+ORCID
+Joanna L. McParland http://orcid.org/0000-0003-0580-2179
+Lynn Williams http://orcid.org/0000-0003-2735-9219
+References
+Andersen, L., Juul-Kristensen, B., Sørensen, T., Herborg, L., Roessler, K., & Søgaard, K. ( 2016).
+Longer term follow-up on e ﬀects of Tailored physical Activity or chronic pain self-management
+Programme on return-to-work: A randomized controlled trial. Journal of Rehabilitation
+Medicine ,48, 887–892. doi 10.2340/16501977-2159
+Andersen, L. N., Juul-Kristensen, B., Sorensen, T. L., Herborg, L. G., Roessler, K. K., & Sogaard, K.
+(2015). Eﬃcacy of Tailored physical Activity or chronic pain self-management Programme on
+return to work for sick-listed citizens: A 3-month randomised controlled trial. Scandinavian
+Journal of Public Health ,43, 694–703. doi: 10.1177/1403494815591687
+Angst, F., Gantenbein, A. R., Lehmann, S., Gysi-Klaus, F., Aeschlimann, A., Michel, B. A., &
+Hegemann, F. ( 2014). Multidimensional associative factors for improvement in pain, function,
+and working capacity after rehabilitation of whiplash associated disorder: A prognostic, prospec-tive outcome study. BMC Musculoskeletal Disorders ,15, 130. doi: 10.1186/1471-2474-15-130
+Arksey, H., & O ’Malley, L. ( 2005). Scoping studies: Towards a methodological framework.
+International Journal of Social Research Methodology ,8,1 9 –32. doi: 10.1080/
+1364557032000119616HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 39
+Asih, S., Neblett, R., Mayer, T. G., & Gatchel, R. J. ( 2018). Does the length of disability between
+injury and functional restoration program entry a ﬀect treatment outcomes for patients with
+chronic disabling occupational musculoskeletal disorders? Journal of Occupational
+Rehabilitation ,28,5 7–67. doi: 10.1007/s10926-016-9691-9
+Becker, A., Angerer, P., Weber, J., & Muller, A. ( 2020). The prevention of musculoskeletal com-
+plaints: Long-term e ﬀect of a work-related psychosocial coaching intervention compared to
+physiotherapy alone —a randomized controlled trial. International Archives of Occupational
+and Environmental Health ,93, 877–889. doi: 10.1007/s00420-020-01538-1
+Beemster, T. T., van Bennekom, C. A. M., van Velzen, J. M., Frings-Dresen, M. H. W., & Reneman,
+M. F. ( 2020). Vocational rehabilitation with or without work Module for Patients with chronic
+musculoskeletal pain and sick leave from work: Longitudinal impact on work Participation.Journal of Occupational Rehabilitation , doi: 10.1007/s10926-020-09893-z
+Berglund, E., Anderzén, I., Andersén, Å., Carlsson, L., Gustavsson, C., Wallman, T., & Lytsy, P.
+(2018). Multidisciplinary intervention and acceptance and commitment therapy for return-
+to-work and increased employability among patients with mental illness and/or chronic pain:A randomized controlled trial. International Journal of Environmental Research and Public
+Health ,15, 2424. doi: 10.3390/ijerph15112424
+Bergstrom, G., Bergstrom, C., Hagberg, J., Bodin, L., & Jensen, I. ( 2010). A 7-year follow-up of
+multidisciplinary rehabilitation among chronic neck and back pain patients. Is sick leaveoutcome dependent on psychologically derived patient groups? European Journal of Pain ,14,
+426–433. doi: 10.1016/j.ejpain.2009.06.008
+Bergström, C., Jensen, I., Hagberg, J., Busch, H., & Bergstrom, G. ( 2012). Eﬀectiveness of di ﬀerent
+interventions using a psychosocial subgroup assignment in chronic neck and back pain patients:A 10-year follow-up. Disability and Rehabilitation ,34, 110–118. doi: 10.3109/09638288.2011.
+607218
+Bethge, M., Herbold, D., Trowitzsch, L., & Jacobi, C. ( 2011). Work status and health-related
+quality of life following multimodal work hardening: A cluster randomised trial. Journal of
+Back and Musculoskeletal Rehabilitation ,24, 161–172. doi: 10.3233/BMR-2011-0290
+Bevan, S. ( 2016). Workplace health in the UK. American Journal of Health Promotion ,30, 396–398.
+doi:10.1177/0890117116647702b
+Black, C. ( 2008).Working for a healthier tomorrow; Dame Carol Black ’s review of the health of
+Britain ’s working age population . London: The Stationery O ﬃce. doi: 10.5491/SHAW.2012.3.4.241
+Bramberg, E. B., Bergstrom, G., Jensen, I., Hagberg, J., & Kwak, L. ( 2017). Eﬀects of yoga, strength
+training and advice on back pain: A randomized controlled trial. BMC Musculoskeletal
+Disorders ,18, 132. doi: 10.1186/s12891-017-1497-1
+Breivik, H., Eisenberg, E., & O ’Brien, T. ( 2013). The individual and societal burden of chronic pain
+in Europe: The case for strategic prioritisation and action to improve knowledge and availability
+of appropriate care. BMC Public Health ,13, 1229. doi: 10.1186/1471-2458-13-1229
+Brendbekken, R., Eriksen, H. R., Grasdal, A., Harris, A., Hagen, E. M., & Tangen, T. ( 2017). Return
+to work in patients with chronic musculoskeletal pain: Multidisciplinary intervention versusbrief intervention: A randomized clinical trial. Journal of Occupational Rehabilitation ,27,8 2–
+91. doi: 10.1007/s10926-016-9634-5
+Brendbekken, R., Vaktskjold, A., Harris, A., & Tangen, T. ( 2018). Predictors of return-to-work in
+patients with chronic musculoskeletal pain: A randomized clinical trial. Journal of
+Rehabilitation Medicine ,50, 193–199. doi: 10.2340/16501977-2296
+Brox, J. I., Nygaard, O. P., Holm, I., Keller, A., Ingebrigtsen, T., & Reikeras, O. ( 2010). Four-year
+follow-up of surgical versus non-surgical therapy for chronic low back pain. Annals of the
+Rheumatic Diseases ,69, 1643 –1648. doi: 10.1136/ard.2009.108902
+Burdo ﬀ,A .(2013). Who returns to work after sick leave and why? implications for the e ﬀectiveness
+of interventions for musculoskeletal disorders. In K. Venables (Ed.), Current Topics in occu-
+pational Epidemiology . Oxford University Press. doi: 10.1093/med/9780199683901.003.0009
+Burton, W. N., Chen, C. Y., Li, X., McCluskey, M., Eriksen, D., & Schultz, A. B. ( 2016). Evaluation
+of a workplace-based migraine education program. Journal of Occupational and Environmental
+Medicine ,58, 790–795. doi: 10.1097/JOM.000000000000078140 J. L. MCPARLAND ET AL.
+Busch, H., Bjork Bramberg, E., Hagberg, J., Bodin, L., & Jensen, L. ( 2018). The e ﬀects of multimo-
+dal rehabilitation on pain-related sickness absence - an observational study. Disability and
+Rehabilitation ,27,1–8. doi: 10.1080/09638288.2017
+Busch, H., Bodin, L., Bergstrom, G., & Jensen, I. B. ( 2011). Patterns of sickness absence a decade after
+pain-related multidisciplinary rehabilitation. Pain,152,1 7 2 7 –1733. doi: 10.1016/j.pain.2011.02.004
+Caby, I., Olivier, N., Janik, F., Vanvelcenaher, J., & Pelayo, P. ( 2016). A controlled and retrospec-
+tive study of 144 chronic low back pain patients to evaluate the e ﬀectiveness of an intensive
+functional restoration program in France. Healthcare ,4, 23. doi: 10.3390/healthcare4020023
+Calner, T., Nordin, C., Eriksson, M. K., Nyberg, L., Gard, G., & Michaelson, P. ( 2017). Eﬀects of a
+self-guided, web-based activity programme for patients with persistent musculoskeletal pain inprimary healthcare: A randomized controlled trial. European Journal of Pain ,21, 1110 –1120.
+doi:10.1002/ejp.1012
+Campello, M., Ziemke, G., Hiebert, R., Weiser, S., Brinkmeyer, M., Fox, B., …Nordin, M. ( 2012).
+Implementation of a multidisciplinary program for active duty personnel seeking care for lowback pain in a U.S. Navy medical Center: A feasibility study. Military Medicine ,177, 1075 –1080.
+doi:10.7205/milmed-d-12-00118
+Cane, J., O ’Connor, D., & Michie, S. ( 2012). Validation of the theoretical domains framework for
+use in behaviour change and implementation research. Implementation Science ,7, 37. doi: 10.
+1186/1748-5908-7-37
+Chaléat-Valayer, E., Denis, A., Abelin-Genevois, K., Zelmar, A., Siani-Trebern, F., Touzet, S., …
+Fassier, J.-B. ( 2016). Long-term e ﬀectiveness of an educational and physical intervention for
+preventing low-back pain recurrence: A randomized controlled trial. Scandinavian Journal of
+Work, Environment & Health ,42, 510–519. doi: 10.5271/sjweh.3597
+Coole, C., Drummond, A., & Watson, P. ( 2013). Individual work support for employed patients
+with low back pain: A randomized controlled pilot trial. Clinical Rehabilitation ,27,4 0
+–50.
+doi:10.1177/0269215512446839
+Costa-Black, K. ( 2014). Core components of return-to-work interventions. In P. Loisel, & J.
+Anema (Eds.), Handbook of work disability: Prevention and management (pp. 427 –440).
+New York: Springer.
+Cullen, K. L., Irvin, E., Collie, A., Clay, F., Gensby, U., Jennings, P. A., …Amick, B. C. ( 2018).
+Eﬀectiveness of workplace interventions in return-to-work for musculoskeletal, pain-related
+and mental health conditions: An update of the evidence and messages for practitioners.Journal of Occupational Rehabilitation ,28,1–15. doi: 10.1007/s10926-016-9690-x
+De Barra, M., Scott, C., Johnston, M., De Bruin, M., Scott, N., Matheson, C., …Watson, M. ( 2018).
+Do pharmacy intervention reports adequately describe their interventions? A template for inter-vention description and replication analysis of reports included in a systematic review. BMJ
+Open ,9, e025511. doi: 10.1136/bmjopen-2018-025511
+Ernstsen, L., & Lillefjell, M. ( 2014). Physical functioning after occupational rehabilitation and
+returning to work among employees with chronic musculoskeletal pain and comorbid depress-ive symptoms. Journal of Multidisciplinary Healthcare ,7,5 5–63. doi: 10.2147/JMDH.S55828
+Fayaz, A., Croft, P., Langford, R. M., Donaldson, L. J., & Jones, G. T. ( 2016). Prevalence of chronic
+pain in the UK: A systematic review and meta-analysis of population studies. BMJ Open ,6,
+e010364. doi: 10.1136/bmjopen-2015-010364
+Finnes, A., Enebrink, P., Ghaderi, A., Dahl, J., Nager, A., & Ost, L. G. ( 2019). Psychological treat-
+ments for return to work in individuals on sickness absence due to common mental disorders ormusculoskeletal disorders: A systematic review and meta-analysis of randomized-controlledtrials. International Archives of Occupational and Environmental Health ,92, 273–293. doi: 10.
+1007/s00420-018-1380-x
+Frederiksen, P., Indahl, A., Andersen, L. L., Burton, K., Hertzum-Larsen, R., & Bendix, T. ( 2017).
+Can group-based reassuring information alter low back pain behavior? A cluster-randomizedcontrolled trial. PLoS ONE ,12, e0172003. doi: 10.1371/journal.pone.0172003
+Gismervik, S. Ø., Aasdahl, L., Vasseljen, O., Fors, E. A., Rise, M. B., Johnsen, R., …Fimland, M. S.
+(2020). Inpatient multimodal occupational rehabilitation reduces sickness absence among
+individuals with musculoskeletal and common mental health disorders: A randomized clinicalHEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 41
+trial. Scandinavian Journal of Work, Environment &Health ,46(4), 364 –372. doi: 10.5271/sjweh.
+3882
+Gross, D. P., Park, J., Rayani, F., Norris, C. M., & Esmail, S. ( 2017). Motivational interviewing
+improves sustainable return to work in injured workers after rehabilitation: A cluster random-
+ized controlled trial. Archives of Physical Medicine and Rehabilitation ,98, 2355 –2363. doi: 10.
+1016/j.apmr.2017.06.003
+Hammond, A., O ’Brien, R., Woodbridge, S., Bradshaw, L., Prior, Y., Radford, K., …Pulikottil-
+Jacob, R. ( 2017). Job retention vocational rehabilitation for employed people with in ﬂammatory
+arthritis (WORK-IA): A feasibility randomised controlled trial. BMC Musculoskeletal Disorders ,
+18, 315. doi: 10.1186/s12891-017-1671-5
+Hampel, P., Köpnick, A., & Roch, S. ( 2019). Psychological and work-related outcomes after inpa-
+tient multidisciplinary rehabilitation of chronic low back pain: A prospective randomized con-trolled trial. BMC Psychology ,7(1), 6. doi: 10.1186/s40359-019-0282-3
+Hampel, P., & Tlach, L. ( 2015). Cognitive-behavioral management training of depressive symp-
+toms among inpatient orthopedic patients with chronic low back pain and depressive symp-toms: A 2-year longitudinal study. Journal of Back and Musculoskeletal Rehabilitation ,28,
+49–60. doi: 10.3233/BMR-140489
+Hara, K. W., Bjørngaard, J. H., Brage, S., Borchgrevink, P. C., Halsteinli, V., Stiles, T. C., …
+Woodhouse, A. ( 2018). Randomized controlled trial of adding telephone follow-up to an occu-
+pational rehabilitation program to increase work participation. Journal of Occupational
+Rehabilitation ,28, 265–278. doi: 10.1007/s10926-017-9711-4
+Hara, K. W., Bjørngaard, J. H., Jacobsen, H. B., Borchgrevink, P. C., Johnsen, R., Stiles, T. C., …
+Woodhouse, A. ( 2018). Biopsychosocial predictors and trajectories of work participation after
+transdiagnostic occupational rehabilitation of participants with mental and somatic disorders: Acohort study. BMC Public Health ,18, 1014. doi: 10.1186/s12889-018-5803-0
+Hardison, M. E., & Roll, S. C. ( 2017). Factors associated with success in an occupational rehabi-
+litation program for work-related musculoskeletal disorders. American Journal of
+Occupational Therapy ,71(1), 7101190040p1 –7101190040p8. doi: 10.5014/ajot.2016.023200
+Harris, A., Moe, T. F., Eriksen, H. R., Tangen, T., Lie, S. A., Tveito, T. H., & Reme, S. E. ( 2017).
+Brief intervention, physical exercise and cognitive behavioural group therapy for patientswith chronic low back pain (the CINS trial). European Journal of Pain
+,21, 1397 –1407.
+doi:10.1002/ejp.1041
+Hartﬁel, N., Clarke, G., Havenhand, J., Phillips, C., & Edwards, R. T. ( 2017). Cost-e ﬀectiveness of
+yoga for managing musculoskeletal conditions in the workplace. Occupational Medicine ,67,
+687–695. doi: 10.1093/occmed/kqx161
+Hartzell, M. M., Mayer, T. G., & Asih, S. ( 2014). Evaluation of functional restoration outcomes for
+chronic disabling occupational cervical disorders. Journal of Occupational and Environmental
+Medicine ,56, 959–964. doi: 10.1097/JOM.0000000000000204
+Hoﬀmann, T. C., Glasziou, P. P., Boutron, I., Milne, R., Perera, R., Moher, D., …Michie, S. ( 2014).
+Better reporting of interventions: Template for intervention description and replication(TIDieR) checklist and guide. BMJ,348, g1687 –g1687.
+Holland, P., & Clayton, S. ( 2019). Navigating employment retention with a chronic health con-
+dition: A meta-ethnography of the employment experiences of people with musculoskeletal dis-orders in the UK. Disability and Rehabilitation ,1–16. doi: 10.1080/09638288.2018.1519041
+Holland, P., Nylén, L., Thielen, K., van der Wel, K. A., Chen, W.-H., Barr, B., …Whitehead, M.
+(2011). How do macro-level contexts and policies a ﬀect the employment chances of chronically
+ill and disabled people? part II: The impact of active and passive labor market policies.International Journal of Health Services ,41, 415–430. doi: 10.2190/HS.41.3.b
+Howard, K. J., Mayer, T. G., & Gatchel, R. J. ( 2012). Comparison of chronic occupational upper
+extremity versus lumbar disorders for di ﬀerential disability-related outcomes and predictor
+variables. Journal of Occupational and Environmental Medicine ,54, 1002 –1009. doi: 10.1097/
+JOM.0b013e3182546daf
+Hutting, N., Staal, J. B., Engels, J. A., Heerkens, Y. F., Detaille, S. I., & Nijhuis-van der Sanden,
+M. W. G. ( 2015). Eﬀect evaluation of a self-management programme for employees with42 J. L. MCPARLAND ET AL.
+complaints of the arm, neck or shoulder: A randomised controlled trial. Occupational and
+Environmental Medicine ,72, 852–861. doi: 10.1136/oemed-2015-103089
+Ibrahim, M. E., Weber, K., Courvoisier, D. S., & Genevay, S. ( 2019). Recovering the capability to
+work among patients with chronic low back pain after a four-week, multidisciplinary biopsy-
+chosocial rehabilitation program: 18-month follow-up study. BMC Musculoskeletal Disorders ,
+20(1), 439. doi: 10.1186/s12891-019-2831-6
+Irvine, A. B., Russell, H., Manocchia, M., Mino, D. E., Cox Glassen, T., Morgan, R., …Ary, D. V.
+(2015). Mobile-Web app to self-manage low back pain: Randomized controlled trial. Journal of
+Medical Internet Research ,17(1), e1. doi: 10.2196/jmir.3130
+Jensen, C., Jensen, O. K., Christiansen, D. H., & Nielsen, C. V. ( 2011). One-year follow-up in
+employees sick-listed because of low back pain: Randomised clinical trial comparing multidis-ciplinary and brief intervention. Spine ,36, 1180 –1189. doi: 10.1097/BRS.0b013e3181eba711
+Jensen, C., Jensen, O. K., & Nielsen, C. V. ( 2012a ). Sustainability of return to work in sick-listed
+employees with low-back pain. Two-year follow-up in a randomized clinical trial comparingmultidisciplinary and brief intervention. BMC Musculoskeletal Disorders ,13, 156. doi: 10.
+1186/1471-2474-13-156
+Jensen, L. D., Maribo, T., Schiøttz-Christensen, B., Madsen, F. H., Gonge, B., Christensen, M., &
+Frost, P. ( 2012b ). Counselling low-back-pain patients in secondary healthcare: A randomised
+trial addressing experienced workplace barriers and physical activity. Occupational and
+Environmental Medicine ,69,2 1–28. doi: 10.1136/oem.2010.064055
+Johansen, T., Jensen, C., Eriksen, H. R., Lyby, P. S., Dittrich, W. H., Holsen, I. N., …Øyeﬂaten, I.
+(2019). Occupational rehabilitation Is associated With Improvements in cognitive functioning.
+Frontiers in Psychology ,10, 2233. doi: 10.3389/fpsyg.2019.02233
+Jorgensen, M. B., Faber, A., Hansen, J. V., Holtermann, A., & Sogaard, K. ( 2011). Eﬀects on mus-
+culoskeletal pain, work ability and sickness absence in a 1-year randomised controlled trialamong cleaners. BMC Public Health ,11, 840. doi: 10.1186/1471-2458-11-840
+Kamper, S. J., Apeldoorn, A. T., Chiarotto, A., Smeets, R. J. E. M., Ostelo, R. W. J. G., Guzman, J., &
+van Tulder, M. W. ( 2015). Multidisciplinary biopsychosocial rehabilitation for chronic low back
+pain: Cochrane systematic review and meta-analysis. BMJ,350, h444. doi: 10.1136/bmj.h444
+Knapp, S., Briest, J., & Bethge, M. ( 2015
+). Work-related rehabilitation aftercare for patients with
+musculoskeletal disorders: Results of a randomized-controlled multicenter trial. International
+Journal of Rehabilitation Research ,38, 226–232. doi: 10.1097/MRR.0000000000000117
+Kold, M., Hansen, T., Vedsted-Hansen, H., & Forman, A. ( 2012). Mindfulness based psychological
+intervention for coping with pain in endometriosis. Nordic Psychology ,64,2–16. doi: 10.1080/
+19012276.2012.693727
+Lambeek, L. C., van Mechelen, W., Knol, D. L., Loisel, P., & Anema, J. R. ( 2010). Randomised con-
+trolled trial of integrated care to reduce disability from chronic low back pain in working and
+private life. BMJ,340. doi: 10.1136/bmj.c1035
+Law, S. W., Szeto, G. P. Y., Chau, W. W., Chan, C., Kwok, A. W. L., Lai, H. S., …Cheng, J. C. Y.
+(2016). Multi- Disciplinary orthopaedics rehabilitation Empowerment (more) program: A new
+standard of care for injured workers in Hong Kong. Journal of Back and Musculoskeletal
+Rehabilitation ,29, 503–513. doi: 10.3233/BMR-150650
+Lebon, J., Rongières, M., Apredoaei, C., & Delclaux, S. ( 2017). Physical therapy under hypnosis for
+the treatment of patients with type 1 complex regional pain syndrome of the hand and wrist:Retrospective study of 20 cases. Hand Surgery and Rehabilitation ,36, 215–221. doi: 10.1016/j.
+hansur.2016.12.008
+Lindholdt, L., Labriola, M., Nielsen, C. V., Horsbol, T. A., & Lund, T. ( 2017). Sequence analysis to
+assess labour market participation following vocational rehabilitation: An observational studyamong patients sick-listed with low back pain from a randomised clinical trial in Denmark.BMJ Open ,7(7), e015661. doi: 10.1136/bmjopen-2016-015661
+Linton, S. J., Boersma, K., Traczyk, M., Shaw, W., & Nicholas, M. ( 2016). Early workplace com-
+munication and problem solving to prevent back disability: Results of a randomized controlledtrial among high-risk workers and their supervisors. Journal of Occupational Rehabilitation ,26,
+150–159. doi: 10.1007/s10926-015-9596-zHEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 43
+Luk, K. D. K., Wan, T. W. M., Wong, Y. W., Cheung, K. M. C., Chan, K. Y. K., Cheng, A. C. S., …
+Cheing, G. L. Y. ( 2010). A multidisciplinary rehabilitation programme for patients with chronic
+low back pain: A prospective study. Journal of Orthopaedic Surgery ,18, 131–138. doi: 10.1177/
+230949901001800201
+Luthi, F., Vuistiner, P., Favre, C., Hil ﬁker, R., & Leger, B. ( 2018). Avoidance, pacing, or persistence
+in multidisciplinary functional rehabilitation for chronic musculoskeletal pain: An observa-tional study with cross-sectional and longitudinal analyses. PLoS ONE ,13, e0203329. doi: 10.
+1371/journal.pone.0203329
+Main, C., & Shaw, W. ( 2016). Conceptual, methodological, and measurement challenges in addres-
+sing return to work in workers with musculoskeletal disorders. In I. Schultz, & R. Gatchel (Eds.),Handbooks in health, work, and disability (pp. 423 –438). New York: Springer.
+Main, C., & Shaw, W. S. ( 2020). Managing pain in the workplace: The role of the employer. In E.
+Wainwright, & C. Eccleston (Eds.), Work and pain. A lifespan development approach (pp. 143 –
+159). Oxford: Oxford University Press.
+Marchand, G. H., Myhre, K., Leivseth, G., Sandvik, L., Lau, B., Bautz-Holter, E., & Røe, C. ( 2015).
+Change in pain, disability and in ﬂuence of fear-avoidance in a work-focused intervention on
+neck and back pain: A randomized controlled trial. BMC Musculoskeletal Disorders ,16, 94.
+doi:10.1186/s12891-015-0553-y
+Mayer, T. G., Choi, Y., Howard, K., & Gatchel, R. K. ( 2013). Evaluation of functional restoration
+outcomes for chronic disabling occupational lower extremity disorders. Journal of Occupational
+and Environmental Medicine ,55, 1489 –1494. doi: 10.1097/JOM.0000000000000013
+McCubbin, T., Dimidjian, S., Kempe, K., Glassey, M. S., Ross, C., & Beck, A. ( 2014). Mindfulness-
+based stress reduction in an integrated care delivery system: One-year impacts on patient-centeredoutcomes and health care utilization. The Permanente Journal ,18,4–9. doi: 10.7812/TPP/14-014
+Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Hardeman, W., …Wood, C. E.
+(2013). The behavior change technique taxonomy (v1) of 93 hierarchically clustered techniques:
+Building an international consensus for the reporting of behavior change interventions. Annals
+of Behavioral Medicine ,46,8 1–95. doi: 10.1007/s12160-013-9486-6
+Michie, S., van Stralen, M., & West, R. ( 2011). The behaviour change wheel: A new method for
+characterising and designing behaviour change interventions. Implementation Science ,6,4 2–
+10. doi: 10.1186/1748-5908-6-42
+Mochari-Greenberger, H., Andreopoulos, E., Peters, A., & Pande, R. L. ( 2020). Clinical and work-
+place outcomes from a Virtually delivered cognitive behavioral therapy Program for pain. Pain
+Practice ,20(4), 387 –395. doi: 10.1111/papr.12867
+Myhr, A., & Augestad, L. B. ( 2013). Chronic pain patients--e ﬀects on mental health and pain after
+a 57-week multidisciplinary rehabilitation program. Pain Management Nursing ,14,7 4–84.
+doi:10.1016/j.pmn.2010.09.005
+Myhre, K., Marchand, G. H., Leivseth, G., Keller, A., Bautz-Holter, E., Sandvik, L., …Røe, C.
+(2014). The E ﬀect of work-Focused rehabilitation Among Patients With Neck and back pain.
+Spine ,39, 1999 –2006. doi: 10.1097/BRS.0000000000000610
+Nguyen, C., Boutron, I., Rein, C., Baron, G., Sanchez, K., Palazzo, C., …Poiraudeau, S. ( 2017).
+Intensive spa and exercise therapy program for returning to work for low back pain patients:A randomized controlled trial. Scienti ﬁc Reports ,7, 17956. doi: 10.1038/s41598-017-18311-z
+Nicholas, M., Vlaeyen, J. W. S., Rief, W., Barke, A., Aziz, Q., Benoliel, R., …Treede, R.-D. ( 2019).
+The IASP Taskforce for the Classi ﬁcation of chronic pain. The IASP classi ﬁcation of chronic
+pain for ICD-11: Chronic primary pain. Pain,160,2 8–37. doi: 10.1097/j.pain.0000000000001390
+Odeen, M., Ihlebaek, C., Indahl, A., Wormgoor, M. E. A., Lie, S. A., & Eriksen, H. R. ( 2013). Eﬀect
+of peer-based low back pain information and reassurance at the workplace on sick leave: Acluster randomized trial. Journal of Occupational Rehabilitation ,23, 209–219. doi: 10.1007/
+s10926-013-9451-z
+Palmer, K. T., Harris, E. C., Linaker, C., Barker, M., Lawrence, W., Cooper, C., & Coggon, D.
+(2012). Eﬀectiveness of community- and workplace-based interventions to manage musculos-
+keletal-related sickness absence and job loss: A systematic review. Rheumatology ,51, 230–242.
+doi:10.1093/rheumatology/ker08644 J. L. MCPARLAND ET AL.
+Park, J., Esmail, S., Rayani, F., Norris, C. M., & Gross, D. P. ( 2018). Motivational interviewing for
+workers with disabling musculoskeletal disorders: Results of a cluster randomized control trial.Journal of Occupational Rehabilitation ,28, 252–264. doi: 10.1007/s10926-017-9712-3
+Patel, A. S., Farquharson, R., Carroll, D., Moore, A., Phillips, C. J., Taylor, R. S., & Barden, J.
+(2012). The impact and burden of chronic pain in the workplace: A qualitative systematic
+review. Pain Practice ,12, 578–589. doi: 10.1111/j.1533-2500.2012.00547
+Pato, U., Di Stefano, G., Fravi, N., Arnold, M., Curatolo, M., Radanov, B. P., …Sturzenegger, M.
+(2010). Comparison of randomized treatments for late whiplash. Neurology ,74, 1223 –1230.
+doi:10.1212/WNL.0b013e3181d8 ﬀe0
+Pereira, M., Comans, T., Sjøgaard, G., Straker, L., Melloh, M., O ’Leary, S., …Johnston, V. ( 2019).
+The impact of workplace ergonomics and neck-speci ﬁc exercise versus ergonomics and health
+promotion interventions on o ﬃce worker productivity: A cluster-randomized trial.
+Scandinavian Journal of Work, Environment &Health ,45,4 2–52. doi: 10.5271/sjweh.3760
+Philips, C. J. ( 2009). The cost and burden of chronic pain. Reviews in Pain ,3,2–5. doi: 10.1177/
+204946370900300102
+Pike, A., Hearn, L., & Williams, A. C. ( 2016). Eﬀectiveness of psychological interventions for
+chronic pain on health care use and work absence: Systematic review and meta-analysis.Pain,157, 777–785. doi: 10.1097/j.pain.0000000000000434
+Poulain, C., Kerneis, S., Rozenberg, S., Fautrel, B., Bourgeois, B., & Foltz, V. ( 2010). Long-term
+return to work after a functional restoration program for chronic low-back pain patients: A pro-spective study. European Spine Journal ,19, 1153 –1161. doi: 10.1007/s00586-010-1361-6
+Rantonen, J., Karppinen, J., Vehtari, A., Luoto, S., Viikari-Juntura, E., Hupli, M., …Taimela, S.
+(2018). Eﬀectiveness of three interventions for secondary prevention of low back pain in the
+occupational health setting - a randomised controlled trial with a natural course control.
+BMC Public Health ,18, 598. doi: 10.1186/s12889-018-5476-8
+Rantonen, J., Luoto, S., Vehtari, A., Hupli, M., Karppinen, J., Malmivaara, A., & Taimela, S. ( 2012).
+The e ﬀectiveness of two active interventions compared to self-care advice in employees with
+non-acute low back symptoms: A randomised, controlled trial with a 4-year follow-up in theoccupational health setting. Occupational and Environmental Medicine ,69,1 2–20. doi: 10.
+1136/oem.2009.054312
+Rantonen, J., Vehtari, A., Karppinen, J., Luoto, S., Viikari-Juntura, E., Hupli, M., …Taimela, S.
+(2014). Face-to-face information combined with a booklet versus a booklet alone for treatment
+of mild low-back pain: A randomized controlled trial. Scandinavian Journal of Work,
+Environment & Health ,40, 156–166. doi: 10.5271/sjweh.3398
+Rasmussen, C. D., Holtermann, A., Jørgensen, M. B., Orberg, A., Mortensen, O. S., & Sogaard, K.
+(2016). A multi-faceted workplace intervention targeting low back pain was e ﬀective for phys-
+ical work demands and maladaptive pain behaviours, but not for work ability and sickness
+absence: Stepped wedge cluster randomised trial. Scandinavian Journal of Public Health ,44,
+560–570. doi: 10.1177/1403494816653668
+Ree, E., Lie, S. A., Eriksen, H. R., Malterud, K., Indahl, A., Samdal, O., & Harris, A. ( 2016).
+Reduction in sick leave by a workplace educational low back pain intervention: A cluster ran-domized controlled trial. Scandinavian Journal of Public Health ,44, 571–579. doi: 10.1177/
+1403494816653854 PMID: 27307465
+Reme, S. E., Tveito, T. H., Harris, A., Lie, S. A., Grasdal, A., Indahl, A., …Eriksen, H. R. ( 2016).
+Cognitive interventions and nutritional supplements (The CINS trial): A randomized con-trolled, multicenter trial comparing a brief intervention with additional cognitive behavioraltherapy, seal oil, and soy oil for sick-listed low back pain patients. Spine ,41, 1557 –1564.
+doi:10.1097/BRS.0000000000001596
+Saltychev, M., Laimi, K., Pentti, J., Kivimaki, M., & Vahtera, J. ( 2014). Short- and long-term
+changes in perceived work ability after interdisciplinary rehabilitation of chronic musculoske-letal disorders: Prospective cohort study among 854 rehabilitants. Clinical Rehabilitation ,28,
+592–603. doi: 10.1177/0269215513513602
+Sander, L. B., Paganini, S., Terhorst, Y., Schlicker, S., Lin, J., Spanhel, K., …Baumeister, H. ( 2020).
+Eﬀectiveness of a guided web-based self-help intervention to prevent depression in patients withHEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 45
+persistent back pain: The PROD-BP Randomized clinical trial. JAMA Psychiatry , doi: 10.1001/
+jamapsychiatry.2020.1021
+Sandsjo, L., Larsman, P., Huis in ’t Veld, R. M., & Vollenbroek-Hutten, M. M. R. ( 2010). Clinical
+evaluation of a myofeedback-based teletreatment service applied in the workplace: A random-
+ized controlled trial. Journal of Telemedicine and Telecare ,16, 329–335. doi: 10.1258/jtt.2010.
+006007
+Schlicker, S., Baumeister, H., Buntrock, C., Sander, L., Paganini, S., Lin, J., …Ebert, D. D. ( 2020). A
+web- and mobile-based intervention for comorbid, recurrent depression in patients withchronic back pain on sick leave (Get.back): Pilot randomized controlled trial on feasibility,user satisfaction, and e ﬀectiveness. JMIR Mental Health ,7(4), e16398. doi: 10.2196/16398
+Sjöström, R., Asplund, R., & Alricsson, M. ( 2013). Evaluation of a multidisciplinary rehabilitation
+program with emphasis on musculoskeletal disorders: A 5-year follow-up. Work ,45, 175–182.
+doi:10.2147/JMDH.S32372
+Soler-Font, M., Ramada, J. M., van Zon, S. K. R., Almansa, J., Bültmann, U., Serra, C., &
+INTEVAL_Spain research team. ( 2019). Multifaceted intervention for the prevention and man-
+agement of musculoskeletal pain in nursing sta ﬀ: Results of a cluster randomized controlled
+trial. PLoS One ,14(11), e0225198. doi: 10.1371/journal.pone.0225198
+Sorensen, P. H., Bendix, T., Manniche, C., Korsholm, L., Lemvigh, D., & Indahl, A. ( 2010). An edu-
+cational approach based on a non-injury model or individual symptom-based physical trainingin chronic LBP. A pragmatic, randomized trial with one year follow-up. BMC Musculoskeletal
+Disorders ,11, 212. doi: 10.1186/1471-2474-11-212
+Staal, J. B., De Rijk, A., De Houkes, I., & Heijmans, M. W. ( 2013). Clinical interventions to reduce
+work disability in workers with musculoskeletal disorders or mental health problems. In P.Loesel, & J. R. Anema (Eds.), Handbook of work disability: Prevention and management (pp.
+317–333). New York: Springer Science and Business Media.
+Stapelfeldt, C. M., Christiansen, D. H., Jensen, O. K., Nielsen, C. V., Petersen, K. D., & Jensen, C.
+(2011). Subgroup analyses on return to work in sick-listed employees with low back pain in a
+randomised trial comparing brief and multidisciplinary intervention. BMC Musculoskeletal
+Disorders ,12, 112–110. doi: 10.1186/1471-2474-12-112
+Stein, K. F., & Miclescu, A. ( 2013). Eﬀectiveness of multidisciplinary rehabilitation treatment for
+patients with chronic pain in a primary health care unit. Scandinavian Journal of Pain ,4, 190–
+197. doi: 10.1016/j.sjpain.2013.06.003
+Streibelt, M., & Bethge, M. ( 2014). Eﬀects of intensi ﬁed work-related multidisciplinary rehabilita-
+tion on occupational participation: A randomized-controlled trial in patients with chronic mus-culoskeletal disorders. International Journal of Rehabilitation Research ,37,6 1–66. doi: 10.1097/
+MRR.0000000000000031
+Sullivan, M. J., & Adams, H. ( 2010). Psychosocial treatment techniques to augment the impact of
+physiotherapy interventions for low back pain. Physiotherapy Canada ,62, 180–189. doi: 10.
+3138/physio.62.3.180
+Sullivan, M. J. L., Adams, H., & Ellis, T. ( 2012). Targeting catastrophic thinking to promote return
+to work in individuals with ﬁbromyalgia. Journal of Cognitive Psychotherapy ,26, 130–142.
+doi:10.1891/0889-8391.26.2.130
+Sullivan, M. J., & Simon, G. ( 2012). A telephonic intervention for promoting occupational re-inte-
+gration in work-disabled individuals with musculoskeletal pain. Translational Behavioral
+Medicine ,2, 149–158. doi: 10.1007/s13142-012-0119-6
+Tan, H. S. K., Yeo, D. S. C., Giam, J. Y. T., Cheong, F. W. F., & Chan, K. F. ( 2016). A randomised
+controlled trial of a return-to-work Coordinator model of care in a general hospital to facilitatereturn to work of injured workers. Work ,54, 209–222. doi: 10.3233/WOR-162288
+Tavares Figueiredo, I., Dupeyron, A., Tran, B., Du ﬂos, C., Julia, M., Herisson, C., & Coudeyre, E.
+(2016). Educational self-care objectives within a funstional spine restoration program.
+Retrospective study of 104 patients. Annals of Physical and Rehabilitation Medicine ,59, 289–
+293. doi: 10.1016/j.rehab.2016.03.006 PMID: 27157543
+van Vilsteren, M., Boot, C. R. L., Twisk, J. W. R., Steenbeek, R., Voskuyl, A. E., van Schaardenburg,
+D., & Anema, J. R. ( 2017a ). One year e ﬀects of a workplace integrated care intervention for46 J. L. MCPARLAND ET AL.
+workers with rheumatoid arthritis: Results of a randomized controlled trial. Journal of
+Occupational Rehabilitation ,27, 128–136. doi: 10.1007/s10926-016-9639-0
+van Vilsteren, M., Boot, C. R. L., Twisk, J. W. R., van Schaardenburg, D., Steenbeek, R., Voskuyl, A.
+E., & Anema, J. R. ( 2017b ). Eﬀectiveness of an integrated care intervention on supervisor
+support and work functioning of workers with rheumatoid arthritis. Disability and
+Rehabilitation ,39, 354–362. doi: 10.3109/09638288.2016.1145257
+Vindholmen, S., Høigaard, R., & Haugen, T. ( 2016). Does mindfulness a ﬀect participants ’response
+to a vocational rehabilitation program. Health Psychology and Behavioral Medicine ,4,9 1–113.
+doi:10.1080/21642850.2016.1179120
+Wainwright, E., Wainwright, D., Coghill, N., Walsh, J., & Perry, R. ( 2019). Resilience and return-
+to-work pain interventions: Systematic review. Occupational Medicine ,69, 163–176. doi: 10.
+1093/occmed/kqz012
+Werner, E. L., Storheim, K., Lochting, I., Wislo ﬀ, T., & Grotle, M. ( 2016). Cognitive patient edu-
+cation for low back pain in primary care: A cluster randomized controlled trial and cost-e ﬀec-
+tiveness analysis. Spine ,41, 455–462. doi: 10.1097/BRS.0000000000001268
+Westman, A., Linton, S. J., Ohrvik, J., Wahlen, P., Theorell, T., & Leppert, J. ( 2010). Controlled 3-
+year follow-up of a multidisciplinary pain rehabilitation program in primary health care.Disability and Rehabilitation ,32, 307–316. doi: 10.3109/09638280903095924
+Wilkie, R., & Pransky, G. ( 2012). Improving work participation for adults with musculoskeletal
+conditions. Best Practice & Research Clinical Rheumatology ,26, 733–742. doi: 10.1016/j.berh.
+2012.08.004HEALTH PSYCHOLOGY AND B EHAVIORAL MEDICINE 47

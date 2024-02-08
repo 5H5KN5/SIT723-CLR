@@ -1,0 +1,588 @@
+RESEARCH Open Access
+Use of RE-AIM to develop a multi-media
+facilitation tool for the patient-centered medicalhome
+Russell E Glasgow1*, Perry Dickinson2, Lawrence Fisher3, Steve Christiansen4, Deborah J Toobert5, Bruce G Bender6,
+L Miriam Dickinson2, Bonnie Jortberg2and Paul A Estabrooks7
+Abstract
+Background: Much has been written about how the medical home model can enhance patient-centeredness,
+care continuity, and follow-up, but few comprehensive aids or resources exist to help practices accomplish these
+aims. The complexity of primary care can overwhelm those concerned with quality improvement.
+Methods: The RE-AIM planning and evaluation model was used to dev elop a multimedia, multiple-health behavior tool
+with psychosocial assessment and feedba ck features to facilitate and guide patie nt-centered communication, care, and
+follow-up related to prevention and self-management of the m o s tc o m m o na d u l tc h r o n i ci l l n e s s e ss e e ni np r i m a r yc a r e .
+Results: The Connection to Health Patient Self-Management System, a web-based patient assessment and support
+resource, was developed using the RE-AIM factors of reach ( e.g., allowing input and output via choice of different
+modalities), effectiveness ( e.g., using evidence-based intervention strategies), adoption ( e.g., assistance in integrating
+the system into practice workflows and permitting customization of the website and feedback materials by
+practice teams), implementation ( e.g., identifying and targeting actionable priority behavioral and psychosocial
+issues for patients and teams), and maintenance/sustainability ( e.g., integration with current National Committee for
+Quality Assurance recommendations and clinical pathways of care). Connection to Health can work on a variety of
+input and output platforms, and assesses and provides feedback on multiple health behaviors and multiple chronic
+conditions frequently managed in adult primary care. As such, it should help to make patient-healthcare teamencounters more informed and patient-centered. Formative research with clinicians indicated that the programaddressed a number of practical concerns and they appreciated the flexibility and how the Connection to Health
+program could be customized to their office.
+Conclusions: This primary care practice tool based on an implementation science model has the potential to
+guide patients to more healthful behaviors and improved self-management of chronic conditions, while fostering
+effective and efficient communication between patients and their healthcare team. RE-AIM and similar models canhelp clinicians and media developers create practical products more likely to be widely adopted, feasible in busymedical practices, and able to produce public health impact.
+Background
+The Institute of Medicine [1] outlined six criteria as the
+basis for preventive and chronic disease care: patientcentered, effective, safe, timely, efficient, and equitable.One way of achieving these aims in primary care is byimplementing the core criteria of the Patient-CenteredMedical Home (PCMH), which has gained considerabletraction as an important part of healthcare reform [2-4].
+Achieving the aims of the PCMH, however, can be
+challenging due to the complexity and multiple compet-ing demands on primary care. The PCMH modelincludes an emphasis on patient self-management sup-
+port strategies that provide patients with the informa-
+tion, tools, and support they need to adopt healthy
+* Correspondence: glasgowre@mail.nih.gov
+1Division of Cancer Control and Population Sciences, National Cancer
+Institute, 6130 Executive Blvd., Room 6144, Rockville, MD 20852, USA
+Full list of author information is available at the end of the articleGlasgow et al .Implementation Science 2011, 6:118
+http://www.implementationscience.com/content/6/1/118
+Implementation
+Science
+© 2011 Glasgow et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited.
+behaviors and take care of their health problems in their
+daily lives. However, primary care clinicians and staffoften lack training in identifying and addressing healthbehavior and self-manageme nt support issues. Stange et
+al.[ 5 ]c o n c l u d e dt h a tt h ea v e r a g ea m o u n to ft i m et h a tprimary care physicians can devote to prevention in a
+typical visit is one minute. Data documenting the routine
+adoption of these changes into primary care practicehave been disappointing [6-17]; a large chasm remainsbetween what is possible and what has been achieved [1].To address this challenge, we describe an approach basedon interactive behavior change technology (IBCT) as avehicle for facilitating the adoption of PCMH strategiesinto primary care. The reach, effectiveness, adoption,
+implementation, maintenance /sustainability (RE-AIM)
+model [18,19] was used to develop the IBCT program to
+enhance its chances of successful adoption, implementa-tion, and sustainability in primary care.
+Addressing primary care challenges
+IBCT can provide efficient methods for achieving thegoals of the PCMH. In a revi ew of the literature, mem-
+bers of our team concluded that ‘if constructed to draw
+on the strengths of primary care and to use patient-cen-tered principles, IBCT can inform, leverage, and supportpatient-provider communication and enhance behaviorchange [20]. ’Integration of self-management support, a
+major component of the PCMH, into primary care prac-tices can be facilitated through an easy-to-use, time-effi-cient IBCT system that addresses the most important,
+behavioral, and psychosocial challenges, especially if
+focused on the needs of patients with the most commonchronic conditions.
+The major goals of IBCT, which fit well with PCMH,
+are to: detect and then monitor patient needs for self-management support over time; prompt clinician/patientdiscussions to engage patients in behavior change; estab-lish individualized priorities for identified problems; pro-
+vide guidance and options for intervention at the point
+of care; and monitor success over time and prompt fol-low-ups [20,21]. However, to our knowledge no compre-hensive system exists that includes prevention andmultiple chronic disease monitoring and interventionthat is based on practical, well-documented measuresand directly tied to actionable resources and recommen-dations for clinicians and patients [22-32]. To date,
+IBCTs have not been widely adopted in real world pri-
+mary care settings. We posit that one of the reasons forthis may be that implementation science concerns andapproaches like RE-AIM have not been integrated intothe development and testing of the majority of IBCTs.In this article, we summarize key points of the RE-AIMimplementation science model, and then describe how itwas used to develop an IBCT for the PCMH [33,34].The purposes of this article are to: describe the char-
+acteristics and design of the IBCT-based Connection to
+Health self-management suppo rt system to support the
+PCMH; illustrate the use of the RE-AIM model to guidedevelopment of Connection to Health ; present qualitative
+results from a focus group discussion of Connection to
+Health with clinicians and sta ff members; and discuss
+practical implications and directions for future researchand practice.
+RE-AIM planning and evaluation framework
+RE-AIM was developed to help health planners and eva-luators to attend to specific implementation factorsessential for success in the real and complex world of
+healthcare and community settings [18,34]. It is an acro-
+nym that focuses attention on five key issues related tosuccessful impact and can help design interventions thatcan:
+reach a broad and representative proportion of the
+target population; effectively lead to positive changes in
+patient self-management an d quality of life that are
+robust across diverse groups; be adopted across a broad
+and representative proportion of settings; lead to consis-
+tent implementation of strategies at a reasonable cost;
+and lead to maintained self-management in patients and
+sustained delivery within primary care clinics [19,35,36].
+R E - A I Mc a nb eav a l u a b l ep l a n n i n gt o o lf o ri m p l e -
+menting self-management support and IBCT programs,
+especially considering the In stitute of Medicine aims to
+provide efficient, patient-centered, equitable care andreduce health disparities. For example, a focus on the
+representativeness ( i.e., reach) of those who engage with
+the technology and the robustness of the program ’s
+effect is critical. With this in mind, developers of an
+IBCT for self-management support should design fea-tures to ensure that appropriate audio and visual aidsare in place to assist all patients, particularly low lit-eracy, minority, less acculturated, older, poorer, or lesseducated patients who may feel overwhelmed with the
+healthcare system and confused by complex forms and
+procedures.
+A focus on the RE-AIM factors of adoption, imple-
+mentation, and sustainability of an IBCT self-manage-ment support system also addresses the larger issue ofactionable information. With primary care already
+stretched beyond capacity to deal with care recommen-dations [5,37,38], adding additional assessment informa-
+tion will not solve the p roblem. Any additional
+information will need to be customized in ways that are
+compatible and integrated with practice flow, styles,priorities, and preferences t o yield feasible, actionable
+outcomes. RE-AIM has previously been successfullyapplied to evaluate the impact of interactive technologyapproaches and clinic changes, providing an assessmentof potential public health impact [20,39,40].Glasgow et al .Implementation Science 2011, 6:118
+http://www.implementationscience.com/content/6/1/118Page 2 of 11
+Complexity
+Many patients with chronic conditions experience major
+barriers to change related to ongoing co-morbid depres-sion or disease-related distress, distinct conditions withdifferent implications for care [41,42]. For example,depression is about twice as prevalent among patientswith diabetes compared to community samples, andongoing distress related to managing a demandingchronic disease like diabetes has an average prevalence
+rate of 18% to 35% [43]. Often, clinicians make recom-
+mendations for patients, only to see them not enactedbecause of feelings of hopelessness or being over-whelmed with the ongoing demands of chronic diseasemanagement. The delivery of actionable informationmust be tailored to the patient ’s capacity for change and
+the presence of emotional and d istress-related barriers
+[41-43].
+Characteristics of the Connection to Health system
+The Connection to Health Patient Self-Management Sys-
+tem is designed to deliver an array of tools to assistpatients and providers in the assessment, monitoring,and management of a variety of health behaviors, psy-chosocial concerns, and chronic disease problems. Theautomated, web-based system uses engaging graphics,
+multimedia, and educational design techniques, and
+database-driven responses to provide three primarymodules to address patient interaction and self-manage-ment –ongoing patient assessment, delivering summary
+self-management support reports, and providing recom-mendations for patients and healthcare teams. Theassessment module uses brief evidence-based screeningscales to assess behaviors (including diet, tobacco use,
+risky drinking, physical acti vity, and medication adher-
+ence) and chronic conditions (including obesity, dia-
+betes, coronary heart disease, hypertension,
+hyperlipidemia, asthma, st ress, and depression). The
+reporting module offers summary reports to both clini-cians and patients that include assessment results, areasof concern, discussion options, and patient trends overtime. The recommendations module provides clinician
+and patient with patient-tailored and prioritized sugges-
+tions for action, including development of goals andaction plans in a variety of h ealth behavior and psycho-
+social domains. Clinics or practices that adopt the sys-tem can customize the Connection to Health website
+through an administrative p ortal to reflect their local
+identity and resources (Figure 1). The system is adapta-ble for integration with electronic health records (EHRs)
+so that the results can be sha red easily across clinical
+team members, and patient self-management support
+status can be monitored over time.Welcome
+1. The clinic uses the administrative portal to enterinitial patient contact information into the Connection
+to Health database. The system then sends an e-mail or
+letter to the patient with an embedded link to thesecure, Health Insurance Po rtability and Accountability
+Act (HIPAA)-compliant website. The patient clicks onthe link and is presented with a multimedia (audio and/or video) welcome message designed to engage the user
+and encourage participation, including a message from
+the practice to indicate that the program is part of thecare provided by their clinician.
+Assessment
+Prior to each regularly scheduled chronic disease or pre-ventive healthcare office visit, patients are prompted tocomplete a brief online assessment through the Connec-
+tion to Health system. This assessment can be con-
+ducted through a patient portal to the website through ahome computer, practice computer kiosk or pen tabletcomputer, or a paper-and-pencil application that can bescanned into the system.
+Reporting
+Once the patient has navigated through and completed
+the assessment module, the Connection to Health sys-
+tem uses validated algorithms to quickly score the
+assessments and display reports for both the patientand provider. The one-page patient report (example inFigure 2) can be viewed immediately through thepatient portal or printed out hardcopy. It displaysassessment results (including a history of recent assess-ments), areas of medical concern, and possible treat-
+ment options to discuss with the healthcare team. If
+the Connection to Health website is integrated with an
+EHR or laboratory reporting system, the patient reportcan also display selected, relevant laboratory results.The patient is encouraged to review the report, addher own notes or comments, and then have it sent orbring it to the next office visit or discussion with theirclinician.
+The physician report (Figure 3) contains much of the
+same information, but includes more details related topatient complexity, cardiovascular risk, health literacyand numeracy, and guideline concordant action recom-mendations. The goal of both reports is to provide animmediate, straightforward understanding of thepatient ’s current health status; the self-management,
+psychosocial, and biologic areas of greatest patient con-
+cern; a prioritized list of items to discuss at the office
+visit; and an actionable set of self-management optionsand recommendations for flagged issues.Glasgow et al .Implementation Science 2011, 6:118
+http://www.implementationscience.com/content/6/1/118Page 3 of 11
+Recommendations
+Tailored recommendations for action, based on the
+results of the assessments, are included in the patient
+and provider reports. For example, if the patient scored
+low in physical activity and consumed many high fat
+foods and had a high low-density lipoprotein (LDL)
+reading, the recommendati ons might include tips for
+beginning a conversation about eating patterns and a
+Connection to Health action plan for healthful eating
+and physical activity. The primary care team can review
+the patient and physician reports prior to the office visit,
+providing the primary care p hysician (PCP) with a con-
+cise set of assessment results and treatment options and
+tips for guiding the discussion with the patient.
+The Connection to Health action plan module, available
+through the patient portal, provides a strategy for patient
+self-management that can be selected for use with patients
+who would respond to an interactive web-based action
+planning program and/or in situations where the practicedoes not have the time or appropriate staffing to complete
+the action planning process. This area of the website is
+derived from our series of successful interventions based
+upon problem-solving theory [44,45]. This section offers
+engaging multimedia modules that guide the user through
+an action planning process for selected key health beha-
+viors, including diet, exercise, medication adherence,
+smoking cessation, alcohol use, and depression/distress.
+These interactive modules fac ilitate patient selection of
+goals in any of these areas, and identification of benefits,
+barriers to success, and strategies for overcoming these
+barriers. The Connection to Health action plan module
+stores patient action plans and provides ongoing access to
+the plans by the healthcare team and the patient for self-
+monitoring and follow-up. Alternatively, the healthcare
+team may decide to provide intervention resources in per-
+son in the clinic or to refer the patient to a community
+resource ( e.g., YMCA programs, voluntary associations,
+telephone help lines, or quit smoking cessation resources).
+Figure 1 Connection To Health patient self-management support system .Glasgow et al .Implementation Science 2011, 6:118
+http://www.implementationscience.com/content/6/1/118Page 4 of 11
+Follow-up
+The Connection to Health System provides ongoing
+monitoring and prompts follow-up by both the patient
+and the practitioner. The self-monitoring component
+allows the patient to track their progress over time.
+S h o r t l yb e f o r et h ep a t i e n ti ss cheduled for another visit
+to the clinic or practice, he or she can be prompted tocomplete another set of brief assessments in advance of
+that visit and to review their history and progress.
+Current Connection to Health measures
+In choosing areas for screening and more in-depth
+assessment, we selected measures that address prevalent
+conditions or problems th at have large public health
+Figure 2 Patient report .Glasgow et al .Implementation Science 2011, 6:118
+http://www.implementationscience.com/content/6/1/118Page 5 of 11
+impact, considered participant burden, and lead to
+actionable outcomes. Congruent with the recent policy
+recommendation from the Society of Behavioral Medi-
+cine http://www.sbm.org/policy/patient-reported_mea-
+sures.pdf, we emphasized brief scales that were reliable,
+sensitive to change, appropriate for repeated administra-
+tion, and age appropriate [46]. As can be seen in Figures
+1 and 2, Connection to Health currently includes assess-
+ments for depression, disease- related distress, medica-
+tion adherence, smoking, physical activity, risky
+drinking, eating patterns, current stressors, and health
+literacy and numeracy. In addition, questions related to
+the patient ’s chronic diseases assess aspects of their
+management of those condi tions. Additional file 1,
+Appendix 1 provides a brief summary of each instru-
+ment included in the Connection to Health assessment
+package.Use of RE-AIM for Connection to Health development
+We used the RE-AIM model [19,33,35] in developing
+the Connection to Health tool, by applying it to the
+goals of the PCMH. Table 1 summarizes how we
+addressed each of the RE-AIM elements.
+Reach
+Connection to Health is designed to have high reach
+through several design features, including multiple mod-
+alities for data input and output. Patients can be pro-
+vided with their choice of entry modality, and systems
+can be created to ensure that the entire patient panel of
+the practice is screened. Future iterations of Connection
+to Health will be designed with the capability to also
+accept data from automated telephone calls, cell phone
+data entry, a personal health record or EHR, and future
+data entry modalities.
+Figure 3 Physician report .Glasgow et al .Implementation Science 2011, 6:118
+http://www.implementationscience.com/content/6/1/118Page 6 of 11
+Effectiveness
+Effectiveness is enhanced in multiple ways: use of practi-
+cal, validated scales and measures [46-49]; links to evi-dence-based electronic and community resources; andpatient choice at multiple steps in the process [50].Patient choice has been shown to be related to enhanced
+perceptions of autonomy support and improved out-
+comes [50]. We also use expert system tailoring [51,52]to select tailored interventi on strategies based upon key
+behavioral and psychosocial factors. The system caneasily be enhanced or modified overtime by adding inadditional relevant local self-management supportresources or other evidence-based links or information.
+Adoption
+Connection to Health offers practices numerous incen-
+tives for adoption, providing techniques and options toassist practices in goals related to enhancing patient-cen-teredness, a primary goal of PCMH. Assessments can becompleted before or after office visits, thus not takingany office time or interfering with patient flow. Itaddresses psychosocial issues such as distress and depres-
+sion/anxiety, includes an efficient method for helping
+patients to prioritize their goals and questions, helpspatients attend office visits well-prepared and engaged,
+and by doing so, saves practices time and increases effi-ciency. The use of Connection to Health also could assist
+the practice in meeting the standards for recognition as aPCMH and improve quality measures.
+Implementation
+Being automated, Connection to Health ensures consis-
+tent delivery, accurate scoring, and immediate reportingof results. The administrative report feature enhancesimplementation by providing regular patient and panel-level reports at intervals specified by the practice anddocuments improvement over time.
+Maintenance
+Helping practices achieve, and be reimbursed for, higherperformance on PCMH and quality measures shouldenhance maintenance. Maintenance at the patient levelis enhanced by increased goal accomplishment, regularfollow-up and feedback, and self-monitoring of individu-ally targeted behaviors [53-55].
+Initial provider reactions to Connection to Health
+The initial version of the Connection to Health Patient
+self-management support was presented to a focusgroup of clinicians and staff from 10 family medicinepractices working on implementation of the PCMHmodel. Field notes were taken by the two facilitators,and the participants also provided written comments
+using a structured format.
+Feedback was very positive, providing important input
+regarding the assessment, t he practice reports, and the
+potential implementation of the system in their prac-
+tices. Comments highlighted the following issues:
+1. Clinicians particular ly liked that this system is
+designed to assist in focusing discussions of self-
+management issues between clinicians and patients
+and not to be a stand-alone system. They indicatedthat if the system was automated outside the prac-tice, they believed that it would not be successfuldue to lack of reinforcement by the primary careclinicians.2. Clinicians could be resistant because the systemmight cause them to feel separated from their
+patients. However, if the system is well-integrated
+within the practice, it will need to be done is a man-ner that minimizes the time commitment.3. The flexibility and ability to customize the Con-
+nection to Health to fit needs, patient flows, and pre-
+ferences of local clinics should aid adoption.Practices will have varying personnel and workflowthat will necessitate diffe rent strategies for imple-
+menting the Connection to Health system at different
+points in patient flow and using different modalitiesin different practices.4. Clinicians that have an EHR would like a seamlessinterface of the Connection to Health system withTable 1 Use of RE-AIM to develop Connection to Health PCMH tool
+RE-AIM
+dimensionWays dimension was used to enhance impact
+Reach Multiple input modalities; patient choice, panel report so can target those not participating
+Effectiveness Practical, validated, actionable measures, evidence-based action suggestions. Patient choice to enhance autonomy. Expert system
+tailoring algorithms. Use of 5 A’ s, goal setting, and action planning problem solving.
+Adoption Specifically designed to the support PCMH. Multiple options for customization of input, output, content, and recommended
+options. Panel reports for population management. Addresses HEDIS-related issues often missed.
+Implementation Focus on efficiency, prompts to patient and healthcare team, done prior to visit, self-monitoring elements, engaging interface.
+Options for high and low eHealth literacy.
+Maintenance Setting Level: Feedback on HEDIS and PCMH criteria. Should enhance satisfaction and make visits more efficient and productive.
+Patient Level: Should enhance continuity, patient-provider communication and satisfaction.Glasgow et al .Implementation Science 2011, 6:118
+http://www.implementationscience.com/content/6/1/118Page 7 of 11
+their system, while rec ognizing that will be a
+challenge.
+5. Clinicians wanted to be shown how Connection to
+Health can be time-efficient
+Discussion
+Most self-management support programs address a sin-gle disease or single behavior, and few are designed forprimary care practices [51,56]. In contrast, Connection
+to Health has broad applicability across diseases, preven-
+tion, multiple behaviors, and varied primary care set-tings for a wide range of adult patients. It can beaccessed through several modalities and is appropriate
+for patients with diverse socioeconomic and educational
+backgrounds. It is designed to be integrated into pri-mary care, creating efficiency while prompting informedprovider-patient communication. Connection to Health
+should support the PCMH, create more informed andefficient office visits, and prompt and promote critical
+but often not completed follow-up support.
+The primary purposes of this paper were to describe
+the Connection to Health system and how the RE-AIM
+framework was used proactively to develop it. Althoughcontrolled and comparative effectiveness studies areneeded to determine the ultimate impact of theConnection to Health , use of implementation science
+models such as RE-AIM or other dissemination frame-works at the design stage [57,58] should greatly facilitategreater uptake, implementation success, and long-termresults. The Connection to Health is intentionally a work
+in progress, with iterative improvements to be made in
+the selection of measurement items and domains,
+patient and provider interfaces, and data input and out-put modalities.
+Connection to Health is to our knowledge the only
+tool for addressing a wide variety of prevalent beha-vioral, psychosocial, and disease management problemsmanaged in primary care. Time-efficient tools such asConnection to Health can help both patients and health-
+care team members come to interactions more informedand prepared. This, in turn, should improve both out-comes and satisfaction [21,25 ,26,59]. Finally, the panel
+management features of the Connection to Health
+should facilitate continuit y of care and consistent fol-
+low-up, which is the element of care recommendationsleast often accomplished [60,61].
+Potential limitatio ns include that the Connection to
+Health system is likely only appropriate for adult primary
+care patients, and not for children and adolescents (differ-ent measures would be needed). Currently, it is availableonly in English. Although computer administered,
+Table 2 Key RE-AIM Publications by Implementation Topic
+Issue or Topic RE-AIM Resource
+Original Source Glasgow RE, Vogt TM, Boles SM. Evaluating the public health impact of health promotion interventions: The RE-AIM
+framework. Am J Public Health 1999;89:1322-7 [18].
+Use in Planning Klesges LM, Estabrooks PA, Glasgow RE, Dzewaltowski D. Beginning with the application in mind: Designing and
+planning health behavior change interventions to enhance dissemination. Ann Behav Med 2005;29((Suppl)):66S-75S [58].
+Prevention Application Glasgow RE, Vogt TM, Boles SM. Evaluating the public health impact of health promotion interventions: The RE-AIM
+framework. Am J Public Health 1999;89:1322-7 [18].
+Treatment Application Glasgow RE, Nutting PA, King DK, Nelson CC, Cutter G, Gaglio B, Rahm AK, Whitesides H. Randomized effectiveness trial
+of a computer-assisted intervention to improve diabetes care. Diabetes Care 2005 January;28(1):33-9 [62].
+RE-AIM Measures Glasgow RE, Nelson CC, Strycker LA, King DK. Using RE-AIM metrics to evaluate diabetes self-management support
+interventions. Am J Prev Med 2006;30(1):67-73 [63].
+Primary Care Application Glasgow RE. RE-AIMing research for application: Ways to improve evidence for family practice. Journal of the American
+Board of Family Practice 2006;19(1):11-9 [36].
+Health TechnologyApplicationsGlasgow RE, McKay HG, Piette JD, Reynolds KD. The RE-AIM framework for evaluating interventions: What can it tell usabout approaches to chronic illness management? Patient Educ Couns 2001;44:119-27 [35].
+Glasgow RE, Bull SS, Piette JD, Steiner J. Interactive behavior change technology: A partial solution to the competing
+demands of primary care. Am J Prev Med 2004;27(25):80-7 [20].
+Policy Application Jilcott S, Ammerman C, Sommers J, Glasgow RE. Applying the RE-AIM framework to assess the public health impact of
+policy change. Ann Behav Med 2007;34(2):105-14 [64].
+Community Application Estabrooks PA, Bradshaw M, Dzewaltowski DA, Smith-Ray RL. Determining the impact of Walk Kansas: applying a team-
+building approach to community physical activity promotion. Ann Behav Med 2008 August;36(1):1-12 [65].
+Environmental Change King DK, Glasgow RE, Leeman-Castillo B. RE-AIMing RE-AIM: Using the model to plan, implement, evaluate, and report the
+impact of environmental change approaches to enhance population health. Am J Public Health. 2010: 2076-2084 [66].
+Tools, Quizzes, Training,
+etc.http://www.re-aim.orgRE-AIM online training at http://www.trt.org
+Overall SummaryResourcesGaglio B, Glasgow RE. Evaluation Approaches for Dissemination and Implementation Research. In: Brownson R, editor.Dissemination and Implementation Research. In press ed. In press: 2011 [34].
+http://www.re-aim.orgGlasgow et al .Implementation Science 2011, 6:118
+http://www.implementationscience.com/content/6/1/118Page 8 of 11
+including automated skip patterns and individualized tai-
+loring, it does not employ item response theory or formalcomputer-assisted testing procedures http://www.nihpro-mis.org/default.aspx. It is also possible that with repeateduse over time that patients would begin to find the assess-ment process burdensome, and a Connection to Health
+quick-scan form may need to be developed for prevalent,well-defined subgroups of patients ( e.g., overweight dia-
+betes patients). The degree to which active follow-up witha patient within the PCMH model could overcome thislimitation is an area ripe for investigation. Finally, althoughwe found the RE-AIM model useful for planning anddeveloping Connection to Health , other implementation
+science models could also have been used and RE-AIM
+does not explicitly address some issues such as stakeholder
+engagement. Readers interested in applying RE-AIM forprogram development and planning purposes should findthe resources listed in Table 2 helpful for gaining a morecomplete understanding of the model and its implications.
+Future research should evaluate and document the
+actual use, time efficiency, multifaceted impact, reach orpercent and characteristics of patients who can be
+assessed with it, and its act ual implementation in pri-
+mary care, using RE-AIM [34] or other implementation
+science models. In particular, comparative effectivenessresearch studies are indicated to determine, for example,if the Connection to Health is more cost-effective than
+alternatives, such as simple paper and pencil assess-ments followed by more traditional face-to-face inter-ventions. Practical implications are that implementation
+science models, such as RE-AIM, should be employed
+throughout the design process to maximize impact.
+Funding
+The Colorado Health Foundation and Robert WoodJohnson Foundation provided funding that supported aportion of the planning and development of the Connec-
+tion to Health Patient Self-management System.
+Disclosure
+Dr. Glasgow is now employed at the National CancerInstitute (NCI). This work was completed before hetransitioned to the NCI and the opinions expressed donot necessarily reflect those of the NCI.
+Additional material
+Additional file 1: Appendix 1. Measures: Scales chosen, rationale for
+selection, actionable results .
+Author details
+1Division of Cancer Control and Population Sciences, National Cancer
+Institute, 6130 Executive Blvd., Room 6144, Rockville, MD 20852, USA.2University of Colorado School of Medicine, 12631 East 17thAvenue, Aurora,
+CO 80045, USA.3Department of Family and Community Medicine, Diabetes
+Center, University of California, San Francisco, Parnassus Heights, Box 0900,500 Parnassus Avenue, MU3E, San Francisco, CA 94143-0900, USA.
+4Intervision Media, 261 E.12thAvenue, Eugene, OR 97401,USA.5Oregon
+Research Institute, 1715 Franklin Blvd, Eugene, OR 97403, USA.6Division of
+Pediatric Behavioral Health, National Jewish Health, 1400 Jackson Street,
+Denver, CO 80206, USA.7Virginia Tech, Department of Human Nutrition,
+Foods and Exercise, VT Riverside, 1 Riverside Circle, SW Roanoke, VA 24016,
+USA.
+Authors ’contributions
+All authors have made substantial contributions to conception and design,
+or acquisition of data, or analysis and interpretation of data, have been
+involved in drafting the manuscript or revising it critically for importantintellectual content, and have given final approval of the version to bepublished.
+Competing interests
+All authors declare no competing interests. The Connection to Health Patient
+Self-management Support System is intended to provide a platform toimprove prevention and self-management quality within healthcare or otherhealth promoting entities. Our intent is to make any programs developedfrom our research in this area freely accessible to health delivery systems toallow for broad dissemination and use. Any proceeds secured fromConnection to Health self-management support will be used for continued
+research and development and will not be used to generate individualincome.
+Received: 16 May 2011 Accepted: 21 October 2011
+Published: 21 October 2011
+References
+1. Institute of Medicine, Committee on Quality Health Care in America:
+Crossing the quality chasm: A new health system for the 21st century
+Washington, DC: National Academies Press; 2003.
+2. Grundy P, Hagan KR, Hansen JC, Grumbach K: The multi-stakeholder
+movement for primary care renewal and reform. Health Aff (Millwood)
+2010, 29(5) :791-8.
+3. Bodenheimer t, Pham HH: Primary care: current problems and proposed
+solutions. Health Aff (Millwood) 2010, 29(5) :799-805.
+4. Reid RJ, Coleman K, Johnson EA, Fishman PA, Hsu C, Soman MP,
+Trescott CE, Erikson M, Larson EB: The group health medical home at year
+two: cost savings, higher patient satisfaction, and less burnout forproviders. Health Aff (Millwood) 2010, 29(5) :835-43.
+5. Stange KC, Woolf SH, Gjeltema K: One minute for prevention: The power
+of leveraging to fulfill the promise of health behavior counseling. Am J
+Prev Med 2002, 22:320-3.
+6. Baron RJ, Desnouee E: Practice profile. The struggle to support patients ’
+efforts to change their unhealthy behavior. Health Aff (Millwood) 2010,
+29(5) :953-5.
+7. Beckles GL, Engelgau MM, Narayan KM, Herman WH, Aubert RE,
+Williamson DF: Population-based assessment of the level of care among
+adults with diabetes in the U.S. Diabetes Care 1998, 21(9) :1432-8.
+8. Saaddine JB, Engelgau MM, Beckles GL, Gregg EW, Thompson TJ,
+Narayan KM: A diabetes report card for the United States: Quality of care
+in the 1990s. Ann Intern Med 2002, 136(8) :565-74.
+9. Greenfield S, Kaplan SH, Kahn R, Ninomiya J, Griffith JL: Profiling care
+provided by different groups of physicians: effects of patient case-mix(bias) and physician-level clustering on quality assessment results. Ann
+Intern Med 2002, 136(2) :111-21.
+10. Porterfield DS, Kinsinger L: Quality of care for uninsured patients with
+diabetes in a rural area. Diabetes Care 2002, 25(2) :319-23.
+11. Srinivasan M, Przybylski M, Swigonski N: The Oregon Health Plan:
+predictors of office-based diabetic quality of care. Diabetes Care 2001,
+24(2) :262-7.
+12. Acton KJ, Shields R, Rith-Najarian S, Tolbert B, Kelly J, Moore K, Valdez L,
+Skipper B, Gohdes D: Applying the diabetes quality improvement project
+indicators in the Indian Health Service primary care setting. Diabetes Care
+2001, 24(1) :22-6.Glasgow et al .Implementation Science 2011, 6:118
+http://www.implementationscience.com/content/6/1/118Page 9 of 11
+13. Chin MH, Zhang JX, Merrell K: Diabetes in the African-American Medicare
+population. Diabetes Care 1998, 21(7) :1090-5.
+14. Davidson MB: Diabetes care in health maintenance organisation and fee-
+for-service settings. Disease Management and Health Outcomes 1997,
+2:189-97.
+15. Davidson MB: The case for ‘outsourcing ’diabetes care. Diabetes Care
+2003, 26:1608-12.
+16. Suwattee P, Lynch JC, Pendergrass ML: Quality of care for diabetic
+patients in a large urban public hospital. Diabetes Care 2003, 26(3) :563-8.
+17. Bell RA, Camacho F, Goonan K, Duren-Winfield V, Anderson RT, Konen JC,
+Goff DC Jr: Quality of diabetes care among low-income patients in North
+Carolina. Am J Prev Med 2001, 21(2) :124-31.
+18. Glasgow RE, Vogt TM, Boles SM: Evaluating the public health impact of
+health promotion interventions: The RE-AIM framework. Am J Public
+Health 1999, 89:1322-7, PMID 10474547.
+19. Gaglio B, Glasgow RE: Evaluation Approaches for Dissemination and
+Implementation Research. InDissemination and Implementation Research
+Edited by: Brownson R 2010.
+20. Glasgow RE, Bull SS, Piette JD, Steiner J: Interactive behavior change
+technology: A partial solution to the competing demands of primary
+care. Am J Prev Med 2004, 27(25) :80-7.
+21. Glasgow RE: Interactive media for diabetes self-management: Issues in
+maximizing public health impact. Medical Decision Making 2010,
+30(6) :745-58.
+22. Glasgow RE, Hiss RG, Anderson RM, Friedman NM, Hayward RA,
+Marrero DG, Taylor CB, Vinicor F: Report of Health Care Delivery Work
+Group: Behavioral research related to the establishment of a chronicdisease model for diabetes care. Diabetes Care 2001, 24:124-30.
+23. Hiss RG: Barriers to care in non-insulin-dependent diabetes mellitus, The
+Michigan experience. Ann Intern Med 1996, 124(1 Part 2):146-8.
+24. Wagner EH, Austin B, Von Korff M: Improving outcomes in chronic illness.
+Manag Care Q 1996, 4(2):12-25.
+25. Wagner EH, Davis C, Schaefer J, Von Korff M, Austin B: A survey of leading
+chronic disease management programs: Are they consistent with theliterature? Manag Care Q 1999, 7(3):56-66.
+26. Wagner EH, Austin BT, Von Korff M: Organizing care for patients with
+chronic illness. Milbank Quarterly 1996, 74:511-44.
+27.
+Cabana M, Rand CS, Powe NR, Wu AW, Wilson MH, Abboud PA, Rubin HR:
+Why don ’t physicians follow clinical practice guidelines?: A framework
+for improvement. JAMA 1999, 282:1458-65.
+28. Norris SL, Engelgau MM, Narayan KM: Effectiveness of self-management
+training in type 2 diabetes: Systematic review of randomized controlledtrials. Diabetes Care 2001, 24(3) :561-87.
+29. Polonsky WH, Earles J, Smith S, Pease DJ, Macmillan M, Christensen R,
+Taylor T, Dickert J, Jackson RA: Integrating medical management with
+diabetes self-management training: a randomized control trial of theDiabetes Outpatient Intensive Treatment program. Diabetes Care 2003,
+26(11) :3048-53.
+30. Norris SL, Nichols PJ, Caspersen CJ, Glasgow RE, Engelgau MM, Jack L,
+Snyder SR, Carande-Kulis VG, Isham G, Garfield S, Briss P, McCulloch D:
+Increasing diabetes self-management education in community settings.
+A systematic review. Am J Prev Med 2002, 22(4 Supp) :39-66.
+31. Clark NM, Becker MH, Lorig K, Rakowski W, Anderson L: Self-management
+of chronic disease by older adults: A review and questions for research.J Aging Health 1991, 3(1):3-27.
+32. Lorig KR, Sobel DS, Stewart AL, Brown BW, Bandura A, Ritter P,
+Gonzalez VM, Laurent DD, Holman HR: Evidence suggesting that a chronic
+disease self-management program can improve health status whilereducing hospitalization: A randomized trial. Med Care 1999, 37(1) :5-14.
+33. Glasgow RE, Linnan LA: Evaluation of theory-based interventions. In
+Health Behavior and Health Education: Theory, Research, and Practice.. 4
+edition. Edited by: Glanz K, Rimer BK, Viswanath K. San Francisco, CA:Jossey-Bass; 2008:487-508.
+34. Gaglio B, Glasgow RE: Evaluation Approaches for Dissemination and
+Implementation Research. InDissemination and Implementation Research
+Edited by: Brownson R 2011.
+35. Glasgow RE, McKay HG, Piette JD, Reynolds KD: The RE-AIM framework for
+evaluating interventions: What can it tell us about approaches tochronic illness management? Patient Educ Couns 2001, 44:119-27, PMID
+11479052.36. Glasgow RE: RE-AIMing research for application: Ways to improve
+evidence for family practice. Journal of the American Board of Family
+Practice 2006, 19(1) :11-9, PMID: 16492000.
+37. Yarnell KS, Pollack KI, Ostbye T, Krause KM, Michener JL: Primary care: Is
+there enough time for prevention? Am J Public Health 2003, 93(4) :635-41.
+38. Ostbye T, Yarnall KS, Krause KM, Pollak KI, Gradison M, Michener JL: Is there
+time for management of patients with chronic diseases in primary care?Ann Fam Med 2005, 3(3):209-14.
+39. Glasgow RE, Toobert DJ, Hampson SE, Strycker LA: Implementing,
+generalization and long-term results of the ‘choosing well ’diabetes self-
+management intervention. Patient Educ Couns 2001, 48(2) :115-22.
+40. Glasgow RE, Nutting PA, King DK, Nelson CC, Cutter G, Gaglio B, Kulchak
+Rahm A, Whitesides H, Amthauer H: A
+ practical randomized trial to
+improve diabetes care. J Gen Intern Med 2004, 19(12) :1167-74, PMID
+15610326.
+41. Fisher L, Skaff MM, Mulllan JT, Arean P, Mohr D, Masharani U, Glasgow R,
+Laurencin G: Clinical depression versus distress among patients with
+type 2 diabetes: Not just a question of semantics. Diabetes Care 2007,
+30(3) :542-8.
+42. Fisher L, Skaff MM, Mullan JT, Arean P, Glasgow R, Masharani U: A
+longitudinal study of affective and anxiety disorders, depressive affectand diabetes distress in adults with type 2 diabetes. Diabetic Med 2008,
+25:1096-101.
+43. Fisher L, Mullan JT, Arean P, Glasgow RE, Hessler D, Masharani U: Diabetes
+distress and not clinical depression or depressive affect is associatedwith glycemic control in both corss-sectional and longitudinal analyses.Diabetes Care 2010, 33:23-8.
+44. Glasgow RE, Kurz D, King DK, Dickman JM, Faber AJ, Halterman E, Wooley T,
+Toobert DJ, Strycker LA, Estabrooks PA, Osuna D, Ritzwoller D: Outcomes of
+a minimal versus moderate support versions of an internet-based
+diabetes self-management support program. J Gen Int Med 2010,
+25(12) :1315-22.
+45. Toobert DJ, Strycker LA, Barrera M Jr, Osuna D, King DK, Glasgow RE:
+Outcomes from a Multiple-Risk-Factor Diabetes Self-Management Trial
+for Latinas: ¡Viva Bien! Trans Behav Med 2011, 41(3) :310-23.
+46. Glasgow RE, Ory MG, Klesges LM, Cifuentes M, Fernald DH, Green LA:
+Practical and relevant self-report measures of patient health behaviors
+for primary care research. Annals of Family Medicine 2005, 3:73-81.
+47. Paxton A, Strycker LA, Toobert DJ, Ammerman AS, Glasgow RE: Starting the
+Conversation: Performance of a brief dietary assessment and
+intervention tool for health professionals. Am J Prev Med 2010,
+40(1) :67-71.
+48. Kroenke K, Spitzer RL, Williams JB: The PHQ-9: Validity of a brief
+depression severity measure. J Gen Intern Med 2001, 16(9) :606-13.
+49. Kroenke K, Spitzer RL: The PHQ-9: A new depression diagnostic and
+severity measure. Psychiatr Ann 2002, 32(9) :1-7.
+50. Williams GC, Lynch M, Glasgow RE: Computer-assisted intervention
+improve patient-centered diabetes care by increasing autonomy supportand perceived competence. Health Psychol 2007, 26(6) :728-34.
+51. Strecher V: Internet methods for delivering behavioral and health-related
+interventions (eHealth). Annu Rev Clin Psychol 2007, 3:53-76.
+52. Kreuter MW, Wray RJ: Tailored and targeted health communication:
+strategies for enhancing information relevance. Am J Health Behav 2003,
+27(Suppl 3):S227-S232.
+53. Wing RR, Hill JO: Successful weight loss maintenance. Annu Rev Nutr 2001,
+21:323-41.
+54. Phelan S, Liu T, Gorin A, Lowe M, Hogan J, Fava J, Wing RR: What
+distinguishes
+weight-loss maintainers from the treatment-seeking
+obese? Analysis of environmental, behavioral, and psychosocial variablesin diverse populations. Ann Behav Med 2009, 38(2) :94-104.
+55. Wing RR, Hill JO: Successful weight loss maintenance. Ann Rev Nutr 2001,
+21:323-41.
+56. Bennett GG, Glasgow RE: The delivery of public health interventions via
+the Internet: Actualizing their potential. Annu Rev Public Health 2009,
+30:273-92.
+57. Kerner J, Rimer B, Emmons K: Introduction to the special section on
+dissemination: Dissemination research and research dissemination: Howcan we close the gap? Health Psychol 2005, 24(5) :443-6.
+58. Klesges LM, Estabrooks PA, Glasgow RE, Dzewaltowski D: Beginning with
+the application in mind: Designing and planning health behaviorGlasgow et al .Implementation Science 2011, 6:118
+http://www.implementationscience.com/content/6/1/118Page 10 of 11
+change interventions to enhance dissemination. Ann Behav Med 2005,
+29(Suppl) :66S-75S, PMID 15921491.
+59. Wagner EH, Austin BT, Davis C, Hindmarsh M, Schaefer J: Improving
+chronic illness care: Translating evidence into action. Health Aff 2001,
+20:64-78.
+60. Glasgow RE, Eakin EG, Fisher EB, Bacak SJ, Brownson RC: Physician advice
+and support for physical activity: Results from a national survey. Am J
+Prev Med 2001, 21(3) :189-96.
+61. Glasgow RE, Wagner E, Schaefer J, Mahoney L, Reid R, Greene S:
+Development and validation of the Patient Assessment of Chronic
+Illness Care (PACIC). Med Care 2005, 43(5) :436-44.
+62. Glasgow RE, Nutting PA, King DK, Nelson CC, Cutter G, Gaglio B, Rahm AK,
+Whitesides H: Randomized effectiveness trial of a computer-assisted
+intervention to improve diabetes care. Diabetes Care 2005, 28(1) :33-9.
+63. Glasgow RE, Nelson CC, Strycker LA, King DK: Using RE-AIM metrics to
+evaluate diabetes self-management support interventions. Am J Prev Med
+2006, 30(1) :67-73, PMID 16414426.
+64. Jilcott S, Ammerman C, Sommers J, Glasgow RE: Applying the RE-AIM
+framework to assess the public health impact of policy change. Ann
+Behav Med 2007, 34(2) :105-14.
+65. Estabrooks PA, Bradshaw M, Dzewaltowski DA, Smith-Ray RL: Determining
+the impact of Walk Kansas: applying a team-building approach tocommunity physical activity promotion. Ann Behav Med 2008, 36(1) :1-12.
+66. King DK, Glasgow RE, Leeman-Castillo B: RE-AIMing RE-AIM: Using the
+model to plan, implement, evaluate, and report the impact ofenvironmental change approaches to enhance population health. Am J
+Public Health 2010, 100:2076-2084.
+doi:10.1186/1748-5908-6-118
+Cite this article as: Glasgow et al .:Use of RE-AIM to develop a multi-
+media facilitation tool for the patient-centered medical home.Implementation Science 2011 6:118.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at 
+www.biomedcentral.com/submitGlasgow et al .Implementation Science 2011, 6:118
+http://www.implementationscience.com/content/6/1/118Page 11 of 11
